@@ -1,10 +1,211 @@
 {
-  "update_time": "2026-05-27 11:00:00",
-  "total": 0,
+  "update_time": "2026-05-27 11:49:05",
+  "total": 6,
   "sports_count": 0,
-  "movie_count": 0,
-  "all": [],
+  "movie_count": 6,
+  "all": [
+    {
+      "title": "豆瓣热门电影：世界的主人",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影",
+        "豆瓣电影",
+        "豆瓣电影",
+        "豆瓣电影"
+      ],
+      "hot_value": 319942.6,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E4%B8%8E%E7%8E%8B%E7%94%9F%E6%B4%BB%E7%9A%84%E7%94%B7%E4%BA%BA"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：世界的主人"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
+    {
+      "title": "豆瓣热门电影：爱情抓马",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影",
+        "豆瓣电影"
+      ],
+      "hot_value": 135394.1,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E6%9C%A8%E4%B9%83%E4%BC%8A"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：爱情抓马"
+      ],
+      "rank": 2,
+      "movie_rank": 2
+    },
+    {
+      "title": "豆瓣热门电影：挽救计划",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影"
+      ],
+      "hot_value": 131890.6,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：挽救计划"
+      ],
+      "rank": 3,
+      "movie_rank": 3
+    },
+    {
+      "title": "豆瓣热门电影：蒙特利尔，我的美人",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影"
+      ],
+      "hot_value": 77355.3,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94%EF%BC%8C%E6%88%91%E7%9A%84%E7%BE%8E%E4%BA%BA"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：蒙特利尔，我的美人"
+      ],
+      "rank": 4,
+      "movie_rank": 4
+    },
+    {
+      "title": "豆瓣热门电影：惩罚者：最后一击",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影"
+      ],
+      "hot_value": 68510.5,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E6%83%A9%E7%BD%9A%E8%80%85%EF%BC%9A%E6%9C%80%E5%90%8E%E4%B8%80%E5%87%BB"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：惩罚者：最后一击"
+      ],
+      "rank": 5,
+      "movie_rank": 5
+    },
+    {
+      "title": "豆瓣热门电影：长夜将尽",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影"
+      ],
+      "hot_value": 65985.8,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E9%95%BF%E5%A4%9C%E5%B0%86%E5%B0%BD"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：长夜将尽"
+      ],
+      "rank": 6,
+      "movie_rank": 6
+    }
+  ],
   "sports": [],
-  "movies": [],
-  "note": "首次部署，等待第一次自动更新..."
+  "movies": [
+    {
+      "title": "豆瓣热门电影：世界的主人",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影",
+        "豆瓣电影",
+        "豆瓣电影",
+        "豆瓣电影"
+      ],
+      "hot_value": 319942.6,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E4%B8%8E%E7%8E%8B%E7%94%9F%E6%B4%BB%E7%9A%84%E7%94%B7%E4%BA%BA"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：世界的主人"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
+    {
+      "title": "豆瓣热门电影：爱情抓马",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影",
+        "豆瓣电影"
+      ],
+      "hot_value": 135394.1,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E6%9C%A8%E4%B9%83%E4%BC%8A"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：爱情抓马"
+      ],
+      "rank": 2,
+      "movie_rank": 2
+    },
+    {
+      "title": "豆瓣热门电影：挽救计划",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影"
+      ],
+      "hot_value": 131890.6,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：挽救计划"
+      ],
+      "rank": 3,
+      "movie_rank": 3
+    },
+    {
+      "title": "豆瓣热门电影：蒙特利尔，我的美人",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影"
+      ],
+      "hot_value": 77355.3,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94%EF%BC%8C%E6%88%91%E7%9A%84%E7%BE%8E%E4%BA%BA"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：蒙特利尔，我的美人"
+      ],
+      "rank": 4,
+      "movie_rank": 4
+    },
+    {
+      "title": "豆瓣热门电影：惩罚者：最后一击",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影"
+      ],
+      "hot_value": 68510.5,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E6%83%A9%E7%BD%9A%E8%80%85%EF%BC%9A%E6%9C%80%E5%90%8E%E4%B8%80%E5%87%BB"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：惩罚者：最后一击"
+      ],
+      "rank": 5,
+      "movie_rank": 5
+    },
+    {
+      "title": "豆瓣热门电影：长夜将尽",
+      "category": "影视",
+      "sources": [
+        "豆瓣电影"
+      ],
+      "hot_value": 65985.8,
+      "urls": {
+        "豆瓣电影": "https://movie.douban.com/subject_search?search_text=%E9%95%BF%E5%A4%9C%E5%B0%86%E5%B0%BD"
+      },
+      "raw_titles": [
+        "豆瓣热门电影：长夜将尽"
+      ],
+      "rank": 6,
+      "movie_rank": 6
+    }
+  ]
 }
