@@ -109,7 +109,11 @@ def safe_request(url, headers=None, timeout=TIMEOUT):
     return None
 
 def classify_topic(title):
-    title_lower = title.lower()
+    # 强制排除 - 这些标题无论命中什么关键词都不算影视/体育
+    FORCE_EXCLUDE = ["武契奇", "火影手游"]
+    if any(kw in title for kw in FORCE_EXCLUDE):
+        return None
+
     is_sports = any(kw in title for kw in SPORTS_KEYWORDS)
     is_movie = any(kw in title for kw in MOVIE_KEYWORDS)
     if is_sports and is_movie:
@@ -311,7 +315,7 @@ def fetch_douban_movie():
         })
         if resp:
             html = resp.text
-            pattern = r'<div class="pl2">.*?<a[^>]*>(.*?)</a>.*?<span class="rating_nums">([\d.]+)</span>.*?<span class="pl">\((\d+)人评价\)</span>'
+            pattern = r'<div class="pl2">.*?<<a[^>]*>(.*?)</a>.*?<<span class="rating_nums">([\d.]+)</span>.*?<<span class="pl">\((\d+)人评价\)</span>'
             matches = re.findall(pattern, html, re.DOTALL)
             for i, (title_raw, rating, people) in enumerate(matches[:15]):
                 title = re.sub(r"<[^>]+>", "", title_raw).strip().split("/")[0].strip()
@@ -339,7 +343,7 @@ def fetch_douban_tv():
         })
         if resp:
             html = resp.text
-            pattern = r'<em>(.*?)</em>.*?<span class="rating_nums">([\d.]+)</span>'
+            pattern = r'<em>(.*?)</em>.*?<<span class="rating_nums">([\d.]+)</span>'
             matches = re.findall(pattern, html, re.DOTALL)
             for i, (title_raw, rating) in enumerate(matches[:15]):
                 title = re.sub(r"<[^>]+>", "", title_raw).strip()
@@ -358,7 +362,7 @@ def fetch_douban_tv():
 
 def main():
     print(f"[{now_beijing().strftime('%Y-%m-%d %H:%M:%S')}] 开始抓取影视+体育话题...")
-
+    
     all_items = []
     sources = [
         ("微博", fetch_weibo),
@@ -369,7 +373,7 @@ def main():
         ("豆瓣电影", fetch_douban_movie),
         ("豆瓣剧集", fetch_douban_tv),
     ]
-
+    
     for name, func in sources:
         try:
             items = func()
@@ -377,7 +381,7 @@ def main():
             all_items.extend(items)
         except Exception as e:
             print(f"  [{name}] 抓取失败: {e}")
-
+    
     if not all_items:
         print("[ERROR] 所有数据源均失败，保留旧数据")
         if os.path.exists(DATA_FILE):
@@ -388,21 +392,36 @@ def main():
             with open(DATA_FILE, 'w', encoding='utf-8') as f2:
                 json.dump(old, f2, ensure_ascii=False, indent=2)
         return
-
+    
     merged = merge_topics(all_items)
     merged.sort(key=lambda x: x["hot_value"], reverse=True)
-
+    
     for i, m in enumerate(merged, 1):
         m["rank"] = i
-
+    
+    # 体育榜
     sports = [m for m in merged if m["category"] in ("体育", "综合")]
-    movies = [m for m in merged if m["category"] in ("影视", "综合")]
-
+    
+    # 影视榜 - 过滤特定内容和豆瓣来源
+    EXCLUDED_MOVIE_KEYWORDS = ["火影手游", "武契奇"]
+    EXCLUDED_MOVIE_SOURCES = ["豆瓣电影", "豆瓣剧集"]
+    
+    movies = []
+    for m in merged:
+        if m["category"] in ("影视", "综合"):
+            # 排除特定关键词
+            if any(kw in m["title"] for kw in EXCLUDED_MOVIE_KEYWORDS):
+                continue
+            # 排除豆瓣来源
+            if any(src in m.get("sources", []) for src in EXCLUDED_MOVIE_SOURCES):
+                continue
+            movies.append(m)
+    
     for i, m in enumerate(sports, 1):
         m["sports_rank"] = i
     for i, m in enumerate(movies, 1):
         m["movie_rank"] = i
-
+    
     result = {
         "update_time": now_beijing().strftime("%Y-%m-%d %H:%M:%S"),
         "total": len(merged),
@@ -412,11 +431,11 @@ def main():
         "sports": sports[:50],
         "movies": movies[:50],
     }
-
+    
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
     with open(DATA_FILE, 'w', encoding='utf-8') as f2:
         json.dump(result, f2, ensure_ascii=False, indent=2)
-
+    
     print(f"[{now_beijing().strftime('%Y-%m-%d %H:%M:%S')}] 更新完成：综合榜 {len(merged)} 条 | 体育榜 {len(sports)} 条 | 影视榜 {len(movies)} 条")
 
 if __name__ == "__main__":
