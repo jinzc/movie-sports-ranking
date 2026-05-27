@@ -105,7 +105,7 @@ def safe_request(url, headers=None, timeout=TIMEOUT):
         if resp.status_code == 200:
             return resp
     except Exception as e:
-        print(f"[ERROR] Request failed: {url} -> {e}")
+        print(f"  [ERROR] Request failed: {url} -> {e}")
     return None
 
 def classify_topic(title):
@@ -155,104 +155,127 @@ def merge_topics(all_items):
             })
     return merged
 
-
 def fetch_weibo():
     items = []
     try:
-        # 使用免费聚合接口
-        url = "https://www.tianchenw.com/hot/weibo"
-        resp = safe_request(url)
+        url = "https://weibo.com/ajax/side/hotSearch"
+        resp = safe_request(url, headers={
+            **HEADERS,
+            "Referer": "https://weibo.com/"
+        })
         if resp:
             data = resp.json()
-            if data.get("code") == 200 and data.get("data"):
-                for d in data["data"]:
-                    title = d.get("title", "")
+            if data.get("ok") == 1 and data.get("data") and data["data"].get("realtime"):
+                for d in data["data"]["realtime"]:
+                    title = d.get("word", "")
+                    if not title:
+                        continue
                     cat = classify_topic(title)
                     if cat:
+                        hot = d.get("num", 0)
+                        if not hot:
+                            hot = (51 - d.get("realpos", 50)) * 10000
                         items.append({
                             "title": title,
                             "source": "微博",
                             "category": cat,
-                            "hot_value": d.get("hot", 0) or (51 - d.get("index", 50)) * 10000,
-                            "url": d.get("url", "")
+                            "hot_value": hot,
+                            "url": f"https://s.weibo.com/weibo?q={quote(title)}"
                         })
     except Exception as e:
-        print(f"[WARN] Weibo fetch error: {e}")
+        print(f"  [WARN] Weibo fetch error: {e}")
+    return items
+
+def fetch_baidu():
+    items = []
+    try:
+        url = "https://top.baidu.com/api/board?platform=wise&tab=realtime"
+        resp = safe_request(url)
+        if resp:
+            data = resp.json()
+            if data.get("success") and data.get("data") and data["data"].get("cards"):
+                cards = data["data"]["cards"]
+                for card in cards:
+                    if card.get("component") == "tabTextList":
+                        for content in card.get("content", []):
+                            for item in content.get("content", []):
+                                title = item.get("word", "")
+                                if not title:
+                                    continue
+                                cat = classify_topic(title)
+                                if cat:
+                                    idx = item.get("index", 50)
+                                    hot = (51 - idx) * 9000
+                                    items.append({
+                                        "title": title,
+                                        "source": "百度",
+                                        "category": cat,
+                                        "hot_value": hot,
+                                        "url": item.get("url", "")
+                                    })
+    except Exception as e:
+        print(f"  [WARN] Baidu fetch error: {e}")
     return items
 
 def fetch_douyin():
     items = []
     try:
-        url = "https://www.tianchenw.com/hot/douyin"
-        resp = safe_request(url)
+        url = "https://aweme.snssdk.com/aweme/v1/hot/search/list/"
+        resp = safe_request(url, headers={
+            **HEADERS,
+            "Referer": "https://www.douyin.com/"
+        })
         if resp:
             data = resp.json()
-            if data.get("code") == 200 and data.get("data"):
-                for d in data["data"]:
-                    title = d.get("title", "")
+            if data.get("status_code") == 0 and data.get("data") and data["data"].get("word_list"):
+                for d in data["data"]["word_list"]:
+                    title = d.get("word", "")
+                    if not title:
+                        continue
                     cat = classify_topic(title)
                     if cat:
                         items.append({
                             "title": title,
                             "source": "抖音",
                             "category": cat,
-                            "hot_value": d.get("hot", 0) or (51 - d.get("index", 50)) * 8000,
-                            "url": d.get("url", "")
+                            "hot_value": d.get("hot_value", 0) or (51 - d.get("position", 50)) * 8000,
+                            "url": f"https://www.douyin.com/search/{quote(title)}"
                         })
     except Exception as e:
-        print(f"[WARN] Douyin fetch error: {e}")
-    return items
-
-def fetch_baidu():
-    items = []
-    try:
-        url = "https://www.tianchenw.com/hot/baidu"
-        resp = safe_request(url)
-        if resp:
-            data = resp.json()
-            if data.get("code") == 200 and data.get("data"):
-                for d in data["data"]:
-                    title = d.get("title", "")
-                    cat = classify_topic(title)
-                    if cat:
-                        items.append({
-                            "title": title,
-                            "source": "百度",
-                            "category": cat,
-                            "hot_value": d.get("hot", 0) or (51 - d.get("index", 50)) * 9000,
-                            "url": d.get("url", "")
-                        })
-    except Exception as e:
-        print(f"[WARN] Baidu fetch error: {e}")
+        print(f"  [WARN] Douyin fetch error: {e}")
     return items
 
 def fetch_bilibili():
     items = []
     try:
-        url = "https://v.api.aa1.cn/api/bilibili-rs/"
-        resp = safe_request(url)
+        url = "https://api.bilibili.com/x/web-interface/search/square?limit=50"
+        resp = safe_request(url, headers={
+            **HEADERS,
+            "Referer": "https://search.bilibili.com/"
+        })
         if resp:
             data = resp.json()
-            if data.get("code") == 200 and data.get("data"):
-                for d in data["data"]:
-                    title = d.get("title", "")
+            if data.get("code") == 0 and data.get("data") and data["data"].get("trending"):
+                for d in data["data"]["trending"].get("list", []):
+                    title = d.get("keyword", "")
+                    if not title:
+                        continue
                     cat = classify_topic(title)
                     if cat:
                         items.append({
                             "title": title,
                             "source": "哔哩哔哩",
                             "category": cat,
-                            "hot_value": d.get("hot", 0) or (51 - d.get("index", 50)) * 7000,
-                            "url": d.get("url", "")
+                            "hot_value": d.get("heat_score", 0) or 50000,
+                            "url": f"https://search.bilibili.com/all?keyword={quote(title)}"
                         })
     except Exception as e:
-        print(f"[WARN] Bilibili fetch error: {e}")
+        print(f"  [WARN] Bilibili fetch error: {e}")
     return items
 
 def fetch_hupu():
     items = []
     try:
-        # 虎扑NBA热帖
         url = "https://bbs.hupu.com/all-nba"
         resp = safe_request(url, headers={
             **HEADERS,
@@ -260,14 +283,12 @@ def fetch_hupu():
         })
         if resp:
             html = resp.text
-            # 提取帖子标题和链接
             pattern = r'<a[^>]*class="[^"]*truetit[^"]*"[^>]*href="(/[^"]+)"[^>]*>(.*?)</a>'
             matches = re.findall(pattern, html)
             for i, (href, title_raw) in enumerate(matches[:30]):
                 title = re.sub(r"<[^>]+>", "", title_raw).strip()
                 if not title:
                     continue
-                # 虎扑NBA板块内容默认归为体育
                 cat = classify_topic(title) or "体育"
                 items.append({
                     "title": title,
@@ -277,7 +298,7 @@ def fetch_hupu():
                     "url": f"https://bbs.hupu.com{href}"
                 })
     except Exception as e:
-        print(f"[WARN] Hupu fetch error: {e}")
+        print(f"  [WARN] Hupu fetch error: {e}")
     return items
 
 def fetch_douban_movie():
@@ -290,7 +311,6 @@ def fetch_douban_movie():
         })
         if resp:
             html = resp.text
-            # 提取电影名和评分
             pattern = r'<div class="pl2">.*?<a[^>]*>(.*?)</a>.*?<span class="rating_nums">([\d.]+)</span>.*?<span class="pl">\((\d+)人评价\)</span>'
             matches = re.findall(pattern, html, re.DOTALL)
             for i, (title_raw, rating, people) in enumerate(matches[:15]):
@@ -306,22 +326,19 @@ def fetch_douban_movie():
                     "url": f"https://movie.douban.com/subject_search?search_text={quote(title)}"
                 })
     except Exception as e:
-        print(f"[WARN] Douban movie fetch error: {e}")
+        print(f"  [WARN] Douban movie fetch error: {e}")
     return items
 
 def fetch_douban_tv():
     items = []
     try:
-        url = "https://movie.douban.com/tv/#!/type=tv&status=P&sort=recommend&page_limit=20&page_start=0"
-        # 豆瓣TV热门页面用另一种方式
-        url2 = "https://movie.douban.com/tv/"
-        resp = safe_request(url2, headers={
+        url = "https://movie.douban.com/tv/"
+        resp = safe_request(url, headers={
             **HEADERS,
             "Referer": "https://movie.douban.com/"
         })
         if resp:
             html = resp.text
-            # 尝试匹配热门剧集
             pattern = r'<em>(.*?)</em>.*?<span class="rating_nums">([\d.]+)</span>'
             matches = re.findall(pattern, html, re.DOTALL)
             for i, (title_raw, rating) in enumerate(matches[:15]):
@@ -336,19 +353,17 @@ def fetch_douban_tv():
                     "url": f"https://movie.douban.com/subject_search?search_text={quote(title)}"
                 })
     except Exception as e:
-        print(f"[WARN] Douban TV fetch error: {e}")
+        print(f"  [WARN] Douban TV fetch error: {e}")
     return items
-
 
 def main():
     print(f"[{now_beijing().strftime('%Y-%m-%d %H:%M:%S')}] 开始抓取影视+体育话题...")
 
     all_items = []
-
     sources = [
         ("微博", fetch_weibo),
-        ("抖音", fetch_douyin),
         ("百度", fetch_baidu),
+        ("抖音", fetch_douyin),
         ("哔哩哔哩", fetch_bilibili),
         ("虎扑", fetch_hupu),
         ("豆瓣电影", fetch_douban_movie),
@@ -365,7 +380,6 @@ def main():
 
     if not all_items:
         print("[ERROR] 所有数据源均失败，保留旧数据")
-        # 如果已有旧数据，保留
         if os.path.exists(DATA_FILE):
             with open(DATA_FILE, 'r', encoding='utf-8') as f2:
                 old = json.load(f2)
@@ -375,21 +389,15 @@ def main():
                 json.dump(old, f2, ensure_ascii=False, indent=2)
         return
 
-    # 合并话题
     merged = merge_topics(all_items)
-
-    # 按热度排序
     merged.sort(key=lambda x: x["hot_value"], reverse=True)
 
-    # 分配排名
     for i, m in enumerate(merged, 1):
         m["rank"] = i
 
-    # 分离分类
     sports = [m for m in merged if m["category"] in ("体育", "综合")]
     movies = [m for m in merged if m["category"] in ("影视", "综合")]
 
-    # 重新给分类榜排名
     for i, m in enumerate(sports, 1):
         m["sports_rank"] = i
     for i, m in enumerate(movies, 1):
