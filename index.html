@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>影视+体育热点榜单</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a1a;line-height:1.6}
+  .header{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);color:#fff;padding:32px 20px;text-align:center;position:relative}
+  .header h1{font-size:28px;font-weight:700;letter-spacing:1px}
+  .header .subtitle{color:#a0aec0;font-size:14px;margin-top:8px}
+  .header .update-time{color:#718096;font-size:12px;margin-top:6px}
+  .tabs{display:flex;justify-content:center;gap:8px;padding:16px;background:#fff;border-bottom:1px solid #e2e8f0;position:sticky;top:0;z-index:10}
+  .tab-btn{padding:8px 20px;border-radius:20px;border:none;background:#edf2f7;color:#4a5568;font-size:14px;font-weight:600;cursor:pointer;transition:all .2s}
+  .tab-btn.active{background:#1a1a2e;color:#fff}
+  .tab-btn:hover:not(.active){background:#e2e8f0}
+  .container{max-width:800px;margin:0 auto;padding:20px}
+  .stats{display:flex;gap:12px;margin-bottom:20px;flex-wrap:wrap}
+  .stat-card{flex:1;min-width:120px;background:#fff;border-radius:12px;padding:16px;text-align:center;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+  .stat-card .num{font-size:24px;font-weight:700;color:#1a1a2e}
+  .stat-card .label{font-size:12px;color:#718096;margin-top:4px}
+  .list{background:#fff;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.08);overflow:hidden}
+  .item{display:flex;align-items:center;padding:14px 16px;border-bottom:1px solid #f1f5f9;transition:background .15s;cursor:pointer;text-decoration:none;color:inherit}
+  .item:last-child{border-bottom:none}
+  .item:hover{background:#f8fafc}
+  .rank{width:36px;height:36px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;flex-shrink:0;margin-right:12px}
+  .rank.top3{background:linear-gradient(135deg,#ff6b6b,#ee5a24);color:#fff}
+  .rank.top10{background:linear-gradient(135deg,#ffa502,#ff7f50);color:#fff}
+  .rank.other{background:#edf2f7;color:#4a5568}
+  .content{flex:1;min-width:0}
+  .title{font-size:15px;font-weight:600;color:#1a202c;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .meta{display:flex;align-items:center;gap:8px;margin-top:4px;flex-wrap:wrap}
+  .badge{font-size:11px;padding:2px 8px;border-radius:4px;font-weight:500}
+  .badge-sports{background:#fed7d7;color:#c53030}
+  .badge-movie{background:#c6f6d5;color:#22543d}
+  .badge-mix{background:#feebc8;color:#744210}
+  .source-tag{font-size:11px;color:#a0aec0}
+  .hot{display:flex;align-items:center;gap:4px;color:#e53e3e;font-size:13px;font-weight:600;flex-shrink:0;margin-left:8px}
+  .hot svg{width:14px;height:14px}
+  .empty{text-align:center;padding:60px 20px;color:#a0aec0}
+  .empty svg{width:48px;height:48px;margin-bottom:12px;opacity:.5}
+  .footer{text-align:center;padding:24px;color:#a0aec0;font-size:12px}
+  .loading{text-align:center;padding:40px;color:#a0aec0}
+  @media(max-width:600px){
+    .header h1{font-size:22px}
+    .container{padding:12px}
+    .title{font-size:14px}
+  }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>影视 + 体育 热点榜单</h1>
+  <div class="subtitle">多平台聚合 · 运营参考 · 每小时更新</div>
+  <div class="update-time" id="updateTime">加载中...</div>
+</div>
+
+<div class="tabs">
+  <button class="tab-btn active" onclick="switchTab('all')">综合榜</button>
+  <button class="tab-btn" onclick="switchTab('sports')">体育榜</button>
+  <button class="tab-btn" onclick="switchTab('movies')">影视榜</button>
+</div>
+
+<div class="container">
+  <div class="stats" id="stats"></div>
+  <div class="list" id="list"></div>
+  <div class="footer">数据来源：微博 · 抖音 · 百度 · 哔哩哔哩 · 虎扑 · 豆瓣 · 每小时自动更新</div>
+</div>
+
+<script>
+let currentData = null;
+let currentTab = 'all';
+
+async function loadData(){
+  try{
+    const res = await fetch('data/hot_topics.json?t='+Date.now());
+    if(!res.ok) throw new Error('Network error');
+    currentData = await res.json();
+    render();
+  }catch(e){
+    document.getElementById('list').innerHTML = '<div class="empty"><div>数据加载失败，请稍后刷新</div></div>';
+    document.getElementById('updateTime').textContent = '更新失败';
+  }
+}
+
+function switchTab(tab){
+  currentTab = tab;
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  event.target.classList.add('active');
+  render();
+}
+
+function render(){
+  if(!currentData) return;
+  const data = currentData;
+  document.getElementById('updateTime').textContent = '更新时间：' + data.update_time + '（北京时间）';
+
+  const items = data[currentTab] || [];
+  const count = items.length;
+  const sportsCount = data.sports_count || 0;
+  const movieCount = data.movie_count || 0;
+
+  document.getElementById('stats').innerHTML = `
+    <div class="stat-card"><div class="num">${data.total||0}</div><div class="label">综合话题</div></div>
+    <div class="stat-card"><div class="num">${sportsCount}</div><div class="label">体育话题</div></div>
+    <div class="stat-card"><div class="num">${movieCount}</div><div class="label">影视话题</div></div>
+    <div class="stat-card"><div class="num">${count}</div><div class="label">当前显示</div></div>
+  `;
+
+  if(items.length === 0){
+    document.getElementById('list').innerHTML = '<div class="empty"><div>暂无数据</div></div>';
+    return;
+  }
+
+  let html = '';
+  items.forEach((item, idx) => {
+    const rank = idx + 1;
+    const rankClass = rank <= 3 ? 'top3' : (rank <= 10 ? 'top10' : 'other');
+    const catClass = item.category === '体育' ? 'badge-sports' : (item.category === '影视' ? 'badge-movie' : 'badge-mix');
+    const sources = (item.sources || []).join(' · ');
+    const url = item.urls && Object.values(item.urls)[0] ? Object.values(item.urls)[0] : '#';
+
+    html += `<a class="item" href="${url}" target="_blank" rel="noopener">
+      <div class="rank ${rankClass}">${rank}</div>
+      <div class="content">
+        <div class="title">${escapeHtml(item.title)}</div>
+        <div class="meta">
+          <span class="badge ${catClass}">${item.category}</span>
+          <span class="source-tag">${sources}</span>
+        </div>
+      </div>
+      <div class="hot">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+        ${formatHot(item.hot_value)}
+      </div>
+    </a>`;
+  });
+  document.getElementById('list').innerHTML = html;
+}
+
+function escapeHtml(text){
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function formatHot(n){
+  if(!n) return '-';
+  if(n >= 10000) return (n/10000).toFixed(1) + 'w';
+  return n.toString();
+}
+
+loadData();
+setInterval(loadData, 60000); // 每分钟自动刷新
+</script>
+</body>
+</html>
