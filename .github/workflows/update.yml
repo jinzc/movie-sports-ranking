@@ -2,7 +2,7 @@ name: Update Movie & Sports Hot Topics
 
 on:
   schedule:
-    - cron: '0 * * * *'   # 每小时整点更新
+    - cron: '0 * * * *'   # 每小时整点自动运行
   workflow_dispatch:       # 支持手动触发
 
 permissions:
@@ -27,11 +27,18 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install requests
+        run: pip install requests
 
-      - name: Run update script
-        run: python scripts/update_topics.py
+      - name: Run update script (with 3 retries)
+        run: |
+          for i in 1 2 3; do
+            echo "===== Attempt $i/3 ====="
+            python scripts/update_topics.py && exit 0
+            echo "Attempt $i failed, waiting 20s before retry..."
+            sleep 20
+          done
+          echo "All 3 attempts failed. Keeping previous data."
+          exit 0
 
       - name: Commit and push
         run: |
