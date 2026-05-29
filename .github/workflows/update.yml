@@ -1,9 +1,7 @@
 name: Update Movie & Sports Hot Topics
 
 on:
-  schedule:
-    - cron: '0 * * * *'   # 每小时整点自动运行
-  workflow_dispatch:       # 支持手动触发
+  workflow_dispatch:       # 仅保留手动/外部触发，删除 schedule
 
 permissions:
   contents: write
