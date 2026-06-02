@@ -1,7 +1,7 @@
 {
-  "update_time": "2026-06-02 23:00:54",
-  "total": 27,
-  "sports_count": 11,
+  "update_time": "2026-06-03 00:00:50",
+  "total": 29,
+  "sports_count": 13,
   "movie_count": 16,
   "all": [
     {
@@ -10,13 +10,15 @@
       "sources": [
         "微博",
         "百度",
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 13068884,
+      "hot_value": 19540370,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=CBA%E6%80%BB%E5%86%B3%E8%B5%9B",
         "百度": "https://m.baidu.com/s?word=CBA%E6%80%BB%E5%86%B3%E8%B5%9BG4%EF%BC%9A%E5%B9%BF%E5%8E%A6%E8%83%9C%E4%B8%8A%E6%B5%B7%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/CBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%AC%AC%E5%9B%9B%E5%9C%BA%E5%B9%BF%E5%8E%A6%E8%83%9C%E4%B8%8A%E6%B5%B7"
+        "抖音": "https://www.douyin.com/search/CBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%AC%AC%E5%9B%9B%E5%9C%BA%E5%B9%BF%E5%8E%A6%E8%83%9C%E4%B8%8A%E6%B5%B7",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
         "CBA总决赛"
@@ -33,7 +35,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 10042408,
+      "hot_value": 13215590,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%A4%BA%E5%86%A0",
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%84%8F%E5%A4%A7%E5%88%A9%E9%9D%92%E5%B0%91%E6%9D%AF%E5%A4%BA%E5%86%A0&sa=fyb_news",
@@ -52,7 +54,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7830308,
+      "hot_value": 9280777,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%94%90%E8%AF%84NBA%E8%8F%9C%E9%B8%9F%E8%B5%9B%E5%AD%A3"
       },
@@ -68,7 +70,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7785470,
+      "hot_value": 8348064,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%BC%E8%89%BA%E8%A2%AB%E6%8C%87%E2%80%9C%E4%B8%80%E8%BD%A6%E5%AE%89%E5%85%A8%E5%B8%A6%E5%85%A8%E6%98%AFP%E7%9A%84%E2%80%9D"
       },
@@ -79,52 +81,36 @@
       "movie_rank": 1
     },
     {
-      "title": "张杰工作室发布声明",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7737153,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E"
-      },
-      "raw_titles": [
-        "张杰工作室发布声明"
-      ],
-      "rank": 5,
-      "movie_rank": 2
-    },
-    {
       "title": "媒体评综艺安全带P图",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7694098,
+      "hot_value": 7900493,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E8%AF%84%E7%BB%BC%E8%89%BA%E5%AE%89%E5%85%A8%E5%B8%A6P%E5%9B%BE"
       },
       "raw_titles": [
         "媒体评综艺安全带P图"
       ],
-      "rank": 6,
-      "movie_rank": 3
+      "rank": 5,
+      "movie_rank": 2
     },
     {
-      "title": "美加墨世界杯你最期待谁",
-      "category": "体育",
+      "title": "张杰工作室发布声明",
+      "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7677160,
+      "hot_value": 7821921,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E6%9C%80%E6%9C%9F%E5%BE%85%E8%B0%81"
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E"
       },
       "raw_titles": [
-        "美加墨世界杯你最期待谁"
+        "张杰工作室发布声明"
       ],
-      "rank": 7,
-      "sports_rank": 4
+      "rank": 6,
+      "movie_rank": 3
     },
     {
       "title": "迪丽热巴嘉人六月刊生日封面",
@@ -132,15 +118,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7668326,
+      "hot_value": 7728594,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%98%89%E4%BA%BA%E5%85%AD%E6%9C%88%E5%88%8A%E7%94%9F%E6%97%A5%E5%B0%81%E9%9D%A2"
       },
       "raw_titles": [
         "迪丽热巴嘉人六月刊生日封面"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 4
+    },
+    {
+      "title": "美加墨世界杯倒计时10天",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7726588,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9"
+      },
+      "raw_titles": [
+        "美加墨世界杯倒计时10天"
+      ],
+      "rank": 8,
+      "sports_rank": 4
+    },
+    {
+      "title": "美加墨世界杯你最期待谁",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7719433,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E6%9C%80%E6%9C%9F%E5%BE%85%E8%B0%81"
+      },
+      "raw_titles": [
+        "美加墨世界杯你最期待谁"
+      ],
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "一斩苍穹给国漫上强度了",
@@ -148,14 +166,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7661969,
+      "hot_value": 7681269,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%80%E6%96%A9%E8%8B%8D%E7%A9%B9%E7%BB%99%E5%9B%BD%E6%BC%AB%E4%B8%8A%E5%BC%BA%E5%BA%A6%E4%BA%86"
       },
       "raw_titles": [
         "一斩苍穹给国漫上强度了"
       ],
-      "rank": 9,
+      "rank": 10,
       "movie_rank": 5
     },
     {
@@ -164,15 +182,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1102450,
+      "hot_value": 716314,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E4%BB%B7%E5%BA%93%E9%87%8C%E7%AD%BE%E7%BA%A6"
       },
       "raw_titles": [
         "徐静雨评价库里签约"
       ],
-      "rank": 10,
-      "sports_rank": 5
+      "rank": 11,
+      "sports_rank": 6
     },
     {
       "title": "C罗世界杯能否圆梦",
@@ -180,15 +198,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 975178,
+      "hot_value": 716313,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E8%83%BD%E5%90%A6%E5%9C%86%E6%A2%A6"
       },
       "raw_titles": [
         "C罗世界杯能否圆梦"
       ],
-      "rank": 11,
-      "sports_rank": 6
+      "rank": 12,
+      "sports_rank": 7
     },
     {
       "title": "甲亢哥献唱世界杯宣传曲",
@@ -196,31 +214,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 975176,
+      "hot_value": 716308,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B2%E4%BA%A2%E5%93%A5%E7%8C%AE%E5%94%B1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%A3%E4%BC%A0%E6%9B%B2"
       },
       "raw_titles": [
         "甲亢哥献唱世界杯宣传曲"
       ],
-      "rank": 12,
-      "sports_rank": 7
-    },
-    {
-      "title": "我的童年动画记忆",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 957617,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%8A%A8%E7%94%BB%E8%AE%B0%E5%BF%86"
-      },
-      "raw_titles": [
-        "我的童年动画记忆"
-      ],
       "rank": 13,
-      "movie_rank": 6
+      "sports_rank": 8
     },
     {
       "title": "维尔汀自新世界周年生贺动画",
@@ -228,7 +230,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 555663,
+      "hot_value": 673252,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E5%B0%94%E6%B1%80%E8%87%AA%E6%96%B0%E4%B8%96%E7%95%8C%E5%91%A8%E5%B9%B4%E7%94%9F%E8%B4%BA%E5%8A%A8%E7%94%BB"
       },
@@ -236,71 +238,23 @@
         "维尔汀自新世界周年生贺动画"
       ],
       "rank": 14,
-      "movie_rank": 7
+      "movie_rank": 6
     },
     {
-      "title": "歌剧老师reaction歌手第二期",
+      "title": "我的童年动画记忆",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 489331,
+      "hot_value": 656010,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88reaction%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%8C%E6%9C%9F"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%8A%A8%E7%94%BB%E8%AE%B0%E5%BF%86"
       },
       "raw_titles": [
-        "歌剧老师reaction歌手第二期"
+        "我的童年动画记忆"
       ],
       "rank": 15,
-      "movie_rank": 8
-    },
-    {
-      "title": "詹俊评世界杯葡萄牙队",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 480588,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F"
-      },
-      "raw_titles": [
-        "詹俊评世界杯葡萄牙队"
-      ],
-      "rank": 16,
-      "sports_rank": 8
-    },
-    {
-      "title": "库里正式签约李宁",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453044,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E6%AD%A3%E5%BC%8F%E7%AD%BE%E7%BA%A6%E6%9D%8E%E5%AE%81"
-      },
-      "raw_titles": [
-        "库里正式签约李宁"
-      ],
-      "rank": 17,
-      "sports_rank": 9
-    },
-    {
-      "title": "歌手帮唱嘉宾",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 446577,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E5%B8%AE%E5%94%B1%E5%98%89%E5%AE%BE"
-      },
-      "raw_titles": [
-        "歌手帮唱嘉宾"
-      ],
-      "rank": 18,
-      "movie_rank": 9
+      "movie_rank": 7
     },
     {
       "title": "科隆Major官方预告片",
@@ -308,15 +262,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 438543,
+      "hot_value": 408729,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E5%AE%98%E6%96%B9%E9%A2%84%E5%91%8A%E7%89%87"
       },
       "raw_titles": [
         "科隆Major官方预告片"
       ],
-      "rank": 19,
-      "movie_rank": 10
+      "rank": 16,
+      "movie_rank": 8
+    },
+    {
+      "title": "你好星期六时代少年团 复制粘贴",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 390080,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4"
+      },
+      "raw_titles": [
+        "你好星期六时代少年团 复制粘贴"
+      ],
+      "rank": 17,
+      "movie_rank": 9
     },
     {
       "title": "李登科曝王源事业停滞原因",
@@ -324,15 +294,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 433581,
+      "hot_value": 382249,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%99%BB%E7%A7%91%E6%9B%9D%E7%8E%8B%E6%BA%90%E4%BA%8B%E4%B8%9A%E5%81%9C%E6%BB%9E%E5%8E%9F%E5%9B%A0"
       },
       "raw_titles": [
         "李登科曝王源事业停滞原因"
       ],
-      "rank": 20,
+      "rank": 18,
+      "movie_rank": 10
+    },
+    {
+      "title": "歌剧老师reaction歌手第二期",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 342419,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88reaction%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%8C%E6%9C%9F"
+      },
+      "raw_titles": [
+        "歌剧老师reaction歌手第二期"
+      ],
+      "rank": 19,
       "movie_rank": 11
+    },
+    {
+      "title": "伦纳德19年季后赛高光集锦",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 342092,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BC%A6%E7%BA%B3%E5%BE%B719%E5%B9%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6"
+      },
+      "raw_titles": [
+        "伦纳德19年季后赛高光集锦"
+      ],
+      "rank": 20,
+      "sports_rank": 9
     },
     {
       "title": "迪丽热巴回应没进组",
@@ -340,7 +342,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 366952,
+      "hot_value": 328046,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%BA%94%E6%B2%A1%E8%BF%9B%E7%BB%84"
       },
@@ -351,36 +353,68 @@
       "movie_rank": 12
     },
     {
-      "title": "马宁成20年来唯一世界杯中国主裁判",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 279000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%A9%AC%E5%AE%81%E6%88%9020%E5%B9%B4%E6%9D%A5%E5%94%AF%E4%B8%80%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A3%81%E5%88%A4&sa=fyb_news"
-      },
-      "raw_titles": [
-        "马宁成20年来唯一世界杯中国主裁判"
-      ],
-      "rank": 22,
-      "sports_rank": 10
-    },
-    {
       "title": "肖战 被AI做局",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 266213,
+      "hot_value": 293900,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%A2%ABAI%E5%81%9A%E5%B1%80"
       },
       "raw_titles": [
         "肖战 被AI做局"
       ],
-      "rank": 23,
+      "rank": 22,
       "movie_rank": 13
+    },
+    {
+      "title": "马宁成20年来唯一世界杯中国主裁判",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%A9%AC%E5%AE%81%E6%88%9020%E5%B9%B4%E6%9D%A5%E5%94%AF%E4%B8%80%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A3%81%E5%88%A4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "马宁成20年来唯一世界杯中国主裁判"
+      ],
+      "rank": 23,
+      "sports_rank": 10
+    },
+    {
+      "title": "歌手帮唱嘉宾",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 222217,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E5%B8%AE%E5%94%B1%E5%98%89%E5%AE%BE"
+      },
+      "raw_titles": [
+        "歌手帮唱嘉宾"
+      ],
+      "rank": 24,
+      "movie_rank": 14
+    },
+    {
+      "title": "张家齐和全红婵哥哥一起摘荔枝",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 197671,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%92%8C%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%93%A5%E5%93%A5%E4%B8%80%E8%B5%B7%E6%91%98%E8%8D%94%E6%9E%9D"
+      },
+      "raw_titles": [
+        "张家齐和全红婵哥哥一起摘荔枝"
+      ],
+      "rank": 25,
+      "sports_rank": 11
     },
     {
       "title": "歌手 苏新皓",
@@ -388,30 +422,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 259414,
+      "hot_value": 190834,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20%E8%8B%8F%E6%96%B0%E7%9A%93"
       },
       "raw_titles": [
         "歌手 苏新皓"
       ],
-      "rank": 24,
-      "movie_rank": 14
-    },
-    {
-      "title": "杨幂直播",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 250915,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%9B%B4%E6%92%AD"
-      },
-      "raw_titles": [
-        "杨幂直播"
-      ],
-      "rank": 25,
+      "rank": 26,
       "movie_rank": 15
     },
     {
@@ -420,31 +438,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A7%E5%90%8D%E5%8D%95%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news"
       },
       "raw_titles": [
         "美加墨世界杯大名单引争议"
       ],
-      "rank": 26,
-      "sports_rank": 11
+      "rank": 27,
+      "sports_rank": 12
     },
     {
-      "title": "成毅工作室公章变成晨起琪圆了",
+      "title": "杨幂直播",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 159892,
+      "hot_value": 176899,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E7%AB%A0%E5%8F%98%E6%88%90%E6%99%A8%E8%B5%B7%E7%90%AA%E5%9C%86%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%9B%B4%E6%92%AD"
       },
       "raw_titles": [
-        "成毅工作室公章变成晨起琪圆了"
+        "杨幂直播"
       ],
-      "rank": 27,
+      "rank": 28,
       "movie_rank": 16
+    },
+    {
+      "title": "NBA总决赛最高票价超两百万元",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E6%9C%80%E9%AB%98%E7%A5%A8%E4%BB%B7%E8%B6%85%E4%B8%A4%E7%99%BE%E4%B8%87%E5%85%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "NBA总决赛最高票价超两百万元"
+      ],
+      "rank": 29,
+      "sports_rank": 13
     }
   ],
   "sports": [
@@ -454,13 +488,15 @@
       "sources": [
         "微博",
         "百度",
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 13068884,
+      "hot_value": 19540370,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=CBA%E6%80%BB%E5%86%B3%E8%B5%9B",
         "百度": "https://m.baidu.com/s?word=CBA%E6%80%BB%E5%86%B3%E8%B5%9BG4%EF%BC%9A%E5%B9%BF%E5%8E%A6%E8%83%9C%E4%B8%8A%E6%B5%B7%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/CBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%AC%AC%E5%9B%9B%E5%9C%BA%E5%B9%BF%E5%8E%A6%E8%83%9C%E4%B8%8A%E6%B5%B7"
+        "抖音": "https://www.douyin.com/search/CBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%AC%AC%E5%9B%9B%E5%9C%BA%E5%B9%BF%E5%8E%A6%E8%83%9C%E4%B8%8A%E6%B5%B7",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
         "CBA总决赛"
@@ -477,7 +513,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 10042408,
+      "hot_value": 13215590,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%A4%BA%E5%86%A0",
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%84%8F%E5%A4%A7%E5%88%A9%E9%9D%92%E5%B0%91%E6%9D%AF%E5%A4%BA%E5%86%A0&sa=fyb_news",
@@ -496,7 +532,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7830308,
+      "hot_value": 9280777,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%94%90%E8%AF%84NBA%E8%8F%9C%E9%B8%9F%E8%B5%9B%E5%AD%A3"
       },
@@ -507,20 +543,36 @@
       "sports_rank": 3
     },
     {
+      "title": "美加墨世界杯倒计时10天",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7726588,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9"
+      },
+      "raw_titles": [
+        "美加墨世界杯倒计时10天"
+      ],
+      "rank": 8,
+      "sports_rank": 4
+    },
+    {
       "title": "美加墨世界杯你最期待谁",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7677160,
+      "hot_value": 7719433,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E6%9C%80%E6%9C%9F%E5%BE%85%E8%B0%81"
       },
       "raw_titles": [
         "美加墨世界杯你最期待谁"
       ],
-      "rank": 7,
-      "sports_rank": 4
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "徐静雨评价库里签约",
@@ -528,15 +580,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1102450,
+      "hot_value": 716314,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E4%BB%B7%E5%BA%93%E9%87%8C%E7%AD%BE%E7%BA%A6"
       },
       "raw_titles": [
         "徐静雨评价库里签约"
       ],
-      "rank": 10,
-      "sports_rank": 5
+      "rank": 11,
+      "sports_rank": 6
     },
     {
       "title": "C罗世界杯能否圆梦",
@@ -544,15 +596,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 975178,
+      "hot_value": 716313,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E8%83%BD%E5%90%A6%E5%9C%86%E6%A2%A6"
       },
       "raw_titles": [
         "C罗世界杯能否圆梦"
       ],
-      "rank": 11,
-      "sports_rank": 6
+      "rank": 12,
+      "sports_rank": 7
     },
     {
       "title": "甲亢哥献唱世界杯宣传曲",
@@ -560,46 +612,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 975176,
+      "hot_value": 716308,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B2%E4%BA%A2%E5%93%A5%E7%8C%AE%E5%94%B1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%A3%E4%BC%A0%E6%9B%B2"
       },
       "raw_titles": [
         "甲亢哥献唱世界杯宣传曲"
       ],
-      "rank": 12,
-      "sports_rank": 7
-    },
-    {
-      "title": "詹俊评世界杯葡萄牙队",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 480588,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F"
-      },
-      "raw_titles": [
-        "詹俊评世界杯葡萄牙队"
-      ],
-      "rank": 16,
+      "rank": 13,
       "sports_rank": 8
     },
     {
-      "title": "库里正式签约李宁",
+      "title": "伦纳德19年季后赛高光集锦",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 453044,
+      "hot_value": 342092,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E6%AD%A3%E5%BC%8F%E7%AD%BE%E7%BA%A6%E6%9D%8E%E5%AE%81"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BC%A6%E7%BA%B3%E5%BE%B719%E5%B9%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6"
       },
       "raw_titles": [
-        "库里正式签约李宁"
+        "伦纳德19年季后赛高光集锦"
       ],
-      "rank": 17,
+      "rank": 20,
       "sports_rank": 9
     },
     {
@@ -608,15 +644,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%A9%AC%E5%AE%81%E6%88%9020%E5%B9%B4%E6%9D%A5%E5%94%AF%E4%B8%80%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A3%81%E5%88%A4&sa=fyb_news"
       },
       "raw_titles": [
         "马宁成20年来唯一世界杯中国主裁判"
       ],
-      "rank": 22,
+      "rank": 23,
       "sports_rank": 10
+    },
+    {
+      "title": "张家齐和全红婵哥哥一起摘荔枝",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 197671,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%92%8C%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%93%A5%E5%93%A5%E4%B8%80%E8%B5%B7%E6%91%98%E8%8D%94%E6%9E%9D"
+      },
+      "raw_titles": [
+        "张家齐和全红婵哥哥一起摘荔枝"
+      ],
+      "rank": 25,
+      "sports_rank": 11
     },
     {
       "title": "美加墨世界杯大名单引争议",
@@ -624,15 +676,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A7%E5%90%8D%E5%8D%95%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news"
       },
       "raw_titles": [
         "美加墨世界杯大名单引争议"
       ],
-      "rank": 26,
-      "sports_rank": 11
+      "rank": 27,
+      "sports_rank": 12
+    },
+    {
+      "title": "NBA总决赛最高票价超两百万元",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E6%9C%80%E9%AB%98%E7%A5%A8%E4%BB%B7%E8%B6%85%E4%B8%A4%E7%99%BE%E4%B8%87%E5%85%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "NBA总决赛最高票价超两百万元"
+      ],
+      "rank": 29,
+      "sports_rank": 13
     }
   ],
   "movies": [
@@ -642,7 +710,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7785470,
+      "hot_value": 8348064,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%BC%E8%89%BA%E8%A2%AB%E6%8C%87%E2%80%9C%E4%B8%80%E8%BD%A6%E5%AE%89%E5%85%A8%E5%B8%A6%E5%85%A8%E6%98%AFP%E7%9A%84%E2%80%9D"
       },
@@ -653,33 +721,33 @@
       "movie_rank": 1
     },
     {
-      "title": "张杰工作室发布声明",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7737153,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E"
-      },
-      "raw_titles": [
-        "张杰工作室发布声明"
-      ],
-      "rank": 5,
-      "movie_rank": 2
-    },
-    {
       "title": "媒体评综艺安全带P图",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7694098,
+      "hot_value": 7900493,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E8%AF%84%E7%BB%BC%E8%89%BA%E5%AE%89%E5%85%A8%E5%B8%A6P%E5%9B%BE"
       },
       "raw_titles": [
         "媒体评综艺安全带P图"
+      ],
+      "rank": 5,
+      "movie_rank": 2
+    },
+    {
+      "title": "张杰工作室发布声明",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7821921,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E"
+      },
+      "raw_titles": [
+        "张杰工作室发布声明"
       ],
       "rank": 6,
       "movie_rank": 3
@@ -690,14 +758,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7668326,
+      "hot_value": 7728594,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%98%89%E4%BA%BA%E5%85%AD%E6%9C%88%E5%88%8A%E7%94%9F%E6%97%A5%E5%B0%81%E9%9D%A2"
       },
       "raw_titles": [
         "迪丽热巴嘉人六月刊生日封面"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 4
     },
     {
@@ -706,31 +774,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7661969,
+      "hot_value": 7681269,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%80%E6%96%A9%E8%8B%8D%E7%A9%B9%E7%BB%99%E5%9B%BD%E6%BC%AB%E4%B8%8A%E5%BC%BA%E5%BA%A6%E4%BA%86"
       },
       "raw_titles": [
         "一斩苍穹给国漫上强度了"
       ],
-      "rank": 9,
+      "rank": 10,
       "movie_rank": 5
-    },
-    {
-      "title": "我的童年动画记忆",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 957617,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%8A%A8%E7%94%BB%E8%AE%B0%E5%BF%86"
-      },
-      "raw_titles": [
-        "我的童年动画记忆"
-      ],
-      "rank": 13,
-      "movie_rank": 6
     },
     {
       "title": "维尔汀自新世界周年生贺动画",
@@ -738,7 +790,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 555663,
+      "hot_value": 673252,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E5%B0%94%E6%B1%80%E8%87%AA%E6%96%B0%E4%B8%96%E7%95%8C%E5%91%A8%E5%B9%B4%E7%94%9F%E8%B4%BA%E5%8A%A8%E7%94%BB"
       },
@@ -746,39 +798,23 @@
         "维尔汀自新世界周年生贺动画"
       ],
       "rank": 14,
-      "movie_rank": 7
+      "movie_rank": 6
     },
     {
-      "title": "歌剧老师reaction歌手第二期",
+      "title": "我的童年动画记忆",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 489331,
+      "hot_value": 656010,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88reaction%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%8C%E6%9C%9F"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%8A%A8%E7%94%BB%E8%AE%B0%E5%BF%86"
       },
       "raw_titles": [
-        "歌剧老师reaction歌手第二期"
+        "我的童年动画记忆"
       ],
       "rank": 15,
-      "movie_rank": 8
-    },
-    {
-      "title": "歌手帮唱嘉宾",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 446577,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E5%B8%AE%E5%94%B1%E5%98%89%E5%AE%BE"
-      },
-      "raw_titles": [
-        "歌手帮唱嘉宾"
-      ],
-      "rank": 18,
-      "movie_rank": 9
+      "movie_rank": 7
     },
     {
       "title": "科隆Major官方预告片",
@@ -786,15 +822,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 438543,
+      "hot_value": 408729,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E5%AE%98%E6%96%B9%E9%A2%84%E5%91%8A%E7%89%87"
       },
       "raw_titles": [
         "科隆Major官方预告片"
       ],
-      "rank": 19,
-      "movie_rank": 10
+      "rank": 16,
+      "movie_rank": 8
+    },
+    {
+      "title": "你好星期六时代少年团 复制粘贴",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 390080,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4"
+      },
+      "raw_titles": [
+        "你好星期六时代少年团 复制粘贴"
+      ],
+      "rank": 17,
+      "movie_rank": 9
     },
     {
       "title": "李登科曝王源事业停滞原因",
@@ -802,14 +854,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 433581,
+      "hot_value": 382249,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%99%BB%E7%A7%91%E6%9B%9D%E7%8E%8B%E6%BA%90%E4%BA%8B%E4%B8%9A%E5%81%9C%E6%BB%9E%E5%8E%9F%E5%9B%A0"
       },
       "raw_titles": [
         "李登科曝王源事业停滞原因"
       ],
-      "rank": 20,
+      "rank": 18,
+      "movie_rank": 10
+    },
+    {
+      "title": "歌剧老师reaction歌手第二期",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 342419,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88reaction%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%8C%E6%9C%9F"
+      },
+      "raw_titles": [
+        "歌剧老师reaction歌手第二期"
+      ],
+      "rank": 19,
       "movie_rank": 11
     },
     {
@@ -818,7 +886,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 366952,
+      "hot_value": 328046,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%BA%94%E6%B2%A1%E8%BF%9B%E7%BB%84"
       },
@@ -834,15 +902,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 266213,
+      "hot_value": 293900,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%A2%ABAI%E5%81%9A%E5%B1%80"
       },
       "raw_titles": [
         "肖战 被AI做局"
       ],
-      "rank": 23,
+      "rank": 22,
       "movie_rank": 13
+    },
+    {
+      "title": "歌手帮唱嘉宾",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 222217,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E5%B8%AE%E5%94%B1%E5%98%89%E5%AE%BE"
+      },
+      "raw_titles": [
+        "歌手帮唱嘉宾"
+      ],
+      "rank": 24,
+      "movie_rank": 14
     },
     {
       "title": "歌手 苏新皓",
@@ -850,15 +934,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 259414,
+      "hot_value": 190834,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20%E8%8B%8F%E6%96%B0%E7%9A%93"
       },
       "raw_titles": [
         "歌手 苏新皓"
       ],
-      "rank": 24,
-      "movie_rank": 14
+      "rank": 26,
+      "movie_rank": 15
     },
     {
       "title": "杨幂直播",
@@ -866,30 +950,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 250915,
+      "hot_value": 176899,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%9B%B4%E6%92%AD"
       },
       "raw_titles": [
         "杨幂直播"
       ],
-      "rank": 25,
-      "movie_rank": 15
-    },
-    {
-      "title": "成毅工作室公章变成晨起琪圆了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 159892,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E7%AB%A0%E5%8F%98%E6%88%90%E6%99%A8%E8%B5%B7%E7%90%AA%E5%9C%86%E4%BA%86"
-      },
-      "raw_titles": [
-        "成毅工作室公章变成晨起琪圆了"
-      ],
-      "rank": 27,
+      "rank": 28,
       "movie_rank": 16
     }
   ]
