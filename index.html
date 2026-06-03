@@ -36,6 +36,8 @@
   .hot svg{width:14px;height:14px}
   .empty{text-align:center;padding:60px 20px;color:#a0aec0}
   .footer{text-align:center;padding:24px;color:#a0aec0;font-size:12px}
+  .visit-stats{color:#a0aec0;font-size:12px}
+  .visit-stats span[id^="busuanzi_value"]{color:#4a5568;font-weight:600}
   @media(max-width:600px){
     .header h1{font-size:22px}
     .container{padding:12px}
@@ -57,7 +59,15 @@
 
 <div class="container">
   <div class="list" id="list"></div>
-  <div class="footer">数据来源：微博 · 抖音 · 百度 · 哔哩哔哩 · 虎扑 · 豆瓣 · 每小时自动更新</div>
+  <div class="footer">
+    <div>数据来源：微博 · 抖音 · 百度 · 哔哩哔哩 · 虎扑 · 豆瓣 · 每小时自动更新</div>
+    <div class="visit-stats">
+      <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+      <span>📊 本页累计访问 <span id="busuanzi_value_page_pv">-</span> 次</span>
+      <span style="margin:0 8px;">|</span>
+      <span>累计访客 <span id="busuanzi_value_page_uv">-</span> 人</span>
+    </div>
+  </div>
 </div>
 
 <script>
