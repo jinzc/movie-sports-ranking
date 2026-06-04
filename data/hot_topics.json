@@ -1,36 +1,9 @@
 {
-  "update_time": "2026-06-04 13:00:40",
-  "total": 24,
-  "sports_count": 15,
-  "movie_count": 9,
+  "update_time": "2026-06-04 14:00:48",
+  "total": 32,
+  "sports_count": 24,
+  "movie_count": 8,
   "all": [
-    {
-      "title": "世界杯",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度",
-        "百度",
-        "抖音",
-        "抖音",
-        "哔哩哔哩",
-        "哔哩哔哩",
-        "哔哩哔哩",
-        "哔哩哔哩"
-      ],
-      "hot_value": 20106679,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%8D%A7%E8%B5%B7%E2%80%9C%E5%B0%8F%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9D&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E7%94%A8%E6%B0%B4%E7%93%B6%E8%BD%AC%E5%9C%BA%E6%89%93%E5%BC%80%E4%B8%96%E7%95%8C%E6%9D%AF",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B0%9B%E5%9B%B4%E5%8F%98%E6%B7%A1%E4%BA%86%E5%90%97"
-      },
-      "raw_titles": [
-        "世界杯"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "NBA总决赛首场 尼克斯逆转马刺",
       "category": "体育",
@@ -38,7 +11,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 12386968,
+      "hot_value": 11677139,
       "urls": {
         "百度": "https://m.baidu.com/s?word=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A6%96%E5%9C%BA+%E5%B0%BC%E5%85%8B%E6%96%AF%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E5%B0%BC%E5%85%8B%E6%96%AF%E8%83%9C%E9%A9%AC%E5%88%BA"
@@ -46,8 +19,8 @@
       "raw_titles": [
         "NBA总决赛首场 尼克斯逆转马刺"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 1,
+      "sports_rank": 1
     },
     {
       "title": "中国足球小将发长文致谢",
@@ -55,31 +28,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7667372,
+      "hot_value": 7681923,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%8F%91%E9%95%BF%E6%96%87%E8%87%B4%E8%B0%A2"
       },
       "raw_titles": [
         "中国足球小将发长文致谢"
       ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "巴西队开启世界杯首训",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7644696,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%AE%AD"
+      },
+      "raw_titles": [
+        "巴西队开启世界杯首训"
+      ],
       "rank": 3,
       "sports_rank": 3
     },
     {
-      "title": "歌手2026联名赛嘉宾匹配预测",
-      "category": "影视",
+      "title": "哈兰德领衔挪威队出征世界杯",
+      "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7630472,
+      "hot_value": 7637813,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E8%81%94%E5%90%8D%E8%B5%9B%E5%98%89%E5%AE%BE%E5%8C%B9%E9%85%8D%E9%A2%84%E6%B5%8B"
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E9%A2%86%E8%A1%94%E6%8C%AA%E5%A8%81%E9%98%9F%E5%87%BA%E5%BE%81%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
-        "歌手2026联名赛嘉宾匹配预测"
+        "哈兰德领衔挪威队出征世界杯"
       ],
       "rank": 4,
-      "movie_rank": 1
+      "sports_rank": 4
     },
     {
       "title": "用方言给哈利波特片段配音",
@@ -87,7 +76,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7620612,
+      "hot_value": 7628800,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%A8%E6%96%B9%E8%A8%80%E7%BB%99%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E7%89%87%E6%AE%B5%E9%85%8D%E9%9F%B3"
       },
@@ -95,7 +84,7 @@
         "用方言给哈利波特片段配音"
       ],
       "rank": 5,
-      "movie_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "游泳比赛萌娃自信pose亮了",
@@ -103,7 +92,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7410233,
+      "hot_value": 7612767,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B8%B8%E6%B3%B3%E6%AF%94%E8%B5%9B%E8%90%8C%E5%A8%83%E8%87%AA%E4%BF%A1pose%E4%BA%AE%E4%BA%86"
       },
@@ -111,26 +100,73 @@
         "游泳比赛萌娃自信pose亮了"
       ],
       "rank": 6,
-      "sports_rank": 4
+      "sports_rank": 5
+    },
+    {
+      "title": "歌手2026联名赛嘉宾匹配预测",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7612607,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E8%81%94%E5%90%8D%E8%B5%9B%E5%98%89%E5%AE%BE%E5%8C%B9%E9%85%8D%E9%A2%84%E6%B5%8B"
+      },
+      "raw_titles": [
+        "歌手2026联名赛嘉宾匹配预测"
+      ],
+      "rank": 7,
+      "movie_rank": 2
+    },
+    {
+      "title": "用水瓶转场打开世界杯",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7608319,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%A8%E6%B0%B4%E7%93%B6%E8%BD%AC%E5%9C%BA%E6%89%93%E5%BC%80%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "用水瓶转场打开世界杯"
+      ],
+      "rank": 8,
+      "sports_rank": 6
     },
     {
       "title": "尼克斯1比0马刺",
       "category": "体育",
       "sources": [
         "微博",
-        "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 6430499,
+      "hot_value": 3603739,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%B0%BC%E5%85%8B%E6%96%AFvs%E9%A9%AC%E5%88%BA",
+        "微博": "https://s.weibo.com/weibo?q=%E5%B0%BC%E5%85%8B%E6%96%AF1%E6%AF%940%E9%A9%AC%E5%88%BA",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF1-0%E9%A9%AC%E5%88%BA"
       },
       "raw_titles": [
         "尼克斯1比0马刺"
       ],
-      "rank": 7,
-      "sports_rank": 5
+      "rank": 9,
+      "sports_rank": 7
+    },
+    {
+      "title": "全方位解析世界杯英格兰前景",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1286150,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E6%96%B9%E4%BD%8D%E8%A7%A3%E6%9E%90%E4%B8%96%E7%95%8C%E6%9D%AF%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%89%8D%E6%99%AF"
+      },
+      "raw_titles": [
+        "全方位解析世界杯英格兰前景"
+      ],
+      "rank": 10,
+      "sports_rank": 8
     },
     {
       "title": "尼克斯战胜马刺赛后复盘",
@@ -138,15 +174,83 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2638564,
+      "hot_value": 1233173,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF%E6%88%98%E8%83%9C%E9%A9%AC%E5%88%BA%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
         "尼克斯战胜马刺赛后复盘"
       ],
-      "rank": 8,
-      "sports_rank": 6
+      "rank": 11,
+      "sports_rank": 9
+    },
+    {
+      "title": "布伦森意外受伤",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1024028,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%B8%83%E4%BC%A6%E6%A3%AE%E6%84%8F%E5%A4%96%E5%8F%97%E4%BC%A4&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E6%84%8F%E5%A4%96%E5%8F%97%E4%BC%A4"
+      },
+      "raw_titles": [
+        "布伦森意外受伤"
+      ],
+      "rank": 12,
+      "sports_rank": 10
+    },
+    {
+      "title": "解读姆巴佩商业帝国",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 707355,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD"
+      },
+      "raw_titles": [
+        "解读姆巴佩商业帝国"
+      ],
+      "rank": 13,
+      "sports_rank": 11
+    },
+    {
+      "title": "中国小将李昊炎加盟巴萨",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 654839,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8"
+      },
+      "raw_titles": [
+        "中国小将李昊炎加盟巴萨"
+      ],
+      "rank": 14,
+      "sports_rank": 12
+    },
+    {
+      "title": "世界杯豪强战术拆解之比利时",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 508445,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B1%AA%E5%BC%BA%E6%88%98%E6%9C%AF%E6%8B%86%E8%A7%A3%E4%B9%8B%E6%AF%94%E5%88%A9%E6%97%B6"
+      },
+      "raw_titles": [
+        "世界杯豪强战术拆解之比利时"
+      ],
+      "rank": 15,
+      "sports_rank": 13
     },
     {
       "title": "布伦森全场独砍30分集锦",
@@ -154,52 +258,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2536082,
+      "hot_value": 495972,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E5%85%A8%E5%9C%BA%E7%8B%AC%E7%A0%8D30%E5%88%86%E9%9B%86%E9%94%A6"
       },
       "raw_titles": [
         "布伦森全场独砍30分集锦"
       ],
-      "rank": 9,
-      "sports_rank": 7
+      "rank": 16,
+      "sports_rank": 14
     },
     {
-      "title": "李昊炎加盟巴萨",
+      "title": "葡萄牙世界杯能否夺冠",
       "category": "体育",
       "sources": [
-        "微博",
-        "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 1476865,
+      "hot_value": 459054,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E8%83%BD%E5%90%A6%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "李昊炎加盟巴萨"
+        "葡萄牙世界杯能否夺冠"
       ],
-      "rank": 10,
-      "sports_rank": 8
+      "rank": 17,
+      "sports_rank": 15
+    },
+    {
+      "title": "今年世界杯氛围变淡了吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 439834,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B0%9B%E5%9B%B4%E5%8F%98%E6%B7%A1%E4%BA%86%E5%90%97"
+      },
+      "raw_titles": [
+        "今年世界杯氛围变淡了吗"
+      ],
+      "rank": 18,
+      "sports_rank": 16
     },
     {
       "title": "NBA总决赛球迷冲场",
       "category": "体育",
       "sources": [
-        "微博",
         "微博"
       ],
-      "hot_value": 1298707,
+      "hot_value": 432483,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "微博": "https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%90%83%E8%BF%B7%E5%86%B2%E5%9C%BA"
       },
       "raw_titles": [
         "NBA总决赛球迷冲场"
       ],
-      "rank": 11,
-      "sports_rank": 9
+      "rank": 19,
+      "sports_rank": 17
+    },
+    {
+      "title": "歌手第三期歌单",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 411529,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E6%AD%8C%E5%8D%95"
+      },
+      "raw_titles": [
+        "歌手第三期歌单"
+      ],
+      "rank": 20,
+      "movie_rank": 3
     },
     {
       "title": "F1法拉利与勒克莱尔续约",
@@ -207,95 +338,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 826467,
+      "hot_value": 391014,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%B3%95%E6%8B%89%E5%88%A9%E4%B8%8E%E5%8B%92%E5%85%8B%E8%8E%B1%E5%B0%94%E7%BB%AD%E7%BA%A6"
       },
       "raw_titles": [
         "F1法拉利与勒克莱尔续约"
       ],
-      "rank": 12,
-      "sports_rank": 10
+      "rank": 21,
+      "sports_rank": 18
     },
     {
-      "title": "曝皇马有意签下卡拉菲奥里",
+      "title": "NBA球队B站粉丝排名",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 479391,
+      "hot_value": 351304,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%9A%87%E9%A9%AC%E6%9C%89%E6%84%8F%E7%AD%BE%E4%B8%8B%E5%8D%A1%E6%8B%89%E8%8F%B2%E5%A5%A5%E9%87%8C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E7%90%83%E9%98%9FB%E7%AB%99%E7%B2%89%E4%B8%9D%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
-        "曝皇马有意签下卡拉菲奥里"
+        "NBA球队B站粉丝排名"
       ],
-      "rank": 13,
-      "sports_rank": 11
-    },
-    {
-      "title": "杨紫吐槽横店怎么会有这么多坏马",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 427934,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%90%90%E6%A7%BD%E6%A8%AA%E5%BA%97%E6%80%8E%E4%B9%88%E4%BC%9A%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%9D%8F%E9%A9%AC"
-      },
-      "raw_titles": [
-        "杨紫吐槽横店怎么会有这么多坏马"
-      ],
-      "rank": 14,
-      "movie_rank": 3
-    },
-    {
-      "title": "杨紫扛剧能力",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 341684,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%89%9B%E5%89%A7%E8%83%BD%E5%8A%9B"
-      },
-      "raw_titles": [
-        "杨紫扛剧能力"
-      ],
-      "rank": 15,
-      "movie_rank": 4
-    },
-    {
-      "title": "飞机上偶遇张凌赫睡觉",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 338706,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9D%A1%E8%A7%89"
-      },
-      "raw_titles": [
-        "飞机上偶遇张凌赫睡觉"
-      ],
-      "rank": 16,
-      "movie_rank": 5
-    },
-    {
-      "title": "NBA总决赛有观众冲进场找文班自拍",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 324000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E6%9C%89%E8%A7%82%E4%BC%97%E5%86%B2%E8%BF%9B%E5%9C%BA%E6%89%BE%E6%96%87%E7%8F%AD%E8%87%AA%E6%8B%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "NBA总决赛有观众冲进场找文班自拍"
-      ],
-      "rank": 17,
-      "sports_rank": 12
+      "rank": 22,
+      "sports_rank": 19
     },
     {
       "title": "《给阿嬷的情书》火了电影人集体沉默",
@@ -310,40 +377,72 @@
       "raw_titles": [
         "《给阿嬷的情书》火了电影人集体沉默"
       ],
-      "rank": 18,
+      "rank": 23,
+      "movie_rank": 4
+    },
+    {
+      "title": "飞机上偶遇张凌赫睡觉",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 294974,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9D%A1%E8%A7%89"
+      },
+      "raw_titles": [
+        "飞机上偶遇张凌赫睡觉"
+      ],
+      "rank": 24,
+      "movie_rank": 5
+    },
+    {
+      "title": "袁咏仪孟子义桃花坞师徒合体",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 227769,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%A2%81%E5%92%8F%E4%BB%AA%E5%AD%9F%E5%AD%90%E4%B9%89%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%B8%88%E5%BE%92%E5%90%88%E4%BD%93"
+      },
+      "raw_titles": [
+        "袁咏仪孟子义桃花坞师徒合体"
+      ],
+      "rank": 25,
       "movie_rank": 6
     },
     {
-      "title": "周迅朴叙俊金高银同框",
-      "category": "影视",
+      "title": "中国足球小将捧起“小世界杯”",
+      "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 161553,
+      "hot_value": 207000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%E6%9C%B4%E5%8F%99%E4%BF%8A%E9%87%91%E9%AB%98%E9%93%B6%E5%90%8C%E6%A1%86"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%8D%A7%E8%B5%B7%E2%80%9C%E5%B0%8F%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "周迅朴叙俊金高银同框"
+        "中国足球小将捧起“小世界杯”"
       ],
-      "rank": 19,
-      "movie_rank": 7
+      "rank": 26,
+      "sports_rank": 20
     },
     {
-      "title": "歌手第三期歌单",
+      "title": "杨紫吐槽横店怎么会有这么多坏马",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 135362,
+      "hot_value": 206438,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E6%AD%8C%E5%8D%95"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%90%90%E6%A7%BD%E6%A8%AA%E5%BA%97%E6%80%8E%E4%B9%88%E4%BC%9A%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%9D%8F%E9%A9%AC"
       },
       "raw_titles": [
-        "歌手第三期歌单"
+        "杨紫吐槽横店怎么会有这么多坏马"
       ],
-      "rank": 20,
-      "movie_rank": 8
+      "rank": 27,
+      "movie_rank": 7
     },
     {
       "title": "6岁双胞胎萌娃游泳比赛前摆花式姿势",
@@ -351,101 +450,90 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 117000,
+      "hot_value": 171000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=6%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E8%90%8C%E5%A8%83%E6%B8%B8%E6%B3%B3%E6%AF%94%E8%B5%9B%E5%89%8D%E6%91%86%E8%8A%B1%E5%BC%8F%E5%A7%BF%E5%8A%BF&sa=fyb_news"
       },
       "raw_titles": [
         "6岁双胞胎萌娃游泳比赛前摆花式姿势"
       ],
-      "rank": 21,
-      "sports_rank": 13
+      "rank": 28,
+      "sports_rank": 21
     },
     {
-      "title": "布伦森意外受伤",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 99000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B8%83%E4%BC%A6%E6%A3%AE%E6%84%8F%E5%A4%96%E5%8F%97%E4%BC%A4&sa=fyb_news"
-      },
-      "raw_titles": [
-        "布伦森意外受伤"
-      ],
-      "rank": 22,
-      "sports_rank": 14
-    },
-    {
-      "title": "内存还在“狂飙”",
+      "title": "杨紫扛剧能力",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 72000,
+      "hot_value": 169715,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%86%85%E5%AD%98%E8%BF%98%E5%9C%A8%E2%80%9C%E7%8B%82%E9%A3%99%E2%80%9D&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%89%9B%E5%89%A7%E8%83%BD%E5%8A%9B"
       },
       "raw_titles": [
-        "内存还在“狂飙”"
+        "杨紫扛剧能力"
       ],
-      "rank": 23,
-      "movie_rank": 9
+      "rank": 29,
+      "movie_rank": 8
     },
     {
-      "title": "法网女单四强名单出炉",
+      "title": "网球王子系列完结",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 166930,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%90%83%E7%8E%8B%E5%AD%90%E7%B3%BB%E5%88%97%E5%AE%8C%E7%BB%93"
+      },
+      "raw_titles": [
+        "网球王子系列完结"
+      ],
+      "rank": 30,
+      "sports_rank": 22
+    },
+    {
+      "title": "世界杯禁止球迷携带水瓶入场",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 117000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B3%95%E7%BD%91%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A6%81%E6%AD%A2%E7%90%83%E8%BF%B7%E6%90%BA%E5%B8%A6%E6%B0%B4%E7%93%B6%E5%85%A5%E5%9C%BA&sa=fyb_news"
       },
       "raw_titles": [
-        "法网女单四强名单出炉"
+        "世界杯禁止球迷携带水瓶入场"
       ],
-      "rank": 24,
-      "sports_rank": 15
+      "rank": 31,
+      "sports_rank": 23
+    },
+    {
+      "title": "梅西世界杯后退役？阿根廷主帅回应",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8E%E9%80%80%E5%BD%B9%EF%BC%9F%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%BA%94&sa=fyb_news"
+      },
+      "raw_titles": [
+        "梅西世界杯后退役？阿根廷主帅回应"
+      ],
+      "rank": 32,
+      "sports_rank": 24
     }
   ],
   "sports": [
     {
-      "title": "世界杯",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度",
-        "百度",
-        "抖音",
-        "抖音",
-        "哔哩哔哩",
-        "哔哩哔哩",
-        "哔哩哔哩",
-        "哔哩哔哩"
-      ],
-      "hot_value": 20106679,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%8D%A7%E8%B5%B7%E2%80%9C%E5%B0%8F%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9D&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E7%94%A8%E6%B0%B4%E7%93%B6%E8%BD%AC%E5%9C%BA%E6%89%93%E5%BC%80%E4%B8%96%E7%95%8C%E6%9D%AF",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B0%9B%E5%9B%B4%E5%8F%98%E6%B7%A1%E4%BA%86%E5%90%97"
-      },
-      "raw_titles": [
-        "世界杯"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
       "title": "NBA总决赛首场 尼克斯逆转马刺",
       "category": "体育",
       "sources": [
         "百度",
         "抖音"
       ],
-      "hot_value": 12386968,
+      "hot_value": 11677139,
       "urls": {
         "百度": "https://m.baidu.com/s?word=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A6%96%E5%9C%BA+%E5%B0%BC%E5%85%8B%E6%96%AF%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E5%B0%BC%E5%85%8B%E6%96%AF%E8%83%9C%E9%A9%AC%E5%88%BA"
@@ -453,8 +541,8 @@
       "raw_titles": [
         "NBA总决赛首场 尼克斯逆转马刺"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 1,
+      "sports_rank": 1
     },
     {
       "title": "中国足球小将发长文致谢",
@@ -462,15 +550,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7667372,
+      "hot_value": 7681923,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%8F%91%E9%95%BF%E6%96%87%E8%87%B4%E8%B0%A2"
       },
       "raw_titles": [
         "中国足球小将发长文致谢"
       ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "巴西队开启世界杯首训",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7644696,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%AE%AD"
+      },
+      "raw_titles": [
+        "巴西队开启世界杯首训"
+      ],
       "rank": 3,
       "sports_rank": 3
+    },
+    {
+      "title": "哈兰德领衔挪威队出征世界杯",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7637813,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E9%A2%86%E8%A1%94%E6%8C%AA%E5%A8%81%E9%98%9F%E5%87%BA%E5%BE%81%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "哈兰德领衔挪威队出征世界杯"
+      ],
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "游泳比赛萌娃自信pose亮了",
@@ -478,7 +598,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7410233,
+      "hot_value": 7612767,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B8%B8%E6%B3%B3%E6%AF%94%E8%B5%9B%E8%90%8C%E5%A8%83%E8%87%AA%E4%BF%A1pose%E4%BA%AE%E4%BA%86"
       },
@@ -486,26 +606,57 @@
         "游泳比赛萌娃自信pose亮了"
       ],
       "rank": 6,
-      "sports_rank": 4
+      "sports_rank": 5
+    },
+    {
+      "title": "用水瓶转场打开世界杯",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7608319,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%A8%E6%B0%B4%E7%93%B6%E8%BD%AC%E5%9C%BA%E6%89%93%E5%BC%80%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "用水瓶转场打开世界杯"
+      ],
+      "rank": 8,
+      "sports_rank": 6
     },
     {
       "title": "尼克斯1比0马刺",
       "category": "体育",
       "sources": [
         "微博",
-        "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 6430499,
+      "hot_value": 3603739,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%B0%BC%E5%85%8B%E6%96%AFvs%E9%A9%AC%E5%88%BA",
+        "微博": "https://s.weibo.com/weibo?q=%E5%B0%BC%E5%85%8B%E6%96%AF1%E6%AF%940%E9%A9%AC%E5%88%BA",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF1-0%E9%A9%AC%E5%88%BA"
       },
       "raw_titles": [
         "尼克斯1比0马刺"
       ],
-      "rank": 7,
-      "sports_rank": 5
+      "rank": 9,
+      "sports_rank": 7
+    },
+    {
+      "title": "全方位解析世界杯英格兰前景",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1286150,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E6%96%B9%E4%BD%8D%E8%A7%A3%E6%9E%90%E4%B8%96%E7%95%8C%E6%9D%AF%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%89%8D%E6%99%AF"
+      },
+      "raw_titles": [
+        "全方位解析世界杯英格兰前景"
+      ],
+      "rank": 10,
+      "sports_rank": 8
     },
     {
       "title": "尼克斯战胜马刺赛后复盘",
@@ -513,15 +664,83 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2638564,
+      "hot_value": 1233173,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF%E6%88%98%E8%83%9C%E9%A9%AC%E5%88%BA%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
         "尼克斯战胜马刺赛后复盘"
       ],
-      "rank": 8,
-      "sports_rank": 6
+      "rank": 11,
+      "sports_rank": 9
+    },
+    {
+      "title": "布伦森意外受伤",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1024028,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%B8%83%E4%BC%A6%E6%A3%AE%E6%84%8F%E5%A4%96%E5%8F%97%E4%BC%A4&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E6%84%8F%E5%A4%96%E5%8F%97%E4%BC%A4"
+      },
+      "raw_titles": [
+        "布伦森意外受伤"
+      ],
+      "rank": 12,
+      "sports_rank": 10
+    },
+    {
+      "title": "解读姆巴佩商业帝国",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 707355,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD"
+      },
+      "raw_titles": [
+        "解读姆巴佩商业帝国"
+      ],
+      "rank": 13,
+      "sports_rank": 11
+    },
+    {
+      "title": "中国小将李昊炎加盟巴萨",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 654839,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8"
+      },
+      "raw_titles": [
+        "中国小将李昊炎加盟巴萨"
+      ],
+      "rank": 14,
+      "sports_rank": 12
+    },
+    {
+      "title": "世界杯豪强战术拆解之比利时",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 508445,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B1%AA%E5%BC%BA%E6%88%98%E6%9C%AF%E6%8B%86%E8%A7%A3%E4%B9%8B%E6%AF%94%E5%88%A9%E6%97%B6"
+      },
+      "raw_titles": [
+        "世界杯豪强战术拆解之比利时"
+      ],
+      "rank": 15,
+      "sports_rank": 13
     },
     {
       "title": "布伦森全场独砍30分集锦",
@@ -529,52 +748,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2536082,
+      "hot_value": 495972,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E5%85%A8%E5%9C%BA%E7%8B%AC%E7%A0%8D30%E5%88%86%E9%9B%86%E9%94%A6"
       },
       "raw_titles": [
         "布伦森全场独砍30分集锦"
       ],
-      "rank": 9,
-      "sports_rank": 7
+      "rank": 16,
+      "sports_rank": 14
     },
     {
-      "title": "李昊炎加盟巴萨",
+      "title": "葡萄牙世界杯能否夺冠",
       "category": "体育",
       "sources": [
-        "微博",
-        "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 1476865,
+      "hot_value": 459054,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E8%83%BD%E5%90%A6%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "李昊炎加盟巴萨"
+        "葡萄牙世界杯能否夺冠"
       ],
-      "rank": 10,
-      "sports_rank": 8
+      "rank": 17,
+      "sports_rank": 15
+    },
+    {
+      "title": "今年世界杯氛围变淡了吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 439834,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B0%9B%E5%9B%B4%E5%8F%98%E6%B7%A1%E4%BA%86%E5%90%97"
+      },
+      "raw_titles": [
+        "今年世界杯氛围变淡了吗"
+      ],
+      "rank": 18,
+      "sports_rank": 16
     },
     {
       "title": "NBA总决赛球迷冲场",
       "category": "体育",
       "sources": [
-        "微博",
         "微博"
       ],
-      "hot_value": 1298707,
+      "hot_value": 432483,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "微博": "https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%90%83%E8%BF%B7%E5%86%B2%E5%9C%BA"
       },
       "raw_titles": [
         "NBA总决赛球迷冲场"
       ],
-      "rank": 11,
-      "sports_rank": 9
+      "rank": 19,
+      "sports_rank": 17
     },
     {
       "title": "F1法拉利与勒克莱尔续约",
@@ -582,47 +812,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 826467,
+      "hot_value": 391014,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%B3%95%E6%8B%89%E5%88%A9%E4%B8%8E%E5%8B%92%E5%85%8B%E8%8E%B1%E5%B0%94%E7%BB%AD%E7%BA%A6"
       },
       "raw_titles": [
         "F1法拉利与勒克莱尔续约"
       ],
-      "rank": 12,
-      "sports_rank": 10
+      "rank": 21,
+      "sports_rank": 18
     },
     {
-      "title": "曝皇马有意签下卡拉菲奥里",
+      "title": "NBA球队B站粉丝排名",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 479391,
+      "hot_value": 351304,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%9A%87%E9%A9%AC%E6%9C%89%E6%84%8F%E7%AD%BE%E4%B8%8B%E5%8D%A1%E6%8B%89%E8%8F%B2%E5%A5%A5%E9%87%8C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E7%90%83%E9%98%9FB%E7%AB%99%E7%B2%89%E4%B8%9D%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
-        "曝皇马有意签下卡拉菲奥里"
+        "NBA球队B站粉丝排名"
       ],
-      "rank": 13,
-      "sports_rank": 11
+      "rank": 22,
+      "sports_rank": 19
     },
     {
-      "title": "NBA总决赛有观众冲进场找文班自拍",
+      "title": "中国足球小将捧起“小世界杯”",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 324000,
+      "hot_value": 207000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E6%9C%89%E8%A7%82%E4%BC%97%E5%86%B2%E8%BF%9B%E5%9C%BA%E6%89%BE%E6%96%87%E7%8F%AD%E8%87%AA%E6%8B%8D&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%8D%A7%E8%B5%B7%E2%80%9C%E5%B0%8F%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "NBA总决赛有观众冲进场找文班自拍"
+        "中国足球小将捧起“小世界杯”"
       ],
-      "rank": 17,
-      "sports_rank": 12
+      "rank": 26,
+      "sports_rank": 20
     },
     {
       "title": "6岁双胞胎萌娃游泳比赛前摆花式姿势",
@@ -630,73 +860,73 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 117000,
+      "hot_value": 171000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=6%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E8%90%8C%E5%A8%83%E6%B8%B8%E6%B3%B3%E6%AF%94%E8%B5%9B%E5%89%8D%E6%91%86%E8%8A%B1%E5%BC%8F%E5%A7%BF%E5%8A%BF&sa=fyb_news"
       },
       "raw_titles": [
         "6岁双胞胎萌娃游泳比赛前摆花式姿势"
       ],
-      "rank": 21,
-      "sports_rank": 13
+      "rank": 28,
+      "sports_rank": 21
     },
     {
-      "title": "布伦森意外受伤",
+      "title": "网球王子系列完结",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 166930,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%90%83%E7%8E%8B%E5%AD%90%E7%B3%BB%E5%88%97%E5%AE%8C%E7%BB%93"
+      },
+      "raw_titles": [
+        "网球王子系列完结"
+      ],
+      "rank": 30,
+      "sports_rank": 22
+    },
+    {
+      "title": "世界杯禁止球迷携带水瓶入场",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 99000,
+      "hot_value": 117000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B8%83%E4%BC%A6%E6%A3%AE%E6%84%8F%E5%A4%96%E5%8F%97%E4%BC%A4&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A6%81%E6%AD%A2%E7%90%83%E8%BF%B7%E6%90%BA%E5%B8%A6%E6%B0%B4%E7%93%B6%E5%85%A5%E5%9C%BA&sa=fyb_news"
       },
       "raw_titles": [
-        "布伦森意外受伤"
+        "世界杯禁止球迷携带水瓶入场"
       ],
-      "rank": 22,
-      "sports_rank": 14
+      "rank": 31,
+      "sports_rank": 23
     },
     {
-      "title": "法网女单四强名单出炉",
+      "title": "梅西世界杯后退役？阿根廷主帅回应",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 18000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B3%95%E7%BD%91%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8E%E9%80%80%E5%BD%B9%EF%BC%9F%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%BA%94&sa=fyb_news"
       },
       "raw_titles": [
-        "法网女单四强名单出炉"
+        "梅西世界杯后退役？阿根廷主帅回应"
       ],
-      "rank": 24,
-      "sports_rank": 15
+      "rank": 32,
+      "sports_rank": 24
     }
   ],
   "movies": [
-    {
-      "title": "歌手2026联名赛嘉宾匹配预测",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7630472,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E8%81%94%E5%90%8D%E8%B5%9B%E5%98%89%E5%AE%BE%E5%8C%B9%E9%85%8D%E9%A2%84%E6%B5%8B"
-      },
-      "raw_titles": [
-        "歌手2026联名赛嘉宾匹配预测"
-      ],
-      "rank": 4,
-      "movie_rank": 1
-    },
     {
       "title": "用方言给哈利波特片段配音",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7620612,
+      "hot_value": 7628800,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%A8%E6%96%B9%E8%A8%80%E7%BB%99%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E7%89%87%E6%AE%B5%E9%85%8D%E9%9F%B3"
       },
@@ -704,55 +934,39 @@
         "用方言给哈利波特片段配音"
       ],
       "rank": 5,
+      "movie_rank": 1
+    },
+    {
+      "title": "歌手2026联名赛嘉宾匹配预测",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7612607,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E8%81%94%E5%90%8D%E8%B5%9B%E5%98%89%E5%AE%BE%E5%8C%B9%E9%85%8D%E9%A2%84%E6%B5%8B"
+      },
+      "raw_titles": [
+        "歌手2026联名赛嘉宾匹配预测"
+      ],
+      "rank": 7,
       "movie_rank": 2
     },
     {
-      "title": "杨紫吐槽横店怎么会有这么多坏马",
+      "title": "歌手第三期歌单",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 427934,
+      "hot_value": 411529,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%90%90%E6%A7%BD%E6%A8%AA%E5%BA%97%E6%80%8E%E4%B9%88%E4%BC%9A%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%9D%8F%E9%A9%AC"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E6%AD%8C%E5%8D%95"
       },
       "raw_titles": [
-        "杨紫吐槽横店怎么会有这么多坏马"
+        "歌手第三期歌单"
       ],
-      "rank": 14,
+      "rank": 20,
       "movie_rank": 3
-    },
-    {
-      "title": "杨紫扛剧能力",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 341684,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%89%9B%E5%89%A7%E8%83%BD%E5%8A%9B"
-      },
-      "raw_titles": [
-        "杨紫扛剧能力"
-      ],
-      "rank": 15,
-      "movie_rank": 4
-    },
-    {
-      "title": "飞机上偶遇张凌赫睡觉",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 338706,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9D%A1%E8%A7%89"
-      },
-      "raw_titles": [
-        "飞机上偶遇张凌赫睡觉"
-      ],
-      "rank": 16,
-      "movie_rank": 5
     },
     {
       "title": "《给阿嬷的情书》火了电影人集体沉默",
@@ -767,56 +981,72 @@
       "raw_titles": [
         "《给阿嬷的情书》火了电影人集体沉默"
       ],
-      "rank": 18,
+      "rank": 23,
+      "movie_rank": 4
+    },
+    {
+      "title": "飞机上偶遇张凌赫睡觉",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 294974,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%81%B6%E9%81%87%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9D%A1%E8%A7%89"
+      },
+      "raw_titles": [
+        "飞机上偶遇张凌赫睡觉"
+      ],
+      "rank": 24,
+      "movie_rank": 5
+    },
+    {
+      "title": "袁咏仪孟子义桃花坞师徒合体",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 227769,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%A2%81%E5%92%8F%E4%BB%AA%E5%AD%9F%E5%AD%90%E4%B9%89%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%B8%88%E5%BE%92%E5%90%88%E4%BD%93"
+      },
+      "raw_titles": [
+        "袁咏仪孟子义桃花坞师徒合体"
+      ],
+      "rank": 25,
       "movie_rank": 6
     },
     {
-      "title": "周迅朴叙俊金高银同框",
+      "title": "杨紫吐槽横店怎么会有这么多坏马",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 161553,
+      "hot_value": 206438,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%E6%9C%B4%E5%8F%99%E4%BF%8A%E9%87%91%E9%AB%98%E9%93%B6%E5%90%8C%E6%A1%86"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%90%90%E6%A7%BD%E6%A8%AA%E5%BA%97%E6%80%8E%E4%B9%88%E4%BC%9A%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%9D%8F%E9%A9%AC"
       },
       "raw_titles": [
-        "周迅朴叙俊金高银同框"
+        "杨紫吐槽横店怎么会有这么多坏马"
       ],
-      "rank": 19,
+      "rank": 27,
       "movie_rank": 7
     },
     {
-      "title": "歌手第三期歌单",
+      "title": "杨紫扛剧能力",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 135362,
+      "hot_value": 169715,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E6%AD%8C%E5%8D%95"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%89%9B%E5%89%A7%E8%83%BD%E5%8A%9B"
       },
       "raw_titles": [
-        "歌手第三期歌单"
+        "杨紫扛剧能力"
       ],
-      "rank": 20,
+      "rank": 29,
       "movie_rank": 8
-    },
-    {
-      "title": "内存还在“狂飙”",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%86%85%E5%AD%98%E8%BF%98%E5%9C%A8%E2%80%9C%E7%8B%82%E9%A3%99%E2%80%9D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "内存还在“狂飙”"
-      ],
-      "rank": 23,
-      "movie_rank": 9
     }
   ]
 }
