@@ -1,19 +1,17 @@
 {
-  "update_time": "2026-06-05 12:00:41",
-  "total": 27,
-  "sports_count": 18,
-  "movie_count": 10,
+  "update_time": "2026-06-05 13:00:41",
+  "total": 31,
+  "sports_count": 19,
+  "movie_count": 13,
   "all": [
     {
       "title": "台球界来了个C罗",
       "category": "体育",
       "sources": [
-        "微博",
         "抖音"
       ],
-      "hot_value": 11346574,
+      "hot_value": 11370198,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8F%B0%E7%90%83%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AAC%E7%BD%97",
         "抖音": "https://www.douyin.com/search/%E5%8F%B0%E7%90%83%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AAC%E7%BD%97"
       },
       "raw_titles": [
@@ -28,7 +26,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9253765,
+      "hot_value": 8970786,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%BE%81%E6%8E%92%E9%9D%A2%E8%BF%99%E4%B8%80%E5%9D%97"
       },
@@ -39,36 +37,20 @@
       "sports_rank": 2
     },
     {
-      "title": "中国女排3:2泰国女排",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8973483,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%3A2%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92"
-      },
-      "raw_titles": [
-        "中国女排3:2泰国女排"
-      ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
       "title": "中国足球小将夺冠之路",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8479873,
+      "hot_value": 8530988,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
       },
       "raw_titles": [
         "中国足球小将夺冠之路"
       ],
-      "rank": 4,
-      "sports_rank": 4
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "歌手2026官宣第三期歌单",
@@ -76,14 +58,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8471620,
+      "hot_value": 7750759,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%B8%89%E6%9C%9F%E6%AD%8C%E5%8D%95"
       },
       "raw_titles": [
         "歌手2026官宣第三期歌单"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 1
     },
     {
@@ -92,15 +74,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7774945,
+      "hot_value": 7728689,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%84%E7%90%83%E9%98%9F%E8%BF%9B%E5%9F%8E%E5%8A%9E%E4%BA%8B%E7%A9%BF%E6%90%AD"
       },
       "raw_titles": [
         "世界杯各球队进城办事穿搭"
       ],
-      "rank": 6,
-      "sports_rank": 5
+      "rank": 5,
+      "sports_rank": 4
     },
     {
       "title": "尼克斯逆转马刺深度复盘",
@@ -108,32 +90,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7706530,
+      "hot_value": 7675990,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%B0%BC%E5%85%8B%E6%96%AF%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
         "尼克斯逆转马刺深度复盘"
       ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "李昊炎加盟巴萨U15纪录片",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 4203894,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8U15%E7%BA%AA%E5%BD%95%E7%89%87"
-      },
-      "raw_titles": [
-        "李昊炎加盟巴萨U15纪录片"
-      ],
-      "rank": 8,
-      "sports_rank": 7,
-      "movie_rank": 2
+      "rank": 6,
+      "sports_rank": 5
     },
     {
       "title": "热身赛法国队爆冷遭逆转",
@@ -141,31 +106,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 3957081,
+      "hot_value": 2993206,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%83%AD%E8%BA%AB%E8%B5%9B%E6%B3%95%E5%9B%BD%E9%98%9F%E7%88%86%E5%86%B7%E9%81%AD%E9%80%86%E8%BD%AC"
       },
       "raw_titles": [
         "热身赛法国队爆冷遭逆转"
       ],
-      "rank": 9,
-      "movie_rank": 3
-    },
-    {
-      "title": "蛋黄派伪装摄影师突袭周深",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 526197,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9B%8B%E9%BB%84%E6%B4%BE%E4%BC%AA%E8%A3%85%E6%91%84%E5%BD%B1%E5%B8%88%E7%AA%81%E8%A2%AD%E5%91%A8%E6%B7%B1"
-      },
-      "raw_titles": [
-        "蛋黄派伪装摄影师突袭周深"
-      ],
-      "rank": 10,
-      "movie_rank": 4
+      "rank": 7,
+      "movie_rank": 2
     },
     {
       "title": "世界杯神曲大盘点",
@@ -173,30 +122,142 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 497210,
+      "hot_value": 1417335,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A5%9E%E6%9B%B2%E5%A4%A7%E7%9B%98%E7%82%B9"
       },
       "raw_titles": [
         "世界杯神曲大盘点"
       ],
-      "rank": 11,
-      "sports_rank": 8
+      "rank": 8,
+      "sports_rank": 6
     },
     {
-      "title": "世界环境日 纪录片沙海壮歌",
+      "title": "勒克莱尔谈续约法拉利",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 883750,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8B%92%E5%85%8B%E8%8E%B1%E5%B0%94%E8%B0%88%E7%BB%AD%E7%BA%A6%E6%B3%95%E6%8B%89%E5%88%A9"
+      },
+      "raw_titles": [
+        "勒克莱尔谈续约法拉利"
+      ],
+      "rank": 9,
+      "sports_rank": 7
+    },
+    {
+      "title": "蛋黄派伪装摄影师突袭周深",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 441018,
+      "hot_value": 869051,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E7%8E%AF%E5%A2%83%E6%97%A5%20%E7%BA%AA%E5%BD%95%E7%89%87%E6%B2%99%E6%B5%B7%E5%A3%AE%E6%AD%8C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9B%8B%E9%BB%84%E6%B4%BE%E4%BC%AA%E8%A3%85%E6%91%84%E5%BD%B1%E5%B8%88%E7%AA%81%E8%A2%AD%E5%91%A8%E6%B7%B1"
       },
       "raw_titles": [
-        "世界环境日 纪录片沙海壮歌"
+        "蛋黄派伪装摄影师突袭周深"
+      ],
+      "rank": 10,
+      "movie_rank": 3
+    },
+    {
+      "title": "21世纪NBA总决赛百大炸裂瞬间",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 625117,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4"
+      },
+      "raw_titles": [
+        "21世纪NBA总决赛百大炸裂瞬间"
+      ],
+      "rank": 11,
+      "sports_rank": 8
+    },
+    {
+      "title": "太阳系正上方是什么",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 602865,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E9%98%B3%E7%B3%BB%E6%AD%A3%E4%B8%8A%E6%96%B9%E6%98%AF%E4%BB%80%E4%B9%88"
+      },
+      "raw_titles": [
+        "太阳系正上方是什么"
       ],
       "rank": 12,
+      "sports_rank": 9
+    },
+    {
+      "title": "NBA总决赛G1五佳球",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 530524,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E4%BA%94%E4%BD%B3%E7%90%83"
+      },
+      "raw_titles": [
+        "NBA总决赛G1五佳球"
+      ],
+      "rank": 13,
+      "sports_rank": 10
+    },
+    {
+      "title": "独立导演用AI开新坑",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 509946,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8B%AC%E7%AB%8B%E5%AF%BC%E6%BC%94%E7%94%A8AI%E5%BC%80%E6%96%B0%E5%9D%91"
+      },
+      "raw_titles": [
+        "独立导演用AI开新坑"
+      ],
+      "rank": 14,
+      "movie_rank": 4
+    },
+    {
+      "title": "尼克斯为何能在G1克制马刺",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 491466,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%9C%A8G1%E5%85%8B%E5%88%B6%E9%A9%AC%E5%88%BA"
+      },
+      "raw_titles": [
+        "尼克斯为何能在G1克制马刺"
+      ],
+      "rank": 15,
+      "sports_rank": 11
+    },
+    {
+      "title": "王鹤棣白鹿剧情人设引热议",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 473317,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E5%89%A7%E6%83%85%E4%BA%BA%E8%AE%BE%E5%BC%95%E7%83%AD%E8%AE%AE"
+      },
+      "raw_titles": [
+        "王鹤棣白鹿剧情人设引热议"
+      ],
+      "rank": 16,
       "movie_rank": 5
     },
     {
@@ -212,8 +273,24 @@
       "raw_titles": [
         "世界杯两大夺冠热门热身赛同时翻车"
       ],
-      "rank": 13,
-      "sports_rank": 9
+      "rank": 17,
+      "sports_rank": 12
+    },
+    {
+      "title": "世界环境日 纪录片沙海壮歌",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 436809,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E7%8E%AF%E5%A2%83%E6%97%A5%20%E7%BA%AA%E5%BD%95%E7%89%87%E6%B2%99%E6%B5%B7%E5%A3%AE%E6%AD%8C"
+      },
+      "raw_titles": [
+        "世界环境日 纪录片沙海壮歌"
+      ],
+      "rank": 18,
+      "movie_rank": 6
     },
     {
       "title": "伊劳拉出任利物浦主帅",
@@ -221,95 +298,32 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 432306,
+      "hot_value": 379256,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E5%8A%B3%E6%8B%89%E5%87%BA%E4%BB%BB%E5%88%A9%E7%89%A9%E6%B5%A6%E4%B8%BB%E5%B8%85"
       },
       "raw_titles": [
         "伊劳拉出任利物浦主帅"
       ],
-      "rank": 14,
-      "sports_rank": 10
-    },
-    {
-      "title": "尼克斯为何能在G1克制马刺",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 424964,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%9C%A8G1%E5%85%8B%E5%88%B6%E9%A9%AC%E5%88%BA"
-      },
-      "raw_titles": [
-        "尼克斯为何能在G1克制马刺"
-      ],
-      "rank": 15,
-      "sports_rank": 11
-    },
-    {
-      "title": "NBA总决赛G1五佳球",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 406328,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E4%BA%94%E4%BD%B3%E7%90%83"
-      },
-      "raw_titles": [
-        "NBA总决赛G1五佳球"
-      ],
-      "rank": 16,
-      "sports_rank": 12
-    },
-    {
-      "title": "21世纪NBA总决赛百大炸裂瞬间",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 401611,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4"
-      },
-      "raw_titles": [
-        "21世纪NBA总决赛百大炸裂瞬间"
-      ],
-      "rank": 17,
+      "rank": 19,
       "sports_rank": 13
     },
     {
-      "title": "燃油车价格大幅跳水",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4&sa=fyb_news"
-      },
-      "raw_titles": [
-        "燃油车价格大幅跳水"
-      ],
-      "rank": 18,
-      "sports_rank": 14
-    },
-    {
-      "title": "太阳系正上方是什么",
-      "category": "体育",
+      "title": "李昊炎加盟巴萨U15纪录片",
+      "category": "综合",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 384410,
+      "hot_value": 345759,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E9%98%B3%E7%B3%BB%E6%AD%A3%E4%B8%8A%E6%96%B9%E6%98%AF%E4%BB%80%E4%B9%88"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8U15%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
-        "太阳系正上方是什么"
+        "李昊炎加盟巴萨U15纪录片"
       ],
-      "rank": 19,
-      "sports_rank": 15
+      "rank": 20,
+      "sports_rank": 14,
+      "movie_rank": 7
     },
     {
       "title": "太阳爆发强烈耀斑 大地磁暴或将出现",
@@ -317,14 +331,30 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 342000,
+      "hot_value": 324000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E5%BC%BA%E7%83%88%E8%80%80%E6%96%91+%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E6%88%96%E5%B0%86%E5%87%BA%E7%8E%B0&sa=fyb_news"
       },
       "raw_titles": [
         "太阳爆发强烈耀斑 大地磁暴或将出现"
       ],
-      "rank": 20,
+      "rank": 21,
+      "sports_rank": 15
+    },
+    {
+      "title": "燃油车价格大幅跳水",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 297000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "燃油车价格大幅跳水"
+      ],
+      "rank": 22,
       "sports_rank": 16
     },
     {
@@ -333,95 +363,111 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 328096,
+      "hot_value": 283943,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E4%B8%8D%E7%94%A8%E5%8F%82%E5%8A%A0%E7%A6%BB%E5%A9%9A%E7%BB%BC%E8%89%BA%E4%BA%86"
       },
       "raw_titles": [
         "孙杨张豆豆不用参加离婚综艺了"
       ],
-      "rank": 21,
-      "movie_rank": 6
-    },
-    {
-      "title": "杨紫9部一番满广剧集",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 283933,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB9%E9%83%A8%E4%B8%80%E7%95%AA%E6%BB%A1%E5%B9%BF%E5%89%A7%E9%9B%86"
-      },
-      "raw_titles": [
-        "杨紫9部一番满广剧集"
-      ],
-      "rank": 22,
-      "movie_rank": 7
-    },
-    {
-      "title": "王鹤棣白鹿剧情人设引热议",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 276680,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E5%89%A7%E6%83%85%E4%BA%BA%E8%AE%BE%E5%BC%95%E7%83%AD%E8%AE%AE"
-      },
-      "raw_titles": [
-        "王鹤棣白鹿剧情人设引热议"
-      ],
       "rank": 23,
       "movie_rank": 8
     },
     {
-      "title": "杨紫参加六五环境日",
+      "title": "杨紫和郭晶晶一起上台领聘",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 267745,
+      "hot_value": 262815,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%8F%82%E5%8A%A0%E5%85%AD%E4%BA%94%E7%8E%AF%E5%A2%83%E6%97%A5"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%92%8C%E9%83%AD%E6%99%B6%E6%99%B6%E4%B8%80%E8%B5%B7%E4%B8%8A%E5%8F%B0%E9%A2%86%E8%81%98"
       },
       "raw_titles": [
-        "杨紫参加六五环境日"
+        "杨紫和郭晶晶一起上台领聘"
       ],
       "rank": 24,
       "movie_rank": 9
     },
     {
-      "title": "电影学者解读给阿嬷的情书",
+      "title": "张凌赫转账最快的男人",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 181820,
+      "hot_value": 237256,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%AD%A6%E8%80%85%E8%A7%A3%E8%AF%BB%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BD%AC%E8%B4%A6%E6%9C%80%E5%BF%AB%E7%9A%84%E7%94%B7%E4%BA%BA"
       },
       "raw_titles": [
-        "电影学者解读给阿嬷的情书"
+        "张凌赫转账最快的男人"
       ],
       "rank": 25,
       "movie_rank": 10
     },
     {
-      "title": "特朗普将现身NBA总决赛G3",
+      "title": "易烊千玺杂志",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 218830,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9D%82%E5%BF%97"
+      },
+      "raw_titles": [
+        "易烊千玺杂志"
+      ],
+      "rank": 26,
+      "movie_rank": 11
+    },
+    {
+      "title": "孟子义回桃花坞晒照",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 217977,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%9E%E6%A1%83%E8%8A%B1%E5%9D%9E%E6%99%92%E7%85%A7"
+      },
+      "raw_titles": [
+        "孟子义回桃花坞晒照"
+      ],
+      "rank": 27,
+      "movie_rank": 12
+    },
+    {
+      "title": "C罗姆巴佩詹姆斯超燃世界杯短片",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 173972,
+      "hot_value": 216515,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E7%8E%B0%E8%BA%ABNBA%E6%80%BB%E5%86%B3%E8%B5%9BG3"
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A9%B9%E5%A7%86%E6%96%AF%E8%B6%85%E7%87%83%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9F%AD%E7%89%87"
       },
       "raw_titles": [
-        "特朗普将现身NBA总决赛G3"
+        "C罗姆巴佩詹姆斯超燃世界杯短片"
       ],
-      "rank": 26,
+      "rank": 28,
       "sports_rank": 17
+    },
+    {
+      "title": "彭昱畅官宣加入儒意电影",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 212515,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BD%AD%E6%98%B1%E7%95%85%E5%AE%98%E5%AE%A3%E5%8A%A0%E5%85%A5%E5%84%92%E6%84%8F%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "彭昱畅官宣加入儒意电影"
+      ],
+      "rank": 29,
+      "movie_rank": 13
     },
     {
       "title": "贝克汉姆中文送祝福：考完看世界杯",
@@ -436,8 +482,24 @@
       "raw_titles": [
         "贝克汉姆中文送祝福：考完看世界杯"
       ],
-      "rank": 27,
+      "rank": 30,
       "sports_rank": 18
+    },
+    {
+      "title": "俄方：普京不会赴美观看世界杯",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 27000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E4%B8%8D%E4%BC%9A%E8%B5%B4%E7%BE%8E%E8%A7%82%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "俄方：普京不会赴美观看世界杯"
+      ],
+      "rank": 31,
+      "sports_rank": 19
     }
   ],
   "sports": [
@@ -445,12 +507,10 @@
       "title": "台球界来了个C罗",
       "category": "体育",
       "sources": [
-        "微博",
         "抖音"
       ],
-      "hot_value": 11346574,
+      "hot_value": 11370198,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8F%B0%E7%90%83%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AAC%E7%BD%97",
         "抖音": "https://www.douyin.com/search/%E5%8F%B0%E7%90%83%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AAC%E7%BD%97"
       },
       "raw_titles": [
@@ -465,7 +525,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9253765,
+      "hot_value": 8970786,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%BE%81%E6%8E%92%E9%9D%A2%E8%BF%99%E4%B8%80%E5%9D%97"
       },
@@ -476,36 +536,20 @@
       "sports_rank": 2
     },
     {
-      "title": "中国女排3:2泰国女排",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8973483,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%3A2%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92"
-      },
-      "raw_titles": [
-        "中国女排3:2泰国女排"
-      ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
       "title": "中国足球小将夺冠之路",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8479873,
+      "hot_value": 8530988,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
       },
       "raw_titles": [
         "中国足球小将夺冠之路"
       ],
-      "rank": 4,
-      "sports_rank": 4
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "世界杯各球队进城办事穿搭",
@@ -513,15 +557,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7774945,
+      "hot_value": 7728689,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%84%E7%90%83%E9%98%9F%E8%BF%9B%E5%9F%8E%E5%8A%9E%E4%BA%8B%E7%A9%BF%E6%90%AD"
       },
       "raw_titles": [
         "世界杯各球队进城办事穿搭"
       ],
-      "rank": 6,
-      "sports_rank": 5
+      "rank": 5,
+      "sports_rank": 4
     },
     {
       "title": "尼克斯逆转马刺深度复盘",
@@ -529,32 +573,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7706530,
+      "hot_value": 7675990,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%B0%BC%E5%85%8B%E6%96%AF%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
         "尼克斯逆转马刺深度复盘"
       ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "李昊炎加盟巴萨U15纪录片",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 4203894,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8U15%E7%BA%AA%E5%BD%95%E7%89%87"
-      },
-      "raw_titles": [
-        "李昊炎加盟巴萨U15纪录片"
-      ],
-      "rank": 8,
-      "sports_rank": 7,
-      "movie_rank": 2
+      "rank": 6,
+      "sports_rank": 5
     },
     {
       "title": "世界杯神曲大盘点",
@@ -562,15 +589,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 497210,
+      "hot_value": 1417335,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A5%9E%E6%9B%B2%E5%A4%A7%E7%9B%98%E7%82%B9"
       },
       "raw_titles": [
         "世界杯神曲大盘点"
       ],
+      "rank": 8,
+      "sports_rank": 6
+    },
+    {
+      "title": "勒克莱尔谈续约法拉利",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 883750,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8B%92%E5%85%8B%E8%8E%B1%E5%B0%94%E8%B0%88%E7%BB%AD%E7%BA%A6%E6%B3%95%E6%8B%89%E5%88%A9"
+      },
+      "raw_titles": [
+        "勒克莱尔谈续约法拉利"
+      ],
+      "rank": 9,
+      "sports_rank": 7
+    },
+    {
+      "title": "21世纪NBA总决赛百大炸裂瞬间",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 625117,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4"
+      },
+      "raw_titles": [
+        "21世纪NBA总决赛百大炸裂瞬间"
+      ],
       "rank": 11,
       "sports_rank": 8
+    },
+    {
+      "title": "太阳系正上方是什么",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 602865,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E9%98%B3%E7%B3%BB%E6%AD%A3%E4%B8%8A%E6%96%B9%E6%98%AF%E4%BB%80%E4%B9%88"
+      },
+      "raw_titles": [
+        "太阳系正上方是什么"
+      ],
+      "rank": 12,
+      "sports_rank": 9
+    },
+    {
+      "title": "NBA总决赛G1五佳球",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 530524,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E4%BA%94%E4%BD%B3%E7%90%83"
+      },
+      "raw_titles": [
+        "NBA总决赛G1五佳球"
+      ],
+      "rank": 13,
+      "sports_rank": 10
+    },
+    {
+      "title": "尼克斯为何能在G1克制马刺",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 491466,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%9C%A8G1%E5%85%8B%E5%88%B6%E9%A9%AC%E5%88%BA"
+      },
+      "raw_titles": [
+        "尼克斯为何能在G1克制马刺"
+      ],
+      "rank": 15,
+      "sports_rank": 11
     },
     {
       "title": "世界杯两大夺冠热门热身赛同时翻车",
@@ -585,8 +692,8 @@
       "raw_titles": [
         "世界杯两大夺冠热门热身赛同时翻车"
       ],
-      "rank": 13,
-      "sports_rank": 9
+      "rank": 17,
+      "sports_rank": 12
     },
     {
       "title": "伊劳拉出任利物浦主帅",
@@ -594,95 +701,32 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 432306,
+      "hot_value": 379256,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E5%8A%B3%E6%8B%89%E5%87%BA%E4%BB%BB%E5%88%A9%E7%89%A9%E6%B5%A6%E4%B8%BB%E5%B8%85"
       },
       "raw_titles": [
         "伊劳拉出任利物浦主帅"
       ],
-      "rank": 14,
-      "sports_rank": 10
-    },
-    {
-      "title": "尼克斯为何能在G1克制马刺",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 424964,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF%E4%B8%BA%E4%BD%95%E8%83%BD%E5%9C%A8G1%E5%85%8B%E5%88%B6%E9%A9%AC%E5%88%BA"
-      },
-      "raw_titles": [
-        "尼克斯为何能在G1克制马刺"
-      ],
-      "rank": 15,
-      "sports_rank": 11
-    },
-    {
-      "title": "NBA总决赛G1五佳球",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 406328,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E4%BA%94%E4%BD%B3%E7%90%83"
-      },
-      "raw_titles": [
-        "NBA总决赛G1五佳球"
-      ],
-      "rank": 16,
-      "sports_rank": 12
-    },
-    {
-      "title": "21世纪NBA总决赛百大炸裂瞬间",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 401611,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4"
-      },
-      "raw_titles": [
-        "21世纪NBA总决赛百大炸裂瞬间"
-      ],
-      "rank": 17,
+      "rank": 19,
       "sports_rank": 13
     },
     {
-      "title": "燃油车价格大幅跳水",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4&sa=fyb_news"
-      },
-      "raw_titles": [
-        "燃油车价格大幅跳水"
-      ],
-      "rank": 18,
-      "sports_rank": 14
-    },
-    {
-      "title": "太阳系正上方是什么",
-      "category": "体育",
+      "title": "李昊炎加盟巴萨U15纪录片",
+      "category": "综合",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 384410,
+      "hot_value": 345759,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E9%98%B3%E7%B3%BB%E6%AD%A3%E4%B8%8A%E6%96%B9%E6%98%AF%E4%BB%80%E4%B9%88"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8U15%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
-        "太阳系正上方是什么"
+        "李昊炎加盟巴萨U15纪录片"
       ],
-      "rank": 19,
-      "sports_rank": 15
+      "rank": 20,
+      "sports_rank": 14,
+      "movie_rank": 7
     },
     {
       "title": "太阳爆发强烈耀斑 大地磁暴或将出现",
@@ -690,30 +734,46 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 342000,
+      "hot_value": 324000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E5%BC%BA%E7%83%88%E8%80%80%E6%96%91+%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E6%88%96%E5%B0%86%E5%87%BA%E7%8E%B0&sa=fyb_news"
       },
       "raw_titles": [
         "太阳爆发强烈耀斑 大地磁暴或将出现"
       ],
-      "rank": 20,
+      "rank": 21,
+      "sports_rank": 15
+    },
+    {
+      "title": "燃油车价格大幅跳水",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 297000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "燃油车价格大幅跳水"
+      ],
+      "rank": 22,
       "sports_rank": 16
     },
     {
-      "title": "特朗普将现身NBA总决赛G3",
+      "title": "C罗姆巴佩詹姆斯超燃世界杯短片",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 173972,
+      "hot_value": 216515,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E7%8E%B0%E8%BA%ABNBA%E6%80%BB%E5%86%B3%E8%B5%9BG3"
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A9%B9%E5%A7%86%E6%96%AF%E8%B6%85%E7%87%83%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9F%AD%E7%89%87"
       },
       "raw_titles": [
-        "特朗普将现身NBA总决赛G3"
+        "C罗姆巴佩詹姆斯超燃世界杯短片"
       ],
-      "rank": 26,
+      "rank": 28,
       "sports_rank": 17
     },
     {
@@ -729,8 +789,24 @@
       "raw_titles": [
         "贝克汉姆中文送祝福：考完看世界杯"
       ],
-      "rank": 27,
+      "rank": 30,
       "sports_rank": 18
+    },
+    {
+      "title": "俄方：普京不会赴美观看世界杯",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 27000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E4%B8%8D%E4%BC%9A%E8%B5%B4%E7%BE%8E%E8%A7%82%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "俄方：普京不会赴美观看世界杯"
+      ],
+      "rank": 31,
+      "sports_rank": 19
     }
   ],
   "movies": [
@@ -740,32 +816,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8471620,
+      "hot_value": 7750759,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%B8%89%E6%9C%9F%E6%AD%8C%E5%8D%95"
       },
       "raw_titles": [
         "歌手2026官宣第三期歌单"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 1
-    },
-    {
-      "title": "李昊炎加盟巴萨U15纪录片",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 4203894,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8U15%E7%BA%AA%E5%BD%95%E7%89%87"
-      },
-      "raw_titles": [
-        "李昊炎加盟巴萨U15纪录片"
-      ],
-      "rank": 8,
-      "sports_rank": 7,
-      "movie_rank": 2
     },
     {
       "title": "热身赛法国队爆冷遭逆转",
@@ -773,15 +832,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 3957081,
+      "hot_value": 2993206,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%83%AD%E8%BA%AB%E8%B5%9B%E6%B3%95%E5%9B%BD%E9%98%9F%E7%88%86%E5%86%B7%E9%81%AD%E9%80%86%E8%BD%AC"
       },
       "raw_titles": [
         "热身赛法国队爆冷遭逆转"
       ],
-      "rank": 9,
-      "movie_rank": 3
+      "rank": 7,
+      "movie_rank": 2
     },
     {
       "title": "蛋黄派伪装摄影师突袭周深",
@@ -789,7 +848,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 526197,
+      "hot_value": 869051,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9B%8B%E9%BB%84%E6%B4%BE%E4%BC%AA%E8%A3%85%E6%91%84%E5%BD%B1%E5%B8%88%E7%AA%81%E8%A2%AD%E5%91%A8%E6%B7%B1"
       },
@@ -797,55 +856,23 @@
         "蛋黄派伪装摄影师突袭周深"
       ],
       "rank": 10,
-      "movie_rank": 4
+      "movie_rank": 3
     },
     {
-      "title": "世界环境日 纪录片沙海壮歌",
+      "title": "独立导演用AI开新坑",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 441018,
+      "hot_value": 509946,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E7%8E%AF%E5%A2%83%E6%97%A5%20%E7%BA%AA%E5%BD%95%E7%89%87%E6%B2%99%E6%B5%B7%E5%A3%AE%E6%AD%8C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8B%AC%E7%AB%8B%E5%AF%BC%E6%BC%94%E7%94%A8AI%E5%BC%80%E6%96%B0%E5%9D%91"
       },
       "raw_titles": [
-        "世界环境日 纪录片沙海壮歌"
+        "独立导演用AI开新坑"
       ],
-      "rank": 12,
-      "movie_rank": 5
-    },
-    {
-      "title": "孙杨张豆豆不用参加离婚综艺了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 328096,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E4%B8%8D%E7%94%A8%E5%8F%82%E5%8A%A0%E7%A6%BB%E5%A9%9A%E7%BB%BC%E8%89%BA%E4%BA%86"
-      },
-      "raw_titles": [
-        "孙杨张豆豆不用参加离婚综艺了"
-      ],
-      "rank": 21,
-      "movie_rank": 6
-    },
-    {
-      "title": "杨紫9部一番满广剧集",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 283933,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB9%E9%83%A8%E4%B8%80%E7%95%AA%E6%BB%A1%E5%B9%BF%E5%89%A7%E9%9B%86"
-      },
-      "raw_titles": [
-        "杨紫9部一番满广剧集"
-      ],
-      "rank": 22,
-      "movie_rank": 7
+      "rank": 14,
+      "movie_rank": 4
     },
     {
       "title": "王鹤棣白鹿剧情人设引热议",
@@ -853,47 +880,144 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 276680,
+      "hot_value": 473317,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E5%89%A7%E6%83%85%E4%BA%BA%E8%AE%BE%E5%BC%95%E7%83%AD%E8%AE%AE"
       },
       "raw_titles": [
         "王鹤棣白鹿剧情人设引热议"
       ],
-      "rank": 23,
-      "movie_rank": 8
+      "rank": 16,
+      "movie_rank": 5
     },
     {
-      "title": "杨紫参加六五环境日",
+      "title": "世界环境日 纪录片沙海壮歌",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 436809,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E7%8E%AF%E5%A2%83%E6%97%A5%20%E7%BA%AA%E5%BD%95%E7%89%87%E6%B2%99%E6%B5%B7%E5%A3%AE%E6%AD%8C"
+      },
+      "raw_titles": [
+        "世界环境日 纪录片沙海壮歌"
+      ],
+      "rank": 18,
+      "movie_rank": 6
+    },
+    {
+      "title": "李昊炎加盟巴萨U15纪录片",
+      "category": "综合",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 345759,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8U15%E7%BA%AA%E5%BD%95%E7%89%87"
+      },
+      "raw_titles": [
+        "李昊炎加盟巴萨U15纪录片"
+      ],
+      "rank": 20,
+      "sports_rank": 14,
+      "movie_rank": 7
+    },
+    {
+      "title": "孙杨张豆豆不用参加离婚综艺了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 267745,
+      "hot_value": 283943,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%8F%82%E5%8A%A0%E5%85%AD%E4%BA%94%E7%8E%AF%E5%A2%83%E6%97%A5"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E4%B8%8D%E7%94%A8%E5%8F%82%E5%8A%A0%E7%A6%BB%E5%A9%9A%E7%BB%BC%E8%89%BA%E4%BA%86"
       },
       "raw_titles": [
-        "杨紫参加六五环境日"
+        "孙杨张豆豆不用参加离婚综艺了"
+      ],
+      "rank": 23,
+      "movie_rank": 8
+    },
+    {
+      "title": "杨紫和郭晶晶一起上台领聘",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 262815,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%92%8C%E9%83%AD%E6%99%B6%E6%99%B6%E4%B8%80%E8%B5%B7%E4%B8%8A%E5%8F%B0%E9%A2%86%E8%81%98"
+      },
+      "raw_titles": [
+        "杨紫和郭晶晶一起上台领聘"
       ],
       "rank": 24,
       "movie_rank": 9
     },
     {
-      "title": "电影学者解读给阿嬷的情书",
+      "title": "张凌赫转账最快的男人",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 181820,
+      "hot_value": 237256,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%AD%A6%E8%80%85%E8%A7%A3%E8%AF%BB%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BD%AC%E8%B4%A6%E6%9C%80%E5%BF%AB%E7%9A%84%E7%94%B7%E4%BA%BA"
       },
       "raw_titles": [
-        "电影学者解读给阿嬷的情书"
+        "张凌赫转账最快的男人"
       ],
       "rank": 25,
       "movie_rank": 10
+    },
+    {
+      "title": "易烊千玺杂志",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 218830,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9D%82%E5%BF%97"
+      },
+      "raw_titles": [
+        "易烊千玺杂志"
+      ],
+      "rank": 26,
+      "movie_rank": 11
+    },
+    {
+      "title": "孟子义回桃花坞晒照",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 217977,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9B%9E%E6%A1%83%E8%8A%B1%E5%9D%9E%E6%99%92%E7%85%A7"
+      },
+      "raw_titles": [
+        "孟子义回桃花坞晒照"
+      ],
+      "rank": 27,
+      "movie_rank": 12
+    },
+    {
+      "title": "彭昱畅官宣加入儒意电影",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 212515,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BD%AD%E6%98%B1%E7%95%85%E5%AE%98%E5%AE%A3%E5%8A%A0%E5%85%A5%E5%84%92%E6%84%8F%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "彭昱畅官宣加入儒意电影"
+      ],
+      "rank": 29,
+      "movie_rank": 13
     }
   ]
 }
