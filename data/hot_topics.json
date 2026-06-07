@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-06-07 18:00:42",
-  "total": 17,
+  "update_time": "2026-06-07 19:00:46",
+  "total": 18,
   "sports_count": 7,
-  "movie_count": 10,
+  "movie_count": 11,
   "all": [
     {
       "title": "哈兰德获哈兰德模仿大赛第二名",
@@ -10,7 +10,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7684499,
+      "hot_value": 7674533,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E8%8E%B7%E5%93%88%E5%85%B0%E5%BE%B7%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D"
       },
@@ -26,7 +26,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7635702,
+      "hot_value": 7630042,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E9%9F%A9%E4%B8%9C%E5%90%9B%E8%90%BD%E5%9C%B0%E7%AD%BEbgm%E6%9C%80%E7%87%83"
       },
@@ -42,7 +42,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7624887,
+      "hot_value": 7628963,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E5%B0%8F%E6%98%A5%E5%80%9F%E8%BF%87%E4%B8%80%E4%B8%8B%E8%88%9E%E5%8F%B0%E7%94%B5%E5%BD%B1%E6%84%9F"
       },
@@ -58,7 +58,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7619048,
+      "hot_value": 7625322,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%89%E6%96%A4%E9%A6%99%E6%B8%AF%E7%BA%BF%E4%B8%8B%E8%B7%AF%E9%80%8F"
       },
@@ -74,7 +74,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1342910,
+      "hot_value": 1541494,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%A4%9A%E4%BA%BA%E9%81%AD%E7%BE%8E%E6%8B%92%E7%AD%BE"
       },
@@ -85,36 +85,84 @@
       "sports_rank": 2
     },
     {
-      "title": "歌手第三期唱功深度reaction",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1329003,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E5%94%B1%E5%8A%9F%E6%B7%B1%E5%BA%A6reaction"
-      },
-      "raw_titles": [
-        "歌手第三期唱功深度reaction"
-      ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
       "title": "世界杯期间不抓移民了吗",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1305506,
+      "hot_value": 1527099,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E4%B8%8D%E6%8A%93%E7%A7%BB%E6%B0%91%E4%BA%86%E5%90%97"
       },
       "raw_titles": [
         "世界杯期间不抓移民了吗"
       ],
-      "rank": 7,
+      "rank": 6,
       "sports_rank": 3
+    },
+    {
+      "title": "歌手第三期唱功深度reaction",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1512795,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E5%94%B1%E5%8A%9F%E6%B7%B1%E5%BA%A6reaction"
+      },
+      "raw_titles": [
+        "歌手第三期唱功深度reaction"
+      ],
+      "rank": 7,
+      "movie_rank": 4
+    },
+    {
+      "title": "奔跑吧室友",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1483318,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%94%E8%B7%91%E5%90%A7%E5%AE%A4%E5%8F%8B"
+      },
+      "raw_titles": [
+        "奔跑吧室友"
+      ],
+      "rank": 8,
+      "movie_rank": 5
+    },
+    {
+      "title": "尼克斯客场再胜马刺微纪录",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1269035,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF%E5%AE%A2%E5%9C%BA%E5%86%8D%E8%83%9C%E9%A9%AC%E5%88%BA%E5%BE%AE%E7%BA%AA%E5%BD%95"
+      },
+      "raw_titles": [
+        "尼克斯客场再胜马刺微纪录"
+      ],
+      "rank": 9,
+      "sports_rank": 4
+    },
+    {
+      "title": "幻兽帕鲁正式版定档",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 992074,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%81%E6%AD%A3%E5%BC%8F%E7%89%88%E5%AE%9A%E6%A1%A3"
+      },
+      "raw_titles": [
+        "幻兽帕鲁正式版定档"
+      ],
+      "rank": 10,
+      "movie_rank": 6
     },
     {
       "title": "F1摩纳哥安东内利杆位",
@@ -122,79 +170,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1255804,
+      "hot_value": 990127,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%91%A9%E7%BA%B3%E5%93%A5%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E6%9D%86%E4%BD%8D"
       },
       "raw_titles": [
         "F1摩纳哥安东内利杆位"
       ],
-      "rank": 8,
-      "sports_rank": 4
-    },
-    {
-      "title": "世界杯不是一个人在战斗名场面背后",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 859740,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%9C%A8%E6%88%98%E6%96%97%E5%90%8D%E5%9C%BA%E9%9D%A2%E8%83%8C%E5%90%8E"
-      },
-      "raw_titles": [
-        "世界杯不是一个人在战斗名场面背后"
-      ],
-      "rank": 9,
+      "rank": 11,
       "sports_rank": 5
     },
     {
-      "title": "文班为何遭到唐斯限制",
+      "title": "UP主把床改造成赛车模拟器",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 668423,
+      "hot_value": 843182,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%B8%BA%E4%BD%95%E9%81%AD%E5%88%B0%E5%94%90%E6%96%AF%E9%99%90%E5%88%B6"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8A%8A%E5%BA%8A%E6%94%B9%E9%80%A0%E6%88%90%E8%B5%9B%E8%BD%A6%E6%A8%A1%E6%8B%9F%E5%99%A8"
       },
       "raw_titles": [
-        "文班为何遭到唐斯限制"
+        "UP主把床改造成赛车模拟器"
       ],
-      "rank": 10,
+      "rank": 12,
       "sports_rank": 6
     },
     {
-      "title": "导演组一直问李晨是什么意思",
+      "title": "张凌赫祝你高考大吉",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 392913,
+      "hot_value": 498442,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AF%BC%E6%BC%94%E7%BB%84%E4%B8%80%E7%9B%B4%E9%97%AE%E6%9D%8E%E6%99%A8%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%A5%9D%E4%BD%A0%E9%AB%98%E8%80%83%E5%A4%A7%E5%90%89"
       },
       "raw_titles": [
-        "导演组一直问李晨是什么意思"
+        "张凌赫祝你高考大吉"
       ],
-      "rank": 11,
-      "movie_rank": 5
-    },
-    {
-      "title": "JDG小玖退役",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 289334,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=JDG%E5%B0%8F%E7%8E%96%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "JDG小玖退役"
-      ],
-      "rank": 12,
-      "sports_rank": 7
+      "rank": 13,
+      "movie_rank": 7
     },
     {
       "title": "浪姐7 兴风作浪的节目组",
@@ -202,31 +218,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 257968,
+      "hot_value": 295339,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%907%20%E5%85%B4%E9%A3%8E%E4%BD%9C%E6%B5%AA%E7%9A%84%E8%8A%82%E7%9B%AE%E7%BB%84"
       },
       "raw_titles": [
         "浪姐7 兴风作浪的节目组"
       ],
-      "rank": 13,
-      "movie_rank": 6
+      "rank": 14,
+      "movie_rank": 8
     },
     {
-      "title": "老舅常驻五哈吧",
+      "title": "导演组一直问李晨是什么意思",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 254637,
+      "hot_value": 292684,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%E5%B8%B8%E9%A9%BB%E4%BA%94%E5%93%88%E5%90%A7"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AF%BC%E6%BC%94%E7%BB%84%E4%B8%80%E7%9B%B4%E9%97%AE%E6%9D%8E%E6%99%A8%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D"
       },
       "raw_titles": [
-        "老舅常驻五哈吧"
+        "导演组一直问李晨是什么意思"
       ],
-      "rank": 14,
-      "movie_rank": 7
+      "rank": 15,
+      "movie_rank": 9
     },
     {
       "title": "肖战谈18岁后对人生的理解",
@@ -234,31 +250,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 233758,
+      "hot_value": 288187,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%B0%8818%E5%B2%81%E5%90%8E%E5%AF%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E7%90%86%E8%A7%A3"
       },
       "raw_titles": [
         "肖战谈18岁后对人生的理解"
       ],
-      "rank": 15,
-      "movie_rank": 8
-    },
-    {
-      "title": "李现晒了女友视角的摄影照",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 226776,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%99%92%E4%BA%86%E5%A5%B3%E5%8F%8B%E8%A7%86%E8%A7%92%E7%9A%84%E6%91%84%E5%BD%B1%E7%85%A7"
-      },
-      "raw_titles": [
-        "李现晒了女友视角的摄影照"
-      ],
       "rank": 16,
-      "movie_rank": 9
+      "movie_rank": 10
     },
     {
       "title": "薛之谦的上上谦火锅最后1家门店关闭",
@@ -266,7 +266,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 90000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%9A%84%E4%B8%8A%E4%B8%8A%E8%B0%A6%E7%81%AB%E9%94%85%E6%9C%80%E5%90%8E1%E5%AE%B6%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news"
       },
@@ -274,7 +274,23 @@
         "薛之谦的上上谦火锅最后1家门店关闭"
       ],
       "rank": 17,
-      "movie_rank": 10
+      "movie_rank": 11
+    },
+    {
+      "title": "JDG小玖退役",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 206141,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=JDG%E5%B0%8F%E7%8E%96%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "JDG小玖退役"
+      ],
+      "rank": 18,
+      "sports_rank": 7
     }
   ],
   "sports": [
@@ -284,7 +300,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7684499,
+      "hot_value": 7674533,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E8%8E%B7%E5%93%88%E5%85%B0%E5%BE%B7%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D"
       },
@@ -300,7 +316,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1342910,
+      "hot_value": 1541494,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%A4%9A%E4%BA%BA%E9%81%AD%E7%BE%8E%E6%8B%92%E7%AD%BE"
       },
@@ -316,15 +332,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1305506,
+      "hot_value": 1527099,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E4%B8%8D%E6%8A%93%E7%A7%BB%E6%B0%91%E4%BA%86%E5%90%97"
       },
       "raw_titles": [
         "世界杯期间不抓移民了吗"
       ],
-      "rank": 7,
+      "rank": 6,
       "sports_rank": 3
+    },
+    {
+      "title": "尼克斯客场再胜马刺微纪录",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1269035,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF%E5%AE%A2%E5%9C%BA%E5%86%8D%E8%83%9C%E9%A9%AC%E5%88%BA%E5%BE%AE%E7%BA%AA%E5%BD%95"
+      },
+      "raw_titles": [
+        "尼克斯客场再胜马刺微纪录"
+      ],
+      "rank": 9,
+      "sports_rank": 4
     },
     {
       "title": "F1摩纳哥安东内利杆位",
@@ -332,46 +364,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1255804,
+      "hot_value": 990127,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%91%A9%E7%BA%B3%E5%93%A5%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E6%9D%86%E4%BD%8D"
       },
       "raw_titles": [
         "F1摩纳哥安东内利杆位"
       ],
-      "rank": 8,
-      "sports_rank": 4
-    },
-    {
-      "title": "世界杯不是一个人在战斗名场面背后",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 859740,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%9C%A8%E6%88%98%E6%96%97%E5%90%8D%E5%9C%BA%E9%9D%A2%E8%83%8C%E5%90%8E"
-      },
-      "raw_titles": [
-        "世界杯不是一个人在战斗名场面背后"
-      ],
-      "rank": 9,
+      "rank": 11,
       "sports_rank": 5
     },
     {
-      "title": "文班为何遭到唐斯限制",
+      "title": "UP主把床改造成赛车模拟器",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 668423,
+      "hot_value": 843182,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%B8%BA%E4%BD%95%E9%81%AD%E5%88%B0%E5%94%90%E6%96%AF%E9%99%90%E5%88%B6"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8A%8A%E5%BA%8A%E6%94%B9%E9%80%A0%E6%88%90%E8%B5%9B%E8%BD%A6%E6%A8%A1%E6%8B%9F%E5%99%A8"
       },
       "raw_titles": [
-        "文班为何遭到唐斯限制"
+        "UP主把床改造成赛车模拟器"
       ],
-      "rank": 10,
+      "rank": 12,
       "sports_rank": 6
     },
     {
@@ -380,14 +396,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 289334,
+      "hot_value": 206141,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=JDG%E5%B0%8F%E7%8E%96%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
         "JDG小玖退役"
       ],
-      "rank": 12,
+      "rank": 18,
       "sports_rank": 7
     }
   ],
@@ -398,7 +414,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7635702,
+      "hot_value": 7630042,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E9%9F%A9%E4%B8%9C%E5%90%9B%E8%90%BD%E5%9C%B0%E7%AD%BEbgm%E6%9C%80%E7%87%83"
       },
@@ -414,7 +430,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7624887,
+      "hot_value": 7628963,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E5%B0%8F%E6%98%A5%E5%80%9F%E8%BF%87%E4%B8%80%E4%B8%8B%E8%88%9E%E5%8F%B0%E7%94%B5%E5%BD%B1%E6%84%9F"
       },
@@ -430,7 +446,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7619048,
+      "hot_value": 7625322,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%89%E6%96%A4%E9%A6%99%E6%B8%AF%E7%BA%BF%E4%B8%8B%E8%B7%AF%E9%80%8F"
       },
@@ -446,31 +462,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1329003,
+      "hot_value": 1512795,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E5%94%B1%E5%8A%9F%E6%B7%B1%E5%BA%A6reaction"
       },
       "raw_titles": [
         "歌手第三期唱功深度reaction"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 4
     },
     {
-      "title": "导演组一直问李晨是什么意思",
+      "title": "奔跑吧室友",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1483318,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%94%E8%B7%91%E5%90%A7%E5%AE%A4%E5%8F%8B"
+      },
+      "raw_titles": [
+        "奔跑吧室友"
+      ],
+      "rank": 8,
+      "movie_rank": 5
+    },
+    {
+      "title": "幻兽帕鲁正式版定档",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 992074,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%81%E6%AD%A3%E5%BC%8F%E7%89%88%E5%AE%9A%E6%A1%A3"
+      },
+      "raw_titles": [
+        "幻兽帕鲁正式版定档"
+      ],
+      "rank": 10,
+      "movie_rank": 6
+    },
+    {
+      "title": "张凌赫祝你高考大吉",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 392913,
+      "hot_value": 498442,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AF%BC%E6%BC%94%E7%BB%84%E4%B8%80%E7%9B%B4%E9%97%AE%E6%9D%8E%E6%99%A8%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%A5%9D%E4%BD%A0%E9%AB%98%E8%80%83%E5%A4%A7%E5%90%89"
       },
       "raw_titles": [
-        "导演组一直问李晨是什么意思"
+        "张凌赫祝你高考大吉"
       ],
-      "rank": 11,
-      "movie_rank": 5
+      "rank": 13,
+      "movie_rank": 7
     },
     {
       "title": "浪姐7 兴风作浪的节目组",
@@ -478,31 +526,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 257968,
+      "hot_value": 295339,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%907%20%E5%85%B4%E9%A3%8E%E4%BD%9C%E6%B5%AA%E7%9A%84%E8%8A%82%E7%9B%AE%E7%BB%84"
       },
       "raw_titles": [
         "浪姐7 兴风作浪的节目组"
       ],
-      "rank": 13,
-      "movie_rank": 6
+      "rank": 14,
+      "movie_rank": 8
     },
     {
-      "title": "老舅常驻五哈吧",
+      "title": "导演组一直问李晨是什么意思",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 254637,
+      "hot_value": 292684,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%80%81%E8%88%85%E5%B8%B8%E9%A9%BB%E4%BA%94%E5%93%88%E5%90%A7"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AF%BC%E6%BC%94%E7%BB%84%E4%B8%80%E7%9B%B4%E9%97%AE%E6%9D%8E%E6%99%A8%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D"
       },
       "raw_titles": [
-        "老舅常驻五哈吧"
+        "导演组一直问李晨是什么意思"
       ],
-      "rank": 14,
-      "movie_rank": 7
+      "rank": 15,
+      "movie_rank": 9
     },
     {
       "title": "肖战谈18岁后对人生的理解",
@@ -510,31 +558,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 233758,
+      "hot_value": 288187,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%B0%8818%E5%B2%81%E5%90%8E%E5%AF%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E7%90%86%E8%A7%A3"
       },
       "raw_titles": [
         "肖战谈18岁后对人生的理解"
       ],
-      "rank": 15,
-      "movie_rank": 8
-    },
-    {
-      "title": "李现晒了女友视角的摄影照",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 226776,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%99%92%E4%BA%86%E5%A5%B3%E5%8F%8B%E8%A7%86%E8%A7%92%E7%9A%84%E6%91%84%E5%BD%B1%E7%85%A7"
-      },
-      "raw_titles": [
-        "李现晒了女友视角的摄影照"
-      ],
       "rank": 16,
-      "movie_rank": 9
+      "movie_rank": 10
     },
     {
       "title": "薛之谦的上上谦火锅最后1家门店关闭",
@@ -542,7 +574,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 90000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%9A%84%E4%B8%8A%E4%B8%8A%E8%B0%A6%E7%81%AB%E9%94%85%E6%9C%80%E5%90%8E1%E5%AE%B6%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news"
       },
@@ -550,7 +582,7 @@
         "薛之谦的上上谦火锅最后1家门店关闭"
       ],
       "rank": 17,
-      "movie_rank": 10
+      "movie_rank": 11
     }
   ]
 }
