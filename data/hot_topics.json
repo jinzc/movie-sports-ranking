@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-06-08 01:00:40",
-  "total": 18,
+  "update_time": "2026-06-08 02:00:40",
+  "total": 23,
   "sports_count": 8,
-  "movie_count": 10,
+  "movie_count": 15,
   "all": [
     {
       "title": "哈兰德获哈兰德模仿大赛第二名",
@@ -10,7 +10,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7682490,
+      "hot_value": 7722710,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E8%8E%B7%E5%93%88%E5%85%B0%E5%BE%B7%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D"
       },
@@ -26,7 +26,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7634286,
+      "hot_value": 7643795,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E9%9F%A9%E4%B8%9C%E5%90%9B%E8%90%BD%E5%9C%B0%E7%AD%BEbgm%E6%9C%80%E7%87%83"
       },
@@ -42,7 +42,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7625139,
+      "hot_value": 7635340,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E5%B0%8F%E6%98%A5%E5%80%9F%E8%BF%87%E4%B8%80%E4%B8%8B%E8%88%9E%E5%8F%B0%E7%94%B5%E5%BD%B1%E6%84%9F"
       },
@@ -53,20 +53,36 @@
       "movie_rank": 2
     },
     {
+      "title": "女神异闻录4 Revival定档预告",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 2119025,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%954%20Revival%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A"
+      },
+      "raw_titles": [
+        "女神异闻录4 Revival定档预告"
+      ],
+      "rank": 4,
+      "movie_rank": 3
+    },
+    {
       "title": "歌剧老师锐评歌手2026第三期",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1807965,
+      "hot_value": 1707195,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E4%B8%89%E6%9C%9F"
       },
       "raw_titles": [
         "歌剧老师锐评歌手2026第三期"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 5,
+      "movie_rank": 4
     },
     {
       "title": "战术拆解世界杯英格兰队",
@@ -74,15 +90,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1616602,
+      "hot_value": 1535630,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%98%E6%9C%AF%E6%8B%86%E8%A7%A3%E4%B8%96%E7%95%8C%E6%9D%AF%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F"
       },
       "raw_titles": [
         "战术拆解世界杯英格兰队"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 2
+    },
+    {
+      "title": "浪姐2026四公团秀解说",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1151022,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%902026%E5%9B%9B%E5%85%AC%E5%9B%A2%E7%A7%80%E8%A7%A3%E8%AF%B4"
+      },
+      "raw_titles": [
+        "浪姐2026四公团秀解说"
+      ],
+      "rank": 7,
+      "movie_rank": 5
+    },
+    {
+      "title": "卧龙2预告片",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1144737,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A7%E9%BE%992%E9%A2%84%E5%91%8A%E7%89%87"
+      },
+      "raw_titles": [
+        "卧龙2预告片"
+      ],
+      "rank": 8,
+      "movie_rank": 6
     },
     {
       "title": "F1",
@@ -91,7 +139,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 1472772,
+      "hot_value": 1043476,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=F1",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%91%A9%E7%BA%B3%E5%93%A5%E7%AB%99%E6%AD%A3%E8%B5%9B%E5%89%8D%E7%9E%BB"
@@ -99,24 +147,25 @@
       "raw_titles": [
         "F1"
       ],
-      "rank": 6,
+      "rank": 9,
       "sports_rank": 3
     },
     {
-      "title": "浪姐2026四公团秀解说",
+      "title": "浪姐四公个喜人气排名",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "微博"
       ],
-      "hot_value": 1296300,
+      "hot_value": 887604,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%902026%E5%9B%9B%E5%85%AC%E5%9B%A2%E7%A7%80%E8%A7%A3%E8%AF%B4"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
-        "浪姐2026四公团秀解说"
+        "浪姐四公个喜人气排名"
       ],
-      "rank": 7,
-      "movie_rank": 4
+      "rank": 10,
+      "movie_rank": 7
     },
     {
       "title": "奔跑吧室友",
@@ -124,63 +173,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1098860,
+      "hot_value": 812467,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%94%E8%B7%91%E5%90%A7%E5%AE%A4%E5%8F%8B"
       },
       "raw_titles": [
         "奔跑吧室友"
       ],
-      "rank": 8,
-      "movie_rank": 5
-    },
-    {
-      "title": "浪姐四公排名",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 827014,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E6%8E%92%E5%90%8D"
-      },
-      "raw_titles": [
-        "浪姐四公排名"
-      ],
-      "rank": 9,
-      "movie_rank": 6
-    },
-    {
-      "title": "齐思钧 雷霆雨露俱是天恩",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 816852,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E9%9B%B7%E9%9C%86%E9%9B%A8%E9%9C%B2%E4%BF%B1%E6%98%AF%E5%A4%A9%E6%81%A9"
-      },
-      "raw_titles": [
-        "齐思钧 雷霆雨露俱是天恩"
-      ],
-      "rank": 10,
-      "sports_rank": 4
-    },
-    {
-      "title": "世界杯期间不抓移民了吗",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 786711,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E4%B8%8D%E6%8A%93%E7%A7%BB%E6%B0%91%E4%BA%86%E5%90%97"
-      },
-      "raw_titles": [
-        "世界杯期间不抓移民了吗"
-      ],
       "rank": 11,
-      "sports_rank": 5
+      "movie_rank": 8
     },
     {
       "title": "歌手第三期唱功深度reaction",
@@ -188,7 +189,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 735363,
+      "hot_value": 657165,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E5%94%B1%E5%8A%9F%E6%B7%B1%E5%BA%A6reaction"
       },
@@ -196,7 +197,23 @@
         "歌手第三期唱功深度reaction"
       ],
       "rank": 12,
-      "movie_rank": 7
+      "movie_rank": 9
+    },
+    {
+      "title": "世界杯期间不抓移民了吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 538524,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E4%B8%8D%E6%8A%93%E7%A7%BB%E6%B0%91%E4%BA%86%E5%90%97"
+      },
+      "raw_titles": [
+        "世界杯期间不抓移民了吗"
+      ],
+      "rank": 13,
+      "sports_rank": 4
     },
     {
       "title": "锐评胡彦斌JonyJ歌手舞台",
@@ -204,47 +221,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 721724,
+      "hot_value": 486078,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E8%83%A1%E5%BD%A6%E6%96%8CJonyJ%E6%AD%8C%E6%89%8B%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "锐评胡彦斌JonyJ歌手舞台"
       ],
-      "rank": 13,
-      "movie_rank": 8
+      "rank": 14,
+      "movie_rank": 10
     },
     {
-      "title": "维斯塔潘退赛",
-      "category": "体育",
+      "title": "王濛翻唱致敬周杰伦",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 525066,
+      "hot_value": 479667,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E9%80%80%E8%B5%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%BF%9B%E7%BF%BB%E5%94%B1%E8%87%B4%E6%95%AC%E5%91%A8%E6%9D%B0%E4%BC%A6"
       },
       "raw_titles": [
-        "维斯塔潘退赛"
-      ],
-      "rank": 14,
-      "sports_rank": 6
-    },
-    {
-      "title": "傅子纯去世 曾出演电视剧《意难忘》",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 153000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%82%85%E5%AD%90%E7%BA%AF%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E6%84%8F%E9%9A%BE%E5%BF%98%E3%80%8B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "傅子纯去世 曾出演电视剧《意难忘》"
+        "王濛翻唱致敬周杰伦"
       ],
       "rank": 15,
-      "movie_rank": 9
+      "movie_rank": 11
+    },
+    {
+      "title": "齐思钧 雷霆雨露俱是天恩",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 443848,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E9%9B%B7%E9%9C%86%E9%9B%A8%E9%9C%B2%E4%BF%B1%E6%98%AF%E5%A4%A9%E6%81%A9"
+      },
+      "raw_titles": [
+        "齐思钧 雷霆雨露俱是天恩"
+      ],
+      "rank": 16,
+      "sports_rank": 5
+    },
+    {
+      "title": "我浪姐了 我力竭了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 381259,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%88%91%E6%B5%AA%E5%A7%90%E4%BA%86%20%E6%88%91%E5%8A%9B%E7%AB%AD%E4%BA%86"
+      },
+      "raw_titles": [
+        "我浪姐了 我力竭了"
+      ],
+      "rank": 17,
+      "movie_rank": 12
+    },
+    {
+      "title": "RAY评歌手第三期",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 379628,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F"
+      },
+      "raw_titles": [
+        "RAY评歌手第三期"
+      ],
+      "rank": 18,
+      "movie_rank": 13
+    },
+    {
+      "title": "中国女排3比1波兰女排",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 376746,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%941%E6%B3%A2%E5%85%B0%E5%A5%B3%E6%8E%92"
+      },
+      "raw_titles": [
+        "中国女排3比1波兰女排"
+      ],
+      "rank": 19,
+      "sports_rank": 6
     },
     {
       "title": "浪姐四公前后已有5位姐姐发文道歉",
@@ -252,15 +317,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 135000,
+      "hot_value": 216000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E5%89%8D%E5%90%8E%E5%B7%B2%E6%9C%895%E4%BD%8D%E5%A7%90%E5%A7%90%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89&sa=fyb_news"
       },
       "raw_titles": [
         "浪姐四公前后已有5位姐姐发文道歉"
       ],
-      "rank": 16,
-      "movie_rank": 10
+      "rank": 20,
+      "movie_rank": 14
     },
     {
       "title": "中国女排逆转波兰 豪取三连胜",
@@ -268,15 +333,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%80%86%E8%BD%AC%E6%B3%A2%E5%85%B0+%E8%B1%AA%E5%8F%96%E4%B8%89%E8%BF%9E%E8%83%9C&sa=fyb_news"
       },
       "raw_titles": [
         "中国女排逆转波兰 豪取三连胜"
       ],
-      "rank": 17,
+      "rank": 21,
       "sports_rank": 7
+    },
+    {
+      "title": "傅子纯去世 曾出演电视剧《意难忘》",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 126000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%82%85%E5%AD%90%E7%BA%AF%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E6%84%8F%E9%9A%BE%E5%BF%98%E3%80%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "傅子纯去世 曾出演电视剧《意难忘》"
+      ],
+      "rank": 22,
+      "movie_rank": 15
     },
     {
       "title": "李昊国足首秀后：22岁并不算年轻",
@@ -284,14 +365,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 9000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E6%98%8A%E5%9B%BD%E8%B6%B3%E9%A6%96%E7%A7%80%E5%90%8E%EF%BC%9A22%E5%B2%81%E5%B9%B6%E4%B8%8D%E7%AE%97%E5%B9%B4%E8%BD%BB&sa=fyb_news"
       },
       "raw_titles": [
         "李昊国足首秀后：22岁并不算年轻"
       ],
-      "rank": 18,
+      "rank": 23,
       "sports_rank": 8
     }
   ],
@@ -302,7 +383,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7682490,
+      "hot_value": 7722710,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E8%8E%B7%E5%93%88%E5%85%B0%E5%BE%B7%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D"
       },
@@ -318,14 +399,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1616602,
+      "hot_value": 1535630,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%98%E6%9C%AF%E6%8B%86%E8%A7%A3%E4%B8%96%E7%95%8C%E6%9D%AF%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F"
       },
       "raw_titles": [
         "战术拆解世界杯英格兰队"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 2
     },
     {
@@ -335,7 +416,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 1472772,
+      "hot_value": 1043476,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=F1",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%91%A9%E7%BA%B3%E5%93%A5%E7%AB%99%E6%AD%A3%E8%B5%9B%E5%89%8D%E7%9E%BB"
@@ -343,24 +424,8 @@
       "raw_titles": [
         "F1"
       ],
-      "rank": 6,
+      "rank": 9,
       "sports_rank": 3
-    },
-    {
-      "title": "齐思钧 雷霆雨露俱是天恩",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 816852,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E9%9B%B7%E9%9C%86%E9%9B%A8%E9%9C%B2%E4%BF%B1%E6%98%AF%E5%A4%A9%E6%81%A9"
-      },
-      "raw_titles": [
-        "齐思钧 雷霆雨露俱是天恩"
-      ],
-      "rank": 10,
-      "sports_rank": 4
     },
     {
       "title": "世界杯期间不抓移民了吗",
@@ -368,30 +433,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 786711,
+      "hot_value": 538524,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E4%B8%8D%E6%8A%93%E7%A7%BB%E6%B0%91%E4%BA%86%E5%90%97"
       },
       "raw_titles": [
         "世界杯期间不抓移民了吗"
       ],
-      "rank": 11,
+      "rank": 13,
+      "sports_rank": 4
+    },
+    {
+      "title": "齐思钧 雷霆雨露俱是天恩",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 443848,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E9%9B%B7%E9%9C%86%E9%9B%A8%E9%9C%B2%E4%BF%B1%E6%98%AF%E5%A4%A9%E6%81%A9"
+      },
+      "raw_titles": [
+        "齐思钧 雷霆雨露俱是天恩"
+      ],
+      "rank": 16,
       "sports_rank": 5
     },
     {
-      "title": "维斯塔潘退赛",
+      "title": "中国女排3比1波兰女排",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 525066,
+      "hot_value": 376746,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E9%80%80%E8%B5%9B"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%941%E6%B3%A2%E5%85%B0%E5%A5%B3%E6%8E%92"
       },
       "raw_titles": [
-        "维斯塔潘退赛"
+        "中国女排3比1波兰女排"
       ],
-      "rank": 14,
+      "rank": 19,
       "sports_rank": 6
     },
     {
@@ -400,14 +481,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%80%86%E8%BD%AC%E6%B3%A2%E5%85%B0+%E8%B1%AA%E5%8F%96%E4%B8%89%E8%BF%9E%E8%83%9C&sa=fyb_news"
       },
       "raw_titles": [
         "中国女排逆转波兰 豪取三连胜"
       ],
-      "rank": 17,
+      "rank": 21,
       "sports_rank": 7
     },
     {
@@ -416,14 +497,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 9000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E6%98%8A%E5%9B%BD%E8%B6%B3%E9%A6%96%E7%A7%80%E5%90%8E%EF%BC%9A22%E5%B2%81%E5%B9%B6%E4%B8%8D%E7%AE%97%E5%B9%B4%E8%BD%BB&sa=fyb_news"
       },
       "raw_titles": [
         "李昊国足首秀后：22岁并不算年轻"
       ],
-      "rank": 18,
+      "rank": 23,
       "sports_rank": 8
     }
   ],
@@ -434,7 +515,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7634286,
+      "hot_value": 7643795,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E9%9F%A9%E4%B8%9C%E5%90%9B%E8%90%BD%E5%9C%B0%E7%AD%BEbgm%E6%9C%80%E7%87%83"
       },
@@ -450,7 +531,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7625139,
+      "hot_value": 7635340,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E5%B0%8F%E6%98%A5%E5%80%9F%E8%BF%87%E4%B8%80%E4%B8%8B%E8%88%9E%E5%8F%B0%E7%94%B5%E5%BD%B1%E6%84%9F"
       },
@@ -461,20 +542,36 @@
       "movie_rank": 2
     },
     {
+      "title": "女神异闻录4 Revival定档预告",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 2119025,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%954%20Revival%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A"
+      },
+      "raw_titles": [
+        "女神异闻录4 Revival定档预告"
+      ],
+      "rank": 4,
+      "movie_rank": 3
+    },
+    {
       "title": "歌剧老师锐评歌手2026第三期",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1807965,
+      "hot_value": 1707195,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E4%B8%89%E6%9C%9F"
       },
       "raw_titles": [
         "歌剧老师锐评歌手2026第三期"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 5,
+      "movie_rank": 4
     },
     {
       "title": "浪姐2026四公团秀解说",
@@ -482,7 +579,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1296300,
+      "hot_value": 1151022,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%902026%E5%9B%9B%E5%85%AC%E5%9B%A2%E7%A7%80%E8%A7%A3%E8%AF%B4"
       },
@@ -490,7 +587,40 @@
         "浪姐2026四公团秀解说"
       ],
       "rank": 7,
-      "movie_rank": 4
+      "movie_rank": 5
+    },
+    {
+      "title": "卧龙2预告片",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1144737,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A7%E9%BE%992%E9%A2%84%E5%91%8A%E7%89%87"
+      },
+      "raw_titles": [
+        "卧龙2预告片"
+      ],
+      "rank": 8,
+      "movie_rank": 6
+    },
+    {
+      "title": "浪姐四公个喜人气排名",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 887604,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "浪姐四公个喜人气排名"
+      ],
+      "rank": 10,
+      "movie_rank": 7
     },
     {
       "title": "奔跑吧室友",
@@ -498,31 +628,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1098860,
+      "hot_value": 812467,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%94%E8%B7%91%E5%90%A7%E5%AE%A4%E5%8F%8B"
       },
       "raw_titles": [
         "奔跑吧室友"
       ],
-      "rank": 8,
-      "movie_rank": 5
-    },
-    {
-      "title": "浪姐四公排名",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 827014,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E6%8E%92%E5%90%8D"
-      },
-      "raw_titles": [
-        "浪姐四公排名"
-      ],
-      "rank": 9,
-      "movie_rank": 6
+      "rank": 11,
+      "movie_rank": 8
     },
     {
       "title": "歌手第三期唱功深度reaction",
@@ -530,7 +644,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 735363,
+      "hot_value": 657165,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E5%94%B1%E5%8A%9F%E6%B7%B1%E5%BA%A6reaction"
       },
@@ -538,7 +652,7 @@
         "歌手第三期唱功深度reaction"
       ],
       "rank": 12,
-      "movie_rank": 7
+      "movie_rank": 9
     },
     {
       "title": "锐评胡彦斌JonyJ歌手舞台",
@@ -546,31 +660,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 721724,
+      "hot_value": 486078,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E8%83%A1%E5%BD%A6%E6%96%8CJonyJ%E6%AD%8C%E6%89%8B%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "锐评胡彦斌JonyJ歌手舞台"
       ],
-      "rank": 13,
-      "movie_rank": 8
+      "rank": 14,
+      "movie_rank": 10
     },
     {
-      "title": "傅子纯去世 曾出演电视剧《意难忘》",
+      "title": "王濛翻唱致敬周杰伦",
       "category": "影视",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 153000,
+      "hot_value": 479667,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%82%85%E5%AD%90%E7%BA%AF%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E6%84%8F%E9%9A%BE%E5%BF%98%E3%80%8B&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%BF%9B%E7%BF%BB%E5%94%B1%E8%87%B4%E6%95%AC%E5%91%A8%E6%9D%B0%E4%BC%A6"
       },
       "raw_titles": [
-        "傅子纯去世 曾出演电视剧《意难忘》"
+        "王濛翻唱致敬周杰伦"
       ],
       "rank": 15,
-      "movie_rank": 9
+      "movie_rank": 11
+    },
+    {
+      "title": "我浪姐了 我力竭了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 381259,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%88%91%E6%B5%AA%E5%A7%90%E4%BA%86%20%E6%88%91%E5%8A%9B%E7%AB%AD%E4%BA%86"
+      },
+      "raw_titles": [
+        "我浪姐了 我力竭了"
+      ],
+      "rank": 17,
+      "movie_rank": 12
+    },
+    {
+      "title": "RAY评歌手第三期",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 379628,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F"
+      },
+      "raw_titles": [
+        "RAY评歌手第三期"
+      ],
+      "rank": 18,
+      "movie_rank": 13
     },
     {
       "title": "浪姐四公前后已有5位姐姐发文道歉",
@@ -578,15 +724,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 135000,
+      "hot_value": 216000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E5%89%8D%E5%90%8E%E5%B7%B2%E6%9C%895%E4%BD%8D%E5%A7%90%E5%A7%90%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89&sa=fyb_news"
       },
       "raw_titles": [
         "浪姐四公前后已有5位姐姐发文道歉"
       ],
-      "rank": 16,
-      "movie_rank": 10
+      "rank": 20,
+      "movie_rank": 14
+    },
+    {
+      "title": "傅子纯去世 曾出演电视剧《意难忘》",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 126000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%82%85%E5%AD%90%E7%BA%AF%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E6%84%8F%E9%9A%BE%E5%BF%98%E3%80%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "傅子纯去世 曾出演电视剧《意难忘》"
+      ],
+      "rank": 22,
+      "movie_rank": 15
     }
   ]
 }
