@@ -1,23 +1,49 @@
 {
-  "update_time": "2026-06-09 03:00:41",
-  "total": 26,
-  "sports_count": 8,
-  "movie_count": 18,
+  "update_time": "2026-06-09 04:00:42",
+  "total": 30,
+  "sports_count": 9,
+  "movie_count": 21,
   "all": [
+    {
+      "title": "世界杯",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "抖音",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 9471814,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%A7%E5%93%81%E4%B9%89%E4%B9%8C%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E5%87%BA%E2%80%9C%E6%BA%A2%E4%BB%B7%E2%80%9D&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BA%94%E6%8F%B4%E5%A6%86%E8%BD%BB%E6%9D%BEget",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%95%B4%E7%90%86%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%8C%E5%8D%95"
+      },
+      "raw_titles": [
+        "世界杯"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "台湾岛东部海域执法行动画面",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9180948,
+      "hot_value": 9152843,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8F%B0%E6%B9%BE%E5%B2%9B%E4%B8%9C%E9%83%A8%E6%B5%B7%E5%9F%9F%E6%89%A7%E6%B3%95%E8%A1%8C%E5%8A%A8%E7%94%BB%E9%9D%A2"
       },
       "raw_titles": [
         "台湾岛东部海域执法行动画面"
       ],
-      "rank": 1,
+      "rank": 2,
       "movie_rank": 1
     },
     {
@@ -26,15 +52,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8535262,
+      "hot_value": 8717613,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%9C%8B%E6%88%91%E7%94%A8%E6%97%A9%E8%8C%B6%E6%8B%BF%E6%8D%8F%E5%93%88%E5%85%B0%E5%BE%B7"
       },
       "raw_titles": [
         "看我用早茶拿捏哈兰德"
       ],
-      "rank": 2,
-      "sports_rank": 1
+      "rank": 3,
+      "sports_rank": 2
     },
     {
       "title": "NBA总决赛G3尼克斯vs马刺前瞻",
@@ -42,15 +68,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8156688,
+      "hot_value": 8027845,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%B0%BC%E5%85%8B%E6%96%AFvs%E9%A9%AC%E5%88%BA%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
         "NBA总决赛G3尼克斯vs马刺前瞻"
       ],
-      "rank": 3,
-      "sports_rank": 2
+      "rank": 4,
+      "sports_rank": 3
     },
     {
       "title": "奔跑吧",
@@ -59,7 +85,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 7857175,
+      "hot_value": 7829751,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7",
         "抖音": "https://www.douyin.com/search/%E5%A5%94%E8%B7%91%E5%90%A7%E5%9B%A0%E5%AE%89%E9%98%B3%E7%89%B9%E8%BE%91%E7%94%A8%E9%82%AF%E9%83%B8%E7%94%BB%E9%9D%A2%E8%87%B4%E6%AD%89"
@@ -67,7 +93,7 @@
       "raw_titles": [
         "奔跑吧"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 2
     },
     {
@@ -76,31 +102,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7746639,
+      "hot_value": 7754558,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%83%A1%E6%9E%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%98%E5%BE%B7%E5%8D%8E%E6%B7%B1%E6%83%85%E6%BC%94%E5%94%B1%E5%BF%98%E6%83%85%E6%B0%B4"
       },
       "raw_titles": [
         "胡枫演唱会刘德华深情演唱忘情水"
       ],
-      "rank": 5,
-      "movie_rank": 3
-    },
-    {
-      "title": "哈兰德想来重庆吃轻轨",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7718769,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%83%B3%E6%9D%A5%E9%87%8D%E5%BA%86%E5%90%83%E8%BD%BB%E8%BD%A8"
-      },
-      "raw_titles": [
-        "哈兰德想来重庆吃轻轨"
-      ],
       "rank": 6,
-      "sports_rank": 3
+      "movie_rank": 3
     },
     {
       "title": "谢苗谈功夫演员断层",
@@ -108,7 +118,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7713848,
+      "hot_value": 7728327,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B0%A2%E8%8B%97%E8%B0%88%E5%8A%9F%E5%A4%AB%E6%BC%94%E5%91%98%E6%96%AD%E5%B1%82"
       },
@@ -119,20 +129,20 @@
       "movie_rank": 4
     },
     {
-      "title": "王源文淇新片怀疑世界是剧本",
-      "category": "影视",
+      "title": "哈兰德想来重庆吃轻轨",
+      "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7668916,
+      "hot_value": 7719919,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E6%96%87%E6%B7%87%E6%96%B0%E7%89%87%E6%80%80%E7%96%91%E4%B8%96%E7%95%8C%E6%98%AF%E5%89%A7%E6%9C%AC"
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%83%B3%E6%9D%A5%E9%87%8D%E5%BA%86%E5%90%83%E8%BD%BB%E8%BD%A8"
       },
       "raw_titles": [
-        "王源文淇新片怀疑世界是剧本"
+        "哈兰德想来重庆吃轻轨"
       ],
       "rank": 8,
-      "movie_rank": 5
+      "sports_rank": 4
     },
     {
       "title": "安妮海瑟薇逃出绝命街定档暑期",
@@ -140,7 +150,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7645140,
+      "hot_value": 7660509,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AE%89%E5%A6%AE%E6%B5%B7%E7%91%9F%E8%96%87%E9%80%83%E5%87%BA%E7%BB%9D%E5%91%BD%E8%A1%97%E5%AE%9A%E6%A1%A3%E6%9A%91%E6%9C%9F"
       },
@@ -148,31 +158,23 @@
         "安妮海瑟薇逃出绝命街定档暑期"
       ],
       "rank": 9,
-      "movie_rank": 6
+      "movie_rank": 5
     },
     {
-      "title": "世界杯",
-      "category": "体育",
+      "title": "王源文淇新片怀疑世界是剧本",
+      "category": "影视",
       "sources": [
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "哔哩哔哩",
-        "哔哩哔哩",
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 1912793,
+      "hot_value": 7647586,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%A7%E5%93%81%E4%B9%89%E4%B9%8C%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E5%87%BA%E2%80%9C%E6%BA%A2%E4%BB%B7%E2%80%9D&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%95%B4%E7%90%86%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%8C%E5%8D%95"
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E6%96%87%E6%B7%87%E6%96%B0%E7%89%87%E6%80%80%E7%96%91%E4%B8%96%E7%95%8C%E6%98%AF%E5%89%A7%E6%9C%AC"
       },
       "raw_titles": [
-        "世界杯"
+        "王源文淇新片怀疑世界是剧本"
       ],
       "rank": 10,
-      "sports_rank": 4
+      "movie_rank": 6
     },
     {
       "title": "韩剧铁拳教育剧情有多爽",
@@ -180,7 +182,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 586684,
+      "hot_value": 424508,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2%E5%89%A7%E6%83%85%E6%9C%89%E5%A4%9A%E7%88%BD"
       },
@@ -191,36 +193,20 @@
       "movie_rank": 7
     },
     {
-      "title": "歌剧老师锐评歌手2026第三期",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 441657,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E4%B8%89%E6%9C%9F"
-      },
-      "raw_titles": [
-        "歌剧老师锐评歌手2026第三期"
-      ],
-      "rank": 12,
-      "movie_rank": 8
-    },
-    {
       "title": "综艺嘉宾与观众观感反差",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 440383,
+      "hot_value": 339415,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%BC%E8%89%BA%E5%98%89%E5%AE%BE%E4%B8%8E%E8%A7%82%E4%BC%97%E8%A7%82%E6%84%9F%E5%8F%8D%E5%B7%AE"
       },
       "raw_titles": [
         "综艺嘉宾与观众观感反差"
       ],
-      "rank": 13,
-      "movie_rank": 9
+      "rank": 12,
+      "movie_rank": 8
     },
     {
       "title": "锐评浪姐四公团内合作秀",
@@ -228,15 +214,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 411685,
+      "hot_value": 326180,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E5%9B%A2%E5%86%85%E5%90%88%E4%BD%9C%E7%A7%80"
       },
       "raw_titles": [
         "锐评浪姐四公团内合作秀"
       ],
-      "rank": 14,
-      "movie_rank": 10
+      "rank": 13,
+      "movie_rank": 9
     },
     {
       "title": "浪姐7四公跨团合作解说",
@@ -244,12 +230,28 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 370454,
+      "hot_value": 301173,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC%E8%B7%A8%E5%9B%A2%E5%90%88%E4%BD%9C%E8%A7%A3%E8%AF%B4"
       },
       "raw_titles": [
         "浪姐7四公跨团合作解说"
+      ],
+      "rank": 14,
+      "movie_rank": 10
+    },
+    {
+      "title": "歌剧老师锐评歌手2026第三期",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 253967,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E4%B8%89%E6%9C%9F"
+      },
+      "raw_titles": [
+        "歌剧老师锐评歌手2026第三期"
       ],
       "rank": 15,
       "movie_rank": 11
@@ -260,7 +262,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 316841,
+      "hot_value": 253108,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E8%B7%A8%E9%98%9F%E5%90%88%E5%94%B1"
       },
@@ -271,35 +273,83 @@
       "movie_rank": 12
     },
     {
+      "title": "女神异闻录4 Revival定档预告",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 211764,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%954%20Revival%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A"
+      },
+      "raw_titles": [
+        "女神异闻录4 Revival定档预告"
+      ],
+      "rank": 17,
+      "movie_rank": 13
+    },
+    {
+      "title": "《歌手》全员回应排名",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 207000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E5%85%A8%E5%91%98%E5%9B%9E%E5%BA%94%E6%8E%92%E5%90%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《歌手》全员回应排名"
+      ],
+      "rank": 18,
+      "movie_rank": 14
+    },
+    {
+      "title": "王鹤棣杰伦布朗探班合照曝光",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 180000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%8E%A2%E7%8F%AD%E5%90%88%E7%85%A7%E6%9B%9D%E5%85%89&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王鹤棣杰伦布朗探班合照曝光"
+      ],
+      "rank": 19,
+      "movie_rank": 15
+    },
+    {
+      "title": "公牛入驻B站",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 158152,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%AC%E7%89%9B%E5%85%A5%E9%A9%BBB%E7%AB%99"
+      },
+      "raw_titles": [
+        "公牛入驻B站"
+      ],
+      "rank": 20,
+      "sports_rank": 5
+    },
+    {
       "title": "UP主把床改造成赛车模拟器",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 198168,
+      "hot_value": 146200,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8A%8A%E5%BA%8A%E6%94%B9%E9%80%A0%E6%88%90%E8%B5%9B%E8%BD%A6%E6%A8%A1%E6%8B%9F%E5%99%A8"
       },
       "raw_titles": [
         "UP主把床改造成赛车模拟器"
       ],
-      "rank": 17,
-      "sports_rank": 5
-    },
-    {
-      "title": "哈兰德听了中国球迷创作的哈兰德之歌",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 90000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E5%90%AC%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%88%9B%E4%BD%9C%E7%9A%84%E5%93%88%E5%85%B0%E5%BE%B7%E4%B9%8B%E6%AD%8C&sa=fyb_news"
-      },
-      "raw_titles": [
-        "哈兰德听了中国球迷创作的哈兰德之歌"
-      ],
-      "rank": 18,
+      "rank": 21,
       "sports_rank": 6
     },
     {
@@ -308,30 +358,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 80874,
+      "hot_value": 58088,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E6%96%B9%E5%81%9C%E6%AD%A2%E6%B5%AA%E5%A7%90%E9%80%89%E6%AD%8C"
       },
       "raw_titles": [
         "张月方停止浪姐选歌"
       ],
-      "rank": 19,
-      "movie_rank": 13
+      "rank": 22,
+      "movie_rank": 16
     },
     {
-      "title": "郑钦文vs克里斯蒂安",
+      "title": "哈兰德听了中国球迷创作的哈兰德之歌",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 71247,
+      "hot_value": 54000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%AE%89"
+        "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E5%90%AC%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%88%9B%E4%BD%9C%E7%9A%84%E5%93%88%E5%85%B0%E5%BE%B7%E4%B9%8B%E6%AD%8C&sa=fyb_news"
       },
       "raw_titles": [
-        "郑钦文vs克里斯蒂安"
+        "哈兰德听了中国球迷创作的哈兰德之歌"
       ],
-      "rank": 20,
+      "rank": 23,
       "sports_rank": 7
     },
     {
@@ -340,47 +390,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 65165,
+      "hot_value": 45226,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8C%85%E5%9C%BA%E7%99%BD%E9%B9%BF%E8%8E%AB%E7%A6%BB"
       },
       "raw_titles": [
         "王鹤棣包场白鹿莫离"
       ],
-      "rank": 21,
-      "movie_rank": 14
+      "rank": 24,
+      "movie_rank": 17
     },
     {
-      "title": "郑钦文世界排名跌至第122位",
+      "title": "郑钦文vs克里斯蒂安",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 47471,
+      "hot_value": 40897,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B3%E7%AC%AC122%E4%BD%8D"
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%AE%89"
       },
       "raw_titles": [
-        "郑钦文世界排名跌至第122位"
+        "郑钦文vs克里斯蒂安"
       ],
-      "rank": 22,
+      "rank": 25,
       "sports_rank": 8
-    },
-    {
-      "title": "曝浪姐节目组劝李小冉换歌",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 45869,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%B5%AA%E5%A7%90%E8%8A%82%E7%9B%AE%E7%BB%84%E5%8A%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E6%8D%A2%E6%AD%8C"
-      },
-      "raw_titles": [
-        "曝浪姐节目组劝李小冉换歌"
-      ],
-      "rank": 23,
-      "movie_rank": 15
     },
     {
       "title": "熬夜看WWDC26",
@@ -388,15 +422,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 41777,
+      "hot_value": 30976,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8BWWDC26"
       },
       "raw_titles": [
         "熬夜看WWDC26"
       ],
-      "rank": 24,
-      "movie_rank": 16
+      "rank": 26,
+      "movie_rank": 18
+    },
+    {
+      "title": "曝浪姐节目组劝李小冉换歌",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30946,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%B5%AA%E5%A7%90%E8%8A%82%E7%9B%AE%E7%BB%84%E5%8A%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E6%8D%A2%E6%AD%8C"
+      },
+      "raw_titles": [
+        "曝浪姐节目组劝李小冉换歌"
+      ],
+      "rank": 27,
+      "movie_rank": 19
+    },
+    {
+      "title": "郑钦文世界排名跌至第122位",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30905,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B3%E7%AC%AC122%E4%BD%8D"
+      },
+      "raw_titles": [
+        "郑钦文世界排名跌至第122位"
+      ],
+      "rank": 28,
+      "sports_rank": 9
     },
     {
       "title": "刘浩存主角收官发文",
@@ -404,82 +470,34 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 41064,
+      "hot_value": 30886,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E4%B8%BB%E8%A7%92%E6%94%B6%E5%AE%98%E5%8F%91%E6%96%87"
       },
       "raw_titles": [
         "刘浩存主角收官发文"
       ],
-      "rank": 25,
-      "movie_rank": 17
+      "rank": 29,
+      "movie_rank": 20
     },
     {
-      "title": "《歌手》全员回应排名",
+      "title": "浪姐选歌结果",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 36000,
+      "hot_value": 30838,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E5%85%A8%E5%91%98%E5%9B%9E%E5%BA%94%E6%8E%92%E5%90%8D&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E9%80%89%E6%AD%8C%E7%BB%93%E6%9E%9C"
       },
       "raw_titles": [
-        "《歌手》全员回应排名"
+        "浪姐选歌结果"
       ],
-      "rank": 26,
-      "movie_rank": 18
+      "rank": 30,
+      "movie_rank": 21
     }
   ],
   "sports": [
-    {
-      "title": "看我用早茶拿捏哈兰德",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8535262,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%9C%8B%E6%88%91%E7%94%A8%E6%97%A9%E8%8C%B6%E6%8B%BF%E6%8D%8F%E5%93%88%E5%85%B0%E5%BE%B7"
-      },
-      "raw_titles": [
-        "看我用早茶拿捏哈兰德"
-      ],
-      "rank": 2,
-      "sports_rank": 1
-    },
-    {
-      "title": "NBA总决赛G3尼克斯vs马刺前瞻",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8156688,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%B0%BC%E5%85%8B%E6%96%AFvs%E9%A9%AC%E5%88%BA%E5%89%8D%E7%9E%BB"
-      },
-      "raw_titles": [
-        "NBA总决赛G3尼克斯vs马刺前瞻"
-      ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
-      "title": "哈兰德想来重庆吃轻轨",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7718769,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%83%B3%E6%9D%A5%E9%87%8D%E5%BA%86%E5%90%83%E8%BD%BB%E8%BD%A8"
-      },
-      "raw_titles": [
-        "哈兰德想来重庆吃轻轨"
-      ],
-      "rank": 6,
-      "sports_rank": 3
-    },
     {
       "title": "世界杯",
       "category": "体育",
@@ -489,20 +507,86 @@
         "百度",
         "百度",
         "百度",
+        "抖音",
         "哔哩哔哩",
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 1912793,
+      "hot_value": 9471814,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%A7%E5%93%81%E4%B9%89%E4%B9%8C%E4%B8%BA%E4%BD%95%E8%83%BD%E5%8D%96%E5%87%BA%E2%80%9C%E6%BA%A2%E4%BB%B7%E2%80%9D&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BA%94%E6%8F%B4%E5%A6%86%E8%BD%BB%E6%9D%BEget",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%95%B4%E7%90%86%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%8C%E5%8D%95"
       },
       "raw_titles": [
         "世界杯"
       ],
-      "rank": 10,
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "看我用早茶拿捏哈兰德",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8717613,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%9C%8B%E6%88%91%E7%94%A8%E6%97%A9%E8%8C%B6%E6%8B%BF%E6%8D%8F%E5%93%88%E5%85%B0%E5%BE%B7"
+      },
+      "raw_titles": [
+        "看我用早茶拿捏哈兰德"
+      ],
+      "rank": 3,
+      "sports_rank": 2
+    },
+    {
+      "title": "NBA总决赛G3尼克斯vs马刺前瞻",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8027845,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%B0%BC%E5%85%8B%E6%96%AFvs%E9%A9%AC%E5%88%BA%E5%89%8D%E7%9E%BB"
+      },
+      "raw_titles": [
+        "NBA总决赛G3尼克斯vs马刺前瞻"
+      ],
+      "rank": 4,
+      "sports_rank": 3
+    },
+    {
+      "title": "哈兰德想来重庆吃轻轨",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7719919,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%83%B3%E6%9D%A5%E9%87%8D%E5%BA%86%E5%90%83%E8%BD%BB%E8%BD%A8"
+      },
+      "raw_titles": [
+        "哈兰德想来重庆吃轻轨"
+      ],
+      "rank": 8,
       "sports_rank": 4
+    },
+    {
+      "title": "公牛入驻B站",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 158152,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%AC%E7%89%9B%E5%85%A5%E9%A9%BBB%E7%AB%99"
+      },
+      "raw_titles": [
+        "公牛入驻B站"
+      ],
+      "rank": 20,
+      "sports_rank": 5
     },
     {
       "title": "UP主把床改造成赛车模拟器",
@@ -510,15 +594,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 198168,
+      "hot_value": 146200,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8A%8A%E5%BA%8A%E6%94%B9%E9%80%A0%E6%88%90%E8%B5%9B%E8%BD%A6%E6%A8%A1%E6%8B%9F%E5%99%A8"
       },
       "raw_titles": [
         "UP主把床改造成赛车模拟器"
       ],
-      "rank": 17,
-      "sports_rank": 5
+      "rank": 21,
+      "sports_rank": 6
     },
     {
       "title": "哈兰德听了中国球迷创作的哈兰德之歌",
@@ -526,15 +610,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 90000,
+      "hot_value": 54000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E5%90%AC%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%88%9B%E4%BD%9C%E7%9A%84%E5%93%88%E5%85%B0%E5%BE%B7%E4%B9%8B%E6%AD%8C&sa=fyb_news"
       },
       "raw_titles": [
         "哈兰德听了中国球迷创作的哈兰德之歌"
       ],
-      "rank": 18,
-      "sports_rank": 6
+      "rank": 23,
+      "sports_rank": 7
     },
     {
       "title": "郑钦文vs克里斯蒂安",
@@ -542,15 +626,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 71247,
+      "hot_value": 40897,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%AE%89"
       },
       "raw_titles": [
         "郑钦文vs克里斯蒂安"
       ],
-      "rank": 20,
-      "sports_rank": 7
+      "rank": 25,
+      "sports_rank": 8
     },
     {
       "title": "郑钦文世界排名跌至第122位",
@@ -558,15 +642,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 47471,
+      "hot_value": 30905,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B3%E7%AC%AC122%E4%BD%8D"
       },
       "raw_titles": [
         "郑钦文世界排名跌至第122位"
       ],
-      "rank": 22,
-      "sports_rank": 8
+      "rank": 28,
+      "sports_rank": 9
     }
   ],
   "movies": [
@@ -576,14 +660,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9180948,
+      "hot_value": 9152843,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8F%B0%E6%B9%BE%E5%B2%9B%E4%B8%9C%E9%83%A8%E6%B5%B7%E5%9F%9F%E6%89%A7%E6%B3%95%E8%A1%8C%E5%8A%A8%E7%94%BB%E9%9D%A2"
       },
       "raw_titles": [
         "台湾岛东部海域执法行动画面"
       ],
-      "rank": 1,
+      "rank": 2,
       "movie_rank": 1
     },
     {
@@ -593,7 +677,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 7857175,
+      "hot_value": 7829751,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7",
         "抖音": "https://www.douyin.com/search/%E5%A5%94%E8%B7%91%E5%90%A7%E5%9B%A0%E5%AE%89%E9%98%B3%E7%89%B9%E8%BE%91%E7%94%A8%E9%82%AF%E9%83%B8%E7%94%BB%E9%9D%A2%E8%87%B4%E6%AD%89"
@@ -601,7 +685,7 @@
       "raw_titles": [
         "奔跑吧"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 2
     },
     {
@@ -610,14 +694,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7746639,
+      "hot_value": 7754558,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%83%A1%E6%9E%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%98%E5%BE%B7%E5%8D%8E%E6%B7%B1%E6%83%85%E6%BC%94%E5%94%B1%E5%BF%98%E6%83%85%E6%B0%B4"
       },
       "raw_titles": [
         "胡枫演唱会刘德华深情演唱忘情水"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 3
     },
     {
@@ -626,7 +710,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7713848,
+      "hot_value": 7728327,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B0%A2%E8%8B%97%E8%B0%88%E5%8A%9F%E5%A4%AB%E6%BC%94%E5%91%98%E6%96%AD%E5%B1%82"
       },
@@ -637,28 +721,12 @@
       "movie_rank": 4
     },
     {
-      "title": "王源文淇新片怀疑世界是剧本",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7668916,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E6%96%87%E6%B7%87%E6%96%B0%E7%89%87%E6%80%80%E7%96%91%E4%B8%96%E7%95%8C%E6%98%AF%E5%89%A7%E6%9C%AC"
-      },
-      "raw_titles": [
-        "王源文淇新片怀疑世界是剧本"
-      ],
-      "rank": 8,
-      "movie_rank": 5
-    },
-    {
       "title": "安妮海瑟薇逃出绝命街定档暑期",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7645140,
+      "hot_value": 7660509,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AE%89%E5%A6%AE%E6%B5%B7%E7%91%9F%E8%96%87%E9%80%83%E5%87%BA%E7%BB%9D%E5%91%BD%E8%A1%97%E5%AE%9A%E6%A1%A3%E6%9A%91%E6%9C%9F"
       },
@@ -666,6 +734,22 @@
         "安妮海瑟薇逃出绝命街定档暑期"
       ],
       "rank": 9,
+      "movie_rank": 5
+    },
+    {
+      "title": "王源文淇新片怀疑世界是剧本",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7647586,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E6%96%87%E6%B7%87%E6%96%B0%E7%89%87%E6%80%80%E7%96%91%E4%B8%96%E7%95%8C%E6%98%AF%E5%89%A7%E6%9C%AC"
+      },
+      "raw_titles": [
+        "王源文淇新片怀疑世界是剧本"
+      ],
+      "rank": 10,
       "movie_rank": 6
     },
     {
@@ -674,7 +758,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 586684,
+      "hot_value": 424508,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2%E5%89%A7%E6%83%85%E6%9C%89%E5%A4%9A%E7%88%BD"
       },
@@ -685,36 +769,20 @@
       "movie_rank": 7
     },
     {
-      "title": "歌剧老师锐评歌手2026第三期",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 441657,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E4%B8%89%E6%9C%9F"
-      },
-      "raw_titles": [
-        "歌剧老师锐评歌手2026第三期"
-      ],
-      "rank": 12,
-      "movie_rank": 8
-    },
-    {
       "title": "综艺嘉宾与观众观感反差",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 440383,
+      "hot_value": 339415,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%BC%E8%89%BA%E5%98%89%E5%AE%BE%E4%B8%8E%E8%A7%82%E4%BC%97%E8%A7%82%E6%84%9F%E5%8F%8D%E5%B7%AE"
       },
       "raw_titles": [
         "综艺嘉宾与观众观感反差"
       ],
-      "rank": 13,
-      "movie_rank": 9
+      "rank": 12,
+      "movie_rank": 8
     },
     {
       "title": "锐评浪姐四公团内合作秀",
@@ -722,15 +790,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 411685,
+      "hot_value": 326180,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E5%9B%A2%E5%86%85%E5%90%88%E4%BD%9C%E7%A7%80"
       },
       "raw_titles": [
         "锐评浪姐四公团内合作秀"
       ],
-      "rank": 14,
-      "movie_rank": 10
+      "rank": 13,
+      "movie_rank": 9
     },
     {
       "title": "浪姐7四公跨团合作解说",
@@ -738,12 +806,28 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 370454,
+      "hot_value": 301173,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC%E8%B7%A8%E5%9B%A2%E5%90%88%E4%BD%9C%E8%A7%A3%E8%AF%B4"
       },
       "raw_titles": [
         "浪姐7四公跨团合作解说"
+      ],
+      "rank": 14,
+      "movie_rank": 10
+    },
+    {
+      "title": "歌剧老师锐评歌手2026第三期",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 253967,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E4%B8%89%E6%9C%9F"
+      },
+      "raw_titles": [
+        "歌剧老师锐评歌手2026第三期"
       ],
       "rank": 15,
       "movie_rank": 11
@@ -754,7 +838,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 316841,
+      "hot_value": 253108,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E8%B7%A8%E9%98%9F%E5%90%88%E5%94%B1"
       },
@@ -765,84 +849,20 @@
       "movie_rank": 12
     },
     {
-      "title": "张月方停止浪姐选歌",
+      "title": "女神异闻录4 Revival定档预告",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 80874,
+      "hot_value": 211764,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E6%96%B9%E5%81%9C%E6%AD%A2%E6%B5%AA%E5%A7%90%E9%80%89%E6%AD%8C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%954%20Revival%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A"
       },
       "raw_titles": [
-        "张月方停止浪姐选歌"
+        "女神异闻录4 Revival定档预告"
       ],
-      "rank": 19,
+      "rank": 17,
       "movie_rank": 13
-    },
-    {
-      "title": "王鹤棣包场白鹿莫离",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 65165,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8C%85%E5%9C%BA%E7%99%BD%E9%B9%BF%E8%8E%AB%E7%A6%BB"
-      },
-      "raw_titles": [
-        "王鹤棣包场白鹿莫离"
-      ],
-      "rank": 21,
-      "movie_rank": 14
-    },
-    {
-      "title": "曝浪姐节目组劝李小冉换歌",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 45869,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%B5%AA%E5%A7%90%E8%8A%82%E7%9B%AE%E7%BB%84%E5%8A%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E6%8D%A2%E6%AD%8C"
-      },
-      "raw_titles": [
-        "曝浪姐节目组劝李小冉换歌"
-      ],
-      "rank": 23,
-      "movie_rank": 15
-    },
-    {
-      "title": "熬夜看WWDC26",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 41777,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8BWWDC26"
-      },
-      "raw_titles": [
-        "熬夜看WWDC26"
-      ],
-      "rank": 24,
-      "movie_rank": 16
-    },
-    {
-      "title": "刘浩存主角收官发文",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 41064,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E4%B8%BB%E8%A7%92%E6%94%B6%E5%AE%98%E5%8F%91%E6%96%87"
-      },
-      "raw_titles": [
-        "刘浩存主角收官发文"
-      ],
-      "rank": 25,
-      "movie_rank": 17
     },
     {
       "title": "《歌手》全员回应排名",
@@ -850,15 +870,127 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 207000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E5%85%A8%E5%91%98%E5%9B%9E%E5%BA%94%E6%8E%92%E5%90%8D&sa=fyb_news"
       },
       "raw_titles": [
         "《歌手》全员回应排名"
       ],
+      "rank": 18,
+      "movie_rank": 14
+    },
+    {
+      "title": "王鹤棣杰伦布朗探班合照曝光",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 180000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%8E%A2%E7%8F%AD%E5%90%88%E7%85%A7%E6%9B%9D%E5%85%89&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王鹤棣杰伦布朗探班合照曝光"
+      ],
+      "rank": 19,
+      "movie_rank": 15
+    },
+    {
+      "title": "张月方停止浪姐选歌",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 58088,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E6%96%B9%E5%81%9C%E6%AD%A2%E6%B5%AA%E5%A7%90%E9%80%89%E6%AD%8C"
+      },
+      "raw_titles": [
+        "张月方停止浪姐选歌"
+      ],
+      "rank": 22,
+      "movie_rank": 16
+    },
+    {
+      "title": "王鹤棣包场白鹿莫离",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 45226,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8C%85%E5%9C%BA%E7%99%BD%E9%B9%BF%E8%8E%AB%E7%A6%BB"
+      },
+      "raw_titles": [
+        "王鹤棣包场白鹿莫离"
+      ],
+      "rank": 24,
+      "movie_rank": 17
+    },
+    {
+      "title": "熬夜看WWDC26",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30976,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8BWWDC26"
+      },
+      "raw_titles": [
+        "熬夜看WWDC26"
+      ],
       "rank": 26,
       "movie_rank": 18
+    },
+    {
+      "title": "曝浪姐节目组劝李小冉换歌",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30946,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%B5%AA%E5%A7%90%E8%8A%82%E7%9B%AE%E7%BB%84%E5%8A%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E6%8D%A2%E6%AD%8C"
+      },
+      "raw_titles": [
+        "曝浪姐节目组劝李小冉换歌"
+      ],
+      "rank": 27,
+      "movie_rank": 19
+    },
+    {
+      "title": "刘浩存主角收官发文",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30886,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E4%B8%BB%E8%A7%92%E6%94%B6%E5%AE%98%E5%8F%91%E6%96%87"
+      },
+      "raw_titles": [
+        "刘浩存主角收官发文"
+      ],
+      "rank": 29,
+      "movie_rank": 20
+    },
+    {
+      "title": "浪姐选歌结果",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30838,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E9%80%89%E6%AD%8C%E7%BB%93%E6%9E%9C"
+      },
+      "raw_titles": [
+        "浪姐选歌结果"
+      ],
+      "rank": 30,
+      "movie_rank": 21
     }
   ]
 }
