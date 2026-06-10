@@ -1,40 +1,44 @@
 {
-  "update_time": "2026-06-11 06:00:43",
-  "total": 43,
-  "sports_count": 33,
-  "movie_count": 11,
+  "update_time": "2026-06-11 07:00:43",
+  "total": 22,
+  "sports_count": 10,
+  "movie_count": 12,
   "all": [
     {
-      "title": "2026世界杯小组赛赛程",
+      "title": "世界杯",
       "category": "体育",
       "sources": [
-        "抖音"
+        "微博",
+        "微博",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "抖音",
+        "抖音",
+        "抖音",
+        "抖音",
+        "抖音",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩"
       ],
-      "hot_value": 11273500,
+      "hot_value": 46495883,
       "urls": {
-        "抖音": "https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E8%B5%9B%E7%A8%8B"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B",
+        "百度": "https://m.baidu.com/s?word=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B7%9F%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B9%90%E8%AF%84%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%90%8D%E5%9C%BA%E9%9D%A2"
       },
       "raw_titles": [
-        "2026世界杯小组赛赛程"
+        "世界杯"
       ],
       "rank": 1,
       "sports_rank": 1
-    },
-    {
-      "title": "世界杯你的唐梓回来了",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9202785,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86"
-      },
-      "raw_titles": [
-        "世界杯你的唐梓回来了"
-      ],
-      "rank": 2,
-      "sports_rank": 2
     },
     {
       "title": "NBA总决赛第四场前瞻",
@@ -42,15 +46,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8638638,
+      "hot_value": 8534692,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%AC%AC%E5%9B%9B%E5%9C%BA%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
         "NBA总决赛第四场前瞻"
       ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "耀眼大结局",
@@ -58,63 +62,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8238257,
+      "hot_value": 7769254,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%80%80%E7%9C%BC%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "耀眼大结局"
       ],
-      "rank": 4,
+      "rank": 3,
       "movie_rank": 1
-    },
-    {
-      "title": "梅西热身赛点射破门",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8157568,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E7%83%AD%E8%BA%AB%E8%B5%9B%E7%82%B9%E5%B0%84%E7%A0%B4%E9%97%A8"
-      },
-      "raw_titles": [
-        "梅西热身赛点射破门"
-      ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "世界杯预言家已就位",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7810197,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E5%B0%B1%E4%BD%8D"
-      },
-      "raw_titles": [
-        "世界杯预言家已就位"
-      ],
-      "rank": 6,
-      "sports_rank": 5
-    },
-    {
-      "title": "全抖音寻找世界杯梗王",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7772689,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E5%AF%BB%E6%89%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%A2%97%E7%8E%8B"
-      },
-      "raw_titles": [
-        "全抖音寻找世界杯梗王"
-      ],
-      "rank": 7,
-      "sports_rank": 6
     },
     {
       "title": "白鹿新剧编剧争议法律解读",
@@ -122,31 +78,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7741936,
+      "hot_value": 7763303,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%99%BD%E9%B9%BF%E6%96%B0%E5%89%A7%E7%BC%96%E5%89%A7%E4%BA%89%E8%AE%AE%E6%B3%95%E5%BE%8B%E8%A7%A3%E8%AF%BB"
       },
       "raw_titles": [
         "白鹿新剧编剧争议法律解读"
       ],
-      "rank": 8,
+      "rank": 4,
       "movie_rank": 2
-    },
-    {
-      "title": "起猛了无处不在的世界杯",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7736150,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "起猛了无处不在的世界杯"
-      ],
-      "rank": 9,
-      "sports_rank": 7
     },
     {
       "title": "西游记老鼠精片段翻拍",
@@ -154,31 +94,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707717,
+      "hot_value": 7736589,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E8%80%81%E9%BC%A0%E7%B2%BE%E7%89%87%E6%AE%B5%E7%BF%BB%E6%8B%8D"
       },
       "raw_titles": [
         "西游记老鼠精片段翻拍"
       ],
-      "rank": 10,
+      "rank": 5,
       "movie_rank": 3
     },
     {
-      "title": "乐评甲亢哥世界杯主题曲",
-      "category": "体育",
+      "title": "王鹤棣又带我和杰伦布朗打球了",
+      "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7680042,
+      "hot_value": 7670447,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B9%90%E8%AF%84%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2"
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%88%E5%B8%A6%E6%88%91%E5%92%8C%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%89%93%E7%90%83%E4%BA%86"
       },
       "raw_titles": [
-        "乐评甲亢哥世界杯主题曲"
+        "王鹤棣又带我和杰伦布朗打球了"
       ],
-      "rank": 11,
-      "sports_rank": 8
+      "rank": 6,
+      "movie_rank": 4
     },
     {
       "title": "给哈兰德推荐一道中国菜",
@@ -186,15 +126,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7658250,
+      "hot_value": 7654310,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%99%E5%93%88%E5%85%B0%E5%BE%B7%E6%8E%A8%E8%8D%90%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C"
       },
       "raw_titles": [
         "给哈兰德推荐一道中国菜"
       ],
-      "rank": 12,
-      "sports_rank": 9
+      "rank": 7,
+      "sports_rank": 3
     },
     {
       "title": "鼠牛功夫高虎兔胆气豪",
@@ -202,63 +142,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7652000,
+      "hot_value": 7650302,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%BC%A0%E7%89%9B%E5%8A%9F%E5%A4%AB%E9%AB%98%E8%99%8E%E5%85%94%E8%83%86%E6%B0%94%E8%B1%AA"
       },
       "raw_titles": [
         "鼠牛功夫高虎兔胆气豪"
       ],
-      "rank": 13,
-      "movie_rank": 4
-    },
-    {
-      "title": "2026高考收官",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 474580,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98"
-      },
-      "raw_titles": [
-        "2026高考收官"
-      ],
-      "rank": 14,
+      "rank": 8,
       "movie_rank": 5
-    },
-    {
-      "title": "近18万张世界杯门票滞销",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%BF%9118%E4%B8%87%E5%BC%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%A8%E7%A5%A8%E6%BB%9E%E9%94%80&sa=fyb_news"
-      },
-      "raw_titles": [
-        "近18万张世界杯门票滞销"
-      ],
-      "rank": 15,
-      "sports_rank": 10
-    },
-    {
-      "title": "世界杯倒计时1天",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯倒计时1天"
-      ],
-      "rank": 16,
-      "sports_rank": 11
     },
     {
       "title": "好多不是歌手的明星也开演唱会",
@@ -266,81 +158,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 378793,
+      "hot_value": 862939,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%A4%9A%E4%B8%8D%E6%98%AF%E6%AD%8C%E6%89%8B%E7%9A%84%E6%98%8E%E6%98%9F%E4%B9%9F%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "好多不是歌手的明星也开演唱会"
       ],
-      "rank": 17,
+      "rank": 9,
       "movie_rank": 6
     },
     {
-      "title": "索马里籍世界杯裁判被美国遣返",
-      "category": "体育",
+      "title": "2026高考收官",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 357468,
+      "hot_value": 591140,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E9%A9%AC%E9%87%8C%E7%B1%8D%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BE%8E%E5%9B%BD%E9%81%A3%E8%BF%94"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98"
       },
       "raw_titles": [
-        "索马里籍世界杯裁判被美国遣返"
+        "2026高考收官"
       ],
-      "rank": 18,
-      "sports_rank": 12
-    },
-    {
-      "title": "梅西C罗世界杯正赛对决只有三种可能",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 354526,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BFC%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E8%B5%9B%E5%AF%B9%E5%86%B3%E5%8F%AA%E6%9C%89%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD",
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BFC%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E8%B5%9B%E5%AF%B9%E5%86%B3%E5%8F%AA%E6%9C%89%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD&sa=fyb_news"
-      },
-      "raw_titles": [
-        "梅西C罗世界杯正赛对决只有三种可能"
-      ],
-      "rank": 19,
-      "sports_rank": 13
-    },
-    {
-      "title": "这届世界杯含梗量过多",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 260320,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%AB%E6%A2%97%E9%87%8F%E8%BF%87%E5%A4%9A"
-      },
-      "raw_titles": [
-        "这届世界杯含梗量过多"
-      ],
-      "rank": 20,
-      "sports_rank": 14
-    },
-    {
-      "title": "世界杯巡礼之法国",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 238449,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%A1%E7%A4%BC%E4%B9%8B%E6%B3%95%E5%9B%BD"
-      },
-      "raw_titles": [
-        "世界杯巡礼之法国"
-      ],
-      "rank": 21,
-      "sports_rank": 15
+      "rank": 10,
+      "movie_rank": 7
     },
     {
       "title": "鸣潮边缘行者二创动画",
@@ -348,48 +190,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 219625,
+      "hot_value": 286274,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85%E4%BA%8C%E5%88%9B%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "鸣潮边缘行者二创动画"
       ],
-      "rank": 22,
-      "movie_rank": 7
-    },
-    {
-      "title": "这些新面孔有机会在世界杯一举成名",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 207000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E6%96%B0%E9%9D%A2%E5%AD%94%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%80%E4%B8%BE%E6%88%90%E5%90%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "这些新面孔有机会在世界杯一举成名"
-      ],
-      "rank": 23,
-      "sports_rank": 16
-    },
-    {
-      "title": "世界杯开幕喜剧上映 看球喝蒙牛",
-      "category": "综合",
-      "sources": [
-        "微博",
-        "微博"
-      ],
-      "hot_value": 169185,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "世界杯开幕喜剧上映 看球喝蒙牛"
-      ],
-      "rank": 24,
-      "sports_rank": 17,
+      "rank": 11,
       "movie_rank": 8
     },
     {
@@ -405,56 +213,8 @@
       "raw_titles": [
         "姆巴佩渴望“复仇”"
       ],
-      "rank": 25,
-      "sports_rank": 18
-    },
-    {
-      "title": "关于世界杯的夏日记忆",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 148322,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%B3%E4%BA%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E5%A4%8F%E6%97%A5%E8%AE%B0%E5%BF%86"
-      },
-      "raw_titles": [
-        "关于世界杯的夏日记忆"
-      ],
-      "rank": 26,
-      "sports_rank": 19
-    },
-    {
-      "title": "世界杯是一场近5500亿元的全球生意",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 144000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E4%B8%80%E5%9C%BA%E8%BF%915500%E4%BA%BF%E5%85%83%E7%9A%84%E5%85%A8%E7%90%83%E7%94%9F%E6%84%8F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯是一场近5500亿元的全球生意"
-      ],
-      "rank": 27,
-      "sports_rank": 20
-    },
-    {
-      "title": "世界杯战术拆解之西班牙",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 132509,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%88%98%E6%9C%AF%E6%8B%86%E8%A7%A3%E4%B9%8B%E8%A5%BF%E7%8F%AD%E7%89%99"
-      },
-      "raw_titles": [
-        "世界杯战术拆解之西班牙"
-      ],
-      "rank": 28,
-      "sports_rank": 21
+      "rank": 12,
+      "sports_rank": 4
     },
     {
       "title": "21世纪NBA100大名场面",
@@ -462,47 +222,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 106161,
+      "hot_value": 116703,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA100%E5%A4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2"
       },
       "raw_titles": [
         "21世纪NBA100大名场面"
       ],
-      "rank": 29,
-      "sports_rank": 22
-    },
-    {
-      "title": "F1巴塞罗那赛前指南",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 83420,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E8%B5%9B%E5%89%8D%E6%8C%87%E5%8D%97"
-      },
-      "raw_titles": [
-        "F1巴塞罗那赛前指南"
-      ],
-      "rank": 30,
-      "sports_rank": 23
-    },
-    {
-      "title": "孙颖莎达成了新成就",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 77021,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BE%BE%E6%88%90%E4%BA%86%E6%96%B0%E6%88%90%E5%B0%B1"
-      },
-      "raw_titles": [
-        "孙颖莎达成了新成就"
-      ],
-      "rank": 31,
-      "sports_rank": 24
+      "rank": 13,
+      "sports_rank": 5
     },
     {
       "title": "张凌赫到底吃了多少短剧",
@@ -510,14 +238,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 76956,
+      "hot_value": 100230,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%B0%E5%BA%95%E5%90%83%E4%BA%86%E5%A4%9A%E5%B0%91%E7%9F%AD%E5%89%A7"
       },
       "raw_titles": [
         "张凌赫到底吃了多少短剧"
       ],
-      "rank": 32,
+      "rank": 14,
       "movie_rank": 9
     },
     {
@@ -526,15 +254,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 76633,
+      "hot_value": 100070,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%8E%B7%E5%BE%B7%E7%94%B2%E8%B5%9B%E5%AD%A3%E6%9C%80%E4%BD%B3%E7%90%83%E5%91%98"
       },
       "raw_titles": [
         "樊振东获德甲赛季最佳球员"
       ],
-      "rank": 33,
-      "sports_rank": 25
+      "rank": 15,
+      "sports_rank": 6
+    },
+    {
+      "title": "孙颖莎达成了新成就",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 100029,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BE%BE%E6%88%90%E4%BA%86%E6%96%B0%E6%88%90%E5%B0%B1"
+      },
+      "raw_titles": [
+        "孙颖莎达成了新成就"
+      ],
+      "rank": 16,
+      "sports_rank": 7
     },
     {
       "title": "王鹤棣将门毒后台词听力测试",
@@ -542,14 +286,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 76610,
+      "hot_value": 99812,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E5%8F%B0%E8%AF%8D%E5%90%AC%E5%8A%9B%E6%B5%8B%E8%AF%95"
       },
       "raw_titles": [
         "王鹤棣将门毒后台词听力测试"
       ],
-      "rank": 34,
+      "rank": 17,
       "movie_rank": 10
     },
     {
@@ -558,31 +302,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 76541,
+      "hot_value": 99631,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86vs%E5%9C%A3%E4%BF%9D%E7%BD%97"
       },
       "raw_titles": [
         "中国足球小将vs圣保罗"
       ],
-      "rank": 35,
-      "sports_rank": 26
-    },
-    {
-      "title": "世界杯赛程",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 76009,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B"
-      },
-      "raw_titles": [
-        "世界杯赛程"
-      ],
-      "rank": 36,
-      "sports_rank": 27
+      "rank": 18,
+      "sports_rank": 8
     },
     {
       "title": "拍一个研究生的综艺叫什么合适",
@@ -590,14 +318,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 75945,
+      "hot_value": 98883,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%8B%8D%E4%B8%80%E4%B8%AA%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9A%84%E7%BB%BC%E8%89%BA%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%88%E9%80%82"
       },
       "raw_titles": [
         "拍一个研究生的综艺叫什么合适"
       ],
-      "rank": 37,
+      "rank": 19,
       "movie_rank": 11
     },
     {
@@ -606,31 +334,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 75547,
+      "hot_value": 98760,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%B1%E8%B7%B3%E6%B0%B4%E5%B9%B3"
       },
       "raw_titles": [
         "谢娜演唱会唱跳水平"
       ],
-      "rank": 38,
-      "sports_rank": 28
+      "rank": 20,
+      "sports_rank": 9
     },
     {
-      "title": "这届世界杯跟中国有什么关系",
-      "category": "体育",
+      "title": "《莫离》排播改档",
+      "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 63000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B7%9F%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%8E%AB%E7%A6%BB%E3%80%8B%E6%8E%92%E6%92%AD%E6%94%B9%E6%A1%A3&sa=fyb_news"
       },
       "raw_titles": [
-        "这届世界杯跟中国有什么关系"
+        "《莫离》排播改档"
       ],
-      "rank": 39,
-      "sports_rank": 29
+      "rank": 21,
+      "movie_rank": 12
     },
     {
       "title": "187万起拍高尔夫会籍还需41万转让费",
@@ -638,97 +366,53 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=187%E4%B8%87%E8%B5%B7%E6%8B%8D%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BC%9A%E7%B1%8D%E8%BF%98%E9%9C%8041%E4%B8%87%E8%BD%AC%E8%AE%A9%E8%B4%B9&sa=fyb_news"
       },
       "raw_titles": [
         "187万起拍高尔夫会籍还需41万转让费"
       ],
-      "rank": 40,
-      "sports_rank": 30
-    },
-    {
-      "title": "当领导让足球小白做世界杯选题",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BD%93%E9%A2%86%E5%AF%BC%E8%AE%A9%E8%B6%B3%E7%90%83%E5%B0%8F%E7%99%BD%E5%81%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%80%89%E9%A2%98&sa=fyb_news"
-      },
-      "raw_titles": [
-        "当领导让足球小白做世界杯选题"
-      ],
-      "rank": 41,
-      "sports_rank": 31
-    },
-    {
-      "title": "日本主帅：球队具备世界杯夺冠实力",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 27000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E4%B8%BB%E5%B8%85%EF%BC%9A%E7%90%83%E9%98%9F%E5%85%B7%E5%A4%87%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E5%AE%9E%E5%8A%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "日本主帅：球队具备世界杯夺冠实力"
-      ],
-      "rank": 42,
-      "sports_rank": 32
-    },
-    {
-      "title": "梅西赠队友儿子球衣",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 18000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E8%B5%A0%E9%98%9F%E5%8F%8B%E5%84%BF%E5%AD%90%E7%90%83%E8%A1%A3&sa=fyb_news"
-      },
-      "raw_titles": [
-        "梅西赠队友儿子球衣"
-      ],
-      "rank": 43,
-      "sports_rank": 33
+      "rank": 22,
+      "sports_rank": 10
     }
   ],
   "sports": [
     {
-      "title": "2026世界杯小组赛赛程",
+      "title": "世界杯",
       "category": "体育",
       "sources": [
-        "抖音"
+        "微博",
+        "微博",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "抖音",
+        "抖音",
+        "抖音",
+        "抖音",
+        "抖音",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩"
       ],
-      "hot_value": 11273500,
+      "hot_value": 46495883,
       "urls": {
-        "抖音": "https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E8%B5%9B%E7%A8%8B"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B",
+        "百度": "https://m.baidu.com/s?word=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B7%9F%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B9%90%E8%AF%84%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%90%8D%E5%9C%BA%E9%9D%A2"
       },
       "raw_titles": [
-        "2026世界杯小组赛赛程"
+        "世界杯"
       ],
       "rank": 1,
       "sports_rank": 1
-    },
-    {
-      "title": "世界杯你的唐梓回来了",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9202785,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86"
-      },
-      "raw_titles": [
-        "世界杯你的唐梓回来了"
-      ],
-      "rank": 2,
-      "sports_rank": 2
     },
     {
       "title": "NBA总决赛第四场前瞻",
@@ -736,95 +420,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8638638,
+      "hot_value": 8534692,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%AC%AC%E5%9B%9B%E5%9C%BA%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
         "NBA总决赛第四场前瞻"
       ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "梅西热身赛点射破门",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8157568,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E7%83%AD%E8%BA%AB%E8%B5%9B%E7%82%B9%E5%B0%84%E7%A0%B4%E9%97%A8"
-      },
-      "raw_titles": [
-        "梅西热身赛点射破门"
-      ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "世界杯预言家已就位",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7810197,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E5%B0%B1%E4%BD%8D"
-      },
-      "raw_titles": [
-        "世界杯预言家已就位"
-      ],
-      "rank": 6,
-      "sports_rank": 5
-    },
-    {
-      "title": "全抖音寻找世界杯梗王",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7772689,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E5%AF%BB%E6%89%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%A2%97%E7%8E%8B"
-      },
-      "raw_titles": [
-        "全抖音寻找世界杯梗王"
-      ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "起猛了无处不在的世界杯",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7736150,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "起猛了无处不在的世界杯"
-      ],
-      "rank": 9,
-      "sports_rank": 7
-    },
-    {
-      "title": "乐评甲亢哥世界杯主题曲",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7680042,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B9%90%E8%AF%84%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2"
-      },
-      "raw_titles": [
-        "乐评甲亢哥世界杯主题曲"
-      ],
-      "rank": 11,
-      "sports_rank": 8
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "给哈兰德推荐一道中国菜",
@@ -832,147 +436,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7658250,
+      "hot_value": 7654310,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%99%E5%93%88%E5%85%B0%E5%BE%B7%E6%8E%A8%E8%8D%90%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C"
       },
       "raw_titles": [
         "给哈兰德推荐一道中国菜"
       ],
-      "rank": 12,
-      "sports_rank": 9
-    },
-    {
-      "title": "近18万张世界杯门票滞销",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%BF%9118%E4%B8%87%E5%BC%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%A8%E7%A5%A8%E6%BB%9E%E9%94%80&sa=fyb_news"
-      },
-      "raw_titles": [
-        "近18万张世界杯门票滞销"
-      ],
-      "rank": 15,
-      "sports_rank": 10
-    },
-    {
-      "title": "世界杯倒计时1天",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯倒计时1天"
-      ],
-      "rank": 16,
-      "sports_rank": 11
-    },
-    {
-      "title": "索马里籍世界杯裁判被美国遣返",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 357468,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E9%A9%AC%E9%87%8C%E7%B1%8D%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BE%8E%E5%9B%BD%E9%81%A3%E8%BF%94"
-      },
-      "raw_titles": [
-        "索马里籍世界杯裁判被美国遣返"
-      ],
-      "rank": 18,
-      "sports_rank": 12
-    },
-    {
-      "title": "梅西C罗世界杯正赛对决只有三种可能",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 354526,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BFC%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E8%B5%9B%E5%AF%B9%E5%86%B3%E5%8F%AA%E6%9C%89%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD",
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BFC%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E8%B5%9B%E5%AF%B9%E5%86%B3%E5%8F%AA%E6%9C%89%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD&sa=fyb_news"
-      },
-      "raw_titles": [
-        "梅西C罗世界杯正赛对决只有三种可能"
-      ],
-      "rank": 19,
-      "sports_rank": 13
-    },
-    {
-      "title": "这届世界杯含梗量过多",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 260320,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%AB%E6%A2%97%E9%87%8F%E8%BF%87%E5%A4%9A"
-      },
-      "raw_titles": [
-        "这届世界杯含梗量过多"
-      ],
-      "rank": 20,
-      "sports_rank": 14
-    },
-    {
-      "title": "世界杯巡礼之法国",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 238449,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%A1%E7%A4%BC%E4%B9%8B%E6%B3%95%E5%9B%BD"
-      },
-      "raw_titles": [
-        "世界杯巡礼之法国"
-      ],
-      "rank": 21,
-      "sports_rank": 15
-    },
-    {
-      "title": "这些新面孔有机会在世界杯一举成名",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 207000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E6%96%B0%E9%9D%A2%E5%AD%94%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%80%E4%B8%BE%E6%88%90%E5%90%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "这些新面孔有机会在世界杯一举成名"
-      ],
-      "rank": 23,
-      "sports_rank": 16
-    },
-    {
-      "title": "世界杯开幕喜剧上映 看球喝蒙牛",
-      "category": "综合",
-      "sources": [
-        "微博",
-        "微博"
-      ],
-      "hot_value": 169185,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "世界杯开幕喜剧上映 看球喝蒙牛"
-      ],
-      "rank": 24,
-      "sports_rank": 17,
-      "movie_rank": 8
+      "rank": 7,
+      "sports_rank": 3
     },
     {
       "title": "姆巴佩渴望“复仇”",
@@ -987,56 +459,8 @@
       "raw_titles": [
         "姆巴佩渴望“复仇”"
       ],
-      "rank": 25,
-      "sports_rank": 18
-    },
-    {
-      "title": "关于世界杯的夏日记忆",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 148322,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%B3%E4%BA%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E5%A4%8F%E6%97%A5%E8%AE%B0%E5%BF%86"
-      },
-      "raw_titles": [
-        "关于世界杯的夏日记忆"
-      ],
-      "rank": 26,
-      "sports_rank": 19
-    },
-    {
-      "title": "世界杯是一场近5500亿元的全球生意",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 144000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E4%B8%80%E5%9C%BA%E8%BF%915500%E4%BA%BF%E5%85%83%E7%9A%84%E5%85%A8%E7%90%83%E7%94%9F%E6%84%8F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯是一场近5500亿元的全球生意"
-      ],
-      "rank": 27,
-      "sports_rank": 20
-    },
-    {
-      "title": "世界杯战术拆解之西班牙",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 132509,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%88%98%E6%9C%AF%E6%8B%86%E8%A7%A3%E4%B9%8B%E8%A5%BF%E7%8F%AD%E7%89%99"
-      },
-      "raw_titles": [
-        "世界杯战术拆解之西班牙"
-      ],
-      "rank": 28,
-      "sports_rank": 21
+      "rank": 12,
+      "sports_rank": 4
     },
     {
       "title": "21世纪NBA100大名场面",
@@ -1044,47 +468,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 106161,
+      "hot_value": 116703,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA100%E5%A4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2"
       },
       "raw_titles": [
         "21世纪NBA100大名场面"
       ],
-      "rank": 29,
-      "sports_rank": 22
-    },
-    {
-      "title": "F1巴塞罗那赛前指南",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 83420,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E8%B5%9B%E5%89%8D%E6%8C%87%E5%8D%97"
-      },
-      "raw_titles": [
-        "F1巴塞罗那赛前指南"
-      ],
-      "rank": 30,
-      "sports_rank": 23
-    },
-    {
-      "title": "孙颖莎达成了新成就",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 77021,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BE%BE%E6%88%90%E4%BA%86%E6%96%B0%E6%88%90%E5%B0%B1"
-      },
-      "raw_titles": [
-        "孙颖莎达成了新成就"
-      ],
-      "rank": 31,
-      "sports_rank": 24
+      "rank": 13,
+      "sports_rank": 5
     },
     {
       "title": "樊振东获德甲赛季最佳球员",
@@ -1092,15 +484,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 76633,
+      "hot_value": 100070,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%8E%B7%E5%BE%B7%E7%94%B2%E8%B5%9B%E5%AD%A3%E6%9C%80%E4%BD%B3%E7%90%83%E5%91%98"
       },
       "raw_titles": [
         "樊振东获德甲赛季最佳球员"
       ],
-      "rank": 33,
-      "sports_rank": 25
+      "rank": 15,
+      "sports_rank": 6
+    },
+    {
+      "title": "孙颖莎达成了新成就",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 100029,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BE%BE%E6%88%90%E4%BA%86%E6%96%B0%E6%88%90%E5%B0%B1"
+      },
+      "raw_titles": [
+        "孙颖莎达成了新成就"
+      ],
+      "rank": 16,
+      "sports_rank": 7
     },
     {
       "title": "中国足球小将vs圣保罗",
@@ -1108,31 +516,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 76541,
+      "hot_value": 99631,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86vs%E5%9C%A3%E4%BF%9D%E7%BD%97"
       },
       "raw_titles": [
         "中国足球小将vs圣保罗"
       ],
-      "rank": 35,
-      "sports_rank": 26
-    },
-    {
-      "title": "世界杯赛程",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 76009,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B"
-      },
-      "raw_titles": [
-        "世界杯赛程"
-      ],
-      "rank": 36,
-      "sports_rank": 27
+      "rank": 18,
+      "sports_rank": 8
     },
     {
       "title": "谢娜演唱会唱跳水平",
@@ -1140,31 +532,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 75547,
+      "hot_value": 98760,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%B1%E8%B7%B3%E6%B0%B4%E5%B9%B3"
       },
       "raw_titles": [
         "谢娜演唱会唱跳水平"
       ],
-      "rank": 38,
-      "sports_rank": 28
-    },
-    {
-      "title": "这届世界杯跟中国有什么关系",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B7%9F%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&sa=fyb_news"
-      },
-      "raw_titles": [
-        "这届世界杯跟中国有什么关系"
-      ],
-      "rank": 39,
-      "sports_rank": 29
+      "rank": 20,
+      "sports_rank": 9
     },
     {
       "title": "187万起拍高尔夫会籍还需41万转让费",
@@ -1172,63 +548,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=187%E4%B8%87%E8%B5%B7%E6%8B%8D%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BC%9A%E7%B1%8D%E8%BF%98%E9%9C%8041%E4%B8%87%E8%BD%AC%E8%AE%A9%E8%B4%B9&sa=fyb_news"
       },
       "raw_titles": [
         "187万起拍高尔夫会籍还需41万转让费"
       ],
-      "rank": 40,
-      "sports_rank": 30
-    },
-    {
-      "title": "当领导让足球小白做世界杯选题",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BD%93%E9%A2%86%E5%AF%BC%E8%AE%A9%E8%B6%B3%E7%90%83%E5%B0%8F%E7%99%BD%E5%81%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%80%89%E9%A2%98&sa=fyb_news"
-      },
-      "raw_titles": [
-        "当领导让足球小白做世界杯选题"
-      ],
-      "rank": 41,
-      "sports_rank": 31
-    },
-    {
-      "title": "日本主帅：球队具备世界杯夺冠实力",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 27000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E4%B8%BB%E5%B8%85%EF%BC%9A%E7%90%83%E9%98%9F%E5%85%B7%E5%A4%87%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E5%AE%9E%E5%8A%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "日本主帅：球队具备世界杯夺冠实力"
-      ],
-      "rank": 42,
-      "sports_rank": 32
-    },
-    {
-      "title": "梅西赠队友儿子球衣",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 18000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E8%B5%A0%E9%98%9F%E5%8F%8B%E5%84%BF%E5%AD%90%E7%90%83%E8%A1%A3&sa=fyb_news"
-      },
-      "raw_titles": [
-        "梅西赠队友儿子球衣"
-      ],
-      "rank": 43,
-      "sports_rank": 33
+      "rank": 22,
+      "sports_rank": 10
     }
   ],
   "movies": [
@@ -1238,14 +566,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8238257,
+      "hot_value": 7769254,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%80%80%E7%9C%BC%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "耀眼大结局"
       ],
-      "rank": 4,
+      "rank": 3,
       "movie_rank": 1
     },
     {
@@ -1254,14 +582,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7741936,
+      "hot_value": 7763303,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%99%BD%E9%B9%BF%E6%96%B0%E5%89%A7%E7%BC%96%E5%89%A7%E4%BA%89%E8%AE%AE%E6%B3%95%E5%BE%8B%E8%A7%A3%E8%AF%BB"
       },
       "raw_titles": [
         "白鹿新剧编剧争议法律解读"
       ],
-      "rank": 8,
+      "rank": 4,
       "movie_rank": 2
     },
     {
@@ -1270,15 +598,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707717,
+      "hot_value": 7736589,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E8%80%81%E9%BC%A0%E7%B2%BE%E7%89%87%E6%AE%B5%E7%BF%BB%E6%8B%8D"
       },
       "raw_titles": [
         "西游记老鼠精片段翻拍"
       ],
-      "rank": 10,
+      "rank": 5,
       "movie_rank": 3
+    },
+    {
+      "title": "王鹤棣又带我和杰伦布朗打球了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7670447,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%88%E5%B8%A6%E6%88%91%E5%92%8C%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%89%93%E7%90%83%E4%BA%86"
+      },
+      "raw_titles": [
+        "王鹤棣又带我和杰伦布朗打球了"
+      ],
+      "rank": 6,
+      "movie_rank": 4
     },
     {
       "title": "鼠牛功夫高虎兔胆气豪",
@@ -1286,30 +630,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7652000,
+      "hot_value": 7650302,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%BC%A0%E7%89%9B%E5%8A%9F%E5%A4%AB%E9%AB%98%E8%99%8E%E5%85%94%E8%83%86%E6%B0%94%E8%B1%AA"
       },
       "raw_titles": [
         "鼠牛功夫高虎兔胆气豪"
       ],
-      "rank": 13,
-      "movie_rank": 4
-    },
-    {
-      "title": "2026高考收官",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 474580,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98"
-      },
-      "raw_titles": [
-        "2026高考收官"
-      ],
-      "rank": 14,
+      "rank": 8,
       "movie_rank": 5
     },
     {
@@ -1318,15 +646,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 378793,
+      "hot_value": 862939,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%A4%9A%E4%B8%8D%E6%98%AF%E6%AD%8C%E6%89%8B%E7%9A%84%E6%98%8E%E6%98%9F%E4%B9%9F%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "好多不是歌手的明星也开演唱会"
       ],
-      "rank": 17,
+      "rank": 9,
       "movie_rank": 6
+    },
+    {
+      "title": "2026高考收官",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 591140,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98"
+      },
+      "raw_titles": [
+        "2026高考收官"
+      ],
+      "rank": 10,
+      "movie_rank": 7
     },
     {
       "title": "鸣潮边缘行者二创动画",
@@ -1334,32 +678,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 219625,
+      "hot_value": 286274,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85%E4%BA%8C%E5%88%9B%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "鸣潮边缘行者二创动画"
       ],
-      "rank": 22,
-      "movie_rank": 7
-    },
-    {
-      "title": "世界杯开幕喜剧上映 看球喝蒙牛",
-      "category": "综合",
-      "sources": [
-        "微博",
-        "微博"
-      ],
-      "hot_value": 169185,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "世界杯开幕喜剧上映 看球喝蒙牛"
-      ],
-      "rank": 24,
-      "sports_rank": 17,
+      "rank": 11,
       "movie_rank": 8
     },
     {
@@ -1368,14 +694,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 76956,
+      "hot_value": 100230,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%B0%E5%BA%95%E5%90%83%E4%BA%86%E5%A4%9A%E5%B0%91%E7%9F%AD%E5%89%A7"
       },
       "raw_titles": [
         "张凌赫到底吃了多少短剧"
       ],
-      "rank": 32,
+      "rank": 14,
       "movie_rank": 9
     },
     {
@@ -1384,14 +710,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 76610,
+      "hot_value": 99812,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E5%8F%B0%E8%AF%8D%E5%90%AC%E5%8A%9B%E6%B5%8B%E8%AF%95"
       },
       "raw_titles": [
         "王鹤棣将门毒后台词听力测试"
       ],
-      "rank": 34,
+      "rank": 17,
       "movie_rank": 10
     },
     {
@@ -1400,15 +726,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 75945,
+      "hot_value": 98883,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%8B%8D%E4%B8%80%E4%B8%AA%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9A%84%E7%BB%BC%E8%89%BA%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%88%E9%80%82"
       },
       "raw_titles": [
         "拍一个研究生的综艺叫什么合适"
       ],
-      "rank": 37,
+      "rank": 19,
       "movie_rank": 11
+    },
+    {
+      "title": "《莫离》排播改档",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%8E%AB%E7%A6%BB%E3%80%8B%E6%8E%92%E6%92%AD%E6%94%B9%E6%A1%A3&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《莫离》排播改档"
+      ],
+      "rank": 21,
+      "movie_rank": 12
     }
   ]
 }
