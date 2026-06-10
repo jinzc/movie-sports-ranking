@@ -1,21 +1,23 @@
 {
-  "update_time": "2026-06-10 16:00:54",
-  "total": 39,
+  "update_time": "2026-06-10 17:00:58",
+  "total": 41,
   "sports_count": 27,
-  "movie_count": 12,
+  "movie_count": 14,
   "all": [
     {
-      "title": "美加墨世界杯倒计时1天",
+      "title": "世界杯倒计时1天",
       "category": "体育",
       "sources": [
+        "百度",
         "抖音"
       ],
-      "hot_value": 12068450,
+      "hot_value": 12507081,
       "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9"
       },
       "raw_titles": [
-        "美加墨世界杯倒计时1天"
+        "世界杯倒计时1天"
       ],
       "rank": 1,
       "sports_rank": 1
@@ -26,7 +28,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9247906,
+      "hot_value": 11171113,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E5%AF%BB%E6%89%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%A2%97%E7%8E%8B"
       },
@@ -42,7 +44,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8766478,
+      "hot_value": 8758770,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%AC%AC%E5%9B%9B%E5%9C%BA%E5%89%8D%E7%9E%BB"
       },
@@ -58,7 +60,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8537301,
+      "hot_value": 8758303,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E7%83%AD%E8%BA%AB%E8%B5%9B%E7%82%B9%E5%B0%84%E7%A0%B4%E9%97%A8"
       },
@@ -69,19 +71,39 @@
       "sports_rank": 4
     },
     {
+      "title": "梅西赛后被冰岛球员围住了",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 8660774,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86",
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E8%A6%81%E7%90%83%E8%A1%A3"
+      },
+      "raw_titles": [
+        "梅西赛后被冰岛球员围住了"
+      ],
+      "rank": 5,
+      "sports_rank": 5
+    },
+    {
       "title": "耀眼大结局",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8301211,
+      "hot_value": 8434997,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%80%80%E7%9C%BC%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "耀眼大结局"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 1
     },
     {
@@ -90,14 +112,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7814107,
+      "hot_value": 7810145,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E8%80%81%E9%BC%A0%E7%B2%BE%E7%89%87%E6%AE%B5%E7%BF%BB%E6%8B%8D"
       },
       "raw_titles": [
         "西游记老鼠精片段翻拍"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 2
     },
     {
@@ -106,31 +128,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7756270,
+      "hot_value": 7757598,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E5%B0%B1%E4%BD%8D"
       },
       "raw_titles": [
         "世界杯预言家已就位"
       ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "电影火遮眼观后感",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7726456,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%81%AB%E9%81%AE%E7%9C%BC%E8%A7%82%E5%90%8E%E6%84%9F"
-      },
-      "raw_titles": [
-        "电影火遮眼观后感"
-      ],
       "rank": 8,
-      "movie_rank": 3
+      "sports_rank": 6
     },
     {
       "title": "起猛了无处不在的世界杯",
@@ -138,7 +144,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7719518,
+      "hot_value": 7741731,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
@@ -146,7 +152,39 @@
         "起猛了无处不在的世界杯"
       ],
       "rank": 9,
-      "sports_rank": 6
+      "sports_rank": 7
+    },
+    {
+      "title": "电影火遮眼观后感",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7719870,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%81%AB%E9%81%AE%E7%9C%BC%E8%A7%82%E5%90%8E%E6%84%9F"
+      },
+      "raw_titles": [
+        "电影火遮眼观后感"
+      ],
+      "rank": 10,
+      "movie_rank": 3
+    },
+    {
+      "title": "鼠牛功夫高虎兔胆气豪",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7699615,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%BC%A0%E7%89%9B%E5%8A%9F%E5%A4%AB%E9%AB%98%E8%99%8E%E5%85%94%E8%83%86%E6%B0%94%E8%B1%AA"
+      },
+      "raw_titles": [
+        "鼠牛功夫高虎兔胆气豪"
+      ],
+      "rank": 11,
+      "movie_rank": 4
     },
     {
       "title": "给哈兰德推荐一道中国菜",
@@ -154,15 +192,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7688760,
+      "hot_value": 7693429,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%99%E5%93%88%E5%85%B0%E5%BE%B7%E6%8E%A8%E8%8D%90%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C"
       },
       "raw_titles": [
         "给哈兰德推荐一道中国菜"
       ],
-      "rank": 10,
-      "sports_rank": 7
+      "rank": 12,
+      "sports_rank": 8
     },
     {
       "title": "海贼王1165集简评",
@@ -170,31 +208,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7670612,
+      "hot_value": 7688156,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B5%B7%E8%B4%BC%E7%8E%8B1165%E9%9B%86%E7%AE%80%E8%AF%84"
       },
       "raw_titles": [
         "海贼王1165集简评"
       ],
-      "rank": 11,
-      "movie_rank": 4
-    },
-    {
-      "title": "看我用早茶拿捏哈兰德",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7662831,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%9C%8B%E6%88%91%E7%94%A8%E6%97%A9%E8%8C%B6%E6%8B%BF%E6%8D%8F%E5%93%88%E5%85%B0%E5%BE%B7"
-      },
-      "raw_titles": [
-        "看我用早茶拿捏哈兰德"
-      ],
-      "rank": 12,
-      "sports_rank": 8
+      "rank": 13,
+      "movie_rank": 5
     },
     {
       "title": "这届世界杯含梗量过多",
@@ -202,97 +224,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2084836,
+      "hot_value": 1710298,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%AB%E6%A2%97%E9%87%8F%E8%BF%87%E5%A4%9A"
       },
       "raw_titles": [
         "这届世界杯含梗量过多"
       ],
-      "rank": 13,
+      "rank": 14,
       "sports_rank": 9
     },
     {
-      "title": "中国足球小将将迎战巴西圣保罗",
+      "title": "演员洪剑涛现场看世界杯",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1446834,
+      "hot_value": 1133380,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%B0%86%E8%BF%8E%E6%88%98%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%91%98%E6%B4%AA%E5%89%91%E6%B6%9B%E7%8E%B0%E5%9C%BA%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
-        "中国足球小将将迎战巴西圣保罗"
-      ],
-      "rank": 14,
-      "sports_rank": 10
-    },
-    {
-      "title": "梅西赛后被冰岛球员围住了",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1212419,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86",
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86&sa=fyb_news"
-      },
-      "raw_titles": [
-        "梅西赛后被冰岛球员围住了"
+        "演员洪剑涛现场看世界杯"
       ],
       "rank": 15,
-      "sports_rank": 11
-    },
-    {
-      "title": "方博复出状态如何",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 947615,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E7%8A%B6%E6%80%81%E5%A6%82%E4%BD%95"
-      },
-      "raw_titles": [
-        "方博复出状态如何"
-      ],
-      "rank": 16,
-      "sports_rank": 12
-    },
-    {
-      "title": "詹俊评世界杯阿根廷队",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 845556,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F"
-      },
-      "raw_titles": [
-        "詹俊评世界杯阿根廷队"
-      ],
-      "rank": 17,
-      "sports_rank": 13
-    },
-    {
-      "title": "歌剧老师锐评浪姐四公",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 755932,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC"
-      },
-      "raw_titles": [
-        "歌剧老师锐评浪姐四公"
-      ],
-      "rank": 18,
-      "movie_rank": 5
+      "sports_rank": 10
     },
     {
       "title": "关于世界杯的夏日记忆",
@@ -300,79 +256,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 719915,
+      "hot_value": 1106406,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%B3%E4%BA%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E5%A4%8F%E6%97%A5%E8%AE%B0%E5%BF%86"
       },
       "raw_titles": [
         "关于世界杯的夏日记忆"
       ],
-      "rank": 19,
-      "sports_rank": 14
+      "rank": 16,
+      "sports_rank": 11
     },
     {
-      "title": "2026高考收官日",
+      "title": "歌剧老师锐评浪姐四公",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 702539,
+      "hot_value": 970705,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98%E6%97%A5"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC"
       },
       "raw_titles": [
-        "2026高考收官日"
+        "歌剧老师锐评浪姐四公"
       ],
-      "rank": 20,
+      "rank": 17,
       "movie_rank": 6
     },
     {
-      "title": "孙千躲张凌赫怀里",
-      "category": "影视",
+      "title": "方博复出状态如何",
+      "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 661532,
+      "hot_value": 867692,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%8D%83%E8%BA%B2%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%80%80%E9%87%8C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E7%8A%B6%E6%80%81%E5%A6%82%E4%BD%95"
       },
       "raw_titles": [
-        "孙千躲张凌赫怀里"
+        "方博复出状态如何"
       ],
-      "rank": 21,
-      "movie_rank": 7
-    },
-    {
-      "title": "编剧李宗晨问蒙淇淇哪场是你们写的",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 606536,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%BC%96%E5%89%A7%E6%9D%8E%E5%AE%97%E6%99%A8%E9%97%AE%E8%92%99%E6%B7%87%E6%B7%87%E5%93%AA%E5%9C%BA%E6%98%AF%E4%BD%A0%E4%BB%AC%E5%86%99%E7%9A%84"
-      },
-      "raw_titles": [
-        "编剧李宗晨问蒙淇淇哪场是你们写的"
-      ],
-      "rank": 22,
-      "movie_rank": 8
-    },
-    {
-      "title": "张凌赫左手金靖右手孙千",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 586863,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B7%A6%E6%89%8B%E9%87%91%E9%9D%96%E5%8F%B3%E6%89%8B%E5%AD%99%E5%8D%83"
-      },
-      "raw_titles": [
-        "张凌赫左手金靖右手孙千"
-      ],
-      "rank": 23,
-      "movie_rank": 9
+      "rank": 18,
+      "sports_rank": 12
     },
     {
       "title": "马刺为何能扳回一城",
@@ -380,79 +304,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 572080,
+      "hot_value": 577532,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E4%B8%BA%E4%BD%95%E8%83%BD%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E"
       },
       "raw_titles": [
         "马刺为何能扳回一城"
       ],
-      "rank": 24,
-      "sports_rank": 15
-    },
-    {
-      "title": "孙颖莎这个defining的含金量",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 564651,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BF%99%E4%B8%AAdefining%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F"
-      },
-      "raw_titles": [
-        "孙颖莎这个defining的含金量"
-      ],
-      "rank": 25,
-      "sports_rank": 16
-    },
-    {
-      "title": "世界杯凭什么让世界疯狂",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 546332,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%96%E7%95%8C%E7%96%AF%E7%8B%82"
-      },
-      "raw_titles": [
-        "世界杯凭什么让世界疯狂"
-      ],
-      "rank": 26,
-      "sports_rank": 17
-    },
-    {
-      "title": "世界杯法国队深度详解",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 488075,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B3%95%E5%9B%BD%E9%98%9F%E6%B7%B1%E5%BA%A6%E8%AF%A6%E8%A7%A3"
-      },
-      "raw_titles": [
-        "世界杯法国队深度详解"
-      ],
-      "rank": 27,
-      "sports_rank": 18
-    },
-    {
-      "title": "皇马官宣阿韦洛亚离任",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 480786,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%98%E5%AE%A3%E9%98%BF%E9%9F%A6%E6%B4%9B%E4%BA%9A%E7%A6%BB%E4%BB%BB"
-      },
-      "raw_titles": [
-        "皇马官宣阿韦洛亚离任"
-      ],
-      "rank": 28,
-      "sports_rank": 19
+      "rank": 19,
+      "sports_rank": 13
     },
     {
       "title": "TYLOO被横扫问题出在哪",
@@ -460,15 +320,191 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 476521,
+      "hot_value": 532764,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=TYLOO%E8%A2%AB%E6%A8%AA%E6%89%AB%E9%97%AE%E9%A2%98%E5%87%BA%E5%9C%A8%E5%93%AA"
       },
       "raw_titles": [
         "TYLOO被横扫问题出在哪"
       ],
+      "rank": 20,
+      "sports_rank": 14
+    },
+    {
+      "title": "编剧李宗晨问蒙淇淇哪场是你们写的",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 531549,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BC%96%E5%89%A7%E6%9D%8E%E5%AE%97%E6%99%A8%E9%97%AE%E8%92%99%E6%B7%87%E6%B7%87%E5%93%AA%E5%9C%BA%E6%98%AF%E4%BD%A0%E4%BB%AC%E5%86%99%E7%9A%84"
+      },
+      "raw_titles": [
+        "编剧李宗晨问蒙淇淇哪场是你们写的"
+      ],
+      "rank": 21,
+      "movie_rank": 7
+    },
+    {
+      "title": "张凌赫补偿金特殊备注",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 522564,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%A1%A5%E5%81%BF%E9%87%91%E7%89%B9%E6%AE%8A%E5%A4%87%E6%B3%A8"
+      },
+      "raw_titles": [
+        "张凌赫补偿金特殊备注"
+      ],
+      "rank": 22,
+      "movie_rank": 8
+    },
+    {
+      "title": "凤求凰编剧回应",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 517852,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%87%A4%E6%B1%82%E5%87%B0%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94"
+      },
+      "raw_titles": [
+        "凤求凰编剧回应"
+      ],
+      "rank": 23,
+      "movie_rank": 9
+    },
+    {
+      "title": "孙千躲张凌赫怀里",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 509757,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%8D%83%E8%BA%B2%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%80%80%E9%87%8C"
+      },
+      "raw_titles": [
+        "孙千躲张凌赫怀里"
+      ],
+      "rank": 24,
+      "movie_rank": 10
+    },
+    {
+      "title": "孙颖莎这个defining的含金量",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 508440,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BF%99%E4%B8%AAdefining%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F"
+      },
+      "raw_titles": [
+        "孙颖莎这个defining的含金量"
+      ],
+      "rank": 25,
+      "sports_rank": 15
+    },
+    {
+      "title": "奇瑞宣布与杨紫再度携手",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 482536,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A5%87%E7%91%9E%E5%AE%A3%E5%B8%83%E4%B8%8E%E6%9D%A8%E7%B4%AB%E5%86%8D%E5%BA%A6%E6%90%BA%E6%89%8B"
+      },
+      "raw_titles": [
+        "奇瑞宣布与杨紫再度携手"
+      ],
+      "rank": 26,
+      "movie_rank": 11
+    },
+    {
+      "title": "詹俊评世界杯阿根廷队",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 448422,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F"
+      },
+      "raw_titles": [
+        "詹俊评世界杯阿根廷队"
+      ],
+      "rank": 27,
+      "sports_rank": 16
+    },
+    {
+      "title": "莫离编剧团队打假蒙淇淇",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 445904,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8E%AB%E7%A6%BB%E7%BC%96%E5%89%A7%E5%9B%A2%E9%98%9F%E6%89%93%E5%81%87%E8%92%99%E6%B7%87%E6%B7%87"
+      },
+      "raw_titles": [
+        "莫离编剧团队打假蒙淇淇"
+      ],
+      "rank": 28,
+      "movie_rank": 12
+    },
+    {
+      "title": "亚运会",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 428173,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A"
+      },
+      "raw_titles": [
+        "亚运会"
+      ],
       "rank": 29,
-      "sports_rank": 20
+      "sports_rank": 17
+    },
+    {
+      "title": "皇马官宣阿韦洛亚离任",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 423316,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%98%E5%AE%A3%E9%98%BF%E9%9F%A6%E6%B4%9B%E4%BA%9A%E7%A6%BB%E4%BB%BB"
+      },
+      "raw_titles": [
+        "皇马官宣阿韦洛亚离任"
+      ],
+      "rank": 30,
+      "sports_rank": 18
+    },
+    {
+      "title": "21世纪NBA100大名场面",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 394253,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA100%E5%A4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2"
+      },
+      "raw_titles": [
+        "21世纪NBA100大名场面"
+      ],
+      "rank": 31,
+      "sports_rank": 19
     },
     {
       "title": "预测世界杯让人失望的阵容",
@@ -476,15 +512,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 452035,
+      "hot_value": 388273,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AE%A9%E4%BA%BA%E5%A4%B1%E6%9C%9B%E7%9A%84%E9%98%B5%E5%AE%B9"
       },
       "raw_titles": [
         "预测世界杯让人失望的阵容"
       ],
-      "rank": 30,
-      "sports_rank": 21
+      "rank": 32,
+      "sports_rank": 20
     },
     {
       "title": "梅西替补登场1分钟后点射破门",
@@ -492,31 +528,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E6%9B%BF%E8%A1%A5%E7%99%BB%E5%9C%BA1%E5%88%86%E9%92%9F%E5%90%8E%E7%82%B9%E5%B0%84%E7%A0%B4%E9%97%A8&sa=fyb_news"
       },
       "raw_titles": [
         "梅西替补登场1分钟后点射破门"
       ],
-      "rank": 31,
-      "sports_rank": 22
+      "rank": 33,
+      "sports_rank": 21
     },
     {
-      "title": "于正否认白鹿干涉《莫离》编剧",
-      "category": "影视",
+      "title": "世界杯近18万张门票待售",
+      "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 297000,
+      "hot_value": 324000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%8E%E6%AD%A3%E5%90%A6%E8%AE%A4%E7%99%BD%E9%B9%BF%E5%B9%B2%E6%B6%89%E3%80%8A%E8%8E%AB%E7%A6%BB%E3%80%8B%E7%BC%96%E5%89%A7&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9118%E4%B8%87%E5%BC%A0%E9%97%A8%E7%A5%A8%E5%BE%85%E5%94%AE&sa=fyb_news"
       },
       "raw_titles": [
-        "于正否认白鹿干涉《莫离》编剧"
+        "世界杯近18万张门票待售"
       ],
-      "rank": 32,
-      "movie_rank": 10
+      "rank": 34,
+      "sports_rank": 22
     },
     {
       "title": "世界杯3名中国裁判“定妆照”出炉",
@@ -524,14 +560,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 288000,
+      "hot_value": 279000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF3%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E2%80%9C%E5%AE%9A%E5%A6%86%E7%85%A7%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯3名中国裁判“定妆照”出炉"
       ],
-      "rank": 33,
+      "rank": 35,
       "sports_rank": 23
     },
     {
@@ -547,56 +583,24 @@
       "raw_titles": [
         "世界杯开幕式前墨西哥城爆发示威"
       ],
-      "rank": 34,
+      "rank": 36,
       "sports_rank": 24
     },
     {
-      "title": "世界杯迎史上最强安检",
+      "title": "央视发布世界杯版权保护声明",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 198000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%AE%89%E6%A3%80&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E5%8F%91%E5%B8%83%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4%E5%A3%B0%E6%98%8E&sa=fyb_news"
       },
       "raw_titles": [
-        "世界杯迎史上最强安检"
-      ],
-      "rank": 35,
-      "sports_rank": 25
-    },
-    {
-      "title": "浙江卫视回应《奔跑吧》850万推广费",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 171000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%9B%9E%E5%BA%94%E3%80%8A%E5%A5%94%E8%B7%91%E5%90%A7%E3%80%8B850%E4%B8%87%E6%8E%A8%E5%B9%BF%E8%B4%B9&sa=fyb_news"
-      },
-      "raw_titles": [
-        "浙江卫视回应《奔跑吧》850万推广费"
-      ],
-      "rank": 36,
-      "movie_rank": 11
-    },
-    {
-      "title": "蒙淇淇指控白鹿换《莫离》编剧团队",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 135000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%92%99%E6%B7%87%E6%B7%87%E6%8C%87%E6%8E%A7%E7%99%BD%E9%B9%BF%E6%8D%A2%E3%80%8A%E8%8E%AB%E7%A6%BB%E3%80%8B%E7%BC%96%E5%89%A7%E5%9B%A2%E9%98%9F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "蒙淇淇指控白鹿换《莫离》编剧团队"
+        "央视发布世界杯版权保护声明"
       ],
       "rank": 37,
-      "movie_rank": 12
+      "sports_rank": 25
     },
     {
       "title": "近18万张世界杯门票滞销",
@@ -604,7 +608,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 63000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%BF%9118%E4%B8%87%E5%BC%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%A8%E7%A5%A8%E6%BB%9E%E9%94%80&sa=fyb_news"
       },
@@ -615,35 +619,69 @@
       "sports_rank": 26
     },
     {
+      "title": "浙江卫视回应《奔跑吧》850万推广费",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 162000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%9B%9E%E5%BA%94%E3%80%8A%E5%A5%94%E8%B7%91%E5%90%A7%E3%80%8B850%E4%B8%87%E6%8E%A8%E5%B9%BF%E8%B4%B9&sa=fyb_news"
+      },
+      "raw_titles": [
+        "浙江卫视回应《奔跑吧》850万推广费"
+      ],
+      "rank": 39,
+      "movie_rank": 13
+    },
+    {
+      "title": "蒙淇淇指控白鹿换《莫离》编剧团队",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 90000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%92%99%E6%B7%87%E6%B7%87%E6%8C%87%E6%8E%A7%E7%99%BD%E9%B9%BF%E6%8D%A2%E3%80%8A%E8%8E%AB%E7%A6%BB%E3%80%8B%E7%BC%96%E5%89%A7%E5%9B%A2%E9%98%9F&sa=fyb_news"
+      },
+      "raw_titles": [
+        "蒙淇淇指控白鹿换《莫离》编剧团队"
+      ],
+      "rank": 40,
+      "movie_rank": 14
+    },
+    {
       "title": "5名高中生自研云舟一号火箭发射成功",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 81000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=5%E5%90%8D%E9%AB%98%E4%B8%AD%E7%94%9F%E8%87%AA%E7%A0%94%E4%BA%91%E8%88%9F%E4%B8%80%E5%8F%B7%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&sa=fyb_news"
       },
       "raw_titles": [
         "5名高中生自研云舟一号火箭发射成功"
       ],
-      "rank": 39,
+      "rank": 41,
       "sports_rank": 27
     }
   ],
   "sports": [
     {
-      "title": "美加墨世界杯倒计时1天",
+      "title": "世界杯倒计时1天",
       "category": "体育",
       "sources": [
+        "百度",
         "抖音"
       ],
-      "hot_value": 12068450,
+      "hot_value": 12507081,
       "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9"
       },
       "raw_titles": [
-        "美加墨世界杯倒计时1天"
+        "世界杯倒计时1天"
       ],
       "rank": 1,
       "sports_rank": 1
@@ -654,7 +692,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9247906,
+      "hot_value": 11171113,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E5%AF%BB%E6%89%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%A2%97%E7%8E%8B"
       },
@@ -670,7 +708,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8766478,
+      "hot_value": 8758770,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%AC%AC%E5%9B%9B%E5%9C%BA%E5%89%8D%E7%9E%BB"
       },
@@ -686,7 +724,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8537301,
+      "hot_value": 8758303,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E7%83%AD%E8%BA%AB%E8%B5%9B%E7%82%B9%E5%B0%84%E7%A0%B4%E9%97%A8"
       },
@@ -697,20 +735,40 @@
       "sports_rank": 4
     },
     {
+      "title": "梅西赛后被冰岛球员围住了",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 8660774,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86",
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E8%A6%81%E7%90%83%E8%A1%A3"
+      },
+      "raw_titles": [
+        "梅西赛后被冰岛球员围住了"
+      ],
+      "rank": 5,
+      "sports_rank": 5
+    },
+    {
       "title": "世界杯预言家已就位",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7756270,
+      "hot_value": 7757598,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E5%B0%B1%E4%BD%8D"
       },
       "raw_titles": [
         "世界杯预言家已就位"
       ],
-      "rank": 7,
-      "sports_rank": 5
+      "rank": 8,
+      "sports_rank": 6
     },
     {
       "title": "起猛了无处不在的世界杯",
@@ -718,7 +776,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7719518,
+      "hot_value": 7741731,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
@@ -726,7 +784,7 @@
         "起猛了无处不在的世界杯"
       ],
       "rank": 9,
-      "sports_rank": 6
+      "sports_rank": 7
     },
     {
       "title": "给哈兰德推荐一道中国菜",
@@ -734,28 +792,12 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7688760,
+      "hot_value": 7693429,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%99%E5%93%88%E5%85%B0%E5%BE%B7%E6%8E%A8%E8%8D%90%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C"
       },
       "raw_titles": [
         "给哈兰德推荐一道中国菜"
-      ],
-      "rank": 10,
-      "sports_rank": 7
-    },
-    {
-      "title": "看我用早茶拿捏哈兰德",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7662831,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%9C%8B%E6%88%91%E7%94%A8%E6%97%A9%E8%8C%B6%E6%8B%BF%E6%8D%8F%E5%93%88%E5%85%B0%E5%BE%B7"
-      },
-      "raw_titles": [
-        "看我用早茶拿捏哈兰德"
       ],
       "rank": 12,
       "sports_rank": 8
@@ -766,48 +808,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2084836,
+      "hot_value": 1710298,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%AB%E6%A2%97%E9%87%8F%E8%BF%87%E5%A4%9A"
       },
       "raw_titles": [
         "这届世界杯含梗量过多"
       ],
-      "rank": 13,
+      "rank": 14,
       "sports_rank": 9
     },
     {
-      "title": "中国足球小将将迎战巴西圣保罗",
+      "title": "演员洪剑涛现场看世界杯",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1446834,
+      "hot_value": 1133380,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%B0%86%E8%BF%8E%E6%88%98%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%91%98%E6%B4%AA%E5%89%91%E6%B6%9B%E7%8E%B0%E5%9C%BA%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
-        "中国足球小将将迎战巴西圣保罗"
+        "演员洪剑涛现场看世界杯"
       ],
-      "rank": 14,
+      "rank": 15,
       "sports_rank": 10
     },
     {
-      "title": "梅西赛后被冰岛球员围住了",
+      "title": "关于世界杯的夏日记忆",
       "category": "体育",
       "sources": [
-        "微博",
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 1212419,
+      "hot_value": 1106406,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86",
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%B3%E4%BA%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E5%A4%8F%E6%97%A5%E8%AE%B0%E5%BF%86"
       },
       "raw_titles": [
-        "梅西赛后被冰岛球员围住了"
+        "关于世界杯的夏日记忆"
       ],
-      "rank": 15,
+      "rank": 16,
       "sports_rank": 11
     },
     {
@@ -816,47 +856,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 947615,
+      "hot_value": 867692,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E7%8A%B6%E6%80%81%E5%A6%82%E4%BD%95"
       },
       "raw_titles": [
         "方博复出状态如何"
       ],
-      "rank": 16,
+      "rank": 18,
       "sports_rank": 12
-    },
-    {
-      "title": "詹俊评世界杯阿根廷队",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 845556,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F"
-      },
-      "raw_titles": [
-        "詹俊评世界杯阿根廷队"
-      ],
-      "rank": 17,
-      "sports_rank": 13
-    },
-    {
-      "title": "关于世界杯的夏日记忆",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 719915,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%B3%E4%BA%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E5%A4%8F%E6%97%A5%E8%AE%B0%E5%BF%86"
-      },
-      "raw_titles": [
-        "关于世界杯的夏日记忆"
-      ],
-      "rank": 19,
-      "sports_rank": 14
     },
     {
       "title": "马刺为何能扳回一城",
@@ -864,79 +872,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 572080,
+      "hot_value": 577532,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E4%B8%BA%E4%BD%95%E8%83%BD%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E"
       },
       "raw_titles": [
         "马刺为何能扳回一城"
       ],
-      "rank": 24,
-      "sports_rank": 15
-    },
-    {
-      "title": "孙颖莎这个defining的含金量",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 564651,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BF%99%E4%B8%AAdefining%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F"
-      },
-      "raw_titles": [
-        "孙颖莎这个defining的含金量"
-      ],
-      "rank": 25,
-      "sports_rank": 16
-    },
-    {
-      "title": "世界杯凭什么让世界疯狂",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 546332,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%96%E7%95%8C%E7%96%AF%E7%8B%82"
-      },
-      "raw_titles": [
-        "世界杯凭什么让世界疯狂"
-      ],
-      "rank": 26,
-      "sports_rank": 17
-    },
-    {
-      "title": "世界杯法国队深度详解",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 488075,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B3%95%E5%9B%BD%E9%98%9F%E6%B7%B1%E5%BA%A6%E8%AF%A6%E8%A7%A3"
-      },
-      "raw_titles": [
-        "世界杯法国队深度详解"
-      ],
-      "rank": 27,
-      "sports_rank": 18
-    },
-    {
-      "title": "皇马官宣阿韦洛亚离任",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 480786,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%98%E5%AE%A3%E9%98%BF%E9%9F%A6%E6%B4%9B%E4%BA%9A%E7%A6%BB%E4%BB%BB"
-      },
-      "raw_titles": [
-        "皇马官宣阿韦洛亚离任"
-      ],
-      "rank": 28,
-      "sports_rank": 19
+      "rank": 19,
+      "sports_rank": 13
     },
     {
       "title": "TYLOO被横扫问题出在哪",
@@ -944,15 +888,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 476521,
+      "hot_value": 532764,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=TYLOO%E8%A2%AB%E6%A8%AA%E6%89%AB%E9%97%AE%E9%A2%98%E5%87%BA%E5%9C%A8%E5%93%AA"
       },
       "raw_titles": [
         "TYLOO被横扫问题出在哪"
       ],
+      "rank": 20,
+      "sports_rank": 14
+    },
+    {
+      "title": "孙颖莎这个defining的含金量",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 508440,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BF%99%E4%B8%AAdefining%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F"
+      },
+      "raw_titles": [
+        "孙颖莎这个defining的含金量"
+      ],
+      "rank": 25,
+      "sports_rank": 15
+    },
+    {
+      "title": "詹俊评世界杯阿根廷队",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 448422,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F"
+      },
+      "raw_titles": [
+        "詹俊评世界杯阿根廷队"
+      ],
+      "rank": 27,
+      "sports_rank": 16
+    },
+    {
+      "title": "亚运会",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 428173,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A"
+      },
+      "raw_titles": [
+        "亚运会"
+      ],
       "rank": 29,
-      "sports_rank": 20
+      "sports_rank": 17
+    },
+    {
+      "title": "皇马官宣阿韦洛亚离任",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 423316,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%98%E5%AE%A3%E9%98%BF%E9%9F%A6%E6%B4%9B%E4%BA%9A%E7%A6%BB%E4%BB%BB"
+      },
+      "raw_titles": [
+        "皇马官宣阿韦洛亚离任"
+      ],
+      "rank": 30,
+      "sports_rank": 18
+    },
+    {
+      "title": "21世纪NBA100大名场面",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 394253,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA100%E5%A4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2"
+      },
+      "raw_titles": [
+        "21世纪NBA100大名场面"
+      ],
+      "rank": 31,
+      "sports_rank": 19
     },
     {
       "title": "预测世界杯让人失望的阵容",
@@ -960,15 +984,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 452035,
+      "hot_value": 388273,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AE%A9%E4%BA%BA%E5%A4%B1%E6%9C%9B%E7%9A%84%E9%98%B5%E5%AE%B9"
       },
       "raw_titles": [
         "预测世界杯让人失望的阵容"
       ],
-      "rank": 30,
-      "sports_rank": 21
+      "rank": 32,
+      "sports_rank": 20
     },
     {
       "title": "梅西替补登场1分钟后点射破门",
@@ -976,14 +1000,30 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%A5%BF%E6%9B%BF%E8%A1%A5%E7%99%BB%E5%9C%BA1%E5%88%86%E9%92%9F%E5%90%8E%E7%82%B9%E5%B0%84%E7%A0%B4%E9%97%A8&sa=fyb_news"
       },
       "raw_titles": [
         "梅西替补登场1分钟后点射破门"
       ],
-      "rank": 31,
+      "rank": 33,
+      "sports_rank": 21
+    },
+    {
+      "title": "世界杯近18万张门票待售",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 324000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9118%E4%B8%87%E5%BC%A0%E9%97%A8%E7%A5%A8%E5%BE%85%E5%94%AE&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯近18万张门票待售"
+      ],
+      "rank": 34,
       "sports_rank": 22
     },
     {
@@ -992,14 +1032,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 288000,
+      "hot_value": 279000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF3%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E2%80%9C%E5%AE%9A%E5%A6%86%E7%85%A7%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯3名中国裁判“定妆照”出炉"
       ],
-      "rank": 33,
+      "rank": 35,
       "sports_rank": 23
     },
     {
@@ -1015,23 +1055,23 @@
       "raw_titles": [
         "世界杯开幕式前墨西哥城爆发示威"
       ],
-      "rank": 34,
+      "rank": 36,
       "sports_rank": 24
     },
     {
-      "title": "世界杯迎史上最强安检",
+      "title": "央视发布世界杯版权保护声明",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 198000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%AE%89%E6%A3%80&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E5%8F%91%E5%B8%83%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4%E5%A3%B0%E6%98%8E&sa=fyb_news"
       },
       "raw_titles": [
-        "世界杯迎史上最强安检"
+        "央视发布世界杯版权保护声明"
       ],
-      "rank": 35,
+      "rank": 37,
       "sports_rank": 25
     },
     {
@@ -1040,7 +1080,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 63000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%BF%9118%E4%B8%87%E5%BC%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%A8%E7%A5%A8%E6%BB%9E%E9%94%80&sa=fyb_news"
       },
@@ -1056,14 +1096,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 81000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=5%E5%90%8D%E9%AB%98%E4%B8%AD%E7%94%9F%E8%87%AA%E7%A0%94%E4%BA%91%E8%88%9F%E4%B8%80%E5%8F%B7%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&sa=fyb_news"
       },
       "raw_titles": [
         "5名高中生自研云舟一号火箭发射成功"
       ],
-      "rank": 39,
+      "rank": 41,
       "sports_rank": 27
     }
   ],
@@ -1074,14 +1114,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8301211,
+      "hot_value": 8434997,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%80%80%E7%9C%BC%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "耀眼大结局"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 1
     },
     {
@@ -1090,14 +1130,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7814107,
+      "hot_value": 7810145,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E8%80%81%E9%BC%A0%E7%B2%BE%E7%89%87%E6%AE%B5%E7%BF%BB%E6%8B%8D"
       },
       "raw_titles": [
         "西游记老鼠精片段翻拍"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 2
     },
     {
@@ -1106,15 +1146,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7726456,
+      "hot_value": 7719870,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%81%AB%E9%81%AE%E7%9C%BC%E8%A7%82%E5%90%8E%E6%84%9F"
       },
       "raw_titles": [
         "电影火遮眼观后感"
       ],
-      "rank": 8,
+      "rank": 10,
       "movie_rank": 3
+    },
+    {
+      "title": "鼠牛功夫高虎兔胆气豪",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7699615,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%BC%A0%E7%89%9B%E5%8A%9F%E5%A4%AB%E9%AB%98%E8%99%8E%E5%85%94%E8%83%86%E6%B0%94%E8%B1%AA"
+      },
+      "raw_titles": [
+        "鼠牛功夫高虎兔胆气豪"
+      ],
+      "rank": 11,
+      "movie_rank": 4
     },
     {
       "title": "海贼王1165集简评",
@@ -1122,15 +1178,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7670612,
+      "hot_value": 7688156,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B5%B7%E8%B4%BC%E7%8E%8B1165%E9%9B%86%E7%AE%80%E8%AF%84"
       },
       "raw_titles": [
         "海贼王1165集简评"
       ],
-      "rank": 11,
-      "movie_rank": 4
+      "rank": 13,
+      "movie_rank": 5
     },
     {
       "title": "歌剧老师锐评浪姐四公",
@@ -1138,47 +1194,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 755932,
+      "hot_value": 970705,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC"
       },
       "raw_titles": [
         "歌剧老师锐评浪姐四公"
       ],
-      "rank": 18,
-      "movie_rank": 5
-    },
-    {
-      "title": "2026高考收官日",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 702539,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98%E6%97%A5"
-      },
-      "raw_titles": [
-        "2026高考收官日"
-      ],
-      "rank": 20,
+      "rank": 17,
       "movie_rank": 6
-    },
-    {
-      "title": "孙千躲张凌赫怀里",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 661532,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%8D%83%E8%BA%B2%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%80%80%E9%87%8C"
-      },
-      "raw_titles": [
-        "孙千躲张凌赫怀里"
-      ],
-      "rank": 21,
-      "movie_rank": 7
     },
     {
       "title": "编剧李宗晨问蒙淇淇哪场是你们写的",
@@ -1186,47 +1210,95 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 606536,
+      "hot_value": 531549,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%BC%96%E5%89%A7%E6%9D%8E%E5%AE%97%E6%99%A8%E9%97%AE%E8%92%99%E6%B7%87%E6%B7%87%E5%93%AA%E5%9C%BA%E6%98%AF%E4%BD%A0%E4%BB%AC%E5%86%99%E7%9A%84"
       },
       "raw_titles": [
         "编剧李宗晨问蒙淇淇哪场是你们写的"
       ],
-      "rank": 22,
-      "movie_rank": 8
+      "rank": 21,
+      "movie_rank": 7
     },
     {
-      "title": "张凌赫左手金靖右手孙千",
+      "title": "张凌赫补偿金特殊备注",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 586863,
+      "hot_value": 522564,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B7%A6%E6%89%8B%E9%87%91%E9%9D%96%E5%8F%B3%E6%89%8B%E5%AD%99%E5%8D%83"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%A1%A5%E5%81%BF%E9%87%91%E7%89%B9%E6%AE%8A%E5%A4%87%E6%B3%A8"
       },
       "raw_titles": [
-        "张凌赫左手金靖右手孙千"
+        "张凌赫补偿金特殊备注"
+      ],
+      "rank": 22,
+      "movie_rank": 8
+    },
+    {
+      "title": "凤求凰编剧回应",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 517852,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%87%A4%E6%B1%82%E5%87%B0%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94"
+      },
+      "raw_titles": [
+        "凤求凰编剧回应"
       ],
       "rank": 23,
       "movie_rank": 9
     },
     {
-      "title": "于正否认白鹿干涉《莫离》编剧",
+      "title": "孙千躲张凌赫怀里",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 297000,
+      "hot_value": 509757,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%8E%E6%AD%A3%E5%90%A6%E8%AE%A4%E7%99%BD%E9%B9%BF%E5%B9%B2%E6%B6%89%E3%80%8A%E8%8E%AB%E7%A6%BB%E3%80%8B%E7%BC%96%E5%89%A7&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%8D%83%E8%BA%B2%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%80%80%E9%87%8C"
       },
       "raw_titles": [
-        "于正否认白鹿干涉《莫离》编剧"
+        "孙千躲张凌赫怀里"
       ],
-      "rank": 32,
+      "rank": 24,
       "movie_rank": 10
+    },
+    {
+      "title": "奇瑞宣布与杨紫再度携手",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 482536,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A5%87%E7%91%9E%E5%AE%A3%E5%B8%83%E4%B8%8E%E6%9D%A8%E7%B4%AB%E5%86%8D%E5%BA%A6%E6%90%BA%E6%89%8B"
+      },
+      "raw_titles": [
+        "奇瑞宣布与杨紫再度携手"
+      ],
+      "rank": 26,
+      "movie_rank": 11
+    },
+    {
+      "title": "莫离编剧团队打假蒙淇淇",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 445904,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8E%AB%E7%A6%BB%E7%BC%96%E5%89%A7%E5%9B%A2%E9%98%9F%E6%89%93%E5%81%87%E8%92%99%E6%B7%87%E6%B7%87"
+      },
+      "raw_titles": [
+        "莫离编剧团队打假蒙淇淇"
+      ],
+      "rank": 28,
+      "movie_rank": 12
     },
     {
       "title": "浙江卫视回应《奔跑吧》850万推广费",
@@ -1234,15 +1306,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 162000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%9B%9E%E5%BA%94%E3%80%8A%E5%A5%94%E8%B7%91%E5%90%A7%E3%80%8B850%E4%B8%87%E6%8E%A8%E5%B9%BF%E8%B4%B9&sa=fyb_news"
       },
       "raw_titles": [
         "浙江卫视回应《奔跑吧》850万推广费"
       ],
-      "rank": 36,
-      "movie_rank": 11
+      "rank": 39,
+      "movie_rank": 13
     },
     {
       "title": "蒙淇淇指控白鹿换《莫离》编剧团队",
@@ -1250,15 +1322,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 135000,
+      "hot_value": 90000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%92%99%E6%B7%87%E6%B7%87%E6%8C%87%E6%8E%A7%E7%99%BD%E9%B9%BF%E6%8D%A2%E3%80%8A%E8%8E%AB%E7%A6%BB%E3%80%8B%E7%BC%96%E5%89%A7%E5%9B%A2%E9%98%9F&sa=fyb_news"
       },
       "raw_titles": [
         "蒙淇淇指控白鹿换《莫离》编剧团队"
       ],
-      "rank": 37,
-      "movie_rank": 12
+      "rank": 40,
+      "movie_rank": 14
     }
   ]
 }
