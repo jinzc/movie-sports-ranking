@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-06-12 03:00:53",
-  "total": 41,
-  "sports_count": 31,
-  "movie_count": 10,
+  "update_time": "2026-06-12 04:00:46",
+  "total": 42,
+  "sports_count": 33,
+  "movie_count": 9,
   "all": [
     {
       "title": "世界杯开幕式",
@@ -14,15 +14,14 @@
         "微博",
         "微博",
         "微博",
-        "百度",
+        "抖音",
         "抖音",
         "抖音",
         "抖音"
       ],
-      "hot_value": 31887337,
+      "hot_value": 35777820,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E5%A5%BD%E7%9F%AD",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9%E5%85%AC%E5%B8%83&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86"
       },
       "raw_titles": [
@@ -32,22 +31,58 @@
       "sports_rank": 1
     },
     {
-      "title": "世界杯揭幕战墨西哥vs南非",
+      "title": "世界杯揭幕战：墨西哥vs南非",
       "category": "体育",
       "sources": [
-        "抖音",
-        "哔哩哔哩"
+        "百度",
+        "抖音"
       ],
-      "hot_value": 12182520,
+      "hot_value": 12603020,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%9C%89%E4%BC%98%E5%8A%BF%E5%90%97"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%EF%BC%9A%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E"
       },
       "raw_titles": [
-        "世界杯揭幕战墨西哥vs南非"
+        "世界杯揭幕战：墨西哥vs南非"
       ],
       "rank": 2,
       "sports_rank": 2
+    },
+    {
+      "title": "美加墨世界杯首球",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 10831696,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
+        "百度": "https://m.baidu.com/s?word=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%94%E5%A4%A7%E5%BF%85%E7%9C%8B"
+      },
+      "raw_titles": [
+        "美加墨世界杯首球"
+      ],
+      "rank": 3,
+      "sports_rank": 3
+    },
+    {
+      "title": "吴越杯金华点球夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 10257946,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%B6%8A%E6%9D%AF%E9%87%91%E5%8D%8E%E7%82%B9%E7%90%83%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "吴越杯金华点球夺冠"
+      ],
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "尼克斯29分逆转马刺夺冠军点",
@@ -56,7 +91,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 8261123,
+      "hot_value": 8069859,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%B0%BC%E5%85%8B%E6%96%AF29%E5%88%86%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA%E5%A4%BA%E5%86%A0%E5%86%9B%E7%82%B9",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF29%E5%88%86%E5%A4%A7%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA"
@@ -64,8 +99,8 @@
       "raw_titles": [
         "尼克斯29分逆转马刺夺冠军点"
       ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 5,
+      "sports_rank": 5
     },
     {
       "title": "周杰伦林俊杰合唱那天下雨了",
@@ -74,7 +109,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 8036647,
+      "hot_value": 7966254,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E5%94%B1%E9%82%A3%E5%A4%A9%E4%B8%8B%E9%9B%A8%E4%BA%86",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E5%94%B1"
@@ -82,24 +117,24 @@
       "raw_titles": [
         "周杰伦林俊杰合唱那天下雨了"
       ],
-      "rank": 4,
+      "rank": 6,
       "movie_rank": 1
     },
     {
-      "title": "第一批世界杯观赛团已到达现场",
+      "title": "我的世界杯宝藏应援妆",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7800184,
+      "hot_value": 7746191,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%B5%9B%E5%9B%A2%E5%B7%B2%E5%88%B0%E8%BE%BE%E7%8E%B0%E5%9C%BA"
+        "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9D%E8%97%8F%E5%BA%94%E6%8F%B4%E5%A6%86"
       },
       "raw_titles": [
-        "第一批世界杯观赛团已到达现场"
+        "我的世界杯宝藏应援妆"
       ],
-      "rank": 5,
-      "sports_rank": 4
+      "rank": 7,
+      "sports_rank": 6
     },
     {
       "title": "人间有味杀青",
@@ -107,15 +142,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7740905,
+      "hot_value": 7711874,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BA%BA%E9%97%B4%E6%9C%89%E5%91%B3%E6%9D%80%E9%9D%92"
       },
       "raw_titles": [
         "人间有味杀青"
       ],
-      "rank": 6,
+      "rank": 8,
       "movie_rank": 2
+    },
+    {
+      "title": "第一批世界杯观赛团已到达现场",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7699045,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%B5%9B%E5%9B%A2%E5%B7%B2%E5%88%B0%E8%BE%BE%E7%8E%B0%E5%9C%BA"
+      },
+      "raw_titles": [
+        "第一批世界杯观赛团已到达现场"
+      ],
+      "rank": 9,
+      "sports_rank": 7
     },
     {
       "title": "歌手2026第四期音源抢先听",
@@ -123,14 +174,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7698755,
+      "hot_value": 7676559,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%9B%9B%E6%9C%9F%E9%9F%B3%E6%BA%90%E6%8A%A2%E5%85%88%E5%90%AC"
       },
       "raw_titles": [
         "歌手2026第四期音源抢先听"
       ],
-      "rank": 7,
+      "rank": 10,
       "movie_rank": 3
     },
     {
@@ -139,63 +190,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7669676,
+      "hot_value": 7670244,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E5%AE%9A%E6%A1%A37%E6%9C%8829%E6%97%A5"
       },
       "raw_titles": [
         "蜘蛛侠4定档7月29日"
       ],
-      "rank": 8,
-      "movie_rank": 4
-    },
-    {
-      "title": "春子戴眼镜幻视刘亦菲",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7659279,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%98%A5%E5%AD%90%E6%88%B4%E7%9C%BC%E9%95%9C%E5%B9%BB%E8%A7%86%E5%88%98%E4%BA%A6%E8%8F%B2"
-      },
-      "raw_titles": [
-        "春子戴眼镜幻视刘亦菲"
-      ],
-      "rank": 9,
-      "movie_rank": 5
-    },
-    {
-      "title": "吴越杯金华点球夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7655956,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%B6%8A%E6%9D%AF%E9%87%91%E5%8D%8E%E7%82%B9%E7%90%83%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "吴越杯金华点球夺冠"
-      ],
-      "rank": 10,
-      "sports_rank": 5
-    },
-    {
-      "title": "我的世界杯宝藏应援妆",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7652791,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9D%E8%97%8F%E5%BA%94%E6%8F%B4%E5%A6%86"
-      },
-      "raw_titles": [
-        "我的世界杯宝藏应援妆"
-      ],
       "rank": 11,
-      "sports_rank": 6
+      "movie_rank": 4
     },
     {
       "title": "世界杯你的唐梓回来了",
@@ -203,7 +206,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7638107,
+      "hot_value": 7635723,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86"
       },
@@ -211,7 +214,23 @@
         "世界杯你的唐梓回来了"
       ],
       "rank": 12,
-      "sports_rank": 7
+      "sports_rank": 8
+    },
+    {
+      "title": "春子戴眼镜幻视刘亦菲",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7625621,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%98%A5%E5%AD%90%E6%88%B4%E7%9C%BC%E9%95%9C%E5%B9%BB%E8%A7%86%E5%88%98%E4%BA%A6%E8%8F%B2"
+      },
+      "raw_titles": [
+        "春子戴眼镜幻视刘亦菲"
+      ],
+      "rank": 13,
+      "movie_rank": 5
     },
     {
       "title": "归良辰杀青",
@@ -219,127 +238,49 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7629781,
+      "hot_value": 7620792,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BD%92%E8%89%AF%E8%BE%B0%E6%9D%80%E9%9D%92"
       },
       "raw_titles": [
         "归良辰杀青"
       ],
-      "rank": 13,
+      "rank": 14,
       "movie_rank": 6
     },
     {
-      "title": "电影心犬相随太懂养狗人了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7624042,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%BF%83%E7%8A%AC%E7%9B%B8%E9%9A%8F%E5%A4%AA%E6%87%82%E5%85%BB%E7%8B%97%E4%BA%BA%E4%BA%86"
-      },
-      "raw_titles": [
-        "电影心犬相随太懂养狗人了"
-      ],
-      "rank": 14,
-      "movie_rank": 7
-    },
-    {
-      "title": "解读OG补篮绝杀",
+      "title": "labubu都进世界杯了",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "百度"
       ],
-      "hot_value": 1215615,
+      "hot_value": 720626,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOG%E8%A1%A5%E7%AF%AE%E7%BB%9D%E6%9D%80"
+        "微博": "https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+        "百度": "https://m.baidu.com/s?word=labubu%E9%83%BD%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
-        "解读OG补篮绝杀"
+        "labubu都进世界杯了"
       ],
       "rank": 15,
-      "sports_rank": 8
-    },
-    {
-      "title": "布伦森和队友拥抱庆祝胜利",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 498348,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E5%92%8C%E9%98%9F%E5%8F%8B%E6%8B%A5%E6%8A%B1%E5%BA%86%E7%A5%9D%E8%83%9C%E5%88%A9"
-      },
-      "raw_titles": [
-        "布伦森和队友拥抱庆祝胜利"
-      ],
-      "rank": 16,
       "sports_rank": 9
     },
     {
-      "title": "如何评价马刺被翻盘",
+      "title": "韩国人怎么评价LISA世界杯主题曲",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 481317,
+      "hot_value": 562750,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E9%A9%AC%E5%88%BA%E8%A2%AB%E7%BF%BB%E7%9B%98"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7LISA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2"
       },
       "raw_titles": [
-        "如何评价马刺被翻盘"
+        "韩国人怎么评价LISA世界杯主题曲"
       ],
-      "rank": 17,
+      "rank": 16,
       "sports_rank": 10
-    },
-    {
-      "title": "世界杯A组前瞻",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 480941,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AFA%E7%BB%84%E5%89%8D%E7%9E%BB"
-      },
-      "raw_titles": [
-        "世界杯A组前瞻"
-      ],
-      "rank": 18,
-      "sports_rank": 11
-    },
-    {
-      "title": "马刺自我拷问29分大崩盘",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 451282,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E8%87%AA%E6%88%91%E6%8B%B7%E9%97%AE29%E5%88%86%E5%A4%A7%E5%B4%A9%E7%9B%98"
-      },
-      "raw_titles": [
-        "马刺自我拷问29分大崩盘"
-      ],
-      "rank": 19,
-      "sports_rank": 12
-    },
-    {
-      "title": "2026年美加墨世界杯",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 450000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=2026%E5%B9%B4%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "2026年美加墨世界杯"
-      ],
-      "rank": 20,
-      "sports_rank": 13
     },
     {
       "title": "世界杯球队巡礼：墨西哥队",
@@ -355,24 +296,24 @@
       "raw_titles": [
         "世界杯球队巡礼：墨西哥队"
       ],
-      "rank": 21,
-      "sports_rank": 14
+      "rank": 17,
+      "sports_rank": 11
     },
     {
-      "title": "世界杯迎来了最不吃压力的中国裁判",
+      "title": "如何评价马刺被翻盘",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 441000,
+      "hot_value": 443232,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E4%B8%8D%E5%90%83%E5%8E%8B%E5%8A%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E9%A9%AC%E5%88%BA%E8%A2%AB%E7%BF%BB%E7%9B%98"
       },
       "raw_titles": [
-        "世界杯迎来了最不吃压力的中国裁判"
+        "如何评价马刺被翻盘"
       ],
-      "rank": 22,
-      "sports_rank": 15
+      "rank": 18,
+      "sports_rank": 12
     },
     {
       "title": "轮奸犯踢世界杯日本足协沉默",
@@ -381,7 +322,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 440381,
+      "hot_value": 415917,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
         "百度": "https://m.baidu.com/s?word=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF+%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98&sa=fyb_news"
@@ -389,72 +330,56 @@
       "raw_titles": [
         "轮奸犯踢世界杯日本足协沉默"
       ],
-      "rank": 23,
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "2026年美加墨世界杯",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 387000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=2026%E5%B9%B4%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "2026年美加墨世界杯"
+      ],
+      "rank": 20,
+      "sports_rank": 14
+    },
+    {
+      "title": "解读OG补篮绝杀",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 335235,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOG%E8%A1%A5%E7%AF%AE%E7%BB%9D%E6%9D%80"
+      },
+      "raw_titles": [
+        "解读OG补篮绝杀"
+      ],
+      "rank": 21,
+      "sports_rank": 15
+    },
+    {
+      "title": "布伦森和队友拥抱庆祝胜利",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 317060,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E5%92%8C%E9%98%9F%E5%8F%8B%E6%8B%A5%E6%8A%B1%E5%BA%86%E7%A5%9D%E8%83%9C%E5%88%A9"
+      },
+      "raw_titles": [
+        "布伦森和队友拥抱庆祝胜利"
+      ],
+      "rank": 22,
       "sports_rank": 16
-    },
-    {
-      "title": "管泽元世界杯预测",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 394150,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B"
-      },
-      "raw_titles": [
-        "管泽元世界杯预测"
-      ],
-      "rank": 24,
-      "sports_rank": 17
-    },
-    {
-      "title": "labubu都进世界杯了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 385834,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86"
-      },
-      "raw_titles": [
-        "labubu都进世界杯了"
-      ],
-      "rank": 25,
-      "sports_rank": 18
-    },
-    {
-      "title": "韩国人怎么评价LISA世界杯主题曲",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 348797,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7LISA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2"
-      },
-      "raw_titles": [
-        "韩国人怎么评价LISA世界杯主题曲"
-      ],
-      "rank": 26,
-      "sports_rank": 19
-    },
-    {
-      "title": "硬核解析世界杯谁能夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 344152,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E6%A0%B8%E8%A7%A3%E6%9E%90%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "硬核解析世界杯谁能夺冠"
-      ],
-      "rank": 27,
-      "sports_rank": 20
     },
     {
       "title": "历届世界杯的预言家与乌鸦嘴",
@@ -469,24 +394,40 @@
       "raw_titles": [
         "历届世界杯的预言家与乌鸦嘴"
       ],
-      "rank": 28,
-      "sports_rank": 21
+      "rank": 23,
+      "sports_rank": 17
     },
     {
-      "title": "NBA总决赛G4十佳球",
+      "title": "硬核解析世界杯谁能夺冠",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 303579,
+      "hot_value": 296082,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG4%E5%8D%81%E4%BD%B3%E7%90%83"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E6%A0%B8%E8%A7%A3%E6%9E%90%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "NBA总决赛G4十佳球"
+        "硬核解析世界杯谁能夺冠"
       ],
-      "rank": 29,
-      "sports_rank": 22
+      "rank": 24,
+      "sports_rank": 18
+    },
+    {
+      "title": "马刺自我拷问29分大崩盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 268590,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E8%87%AA%E6%88%91%E6%8B%B7%E9%97%AE29%E5%88%86%E5%A4%A7%E5%B4%A9%E7%9B%98"
+      },
+      "raw_titles": [
+        "马刺自我拷问29分大崩盘"
+      ],
+      "rank": 25,
+      "sports_rank": 19
     },
     {
       "title": "吴宜泽希望葡萄牙夺冠 期待梅罗对决",
@@ -501,8 +442,24 @@
       "raw_titles": [
         "吴宜泽希望葡萄牙夺冠 期待梅罗对决"
       ],
-      "rank": 30,
-      "sports_rank": 23
+      "rank": 26,
+      "sports_rank": 20
+    },
+    {
+      "title": "管泽元世界杯预测",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 251754,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B"
+      },
+      "raw_titles": [
+        "管泽元世界杯预测"
+      ],
+      "rank": 27,
+      "sports_rank": 21
     },
     {
       "title": "金牌教练邱贻可要来百度聊世界杯了",
@@ -517,24 +474,40 @@
       "raw_titles": [
         "金牌教练邱贻可要来百度聊世界杯了"
       ],
-      "rank": 31,
-      "sports_rank": 24
+      "rank": 28,
+      "sports_rank": 22
     },
     {
-      "title": "张杰评论区被问怎么看谢娜全国巡演",
-      "category": "影视",
+      "title": "皇马官宣穆里尼奥回归",
+      "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 216000,
+      "hot_value": 227930,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9D%B0%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E9%97%AE%E6%80%8E%E4%B9%88%E7%9C%8B%E8%B0%A2%E5%A8%9C%E5%85%A8%E5%9B%BD%E5%B7%A1%E6%BC%94&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%98%E5%AE%A3%E7%A9%86%E9%87%8C%E5%B0%BC%E5%A5%A5%E5%9B%9E%E5%BD%92"
       },
       "raw_titles": [
-        "张杰评论区被问怎么看谢娜全国巡演"
+        "皇马官宣穆里尼奥回归"
       ],
-      "rank": 32,
-      "movie_rank": 8
+      "rank": 29,
+      "sports_rank": 23
+    },
+    {
+      "title": "NBA总决赛G4十佳球",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 225905,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG4%E5%8D%81%E4%BD%B3%E7%90%83"
+      },
+      "raw_titles": [
+        "NBA总决赛G4十佳球"
+      ],
+      "rank": 30,
+      "sports_rank": 24
     },
     {
       "title": "阿根廷摇滚巨星遗愿：梅西再夺世界杯",
@@ -549,23 +522,23 @@
       "raw_titles": [
         "阿根廷摇滚巨星遗愿：梅西再夺世界杯"
       ],
-      "rank": 33,
+      "rank": 31,
       "sports_rank": 25
     },
     {
-      "title": "世界杯来了 你准备好了吗",
+      "title": "一代人有一代人的世界杯记忆",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 162000,
+      "hot_value": 203476,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9D%A5%E4%BA%86+%E4%BD%A0%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%E5%90%97&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AE%B0%E5%BF%86"
       },
       "raw_titles": [
-        "世界杯来了 你准备好了吗"
+        "一代人有一代人的世界杯记忆"
       ],
-      "rank": 34,
+      "rank": 32,
       "sports_rank": 26
     },
     {
@@ -581,23 +554,23 @@
       "raw_titles": [
         "四代巨星逐梦世界杯"
       ],
-      "rank": 35,
+      "rank": 33,
       "sports_rank": 27
     },
     {
-      "title": "熬夜看世界杯",
+      "title": "世界杯迎来了最不吃压力的中国裁判",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 130563,
+      "hot_value": 135000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E4%B8%8D%E5%90%83%E5%8E%8B%E5%8A%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4&sa=fyb_news"
       },
       "raw_titles": [
-        "熬夜看世界杯"
+        "世界杯迎来了最不吃压力的中国裁判"
       ],
-      "rank": 36,
+      "rank": 34,
       "sports_rank": 28
     },
     {
@@ -613,8 +586,40 @@
       "raw_titles": [
         "美加墨或成1930年以来最热的世界杯"
       ],
-      "rank": 37,
+      "rank": 35,
       "sports_rank": 29
+    },
+    {
+      "title": "熬夜看世界杯",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 99172,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "熬夜看世界杯"
+      ],
+      "rank": 36,
+      "sports_rank": 30
+    },
+    {
+      "title": "张杰评论区被问怎么看谢娜全国巡演",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9D%B0%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E9%97%AE%E6%80%8E%E4%B9%88%E7%9C%8B%E8%B0%A2%E5%A8%9C%E5%85%A8%E5%9B%BD%E5%B7%A1%E6%BC%94&sa=fyb_news"
+      },
+      "raw_titles": [
+        "张杰评论区被问怎么看谢娜全国巡演"
+      ],
+      "rank": 37,
+      "movie_rank": 7
     },
     {
       "title": "名古屋亚运会电竞参赛名单",
@@ -622,7 +627,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 75100,
+      "hot_value": 42182,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B5%E7%AB%9E%E5%8F%82%E8%B5%9B%E5%90%8D%E5%8D%95"
       },
@@ -630,23 +635,23 @@
         "名古屋亚运会电竞参赛名单"
       ],
       "rank": 38,
-      "sports_rank": 30
+      "sports_rank": 31
     },
     {
-      "title": "樊振东回国了",
-      "category": "体育",
+      "title": "万妮达 歌手补位",
+      "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 54089,
+      "hot_value": 37921,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%9B%BD%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%20%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D"
       },
       "raw_titles": [
-        "樊振东回国了"
+        "万妮达 歌手补位"
       ],
       "rank": 39,
-      "sports_rank": 31
+      "movie_rank": 8
     },
     {
       "title": "迪丽热巴剧宣为陈飞宇破了好多例",
@@ -654,7 +659,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 53969,
+      "hot_value": 37919,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%89%A7%E5%AE%A3%E4%B8%BA%E9%99%88%E9%A3%9E%E5%AE%87%E7%A0%B4%E4%BA%86%E5%A5%BD%E5%A4%9A%E4%BE%8B"
       },
@@ -665,20 +670,36 @@
       "movie_rank": 9
     },
     {
-      "title": "万妮达 歌手补位",
-      "category": "影视",
+      "title": "樊振东回国了",
+      "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 53747,
+      "hot_value": 37918,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%20%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D"
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%9B%BD%E4%BA%86"
       },
       "raw_titles": [
-        "万妮达 歌手补位"
+        "樊振东回国了"
       ],
       "rank": 41,
-      "movie_rank": 10
+      "sports_rank": 32
+    },
+    {
+      "title": "美加墨世界杯第1比赛日看点",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC1%E6%AF%94%E8%B5%9B%E6%97%A5%E7%9C%8B%E7%82%B9&sa=fyb_news"
+      },
+      "raw_titles": [
+        "美加墨世界杯第1比赛日看点"
+      ],
+      "rank": 42,
+      "sports_rank": 33
     }
   ],
   "sports": [
@@ -692,15 +713,14 @@
         "微博",
         "微博",
         "微博",
-        "百度",
+        "抖音",
         "抖音",
         "抖音",
         "抖音"
       ],
-      "hot_value": 31887337,
+      "hot_value": 35777820,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E5%A5%BD%E7%9F%AD",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9%E5%85%AC%E5%B8%83&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86"
       },
       "raw_titles": [
@@ -710,22 +730,58 @@
       "sports_rank": 1
     },
     {
-      "title": "世界杯揭幕战墨西哥vs南非",
+      "title": "世界杯揭幕战：墨西哥vs南非",
       "category": "体育",
       "sources": [
-        "抖音",
-        "哔哩哔哩"
+        "百度",
+        "抖音"
       ],
-      "hot_value": 12182520,
+      "hot_value": 12603020,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%9C%89%E4%BC%98%E5%8A%BF%E5%90%97"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%EF%BC%9A%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E"
       },
       "raw_titles": [
-        "世界杯揭幕战墨西哥vs南非"
+        "世界杯揭幕战：墨西哥vs南非"
       ],
       "rank": 2,
       "sports_rank": 2
+    },
+    {
+      "title": "美加墨世界杯首球",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 10831696,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
+        "百度": "https://m.baidu.com/s?word=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%94%E5%A4%A7%E5%BF%85%E7%9C%8B"
+      },
+      "raw_titles": [
+        "美加墨世界杯首球"
+      ],
+      "rank": 3,
+      "sports_rank": 3
+    },
+    {
+      "title": "吴越杯金华点球夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 10257946,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%B6%8A%E6%9D%AF%E9%87%91%E5%8D%8E%E7%82%B9%E7%90%83%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "吴越杯金华点球夺冠"
+      ],
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "尼克斯29分逆转马刺夺冠军点",
@@ -734,7 +790,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 8261123,
+      "hot_value": 8069859,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%B0%BC%E5%85%8B%E6%96%AF29%E5%88%86%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA%E5%A4%BA%E5%86%A0%E5%86%9B%E7%82%B9",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF29%E5%88%86%E5%A4%A7%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA"
@@ -742,39 +798,7 @@
       "raw_titles": [
         "尼克斯29分逆转马刺夺冠军点"
       ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "第一批世界杯观赛团已到达现场",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7800184,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%B5%9B%E5%9B%A2%E5%B7%B2%E5%88%B0%E8%BE%BE%E7%8E%B0%E5%9C%BA"
-      },
-      "raw_titles": [
-        "第一批世界杯观赛团已到达现场"
-      ],
       "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "吴越杯金华点球夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7655956,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%B6%8A%E6%9D%AF%E9%87%91%E5%8D%8E%E7%82%B9%E7%90%83%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "吴越杯金华点球夺冠"
-      ],
-      "rank": 10,
       "sports_rank": 5
     },
     {
@@ -783,15 +807,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7652791,
+      "hot_value": 7746191,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9D%E8%97%8F%E5%BA%94%E6%8F%B4%E5%A6%86"
       },
       "raw_titles": [
         "我的世界杯宝藏应援妆"
       ],
-      "rank": 11,
+      "rank": 7,
       "sports_rank": 6
+    },
+    {
+      "title": "第一批世界杯观赛团已到达现场",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7699045,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%B5%9B%E5%9B%A2%E5%B7%B2%E5%88%B0%E8%BE%BE%E7%8E%B0%E5%9C%BA"
+      },
+      "raw_titles": [
+        "第一批世界杯观赛团已到达现场"
+      ],
+      "rank": 9,
+      "sports_rank": 7
     },
     {
       "title": "世界杯你的唐梓回来了",
@@ -799,7 +839,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7638107,
+      "hot_value": 7635723,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86"
       },
@@ -807,103 +847,41 @@
         "世界杯你的唐梓回来了"
       ],
       "rank": 12,
-      "sports_rank": 7
-    },
-    {
-      "title": "解读OG补篮绝杀",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1215615,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOG%E8%A1%A5%E7%AF%AE%E7%BB%9D%E6%9D%80"
-      },
-      "raw_titles": [
-        "解读OG补篮绝杀"
-      ],
-      "rank": 15,
       "sports_rank": 8
     },
     {
-      "title": "布伦森和队友拥抱庆祝胜利",
+      "title": "labubu都进世界杯了",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "百度"
       ],
-      "hot_value": 498348,
+      "hot_value": 720626,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E5%92%8C%E9%98%9F%E5%8F%8B%E6%8B%A5%E6%8A%B1%E5%BA%86%E7%A5%9D%E8%83%9C%E5%88%A9"
+        "微博": "https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+        "百度": "https://m.baidu.com/s?word=labubu%E9%83%BD%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
-        "布伦森和队友拥抱庆祝胜利"
+        "labubu都进世界杯了"
       ],
-      "rank": 16,
+      "rank": 15,
       "sports_rank": 9
     },
     {
-      "title": "如何评价马刺被翻盘",
+      "title": "韩国人怎么评价LISA世界杯主题曲",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 481317,
+      "hot_value": 562750,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E9%A9%AC%E5%88%BA%E8%A2%AB%E7%BF%BB%E7%9B%98"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7LISA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2"
       },
       "raw_titles": [
-        "如何评价马刺被翻盘"
+        "韩国人怎么评价LISA世界杯主题曲"
       ],
-      "rank": 17,
+      "rank": 16,
       "sports_rank": 10
-    },
-    {
-      "title": "世界杯A组前瞻",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 480941,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AFA%E7%BB%84%E5%89%8D%E7%9E%BB"
-      },
-      "raw_titles": [
-        "世界杯A组前瞻"
-      ],
-      "rank": 18,
-      "sports_rank": 11
-    },
-    {
-      "title": "马刺自我拷问29分大崩盘",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 451282,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E8%87%AA%E6%88%91%E6%8B%B7%E9%97%AE29%E5%88%86%E5%A4%A7%E5%B4%A9%E7%9B%98"
-      },
-      "raw_titles": [
-        "马刺自我拷问29分大崩盘"
-      ],
-      "rank": 19,
-      "sports_rank": 12
-    },
-    {
-      "title": "2026年美加墨世界杯",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 450000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=2026%E5%B9%B4%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "2026年美加墨世界杯"
-      ],
-      "rank": 20,
-      "sports_rank": 13
     },
     {
       "title": "世界杯球队巡礼：墨西哥队",
@@ -919,24 +897,24 @@
       "raw_titles": [
         "世界杯球队巡礼：墨西哥队"
       ],
-      "rank": 21,
-      "sports_rank": 14
+      "rank": 17,
+      "sports_rank": 11
     },
     {
-      "title": "世界杯迎来了最不吃压力的中国裁判",
+      "title": "如何评价马刺被翻盘",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 441000,
+      "hot_value": 443232,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E4%B8%8D%E5%90%83%E5%8E%8B%E5%8A%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E9%A9%AC%E5%88%BA%E8%A2%AB%E7%BF%BB%E7%9B%98"
       },
       "raw_titles": [
-        "世界杯迎来了最不吃压力的中国裁判"
+        "如何评价马刺被翻盘"
       ],
-      "rank": 22,
-      "sports_rank": 15
+      "rank": 18,
+      "sports_rank": 12
     },
     {
       "title": "轮奸犯踢世界杯日本足协沉默",
@@ -945,7 +923,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 440381,
+      "hot_value": 415917,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
         "百度": "https://m.baidu.com/s?word=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF+%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98&sa=fyb_news"
@@ -953,72 +931,56 @@
       "raw_titles": [
         "轮奸犯踢世界杯日本足协沉默"
       ],
-      "rank": 23,
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "2026年美加墨世界杯",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 387000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=2026%E5%B9%B4%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "2026年美加墨世界杯"
+      ],
+      "rank": 20,
+      "sports_rank": 14
+    },
+    {
+      "title": "解读OG补篮绝杀",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 335235,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOG%E8%A1%A5%E7%AF%AE%E7%BB%9D%E6%9D%80"
+      },
+      "raw_titles": [
+        "解读OG补篮绝杀"
+      ],
+      "rank": 21,
+      "sports_rank": 15
+    },
+    {
+      "title": "布伦森和队友拥抱庆祝胜利",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 317060,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E5%92%8C%E9%98%9F%E5%8F%8B%E6%8B%A5%E6%8A%B1%E5%BA%86%E7%A5%9D%E8%83%9C%E5%88%A9"
+      },
+      "raw_titles": [
+        "布伦森和队友拥抱庆祝胜利"
+      ],
+      "rank": 22,
       "sports_rank": 16
-    },
-    {
-      "title": "管泽元世界杯预测",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 394150,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B"
-      },
-      "raw_titles": [
-        "管泽元世界杯预测"
-      ],
-      "rank": 24,
-      "sports_rank": 17
-    },
-    {
-      "title": "labubu都进世界杯了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 385834,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86"
-      },
-      "raw_titles": [
-        "labubu都进世界杯了"
-      ],
-      "rank": 25,
-      "sports_rank": 18
-    },
-    {
-      "title": "韩国人怎么评价LISA世界杯主题曲",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 348797,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7LISA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2"
-      },
-      "raw_titles": [
-        "韩国人怎么评价LISA世界杯主题曲"
-      ],
-      "rank": 26,
-      "sports_rank": 19
-    },
-    {
-      "title": "硬核解析世界杯谁能夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 344152,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E6%A0%B8%E8%A7%A3%E6%9E%90%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "硬核解析世界杯谁能夺冠"
-      ],
-      "rank": 27,
-      "sports_rank": 20
     },
     {
       "title": "历届世界杯的预言家与乌鸦嘴",
@@ -1033,24 +995,40 @@
       "raw_titles": [
         "历届世界杯的预言家与乌鸦嘴"
       ],
-      "rank": 28,
-      "sports_rank": 21
+      "rank": 23,
+      "sports_rank": 17
     },
     {
-      "title": "NBA总决赛G4十佳球",
+      "title": "硬核解析世界杯谁能夺冠",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 303579,
+      "hot_value": 296082,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG4%E5%8D%81%E4%BD%B3%E7%90%83"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E6%A0%B8%E8%A7%A3%E6%9E%90%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "NBA总决赛G4十佳球"
+        "硬核解析世界杯谁能夺冠"
       ],
-      "rank": 29,
-      "sports_rank": 22
+      "rank": 24,
+      "sports_rank": 18
+    },
+    {
+      "title": "马刺自我拷问29分大崩盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 268590,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E8%87%AA%E6%88%91%E6%8B%B7%E9%97%AE29%E5%88%86%E5%A4%A7%E5%B4%A9%E7%9B%98"
+      },
+      "raw_titles": [
+        "马刺自我拷问29分大崩盘"
+      ],
+      "rank": 25,
+      "sports_rank": 19
     },
     {
       "title": "吴宜泽希望葡萄牙夺冠 期待梅罗对决",
@@ -1065,8 +1043,24 @@
       "raw_titles": [
         "吴宜泽希望葡萄牙夺冠 期待梅罗对决"
       ],
-      "rank": 30,
-      "sports_rank": 23
+      "rank": 26,
+      "sports_rank": 20
+    },
+    {
+      "title": "管泽元世界杯预测",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 251754,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B"
+      },
+      "raw_titles": [
+        "管泽元世界杯预测"
+      ],
+      "rank": 27,
+      "sports_rank": 21
     },
     {
       "title": "金牌教练邱贻可要来百度聊世界杯了",
@@ -1081,7 +1075,39 @@
       "raw_titles": [
         "金牌教练邱贻可要来百度聊世界杯了"
       ],
-      "rank": 31,
+      "rank": 28,
+      "sports_rank": 22
+    },
+    {
+      "title": "皇马官宣穆里尼奥回归",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 227930,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%98%E5%AE%A3%E7%A9%86%E9%87%8C%E5%B0%BC%E5%A5%A5%E5%9B%9E%E5%BD%92"
+      },
+      "raw_titles": [
+        "皇马官宣穆里尼奥回归"
+      ],
+      "rank": 29,
+      "sports_rank": 23
+    },
+    {
+      "title": "NBA总决赛G4十佳球",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 225905,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG4%E5%8D%81%E4%BD%B3%E7%90%83"
+      },
+      "raw_titles": [
+        "NBA总决赛G4十佳球"
+      ],
+      "rank": 30,
       "sports_rank": 24
     },
     {
@@ -1097,23 +1123,23 @@
       "raw_titles": [
         "阿根廷摇滚巨星遗愿：梅西再夺世界杯"
       ],
-      "rank": 33,
+      "rank": 31,
       "sports_rank": 25
     },
     {
-      "title": "世界杯来了 你准备好了吗",
+      "title": "一代人有一代人的世界杯记忆",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 162000,
+      "hot_value": 203476,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9D%A5%E4%BA%86+%E4%BD%A0%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%E5%90%97&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AE%B0%E5%BF%86"
       },
       "raw_titles": [
-        "世界杯来了 你准备好了吗"
+        "一代人有一代人的世界杯记忆"
       ],
-      "rank": 34,
+      "rank": 32,
       "sports_rank": 26
     },
     {
@@ -1129,23 +1155,23 @@
       "raw_titles": [
         "四代巨星逐梦世界杯"
       ],
-      "rank": 35,
+      "rank": 33,
       "sports_rank": 27
     },
     {
-      "title": "熬夜看世界杯",
+      "title": "世界杯迎来了最不吃压力的中国裁判",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 130563,
+      "hot_value": 135000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E4%B8%8D%E5%90%83%E5%8E%8B%E5%8A%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4&sa=fyb_news"
       },
       "raw_titles": [
-        "熬夜看世界杯"
+        "世界杯迎来了最不吃压力的中国裁判"
       ],
-      "rank": 36,
+      "rank": 34,
       "sports_rank": 28
     },
     {
@@ -1161,8 +1187,24 @@
       "raw_titles": [
         "美加墨或成1930年以来最热的世界杯"
       ],
-      "rank": 37,
+      "rank": 35,
       "sports_rank": 29
+    },
+    {
+      "title": "熬夜看世界杯",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 99172,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "熬夜看世界杯"
+      ],
+      "rank": 36,
+      "sports_rank": 30
     },
     {
       "title": "名古屋亚运会电竞参赛名单",
@@ -1170,7 +1212,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 75100,
+      "hot_value": 42182,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B5%E7%AB%9E%E5%8F%82%E8%B5%9B%E5%90%8D%E5%8D%95"
       },
@@ -1178,7 +1220,7 @@
         "名古屋亚运会电竞参赛名单"
       ],
       "rank": 38,
-      "sports_rank": 30
+      "sports_rank": 31
     },
     {
       "title": "樊振东回国了",
@@ -1186,15 +1228,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 54089,
+      "hot_value": 37918,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%9B%BD%E4%BA%86"
       },
       "raw_titles": [
         "樊振东回国了"
       ],
-      "rank": 39,
-      "sports_rank": 31
+      "rank": 41,
+      "sports_rank": 32
+    },
+    {
+      "title": "美加墨世界杯第1比赛日看点",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC1%E6%AF%94%E8%B5%9B%E6%97%A5%E7%9C%8B%E7%82%B9&sa=fyb_news"
+      },
+      "raw_titles": [
+        "美加墨世界杯第1比赛日看点"
+      ],
+      "rank": 42,
+      "sports_rank": 33
     }
   ],
   "movies": [
@@ -1205,7 +1263,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 8036647,
+      "hot_value": 7966254,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E5%94%B1%E9%82%A3%E5%A4%A9%E4%B8%8B%E9%9B%A8%E4%BA%86",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E5%94%B1"
@@ -1213,7 +1271,7 @@
       "raw_titles": [
         "周杰伦林俊杰合唱那天下雨了"
       ],
-      "rank": 4,
+      "rank": 6,
       "movie_rank": 1
     },
     {
@@ -1222,14 +1280,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7740905,
+      "hot_value": 7711874,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BA%BA%E9%97%B4%E6%9C%89%E5%91%B3%E6%9D%80%E9%9D%92"
       },
       "raw_titles": [
         "人间有味杀青"
       ],
-      "rank": 6,
+      "rank": 8,
       "movie_rank": 2
     },
     {
@@ -1238,14 +1296,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7698755,
+      "hot_value": 7676559,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%9B%9B%E6%9C%9F%E9%9F%B3%E6%BA%90%E6%8A%A2%E5%85%88%E5%90%AC"
       },
       "raw_titles": [
         "歌手2026第四期音源抢先听"
       ],
-      "rank": 7,
+      "rank": 10,
       "movie_rank": 3
     },
     {
@@ -1254,14 +1312,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7669676,
+      "hot_value": 7670244,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E5%AE%9A%E6%A1%A37%E6%9C%8829%E6%97%A5"
       },
       "raw_titles": [
         "蜘蛛侠4定档7月29日"
       ],
-      "rank": 8,
+      "rank": 11,
       "movie_rank": 4
     },
     {
@@ -1270,14 +1328,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7659279,
+      "hot_value": 7625621,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%98%A5%E5%AD%90%E6%88%B4%E7%9C%BC%E9%95%9C%E5%B9%BB%E8%A7%86%E5%88%98%E4%BA%A6%E8%8F%B2"
       },
       "raw_titles": [
         "春子戴眼镜幻视刘亦菲"
       ],
-      "rank": 9,
+      "rank": 13,
       "movie_rank": 5
     },
     {
@@ -1286,31 +1344,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7629781,
+      "hot_value": 7620792,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BD%92%E8%89%AF%E8%BE%B0%E6%9D%80%E9%9D%92"
       },
       "raw_titles": [
         "归良辰杀青"
       ],
-      "rank": 13,
-      "movie_rank": 6
-    },
-    {
-      "title": "电影心犬相随太懂养狗人了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7624042,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%BF%83%E7%8A%AC%E7%9B%B8%E9%9A%8F%E5%A4%AA%E6%87%82%E5%85%BB%E7%8B%97%E4%BA%BA%E4%BA%86"
-      },
-      "raw_titles": [
-        "电影心犬相随太懂养狗人了"
-      ],
       "rank": 14,
-      "movie_rank": 7
+      "movie_rank": 6
     },
     {
       "title": "张杰评论区被问怎么看谢娜全国巡演",
@@ -1318,14 +1360,30 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 63000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9D%B0%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E9%97%AE%E6%80%8E%E4%B9%88%E7%9C%8B%E8%B0%A2%E5%A8%9C%E5%85%A8%E5%9B%BD%E5%B7%A1%E6%BC%94&sa=fyb_news"
       },
       "raw_titles": [
         "张杰评论区被问怎么看谢娜全国巡演"
       ],
-      "rank": 32,
+      "rank": 37,
+      "movie_rank": 7
+    },
+    {
+      "title": "万妮达 歌手补位",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 37921,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%20%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D"
+      },
+      "raw_titles": [
+        "万妮达 歌手补位"
+      ],
+      "rank": 39,
       "movie_rank": 8
     },
     {
@@ -1334,7 +1392,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 53969,
+      "hot_value": 37919,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%89%A7%E5%AE%A3%E4%B8%BA%E9%99%88%E9%A3%9E%E5%AE%87%E7%A0%B4%E4%BA%86%E5%A5%BD%E5%A4%9A%E4%BE%8B"
       },
@@ -1343,22 +1401,6 @@
       ],
       "rank": 40,
       "movie_rank": 9
-    },
-    {
-      "title": "万妮达 歌手补位",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 53747,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%20%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D"
-      },
-      "raw_titles": [
-        "万妮达 歌手补位"
-      ],
-      "rank": 41,
-      "movie_rank": 10
     }
   ]
 }
