@@ -1,13 +1,14 @@
 {
-  "update_time": "2026-06-13 00:00:48",
-  "total": 27,
+  "update_time": "2026-06-13 01:00:52",
+  "total": 26,
   "sports_count": 7,
-  "movie_count": 20,
+  "movie_count": 19,
   "all": [
     {
       "title": "世界杯",
       "category": "体育",
       "sources": [
+        "微博",
         "微博",
         "百度",
         "百度",
@@ -16,7 +17,7 @@
         "百度",
         "百度",
         "百度",
-        "百度",
+        "抖音",
         "抖音",
         "抖音",
         "抖音",
@@ -29,12 +30,12 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 70330528,
+      "hot_value": 80319168,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A3%81%E5%88%A4%E9%A9%AC%E5%AE%81%E5%9B%9E%E5%BA%94%E6%95%A2%E5%88%A4%E6%95%A2%E7%BD%9A",
         "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E5%93%A5%E6%9C%89%E4%BA%8B%E5%8E%BB%E4%B8%8D%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A5%A8%E9%80%81%E9%99%8C%E7%94%9F%E7%BD%91%E5%8F%8B&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/LABUBU%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94%E6%89%A7%E8%A3%81%E4%B8%96%E7%95%8C%E6%9D%AF"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E7%90%83%E5%9C%BA%E6%9C%89%E5%A4%9A%E4%BC%A0%E5%A5%87"
       },
       "raw_titles": [
         "世界杯"
@@ -48,7 +49,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 12096666,
+      "hot_value": 12111543,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B%E9%A6%96%E4%B8%AA%E7%88%86%E6%AC%BE%E5%87%BA%E7%8E%B0"
       },
@@ -64,7 +65,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11080487,
+      "hot_value": 11093860,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B9%9F%E6%98%AF%E5%90%AC%E4%B8%8A%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97%E4%BA%86"
       },
@@ -75,38 +76,54 @@
       "sports_rank": 2
     },
     {
-      "title": "歌手2026第四期舞台",
-      "category": "影视",
-      "sources": [
-        "抖音",
-        "哔哩哔哩"
-      ],
-      "hot_value": 9572769,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%9B%9B%E6%9C%9F%E8%88%9E%E5%8F%B0",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%9B%9B%E6%9C%9F%E6%8E%92%E5%90%8D"
-      },
-      "raw_titles": [
-        "歌手2026第四期舞台"
-      ],
-      "rank": 4,
-      "movie_rank": 2
-    },
-    {
       "title": "姆巴佩登贝莱谁是法国现役第一人",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9033390,
+      "hot_value": 8587703,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E8%B0%81%E6%98%AF%E6%B3%95%E5%9B%BD%E7%8E%B0%E5%BD%B9%E7%AC%AC%E4%B8%80%E4%BA%BA"
       },
       "raw_titles": [
         "姆巴佩登贝莱谁是法国现役第一人"
       ],
-      "rank": 5,
+      "rank": 4,
       "sports_rank": 3
+    },
+    {
+      "title": "歌手2026第四期舞台",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8216796,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%9B%9B%E6%9C%9F%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "歌手2026第四期舞台"
+      ],
+      "rank": 5,
+      "movie_rank": 2
+    },
+    {
+      "title": "奔跑吧",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 8003299,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7",
+        "抖音": "https://www.douyin.com/search/%E5%A5%94%E8%B7%91%E5%90%A7%E5%B7%B2%E6%AD%A3%E5%B8%B8%E6%92%AD%E5%87%BA"
+      },
+      "raw_titles": [
+        "奔跑吧"
+      ],
+      "rank": 6,
+      "movie_rank": 3
     },
     {
       "title": "姆巴佩称若法国夺冠他可一球不进",
@@ -114,14 +131,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7805591,
+      "hot_value": 7796878,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A7%B0%E8%8B%A5%E6%B3%95%E5%9B%BD%E5%A4%BA%E5%86%A0%E4%BB%96%E5%8F%AF%E4%B8%80%E7%90%83%E4%B8%8D%E8%BF%9B"
       },
       "raw_titles": [
         "姆巴佩称若法国夺冠他可一球不进"
       ],
-      "rank": 6,
+      "rank": 7,
       "sports_rank": 4
     },
     {
@@ -130,14 +147,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7771373,
+      "hot_value": 7770681,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E7%94%B7%E8%B6%B3%E9%98%9F%E9%95%BF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
         "日本男足队长宣布退役"
       ],
-      "rank": 7,
+      "rank": 8,
       "sports_rank": 5
     },
     {
@@ -146,15 +163,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7752320,
+      "hot_value": 7734206,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E9%A6%99%E6%B8%AF%E9%A6%96%E6%98%A0%E7%A4%BC"
       },
       "raw_titles": [
         "给阿嬷的情书香港首映礼"
       ],
-      "rank": 8,
-      "movie_rank": 3
+      "rank": 9,
+      "movie_rank": 4
     },
     {
       "title": "哈兰德抖音粉丝数破200万",
@@ -162,14 +179,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7731481,
+      "hot_value": 7724075,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D%E6%95%B0%E7%A0%B4200%E4%B8%87"
       },
       "raw_titles": [
         "哈兰德抖音粉丝数破200万"
       ],
-      "rank": 9,
+      "rank": 10,
       "sports_rank": 6
     },
     {
@@ -178,47 +195,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 3740879,
+      "hot_value": 1587560,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%E5%BC%80%E5%A4%A7%E4%BA%86"
       },
       "raw_titles": [
         "张碧晨歌手直播开大了"
       ],
-      "rank": 10,
-      "movie_rank": 4
-    },
-    {
-      "title": "歌剧老师锐评浪姐7四公",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1741662,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC"
-      },
-      "raw_titles": [
-        "歌剧老师锐评浪姐7四公"
-      ],
       "rank": 11,
       "movie_rank": 5
-    },
-    {
-      "title": "歌手补位",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1565857,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D"
-      },
-      "raw_titles": [
-        "歌手补位"
-      ],
-      "rank": 12,
-      "movie_rank": 6
     },
     {
       "title": "一口气看完歌手第四期",
@@ -226,62 +211,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1539347,
+      "hot_value": 1395869,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E6%AD%8C%E6%89%8B%E7%AC%AC%E5%9B%9B%E6%9C%9F"
       },
       "raw_titles": [
         "一口气看完歌手第四期"
       ],
-      "rank": 13,
-      "movie_rank": 7
+      "rank": 12,
+      "movie_rank": 6
     },
     {
-      "title": "浪姐7五公选人解说",
+      "title": "歌剧老师锐评浪姐7四公",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 836290,
+      "hot_value": 1385628,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E4%BA%94%E5%85%AC%E9%80%89%E4%BA%BA%E8%A7%A3%E8%AF%B4"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC"
       },
       "raw_titles": [
-        "浪姐7五公选人解说"
+        "歌剧老师锐评浪姐7四公"
+      ],
+      "rank": 13,
+      "movie_rank": 7
+    },
+    {
+      "title": "歌手补位",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 696463,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D"
+      },
+      "raw_titles": [
+        "歌手补位"
       ],
       "rank": 14,
       "movie_rank": 8
     },
     {
-      "title": "梅西6到飞起",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 721809,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF6%E5%88%B0%E9%A3%9E%E8%B5%B7"
-      },
-      "raw_titles": [
-        "梅西6到飞起"
-      ],
-      "rank": 15,
-      "sports_rank": 7
-    },
-    {
-      "title": "奔跑吧",
+      "title": "迪丽热巴德佑全球品牌代言人",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 692530,
+      "hot_value": 498382,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%B7%E4%BD%91%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA"
       },
       "raw_titles": [
-        "奔跑吧"
+        "迪丽热巴德佑全球品牌代言人"
       ],
-      "rank": 16,
+      "rank": 15,
       "movie_rank": 9
     },
     {
@@ -290,31 +276,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 449522,
+      "hot_value": 435949,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%20%E6%AD%8C%E6%89%8B"
       },
       "raw_titles": [
         "侯明昊 歌手"
       ],
-      "rank": 17,
+      "rank": 16,
       "movie_rank": 10
-    },
-    {
-      "title": "歌手排名",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 431839,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
-      },
-      "raw_titles": [
-        "歌手排名"
-      ],
-      "rank": 18,
-      "movie_rank": 11
     },
     {
       "title": "《歌手》张碧晨被淘汰",
@@ -329,8 +299,8 @@
       "raw_titles": [
         "《歌手》张碧晨被淘汰"
       ],
-      "rank": 19,
-      "movie_rank": 12
+      "rank": 17,
+      "movie_rank": 11
     },
     {
       "title": "梁朝伟：希望国内电影分级",
@@ -338,31 +308,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 351000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A2%81%E6%9C%9D%E4%BC%9F%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%9B%BD%E5%86%85%E7%94%B5%E5%BD%B1%E5%88%86%E7%BA%A7&sa=fyb_news"
       },
       "raw_titles": [
         "梁朝伟：希望国内电影分级"
       ],
-      "rank": 20,
-      "movie_rank": 13
-    },
-    {
-      "title": "蔡依林叫马龙宝宝",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 349970,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%8F%AB%E9%A9%AC%E9%BE%99%E5%AE%9D%E5%AE%9D"
-      },
-      "raw_titles": [
-        "蔡依林叫马龙宝宝"
-      ],
-      "rank": 21,
-      "movie_rank": 14
+      "rank": 18,
+      "movie_rank": 12
     },
     {
       "title": "爆冷出局！张碧晨称不后悔来《歌手》",
@@ -377,8 +331,8 @@
       "raw_titles": [
         "爆冷出局！张碧晨称不后悔来《歌手》"
       ],
-      "rank": 22,
-      "movie_rank": 15
+      "rank": 19,
+      "movie_rank": 13
     },
     {
       "title": "胡彦斌《歌手》月度第一名",
@@ -393,24 +347,40 @@
       "raw_titles": [
         "胡彦斌《歌手》月度第一名"
       ],
-      "rank": 23,
-      "movie_rank": 16
+      "rank": 20,
+      "movie_rank": 14
     },
     {
-      "title": "歌手今晚淘汰三人",
+      "title": "歌手排名",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 218467,
+      "hot_value": 251789,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E4%BB%8A%E6%99%9A%E6%B7%98%E6%B1%B0%E4%B8%89%E4%BA%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
-        "歌手今晚淘汰三人"
+        "歌手排名"
       ],
-      "rank": 24,
-      "movie_rank": 17
+      "rank": 21,
+      "movie_rank": 15
+    },
+    {
+      "title": "蔡依林叫马龙宝宝",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 226708,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%8F%AB%E9%A9%AC%E9%BE%99%E5%AE%9D%E5%AE%9D"
+      },
+      "raw_titles": [
+        "蔡依林叫马龙宝宝"
+      ],
+      "rank": 22,
+      "movie_rank": 16
     },
     {
       "title": "蔡依林鸟巢上座率",
@@ -418,31 +388,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 217279,
+      "hot_value": 152404,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E9%B8%9F%E5%B7%A2%E4%B8%8A%E5%BA%A7%E7%8E%87"
       },
       "raw_titles": [
         "蔡依林鸟巢上座率"
       ],
-      "rank": 25,
-      "movie_rank": 18
+      "rank": 23,
+      "movie_rank": 17
     },
     {
-      "title": "许我耀眼 首尔电视剧大赏",
+      "title": "歌手今晚淘汰三人",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 202773,
+      "hot_value": 144411,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%20%E9%A6%96%E5%B0%94%E7%94%B5%E8%A7%86%E5%89%A7%E5%A4%A7%E8%B5%8F"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E4%BB%8A%E6%99%9A%E6%B7%98%E6%B1%B0%E4%B8%89%E4%BA%BA"
       },
       "raw_titles": [
-        "许我耀眼 首尔电视剧大赏"
+        "歌手今晚淘汰三人"
       ],
-      "rank": 26,
-      "movie_rank": 19
+      "rank": 24,
+      "movie_rank": 18
     },
     {
       "title": "曝迪丽热巴与嘉行到期不续",
@@ -450,15 +420,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 194898,
+      "hot_value": 139283,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8E%E5%98%89%E8%A1%8C%E5%88%B0%E6%9C%9F%E4%B8%8D%E7%BB%AD"
       },
       "raw_titles": [
         "曝迪丽热巴与嘉行到期不续"
       ],
-      "rank": 27,
-      "movie_rank": 20
+      "rank": 25,
+      "movie_rank": 19
+    },
+    {
+      "title": "C罗最新发声：身体状态很好",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%EF%BC%9A%E8%BA%AB%E4%BD%93%E7%8A%B6%E6%80%81%E5%BE%88%E5%A5%BD&sa=fyb_news"
+      },
+      "raw_titles": [
+        "C罗最新发声：身体状态很好"
+      ],
+      "rank": 26,
+      "sports_rank": 7
     }
   ],
   "sports": [
@@ -467,6 +453,7 @@
       "category": "体育",
       "sources": [
         "微博",
+        "微博",
         "百度",
         "百度",
         "百度",
@@ -474,7 +461,7 @@
         "百度",
         "百度",
         "百度",
-        "百度",
+        "抖音",
         "抖音",
         "抖音",
         "抖音",
@@ -487,12 +474,12 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 70330528,
+      "hot_value": 80319168,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A3%81%E5%88%A4%E9%A9%AC%E5%AE%81%E5%9B%9E%E5%BA%94%E6%95%A2%E5%88%A4%E6%95%A2%E7%BD%9A",
         "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E5%93%A5%E6%9C%89%E4%BA%8B%E5%8E%BB%E4%B8%8D%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A5%A8%E9%80%81%E9%99%8C%E7%94%9F%E7%BD%91%E5%8F%8B&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/LABUBU%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94%E6%89%A7%E8%A3%81%E4%B8%96%E7%95%8C%E6%9D%AF"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E7%90%83%E5%9C%BA%E6%9C%89%E5%A4%9A%E4%BC%A0%E5%A5%87"
       },
       "raw_titles": [
         "世界杯"
@@ -506,7 +493,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11080487,
+      "hot_value": 11093860,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B9%9F%E6%98%AF%E5%90%AC%E4%B8%8A%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97%E4%BA%86"
       },
@@ -522,14 +509,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9033390,
+      "hot_value": 8587703,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E8%B0%81%E6%98%AF%E6%B3%95%E5%9B%BD%E7%8E%B0%E5%BD%B9%E7%AC%AC%E4%B8%80%E4%BA%BA"
       },
       "raw_titles": [
         "姆巴佩登贝莱谁是法国现役第一人"
       ],
-      "rank": 5,
+      "rank": 4,
       "sports_rank": 3
     },
     {
@@ -538,14 +525,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7805591,
+      "hot_value": 7796878,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A7%B0%E8%8B%A5%E6%B3%95%E5%9B%BD%E5%A4%BA%E5%86%A0%E4%BB%96%E5%8F%AF%E4%B8%80%E7%90%83%E4%B8%8D%E8%BF%9B"
       },
       "raw_titles": [
         "姆巴佩称若法国夺冠他可一球不进"
       ],
-      "rank": 6,
+      "rank": 7,
       "sports_rank": 4
     },
     {
@@ -554,14 +541,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7771373,
+      "hot_value": 7770681,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E7%94%B7%E8%B6%B3%E9%98%9F%E9%95%BF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
         "日本男足队长宣布退役"
       ],
-      "rank": 7,
+      "rank": 8,
       "sports_rank": 5
     },
     {
@@ -570,30 +557,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7731481,
+      "hot_value": 7724075,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D%E6%95%B0%E7%A0%B4200%E4%B8%87"
       },
       "raw_titles": [
         "哈兰德抖音粉丝数破200万"
       ],
-      "rank": 9,
+      "rank": 10,
       "sports_rank": 6
     },
     {
-      "title": "梅西6到飞起",
+      "title": "C罗最新发声：身体状态很好",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 721809,
+      "hot_value": 18000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF6%E5%88%B0%E9%A3%9E%E8%B5%B7"
+        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%EF%BC%9A%E8%BA%AB%E4%BD%93%E7%8A%B6%E6%80%81%E5%BE%88%E5%A5%BD&sa=fyb_news"
       },
       "raw_titles": [
-        "梅西6到飞起"
+        "C罗最新发声：身体状态很好"
       ],
-      "rank": 15,
+      "rank": 26,
       "sports_rank": 7
     }
   ],
@@ -604,7 +591,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 12096666,
+      "hot_value": 12111543,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B%E9%A6%96%E4%B8%AA%E7%88%86%E6%AC%BE%E5%87%BA%E7%8E%B0"
       },
@@ -618,19 +605,35 @@
       "title": "歌手2026第四期舞台",
       "category": "影视",
       "sources": [
-        "抖音",
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 9572769,
+      "hot_value": 8216796,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%9B%9B%E6%9C%9F%E8%88%9E%E5%8F%B0",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%9B%9B%E6%9C%9F%E6%8E%92%E5%90%8D"
+        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%9B%9B%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "歌手2026第四期舞台"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 2
+    },
+    {
+      "title": "奔跑吧",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 8003299,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7",
+        "抖音": "https://www.douyin.com/search/%E5%A5%94%E8%B7%91%E5%90%A7%E5%B7%B2%E6%AD%A3%E5%B8%B8%E6%92%AD%E5%87%BA"
+      },
+      "raw_titles": [
+        "奔跑吧"
+      ],
+      "rank": 6,
+      "movie_rank": 3
     },
     {
       "title": "给阿嬷的情书香港首映礼",
@@ -638,15 +641,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7752320,
+      "hot_value": 7734206,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E9%A6%99%E6%B8%AF%E9%A6%96%E6%98%A0%E7%A4%BC"
       },
       "raw_titles": [
         "给阿嬷的情书香港首映礼"
       ],
-      "rank": 8,
-      "movie_rank": 3
+      "rank": 9,
+      "movie_rank": 4
     },
     {
       "title": "张碧晨歌手直播开大了",
@@ -654,47 +657,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 3740879,
+      "hot_value": 1587560,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%E5%BC%80%E5%A4%A7%E4%BA%86"
       },
       "raw_titles": [
         "张碧晨歌手直播开大了"
       ],
-      "rank": 10,
-      "movie_rank": 4
-    },
-    {
-      "title": "歌剧老师锐评浪姐7四公",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1741662,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC"
-      },
-      "raw_titles": [
-        "歌剧老师锐评浪姐7四公"
-      ],
       "rank": 11,
       "movie_rank": 5
-    },
-    {
-      "title": "歌手补位",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1565857,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D"
-      },
-      "raw_titles": [
-        "歌手补位"
-      ],
-      "rank": 12,
-      "movie_rank": 6
     },
     {
       "title": "一口气看完歌手第四期",
@@ -702,46 +673,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1539347,
+      "hot_value": 1395869,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E6%AD%8C%E6%89%8B%E7%AC%AC%E5%9B%9B%E6%9C%9F"
       },
       "raw_titles": [
         "一口气看完歌手第四期"
       ],
-      "rank": 13,
-      "movie_rank": 7
+      "rank": 12,
+      "movie_rank": 6
     },
     {
-      "title": "浪姐7五公选人解说",
+      "title": "歌剧老师锐评浪姐7四公",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 836290,
+      "hot_value": 1385628,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E4%BA%94%E5%85%AC%E9%80%89%E4%BA%BA%E8%A7%A3%E8%AF%B4"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC"
       },
       "raw_titles": [
-        "浪姐7五公选人解说"
+        "歌剧老师锐评浪姐7四公"
+      ],
+      "rank": 13,
+      "movie_rank": 7
+    },
+    {
+      "title": "歌手补位",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 696463,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D"
+      },
+      "raw_titles": [
+        "歌手补位"
       ],
       "rank": 14,
       "movie_rank": 8
     },
     {
-      "title": "奔跑吧",
+      "title": "迪丽热巴德佑全球品牌代言人",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 692530,
+      "hot_value": 498382,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%B7%E4%BD%91%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA"
       },
       "raw_titles": [
-        "奔跑吧"
+        "迪丽热巴德佑全球品牌代言人"
       ],
-      "rank": 16,
+      "rank": 15,
       "movie_rank": 9
     },
     {
@@ -750,31 +738,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 449522,
+      "hot_value": 435949,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%20%E6%AD%8C%E6%89%8B"
       },
       "raw_titles": [
         "侯明昊 歌手"
       ],
-      "rank": 17,
+      "rank": 16,
       "movie_rank": 10
-    },
-    {
-      "title": "歌手排名",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 431839,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
-      },
-      "raw_titles": [
-        "歌手排名"
-      ],
-      "rank": 18,
-      "movie_rank": 11
     },
     {
       "title": "《歌手》张碧晨被淘汰",
@@ -789,8 +761,8 @@
       "raw_titles": [
         "《歌手》张碧晨被淘汰"
       ],
-      "rank": 19,
-      "movie_rank": 12
+      "rank": 17,
+      "movie_rank": 11
     },
     {
       "title": "梁朝伟：希望国内电影分级",
@@ -798,31 +770,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 351000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A2%81%E6%9C%9D%E4%BC%9F%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%9B%BD%E5%86%85%E7%94%B5%E5%BD%B1%E5%88%86%E7%BA%A7&sa=fyb_news"
       },
       "raw_titles": [
         "梁朝伟：希望国内电影分级"
       ],
-      "rank": 20,
-      "movie_rank": 13
-    },
-    {
-      "title": "蔡依林叫马龙宝宝",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 349970,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%8F%AB%E9%A9%AC%E9%BE%99%E5%AE%9D%E5%AE%9D"
-      },
-      "raw_titles": [
-        "蔡依林叫马龙宝宝"
-      ],
-      "rank": 21,
-      "movie_rank": 14
+      "rank": 18,
+      "movie_rank": 12
     },
     {
       "title": "爆冷出局！张碧晨称不后悔来《歌手》",
@@ -837,8 +793,8 @@
       "raw_titles": [
         "爆冷出局！张碧晨称不后悔来《歌手》"
       ],
-      "rank": 22,
-      "movie_rank": 15
+      "rank": 19,
+      "movie_rank": 13
     },
     {
       "title": "胡彦斌《歌手》月度第一名",
@@ -853,24 +809,40 @@
       "raw_titles": [
         "胡彦斌《歌手》月度第一名"
       ],
-      "rank": 23,
-      "movie_rank": 16
+      "rank": 20,
+      "movie_rank": 14
     },
     {
-      "title": "歌手今晚淘汰三人",
+      "title": "歌手排名",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 218467,
+      "hot_value": 251789,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E4%BB%8A%E6%99%9A%E6%B7%98%E6%B1%B0%E4%B8%89%E4%BA%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
-        "歌手今晚淘汰三人"
+        "歌手排名"
       ],
-      "rank": 24,
-      "movie_rank": 17
+      "rank": 21,
+      "movie_rank": 15
+    },
+    {
+      "title": "蔡依林叫马龙宝宝",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 226708,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%8F%AB%E9%A9%AC%E9%BE%99%E5%AE%9D%E5%AE%9D"
+      },
+      "raw_titles": [
+        "蔡依林叫马龙宝宝"
+      ],
+      "rank": 22,
+      "movie_rank": 16
     },
     {
       "title": "蔡依林鸟巢上座率",
@@ -878,31 +850,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 217279,
+      "hot_value": 152404,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E9%B8%9F%E5%B7%A2%E4%B8%8A%E5%BA%A7%E7%8E%87"
       },
       "raw_titles": [
         "蔡依林鸟巢上座率"
       ],
-      "rank": 25,
-      "movie_rank": 18
+      "rank": 23,
+      "movie_rank": 17
     },
     {
-      "title": "许我耀眼 首尔电视剧大赏",
+      "title": "歌手今晚淘汰三人",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 202773,
+      "hot_value": 144411,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%20%E9%A6%96%E5%B0%94%E7%94%B5%E8%A7%86%E5%89%A7%E5%A4%A7%E8%B5%8F"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E4%BB%8A%E6%99%9A%E6%B7%98%E6%B1%B0%E4%B8%89%E4%BA%BA"
       },
       "raw_titles": [
-        "许我耀眼 首尔电视剧大赏"
+        "歌手今晚淘汰三人"
       ],
-      "rank": 26,
-      "movie_rank": 19
+      "rank": 24,
+      "movie_rank": 18
     },
     {
       "title": "曝迪丽热巴与嘉行到期不续",
@@ -910,15 +882,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 194898,
+      "hot_value": 139283,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8E%E5%98%89%E8%A1%8C%E5%88%B0%E6%9C%9F%E4%B8%8D%E7%BB%AD"
       },
       "raw_titles": [
         "曝迪丽热巴与嘉行到期不续"
       ],
-      "rank": 27,
-      "movie_rank": 20
+      "rank": 25,
+      "movie_rank": 19
     }
   ]
 }
