@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-06-18 06:00:49",
-  "total": 36,
-  "sports_count": 28,
-  "movie_count": 9,
+  "update_time": "2026-06-18 07:00:56",
+  "total": 33,
+  "sports_count": 26,
+  "movie_count": 8,
   "all": [
     {
       "title": "世界杯",
@@ -17,9 +17,6 @@
         "百度",
         "百度",
         "百度",
-        "百度",
-        "百度",
-        "抖音",
         "抖音",
         "哔哩哔哩",
         "哔哩哔哩",
@@ -28,12 +25,12 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 19261314,
+      "hot_value": 11749114,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E4%B8%BB%E5%93%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E6%8B%BF%E5%88%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E5%88%A4%E7%9A%84%E9%BB%84%E7%89%8C&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E6%88%B4%E5%B8%BD%E5%8A%A0%E5%86%95%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%A9%B9%E4%B9%8B%E5%BC%BA%E9%98%9F%E5%88%86%E6%9E%90"
+        "微博": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%A5%E8%B5%84",
+        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E7%94%9F%E6%B6%AF%E5%94%AF%E7%8B%AC%E7%BC%BA%E4%B8%80%E5%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E5%B8%A6%E6%A2%85%E8%A5%BF%E5%AF%B9%E9%94%99%E7%89%8C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83"
       },
       "raw_titles": [
         "世界杯"
@@ -48,7 +45,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 7936570,
+      "hot_value": 7928083,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E7%9A%84%E5%A4%B4%E7%BB%B3%E7%81%AB%E4%BA%86&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E8%A2%AB%E5%93%88%E5%85%B0%E5%BE%B7%E7%9A%84%E7%BA%A2%E5%A4%B4%E7%BB%B3%E7%A7%8D%E8%8D%89%E4%BA%86"
@@ -60,19 +57,35 @@
       "sports_rank": 2
     },
     {
+      "title": "晒出我的封神旅行落地签",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7741468,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E6%88%91%E7%9A%84%E5%B0%81%E7%A5%9E%E6%97%85%E8%A1%8C%E8%90%BD%E5%9C%B0%E7%AD%BE"
+      },
+      "raw_titles": [
+        "晒出我的封神旅行落地签"
+      ],
+      "rank": 3,
+      "movie_rank": 1
+    },
+    {
       "title": "全抖音都在为梅西C罗加油",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7691672,
+      "hot_value": 7675328,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E9%83%BD%E5%9C%A8%E4%B8%BA%E6%A2%85%E8%A5%BFC%E7%BD%97%E5%8A%A0%E6%B2%B9"
       },
       "raw_titles": [
         "全抖音都在为梅西C罗加油"
       ],
-      "rank": 3,
+      "rank": 4,
       "sports_rank": 3
     },
     {
@@ -81,79 +94,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671816,
+      "hot_value": 7671382,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9C%89%E4%B8%80%E7%A7%8D%E8%BF%BD%E6%A2%A6%E7%B2%BE%E7%A5%9E%E5%8F%ABC%E7%BD%97"
       },
       "raw_titles": [
         "有一种追梦精神叫C罗"
       ],
-      "rank": 4,
-      "sports_rank": 4
-    },
-    {
-      "title": "沈腾恭喜吕德华入驻抖音",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7668655,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E6%81%AD%E5%96%9C%E5%90%95%E5%BE%B7%E5%8D%8E%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3"
-      },
-      "raw_titles": [
-        "沈腾恭喜吕德华入驻抖音"
-      ],
       "rank": 5,
-      "movie_rank": 1
-    },
-    {
-      "title": "晒出我的封神旅行落地签",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7662519,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E6%88%91%E7%9A%84%E5%B0%81%E7%A5%9E%E6%97%85%E8%A1%8C%E8%90%BD%E5%9C%B0%E7%AD%BE"
-      },
-      "raw_titles": [
-        "晒出我的封神旅行落地签"
-      ],
-      "rank": 6,
-      "movie_rank": 2
-    },
-    {
-      "title": "坎通纳代表姆巴佩“致歉”",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7659542,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%9D%8E%E9%80%9A%E7%BA%B3%E4%BB%A3%E8%A1%A8%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E8%87%B4%E6%AD%89%E2%80%9D"
-      },
-      "raw_titles": [
-        "坎通纳代表姆巴佩“致歉”"
-      ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "抖音电影奇遇夜达人天团报道",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7657487,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%94%B5%E5%BD%B1%E5%A5%87%E9%81%87%E5%A4%9C%E8%BE%BE%E4%BA%BA%E5%A4%A9%E5%9B%A2%E6%8A%A5%E9%81%93"
-      },
-      "raw_titles": [
-        "抖音电影奇遇夜达人天团报道"
-      ],
-      "rank": 8,
-      "movie_rank": 3
+      "sports_rank": 4
     },
     {
       "title": "武将杯雷霆双盾统治航天",
@@ -161,15 +110,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7655632,
+      "hot_value": 7651784,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%A6%E5%B0%86%E6%9D%AF%E9%9B%B7%E9%9C%86%E5%8F%8C%E7%9B%BE%E7%BB%9F%E6%B2%BB%E8%88%AA%E5%A4%A9"
       },
       "raw_titles": [
         "武将杯雷霆双盾统治航天"
       ],
-      "rank": 9,
-      "sports_rank": 6
+      "rank": 6,
+      "sports_rank": 5
+    },
+    {
+      "title": "沈腾恭喜吕德华入驻抖音",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7651326,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E6%81%AD%E5%96%9C%E5%90%95%E5%BE%B7%E5%8D%8E%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3"
+      },
+      "raw_titles": [
+        "沈腾恭喜吕德华入驻抖音"
+      ],
+      "rank": 7,
+      "movie_rank": 2
+    },
+    {
+      "title": "侯明昊回应跨界参加歌手",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7647219,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%9B%9E%E5%BA%94%E8%B7%A8%E7%95%8C%E5%8F%82%E5%8A%A0%E6%AD%8C%E6%89%8B"
+      },
+      "raw_titles": [
+        "侯明昊回应跨界参加歌手"
+      ],
+      "rank": 8,
+      "movie_rank": 3
     },
     {
       "title": "我给哈兰德和挪威队写了一首歌",
@@ -177,12 +158,28 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7634568,
+      "hot_value": 7639012,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E7%BB%99%E5%93%88%E5%85%B0%E5%BE%B7%E5%92%8C%E6%8C%AA%E5%A8%81%E9%98%9F%E5%86%99%E4%BA%86%E4%B8%80%E9%A6%96%E6%AD%8C"
       },
       "raw_titles": [
         "我给哈兰德和挪威队写了一首歌"
+      ],
+      "rank": 9,
+      "sports_rank": 6
+    },
+    {
+      "title": "坎通纳代表姆巴佩“致歉”",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7626727,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%9D%8E%E9%80%9A%E7%BA%B3%E4%BB%A3%E8%A1%A8%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E8%87%B4%E6%AD%89%E2%80%9D"
+      },
+      "raw_titles": [
+        "坎通纳代表姆巴佩“致歉”"
       ],
       "rank": 10,
       "sports_rank": 7
@@ -193,7 +190,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7625632,
+      "hot_value": 7619752,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%B5%B7%E7%AB%8B%E8%87%B4%E6%95%AC%E7%90%83%E7%8E%8B%E6%A2%85%E8%A5%BF"
       },
@@ -204,37 +201,85 @@
       "sports_rank": 8
     },
     {
-      "title": "梅西让人重新认识足球",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7622888,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E8%AE%A9%E4%BA%BA%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E8%B6%B3%E7%90%83"
-      },
-      "raw_titles": [
-        "梅西让人重新认识足球"
-      ],
-      "rank": 12,
-      "sports_rank": 9
-    },
-    {
       "title": "王涛晒梅西家7座金球奖杯",
       "category": "综合",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7608333,
+      "hot_value": 7536910,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%B6%9B%E6%99%92%E6%A2%85%E8%A5%BF%E5%AE%B67%E5%BA%A7%E9%87%91%E7%90%83%E5%A5%96%E6%9D%AF"
       },
       "raw_titles": [
         "王涛晒梅西家7座金球奖杯"
       ],
-      "rank": 13,
-      "sports_rank": 10,
+      "rank": 12,
+      "sports_rank": 9,
       "movie_rank": 4
+    },
+    {
+      "title": "梅西让人重新认识足球",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7497624,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E8%AE%A9%E4%BA%BA%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E8%B6%B3%E7%90%83"
+      },
+      "raw_titles": [
+        "梅西让人重新认识足球"
+      ],
+      "rank": 13,
+      "sports_rank": 10
+    },
+    {
+      "title": "C罗状态",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 3182583,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%8A%B6%E6%80%81"
+      },
+      "raw_titles": [
+        "C罗状态"
+      ],
+      "rank": 14,
+      "sports_rank": 11
+    },
+    {
+      "title": "诸神黄昏只有C罗听进去了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 838651,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%AF%B8%E7%A5%9E%E9%BB%84%E6%98%8F%E5%8F%AA%E6%9C%89C%E7%BD%97%E5%90%AC%E8%BF%9B%E5%8E%BB%E4%BA%86"
+      },
+      "raw_titles": [
+        "诸神黄昏只有C罗听进去了"
+      ],
+      "rank": 15,
+      "sports_rank": 12
+    },
+    {
+      "title": "C罗 刚果保镖",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 787875,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%20%E5%88%9A%E6%9E%9C%E4%BF%9D%E9%95%96"
+      },
+      "raw_titles": [
+        "C罗 刚果保镖"
+      ],
+      "rank": 16,
+      "sports_rank": 13
     },
     {
       "title": "贝林厄姆破门",
@@ -243,7 +288,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 1690063,
+      "hot_value": 714559,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E7%A0%B4%E9%97%A8",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%80%E6%9D%A1%E9%BE%99%E7%A0%B4%E9%97%A8"
@@ -251,24 +296,8 @@
       "raw_titles": [
         "贝林厄姆破门"
       ],
-      "rank": 14,
-      "sports_rank": 11
-    },
-    {
-      "title": "C罗状态",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1375779,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%8A%B6%E6%80%81"
-      },
-      "raw_titles": [
-        "C罗状态"
-      ],
-      "rank": 15,
-      "sports_rank": 12
+      "rank": 17,
+      "sports_rank": 14
     },
     {
       "title": "葡萄牙1比1爆冷战平民主刚果",
@@ -283,7 +312,7 @@
       "raw_titles": [
         "葡萄牙1比1爆冷战平民主刚果"
       ],
-      "rank": 16,
+      "rank": 18,
       "movie_rank": 5
     },
     {
@@ -299,24 +328,8 @@
       "raw_titles": [
         "C罗哑火"
       ],
-      "rank": 17,
-      "sports_rank": 13
-    },
-    {
-      "title": "C罗 刚果保镖",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 405128,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%20%E5%88%9A%E6%9E%9C%E4%BF%9D%E9%95%96"
-      },
-      "raw_titles": [
-        "C罗 刚果保镖"
-      ],
-      "rank": 18,
-      "sports_rank": 14
+      "rank": 19,
+      "sports_rank": 15
     },
     {
       "title": "记者曝梅西落泪因父亲病情恶化",
@@ -331,22 +344,6 @@
       "raw_titles": [
         "记者曝梅西落泪因父亲病情恶化"
       ],
-      "rank": 19,
-      "sports_rank": 15
-    },
-    {
-      "title": "38岁的梅西职业生涯回顾",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 323145,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=38%E5%B2%81%E7%9A%84%E6%A2%85%E8%A5%BF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%9B%9E%E9%A1%BE"
-      },
-      "raw_titles": [
-        "38岁的梅西职业生涯回顾"
-      ],
       "rank": 20,
       "sports_rank": 16
     },
@@ -356,7 +353,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 307789,
+      "hot_value": 337898,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%9C%AC%E8%B5%9B%E5%AD%A3%E7%AC%AC%E4%B8%80%E4%BA%BA%E6%98%AF%E8%B0%81"
       },
@@ -372,7 +369,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 307779,
+      "hot_value": 337892,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95"
       },
@@ -388,7 +385,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 306764,
+      "hot_value": 337883,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E8%88%9E%E5%8F%B0"
       },
@@ -399,17 +396,17 @@
       "movie_rank": 6
     },
     {
-      "title": "C罗全场0射正",
+      "title": "38岁的梅西职业生涯回顾",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 282967,
+      "hot_value": 323270,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=38%E5%B2%81%E7%9A%84%E6%A2%85%E8%A5%BF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%9B%9E%E9%A1%BE"
       },
       "raw_titles": [
-        "C罗全场0射正"
+        "38岁的梅西职业生涯回顾"
       ],
       "rank": 24,
       "sports_rank": 19
@@ -420,7 +417,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 250850,
+      "hot_value": 274990,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%E8%BF%9B%E7%90%83%E5%90%8E%E8%90%BD%E6%B3%AA"
       },
@@ -431,84 +428,20 @@
       "sports_rank": 20
     },
     {
-      "title": "诸神黄昏只有C罗听进去了",
+      "title": "C罗全场0射正",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 202679,
+      "hot_value": 241456,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%AF%B8%E7%A5%9E%E9%BB%84%E6%98%8F%E5%8F%AA%E6%9C%89C%E7%BD%97%E5%90%AC%E8%BF%9B%E5%8E%BB%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3"
       },
       "raw_titles": [
-        "诸神黄昏只有C罗听进去了"
+        "C罗全场0射正"
       ],
       "rank": 26,
       "sports_rank": 21
-    },
-    {
-      "title": "梅西 足球之神",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 194797,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E8%B6%B3%E7%90%83%E4%B9%8B%E7%A5%9E"
-      },
-      "raw_titles": [
-        "梅西 足球之神"
-      ],
-      "rank": 27,
-      "sports_rank": 22
-    },
-    {
-      "title": "梅西国家队200场里程碑",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 170959,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F200%E5%9C%BA%E9%87%8C%E7%A8%8B%E7%A2%91"
-      },
-      "raw_titles": [
-        "梅西国家队200场里程碑"
-      ],
-      "rank": 28,
-      "sports_rank": 23
-    },
-    {
-      "title": "解读西班牙爆冷战平佛得角",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 156414,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%86%B7%E6%88%98%E5%B9%B3%E4%BD%9B%E5%BE%97%E8%A7%92"
-      },
-      "raw_titles": [
-        "解读西班牙爆冷战平佛得角"
-      ],
-      "rank": 29,
-      "movie_rank": 7
-    },
-    {
-      "title": "NaVi为何被爆冷淘汰",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 126188,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NaVi%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%88%86%E5%86%B7%E6%B7%98%E6%B1%B0"
-      },
-      "raw_titles": [
-        "NaVi为何被爆冷淘汰"
-      ],
-      "rank": 30,
-      "movie_rank": 8
     },
     {
       "title": "郑钦文vs吉布森",
@@ -516,63 +449,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 106685,
+      "hot_value": 238028,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%90%89%E5%B8%83%E6%A3%AE"
       },
       "raw_titles": [
         "郑钦文vs吉布森"
       ],
-      "rank": 31,
-      "sports_rank": 24
-    },
-    {
-      "title": "梅西对阿尔及利亚全场数据",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 68619,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%AF%B9%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A%E5%85%A8%E5%9C%BA%E6%95%B0%E6%8D%AE"
-      },
-      "raw_titles": [
-        "梅西对阿尔及利亚全场数据"
-      ],
-      "rank": 32,
-      "sports_rank": 25
-    },
-    {
-      "title": "看C罗",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 67442,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%9C%8BC%E7%BD%97"
-      },
-      "raw_titles": [
-        "看C罗"
-      ],
-      "rank": 33,
-      "sports_rank": 26
-    },
-    {
-      "title": "C罗的身材绝对不是P的",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 66939,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%9A%84%E8%BA%AB%E6%9D%90%E7%BB%9D%E5%AF%B9%E4%B8%8D%E6%98%AFP%E7%9A%84"
-      },
-      "raw_titles": [
-        "C罗的身材绝对不是P的"
-      ],
-      "rank": 34,
-      "sports_rank": 27
+      "rank": 27,
+      "sports_rank": 22
     },
     {
       "title": "胡歌 我不配",
@@ -580,31 +465,95 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 66688,
+      "hot_value": 220948,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%88%91%E4%B8%8D%E9%85%8D"
       },
       "raw_titles": [
         "胡歌 我不配"
       ],
-      "rank": 35,
-      "movie_rank": 9
+      "rank": 28,
+      "movie_rank": 7
     },
     {
-      "title": "C罗怎么踢",
+      "title": "梅西对阿尔及利亚全场数据",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 66536,
+      "hot_value": 208766,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%80%8E%E4%B9%88%E8%B8%A2"
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%AF%B9%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A%E5%85%A8%E5%9C%BA%E6%95%B0%E6%8D%AE"
       },
       "raw_titles": [
-        "C罗怎么踢"
+        "梅西对阿尔及利亚全场数据"
       ],
-      "rank": 36,
-      "sports_rank": 28
+      "rank": 29,
+      "sports_rank": 23
+    },
+    {
+      "title": "凯恩重罚点球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 203822,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E9%87%8D%E7%BD%9A%E7%82%B9%E7%90%83"
+      },
+      "raw_titles": [
+        "凯恩重罚点球"
+      ],
+      "rank": 30,
+      "sports_rank": 24
+    },
+    {
+      "title": "梅西 足球之神",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 193686,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E8%B6%B3%E7%90%83%E4%B9%8B%E7%A5%9E"
+      },
+      "raw_titles": [
+        "梅西 足球之神"
+      ],
+      "rank": 31,
+      "sports_rank": 25
+    },
+    {
+      "title": "解读西班牙爆冷战平佛得角",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 187088,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%86%B7%E6%88%98%E5%B9%B3%E4%BD%9B%E5%BE%97%E8%A7%92"
+      },
+      "raw_titles": [
+        "解读西班牙爆冷战平佛得角"
+      ],
+      "rank": 32,
+      "movie_rank": 8
+    },
+    {
+      "title": "梅西国家队200场里程碑",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 184234,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F200%E5%9C%BA%E9%87%8C%E7%A8%8B%E7%A2%91"
+      },
+      "raw_titles": [
+        "梅西国家队200场里程碑"
+      ],
+      "rank": 33,
+      "sports_rank": 26
     }
   ],
   "sports": [
@@ -621,9 +570,6 @@
         "百度",
         "百度",
         "百度",
-        "百度",
-        "百度",
-        "抖音",
         "抖音",
         "哔哩哔哩",
         "哔哩哔哩",
@@ -632,12 +578,12 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 19261314,
+      "hot_value": 11749114,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E4%B8%BB%E5%93%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E6%8B%BF%E5%88%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E5%88%A4%E7%9A%84%E9%BB%84%E7%89%8C&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E6%88%B4%E5%B8%BD%E5%8A%A0%E5%86%95%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%A9%B9%E4%B9%8B%E5%BC%BA%E9%98%9F%E5%88%86%E6%9E%90"
+        "微博": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%A5%E8%B5%84",
+        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E7%94%9F%E6%B6%AF%E5%94%AF%E7%8B%AC%E7%BC%BA%E4%B8%80%E5%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E5%B8%A6%E6%A2%85%E8%A5%BF%E5%AF%B9%E9%94%99%E7%89%8C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83"
       },
       "raw_titles": [
         "世界杯"
@@ -652,7 +598,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 7936570,
+      "hot_value": 7928083,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E7%9A%84%E5%A4%B4%E7%BB%B3%E7%81%AB%E4%BA%86&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E8%A2%AB%E5%93%88%E5%85%B0%E5%BE%B7%E7%9A%84%E7%BA%A2%E5%A4%B4%E7%BB%B3%E7%A7%8D%E8%8D%89%E4%BA%86"
@@ -669,14 +615,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7691672,
+      "hot_value": 7675328,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E9%83%BD%E5%9C%A8%E4%B8%BA%E6%A2%85%E8%A5%BFC%E7%BD%97%E5%8A%A0%E6%B2%B9"
       },
       "raw_titles": [
         "全抖音都在为梅西C罗加油"
       ],
-      "rank": 3,
+      "rank": 4,
       "sports_rank": 3
     },
     {
@@ -685,31 +631,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671816,
+      "hot_value": 7671382,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9C%89%E4%B8%80%E7%A7%8D%E8%BF%BD%E6%A2%A6%E7%B2%BE%E7%A5%9E%E5%8F%ABC%E7%BD%97"
       },
       "raw_titles": [
         "有一种追梦精神叫C罗"
       ],
-      "rank": 4,
+      "rank": 5,
       "sports_rank": 4
-    },
-    {
-      "title": "坎通纳代表姆巴佩“致歉”",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7659542,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%9D%8E%E9%80%9A%E7%BA%B3%E4%BB%A3%E8%A1%A8%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E8%87%B4%E6%AD%89%E2%80%9D"
-      },
-      "raw_titles": [
-        "坎通纳代表姆巴佩“致歉”"
-      ],
-      "rank": 7,
-      "sports_rank": 5
     },
     {
       "title": "武将杯雷霆双盾统治航天",
@@ -717,15 +647,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7655632,
+      "hot_value": 7651784,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%A6%E5%B0%86%E6%9D%AF%E9%9B%B7%E9%9C%86%E5%8F%8C%E7%9B%BE%E7%BB%9F%E6%B2%BB%E8%88%AA%E5%A4%A9"
       },
       "raw_titles": [
         "武将杯雷霆双盾统治航天"
       ],
-      "rank": 9,
-      "sports_rank": 6
+      "rank": 6,
+      "sports_rank": 5
     },
     {
       "title": "我给哈兰德和挪威队写了一首歌",
@@ -733,12 +663,28 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7634568,
+      "hot_value": 7639012,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E7%BB%99%E5%93%88%E5%85%B0%E5%BE%B7%E5%92%8C%E6%8C%AA%E5%A8%81%E9%98%9F%E5%86%99%E4%BA%86%E4%B8%80%E9%A6%96%E6%AD%8C"
       },
       "raw_titles": [
         "我给哈兰德和挪威队写了一首歌"
+      ],
+      "rank": 9,
+      "sports_rank": 6
+    },
+    {
+      "title": "坎通纳代表姆巴佩“致歉”",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7626727,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%9D%8E%E9%80%9A%E7%BA%B3%E4%BB%A3%E8%A1%A8%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E8%87%B4%E6%AD%89%E2%80%9D"
+      },
+      "raw_titles": [
+        "坎通纳代表姆巴佩“致歉”"
       ],
       "rank": 10,
       "sports_rank": 7
@@ -749,7 +695,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7625632,
+      "hot_value": 7619752,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%B5%B7%E7%AB%8B%E8%87%B4%E6%95%AC%E7%90%83%E7%8E%8B%E6%A2%85%E8%A5%BF"
       },
@@ -760,37 +706,85 @@
       "sports_rank": 8
     },
     {
-      "title": "梅西让人重新认识足球",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7622888,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E8%AE%A9%E4%BA%BA%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E8%B6%B3%E7%90%83"
-      },
-      "raw_titles": [
-        "梅西让人重新认识足球"
-      ],
-      "rank": 12,
-      "sports_rank": 9
-    },
-    {
       "title": "王涛晒梅西家7座金球奖杯",
       "category": "综合",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7608333,
+      "hot_value": 7536910,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%B6%9B%E6%99%92%E6%A2%85%E8%A5%BF%E5%AE%B67%E5%BA%A7%E9%87%91%E7%90%83%E5%A5%96%E6%9D%AF"
       },
       "raw_titles": [
         "王涛晒梅西家7座金球奖杯"
       ],
-      "rank": 13,
-      "sports_rank": 10,
+      "rank": 12,
+      "sports_rank": 9,
       "movie_rank": 4
+    },
+    {
+      "title": "梅西让人重新认识足球",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7497624,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E8%AE%A9%E4%BA%BA%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E8%B6%B3%E7%90%83"
+      },
+      "raw_titles": [
+        "梅西让人重新认识足球"
+      ],
+      "rank": 13,
+      "sports_rank": 10
+    },
+    {
+      "title": "C罗状态",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 3182583,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%8A%B6%E6%80%81"
+      },
+      "raw_titles": [
+        "C罗状态"
+      ],
+      "rank": 14,
+      "sports_rank": 11
+    },
+    {
+      "title": "诸神黄昏只有C罗听进去了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 838651,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%AF%B8%E7%A5%9E%E9%BB%84%E6%98%8F%E5%8F%AA%E6%9C%89C%E7%BD%97%E5%90%AC%E8%BF%9B%E5%8E%BB%E4%BA%86"
+      },
+      "raw_titles": [
+        "诸神黄昏只有C罗听进去了"
+      ],
+      "rank": 15,
+      "sports_rank": 12
+    },
+    {
+      "title": "C罗 刚果保镖",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 787875,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%20%E5%88%9A%E6%9E%9C%E4%BF%9D%E9%95%96"
+      },
+      "raw_titles": [
+        "C罗 刚果保镖"
+      ],
+      "rank": 16,
+      "sports_rank": 13
     },
     {
       "title": "贝林厄姆破门",
@@ -799,7 +793,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 1690063,
+      "hot_value": 714559,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E7%A0%B4%E9%97%A8",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%80%E6%9D%A1%E9%BE%99%E7%A0%B4%E9%97%A8"
@@ -807,24 +801,8 @@
       "raw_titles": [
         "贝林厄姆破门"
       ],
-      "rank": 14,
-      "sports_rank": 11
-    },
-    {
-      "title": "C罗状态",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1375779,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%8A%B6%E6%80%81"
-      },
-      "raw_titles": [
-        "C罗状态"
-      ],
-      "rank": 15,
-      "sports_rank": 12
+      "rank": 17,
+      "sports_rank": 14
     },
     {
       "title": "C罗哑火",
@@ -839,24 +817,8 @@
       "raw_titles": [
         "C罗哑火"
       ],
-      "rank": 17,
-      "sports_rank": 13
-    },
-    {
-      "title": "C罗 刚果保镖",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 405128,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%20%E5%88%9A%E6%9E%9C%E4%BF%9D%E9%95%96"
-      },
-      "raw_titles": [
-        "C罗 刚果保镖"
-      ],
-      "rank": 18,
-      "sports_rank": 14
+      "rank": 19,
+      "sports_rank": 15
     },
     {
       "title": "记者曝梅西落泪因父亲病情恶化",
@@ -871,22 +833,6 @@
       "raw_titles": [
         "记者曝梅西落泪因父亲病情恶化"
       ],
-      "rank": 19,
-      "sports_rank": 15
-    },
-    {
-      "title": "38岁的梅西职业生涯回顾",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 323145,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=38%E5%B2%81%E7%9A%84%E6%A2%85%E8%A5%BF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%9B%9E%E9%A1%BE"
-      },
-      "raw_titles": [
-        "38岁的梅西职业生涯回顾"
-      ],
       "rank": 20,
       "sports_rank": 16
     },
@@ -896,7 +842,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 307789,
+      "hot_value": 337898,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%9C%AC%E8%B5%9B%E5%AD%A3%E7%AC%AC%E4%B8%80%E4%BA%BA%E6%98%AF%E8%B0%81"
       },
@@ -912,7 +858,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 307779,
+      "hot_value": 337892,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95"
       },
@@ -923,17 +869,17 @@
       "sports_rank": 18
     },
     {
-      "title": "C罗全场0射正",
+      "title": "38岁的梅西职业生涯回顾",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 282967,
+      "hot_value": 323270,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=38%E5%B2%81%E7%9A%84%E6%A2%85%E8%A5%BF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%9B%9E%E9%A1%BE"
       },
       "raw_titles": [
-        "C罗全场0射正"
+        "38岁的梅西职业生涯回顾"
       ],
       "rank": 24,
       "sports_rank": 19
@@ -944,7 +890,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 250850,
+      "hot_value": 274990,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%E8%BF%9B%E7%90%83%E5%90%8E%E8%90%BD%E6%B3%AA"
       },
@@ -955,52 +901,20 @@
       "sports_rank": 20
     },
     {
-      "title": "诸神黄昏只有C罗听进去了",
+      "title": "C罗全场0射正",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 202679,
+      "hot_value": 241456,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%AF%B8%E7%A5%9E%E9%BB%84%E6%98%8F%E5%8F%AA%E6%9C%89C%E7%BD%97%E5%90%AC%E8%BF%9B%E5%8E%BB%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3"
       },
       "raw_titles": [
-        "诸神黄昏只有C罗听进去了"
+        "C罗全场0射正"
       ],
       "rank": 26,
       "sports_rank": 21
-    },
-    {
-      "title": "梅西 足球之神",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 194797,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E8%B6%B3%E7%90%83%E4%B9%8B%E7%A5%9E"
-      },
-      "raw_titles": [
-        "梅西 足球之神"
-      ],
-      "rank": 27,
-      "sports_rank": 22
-    },
-    {
-      "title": "梅西国家队200场里程碑",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 170959,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F200%E5%9C%BA%E9%87%8C%E7%A8%8B%E7%A2%91"
-      },
-      "raw_titles": [
-        "梅西国家队200场里程碑"
-      ],
-      "rank": 28,
-      "sports_rank": 23
     },
     {
       "title": "郑钦文vs吉布森",
@@ -1008,15 +922,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 106685,
+      "hot_value": 238028,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%90%89%E5%B8%83%E6%A3%AE"
       },
       "raw_titles": [
         "郑钦文vs吉布森"
       ],
-      "rank": 31,
-      "sports_rank": 24
+      "rank": 27,
+      "sports_rank": 22
     },
     {
       "title": "梅西对阿尔及利亚全场数据",
@@ -1024,110 +938,110 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 68619,
+      "hot_value": 208766,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%AF%B9%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A%E5%85%A8%E5%9C%BA%E6%95%B0%E6%8D%AE"
       },
       "raw_titles": [
         "梅西对阿尔及利亚全场数据"
       ],
-      "rank": 32,
+      "rank": 29,
+      "sports_rank": 23
+    },
+    {
+      "title": "凯恩重罚点球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 203822,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E9%87%8D%E7%BD%9A%E7%82%B9%E7%90%83"
+      },
+      "raw_titles": [
+        "凯恩重罚点球"
+      ],
+      "rank": 30,
+      "sports_rank": 24
+    },
+    {
+      "title": "梅西 足球之神",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 193686,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E8%B6%B3%E7%90%83%E4%B9%8B%E7%A5%9E"
+      },
+      "raw_titles": [
+        "梅西 足球之神"
+      ],
+      "rank": 31,
       "sports_rank": 25
     },
     {
-      "title": "看C罗",
+      "title": "梅西国家队200场里程碑",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 67442,
+      "hot_value": 184234,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%9C%8BC%E7%BD%97"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F200%E5%9C%BA%E9%87%8C%E7%A8%8B%E7%A2%91"
       },
       "raw_titles": [
-        "看C罗"
+        "梅西国家队200场里程碑"
       ],
       "rank": 33,
       "sports_rank": 26
-    },
-    {
-      "title": "C罗的身材绝对不是P的",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 66939,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%9A%84%E8%BA%AB%E6%9D%90%E7%BB%9D%E5%AF%B9%E4%B8%8D%E6%98%AFP%E7%9A%84"
-      },
-      "raw_titles": [
-        "C罗的身材绝对不是P的"
-      ],
-      "rank": 34,
-      "sports_rank": 27
-    },
-    {
-      "title": "C罗怎么踢",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 66536,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%80%8E%E4%B9%88%E8%B8%A2"
-      },
-      "raw_titles": [
-        "C罗怎么踢"
-      ],
-      "rank": 36,
-      "sports_rank": 28
     }
   ],
   "movies": [
-    {
-      "title": "沈腾恭喜吕德华入驻抖音",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7668655,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E6%81%AD%E5%96%9C%E5%90%95%E5%BE%B7%E5%8D%8E%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3"
-      },
-      "raw_titles": [
-        "沈腾恭喜吕德华入驻抖音"
-      ],
-      "rank": 5,
-      "movie_rank": 1
-    },
     {
       "title": "晒出我的封神旅行落地签",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7662519,
+      "hot_value": 7741468,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E6%88%91%E7%9A%84%E5%B0%81%E7%A5%9E%E6%97%85%E8%A1%8C%E8%90%BD%E5%9C%B0%E7%AD%BE"
       },
       "raw_titles": [
         "晒出我的封神旅行落地签"
       ],
-      "rank": 6,
-      "movie_rank": 2
+      "rank": 3,
+      "movie_rank": 1
     },
     {
-      "title": "抖音电影奇遇夜达人天团报道",
+      "title": "沈腾恭喜吕德华入驻抖音",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7657487,
+      "hot_value": 7651326,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%94%B5%E5%BD%B1%E5%A5%87%E9%81%87%E5%A4%9C%E8%BE%BE%E4%BA%BA%E5%A4%A9%E5%9B%A2%E6%8A%A5%E9%81%93"
+        "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E6%81%AD%E5%96%9C%E5%90%95%E5%BE%B7%E5%8D%8E%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3"
       },
       "raw_titles": [
-        "抖音电影奇遇夜达人天团报道"
+        "沈腾恭喜吕德华入驻抖音"
+      ],
+      "rank": 7,
+      "movie_rank": 2
+    },
+    {
+      "title": "侯明昊回应跨界参加歌手",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7647219,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%9B%9E%E5%BA%94%E8%B7%A8%E7%95%8C%E5%8F%82%E5%8A%A0%E6%AD%8C%E6%89%8B"
+      },
+      "raw_titles": [
+        "侯明昊回应跨界参加歌手"
       ],
       "rank": 8,
       "movie_rank": 3
@@ -1138,15 +1052,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7608333,
+      "hot_value": 7536910,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%B6%9B%E6%99%92%E6%A2%85%E8%A5%BF%E5%AE%B67%E5%BA%A7%E9%87%91%E7%90%83%E5%A5%96%E6%9D%AF"
       },
       "raw_titles": [
         "王涛晒梅西家7座金球奖杯"
       ],
-      "rank": 13,
-      "sports_rank": 10,
+      "rank": 12,
+      "sports_rank": 9,
       "movie_rank": 4
     },
     {
@@ -1162,7 +1076,7 @@
       "raw_titles": [
         "葡萄牙1比1爆冷战平民主刚果"
       ],
-      "rank": 16,
+      "rank": 18,
       "movie_rank": 5
     },
     {
@@ -1171,7 +1085,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 306764,
+      "hot_value": 337883,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E8%88%9E%E5%8F%B0"
       },
@@ -1182,52 +1096,36 @@
       "movie_rank": 6
     },
     {
-      "title": "解读西班牙爆冷战平佛得角",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 156414,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%86%B7%E6%88%98%E5%B9%B3%E4%BD%9B%E5%BE%97%E8%A7%92"
-      },
-      "raw_titles": [
-        "解读西班牙爆冷战平佛得角"
-      ],
-      "rank": 29,
-      "movie_rank": 7
-    },
-    {
-      "title": "NaVi为何被爆冷淘汰",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 126188,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NaVi%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%88%86%E5%86%B7%E6%B7%98%E6%B1%B0"
-      },
-      "raw_titles": [
-        "NaVi为何被爆冷淘汰"
-      ],
-      "rank": 30,
-      "movie_rank": 8
-    },
-    {
       "title": "胡歌 我不配",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 66688,
+      "hot_value": 220948,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%88%91%E4%B8%8D%E9%85%8D"
       },
       "raw_titles": [
         "胡歌 我不配"
       ],
-      "rank": 35,
-      "movie_rank": 9
+      "rank": 28,
+      "movie_rank": 7
+    },
+    {
+      "title": "解读西班牙爆冷战平佛得角",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 187088,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%86%B7%E6%88%98%E5%B9%B3%E4%BD%9B%E5%BE%97%E8%A7%92"
+      },
+      "raw_titles": [
+        "解读西班牙爆冷战平佛得角"
+      ],
+      "rank": 32,
+      "movie_rank": 8
     }
   ]
 }
