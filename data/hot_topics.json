@@ -1,39 +1,55 @@
 {
-  "update_time": "2026-06-19 22:00:54",
-  "total": 29,
-  "sports_count": 21,
-  "movie_count": 9,
+  "update_time": "2026-06-19 23:00:52",
+  "total": 28,
+  "sports_count": 18,
+  "movie_count": 11,
   "all": [
+    {
+      "title": "歌手排名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 15945979,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "歌手排名"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "端午节一桌封神挑战",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 11970082,
+      "hot_value": 11899928,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AB%AF%E5%8D%88%E8%8A%82%E4%B8%80%E6%A1%8C%E5%B0%81%E7%A5%9E%E6%8C%91%E6%88%98"
       },
       "raw_titles": [
         "端午节一桌封神挑战"
       ],
-      "rank": 1,
-      "movie_rank": 1
+      "rank": 2,
+      "movie_rank": 2
     },
     {
-      "title": "世界杯将迎来四场小组赛争夺",
+      "title": "丁彦雨航玩CBA选球员游戏",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7820741,
+      "hot_value": 9548872,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%9B%9B%E5%9C%BA%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%BA%89%E5%A4%BA"
+        "抖音": "https://www.douyin.com/search/%E4%B8%81%E5%BD%A6%E9%9B%A8%E8%88%AA%E7%8E%A9CBA%E9%80%89%E7%90%83%E5%91%98%E6%B8%B8%E6%88%8F"
       },
       "raw_titles": [
-        "世界杯将迎来四场小组赛争夺"
+        "丁彦雨航玩CBA选球员游戏"
       ],
-      "rank": 2,
+      "rank": 3,
       "sports_rank": 1
     },
     {
@@ -42,47 +58,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7741775,
+      "hot_value": 7773255,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E4%BA%94%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "歌手2026第五期舞台"
       ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "董老厮预测世界杯小组出线局势",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7726945,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%91%A3%E8%80%81%E5%8E%AE%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF%E5%B1%80%E5%8A%BF"
-      },
-      "raw_titles": [
-        "董老厮预测世界杯小组出线局势"
-      ],
       "rank": 4,
-      "sports_rank": 2
+      "movie_rank": 3
     },
     {
-      "title": "丁彦雨航玩CBA选球员游戏",
+      "title": "世界杯将迎来四场小组赛争夺",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7720249,
+      "hot_value": 7733005,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%81%E5%BD%A6%E9%9B%A8%E8%88%AA%E7%8E%A9CBA%E9%80%89%E7%90%83%E5%91%98%E6%B8%B8%E6%88%8F"
+        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%9B%9B%E5%9C%BA%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%BA%89%E5%A4%BA"
       },
       "raw_titles": [
-        "丁彦雨航玩CBA选球员游戏"
+        "世界杯将迎来四场小组赛争夺"
       ],
       "rank": 5,
-      "sports_rank": 3
+      "sports_rank": 2
     },
     {
       "title": "王俊凯初代白月光的含金量",
@@ -90,7 +90,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7696407,
+      "hot_value": 7705988,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%9D%E4%BB%A3%E7%99%BD%E6%9C%88%E5%85%89%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F"
       },
@@ -98,103 +98,40 @@
         "王俊凯初代白月光的含金量"
       ],
       "rank": 6,
-      "movie_rank": 3
-    },
-    {
-      "title": "从夯到拉锐评世界杯首轮球队",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 2360332,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%90%83%E9%98%9F"
-      },
-      "raw_titles": [
-        "从夯到拉锐评世界杯首轮球队"
-      ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "歌手直播",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1254231,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD"
-      },
-      "raw_titles": [
-        "歌手直播"
-      ],
-      "rank": 8,
       "movie_rank": 4
     },
     {
-      "title": "浪姐直播",
-      "category": "影视",
+      "title": "哈兰德庆祝动作cos清冷佛子",
+      "category": "体育",
       "sources": [
-        "微博"
+        "抖音"
       ],
-      "hot_value": 1252357,
+      "hot_value": 7679369,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD"
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9Ccos%E6%B8%85%E5%86%B7%E4%BD%9B%E5%AD%90"
       },
       "raw_titles": [
-        "浪姐直播"
+        "哈兰德庆祝动作cos清冷佛子"
       ],
-      "rank": 9,
+      "rank": 7,
+      "sports_rank": 3
+    },
+    {
+      "title": "艾略特歌手2026首秀",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 2561696,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%A6%AE%E8%BE%BE%E6%AD%8C%E6%89%8B2026%E9%A6%96%E7%A7%80"
+      },
+      "raw_titles": [
+        "艾略特歌手2026首秀"
+      ],
+      "rank": 8,
       "movie_rank": 5
-    },
-    {
-      "title": "C罗球迷攻陷内维斯女友社媒",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1230787,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E5%86%85%E7%BB%B4%E6%96%AF%E5%A5%B3%E5%8F%8B%E7%A4%BE%E5%AA%92"
-      },
-      "raw_titles": [
-        "C罗球迷攻陷内维斯女友社媒"
-      ],
-      "rank": 10,
-      "sports_rank": 5
-    },
-    {
-      "title": "电影爱是愤怒今日上映",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1218718,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E7%88%B1%E6%98%AF%E6%84%A4%E6%80%92%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0"
-      },
-      "raw_titles": [
-        "电影爱是愤怒今日上映"
-      ],
-      "rank": 11,
-      "movie_rank": 6
-    },
-    {
-      "title": "三米宽的河道开出了F1的心跳",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1170651,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%89%E7%B1%B3%E5%AE%BD%E7%9A%84%E6%B2%B3%E9%81%93%E5%BC%80%E5%87%BA%E4%BA%86F1%E7%9A%84%E5%BF%83%E8%B7%B3"
-      },
-      "raw_titles": [
-        "三米宽的河道开出了F1的心跳"
-      ],
-      "rank": 12,
-      "sports_rank": 6
     },
     {
       "title": "长腿金发哈兰德",
@@ -202,127 +139,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1073543,
+      "hot_value": 1612439,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%95%BF%E8%85%BF%E9%87%91%E5%8F%91%E5%93%88%E5%85%B0%E5%BE%B7"
       },
       "raw_titles": [
         "长腿金发哈兰德"
       ],
-      "rank": 13,
-      "sports_rank": 7
-    },
-    {
-      "title": "歌手还我那英",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1049128,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%BF%98%E6%88%91%E9%82%A3%E8%8B%B1"
-      },
-      "raw_titles": [
-        "歌手还我那英"
-      ],
-      "rank": 14,
-      "movie_rank": 7
-    },
-    {
-      "title": "法国女排vs中国女排",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1029944,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92"
-      },
-      "raw_titles": [
-        "法国女排vs中国女排"
-      ],
-      "rank": 15,
-      "sports_rank": 8
-    },
-    {
-      "title": "花3万现场看C罗是什么体验",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1002901,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8A%B13%E4%B8%87%E7%8E%B0%E5%9C%BA%E7%9C%8BC%E7%BD%97%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C"
-      },
-      "raw_titles": [
-        "花3万现场看C罗是什么体验"
-      ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "阿尔及利亚申诉梅西逃红牌",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 964583,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A%E7%94%B3%E8%AF%89%E6%A2%85%E8%A5%BF%E9%80%83%E7%BA%A2%E7%89%8C"
-      },
-      "raw_titles": [
-        "阿尔及利亚申诉梅西逃红牌"
-      ],
-      "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "管泽元王楚淇锐评C罗",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 862611,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E7%8E%8B%E6%A5%9A%E6%B7%87%E9%94%90%E8%AF%84C%E7%BD%97"
-      },
-      "raw_titles": [
-        "管泽元王楚淇锐评C罗"
-      ],
-      "rank": 18,
-      "sports_rank": 11
-    },
-    {
-      "title": "杰伦布朗换字母哥可行吗",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 829364,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%8D%A2%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8F%AF%E8%A1%8C%E5%90%97"
-      },
-      "raw_titles": [
-        "杰伦布朗换字母哥可行吗"
-      ],
-      "rank": 19,
-      "sports_rank": 12
-    },
-    {
-      "title": "万妮达歌手2026首秀",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 791873,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%A6%AE%E8%BE%BE%E6%AD%8C%E6%89%8B2026%E9%A6%96%E7%A7%80"
-      },
-      "raw_titles": [
-        "万妮达歌手2026首秀"
-      ],
-      "rank": 20,
-      "movie_rank": 8
+      "rank": 9,
+      "sports_rank": 4
     },
     {
       "title": "41岁C罗该首发还是替补",
@@ -330,15 +155,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 783595,
+      "hot_value": 876992,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=41%E5%B2%81C%E7%BD%97%E8%AF%A5%E9%A6%96%E5%8F%91%E8%BF%98%E6%98%AF%E6%9B%BF%E8%A1%A5"
       },
       "raw_titles": [
         "41岁C罗该首发还是替补"
       ],
-      "rank": 21,
-      "sports_rank": 13
+      "rank": 10,
+      "sports_rank": 5
     },
     {
       "title": "英超26-27赛季赛程公布",
@@ -346,15 +171,66 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 774319,
+      "hot_value": 759256,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%B6%8526-27%E8%B5%9B%E5%AD%A3%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
         "英超26-27赛季赛程公布"
       ],
-      "rank": 22,
-      "sports_rank": 14
+      "rank": 11,
+      "sports_rank": 6
+    },
+    {
+      "title": "世界杯首轮离谱新闻合集",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 727259,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%A6%BB%E8%B0%B1%E6%96%B0%E9%97%BB%E5%90%88%E9%9B%86"
+      },
+      "raw_titles": [
+        "世界杯首轮离谱新闻合集"
+      ],
+      "rank": 12,
+      "sports_rank": 7
+    },
+    {
+      "title": "李现回应去世界杯开球",
+      "category": "综合",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 698470,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83",
+        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "李现回应去世界杯开球"
+      ],
+      "rank": 13,
+      "sports_rank": 8,
+      "movie_rank": 6
+    },
+    {
+      "title": "杰伦布朗换字母哥可行吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 697260,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%8D%A2%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8F%AF%E8%A1%8C%E5%90%97"
+      },
+      "raw_titles": [
+        "杰伦布朗换字母哥可行吗"
+      ],
+      "rank": 14,
+      "sports_rank": 9
     },
     {
       "title": "一口气跳完世界杯主题曲",
@@ -362,15 +238,175 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 754936,
+      "hot_value": 695277,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E8%B7%B3%E5%AE%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2"
       },
       "raw_titles": [
         "一口气跳完世界杯主题曲"
       ],
+      "rank": 15,
+      "sports_rank": 10
+    },
+    {
+      "title": "浪姐排名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 535356,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "浪姐排名"
+      ],
+      "rank": 16,
+      "movie_rank": 7
+    },
+    {
+      "title": "C罗球迷攻陷内维斯女友社媒",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 529463,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E5%86%85%E7%BB%B4%E6%96%AF%E5%A5%B3%E5%8F%8B%E7%A4%BE%E5%AA%92"
+      },
+      "raw_titles": [
+        "C罗球迷攻陷内维斯女友社媒"
+      ],
+      "rank": 17,
+      "sports_rank": 11
+    },
+    {
+      "title": "法国女排vs中国女排",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 526156,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92"
+      },
+      "raw_titles": [
+        "法国女排vs中国女排"
+      ],
+      "rank": 18,
+      "sports_rank": 12
+    },
+    {
+      "title": "世界杯韩国还没出局但转播商破产了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 511015,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9F%A9%E5%9B%BD%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B1%80%E4%BD%86%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86"
+      },
+      "raw_titles": [
+        "世界杯韩国还没出局但转播商破产了"
+      ],
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "歌手 误入KTV",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 490224,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20%E8%AF%AF%E5%85%A5KTV"
+      },
+      "raw_titles": [
+        "歌手 误入KTV"
+      ],
+      "rank": 20,
+      "movie_rank": 8
+    },
+    {
+      "title": "歌手直播",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 472432,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD"
+      },
+      "raw_titles": [
+        "歌手直播"
+      ],
+      "rank": 21,
+      "movie_rank": 9
+    },
+    {
+      "title": "浪姐直播",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 464160,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD"
+      },
+      "raw_titles": [
+        "浪姐直播"
+      ],
+      "rank": 22,
+      "movie_rank": 10
+    },
+    {
+      "title": "佛得角门将梦想扑出梅西点球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 450845,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%A2%A6%E6%83%B3%E6%89%91%E5%87%BA%E6%A2%85%E8%A5%BF%E7%82%B9%E7%90%83"
+      },
+      "raw_titles": [
+        "佛得角门将梦想扑出梅西点球"
+      ],
       "rank": 23,
+      "sports_rank": 14
+    },
+    {
+      "title": "张展硕全国游泳冠军赛夺冠",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 444660,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B1%95%E7%A1%95%E5%85%A8%E5%9B%BD%E6%B8%B8%E6%B3%B3%E5%86%A0%E5%86%9B%E8%B5%9B%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "张展硕全国游泳冠军赛夺冠"
+      ],
+      "rank": 24,
       "sports_rank": 15
+    },
+    {
+      "title": "杨坤《歌手》被淘汰",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 405000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E5%9D%A4%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E8%A2%AB%E6%B7%98%E6%B1%B0&sa=fyb_news"
+      },
+      "raw_titles": [
+        "杨坤《歌手》被淘汰"
+      ],
+      "rank": 25,
+      "movie_rank": 11
     },
     {
       "title": "佛得角门将：世界杯不该只属于有钱人",
@@ -378,48 +414,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 261000,
+      "hot_value": 270000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%EF%BC%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E8%AF%A5%E5%8F%AA%E5%B1%9E%E4%BA%8E%E6%9C%89%E9%92%B1%E4%BA%BA&sa=fyb_news"
       },
       "raw_titles": [
         "佛得角门将：世界杯不该只属于有钱人"
       ],
-      "rank": 24,
-      "sports_rank": 16
-    },
-    {
-      "title": "李现回应去世界杯开球",
-      "category": "综合",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 243000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83&sa=fyb_news"
-      },
-      "raw_titles": [
-        "李现回应去世界杯开球"
-      ],
-      "rank": 25,
-      "sports_rank": 17,
-      "movie_rank": 9
-    },
-    {
-      "title": "世界杯赛场外快递员小狗走红",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 90000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E5%9C%BA%E5%A4%96%E5%BF%AB%E9%80%92%E5%91%98%E5%B0%8F%E7%8B%97%E8%B5%B0%E7%BA%A2&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯赛场外快递员小狗走红"
-      ],
       "rank": 26,
-      "sports_rank": 18
+      "sports_rank": 16
     },
     {
       "title": "南京12岁足球小将海外夺冠走红",
@@ -435,137 +438,73 @@
         "南京12岁足球小将海外夺冠走红"
       ],
       "rank": 27,
-      "sports_rank": 19
+      "sports_rank": 17
     },
     {
-      "title": "张凯丽主持《乘风》时自曝在看世界杯",
+      "title": "世界杯赛场外快递员小狗走红",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 27000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E5%87%AF%E4%B8%BD%E4%B8%BB%E6%8C%81%E3%80%8A%E4%B9%98%E9%A3%8E%E3%80%8B%E6%97%B6%E8%87%AA%E6%9B%9D%E5%9C%A8%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E5%9C%BA%E5%A4%96%E5%BF%AB%E9%80%92%E5%91%98%E5%B0%8F%E7%8B%97%E8%B5%B0%E7%BA%A2&sa=fyb_news"
       },
       "raw_titles": [
-        "张凯丽主持《乘风》时自曝在看世界杯"
+        "世界杯赛场外快递员小狗走红"
       ],
       "rank": 28,
-      "sports_rank": 20
-    },
-    {
-      "title": "马宁将主裁世界杯第999场比赛",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%A9%AC%E5%AE%81%E5%B0%86%E4%B8%BB%E8%A3%81%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC999%E5%9C%BA%E6%AF%94%E8%B5%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "马宁将主裁世界杯第999场比赛"
-      ],
-      "rank": 29,
-      "sports_rank": 21
+      "sports_rank": 18
     }
   ],
   "sports": [
     {
-      "title": "世界杯将迎来四场小组赛争夺",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7820741,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%9B%9B%E5%9C%BA%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%BA%89%E5%A4%BA"
-      },
-      "raw_titles": [
-        "世界杯将迎来四场小组赛争夺"
-      ],
-      "rank": 2,
-      "sports_rank": 1
-    },
-    {
-      "title": "董老厮预测世界杯小组出线局势",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7726945,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%91%A3%E8%80%81%E5%8E%AE%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF%E5%B1%80%E5%8A%BF"
-      },
-      "raw_titles": [
-        "董老厮预测世界杯小组出线局势"
-      ],
-      "rank": 4,
-      "sports_rank": 2
-    },
-    {
       "title": "丁彦雨航玩CBA选球员游戏",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7720249,
+      "hot_value": 9548872,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%81%E5%BD%A6%E9%9B%A8%E8%88%AA%E7%8E%A9CBA%E9%80%89%E7%90%83%E5%91%98%E6%B8%B8%E6%88%8F"
       },
       "raw_titles": [
         "丁彦雨航玩CBA选球员游戏"
       ],
-      "rank": 5,
-      "sports_rank": 3
+      "rank": 3,
+      "sports_rank": 1
     },
     {
-      "title": "从夯到拉锐评世界杯首轮球队",
+      "title": "世界杯将迎来四场小组赛争夺",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 2360332,
+      "hot_value": 7733005,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%90%83%E9%98%9F"
+        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%9B%9B%E5%9C%BA%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%BA%89%E5%A4%BA"
       },
       "raw_titles": [
-        "从夯到拉锐评世界杯首轮球队"
+        "世界杯将迎来四场小组赛争夺"
+      ],
+      "rank": 5,
+      "sports_rank": 2
+    },
+    {
+      "title": "哈兰德庆祝动作cos清冷佛子",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7679369,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9Ccos%E6%B8%85%E5%86%B7%E4%BD%9B%E5%AD%90"
+      },
+      "raw_titles": [
+        "哈兰德庆祝动作cos清冷佛子"
       ],
       "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "C罗球迷攻陷内维斯女友社媒",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1230787,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E5%86%85%E7%BB%B4%E6%96%AF%E5%A5%B3%E5%8F%8B%E7%A4%BE%E5%AA%92"
-      },
-      "raw_titles": [
-        "C罗球迷攻陷内维斯女友社媒"
-      ],
-      "rank": 10,
-      "sports_rank": 5
-    },
-    {
-      "title": "三米宽的河道开出了F1的心跳",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1170651,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%89%E7%B1%B3%E5%AE%BD%E7%9A%84%E6%B2%B3%E9%81%93%E5%BC%80%E5%87%BA%E4%BA%86F1%E7%9A%84%E5%BF%83%E8%B7%B3"
-      },
-      "raw_titles": [
-        "三米宽的河道开出了F1的心跳"
-      ],
-      "rank": 12,
-      "sports_rank": 6
+      "sports_rank": 3
     },
     {
       "title": "长腿金发哈兰德",
@@ -573,95 +512,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1073543,
+      "hot_value": 1612439,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%95%BF%E8%85%BF%E9%87%91%E5%8F%91%E5%93%88%E5%85%B0%E5%BE%B7"
       },
       "raw_titles": [
         "长腿金发哈兰德"
       ],
-      "rank": 13,
-      "sports_rank": 7
-    },
-    {
-      "title": "法国女排vs中国女排",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1029944,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92"
-      },
-      "raw_titles": [
-        "法国女排vs中国女排"
-      ],
-      "rank": 15,
-      "sports_rank": 8
-    },
-    {
-      "title": "花3万现场看C罗是什么体验",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1002901,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8A%B13%E4%B8%87%E7%8E%B0%E5%9C%BA%E7%9C%8BC%E7%BD%97%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C"
-      },
-      "raw_titles": [
-        "花3万现场看C罗是什么体验"
-      ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "阿尔及利亚申诉梅西逃红牌",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 964583,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A%E7%94%B3%E8%AF%89%E6%A2%85%E8%A5%BF%E9%80%83%E7%BA%A2%E7%89%8C"
-      },
-      "raw_titles": [
-        "阿尔及利亚申诉梅西逃红牌"
-      ],
-      "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "管泽元王楚淇锐评C罗",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 862611,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E7%8E%8B%E6%A5%9A%E6%B7%87%E9%94%90%E8%AF%84C%E7%BD%97"
-      },
-      "raw_titles": [
-        "管泽元王楚淇锐评C罗"
-      ],
-      "rank": 18,
-      "sports_rank": 11
-    },
-    {
-      "title": "杰伦布朗换字母哥可行吗",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 829364,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%8D%A2%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8F%AF%E8%A1%8C%E5%90%97"
-      },
-      "raw_titles": [
-        "杰伦布朗换字母哥可行吗"
-      ],
-      "rank": 19,
-      "sports_rank": 12
+      "rank": 9,
+      "sports_rank": 4
     },
     {
       "title": "41岁C罗该首发还是替补",
@@ -669,15 +528,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 783595,
+      "hot_value": 876992,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=41%E5%B2%81C%E7%BD%97%E8%AF%A5%E9%A6%96%E5%8F%91%E8%BF%98%E6%98%AF%E6%9B%BF%E8%A1%A5"
       },
       "raw_titles": [
         "41岁C罗该首发还是替补"
       ],
-      "rank": 21,
-      "sports_rank": 13
+      "rank": 10,
+      "sports_rank": 5
     },
     {
       "title": "英超26-27赛季赛程公布",
@@ -685,15 +544,66 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 774319,
+      "hot_value": 759256,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%B6%8526-27%E8%B5%9B%E5%AD%A3%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
         "英超26-27赛季赛程公布"
       ],
-      "rank": 22,
-      "sports_rank": 14
+      "rank": 11,
+      "sports_rank": 6
+    },
+    {
+      "title": "世界杯首轮离谱新闻合集",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 727259,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%A6%BB%E8%B0%B1%E6%96%B0%E9%97%BB%E5%90%88%E9%9B%86"
+      },
+      "raw_titles": [
+        "世界杯首轮离谱新闻合集"
+      ],
+      "rank": 12,
+      "sports_rank": 7
+    },
+    {
+      "title": "李现回应去世界杯开球",
+      "category": "综合",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 698470,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83",
+        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "李现回应去世界杯开球"
+      ],
+      "rank": 13,
+      "sports_rank": 8,
+      "movie_rank": 6
+    },
+    {
+      "title": "杰伦布朗换字母哥可行吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 697260,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%8D%A2%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8F%AF%E8%A1%8C%E5%90%97"
+      },
+      "raw_titles": [
+        "杰伦布朗换字母哥可行吗"
+      ],
+      "rank": 14,
+      "sports_rank": 9
     },
     {
       "title": "一口气跳完世界杯主题曲",
@@ -701,14 +611,94 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 754936,
+      "hot_value": 695277,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E8%B7%B3%E5%AE%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2"
       },
       "raw_titles": [
         "一口气跳完世界杯主题曲"
       ],
+      "rank": 15,
+      "sports_rank": 10
+    },
+    {
+      "title": "C罗球迷攻陷内维斯女友社媒",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 529463,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E5%86%85%E7%BB%B4%E6%96%AF%E5%A5%B3%E5%8F%8B%E7%A4%BE%E5%AA%92"
+      },
+      "raw_titles": [
+        "C罗球迷攻陷内维斯女友社媒"
+      ],
+      "rank": 17,
+      "sports_rank": 11
+    },
+    {
+      "title": "法国女排vs中国女排",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 526156,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92"
+      },
+      "raw_titles": [
+        "法国女排vs中国女排"
+      ],
+      "rank": 18,
+      "sports_rank": 12
+    },
+    {
+      "title": "世界杯韩国还没出局但转播商破产了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 511015,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9F%A9%E5%9B%BD%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B1%80%E4%BD%86%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86"
+      },
+      "raw_titles": [
+        "世界杯韩国还没出局但转播商破产了"
+      ],
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "佛得角门将梦想扑出梅西点球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 450845,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%A2%A6%E6%83%B3%E6%89%91%E5%87%BA%E6%A2%85%E8%A5%BF%E7%82%B9%E7%90%83"
+      },
+      "raw_titles": [
+        "佛得角门将梦想扑出梅西点球"
+      ],
       "rank": 23,
+      "sports_rank": 14
+    },
+    {
+      "title": "张展硕全国游泳冠军赛夺冠",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 444660,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B1%95%E7%A1%95%E5%85%A8%E5%9B%BD%E6%B8%B8%E6%B3%B3%E5%86%A0%E5%86%9B%E8%B5%9B%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "张展硕全国游泳冠军赛夺冠"
+      ],
+      "rank": 24,
       "sports_rank": 15
     },
     {
@@ -717,48 +707,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 261000,
+      "hot_value": 270000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%EF%BC%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E8%AF%A5%E5%8F%AA%E5%B1%9E%E4%BA%8E%E6%9C%89%E9%92%B1%E4%BA%BA&sa=fyb_news"
       },
       "raw_titles": [
         "佛得角门将：世界杯不该只属于有钱人"
       ],
-      "rank": 24,
-      "sports_rank": 16
-    },
-    {
-      "title": "李现回应去世界杯开球",
-      "category": "综合",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 243000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83&sa=fyb_news"
-      },
-      "raw_titles": [
-        "李现回应去世界杯开球"
-      ],
-      "rank": 25,
-      "sports_rank": 17,
-      "movie_rank": 9
-    },
-    {
-      "title": "世界杯赛场外快递员小狗走红",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 90000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E5%9C%BA%E5%A4%96%E5%BF%AB%E9%80%92%E5%91%98%E5%B0%8F%E7%8B%97%E8%B5%B0%E7%BA%A2&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯赛场外快递员小狗走红"
-      ],
       "rank": 26,
-      "sports_rank": 18
+      "sports_rank": 16
     },
     {
       "title": "南京12岁足球小将海外夺冠走红",
@@ -774,57 +731,57 @@
         "南京12岁足球小将海外夺冠走红"
       ],
       "rank": 27,
-      "sports_rank": 19
+      "sports_rank": 17
     },
     {
-      "title": "张凯丽主持《乘风》时自曝在看世界杯",
+      "title": "世界杯赛场外快递员小狗走红",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 27000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E5%87%AF%E4%B8%BD%E4%B8%BB%E6%8C%81%E3%80%8A%E4%B9%98%E9%A3%8E%E3%80%8B%E6%97%B6%E8%87%AA%E6%9B%9D%E5%9C%A8%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E5%9C%BA%E5%A4%96%E5%BF%AB%E9%80%92%E5%91%98%E5%B0%8F%E7%8B%97%E8%B5%B0%E7%BA%A2&sa=fyb_news"
       },
       "raw_titles": [
-        "张凯丽主持《乘风》时自曝在看世界杯"
+        "世界杯赛场外快递员小狗走红"
       ],
       "rank": 28,
-      "sports_rank": 20
-    },
-    {
-      "title": "马宁将主裁世界杯第999场比赛",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%A9%AC%E5%AE%81%E5%B0%86%E4%B8%BB%E8%A3%81%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC999%E5%9C%BA%E6%AF%94%E8%B5%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "马宁将主裁世界杯第999场比赛"
-      ],
-      "rank": 29,
-      "sports_rank": 21
+      "sports_rank": 18
     }
   ],
   "movies": [
+    {
+      "title": "歌手排名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 15945979,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "歌手排名"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "端午节一桌封神挑战",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 11970082,
+      "hot_value": 11899928,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AB%AF%E5%8D%88%E8%8A%82%E4%B8%80%E6%A1%8C%E5%B0%81%E7%A5%9E%E6%8C%91%E6%88%98"
       },
       "raw_titles": [
         "端午节一桌封神挑战"
       ],
-      "rank": 1,
-      "movie_rank": 1
+      "rank": 2,
+      "movie_rank": 2
     },
     {
       "title": "歌手2026第五期舞台",
@@ -832,15 +789,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7741775,
+      "hot_value": 7773255,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E4%BA%94%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "歌手2026第五期舞台"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 4,
+      "movie_rank": 3
     },
     {
       "title": "王俊凯初代白月光的含金量",
@@ -848,7 +805,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7696407,
+      "hot_value": 7705988,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%9D%E4%BB%A3%E7%99%BD%E6%9C%88%E5%85%89%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F"
       },
@@ -856,7 +813,75 @@
         "王俊凯初代白月光的含金量"
       ],
       "rank": 6,
-      "movie_rank": 3
+      "movie_rank": 4
+    },
+    {
+      "title": "艾略特歌手2026首秀",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 2561696,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%A6%AE%E8%BE%BE%E6%AD%8C%E6%89%8B2026%E9%A6%96%E7%A7%80"
+      },
+      "raw_titles": [
+        "艾略特歌手2026首秀"
+      ],
+      "rank": 8,
+      "movie_rank": 5
+    },
+    {
+      "title": "李现回应去世界杯开球",
+      "category": "综合",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 698470,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83",
+        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "李现回应去世界杯开球"
+      ],
+      "rank": 13,
+      "sports_rank": 8,
+      "movie_rank": 6
+    },
+    {
+      "title": "浪姐排名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 535356,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "浪姐排名"
+      ],
+      "rank": 16,
+      "movie_rank": 7
+    },
+    {
+      "title": "歌手 误入KTV",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 490224,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20%E8%AF%AF%E5%85%A5KTV"
+      },
+      "raw_titles": [
+        "歌手 误入KTV"
+      ],
+      "rank": 20,
+      "movie_rank": 8
     },
     {
       "title": "歌手直播",
@@ -864,15 +889,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 1254231,
+      "hot_value": 472432,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD"
       },
       "raw_titles": [
         "歌手直播"
       ],
-      "rank": 8,
-      "movie_rank": 4
+      "rank": 21,
+      "movie_rank": 9
     },
     {
       "title": "浪姐直播",
@@ -880,80 +905,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 1252357,
+      "hot_value": 464160,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD"
       },
       "raw_titles": [
         "浪姐直播"
       ],
-      "rank": 9,
-      "movie_rank": 5
+      "rank": 22,
+      "movie_rank": 10
     },
     {
-      "title": "电影爱是愤怒今日上映",
+      "title": "杨坤《歌手》被淘汰",
       "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1218718,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E7%88%B1%E6%98%AF%E6%84%A4%E6%80%92%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0"
-      },
-      "raw_titles": [
-        "电影爱是愤怒今日上映"
-      ],
-      "rank": 11,
-      "movie_rank": 6
-    },
-    {
-      "title": "歌手还我那英",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1049128,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%BF%98%E6%88%91%E9%82%A3%E8%8B%B1"
-      },
-      "raw_titles": [
-        "歌手还我那英"
-      ],
-      "rank": 14,
-      "movie_rank": 7
-    },
-    {
-      "title": "万妮达歌手2026首秀",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 791873,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%A6%AE%E8%BE%BE%E6%AD%8C%E6%89%8B2026%E9%A6%96%E7%A7%80"
-      },
-      "raw_titles": [
-        "万妮达歌手2026首秀"
-      ],
-      "rank": 20,
-      "movie_rank": 8
-    },
-    {
-      "title": "李现回应去世界杯开球",
-      "category": "综合",
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 405000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E5%9D%A4%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E8%A2%AB%E6%B7%98%E6%B1%B0&sa=fyb_news"
       },
       "raw_titles": [
-        "李现回应去世界杯开球"
+        "杨坤《歌手》被淘汰"
       ],
       "rank": 25,
-      "sports_rank": 17,
-      "movie_rank": 9
+      "movie_rank": 11
     }
   ]
 }
