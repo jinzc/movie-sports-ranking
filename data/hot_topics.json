@@ -1,24 +1,40 @@
 {
-  "update_time": "2026-06-22 17:00:53",
-  "total": 35,
-  "sports_count": 18,
-  "movie_count": 18,
+  "update_time": "2026-06-22 18:00:49",
+  "total": 28,
+  "sports_count": 14,
+  "movie_count": 14,
   "all": [
     {
-      "title": "LEV伦敦大师赛夺冠",
+      "title": "NiKo夺冠后跳Falcons战舞",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 22010118,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NiKo%E5%A4%BA%E5%86%A0%E5%90%8E%E8%B7%B3Falcons%E6%88%98%E8%88%9E"
+      },
+      "raw_titles": [
+        "NiKo夺冠后跳Falcons战舞"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "亚马尔打进个人世界杯首球",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8565057,
+      "hot_value": 8274238,
       "urls": {
-        "抖音": "https://www.douyin.com/search/LEV%E4%BC%A6%E6%95%A6%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%A4%BA%E5%86%A0"
+        "抖音": "https://www.douyin.com/search/%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%89%93%E8%BF%9B%E4%B8%AA%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83"
       },
       "raw_titles": [
-        "LEV伦敦大师赛夺冠"
+        "亚马尔打进个人世界杯首球"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "佛得角门将收不续约通知",
@@ -27,7 +43,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8170158,
+      "hot_value": 8027791,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%94%B6%E4%B8%8D%E7%BB%AD%E7%BA%A6%E9%80%9A%E7%9F%A5",
         "抖音": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%94%B6%E5%88%B0%E4%B8%8D%E7%BB%AD%E7%BA%A6%E9%80%9A%E7%9F%A5"
@@ -35,8 +51,8 @@
       "raw_titles": [
         "佛得角门将收不续约通知"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "周星驰新片档期公布但没完全公布",
@@ -44,47 +60,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7850510,
+      "hot_value": 7815080,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%89%87%E6%A1%A3%E6%9C%9F%E5%85%AC%E5%B8%83%E4%BD%86%E6%B2%A1%E5%AE%8C%E5%85%A8%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
         "周星驰新片档期公布但没完全公布"
       ],
-      "rank": 3,
-      "movie_rank": 1
-    },
-    {
-      "title": "姆巴佩迎国家队第100场比赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7818157,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%AC%AC100%E5%9C%BA%E6%AF%94%E8%B5%9B"
-      },
-      "raw_titles": [
-        "姆巴佩迎国家队第100场比赛"
-      ],
       "rank": 4,
-      "sports_rank": 3
-    },
-    {
-      "title": "亚马尔打进个人世界杯首球",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7808858,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%89%93%E8%BF%9B%E4%B8%AA%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83"
-      },
-      "raw_titles": [
-        "亚马尔打进个人世界杯首球"
-      ],
-      "rank": 5,
-      "sports_rank": 4
+      "movie_rank": 1
     },
     {
       "title": "电影抓特务观后感",
@@ -92,31 +76,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7747048,
+      "hot_value": 7749810,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E8%A7%82%E5%90%8E%E6%84%9F"
       },
       "raw_titles": [
         "电影抓特务观后感"
       ],
-      "rank": 6,
+      "rank": 5,
       "movie_rank": 2
-    },
-    {
-      "title": "张凌赫担任白玉兰青年推广大使",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7715829,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8B%85%E4%BB%BB%E7%99%BD%E7%8E%89%E5%85%B0%E9%9D%92%E5%B9%B4%E6%8E%A8%E5%B9%BF%E5%A4%A7%E4%BD%BF"
-      },
-      "raw_titles": [
-        "张凌赫担任白玉兰青年推广大使"
-      ],
-      "rank": 7,
-      "movie_rank": 3
     },
     {
       "title": "我的亚马尔首球reaction",
@@ -124,15 +92,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709003,
+      "hot_value": 7711043,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A6%96%E7%90%83reaction"
       },
       "raw_titles": [
         "我的亚马尔首球reaction"
       ],
-      "rank": 8,
+      "rank": 6,
+      "sports_rank": 4
+    },
+    {
+      "title": "LEV伦敦大师赛夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7709233,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/LEV%E4%BC%A6%E6%95%A6%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "LEV伦敦大师赛夺冠"
+      ],
+      "rank": 7,
       "sports_rank": 5
+    },
+    {
+      "title": "张凌赫担任白玉兰青年推广大使",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7699699,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8B%85%E4%BB%BB%E7%99%BD%E7%8E%89%E5%85%B0%E9%9D%92%E5%B9%B4%E6%8E%A8%E5%B9%BF%E5%A4%A7%E4%BD%BF"
+      },
+      "raw_titles": [
+        "张凌赫担任白玉兰青年推广大使"
+      ],
+      "rank": 8,
+      "movie_rank": 3
     },
     {
       "title": "挑战模仿超人气天团",
@@ -140,7 +140,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7662841,
+      "hot_value": 7695599,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%8C%91%E6%88%98%E6%A8%A1%E4%BB%BF%E8%B6%85%E4%BA%BA%E6%B0%94%E5%A4%A9%E5%9B%A2"
       },
@@ -151,150 +151,53 @@
       "movie_rank": 4
     },
     {
+      "title": "张艺兴导演自己新歌MV",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7664715,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E8%89%BA%E5%85%B4%E5%AF%BC%E6%BC%94%E8%87%AA%E5%B7%B1%E6%96%B0%E6%AD%8CMV"
+      },
+      "raw_titles": [
+        "张艺兴导演自己新歌MV"
+      ],
+      "rank": 10,
+      "movie_rank": 5
+    },
+    {
       "title": "海贼王1167集简评",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7646057,
+      "hot_value": 7658656,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B5%B7%E8%B4%BC%E7%8E%8B1167%E9%9B%86%E7%AE%80%E8%AF%84"
       },
       "raw_titles": [
         "海贼王1167集简评"
       ],
-      "rank": 10,
-      "movie_rank": 5
-    },
-    {
-      "title": "波斯曼 世界杯天选预言家",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7640009,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B3%A2%E6%96%AF%E6%9B%BC%20%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A9%E9%80%89%E9%A2%84%E8%A8%80%E5%AE%B6"
-      },
-      "raw_titles": [
-        "波斯曼 世界杯天选预言家"
-      ],
       "rank": 11,
-      "sports_rank": 6
-    },
-    {
-      "title": "檀健次拍戏原来自带BGM",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7634682,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1%E6%8B%8D%E6%88%8F%E5%8E%9F%E6%9D%A5%E8%87%AA%E5%B8%A6BGM"
-      },
-      "raw_titles": [
-        "檀健次拍戏原来自带BGM"
-      ],
-      "rank": 12,
       "movie_rank": 6
     },
     {
-      "title": "Falcons夺冠决赛纪录片",
-      "category": "综合",
+      "title": "Falcons夺冠赛事复盘",
+      "category": "体育",
       "sources": [
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 2558534,
+      "hot_value": 3733184,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Falcons%E5%A4%BA%E5%86%A0%E8%B5%9B%E4%BA%8B%E5%A4%8D%E7%9B%98"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Falcons%E5%A4%BA%E5%86%A0%E5%86%B3%E8%B5%9B%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
-        "Falcons夺冠决赛纪录片"
+        "Falcons夺冠赛事复盘"
       ],
-      "rank": 13,
-      "sports_rank": 7,
-      "movie_rank": 7
-    },
-    {
-      "title": "NiKo夺冠后跳Falcons战舞",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1842980,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NiKo%E5%A4%BA%E5%86%A0%E5%90%8E%E8%B7%B3Falcons%E6%88%98%E8%88%9E"
-      },
-      "raw_titles": [
-        "NiKo夺冠后跳Falcons战舞"
-      ],
-      "rank": 14,
-      "sports_rank": 8
-    },
-    {
-      "title": "歌剧老师解读歌手第五期",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1249861,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%94%E6%9C%9F"
-      },
-      "raw_titles": [
-        "歌剧老师解读歌手第五期"
-      ],
-      "rank": 15,
-      "movie_rank": 8
-    },
-    {
-      "title": "365s讲述NiKo夺冠之路",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1249857,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=365s%E8%AE%B2%E8%BF%B0NiKo%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
-      },
-      "raw_titles": [
-        "365s讲述NiKo夺冠之路"
-      ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "不同人看猎鹰夺冠belike",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1249856,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E5%90%8C%E4%BA%BA%E7%9C%8B%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0belike"
-      },
-      "raw_titles": [
-        "不同人看猎鹰夺冠belike"
-      ],
-      "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "UP主专门为父亲节做了一部动画",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1249848,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%B8%93%E9%97%A8%E4%B8%BA%E7%88%B6%E4%BA%B2%E8%8A%82%E5%81%9A%E4%BA%86%E4%B8%80%E9%83%A8%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "UP主专门为父亲节做了一部动画"
-      ],
-      "rank": 18,
-      "movie_rank": 9
+      "rank": 12,
+      "sports_rank": 6
     },
     {
       "title": "猎鹰夺冠数据雷达图",
@@ -302,15 +205,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1249505,
+      "hot_value": 1862718,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE"
       },
       "raw_titles": [
         "猎鹰夺冠数据雷达图"
       ],
-      "rank": 19,
-      "sports_rank": 11
+      "rank": 13,
+      "sports_rank": 7
+    },
+    {
+      "title": "歌剧老师解读歌手第五期",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1848697,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%94%E6%9C%9F"
+      },
+      "raw_titles": [
+        "歌剧老师解读歌手第五期"
+      ],
+      "rank": 14,
+      "movie_rank": 7
+    },
+    {
+      "title": "365s讲述NiKo夺冠之路",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1714083,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=365s%E8%AE%B2%E8%BF%B0NiKo%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
+      },
+      "raw_titles": [
+        "365s讲述NiKo夺冠之路"
+      ],
+      "rank": 15,
+      "sports_rank": 8
+    },
+    {
+      "title": "UP主专门为父亲节做了一部动画",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1681784,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%B8%93%E9%97%A8%E4%B8%BA%E7%88%B6%E4%BA%B2%E8%8A%82%E5%81%9A%E4%BA%86%E4%B8%80%E9%83%A8%E5%8A%A8%E7%94%BB"
+      },
+      "raw_titles": [
+        "UP主专门为父亲节做了一部动画"
+      ],
+      "rank": 16,
+      "movie_rank": 8
+    },
+    {
+      "title": "不同人看猎鹰夺冠belike",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1519147,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E5%90%8C%E4%BA%BA%E7%9C%8B%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0belike"
+      },
+      "raw_titles": [
+        "不同人看猎鹰夺冠belike"
+      ],
+      "rank": 17,
+      "sports_rank": 9
     },
     {
       "title": "猎鹰科隆Major夺冠",
@@ -318,15 +285,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1247656,
+      "hot_value": 1484409,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "猎鹰科隆Major夺冠"
       ],
-      "rank": 20,
-      "sports_rank": 12
+      "rank": 18,
+      "sports_rank": 10
     },
     {
       "title": "UP自制NiKo科隆纪录片",
@@ -334,63 +301,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1099721,
+      "hot_value": 1200503,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E8%87%AA%E5%88%B6NiKo%E7%A7%91%E9%9A%86%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
         "UP自制NiKo科隆纪录片"
       ],
+      "rank": 19,
+      "movie_rank": 9
+    },
+    {
+      "title": "哈兰德能靠数值碾平比赛吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1087007,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E8%83%BD%E9%9D%A0%E6%95%B0%E5%80%BC%E7%A2%BE%E5%B9%B3%E6%AF%94%E8%B5%9B%E5%90%97"
+      },
+      "raw_titles": [
+        "哈兰德能靠数值碾平比赛吗"
+      ],
+      "rank": 20,
+      "sports_rank": 11
+    },
+    {
+      "title": "李金铭农村综艺那家人居然还在发她",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 525666,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B1%85%E7%84%B6%E8%BF%98%E5%9C%A8%E5%8F%91%E5%A5%B9"
+      },
+      "raw_titles": [
+        "李金铭农村综艺那家人居然还在发她"
+      ],
       "rank": 21,
       "movie_rank": 10
     },
     {
-      "title": "佛得角队史世界杯首球",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 813416,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E5%8F%B2%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83"
-      },
-      "raw_titles": [
-        "佛得角队史世界杯首球"
-      ],
-      "rank": 22,
-      "sports_rank": 13
-    },
-    {
-      "title": "世界杯中国裁判背后的故事",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 734377,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B"
-      },
-      "raw_titles": [
-        "世界杯中国裁判背后的故事"
-      ],
-      "rank": 23,
-      "sports_rank": 14
-    },
-    {
-      "title": "综艺天才厨人 全是狠活",
+      "title": "白玉兰预测",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 721685,
+      "hot_value": 525655,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%BC%E8%89%BA%E5%A4%A9%E6%89%8D%E5%8E%A8%E4%BA%BA%20%E5%85%A8%E6%98%AF%E7%8B%A0%E6%B4%BB"
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%84%E6%B5%8B"
       },
       "raw_titles": [
-        "综艺天才厨人 全是狠活"
+        "白玉兰预测"
       ],
-      "rank": 24,
+      "rank": 22,
       "movie_rank": 11
+    },
+    {
+      "title": "张凌赫女主",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 411247,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A5%B3%E4%B8%BB"
+      },
+      "raw_titles": [
+        "张凌赫女主"
+      ],
+      "rank": 23,
+      "movie_rank": 12
     },
     {
       "title": "世界杯G组彻底大乱斗了",
@@ -398,15 +381,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 414000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AFG%E7%BB%84%E5%BD%BB%E5%BA%95%E5%A4%A7%E4%B9%B1%E6%96%97%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯G组彻底大乱斗了"
       ],
-      "rank": 25,
-      "sports_rank": 15
+      "rank": 24,
+      "sports_rank": 12
     },
     {
       "title": "肖战工作室全平台维权",
@@ -414,30 +397,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 397419,
+      "hot_value": 219360,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%BB%B4%E6%9D%83"
       },
       "raw_titles": [
         "肖战工作室全平台维权"
       ],
-      "rank": 26,
-      "movie_rank": 12
-    },
-    {
-      "title": "白鹿超迪丽热巴角色热度登顶",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 311325,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E8%B6%85%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%A7%92%E8%89%B2%E7%83%AD%E5%BA%A6%E7%99%BB%E9%A1%B6"
-      },
-      "raw_titles": [
-        "白鹿超迪丽热巴角色热度登顶"
-      ],
-      "rank": 27,
+      "rank": 25,
       "movie_rank": 13
     },
     {
@@ -446,47 +413,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 297000,
+      "hot_value": 216000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E5%8F%B0%E9%A2%91%E9%A2%91%E5%87%BA%E7%8E%B0%E6%97%A5%E6%9C%AC%E6%97%AD%E6%97%A5%E6%97%97&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯看台频频出现日本旭日旗"
       ],
-      "rank": 28,
-      "sports_rank": 16
+      "rank": 26,
+      "sports_rank": 13
     },
     {
-      "title": "千台演唱会神器将空降周杰伦现场",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 287610,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8D%83%E5%8F%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%9E%E5%99%A8%E5%B0%86%E7%A9%BA%E9%99%8D%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%B0%E5%9C%BA"
-      },
-      "raw_titles": [
-        "千台演唱会神器将空降周杰伦现场"
-      ],
-      "rank": 29,
-      "movie_rank": 14
-    },
-    {
-      "title": "佛得角门将世界杯前告别球队",
+      "title": "贝克汉姆力压梅西C罗狂赚1.7亿",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 276000,
+      "hot_value": 205834,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%8D%E5%91%8A%E5%88%AB%E7%90%83%E9%98%9F"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%8A%9B%E5%8E%8B%E6%A2%85%E8%A5%BFC%E7%BD%97%E7%8B%82%E8%B5%9A1.7%E4%BA%BF"
       },
       "raw_titles": [
-        "佛得角门将世界杯前告别球队"
+        "贝克汉姆力压梅西C罗狂赚1.7亿"
       ],
-      "rank": 30,
-      "sports_rank": 17
+      "rank": 27,
+      "sports_rank": 14
     },
     {
       "title": "周星驰新电影《功夫女足》7月上映",
@@ -494,97 +445,49 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 261000,
+      "hot_value": 99000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B7%E6%9C%88%E4%B8%8A%E6%98%A0&sa=fyb_news"
       },
       "raw_titles": [
         "周星驰新电影《功夫女足》7月上映"
       ],
-      "rank": 31,
-      "movie_rank": 15
-    },
-    {
-      "title": "终于看到新鲜的王一博了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 239347,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9C%8B%E5%88%B0%E6%96%B0%E9%B2%9C%E7%9A%84%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%86"
-      },
-      "raw_titles": [
-        "终于看到新鲜的王一博了"
-      ],
-      "rank": 32,
-      "movie_rank": 16
-    },
-    {
-      "title": "白玉兰官宣启用金橙评分",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 191240,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%98%E5%AE%A3%E5%90%AF%E7%94%A8%E9%87%91%E6%A9%99%E8%AF%84%E5%88%86"
-      },
-      "raw_titles": [
-        "白玉兰官宣启用金橙评分"
-      ],
-      "rank": 33,
-      "movie_rank": 17
-    },
-    {
-      "title": "斗破苍穹双帝之战首曝",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 188354,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E9%A6%96%E6%9B%9D"
-      },
-      "raw_titles": [
-        "斗破苍穹双帝之战首曝"
-      ],
-      "rank": 34,
-      "movie_rank": 18
-    },
-    {
-      "title": "郑钦文回应排名下滑",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 90000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%9B%9E%E5%BA%94%E6%8E%92%E5%90%8D%E4%B8%8B%E6%BB%91&sa=fyb_news"
-      },
-      "raw_titles": [
-        "郑钦文回应排名下滑"
-      ],
-      "rank": 35,
-      "sports_rank": 18
+      "rank": 28,
+      "movie_rank": 14
     }
   ],
   "sports": [
     {
-      "title": "LEV伦敦大师赛夺冠",
+      "title": "NiKo夺冠后跳Falcons战舞",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 22010118,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NiKo%E5%A4%BA%E5%86%A0%E5%90%8E%E8%B7%B3Falcons%E6%88%98%E8%88%9E"
+      },
+      "raw_titles": [
+        "NiKo夺冠后跳Falcons战舞"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "亚马尔打进个人世界杯首球",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8565057,
+      "hot_value": 8274238,
       "urls": {
-        "抖音": "https://www.douyin.com/search/LEV%E4%BC%A6%E6%95%A6%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%A4%BA%E5%86%A0"
+        "抖音": "https://www.douyin.com/search/%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%89%93%E8%BF%9B%E4%B8%AA%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83"
       },
       "raw_titles": [
-        "LEV伦敦大师赛夺冠"
+        "亚马尔打进个人世界杯首球"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "佛得角门将收不续约通知",
@@ -593,7 +496,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8170158,
+      "hot_value": 8027791,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%94%B6%E4%B8%8D%E7%BB%AD%E7%BA%A6%E9%80%9A%E7%9F%A5",
         "抖音": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%94%B6%E5%88%B0%E4%B8%8D%E7%BB%AD%E7%BA%A6%E9%80%9A%E7%9F%A5"
@@ -601,40 +504,8 @@
       "raw_titles": [
         "佛得角门将收不续约通知"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "姆巴佩迎国家队第100场比赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7818157,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%AC%AC100%E5%9C%BA%E6%AF%94%E8%B5%9B"
-      },
-      "raw_titles": [
-        "姆巴佩迎国家队第100场比赛"
-      ],
-      "rank": 4,
+      "rank": 3,
       "sports_rank": 3
-    },
-    {
-      "title": "亚马尔打进个人世界杯首球",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7808858,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%89%93%E8%BF%9B%E4%B8%AA%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83"
-      },
-      "raw_titles": [
-        "亚马尔打进个人世界杯首球"
-      ],
-      "rank": 5,
-      "sports_rank": 4
     },
     {
       "title": "我的亚马尔首球reaction",
@@ -642,97 +513,48 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709003,
+      "hot_value": 7711043,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A6%96%E7%90%83reaction"
       },
       "raw_titles": [
         "我的亚马尔首球reaction"
       ],
-      "rank": 8,
-      "sports_rank": 5
+      "rank": 6,
+      "sports_rank": 4
     },
     {
-      "title": "波斯曼 世界杯天选预言家",
+      "title": "LEV伦敦大师赛夺冠",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7640009,
+      "hot_value": 7709233,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B3%A2%E6%96%AF%E6%9B%BC%20%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A9%E9%80%89%E9%A2%84%E8%A8%80%E5%AE%B6"
+        "抖音": "https://www.douyin.com/search/LEV%E4%BC%A6%E6%95%A6%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "波斯曼 世界杯天选预言家"
+        "LEV伦敦大师赛夺冠"
       ],
-      "rank": 11,
-      "sports_rank": 6
+      "rank": 7,
+      "sports_rank": 5
     },
     {
-      "title": "Falcons夺冠决赛纪录片",
-      "category": "综合",
+      "title": "Falcons夺冠赛事复盘",
+      "category": "体育",
       "sources": [
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 2558534,
+      "hot_value": 3733184,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Falcons%E5%A4%BA%E5%86%A0%E8%B5%9B%E4%BA%8B%E5%A4%8D%E7%9B%98"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Falcons%E5%A4%BA%E5%86%A0%E5%86%B3%E8%B5%9B%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
-        "Falcons夺冠决赛纪录片"
+        "Falcons夺冠赛事复盘"
       ],
-      "rank": 13,
-      "sports_rank": 7,
-      "movie_rank": 7
-    },
-    {
-      "title": "NiKo夺冠后跳Falcons战舞",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1842980,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NiKo%E5%A4%BA%E5%86%A0%E5%90%8E%E8%B7%B3Falcons%E6%88%98%E8%88%9E"
-      },
-      "raw_titles": [
-        "NiKo夺冠后跳Falcons战舞"
-      ],
-      "rank": 14,
-      "sports_rank": 8
-    },
-    {
-      "title": "365s讲述NiKo夺冠之路",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1249857,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=365s%E8%AE%B2%E8%BF%B0NiKo%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
-      },
-      "raw_titles": [
-        "365s讲述NiKo夺冠之路"
-      ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "不同人看猎鹰夺冠belike",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1249856,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E5%90%8C%E4%BA%BA%E7%9C%8B%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0belike"
-      },
-      "raw_titles": [
-        "不同人看猎鹰夺冠belike"
-      ],
-      "rank": 17,
-      "sports_rank": 10
+      "rank": 12,
+      "sports_rank": 6
     },
     {
       "title": "猎鹰夺冠数据雷达图",
@@ -740,15 +562,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1249505,
+      "hot_value": 1862718,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE"
       },
       "raw_titles": [
         "猎鹰夺冠数据雷达图"
       ],
-      "rank": 19,
-      "sports_rank": 11
+      "rank": 13,
+      "sports_rank": 7
+    },
+    {
+      "title": "365s讲述NiKo夺冠之路",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1714083,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=365s%E8%AE%B2%E8%BF%B0NiKo%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
+      },
+      "raw_titles": [
+        "365s讲述NiKo夺冠之路"
+      ],
+      "rank": 15,
+      "sports_rank": 8
+    },
+    {
+      "title": "不同人看猎鹰夺冠belike",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1519147,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E5%90%8C%E4%BA%BA%E7%9C%8B%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0belike"
+      },
+      "raw_titles": [
+        "不同人看猎鹰夺冠belike"
+      ],
+      "rank": 17,
+      "sports_rank": 9
     },
     {
       "title": "猎鹰科隆Major夺冠",
@@ -756,47 +610,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1247656,
+      "hot_value": 1484409,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "猎鹰科隆Major夺冠"
       ],
+      "rank": 18,
+      "sports_rank": 10
+    },
+    {
+      "title": "哈兰德能靠数值碾平比赛吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1087007,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E8%83%BD%E9%9D%A0%E6%95%B0%E5%80%BC%E7%A2%BE%E5%B9%B3%E6%AF%94%E8%B5%9B%E5%90%97"
+      },
+      "raw_titles": [
+        "哈兰德能靠数值碾平比赛吗"
+      ],
       "rank": 20,
-      "sports_rank": 12
-    },
-    {
-      "title": "佛得角队史世界杯首球",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 813416,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E5%8F%B2%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83"
-      },
-      "raw_titles": [
-        "佛得角队史世界杯首球"
-      ],
-      "rank": 22,
-      "sports_rank": 13
-    },
-    {
-      "title": "世界杯中国裁判背后的故事",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 734377,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B"
-      },
-      "raw_titles": [
-        "世界杯中国裁判背后的故事"
-      ],
-      "rank": 23,
-      "sports_rank": 14
+      "sports_rank": 11
     },
     {
       "title": "世界杯G组彻底大乱斗了",
@@ -804,15 +642,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 414000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AFG%E7%BB%84%E5%BD%BB%E5%BA%95%E5%A4%A7%E4%B9%B1%E6%96%97%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯G组彻底大乱斗了"
       ],
-      "rank": 25,
-      "sports_rank": 15
+      "rank": 24,
+      "sports_rank": 12
     },
     {
       "title": "世界杯看台频频出现日本旭日旗",
@@ -820,47 +658,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 297000,
+      "hot_value": 216000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E5%8F%B0%E9%A2%91%E9%A2%91%E5%87%BA%E7%8E%B0%E6%97%A5%E6%9C%AC%E6%97%AD%E6%97%A5%E6%97%97&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯看台频频出现日本旭日旗"
       ],
-      "rank": 28,
-      "sports_rank": 16
+      "rank": 26,
+      "sports_rank": 13
     },
     {
-      "title": "佛得角门将世界杯前告别球队",
+      "title": "贝克汉姆力压梅西C罗狂赚1.7亿",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 276000,
+      "hot_value": 205834,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%8D%E5%91%8A%E5%88%AB%E7%90%83%E9%98%9F"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%8A%9B%E5%8E%8B%E6%A2%85%E8%A5%BFC%E7%BD%97%E7%8B%82%E8%B5%9A1.7%E4%BA%BF"
       },
       "raw_titles": [
-        "佛得角门将世界杯前告别球队"
+        "贝克汉姆力压梅西C罗狂赚1.7亿"
       ],
-      "rank": 30,
-      "sports_rank": 17
-    },
-    {
-      "title": "郑钦文回应排名下滑",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 90000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%9B%9E%E5%BA%94%E6%8E%92%E5%90%8D%E4%B8%8B%E6%BB%91&sa=fyb_news"
-      },
-      "raw_titles": [
-        "郑钦文回应排名下滑"
-      ],
-      "rank": 35,
-      "sports_rank": 18
+      "rank": 27,
+      "sports_rank": 14
     }
   ],
   "movies": [
@@ -870,14 +692,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7850510,
+      "hot_value": 7815080,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%89%87%E6%A1%A3%E6%9C%9F%E5%85%AC%E5%B8%83%E4%BD%86%E6%B2%A1%E5%AE%8C%E5%85%A8%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
         "周星驰新片档期公布但没完全公布"
       ],
-      "rank": 3,
+      "rank": 4,
       "movie_rank": 1
     },
     {
@@ -886,14 +708,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7747048,
+      "hot_value": 7749810,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E8%A7%82%E5%90%8E%E6%84%9F"
       },
       "raw_titles": [
         "电影抓特务观后感"
       ],
-      "rank": 6,
+      "rank": 5,
       "movie_rank": 2
     },
     {
@@ -902,14 +724,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7715829,
+      "hot_value": 7699699,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8B%85%E4%BB%BB%E7%99%BD%E7%8E%89%E5%85%B0%E9%9D%92%E5%B9%B4%E6%8E%A8%E5%B9%BF%E5%A4%A7%E4%BD%BF"
       },
       "raw_titles": [
         "张凌赫担任白玉兰青年推广大使"
       ],
-      "rank": 7,
+      "rank": 8,
       "movie_rank": 3
     },
     {
@@ -918,7 +740,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7662841,
+      "hot_value": 7695599,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%8C%91%E6%88%98%E6%A8%A1%E4%BB%BF%E8%B6%85%E4%BA%BA%E6%B0%94%E5%A4%A9%E5%9B%A2"
       },
@@ -929,54 +751,36 @@
       "movie_rank": 4
     },
     {
+      "title": "张艺兴导演自己新歌MV",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7664715,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E8%89%BA%E5%85%B4%E5%AF%BC%E6%BC%94%E8%87%AA%E5%B7%B1%E6%96%B0%E6%AD%8CMV"
+      },
+      "raw_titles": [
+        "张艺兴导演自己新歌MV"
+      ],
+      "rank": 10,
+      "movie_rank": 5
+    },
+    {
       "title": "海贼王1167集简评",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7646057,
+      "hot_value": 7658656,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B5%B7%E8%B4%BC%E7%8E%8B1167%E9%9B%86%E7%AE%80%E8%AF%84"
       },
       "raw_titles": [
         "海贼王1167集简评"
       ],
-      "rank": 10,
-      "movie_rank": 5
-    },
-    {
-      "title": "檀健次拍戏原来自带BGM",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7634682,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1%E6%8B%8D%E6%88%8F%E5%8E%9F%E6%9D%A5%E8%87%AA%E5%B8%A6BGM"
-      },
-      "raw_titles": [
-        "檀健次拍戏原来自带BGM"
-      ],
-      "rank": 12,
+      "rank": 11,
       "movie_rank": 6
-    },
-    {
-      "title": "Falcons夺冠决赛纪录片",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩",
-        "哔哩哔哩"
-      ],
-      "hot_value": 2558534,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Falcons%E5%A4%BA%E5%86%A0%E8%B5%9B%E4%BA%8B%E5%A4%8D%E7%9B%98"
-      },
-      "raw_titles": [
-        "Falcons夺冠决赛纪录片"
-      ],
-      "rank": 13,
-      "sports_rank": 7,
-      "movie_rank": 7
     },
     {
       "title": "歌剧老师解读歌手第五期",
@@ -984,15 +788,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1249861,
+      "hot_value": 1848697,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%94%E6%9C%9F"
       },
       "raw_titles": [
         "歌剧老师解读歌手第五期"
       ],
-      "rank": 15,
-      "movie_rank": 8
+      "rank": 14,
+      "movie_rank": 7
     },
     {
       "title": "UP主专门为父亲节做了一部动画",
@@ -1000,15 +804,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1249848,
+      "hot_value": 1681784,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%B8%93%E9%97%A8%E4%B8%BA%E7%88%B6%E4%BA%B2%E8%8A%82%E5%81%9A%E4%BA%86%E4%B8%80%E9%83%A8%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "UP主专门为父亲节做了一部动画"
       ],
-      "rank": 18,
-      "movie_rank": 9
+      "rank": 16,
+      "movie_rank": 8
     },
     {
       "title": "UP自制NiKo科隆纪录片",
@@ -1016,31 +820,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1099721,
+      "hot_value": 1200503,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E8%87%AA%E5%88%B6NiKo%E7%A7%91%E9%9A%86%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
         "UP自制NiKo科隆纪录片"
       ],
+      "rank": 19,
+      "movie_rank": 9
+    },
+    {
+      "title": "李金铭农村综艺那家人居然还在发她",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 525666,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B1%85%E7%84%B6%E8%BF%98%E5%9C%A8%E5%8F%91%E5%A5%B9"
+      },
+      "raw_titles": [
+        "李金铭农村综艺那家人居然还在发她"
+      ],
       "rank": 21,
       "movie_rank": 10
     },
     {
-      "title": "综艺天才厨人 全是狠活",
+      "title": "白玉兰预测",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 721685,
+      "hot_value": 525655,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%BC%E8%89%BA%E5%A4%A9%E6%89%8D%E5%8E%A8%E4%BA%BA%20%E5%85%A8%E6%98%AF%E7%8B%A0%E6%B4%BB"
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%84%E6%B5%8B"
       },
       "raw_titles": [
-        "综艺天才厨人 全是狠活"
+        "白玉兰预测"
       ],
-      "rank": 24,
+      "rank": 22,
       "movie_rank": 11
+    },
+    {
+      "title": "张凌赫女主",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 411247,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A5%B3%E4%B8%BB"
+      },
+      "raw_titles": [
+        "张凌赫女主"
+      ],
+      "rank": 23,
+      "movie_rank": 12
     },
     {
       "title": "肖战工作室全平台维权",
@@ -1048,47 +884,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 397419,
+      "hot_value": 219360,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%BB%B4%E6%9D%83"
       },
       "raw_titles": [
         "肖战工作室全平台维权"
       ],
-      "rank": 26,
-      "movie_rank": 12
-    },
-    {
-      "title": "白鹿超迪丽热巴角色热度登顶",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 311325,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E8%B6%85%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%A7%92%E8%89%B2%E7%83%AD%E5%BA%A6%E7%99%BB%E9%A1%B6"
-      },
-      "raw_titles": [
-        "白鹿超迪丽热巴角色热度登顶"
-      ],
-      "rank": 27,
+      "rank": 25,
       "movie_rank": 13
-    },
-    {
-      "title": "千台演唱会神器将空降周杰伦现场",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 287610,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8D%83%E5%8F%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%9E%E5%99%A8%E5%B0%86%E7%A9%BA%E9%99%8D%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%B0%E5%9C%BA"
-      },
-      "raw_titles": [
-        "千台演唱会神器将空降周杰伦现场"
-      ],
-      "rank": 29,
-      "movie_rank": 14
     },
     {
       "title": "周星驰新电影《功夫女足》7月上映",
@@ -1096,63 +900,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 261000,
+      "hot_value": 99000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B7%E6%9C%88%E4%B8%8A%E6%98%A0&sa=fyb_news"
       },
       "raw_titles": [
         "周星驰新电影《功夫女足》7月上映"
       ],
-      "rank": 31,
-      "movie_rank": 15
-    },
-    {
-      "title": "终于看到新鲜的王一博了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 239347,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9C%8B%E5%88%B0%E6%96%B0%E9%B2%9C%E7%9A%84%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%86"
-      },
-      "raw_titles": [
-        "终于看到新鲜的王一博了"
-      ],
-      "rank": 32,
-      "movie_rank": 16
-    },
-    {
-      "title": "白玉兰官宣启用金橙评分",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 191240,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E5%AE%98%E5%AE%A3%E5%90%AF%E7%94%A8%E9%87%91%E6%A9%99%E8%AF%84%E5%88%86"
-      },
-      "raw_titles": [
-        "白玉兰官宣启用金橙评分"
-      ],
-      "rank": 33,
-      "movie_rank": 17
-    },
-    {
-      "title": "斗破苍穹双帝之战首曝",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 188354,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E9%A6%96%E6%9B%9D"
-      },
-      "raw_titles": [
-        "斗破苍穹双帝之战首曝"
-      ],
-      "rank": 34,
-      "movie_rank": 18
+      "rank": 28,
+      "movie_rank": 14
     }
   ]
 }
