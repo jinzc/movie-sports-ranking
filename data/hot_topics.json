@@ -1,27 +1,60 @@
 {
-  "update_time": "2026-06-25 03:00:55",
-  "total": 33,
-  "sports_count": 21,
+  "update_time": "2026-06-25 04:00:53",
+  "total": 32,
+  "sports_count": 20,
   "movie_count": 14,
   "all": [
+    {
+      "title": "用AI小卡应援世界杯",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8179339,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "用AI小卡应援世界杯"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "C罗梅开二度",
       "category": "体育",
       "sources": [
         "抖音",
-        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 8322717,
+      "hot_value": 8109683,
       "urls": {
         "抖音": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%E6%89%93%E7%A2%8E%E8%B4%A8%E7%96%91"
       },
       "raw_titles": [
         "C罗梅开二度"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "C罗连续六届世界杯进球",
+      "category": "体育",
+      "sources": [
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 8002723,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E8%BF%9E%E7%BB%AD%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%BF%9E%E7%BB%AD6%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%93%E5%85%A5%E8%BF%9B%E7%90%83"
+      },
+      "raw_titles": [
+        "C罗连续六届世界杯进球"
+      ],
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "NBA2026选秀大会重要结果汇总",
@@ -29,48 +62,16 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7947841,
+      "hot_value": 7889039,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA2026%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A%E9%87%8D%E8%A6%81%E7%BB%93%E6%9E%9C%E6%B1%87%E6%80%BB"
       },
       "raw_titles": [
         "NBA2026选秀大会重要结果汇总"
       ],
-      "rank": 2,
-      "sports_rank": 2,
-      "movie_rank": 1
-    },
-    {
-      "title": "陪C罗再Siu一次",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7759225,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1"
-      },
-      "raw_titles": [
-        "陪C罗再Siu一次"
-      ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "C罗的魔性贯口也来了",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7738798,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E7%9A%84%E9%AD%94%E6%80%A7%E8%B4%AF%E5%8F%A3%E4%B9%9F%E6%9D%A5%E4%BA%86"
-      },
-      "raw_titles": [
-        "C罗的魔性贯口也来了"
-      ],
       "rank": 4,
-      "sports_rank": 4
+      "sports_rank": 4,
+      "movie_rank": 1
     },
     {
       "title": "英格兰队该去请哈利波特了",
@@ -78,7 +79,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7712854,
+      "hot_value": 7787136,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E8%AF%A5%E5%8E%BB%E8%AF%B7%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%BA%86"
       },
@@ -89,20 +90,52 @@
       "movie_rank": 2
     },
     {
+      "title": "C罗的魔性贯口也来了",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7770781,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E7%9A%84%E9%AD%94%E6%80%A7%E8%B4%AF%E5%8F%A3%E4%B9%9F%E6%9D%A5%E4%BA%86"
+      },
+      "raw_titles": [
+        "C罗的魔性贯口也来了"
+      ],
+      "rank": 6,
+      "sports_rank": 5
+    },
+    {
+      "title": "陪C罗再Siu一次",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7699915,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1"
+      },
+      "raw_titles": [
+        "陪C罗再Siu一次"
+      ],
+      "rank": 7,
+      "sports_rank": 6
+    },
+    {
       "title": "哈兰德为什么那么火",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7685682,
+      "hot_value": 7695724,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E7%81%AB"
       },
       "raw_titles": [
         "哈兰德为什么那么火"
       ],
-      "rank": 6,
-      "sports_rank": 5
+      "rank": 8,
+      "sports_rank": 7
     },
     {
       "title": "亲眼见证C罗进球是什么体验",
@@ -110,47 +143,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7660979,
+      "hot_value": 7689415,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BA%B2%E7%9C%BC%E8%A7%81%E8%AF%81C%E7%BD%97%E8%BF%9B%E7%90%83%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C"
       },
       "raw_titles": [
         "亲眼见证C罗进球是什么体验"
       ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "用AI小卡应援世界杯",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7645391,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "用AI小卡应援世界杯"
-      ],
-      "rank": 8,
-      "sports_rank": 7
-    },
-    {
-      "title": "看海还是看檀健次",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7641096,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%9C%8B%E6%B5%B7%E8%BF%98%E6%98%AF%E7%9C%8B%E6%AA%80%E5%81%A5%E6%AC%A1"
-      },
-      "raw_titles": [
-        "看海还是看檀健次"
-      ],
       "rank": 9,
-      "movie_rank": 3
+      "sports_rank": 8
     },
     {
       "title": "“神秘的东方力量”再现世界杯赛场",
@@ -166,40 +167,7 @@
         "“神秘的东方力量”再现世界杯赛场"
       ],
       "rank": 10,
-      "sports_rank": 8
-    },
-    {
-      "title": "黑袍纠察队但是京剧版",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 412875,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E4%BD%86%E6%98%AF%E4%BA%AC%E5%89%A7%E7%89%88"
-      },
-      "raw_titles": [
-        "黑袍纠察队但是京剧版"
-      ],
-      "rank": 11,
-      "movie_rank": 4
-    },
-    {
-      "title": "2026NBA选秀首轮总结",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 410497,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026NBA%E9%80%89%E7%A7%80%E9%A6%96%E8%BD%AE%E6%80%BB%E7%BB%93"
-      },
-      "raw_titles": [
-        "2026NBA选秀首轮总结"
-      ],
-      "rank": 12,
-      "sports_rank": 9,
-      "movie_rank": 5
+      "sports_rank": 9
     },
     {
       "title": "世界杯：瑞士vs加拿大",
@@ -214,7 +182,7 @@
       "raw_titles": [
         "世界杯：瑞士vs加拿大"
       ],
-      "rank": 13,
+      "rank": 11,
       "sports_rank": 10
     },
     {
@@ -230,40 +198,8 @@
       "raw_titles": [
         "世界杯：波黑vs卡塔尔"
       ],
-      "rank": 14,
+      "rank": 12,
       "sports_rank": 11
-    },
-    {
-      "title": "释放阿凡达实机预告",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 368401,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%87%8A%E6%94%BE%E9%98%BF%E5%87%A1%E8%BE%BE%E5%AE%9E%E6%9C%BA%E9%A2%84%E5%91%8A"
-      },
-      "raw_titles": [
-        "释放阿凡达实机预告"
-      ],
-      "rank": 15,
-      "movie_rank": 6
-    },
-    {
-      "title": "从16岁起我的愿望就是和你一起夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 347852,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8E16%E5%B2%81%E8%B5%B7%E6%88%91%E7%9A%84%E6%84%BF%E6%9C%9B%E5%B0%B1%E6%98%AF%E5%92%8C%E4%BD%A0%E4%B8%80%E8%B5%B7%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "从16岁起我的愿望就是和你一起夺冠"
-      ],
-      "rank": 16,
-      "sports_rank": 12
     },
     {
       "title": "范志毅心疼C罗：蛮心酸的",
@@ -278,24 +214,24 @@
       "raw_titles": [
         "范志毅心疼C罗：蛮心酸的"
       ],
-      "rank": 17,
-      "sports_rank": 13
+      "rank": 13,
+      "sports_rank": 12
     },
     {
-      "title": "C罗连续6届世界杯打入进球",
-      "category": "体育",
+      "title": "黑袍纠察队但是京剧版",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 318775,
+      "hot_value": 307426,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%BF%9E%E7%BB%AD6%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%93%E5%85%A5%E8%BF%9B%E7%90%83"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E4%BD%86%E6%98%AF%E4%BA%AC%E5%89%A7%E7%89%88"
       },
       "raw_titles": [
-        "C罗连续6届世界杯打入进球"
+        "黑袍纠察队但是京剧版"
       ],
-      "rank": 18,
-      "sports_rank": 14
+      "rank": 14,
+      "movie_rank": 3
     },
     {
       "title": "世界杯正在变成一道数学题",
@@ -303,15 +239,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 315000,
+      "hot_value": 306000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E5%9C%A8%E5%8F%98%E6%88%90%E4%B8%80%E9%81%93%E6%95%B0%E5%AD%A6%E9%A2%98&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯正在变成一道数学题"
       ],
-      "rank": 19,
-      "sports_rank": 15
+      "rank": 15,
+      "sports_rank": 13
     },
     {
       "title": "郑钦文1-2遭陶森逆转",
@@ -326,40 +262,41 @@
       "raw_titles": [
         "郑钦文1-2遭陶森逆转"
       ],
-      "rank": 20,
+      "rank": 16,
+      "sports_rank": 14
+    },
+    {
+      "title": "2026NBA选秀首轮总结",
+      "category": "综合",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 276593,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026NBA%E9%80%89%E7%A7%80%E9%A6%96%E8%BD%AE%E6%80%BB%E7%BB%93"
+      },
+      "raw_titles": [
+        "2026NBA选秀首轮总结"
+      ],
+      "rank": 17,
+      "sports_rank": 15,
+      "movie_rank": 4
+    },
+    {
+      "title": "从16岁起我的愿望就是和你一起夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 276517,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8E16%E5%B2%81%E8%B5%B7%E6%88%91%E7%9A%84%E6%84%BF%E6%9C%9B%E5%B0%B1%E6%98%AF%E5%92%8C%E4%BD%A0%E4%B8%80%E8%B5%B7%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "从16岁起我的愿望就是和你一起夺冠"
+      ],
+      "rank": 18,
       "sports_rank": 16
-    },
-    {
-      "title": "猎鹰夺冠庆功宴belike",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 268483,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0%E5%BA%86%E5%8A%9F%E5%AE%B4belike"
-      },
-      "raw_titles": [
-        "猎鹰夺冠庆功宴belike"
-      ],
-      "rank": 21,
-      "sports_rank": 17
-    },
-    {
-      "title": "C罗成为葡萄牙世界杯射手王",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 231488,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%88%90%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B"
-      },
-      "raw_titles": [
-        "C罗成为葡萄牙世界杯射手王"
-      ],
-      "rank": 22,
-      "sports_rank": 18
     },
     {
       "title": "41岁的C罗 迟来的“双响”",
@@ -367,14 +304,62 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 198000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=41%E5%B2%81%E7%9A%84C%E7%BD%97+%E8%BF%9F%E6%9D%A5%E7%9A%84%E2%80%9C%E5%8F%8C%E5%93%8D%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
         "41岁的C罗 迟来的“双响”"
       ],
-      "rank": 23,
+      "rank": 19,
+      "sports_rank": 17
+    },
+    {
+      "title": "释放阿凡达实机预告",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 217246,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%87%8A%E6%94%BE%E9%98%BF%E5%87%A1%E8%BE%BE%E5%AE%9E%E6%9C%BA%E9%A2%84%E5%91%8A"
+      },
+      "raw_titles": [
+        "释放阿凡达实机预告"
+      ],
+      "rank": 20,
+      "movie_rank": 5
+    },
+    {
+      "title": "猎鹰夺冠庆功宴belike",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 214428,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0%E5%BA%86%E5%8A%9F%E5%AE%B4belike"
+      },
+      "raw_titles": [
+        "猎鹰夺冠庆功宴belike"
+      ],
+      "rank": 21,
+      "sports_rank": 18
+    },
+    {
+      "title": "C罗成为葡萄牙世界杯射手王",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 179354,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%88%90%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B"
+      },
+      "raw_titles": [
+        "C罗成为葡萄牙世界杯射手王"
+      ],
+      "rank": 22,
       "sports_rank": 19
     },
     {
@@ -383,31 +368,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 153000,
+      "hot_value": 162000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%92%9E%E8%84%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%88%9E%E7%8B%AE%E5%B0%8F%E4%BC%99%E5%8F%91%E5%A3%B0%EF%BC%9A%E4%B8%8D%E4%BC%9A%E6%A8%A1%E4%BB%BF&sa=fyb_news"
       },
       "raw_titles": [
         "撞脸易烊千玺舞狮小伙发声：不会模仿"
       ],
-      "rank": 24,
-      "movie_rank": 7
+      "rank": 23,
+      "movie_rank": 6
     },
     {
-      "title": "江山大同 杨幂",
+      "title": "刘学义杨幂胡军领衔主演",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 70687,
+      "hot_value": 54153,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B1%9F%E5%B1%B1%E5%A4%A7%E5%90%8C%20%E6%9D%A8%E5%B9%82"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E6%9D%A8%E5%B9%82%E8%83%A1%E5%86%9B%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94"
       },
       "raw_titles": [
-        "江山大同 杨幂"
+        "刘学义杨幂胡军领衔主演"
       ],
-      "rank": 25,
-      "movie_rank": 8
+      "rank": 24,
+      "movie_rank": 7
     },
     {
       "title": "恋与深空一意孤行只会自损口碑",
@@ -415,12 +400,28 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70633,
+      "hot_value": 41166,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E5%8F%AA%E4%BC%9A%E8%87%AA%E6%8D%9F%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "恋与深空一意孤行只会自损口碑"
+      ],
+      "rank": 25,
+      "movie_rank": 8
+    },
+    {
+      "title": "江山大同 杨幂",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 40896,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B1%9F%E5%B1%B1%E5%A4%A7%E5%90%8C%20%E6%9D%A8%E5%B9%82"
+      },
+      "raw_titles": [
+        "江山大同 杨幂"
       ],
       "rank": 26,
       "movie_rank": 9
@@ -431,7 +432,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70580,
+      "hot_value": 37616,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB%E5%A5%B3%E6%96%B9%E7%A6%BB%E8%81%8C%E7%94%B7%E5%A4%8D%E5%87%BA"
       },
@@ -447,7 +448,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70516,
+      "hot_value": 37615,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%9E%97%E5%85%81%E8%BF%99%E4%B8%A4%E5%BC%A0%E8%84%B8%E8%B5%A2%E9%BA%BB%E4%BA%86"
       },
@@ -463,7 +464,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70495,
+      "hot_value": 37604,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%B1%E7%AE%97%E4%B8%8D%E5%96%9C%E6%AC%A2%E4%B9%9F%E6%B2%A1%E5%85%B3%E7%B3%BB"
       },
@@ -474,20 +475,36 @@
       "movie_rank": 11
     },
     {
+      "title": "张凌赫归鸾一滴泪镜头",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 37587,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BD%92%E9%B8%BE%E4%B8%80%E6%BB%B4%E6%B3%AA%E9%95%9C%E5%A4%B4"
+      },
+      "raw_titles": [
+        "张凌赫归鸾一滴泪镜头"
+      ],
+      "rank": 30,
+      "movie_rank": 12
+    },
+    {
       "title": "三体2官宣",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 70471,
+      "hot_value": 37565,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%BD%932%E5%AE%98%E5%AE%A3"
       },
       "raw_titles": [
         "三体2官宣"
       ],
-      "rank": 30,
-      "movie_rank": 12
+      "rank": 31,
+      "movie_rank": 13
     },
     {
       "title": "侯明昊歌手 归零",
@@ -495,68 +512,69 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70439,
+      "hot_value": 37555,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E6%AD%8C%E6%89%8B%20%E5%BD%92%E9%9B%B6"
       },
       "raw_titles": [
         "侯明昊歌手 归零"
       ],
-      "rank": 31,
-      "movie_rank": 13
-    },
-    {
-      "title": "刘学义杨幂胡军领衔主演",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70428,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E6%9D%A8%E5%B9%82%E8%83%A1%E5%86%9B%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94"
-      },
-      "raw_titles": [
-        "刘学义杨幂胡军领衔主演"
-      ],
       "rank": 32,
       "movie_rank": 14
-    },
-    {
-      "title": "原来游泳减肥容易变成带鱼身材",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70389,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%B8%B8%E6%B3%B3%E5%87%8F%E8%82%A5%E5%AE%B9%E6%98%93%E5%8F%98%E6%88%90%E5%B8%A6%E9%B1%BC%E8%BA%AB%E6%9D%90"
-      },
-      "raw_titles": [
-        "原来游泳减肥容易变成带鱼身材"
-      ],
-      "rank": 33,
-      "sports_rank": 21
     }
   ],
   "sports": [
+    {
+      "title": "用AI小卡应援世界杯",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8179339,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "用AI小卡应援世界杯"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "C罗梅开二度",
       "category": "体育",
       "sources": [
         "抖音",
-        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 8322717,
+      "hot_value": 8109683,
       "urls": {
         "抖音": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%E6%89%93%E7%A2%8E%E8%B4%A8%E7%96%91"
       },
       "raw_titles": [
         "C罗梅开二度"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "C罗连续六届世界杯进球",
+      "category": "体育",
+      "sources": [
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 8002723,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E8%BF%9E%E7%BB%AD%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%BF%9E%E7%BB%AD6%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%93%E5%85%A5%E8%BF%9B%E7%90%83"
+      },
+      "raw_titles": [
+        "C罗连续六届世界杯进球"
+      ],
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "NBA2026选秀大会重要结果汇总",
@@ -564,32 +582,16 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7947841,
+      "hot_value": 7889039,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA2026%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A%E9%87%8D%E8%A6%81%E7%BB%93%E6%9E%9C%E6%B1%87%E6%80%BB"
       },
       "raw_titles": [
         "NBA2026选秀大会重要结果汇总"
       ],
-      "rank": 2,
-      "sports_rank": 2,
+      "rank": 4,
+      "sports_rank": 4,
       "movie_rank": 1
-    },
-    {
-      "title": "陪C罗再Siu一次",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7759225,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1"
-      },
-      "raw_titles": [
-        "陪C罗再Siu一次"
-      ],
-      "rank": 3,
-      "sports_rank": 3
     },
     {
       "title": "C罗的魔性贯口也来了",
@@ -597,15 +599,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7738798,
+      "hot_value": 7770781,
       "urls": {
         "抖音": "https://www.douyin.com/search/C%E7%BD%97%E7%9A%84%E9%AD%94%E6%80%A7%E8%B4%AF%E5%8F%A3%E4%B9%9F%E6%9D%A5%E4%BA%86"
       },
       "raw_titles": [
         "C罗的魔性贯口也来了"
       ],
-      "rank": 4,
-      "sports_rank": 4
+      "rank": 6,
+      "sports_rank": 5
+    },
+    {
+      "title": "陪C罗再Siu一次",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7699915,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1"
+      },
+      "raw_titles": [
+        "陪C罗再Siu一次"
+      ],
+      "rank": 7,
+      "sports_rank": 6
     },
     {
       "title": "哈兰德为什么那么火",
@@ -613,15 +631,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7685682,
+      "hot_value": 7695724,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E7%81%AB"
       },
       "raw_titles": [
         "哈兰德为什么那么火"
       ],
-      "rank": 6,
-      "sports_rank": 5
+      "rank": 8,
+      "sports_rank": 7
     },
     {
       "title": "亲眼见证C罗进球是什么体验",
@@ -629,31 +647,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7660979,
+      "hot_value": 7689415,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BA%B2%E7%9C%BC%E8%A7%81%E8%AF%81C%E7%BD%97%E8%BF%9B%E7%90%83%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C"
       },
       "raw_titles": [
         "亲眼见证C罗进球是什么体验"
       ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "用AI小卡应援世界杯",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7645391,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "用AI小卡应援世界杯"
-      ],
-      "rank": 8,
-      "sports_rank": 7
+      "rank": 9,
+      "sports_rank": 8
     },
     {
       "title": "“神秘的东方力量”再现世界杯赛场",
@@ -669,24 +671,7 @@
         "“神秘的东方力量”再现世界杯赛场"
       ],
       "rank": 10,
-      "sports_rank": 8
-    },
-    {
-      "title": "2026NBA选秀首轮总结",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 410497,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026NBA%E9%80%89%E7%A7%80%E9%A6%96%E8%BD%AE%E6%80%BB%E7%BB%93"
-      },
-      "raw_titles": [
-        "2026NBA选秀首轮总结"
-      ],
-      "rank": 12,
-      "sports_rank": 9,
-      "movie_rank": 5
+      "sports_rank": 9
     },
     {
       "title": "世界杯：瑞士vs加拿大",
@@ -701,7 +686,7 @@
       "raw_titles": [
         "世界杯：瑞士vs加拿大"
       ],
-      "rank": 13,
+      "rank": 11,
       "sports_rank": 10
     },
     {
@@ -717,24 +702,8 @@
       "raw_titles": [
         "世界杯：波黑vs卡塔尔"
       ],
-      "rank": 14,
+      "rank": 12,
       "sports_rank": 11
-    },
-    {
-      "title": "从16岁起我的愿望就是和你一起夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 347852,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8E16%E5%B2%81%E8%B5%B7%E6%88%91%E7%9A%84%E6%84%BF%E6%9C%9B%E5%B0%B1%E6%98%AF%E5%92%8C%E4%BD%A0%E4%B8%80%E8%B5%B7%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "从16岁起我的愿望就是和你一起夺冠"
-      ],
-      "rank": 16,
-      "sports_rank": 12
     },
     {
       "title": "范志毅心疼C罗：蛮心酸的",
@@ -749,24 +718,8 @@
       "raw_titles": [
         "范志毅心疼C罗：蛮心酸的"
       ],
-      "rank": 17,
-      "sports_rank": 13
-    },
-    {
-      "title": "C罗连续6届世界杯打入进球",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 318775,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%BF%9E%E7%BB%AD6%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%93%E5%85%A5%E8%BF%9B%E7%90%83"
-      },
-      "raw_titles": [
-        "C罗连续6届世界杯打入进球"
-      ],
-      "rank": 18,
-      "sports_rank": 14
+      "rank": 13,
+      "sports_rank": 12
     },
     {
       "title": "世界杯正在变成一道数学题",
@@ -774,15 +727,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 315000,
+      "hot_value": 306000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E5%9C%A8%E5%8F%98%E6%88%90%E4%B8%80%E9%81%93%E6%95%B0%E5%AD%A6%E9%A2%98&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯正在变成一道数学题"
       ],
-      "rank": 19,
-      "sports_rank": 15
+      "rank": 15,
+      "sports_rank": 13
     },
     {
       "title": "郑钦文1-2遭陶森逆转",
@@ -797,40 +750,41 @@
       "raw_titles": [
         "郑钦文1-2遭陶森逆转"
       ],
-      "rank": 20,
+      "rank": 16,
+      "sports_rank": 14
+    },
+    {
+      "title": "2026NBA选秀首轮总结",
+      "category": "综合",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 276593,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026NBA%E9%80%89%E7%A7%80%E9%A6%96%E8%BD%AE%E6%80%BB%E7%BB%93"
+      },
+      "raw_titles": [
+        "2026NBA选秀首轮总结"
+      ],
+      "rank": 17,
+      "sports_rank": 15,
+      "movie_rank": 4
+    },
+    {
+      "title": "从16岁起我的愿望就是和你一起夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 276517,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8E16%E5%B2%81%E8%B5%B7%E6%88%91%E7%9A%84%E6%84%BF%E6%9C%9B%E5%B0%B1%E6%98%AF%E5%92%8C%E4%BD%A0%E4%B8%80%E8%B5%B7%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "从16岁起我的愿望就是和你一起夺冠"
+      ],
+      "rank": 18,
       "sports_rank": 16
-    },
-    {
-      "title": "猎鹰夺冠庆功宴belike",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 268483,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0%E5%BA%86%E5%8A%9F%E5%AE%B4belike"
-      },
-      "raw_titles": [
-        "猎鹰夺冠庆功宴belike"
-      ],
-      "rank": 21,
-      "sports_rank": 17
-    },
-    {
-      "title": "C罗成为葡萄牙世界杯射手王",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 231488,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%88%90%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B"
-      },
-      "raw_titles": [
-        "C罗成为葡萄牙世界杯射手王"
-      ],
-      "rank": 22,
-      "sports_rank": 18
     },
     {
       "title": "41岁的C罗 迟来的“双响”",
@@ -838,14 +792,46 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 198000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=41%E5%B2%81%E7%9A%84C%E7%BD%97+%E8%BF%9F%E6%9D%A5%E7%9A%84%E2%80%9C%E5%8F%8C%E5%93%8D%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
         "41岁的C罗 迟来的“双响”"
       ],
-      "rank": 23,
+      "rank": 19,
+      "sports_rank": 17
+    },
+    {
+      "title": "猎鹰夺冠庆功宴belike",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 214428,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%A4%BA%E5%86%A0%E5%BA%86%E5%8A%9F%E5%AE%B4belike"
+      },
+      "raw_titles": [
+        "猎鹰夺冠庆功宴belike"
+      ],
+      "rank": 21,
+      "sports_rank": 18
+    },
+    {
+      "title": "C罗成为葡萄牙世界杯射手王",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 179354,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%88%90%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B"
+      },
+      "raw_titles": [
+        "C罗成为葡萄牙世界杯射手王"
+      ],
+      "rank": 22,
       "sports_rank": 19
     },
     {
@@ -854,7 +840,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70580,
+      "hot_value": 37616,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB%E5%A5%B3%E6%96%B9%E7%A6%BB%E8%81%8C%E7%94%B7%E5%A4%8D%E5%87%BA"
       },
@@ -863,22 +849,6 @@
       ],
       "rank": 27,
       "sports_rank": 20
-    },
-    {
-      "title": "原来游泳减肥容易变成带鱼身材",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70389,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%B8%B8%E6%B3%B3%E5%87%8F%E8%82%A5%E5%AE%B9%E6%98%93%E5%8F%98%E6%88%90%E5%B8%A6%E9%B1%BC%E8%BA%AB%E6%9D%90"
-      },
-      "raw_titles": [
-        "原来游泳减肥容易变成带鱼身材"
-      ],
-      "rank": 33,
-      "sports_rank": 21
     }
   ],
   "movies": [
@@ -888,15 +858,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7947841,
+      "hot_value": 7889039,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA2026%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A%E9%87%8D%E8%A6%81%E7%BB%93%E6%9E%9C%E6%B1%87%E6%80%BB"
       },
       "raw_titles": [
         "NBA2026选秀大会重要结果汇总"
       ],
-      "rank": 2,
-      "sports_rank": 2,
+      "rank": 4,
+      "sports_rank": 4,
       "movie_rank": 1
     },
     {
@@ -905,7 +875,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7712854,
+      "hot_value": 7787136,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E8%AF%A5%E5%8E%BB%E8%AF%B7%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%BA%86"
       },
@@ -916,36 +886,20 @@
       "movie_rank": 2
     },
     {
-      "title": "看海还是看檀健次",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7641096,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%9C%8B%E6%B5%B7%E8%BF%98%E6%98%AF%E7%9C%8B%E6%AA%80%E5%81%A5%E6%AC%A1"
-      },
-      "raw_titles": [
-        "看海还是看檀健次"
-      ],
-      "rank": 9,
-      "movie_rank": 3
-    },
-    {
       "title": "黑袍纠察队但是京剧版",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 412875,
+      "hot_value": 307426,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E4%BD%86%E6%98%AF%E4%BA%AC%E5%89%A7%E7%89%88"
       },
       "raw_titles": [
         "黑袍纠察队但是京剧版"
       ],
-      "rank": 11,
-      "movie_rank": 4
+      "rank": 14,
+      "movie_rank": 3
     },
     {
       "title": "2026NBA选秀首轮总结",
@@ -953,16 +907,16 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 410497,
+      "hot_value": 276593,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026NBA%E9%80%89%E7%A7%80%E9%A6%96%E8%BD%AE%E6%80%BB%E7%BB%93"
       },
       "raw_titles": [
         "2026NBA选秀首轮总结"
       ],
-      "rank": 12,
-      "sports_rank": 9,
-      "movie_rank": 5
+      "rank": 17,
+      "sports_rank": 15,
+      "movie_rank": 4
     },
     {
       "title": "释放阿凡达实机预告",
@@ -970,15 +924,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 368401,
+      "hot_value": 217246,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%87%8A%E6%94%BE%E9%98%BF%E5%87%A1%E8%BE%BE%E5%AE%9E%E6%9C%BA%E9%A2%84%E5%91%8A"
       },
       "raw_titles": [
         "释放阿凡达实机预告"
       ],
-      "rank": 15,
-      "movie_rank": 6
+      "rank": 20,
+      "movie_rank": 5
     },
     {
       "title": "撞脸易烊千玺舞狮小伙发声：不会模仿",
@@ -986,31 +940,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 153000,
+      "hot_value": 162000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%92%9E%E8%84%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%88%9E%E7%8B%AE%E5%B0%8F%E4%BC%99%E5%8F%91%E5%A3%B0%EF%BC%9A%E4%B8%8D%E4%BC%9A%E6%A8%A1%E4%BB%BF&sa=fyb_news"
       },
       "raw_titles": [
         "撞脸易烊千玺舞狮小伙发声：不会模仿"
       ],
-      "rank": 24,
-      "movie_rank": 7
+      "rank": 23,
+      "movie_rank": 6
     },
     {
-      "title": "江山大同 杨幂",
+      "title": "刘学义杨幂胡军领衔主演",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 70687,
+      "hot_value": 54153,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B1%9F%E5%B1%B1%E5%A4%A7%E5%90%8C%20%E6%9D%A8%E5%B9%82"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E6%9D%A8%E5%B9%82%E8%83%A1%E5%86%9B%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94"
       },
       "raw_titles": [
-        "江山大同 杨幂"
+        "刘学义杨幂胡军领衔主演"
       ],
-      "rank": 25,
-      "movie_rank": 8
+      "rank": 24,
+      "movie_rank": 7
     },
     {
       "title": "恋与深空一意孤行只会自损口碑",
@@ -1018,12 +972,28 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70633,
+      "hot_value": 41166,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E5%8F%AA%E4%BC%9A%E8%87%AA%E6%8D%9F%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "恋与深空一意孤行只会自损口碑"
+      ],
+      "rank": 25,
+      "movie_rank": 8
+    },
+    {
+      "title": "江山大同 杨幂",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 40896,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B1%9F%E5%B1%B1%E5%A4%A7%E5%90%8C%20%E6%9D%A8%E5%B9%82"
+      },
+      "raw_titles": [
+        "江山大同 杨幂"
       ],
       "rank": 26,
       "movie_rank": 9
@@ -1034,7 +1004,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70516,
+      "hot_value": 37615,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%9E%97%E5%85%81%E8%BF%99%E4%B8%A4%E5%BC%A0%E8%84%B8%E8%B5%A2%E9%BA%BB%E4%BA%86"
       },
@@ -1050,7 +1020,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70495,
+      "hot_value": 37604,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%B1%E7%AE%97%E4%B8%8D%E5%96%9C%E6%AC%A2%E4%B9%9F%E6%B2%A1%E5%85%B3%E7%B3%BB"
       },
@@ -1061,20 +1031,36 @@
       "movie_rank": 11
     },
     {
+      "title": "张凌赫归鸾一滴泪镜头",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 37587,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BD%92%E9%B8%BE%E4%B8%80%E6%BB%B4%E6%B3%AA%E9%95%9C%E5%A4%B4"
+      },
+      "raw_titles": [
+        "张凌赫归鸾一滴泪镜头"
+      ],
+      "rank": 30,
+      "movie_rank": 12
+    },
+    {
       "title": "三体2官宣",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 70471,
+      "hot_value": 37565,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%BD%932%E5%AE%98%E5%AE%A3"
       },
       "raw_titles": [
         "三体2官宣"
       ],
-      "rank": 30,
-      "movie_rank": 12
+      "rank": 31,
+      "movie_rank": 13
     },
     {
       "title": "侯明昊歌手 归零",
@@ -1082,28 +1068,12 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70439,
+      "hot_value": 37555,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E6%AD%8C%E6%89%8B%20%E5%BD%92%E9%9B%B6"
       },
       "raw_titles": [
         "侯明昊歌手 归零"
-      ],
-      "rank": 31,
-      "movie_rank": 13
-    },
-    {
-      "title": "刘学义杨幂胡军领衔主演",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70428,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E6%9D%A8%E5%B9%82%E8%83%A1%E5%86%9B%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94"
-      },
-      "raw_titles": [
-        "刘学义杨幂胡军领衔主演"
       ],
       "rank": 32,
       "movie_rank": 14
