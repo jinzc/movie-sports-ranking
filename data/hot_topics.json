@@ -1,90 +1,24 @@
 {
-  "update_time": "2026-06-28 00:00:47",
-  "total": 36,
-  "sports_count": 20,
+  "update_time": "2026-06-28 01:00:50",
+  "total": 35,
+  "sports_count": 18,
   "movie_count": 21,
   "all": [
-    {
-      "title": "F1",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "抖音"
-      ],
-      "hot_value": 8288618,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=F1",
-        "抖音": "https://www.douyin.com/search/F1%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%B8%80%E7%BB%83%E7%AE%80%E6%8A%A5"
-      },
-      "raw_titles": [
-        "F1"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "陈妤颉全国冠军赛百米夺冠",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7962003,
+      "hot_value": 8757442,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%89%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B%E8%B5%9B%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "陈妤颉全国冠军赛百米夺冠"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "周杰伦北京鸟巢演唱会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7801982,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8C%97%E4%BA%AC%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "周杰伦北京鸟巢演唱会"
-      ],
-      "rank": 3,
-      "movie_rank": 1
-    },
-    {
-      "title": "吴艳妮女子100米栏夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7780752,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "吴艳妮女子100米栏夺冠"
-      ],
-      "rank": 4,
-      "sports_rank": 3
-    },
-    {
-      "title": "我喜欢的漫画被AI改编了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7772569,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%BC%AB%E7%94%BB%E8%A2%ABAI%E6%94%B9%E7%BC%96%E4%BA%86"
-      },
-      "raw_titles": [
-        "我喜欢的漫画被AI改编了"
-      ],
-      "rank": 5,
-      "movie_rank": 2
+      "rank": 1,
+      "sports_rank": 1
     },
     {
       "title": "韦世豪读秒绝杀上演梅开二度",
@@ -92,47 +26,63 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7758223,
+      "hot_value": 7753493,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%9F%A6%E4%B8%96%E8%B1%AA%E8%AF%BB%E7%A7%92%E7%BB%9D%E6%9D%80%E4%B8%8A%E6%BC%94%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6"
       },
       "raw_titles": [
         "韦世豪读秒绝杀上演梅开二度"
       ],
-      "rank": 6,
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "李荣浩呼和浩特演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7742944,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "李荣浩呼和浩特演唱会"
+      ],
+      "rank": 3,
+      "movie_rank": 1
+    },
+    {
+      "title": "中超重庆铜梁龙1:0天津津门虎",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7740852,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E9%BE%991%3A0%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E"
+      },
+      "raw_titles": [
+        "中超重庆铜梁龙1:0天津津门虎"
+      ],
+      "rank": 4,
+      "sports_rank": 3
+    },
+    {
+      "title": "吴艳妮女子100米栏夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7710055,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "吴艳妮女子100米栏夺冠"
+      ],
+      "rank": 5,
       "sports_rank": 4
-    },
-    {
-      "title": "中超山东泰山5:1辽宁铁人",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7736896,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B15%3A1%E8%BE%BD%E5%AE%81%E9%93%81%E4%BA%BA"
-      },
-      "raw_titles": [
-        "中超山东泰山5:1辽宁铁人"
-      ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "哈兰德霸气走路模仿大赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7733105,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E9%9C%B8%E6%B0%94%E8%B5%B0%E8%B7%AF%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B"
-      },
-      "raw_titles": [
-        "哈兰德霸气走路模仿大赛"
-      ],
-      "rank": 8,
-      "sports_rank": 6
     },
     {
       "title": "杨紫获奖对长期主义者的一种激励",
@@ -140,47 +90,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7731385,
+      "hot_value": 7709115,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E8%8E%B7%E5%A5%96%E5%AF%B9%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E4%B8%80%E7%A7%8D%E6%BF%80%E5%8A%B1"
       },
       "raw_titles": [
         "杨紫获奖对长期主义者的一种激励"
       ],
-      "rank": 9,
-      "movie_rank": 3
-    },
-    {
-      "title": "生命树白玉兰2项获奖",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7727359,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%9F%E5%91%BD%E6%A0%91%E7%99%BD%E7%8E%89%E5%85%B02%E9%A1%B9%E8%8E%B7%E5%A5%96"
-      },
-      "raw_titles": [
-        "生命树白玉兰2项获奖"
-      ],
-      "rank": 10,
-      "movie_rank": 4
-    },
-    {
-      "title": "任素汐在白玉兰现场留下一句话",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7713437,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%9C%A8%E7%99%BD%E7%8E%89%E5%85%B0%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%80%E5%8F%A5%E8%AF%9D"
-      },
-      "raw_titles": [
-        "任素汐在白玉兰现场留下一句话"
-      ],
-      "rank": 11,
-      "movie_rank": 5
+      "rank": 6,
+      "movie_rank": 2
     },
     {
       "title": "电影抓特务里的意难平",
@@ -188,15 +106,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7700812,
+      "hot_value": 7703707,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E9%87%8C%E7%9A%84%E6%84%8F%E9%9A%BE%E5%B9%B3"
       },
       "raw_titles": [
         "电影抓特务里的意难平"
       ],
-      "rank": 12,
-      "movie_rank": 6
+      "rank": 7,
+      "movie_rank": 3
+    },
+    {
+      "title": "任素汐在白玉兰现场留下一句话",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7694698,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%9C%A8%E7%99%BD%E7%8E%89%E5%85%B0%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%80%E5%8F%A5%E8%AF%9D"
+      },
+      "raw_titles": [
+        "任素汐在白玉兰现场留下一句话"
+      ],
+      "rank": 8,
+      "movie_rank": 4
     },
     {
       "title": "佛得角世界杯首秀小组出线",
@@ -204,15 +138,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7691118,
+      "hot_value": 7693639,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF"
       },
       "raw_titles": [
         "佛得角世界杯首秀小组出线"
       ],
-      "rank": 13,
-      "sports_rank": 7
+      "rank": 9,
+      "sports_rank": 5
+    },
+    {
+      "title": "生命树白玉兰2项获奖",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7685380,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%9F%E5%91%BD%E6%A0%91%E7%99%BD%E7%8E%89%E5%85%B02%E9%A1%B9%E8%8E%B7%E5%A5%96"
+      },
+      "raw_titles": [
+        "生命树白玉兰2项获奖"
+      ],
+      "rank": 10,
+      "movie_rank": 5
+    },
+    {
+      "title": "哈兰德霸气走路模仿大赛",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7679079,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E9%9C%B8%E6%B0%94%E8%B5%B0%E8%B7%AF%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B"
+      },
+      "raw_titles": [
+        "哈兰德霸气走路模仿大赛"
+      ],
+      "rank": 11,
+      "sports_rank": 6
     },
     {
       "title": "立体猫猫头咖啡拉花可爱到犯规",
@@ -220,49 +186,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7681578,
+      "hot_value": 7668247,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AB%8B%E4%BD%93%E7%8C%AB%E7%8C%AB%E5%A4%B4%E5%92%96%E5%95%A1%E6%8B%89%E8%8A%B1%E5%8F%AF%E7%88%B1%E5%88%B0%E7%8A%AF%E8%A7%84"
       },
       "raw_titles": [
         "立体猫猫头咖啡拉花可爱到犯规"
       ],
-      "rank": 14,
-      "sports_rank": 8
+      "rank": 12,
+      "sports_rank": 7
     },
     {
-      "title": "浪姐成团名单",
+      "title": "我喜欢的漫画被AI改编了",
       "category": "影视",
       "sources": [
-        "微博",
-        "百度"
+        "抖音"
       ],
-      "hot_value": 6236581,
+      "hot_value": 7667953,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95",
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89&sa=fyb_news"
+        "抖音": "https://www.douyin.com/search/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%BC%AB%E7%94%BB%E8%A2%ABAI%E6%94%B9%E7%BC%96%E4%BA%86"
       },
       "raw_titles": [
-        "浪姐成团名单"
+        "我喜欢的漫画被AI改编了"
       ],
-      "rank": 15,
-      "movie_rank": 7
-    },
-    {
-      "title": "国青U17世界杯首战告捷",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 2373470,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%9D%92U17%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98%E5%91%8A%E6%8D%B7"
-      },
-      "raw_titles": [
-        "国青U17世界杯首战告捷"
-      ],
-      "rank": 16,
-      "sports_rank": 9
+      "rank": 13,
+      "movie_rank": 6
     },
     {
       "title": "蔡依林封后",
@@ -271,7 +219,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 2277312,
+      "hot_value": 3217901,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%B0%81%E5%90%8E",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%94%A1%E4%BE%9D%E6%9E%97%E4%BA%8C%E5%B0%81%E9%87%91%E6%9B%B2%E5%A5%96%E6%AD%8C%E5%90%8E"
@@ -279,8 +227,45 @@
       "raw_titles": [
         "蔡依林封后"
       ],
-      "rank": 17,
+      "rank": 14,
+      "movie_rank": 7
+    },
+    {
+      "title": "浪姐成团名单",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 2221883,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95",
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89&sa=fyb_news"
+      },
+      "raw_titles": [
+        "浪姐成团名单"
+      ],
+      "rank": 15,
       "movie_rank": 8
+    },
+    {
+      "title": "浪姐总决赛",
+      "category": "综合",
+      "sources": [
+        "微博",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1759909,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E6%80%BB%E5%86%B3%E8%B5%9B%E9%94%90%E8%AF%84"
+      },
+      "raw_titles": [
+        "浪姐总决赛"
+      ],
+      "rank": 16,
+      "sports_rank": 8,
+      "movie_rank": 9
     },
     {
       "title": "世界杯H组迎来出线大结局",
@@ -288,32 +273,16 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1026376,
+      "hot_value": 951317,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AFH%E7%BB%84%E8%BF%8E%E6%9D%A5%E5%87%BA%E7%BA%BF%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "世界杯H组迎来出线大结局"
       ],
-      "rank": 18,
-      "sports_rank": 10,
-      "movie_rank": 9
-    },
-    {
-      "title": "中国人造太阳取得重要突破",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 981710,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E5%8F%96%E5%BE%97%E9%87%8D%E8%A6%81%E7%AA%81%E7%A0%B4"
-      },
-      "raw_titles": [
-        "中国人造太阳取得重要突破"
-      ],
-      "rank": 19,
-      "sports_rank": 11
+      "rank": 17,
+      "sports_rank": 9,
+      "movie_rank": 10
     },
     {
       "title": "佛得角如何通过世界杯走向世界",
@@ -321,31 +290,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 981705,
+      "hot_value": 917420,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C"
       },
       "raw_titles": [
         "佛得角如何通过世界杯走向世界"
       ],
-      "rank": 20,
-      "sports_rank": 12
-    },
-    {
-      "title": "第31届白玉兰获奖名单",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 981690,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC31%E5%B1%8A%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
-      },
-      "raw_titles": [
-        "第31届白玉兰获奖名单"
-      ],
-      "rank": 21,
-      "movie_rank": 10
+      "rank": 18,
+      "sports_rank": 10
     },
     {
       "title": "凡人修仙传180集逐帧解析",
@@ -353,15 +306,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 981678,
+      "hot_value": 917416,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0180%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
         "凡人修仙传180集逐帧解析"
       ],
-      "rank": 22,
+      "rank": 19,
       "movie_rank": 11
+    },
+    {
+      "title": "中国人造太阳取得重要突破",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 917409,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E5%8F%96%E5%BE%97%E9%87%8D%E8%A6%81%E7%AA%81%E7%A0%B4"
+      },
+      "raw_titles": [
+        "中国人造太阳取得重要突破"
+      ],
+      "rank": 20,
+      "sports_rank": 11
+    },
+    {
+      "title": "第31届白玉兰获奖名单",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 917405,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC31%E5%B1%8A%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
+      },
+      "raw_titles": [
+        "第31届白玉兰获奖名单"
+      ],
+      "rank": 21,
+      "movie_rank": 12
+    },
+    {
+      "title": "浪姐决赛远走高飞全员乐队",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 917402,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E5%86%B3%E8%B5%9B%E8%BF%9C%E8%B5%B0%E9%AB%98%E9%A3%9E%E5%85%A8%E5%91%98%E4%B9%90%E9%98%9F"
+      },
+      "raw_titles": [
+        "浪姐决赛远走高飞全员乐队"
+      ],
+      "rank": 22,
+      "movie_rank": 13
+    },
+    {
+      "title": "于和伟 白玉兰视帝",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 917391,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%B8%9D"
+      },
+      "raw_titles": [
+        "于和伟 白玉兰视帝"
+      ],
+      "rank": 23,
+      "movie_rank": 14
     },
     {
       "title": "吴艳妮12秒99夺冠",
@@ -369,31 +386,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 739185,
+      "hot_value": 440835,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E8%89%B3%E5%A6%AE12%E7%A7%9299%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "吴艳妮12秒99夺冠"
       ],
-      "rank": 23,
-      "sports_rank": 13
-    },
-    {
-      "title": "浪姐排名",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 644792,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%8E%92%E5%90%8D"
-      },
-      "raw_titles": [
-        "浪姐排名"
-      ],
       "rank": 24,
-      "movie_rank": 12
+      "sports_rank": 12
     },
     {
       "title": "吴艳妮全国冠军赛夺冠 莫家蝶摔倒",
@@ -409,7 +410,7 @@
         "吴艳妮全国冠军赛夺冠 莫家蝶摔倒"
       ],
       "rank": 25,
-      "sports_rank": 14
+      "sports_rank": 13
     },
     {
       "title": "曾沛慈获《浪姐》年度总冠军",
@@ -425,23 +426,7 @@
         "曾沛慈获《浪姐》年度总冠军"
       ],
       "rank": 26,
-      "movie_rank": 13
-    },
-    {
-      "title": "巴黎极端高温一日超50人死亡",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 387000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E9%BB%8E%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E4%B8%80%E6%97%A5%E8%B6%8550%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "巴黎极端高温一日超50人死亡"
-      ],
-      "rank": 27,
-      "sports_rank": 15
+      "movie_rank": 15
     },
     {
       "title": "世界杯32强已定28席",
@@ -449,15 +434,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 378000,
+      "hot_value": 387000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%B7%B2%E5%AE%9A28%E5%B8%AD&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯32强已定28席"
       ],
+      "rank": 27,
+      "sports_rank": 14
+    },
+    {
+      "title": "巴黎极端高温一日超50人死亡",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 351000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E9%BB%8E%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E4%B8%80%E6%97%A5%E8%B6%8550%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
+      },
+      "raw_titles": [
+        "巴黎极端高温一日超50人死亡"
+      ],
       "rank": 28,
-      "sports_rank": 16
+      "sports_rank": 15
     },
     {
       "title": "杨紫粉底液",
@@ -465,7 +466,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 357283,
+      "hot_value": 253733,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%B2%89%E5%BA%95%E6%B6%B2"
       },
@@ -473,89 +474,7 @@
         "杨紫粉底液"
       ],
       "rank": 29,
-      "movie_rank": 14
-    },
-    {
-      "title": "浪姐总决赛",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 354456,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "浪姐总决赛"
-      ],
-      "rank": 30,
-      "sports_rank": 17,
-      "movie_rank": 15
-    },
-    {
-      "title": "浪姐台下都在喊陈瑶",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 354084,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%8F%B0%E4%B8%8B%E9%83%BD%E5%9C%A8%E5%96%8A%E9%99%88%E7%91%B6"
-      },
-      "raw_titles": [
-        "浪姐台下都在喊陈瑶"
-      ],
-      "rank": 31,
       "movie_rank": 16
-    },
-    {
-      "title": "黄觉镜头里的肖战",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 353486,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E8%A7%89%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E8%82%96%E6%88%98"
-      },
-      "raw_titles": [
-        "黄觉镜头里的肖战"
-      ],
-      "rank": 32,
-      "movie_rank": 17
-    },
-    {
-      "title": "金曲奖获奖名单",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 353349,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
-      },
-      "raw_titles": [
-        "金曲奖获奖名单"
-      ],
-      "rank": 33,
-      "movie_rank": 18
-    },
-    {
-      "title": "肖战棕色棒球帽",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 350649,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%A3%95%E8%89%B2%E6%A3%92%E7%90%83%E5%B8%BD"
-      },
-      "raw_titles": [
-        "肖战棕色棒球帽"
-      ],
-      "rank": 34,
-      "sports_rank": 18,
-      "movie_rank": 19
     },
     {
       "title": "《浪姐》总决赛依旧难听",
@@ -563,16 +482,64 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 252000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E4%BE%9D%E6%97%A7%E9%9A%BE%E5%90%AC&sa=fyb_news"
       },
       "raw_titles": [
         "《浪姐》总决赛依旧难听"
       ],
-      "rank": 35,
-      "sports_rank": 19,
-      "movie_rank": 20
+      "rank": 30,
+      "sports_rank": 16,
+      "movie_rank": 17
+    },
+    {
+      "title": "浪姐排名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 247282,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "浪姐排名"
+      ],
+      "rank": 31,
+      "movie_rank": 18
+    },
+    {
+      "title": "金曲奖获奖名单",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 217997,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
+      },
+      "raw_titles": [
+        "金曲奖获奖名单"
+      ],
+      "rank": 32,
+      "movie_rank": 19
+    },
+    {
+      "title": "F1",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 179652,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=F1"
+      },
+      "raw_titles": [
+        "F1"
+      ],
+      "rank": 33,
+      "sports_rank": 17
     },
     {
       "title": "《浪姐》总决赛直播阚清子睡着了",
@@ -587,61 +554,43 @@
       "raw_titles": [
         "《浪姐》总决赛直播阚清子睡着了"
       ],
-      "rank": 36,
-      "sports_rank": 20,
+      "rank": 34,
+      "sports_rank": 18,
+      "movie_rank": 20
+    },
+    {
+      "title": "杨紫琼现身武汉暖心拥抱观众",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E7%90%BC%E7%8E%B0%E8%BA%AB%E6%AD%A6%E6%B1%89%E6%9A%96%E5%BF%83%E6%8B%A5%E6%8A%B1%E8%A7%82%E4%BC%97&sa=fyb_news"
+      },
+      "raw_titles": [
+        "杨紫琼现身武汉暖心拥抱观众"
+      ],
+      "rank": 35,
       "movie_rank": 21
     }
   ],
   "sports": [
     {
-      "title": "F1",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "抖音"
-      ],
-      "hot_value": 8288618,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=F1",
-        "抖音": "https://www.douyin.com/search/F1%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%B8%80%E7%BB%83%E7%AE%80%E6%8A%A5"
-      },
-      "raw_titles": [
-        "F1"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
       "title": "陈妤颉全国冠军赛百米夺冠",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7962003,
+      "hot_value": 8757442,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%89%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B%E8%B5%9B%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "陈妤颉全国冠军赛百米夺冠"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "吴艳妮女子100米栏夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7780752,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "吴艳妮女子100米栏夺冠"
-      ],
-      "rank": 4,
-      "sports_rank": 3
+      "rank": 1,
+      "sports_rank": 1
     },
     {
       "title": "韦世豪读秒绝杀上演梅开二度",
@@ -649,30 +598,62 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7758223,
+      "hot_value": 7753493,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%9F%A6%E4%B8%96%E8%B1%AA%E8%AF%BB%E7%A7%92%E7%BB%9D%E6%9D%80%E4%B8%8A%E6%BC%94%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6"
       },
       "raw_titles": [
         "韦世豪读秒绝杀上演梅开二度"
       ],
-      "rank": 6,
-      "sports_rank": 4
+      "rank": 2,
+      "sports_rank": 2
     },
     {
-      "title": "中超山东泰山5:1辽宁铁人",
+      "title": "中超重庆铜梁龙1:0天津津门虎",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7736896,
+      "hot_value": 7740852,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B15%3A1%E8%BE%BD%E5%AE%81%E9%93%81%E4%BA%BA"
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E9%BE%991%3A0%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E"
       },
       "raw_titles": [
-        "中超山东泰山5:1辽宁铁人"
+        "中超重庆铜梁龙1:0天津津门虎"
       ],
-      "rank": 7,
+      "rank": 4,
+      "sports_rank": 3
+    },
+    {
+      "title": "吴艳妮女子100米栏夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7710055,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "吴艳妮女子100米栏夺冠"
+      ],
+      "rank": 5,
+      "sports_rank": 4
+    },
+    {
+      "title": "佛得角世界杯首秀小组出线",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7693639,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF"
+      },
+      "raw_titles": [
+        "佛得角世界杯首秀小组出线"
+      ],
+      "rank": 9,
       "sports_rank": 5
     },
     {
@@ -681,31 +662,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7733105,
+      "hot_value": 7679079,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E9%9C%B8%E6%B0%94%E8%B5%B0%E8%B7%AF%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B"
       },
       "raw_titles": [
         "哈兰德霸气走路模仿大赛"
       ],
-      "rank": 8,
+      "rank": 11,
       "sports_rank": 6
-    },
-    {
-      "title": "佛得角世界杯首秀小组出线",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7691118,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF"
-      },
-      "raw_titles": [
-        "佛得角世界杯首秀小组出线"
-      ],
-      "rank": 13,
-      "sports_rank": 7
     },
     {
       "title": "立体猫猫头咖啡拉花可爱到犯规",
@@ -713,31 +678,34 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7681578,
+      "hot_value": 7668247,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AB%8B%E4%BD%93%E7%8C%AB%E7%8C%AB%E5%A4%B4%E5%92%96%E5%95%A1%E6%8B%89%E8%8A%B1%E5%8F%AF%E7%88%B1%E5%88%B0%E7%8A%AF%E8%A7%84"
       },
       "raw_titles": [
         "立体猫猫头咖啡拉花可爱到犯规"
       ],
-      "rank": 14,
-      "sports_rank": 8
+      "rank": 12,
+      "sports_rank": 7
     },
     {
-      "title": "国青U17世界杯首战告捷",
-      "category": "体育",
+      "title": "浪姐总决赛",
+      "category": "综合",
       "sources": [
+        "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 2373470,
+      "hot_value": 1759909,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%9D%92U17%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98%E5%91%8A%E6%8D%B7"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E6%80%BB%E5%86%B3%E8%B5%9B%E9%94%90%E8%AF%84"
       },
       "raw_titles": [
-        "国青U17世界杯首战告捷"
+        "浪姐总决赛"
       ],
       "rank": 16,
-      "sports_rank": 9
+      "sports_rank": 8,
+      "movie_rank": 9
     },
     {
       "title": "世界杯H组迎来出线大结局",
@@ -745,32 +713,16 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1026376,
+      "hot_value": 951317,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AFH%E7%BB%84%E8%BF%8E%E6%9D%A5%E5%87%BA%E7%BA%BF%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "世界杯H组迎来出线大结局"
       ],
-      "rank": 18,
-      "sports_rank": 10,
-      "movie_rank": 9
-    },
-    {
-      "title": "中国人造太阳取得重要突破",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 981710,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E5%8F%96%E5%BE%97%E9%87%8D%E8%A6%81%E7%AA%81%E7%A0%B4"
-      },
-      "raw_titles": [
-        "中国人造太阳取得重要突破"
-      ],
-      "rank": 19,
-      "sports_rank": 11
+      "rank": 17,
+      "sports_rank": 9,
+      "movie_rank": 10
     },
     {
       "title": "佛得角如何通过世界杯走向世界",
@@ -778,15 +730,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 981705,
+      "hot_value": 917420,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C"
       },
       "raw_titles": [
         "佛得角如何通过世界杯走向世界"
       ],
+      "rank": 18,
+      "sports_rank": 10
+    },
+    {
+      "title": "中国人造太阳取得重要突破",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 917409,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E5%8F%96%E5%BE%97%E9%87%8D%E8%A6%81%E7%AA%81%E7%A0%B4"
+      },
+      "raw_titles": [
+        "中国人造太阳取得重要突破"
+      ],
       "rank": 20,
-      "sports_rank": 12
+      "sports_rank": 11
     },
     {
       "title": "吴艳妮12秒99夺冠",
@@ -794,15 +762,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 739185,
+      "hot_value": 440835,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E8%89%B3%E5%A6%AE12%E7%A7%9299%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "吴艳妮12秒99夺冠"
       ],
-      "rank": 23,
-      "sports_rank": 13
+      "rank": 24,
+      "sports_rank": 12
     },
     {
       "title": "吴艳妮全国冠军赛夺冠 莫家蝶摔倒",
@@ -818,6 +786,22 @@
         "吴艳妮全国冠军赛夺冠 莫家蝶摔倒"
       ],
       "rank": 25,
+      "sports_rank": 13
+    },
+    {
+      "title": "世界杯32强已定28席",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 387000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%B7%B2%E5%AE%9A28%E5%B8%AD&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯32强已定28席"
+      ],
+      "rank": 27,
       "sports_rank": 14
     },
     {
@@ -826,65 +810,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 387000,
+      "hot_value": 351000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E9%BB%8E%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E4%B8%80%E6%97%A5%E8%B6%8550%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
       },
       "raw_titles": [
         "巴黎极端高温一日超50人死亡"
       ],
-      "rank": 27,
-      "sports_rank": 15
-    },
-    {
-      "title": "世界杯32强已定28席",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 378000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%B7%B2%E5%AE%9A28%E5%B8%AD&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯32强已定28席"
-      ],
       "rank": 28,
-      "sports_rank": 16
-    },
-    {
-      "title": "浪姐总决赛",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 354456,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "浪姐总决赛"
-      ],
-      "rank": 30,
-      "sports_rank": 17,
-      "movie_rank": 15
-    },
-    {
-      "title": "肖战棕色棒球帽",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 350649,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%A3%95%E8%89%B2%E6%A3%92%E7%90%83%E5%B8%BD"
-      },
-      "raw_titles": [
-        "肖战棕色棒球帽"
-      ],
-      "rank": 34,
-      "sports_rank": 18,
-      "movie_rank": 19
+      "sports_rank": 15
     },
     {
       "title": "《浪姐》总决赛依旧难听",
@@ -892,16 +826,32 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 252000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E4%BE%9D%E6%97%A7%E9%9A%BE%E5%90%AC&sa=fyb_news"
       },
       "raw_titles": [
         "《浪姐》总决赛依旧难听"
       ],
-      "rank": 35,
-      "sports_rank": 19,
-      "movie_rank": 20
+      "rank": 30,
+      "sports_rank": 16,
+      "movie_rank": 17
+    },
+    {
+      "title": "F1",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 179652,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=F1"
+      },
+      "raw_titles": [
+        "F1"
+      ],
+      "rank": 33,
+      "sports_rank": 17
     },
     {
       "title": "《浪姐》总决赛直播阚清子睡着了",
@@ -916,43 +866,27 @@
       "raw_titles": [
         "《浪姐》总决赛直播阚清子睡着了"
       ],
-      "rank": 36,
-      "sports_rank": 20,
-      "movie_rank": 21
+      "rank": 34,
+      "sports_rank": 18,
+      "movie_rank": 20
     }
   ],
   "movies": [
     {
-      "title": "周杰伦北京鸟巢演唱会",
+      "title": "李荣浩呼和浩特演唱会",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7801982,
+      "hot_value": 7742944,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8C%97%E4%BA%AC%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A"
+        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
-        "周杰伦北京鸟巢演唱会"
+        "李荣浩呼和浩特演唱会"
       ],
       "rank": 3,
       "movie_rank": 1
-    },
-    {
-      "title": "我喜欢的漫画被AI改编了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7772569,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%BC%AB%E7%94%BB%E8%A2%ABAI%E6%94%B9%E7%BC%96%E4%BA%86"
-      },
-      "raw_titles": [
-        "我喜欢的漫画被AI改编了"
-      ],
-      "rank": 5,
-      "movie_rank": 2
     },
     {
       "title": "杨紫获奖对长期主义者的一种激励",
@@ -960,47 +894,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7731385,
+      "hot_value": 7709115,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E8%8E%B7%E5%A5%96%E5%AF%B9%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E4%B8%80%E7%A7%8D%E6%BF%80%E5%8A%B1"
       },
       "raw_titles": [
         "杨紫获奖对长期主义者的一种激励"
       ],
-      "rank": 9,
-      "movie_rank": 3
-    },
-    {
-      "title": "生命树白玉兰2项获奖",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7727359,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%9F%E5%91%BD%E6%A0%91%E7%99%BD%E7%8E%89%E5%85%B02%E9%A1%B9%E8%8E%B7%E5%A5%96"
-      },
-      "raw_titles": [
-        "生命树白玉兰2项获奖"
-      ],
-      "rank": 10,
-      "movie_rank": 4
-    },
-    {
-      "title": "任素汐在白玉兰现场留下一句话",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7713437,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%9C%A8%E7%99%BD%E7%8E%89%E5%85%B0%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%80%E5%8F%A5%E8%AF%9D"
-      },
-      "raw_titles": [
-        "任素汐在白玉兰现场留下一句话"
-      ],
-      "rank": 11,
-      "movie_rank": 5
+      "rank": 6,
+      "movie_rank": 2
     },
     {
       "title": "电影抓特务里的意难平",
@@ -1008,33 +910,63 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7700812,
+      "hot_value": 7703707,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E9%87%8C%E7%9A%84%E6%84%8F%E9%9A%BE%E5%B9%B3"
       },
       "raw_titles": [
         "电影抓特务里的意难平"
       ],
-      "rank": 12,
-      "movie_rank": 6
+      "rank": 7,
+      "movie_rank": 3
     },
     {
-      "title": "浪姐成团名单",
+      "title": "任素汐在白玉兰现场留下一句话",
       "category": "影视",
       "sources": [
-        "微博",
-        "百度"
+        "抖音"
       ],
-      "hot_value": 6236581,
+      "hot_value": 7694698,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95",
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89&sa=fyb_news"
+        "抖音": "https://www.douyin.com/search/%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%9C%A8%E7%99%BD%E7%8E%89%E5%85%B0%E7%8E%B0%E5%9C%BA%E7%95%99%E4%B8%8B%E4%B8%80%E5%8F%A5%E8%AF%9D"
       },
       "raw_titles": [
-        "浪姐成团名单"
+        "任素汐在白玉兰现场留下一句话"
       ],
-      "rank": 15,
-      "movie_rank": 7
+      "rank": 8,
+      "movie_rank": 4
+    },
+    {
+      "title": "生命树白玉兰2项获奖",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7685380,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%9F%E5%91%BD%E6%A0%91%E7%99%BD%E7%8E%89%E5%85%B02%E9%A1%B9%E8%8E%B7%E5%A5%96"
+      },
+      "raw_titles": [
+        "生命树白玉兰2项获奖"
+      ],
+      "rank": 10,
+      "movie_rank": 5
+    },
+    {
+      "title": "我喜欢的漫画被AI改编了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7667953,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%BC%AB%E7%94%BB%E8%A2%ABAI%E6%94%B9%E7%BC%96%E4%BA%86"
+      },
+      "raw_titles": [
+        "我喜欢的漫画被AI改编了"
+      ],
+      "rank": 13,
+      "movie_rank": 6
     },
     {
       "title": "蔡依林封后",
@@ -1043,7 +975,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 2277312,
+      "hot_value": 3217901,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%B0%81%E5%90%8E",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%94%A1%E4%BE%9D%E6%9E%97%E4%BA%8C%E5%B0%81%E9%87%91%E6%9B%B2%E5%A5%96%E6%AD%8C%E5%90%8E"
@@ -1051,8 +983,45 @@
       "raw_titles": [
         "蔡依林封后"
       ],
-      "rank": 17,
+      "rank": 14,
+      "movie_rank": 7
+    },
+    {
+      "title": "浪姐成团名单",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 2221883,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95",
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89&sa=fyb_news"
+      },
+      "raw_titles": [
+        "浪姐成团名单"
+      ],
+      "rank": 15,
       "movie_rank": 8
+    },
+    {
+      "title": "浪姐总决赛",
+      "category": "综合",
+      "sources": [
+        "微博",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1759909,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E6%80%BB%E5%86%B3%E8%B5%9B%E9%94%90%E8%AF%84"
+      },
+      "raw_titles": [
+        "浪姐总决赛"
+      ],
+      "rank": 16,
+      "sports_rank": 8,
+      "movie_rank": 9
     },
     {
       "title": "世界杯H组迎来出线大结局",
@@ -1060,31 +1029,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1026376,
+      "hot_value": 951317,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AFH%E7%BB%84%E8%BF%8E%E6%9D%A5%E5%87%BA%E7%BA%BF%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "世界杯H组迎来出线大结局"
       ],
-      "rank": 18,
-      "sports_rank": 10,
-      "movie_rank": 9
-    },
-    {
-      "title": "第31届白玉兰获奖名单",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 981690,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC31%E5%B1%8A%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
-      },
-      "raw_titles": [
-        "第31届白玉兰获奖名单"
-      ],
-      "rank": 21,
+      "rank": 17,
+      "sports_rank": 9,
       "movie_rank": 10
     },
     {
@@ -1093,31 +1046,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 981678,
+      "hot_value": 917416,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0180%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
         "凡人修仙传180集逐帧解析"
       ],
-      "rank": 22,
+      "rank": 19,
       "movie_rank": 11
     },
     {
-      "title": "浪姐排名",
+      "title": "第31届白玉兰获奖名单",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 644792,
+      "hot_value": 917405,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%8E%92%E5%90%8D"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC31%E5%B1%8A%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
       },
       "raw_titles": [
-        "浪姐排名"
+        "第31届白玉兰获奖名单"
       ],
-      "rank": 24,
+      "rank": 21,
       "movie_rank": 12
+    },
+    {
+      "title": "浪姐决赛远走高飞全员乐队",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 917402,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E5%86%B3%E8%B5%9B%E8%BF%9C%E8%B5%B0%E9%AB%98%E9%A3%9E%E5%85%A8%E5%91%98%E4%B9%90%E9%98%9F"
+      },
+      "raw_titles": [
+        "浪姐决赛远走高飞全员乐队"
+      ],
+      "rank": 22,
+      "movie_rank": 13
+    },
+    {
+      "title": "于和伟 白玉兰视帝",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 917391,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%B8%9D"
+      },
+      "raw_titles": [
+        "于和伟 白玉兰视帝"
+      ],
+      "rank": 23,
+      "movie_rank": 14
     },
     {
       "title": "曾沛慈获《浪姐》年度总冠军",
@@ -1133,7 +1118,7 @@
         "曾沛慈获《浪姐》年度总冠军"
       ],
       "rank": 26,
-      "movie_rank": 13
+      "movie_rank": 15
     },
     {
       "title": "杨紫粉底液",
@@ -1141,7 +1126,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 357283,
+      "hot_value": 253733,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%B2%89%E5%BA%95%E6%B6%B2"
       },
@@ -1149,89 +1134,7 @@
         "杨紫粉底液"
       ],
       "rank": 29,
-      "movie_rank": 14
-    },
-    {
-      "title": "浪姐总决赛",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 354456,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "浪姐总决赛"
-      ],
-      "rank": 30,
-      "sports_rank": 17,
-      "movie_rank": 15
-    },
-    {
-      "title": "浪姐台下都在喊陈瑶",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 354084,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%8F%B0%E4%B8%8B%E9%83%BD%E5%9C%A8%E5%96%8A%E9%99%88%E7%91%B6"
-      },
-      "raw_titles": [
-        "浪姐台下都在喊陈瑶"
-      ],
-      "rank": 31,
       "movie_rank": 16
-    },
-    {
-      "title": "黄觉镜头里的肖战",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 353486,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E8%A7%89%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E8%82%96%E6%88%98"
-      },
-      "raw_titles": [
-        "黄觉镜头里的肖战"
-      ],
-      "rank": 32,
-      "movie_rank": 17
-    },
-    {
-      "title": "金曲奖获奖名单",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 353349,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
-      },
-      "raw_titles": [
-        "金曲奖获奖名单"
-      ],
-      "rank": 33,
-      "movie_rank": 18
-    },
-    {
-      "title": "肖战棕色棒球帽",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 350649,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%A3%95%E8%89%B2%E6%A3%92%E7%90%83%E5%B8%BD"
-      },
-      "raw_titles": [
-        "肖战棕色棒球帽"
-      ],
-      "rank": 34,
-      "sports_rank": 18,
-      "movie_rank": 19
     },
     {
       "title": "《浪姐》总决赛依旧难听",
@@ -1239,16 +1142,48 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 252000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E4%BE%9D%E6%97%A7%E9%9A%BE%E5%90%AC&sa=fyb_news"
       },
       "raw_titles": [
         "《浪姐》总决赛依旧难听"
       ],
-      "rank": 35,
-      "sports_rank": 19,
-      "movie_rank": 20
+      "rank": 30,
+      "sports_rank": 16,
+      "movie_rank": 17
+    },
+    {
+      "title": "浪姐排名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 247282,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "浪姐排名"
+      ],
+      "rank": 31,
+      "movie_rank": 18
+    },
+    {
+      "title": "金曲奖获奖名单",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 217997,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
+      },
+      "raw_titles": [
+        "金曲奖获奖名单"
+      ],
+      "rank": 32,
+      "movie_rank": 19
     },
     {
       "title": "《浪姐》总决赛直播阚清子睡着了",
@@ -1263,8 +1198,24 @@
       "raw_titles": [
         "《浪姐》总决赛直播阚清子睡着了"
       ],
-      "rank": 36,
-      "sports_rank": 20,
+      "rank": 34,
+      "sports_rank": 18,
+      "movie_rank": 20
+    },
+    {
+      "title": "杨紫琼现身武汉暖心拥抱观众",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E7%90%BC%E7%8E%B0%E8%BA%AB%E6%AD%A6%E6%B1%89%E6%9A%96%E5%BF%83%E6%8B%A5%E6%8A%B1%E8%A7%82%E4%BC%97&sa=fyb_news"
+      },
+      "raw_titles": [
+        "杨紫琼现身武汉暖心拥抱观众"
+      ],
+      "rank": 35,
       "movie_rank": 21
     }
   ]
