@@ -1,25 +1,9 @@
 {
-  "update_time": "2026-06-28 18:00:48",
-  "total": 38,
-  "sports_count": 28,
-  "movie_count": 13,
+  "update_time": "2026-06-28 19:00:49",
+  "total": 44,
+  "sports_count": 31,
+  "movie_count": 15,
   "all": [
-    {
-      "title": "王冰冰解读世界杯",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 13190327,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E8%A7%A3%E8%AF%BB%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "王冰冰解读世界杯"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "世界杯淘汰赛首轮对阵全部出炉",
       "category": "体育",
@@ -27,13 +11,29 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12162712,
+      "hot_value": 11372650,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89"
       },
       "raw_titles": [
         "世界杯淘汰赛首轮对阵全部出炉"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "王冰冰解读世界杯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 11191840,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E8%A7%A3%E8%AF%BB%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "王冰冰解读世界杯"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -45,7 +45,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 11150578,
+      "hot_value": 10513389,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E9%81%AD%E6%B7%98%E6%B1%B0"
@@ -57,35 +57,19 @@
       "sports_rank": 3
     },
     {
-      "title": "伊朗无缘世界杯32强",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9204454,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA"
-      },
-      "raw_titles": [
-        "伊朗无缘世界杯32强"
-      ],
-      "rank": 4,
-      "sports_rank": 4
-    },
-    {
       "title": "我喜欢的漫画被AI改编了",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9176055,
+      "hot_value": 9177092,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%BC%AB%E7%94%BB%E8%A2%ABAI%E6%94%B9%E7%BC%96%E4%BA%86"
       },
       "raw_titles": [
         "我喜欢的漫画被AI改编了"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 1
     },
     {
@@ -94,31 +78,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9072109,
+      "hot_value": 9174650,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%B9%B4%E9%95%BF%E5%8A%A9%E6%94%BB%E7%90%83%E5%91%98"
       },
       "raw_titles": [
         "莫德里奇成世界杯最年长助攻球员"
       ],
-      "rank": 6,
-      "sports_rank": 5
-    },
-    {
-      "title": "哈兰德发抖音回顾小组赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9020197,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%91%E6%8A%96%E9%9F%B3%E5%9B%9E%E9%A1%BE%E5%B0%8F%E7%BB%84%E8%B5%9B"
-      },
-      "raw_titles": [
-        "哈兰德发抖音回顾小组赛"
-      ],
-      "rank": 7,
-      "sports_rank": 6
+      "rank": 5,
+      "sports_rank": 4
     },
     {
       "title": "哈兰德去找姆巴佩了",
@@ -126,67 +94,65 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8881466,
+      "hot_value": 8645889,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8E%BB%E6%89%BE%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%86"
       },
       "raw_titles": [
         "哈兰德去找姆巴佩了"
       ],
-      "rank": 8,
-      "sports_rank": 7
+      "rank": 6,
+      "sports_rank": 5
     },
     {
       "title": "世界杯32强全名单",
       "category": "体育",
       "sources": [
         "微博",
-        "百度",
         "抖音"
       ],
-      "hot_value": 8731564,
+      "hot_value": 7913399,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E5%90%8D%E5%8D%95",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E9%83%A8%E4%BA%A7%E7%94%9F"
       },
       "raw_titles": [
         "世界杯32强全名单"
       ],
-      "rank": 9,
-      "sports_rank": 8
+      "rank": 7,
+      "sports_rank": 6
     },
     {
-      "title": "杨紫歌声与微笑全国文旅巡唱",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7817182,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E6%AD%8C%E5%A3%B0%E4%B8%8E%E5%BE%AE%E7%AC%91%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%B7%A1%E5%94%B1"
-      },
-      "raw_titles": [
-        "杨紫歌声与微笑全国文旅巡唱"
-      ],
-      "rank": 10,
-      "movie_rank": 2
-    },
-    {
-      "title": "吴珈庆夺冠后发抖音",
+      "title": "伊朗无缘世界杯32强",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7760993,
+      "hot_value": 7843955,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%8F%88%E5%BA%86%E5%A4%BA%E5%86%A0%E5%90%8E%E5%8F%91%E6%8A%96%E9%9F%B3"
+        "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA"
       },
       "raw_titles": [
-        "吴珈庆夺冠后发抖音"
+        "伊朗无缘世界杯32强"
       ],
-      "rank": 11,
-      "sports_rank": 9
+      "rank": 8,
+      "sports_rank": 7
+    },
+    {
+      "title": "马宁将亮相世界杯淘汰赛",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7777131,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E5%B0%86%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B"
+      },
+      "raw_titles": [
+        "马宁将亮相世界杯淘汰赛"
+      ],
+      "rank": 9,
+      "sports_rank": 8
     },
     {
       "title": "电影抓特务里了不起的女性",
@@ -194,47 +160,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7723445,
+      "hot_value": 7776176,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E9%87%8C%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%A5%B3%E6%80%A7"
       },
       "raw_titles": [
         "电影抓特务里了不起的女性"
       ],
-      "rank": 12,
+      "rank": 10,
+      "movie_rank": 2
+    },
+    {
+      "title": "杨紫歌声与微笑全国文旅巡唱",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7769990,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E6%AD%8C%E5%A3%B0%E4%B8%8E%E5%BE%AE%E7%AC%91%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%B7%A1%E5%94%B1"
+      },
+      "raw_titles": [
+        "杨紫歌声与微笑全国文旅巡唱"
+      ],
+      "rank": 11,
       "movie_rank": 3
-    },
-    {
-      "title": "吴艳妮女子100米栏夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7682409,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "吴艳妮女子100米栏夺冠"
-      ],
-      "rank": 13,
-      "sports_rank": 10
-    },
-    {
-      "title": "立体猫猫头咖啡拉花可爱到犯规",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7678958,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%AB%8B%E4%BD%93%E7%8C%AB%E7%8C%AB%E5%A4%B4%E5%92%96%E5%95%A1%E6%8B%89%E8%8A%B1%E5%8F%AF%E7%88%B1%E5%88%B0%E7%8A%AF%E8%A7%84"
-      },
-      "raw_titles": [
-        "立体猫猫头咖啡拉花可爱到犯规"
-      ],
-      "rank": 14,
-      "sports_rank": 11
     },
     {
       "title": "锐评浪姐2026总决赛",
@@ -242,49 +192,113 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7661425,
+      "hot_value": 7732189,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%902026%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "锐评浪姐2026总决赛"
       ],
-      "rank": 15,
-      "sports_rank": 12,
+      "rank": 12,
+      "sports_rank": 9,
       "movie_rank": 4
     },
     {
-      "title": "F1奥地利站正赛前瞻",
+      "title": "吴珈庆夺冠后发抖音",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 3238580,
+      "hot_value": 7712054,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%A5%A5%E5%9C%B0%E5%88%A9%E7%AB%99%E6%AD%A3%E8%B5%9B%E5%89%8D%E7%9E%BB"
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%8F%88%E5%BA%86%E5%A4%BA%E5%86%A0%E5%90%8E%E5%8F%91%E6%8A%96%E9%9F%B3"
       },
       "raw_titles": [
-        "F1奥地利站正赛前瞻"
+        "吴珈庆夺冠后发抖音"
+      ],
+      "rank": 13,
+      "sports_rank": 10
+    },
+    {
+      "title": "吴艳妮女子100米栏夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7688381,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "吴艳妮女子100米栏夺冠"
+      ],
+      "rank": 14,
+      "sports_rank": 11
+    },
+    {
+      "title": "哈兰德霸气走路模仿大赛",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7679643,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E9%9C%B8%E6%B0%94%E8%B5%B0%E8%B7%AF%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B"
+      },
+      "raw_titles": [
+        "哈兰德霸气走路模仿大赛"
+      ],
+      "rank": 15,
+      "sports_rank": 12
+    },
+    {
+      "title": "立体猫猫头咖啡拉花可爱到犯规",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7671356,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%AB%8B%E4%BD%93%E7%8C%AB%E7%8C%AB%E5%A4%B4%E5%92%96%E5%95%A1%E6%8B%89%E8%8A%B1%E5%8F%AF%E7%88%B1%E5%88%B0%E7%8A%AF%E8%A7%84"
+      },
+      "raw_titles": [
+        "立体猫猫头咖啡拉花可爱到犯规"
       ],
       "rank": 16,
       "sports_rank": 13
     },
     {
-      "title": "RAY评浪姐7总决赛",
-      "category": "综合",
+      "title": "凡人修仙传180集解析",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 3442963,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0180%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
+      },
+      "raw_titles": [
+        "凡人修仙传180集解析"
+      ],
+      "rank": 17,
+      "movie_rank": 5
+    },
+    {
+      "title": "KC零封DCG赛后数据",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2541868,
+      "hot_value": 2112629,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E6%B5%AA%E5%A7%907%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=KC%E9%9B%B6%E5%B0%81DCG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE"
       },
       "raw_titles": [
-        "RAY评浪姐7总决赛"
+        "KC零封DCG赛后数据"
       ],
-      "rank": 17,
-      "sports_rank": 14,
-      "movie_rank": 5
+      "rank": 18,
+      "movie_rank": 6
     },
     {
       "title": "KC DCG",
@@ -292,31 +306,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2101852,
+      "hot_value": 2058757,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=KC%20DCG"
       },
       "raw_titles": [
         "KC DCG"
       ],
-      "rank": 18,
-      "movie_rank": 6
-    },
-    {
-      "title": "京介和NiKo约定了夺冠剃光头",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 2075481,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%AC%E4%BB%8B%E5%92%8CNiKo%E7%BA%A6%E5%AE%9A%E4%BA%86%E5%A4%BA%E5%86%A0%E5%89%83%E5%85%89%E5%A4%B4"
-      },
-      "raw_titles": [
-        "京介和NiKo约定了夺冠剃光头"
-      ],
       "rank": 19,
-      "sports_rank": 15
+      "movie_rank": 7
     },
     {
       "title": "歌剧老师锐评歌手第六期",
@@ -324,7 +322,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2075473,
+      "hot_value": 1946483,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC%E5%85%AD%E6%9C%9F"
       },
@@ -332,7 +330,7 @@
         "歌剧老师锐评歌手第六期"
       ],
       "rank": 20,
-      "movie_rank": 7
+      "movie_rank": 8
     },
     {
       "title": "佛得角如何通过世界杯走向世界",
@@ -340,7 +338,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2073355,
+      "hot_value": 1945098,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C"
       },
@@ -348,7 +346,7 @@
         "佛得角如何通过世界杯走向世界"
       ],
       "rank": 21,
-      "sports_rank": 16
+      "sports_rank": 14
     },
     {
       "title": "第31届白玉兰获奖名单",
@@ -356,7 +354,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1979056,
+      "hot_value": 1885665,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC31%E5%B1%8A%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
       },
@@ -364,7 +362,39 @@
         "第31届白玉兰获奖名单"
       ],
       "rank": 22,
-      "movie_rank": 8
+      "movie_rank": 9
+    },
+    {
+      "title": "红牛为维斯塔潘上墙担责",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1650224,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E7%89%9B%E4%B8%BA%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E4%B8%8A%E5%A2%99%E6%8B%85%E8%B4%A3"
+      },
+      "raw_titles": [
+        "红牛为维斯塔潘上墙担责"
+      ],
+      "rank": 23,
+      "sports_rank": 15
+    },
+    {
+      "title": "Niko十一年生涯混剪纪录片",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1614611,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Niko%E5%8D%81%E4%B8%80%E5%B9%B4%E7%94%9F%E6%B6%AF%E6%B7%B7%E5%89%AA%E7%BA%AA%E5%BD%95%E7%89%87"
+      },
+      "raw_titles": [
+        "Niko十一年生涯混剪纪录片"
+      ],
+      "rank": 24,
+      "movie_rank": 10
     },
     {
       "title": "本届世界杯唯一0进球球队诞生",
@@ -379,8 +409,8 @@
       "raw_titles": [
         "本届世界杯唯一0进球球队诞生"
       ],
-      "rank": 23,
-      "sports_rank": 17
+      "rank": 25,
+      "sports_rank": 16
     },
     {
       "title": "专家详解“人造太阳”核心技术",
@@ -395,24 +425,8 @@
       "raw_titles": [
         "专家详解“人造太阳”核心技术"
       ],
-      "rank": 24,
-      "sports_rank": 18
-    },
-    {
-      "title": "韩国足协取消为韩国队接机",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 405000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%96%E6%B6%88%E4%B8%BA%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8E%A5%E6%9C%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "韩国足协取消为韩国队接机"
-      ],
-      "rank": 25,
-      "sports_rank": 19
+      "rank": 26,
+      "sports_rank": 17
     },
     {
       "title": "世界杯32强对阵表来了",
@@ -427,8 +441,24 @@
       "raw_titles": [
         "世界杯32强对阵表来了"
       ],
-      "rank": 26,
-      "sports_rank": 20
+      "rank": 27,
+      "sports_rank": 18
+    },
+    {
+      "title": "韩国足协取消为韩国队接机",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 387000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%96%E6%B6%88%E4%B8%BA%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8E%A5%E6%9C%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "韩国足协取消为韩国队接机"
+      ],
+      "rank": 28,
+      "sports_rank": 19
     },
     {
       "title": "世界杯伊朗队从天堂跌入地狱",
@@ -436,47 +466,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 387000,
+      "hot_value": 369000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E4%BB%8E%E5%A4%A9%E5%A0%82%E8%B7%8C%E5%85%A5%E5%9C%B0%E7%8B%B1&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯伊朗队从天堂跌入地狱"
       ],
-      "rank": 27,
+      "rank": 29,
+      "sports_rank": 20
+    },
+    {
+      "title": "男子独自上坟被老鹰突袭3次",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 342000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%8B%AC%E8%87%AA%E4%B8%8A%E5%9D%9F%E8%A2%AB%E8%80%81%E9%B9%B0%E7%AA%81%E8%A2%AD3%E6%AC%A1&sa=fyb_news"
+      },
+      "raw_titles": [
+        "男子独自上坟被老鹰突袭3次"
+      ],
+      "rank": 30,
       "sports_rank": 21
     },
     {
-      "title": "哥伦比亚头名出线 球迷：C罗在哪里",
+      "title": "世界杯被质疑出现“默契球”",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 270000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%B4%E5%90%8D%E5%87%BA%E7%BA%BF+%E7%90%83%E8%BF%B7%EF%BC%9AC%E7%BD%97%E5%9C%A8%E5%93%AA%E9%87%8C&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A2%AB%E8%B4%A8%E7%96%91%E5%87%BA%E7%8E%B0%E2%80%9C%E9%BB%98%E5%A5%91%E7%90%83%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "哥伦比亚头名出线 球迷：C罗在哪里"
+        "世界杯被质疑出现“默契球”"
       ],
-      "rank": 28,
+      "rank": 31,
       "sports_rank": 22
-    },
-    {
-      "title": "印度男子爬高跳水扎进浅水区身亡",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E7%88%AC%E9%AB%98%E8%B7%B3%E6%B0%B4%E6%89%8E%E8%BF%9B%E6%B5%85%E6%B0%B4%E5%8C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "印度男子爬高跳水扎进浅水区身亡"
-      ],
-      "rank": 29,
-      "sports_rank": 23
     },
     {
       "title": "白玉兰把刘亦菲放进战报",
@@ -484,15 +514,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 180875,
+      "hot_value": 256070,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%8A%8A%E5%88%98%E4%BA%A6%E8%8F%B2%E6%94%BE%E8%BF%9B%E6%88%98%E6%8A%A5"
       },
       "raw_titles": [
         "白玉兰把刘亦菲放进战报"
       ],
-      "rank": 30,
-      "movie_rank": 9
+      "rank": 32,
+      "movie_rank": 11
+    },
+    {
+      "title": "印度男子爬高跳水扎进浅水区身亡",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 252000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E7%88%AC%E9%AB%98%E8%B7%B3%E6%B0%B4%E6%89%8E%E8%BF%9B%E6%B5%85%E6%B0%B4%E5%8C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news"
+      },
+      "raw_titles": [
+        "印度男子爬高跳水扎进浅水区身亡"
+      ],
+      "rank": 33,
+      "sports_rank": 23
+    },
+    {
+      "title": "哥伦比亚头名出线 球迷：C罗在哪里",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%B4%E5%90%8D%E5%87%BA%E7%BA%BF+%E7%90%83%E8%BF%B7%EF%BC%9AC%E7%BD%97%E5%9C%A8%E5%93%AA%E9%87%8C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "哥伦比亚头名出线 球迷：C罗在哪里"
+      ],
+      "rank": 34,
+      "sports_rank": 24
     },
     {
       "title": "C罗笑着离开采访区只说一个词",
@@ -500,15 +562,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 225000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E7%AC%91%E7%9D%80%E7%A6%BB%E5%BC%80%E9%87%87%E8%AE%BF%E5%8C%BA%E5%8F%AA%E8%AF%B4%E4%B8%80%E4%B8%AA%E8%AF%8D&sa=fyb_news"
       },
       "raw_titles": [
         "C罗笑着离开采访区只说一个词"
       ],
-      "rank": 31,
-      "sports_rank": 24
+      "rank": 35,
+      "sports_rank": 25
+    },
+    {
+      "title": "世界杯中的佛得角：陌生人也相拥起舞",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 216000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E7%9A%84%E4%BD%9B%E5%BE%97%E8%A7%92%EF%BC%9A%E9%99%8C%E7%94%9F%E4%BA%BA%E4%B9%9F%E7%9B%B8%E6%8B%A5%E8%B5%B7%E8%88%9E&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯中的佛得角：陌生人也相拥起舞"
+      ],
+      "rank": 36,
+      "sports_rank": 26
     },
     {
       "title": "上海偶遇王一博打高尔夫",
@@ -516,16 +594,48 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 116666,
+      "hot_value": 134388,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%81%B6%E9%81%87%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB"
       },
       "raw_titles": [
         "上海偶遇王一博打高尔夫"
       ],
-      "rank": 32,
-      "sports_rank": 25,
-      "movie_rank": 10
+      "rank": 37,
+      "sports_rank": 27,
+      "movie_rank": 12
+    },
+    {
+      "title": "莫离大结局",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 120556,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8E%AB%E7%A6%BB%E5%A4%A7%E7%BB%93%E5%B1%80"
+      },
+      "raw_titles": [
+        "莫离大结局"
+      ],
+      "rank": 38,
+      "movie_rank": 13
+    },
+    {
+      "title": "孙颖莎 一日双赛",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 116159,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E4%B8%80%E6%97%A5%E5%8F%8C%E8%B5%9B"
+      },
+      "raw_titles": [
+        "孙颖莎 一日双赛"
+      ],
+      "rank": 39,
+      "sports_rank": 28
     },
     {
       "title": "哈兰德发现boss都在下半区",
@@ -533,31 +643,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 116609,
+      "hot_value": 104184,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%91%E7%8E%B0boss%E9%83%BD%E5%9C%A8%E4%B8%8B%E5%8D%8A%E5%8C%BA"
       },
       "raw_titles": [
         "哈兰德发现boss都在下半区"
       ],
-      "rank": 33,
-      "sports_rank": 26
-    },
-    {
-      "title": "黄灿灿人气口碑双逆袭",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 116380,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%E4%BA%BA%E6%B0%94%E5%8F%A3%E7%A2%91%E5%8F%8C%E9%80%86%E8%A2%AD"
-      },
-      "raw_titles": [
-        "黄灿灿人气口碑双逆袭"
-      ],
-      "rank": 34,
-      "movie_rank": 11
+      "rank": 40,
+      "sports_rank": 29
     },
     {
       "title": "李现 杨紫",
@@ -565,47 +659,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 113066,
+      "hot_value": 103801,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E6%9D%A8%E7%B4%AB"
       },
       "raw_titles": [
         "李现 杨紫"
       ],
-      "rank": 35,
-      "movie_rank": 12
+      "rank": 41,
+      "movie_rank": 14
     },
     {
-      "title": "C罗回应对阵克罗地亚",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 104235,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E5%AF%B9%E9%98%B5%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A"
-      },
-      "raw_titles": [
-        "C罗回应对阵克罗地亚"
-      ],
-      "rank": 36,
-      "sports_rank": 27
-    },
-    {
-      "title": "杨紫朝粉丝鞠了三次躬",
+      "title": "肖战白玉兰登世趋",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 62113,
+      "hot_value": 103746,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9C%9D%E7%B2%89%E4%B8%9D%E9%9E%A0%E4%BA%86%E4%B8%89%E6%AC%A1%E8%BA%AC"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%99%BD%E7%8E%89%E5%85%B0%E7%99%BB%E4%B8%96%E8%B6%8B"
       },
       "raw_titles": [
-        "杨紫朝粉丝鞠了三次躬"
+        "肖战白玉兰登世趋"
       ],
-      "rank": 37,
-      "movie_rank": 13
+      "rank": 42,
+      "movie_rank": 15
+    },
+    {
+      "title": "C罗鞋垫印着GOAT",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 96415,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%9E%8B%E5%9E%AB%E5%8D%B0%E7%9D%80GOAT"
+      },
+      "raw_titles": [
+        "C罗鞋垫印着GOAT"
+      ],
+      "rank": 43,
+      "sports_rank": 30
     },
     {
       "title": "C罗将对阵莫德里奇",
@@ -620,27 +714,11 @@
       "raw_titles": [
         "C罗将对阵莫德里奇"
       ],
-      "rank": 38,
-      "sports_rank": 28
+      "rank": 44,
+      "sports_rank": 31
     }
   ],
   "sports": [
-    {
-      "title": "王冰冰解读世界杯",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 13190327,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E8%A7%A3%E8%AF%BB%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "王冰冰解读世界杯"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "世界杯淘汰赛首轮对阵全部出炉",
       "category": "体育",
@@ -648,13 +726,29 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12162712,
+      "hot_value": 11372650,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89"
       },
       "raw_titles": [
         "世界杯淘汰赛首轮对阵全部出炉"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "王冰冰解读世界杯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 11191840,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E8%A7%A3%E8%AF%BB%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "王冰冰解读世界杯"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -666,7 +760,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 11150578,
+      "hot_value": 10513389,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E9%81%AD%E6%B7%98%E6%B1%B0"
@@ -678,52 +772,20 @@
       "sports_rank": 3
     },
     {
-      "title": "伊朗无缘世界杯32强",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9204454,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA"
-      },
-      "raw_titles": [
-        "伊朗无缘世界杯32强"
-      ],
-      "rank": 4,
-      "sports_rank": 4
-    },
-    {
       "title": "莫德里奇成世界杯最年长助攻球员",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9072109,
+      "hot_value": 9174650,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%B9%B4%E9%95%BF%E5%8A%A9%E6%94%BB%E7%90%83%E5%91%98"
       },
       "raw_titles": [
         "莫德里奇成世界杯最年长助攻球员"
       ],
-      "rank": 6,
-      "sports_rank": 5
-    },
-    {
-      "title": "哈兰德发抖音回顾小组赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9020197,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%91%E6%8A%96%E9%9F%B3%E5%9B%9E%E9%A1%BE%E5%B0%8F%E7%BB%84%E8%B5%9B"
-      },
-      "raw_titles": [
-        "哈兰德发抖音回顾小组赛"
-      ],
-      "rank": 7,
-      "sports_rank": 6
+      "rank": 5,
+      "sports_rank": 4
     },
     {
       "title": "哈兰德去找姆巴佩了",
@@ -731,83 +793,65 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8881466,
+      "hot_value": 8645889,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8E%BB%E6%89%BE%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%86"
       },
       "raw_titles": [
         "哈兰德去找姆巴佩了"
       ],
-      "rank": 8,
-      "sports_rank": 7
+      "rank": 6,
+      "sports_rank": 5
     },
     {
       "title": "世界杯32强全名单",
       "category": "体育",
       "sources": [
         "微博",
-        "百度",
         "抖音"
       ],
-      "hot_value": 8731564,
+      "hot_value": 7913399,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E5%90%8D%E5%8D%95",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E9%83%A8%E4%BA%A7%E7%94%9F"
       },
       "raw_titles": [
         "世界杯32强全名单"
       ],
+      "rank": 7,
+      "sports_rank": 6
+    },
+    {
+      "title": "伊朗无缘世界杯32强",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7843955,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA"
+      },
+      "raw_titles": [
+        "伊朗无缘世界杯32强"
+      ],
+      "rank": 8,
+      "sports_rank": 7
+    },
+    {
+      "title": "马宁将亮相世界杯淘汰赛",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7777131,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E5%B0%86%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B"
+      },
+      "raw_titles": [
+        "马宁将亮相世界杯淘汰赛"
+      ],
       "rank": 9,
       "sports_rank": 8
-    },
-    {
-      "title": "吴珈庆夺冠后发抖音",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7760993,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%8F%88%E5%BA%86%E5%A4%BA%E5%86%A0%E5%90%8E%E5%8F%91%E6%8A%96%E9%9F%B3"
-      },
-      "raw_titles": [
-        "吴珈庆夺冠后发抖音"
-      ],
-      "rank": 11,
-      "sports_rank": 9
-    },
-    {
-      "title": "吴艳妮女子100米栏夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7682409,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "吴艳妮女子100米栏夺冠"
-      ],
-      "rank": 13,
-      "sports_rank": 10
-    },
-    {
-      "title": "立体猫猫头咖啡拉花可爱到犯规",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7678958,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%AB%8B%E4%BD%93%E7%8C%AB%E7%8C%AB%E5%A4%B4%E5%92%96%E5%95%A1%E6%8B%89%E8%8A%B1%E5%8F%AF%E7%88%B1%E5%88%B0%E7%8A%AF%E8%A7%84"
-      },
-      "raw_titles": [
-        "立体猫猫头咖啡拉花可爱到犯规"
-      ],
-      "rank": 14,
-      "sports_rank": 11
     },
     {
       "title": "锐评浪姐2026总决赛",
@@ -815,65 +859,80 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7661425,
+      "hot_value": 7732189,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%902026%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "锐评浪姐2026总决赛"
       ],
-      "rank": 15,
-      "sports_rank": 12,
+      "rank": 12,
+      "sports_rank": 9,
       "movie_rank": 4
     },
     {
-      "title": "F1奥地利站正赛前瞻",
+      "title": "吴珈庆夺冠后发抖音",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 3238580,
+      "hot_value": 7712054,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%A5%A5%E5%9C%B0%E5%88%A9%E7%AB%99%E6%AD%A3%E8%B5%9B%E5%89%8D%E7%9E%BB"
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%8F%88%E5%BA%86%E5%A4%BA%E5%86%A0%E5%90%8E%E5%8F%91%E6%8A%96%E9%9F%B3"
       },
       "raw_titles": [
-        "F1奥地利站正赛前瞻"
+        "吴珈庆夺冠后发抖音"
+      ],
+      "rank": 13,
+      "sports_rank": 10
+    },
+    {
+      "title": "吴艳妮女子100米栏夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7688381,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "吴艳妮女子100米栏夺冠"
+      ],
+      "rank": 14,
+      "sports_rank": 11
+    },
+    {
+      "title": "哈兰德霸气走路模仿大赛",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7679643,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E9%9C%B8%E6%B0%94%E8%B5%B0%E8%B7%AF%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B"
+      },
+      "raw_titles": [
+        "哈兰德霸气走路模仿大赛"
+      ],
+      "rank": 15,
+      "sports_rank": 12
+    },
+    {
+      "title": "立体猫猫头咖啡拉花可爱到犯规",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7671356,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%AB%8B%E4%BD%93%E7%8C%AB%E7%8C%AB%E5%A4%B4%E5%92%96%E5%95%A1%E6%8B%89%E8%8A%B1%E5%8F%AF%E7%88%B1%E5%88%B0%E7%8A%AF%E8%A7%84"
+      },
+      "raw_titles": [
+        "立体猫猫头咖啡拉花可爱到犯规"
       ],
       "rank": 16,
       "sports_rank": 13
-    },
-    {
-      "title": "RAY评浪姐7总决赛",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 2541868,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E6%B5%AA%E5%A7%907%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "RAY评浪姐7总决赛"
-      ],
-      "rank": 17,
-      "sports_rank": 14,
-      "movie_rank": 5
-    },
-    {
-      "title": "京介和NiKo约定了夺冠剃光头",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 2075481,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%AC%E4%BB%8B%E5%92%8CNiKo%E7%BA%A6%E5%AE%9A%E4%BA%86%E5%A4%BA%E5%86%A0%E5%89%83%E5%85%89%E5%A4%B4"
-      },
-      "raw_titles": [
-        "京介和NiKo约定了夺冠剃光头"
-      ],
-      "rank": 19,
-      "sports_rank": 15
     },
     {
       "title": "佛得角如何通过世界杯走向世界",
@@ -881,7 +940,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2073355,
+      "hot_value": 1945098,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C"
       },
@@ -889,7 +948,23 @@
         "佛得角如何通过世界杯走向世界"
       ],
       "rank": 21,
-      "sports_rank": 16
+      "sports_rank": 14
+    },
+    {
+      "title": "红牛为维斯塔潘上墙担责",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1650224,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E7%89%9B%E4%B8%BA%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E4%B8%8A%E5%A2%99%E6%8B%85%E8%B4%A3"
+      },
+      "raw_titles": [
+        "红牛为维斯塔潘上墙担责"
+      ],
+      "rank": 23,
+      "sports_rank": 15
     },
     {
       "title": "本届世界杯唯一0进球球队诞生",
@@ -904,8 +979,8 @@
       "raw_titles": [
         "本届世界杯唯一0进球球队诞生"
       ],
-      "rank": 23,
-      "sports_rank": 17
+      "rank": 25,
+      "sports_rank": 16
     },
     {
       "title": "专家详解“人造太阳”核心技术",
@@ -920,24 +995,8 @@
       "raw_titles": [
         "专家详解“人造太阳”核心技术"
       ],
-      "rank": 24,
-      "sports_rank": 18
-    },
-    {
-      "title": "韩国足协取消为韩国队接机",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 405000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%96%E6%B6%88%E4%B8%BA%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8E%A5%E6%9C%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "韩国足协取消为韩国队接机"
-      ],
-      "rank": 25,
-      "sports_rank": 19
+      "rank": 26,
+      "sports_rank": 17
     },
     {
       "title": "世界杯32强对阵表来了",
@@ -952,8 +1011,24 @@
       "raw_titles": [
         "世界杯32强对阵表来了"
       ],
-      "rank": 26,
-      "sports_rank": 20
+      "rank": 27,
+      "sports_rank": 18
+    },
+    {
+      "title": "韩国足协取消为韩国队接机",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 387000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%96%E6%B6%88%E4%B8%BA%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8E%A5%E6%9C%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "韩国足协取消为韩国队接机"
+      ],
+      "rank": 28,
+      "sports_rank": 19
     },
     {
       "title": "世界杯伊朗队从天堂跌入地狱",
@@ -961,30 +1036,46 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 387000,
+      "hot_value": 369000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E4%BB%8E%E5%A4%A9%E5%A0%82%E8%B7%8C%E5%85%A5%E5%9C%B0%E7%8B%B1&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯伊朗队从天堂跌入地狱"
       ],
-      "rank": 27,
-      "sports_rank": 21
+      "rank": 29,
+      "sports_rank": 20
     },
     {
-      "title": "哥伦比亚头名出线 球迷：C罗在哪里",
+      "title": "男子独自上坟被老鹰突袭3次",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 342000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%B4%E5%90%8D%E5%87%BA%E7%BA%BF+%E7%90%83%E8%BF%B7%EF%BC%9AC%E7%BD%97%E5%9C%A8%E5%93%AA%E9%87%8C&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%8B%AC%E8%87%AA%E4%B8%8A%E5%9D%9F%E8%A2%AB%E8%80%81%E9%B9%B0%E7%AA%81%E8%A2%AD3%E6%AC%A1&sa=fyb_news"
       },
       "raw_titles": [
-        "哥伦比亚头名出线 球迷：C罗在哪里"
+        "男子独自上坟被老鹰突袭3次"
       ],
-      "rank": 28,
+      "rank": 30,
+      "sports_rank": 21
+    },
+    {
+      "title": "世界杯被质疑出现“默契球”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 270000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A2%AB%E8%B4%A8%E7%96%91%E5%87%BA%E7%8E%B0%E2%80%9C%E9%BB%98%E5%A5%91%E7%90%83%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯被质疑出现“默契球”"
+      ],
+      "rank": 31,
       "sports_rank": 22
     },
     {
@@ -993,15 +1084,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 189000,
+      "hot_value": 252000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E7%88%AC%E9%AB%98%E8%B7%B3%E6%B0%B4%E6%89%8E%E8%BF%9B%E6%B5%85%E6%B0%B4%E5%8C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news"
       },
       "raw_titles": [
         "印度男子爬高跳水扎进浅水区身亡"
       ],
-      "rank": 29,
+      "rank": 33,
       "sports_rank": 23
+    },
+    {
+      "title": "哥伦比亚头名出线 球迷：C罗在哪里",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%B4%E5%90%8D%E5%87%BA%E7%BA%BF+%E7%90%83%E8%BF%B7%EF%BC%9AC%E7%BD%97%E5%9C%A8%E5%93%AA%E9%87%8C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "哥伦比亚头名出线 球迷：C罗在哪里"
+      ],
+      "rank": 34,
+      "sports_rank": 24
     },
     {
       "title": "C罗笑着离开采访区只说一个词",
@@ -1009,15 +1116,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 225000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E7%AC%91%E7%9D%80%E7%A6%BB%E5%BC%80%E9%87%87%E8%AE%BF%E5%8C%BA%E5%8F%AA%E8%AF%B4%E4%B8%80%E4%B8%AA%E8%AF%8D&sa=fyb_news"
       },
       "raw_titles": [
         "C罗笑着离开采访区只说一个词"
       ],
-      "rank": 31,
-      "sports_rank": 24
+      "rank": 35,
+      "sports_rank": 25
+    },
+    {
+      "title": "世界杯中的佛得角：陌生人也相拥起舞",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 216000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E7%9A%84%E4%BD%9B%E5%BE%97%E8%A7%92%EF%BC%9A%E9%99%8C%E7%94%9F%E4%BA%BA%E4%B9%9F%E7%9B%B8%E6%8B%A5%E8%B5%B7%E8%88%9E&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯中的佛得角：陌生人也相拥起舞"
+      ],
+      "rank": 36,
+      "sports_rank": 26
     },
     {
       "title": "上海偶遇王一博打高尔夫",
@@ -1025,16 +1148,32 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 116666,
+      "hot_value": 134388,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%81%B6%E9%81%87%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB"
       },
       "raw_titles": [
         "上海偶遇王一博打高尔夫"
       ],
-      "rank": 32,
-      "sports_rank": 25,
-      "movie_rank": 10
+      "rank": 37,
+      "sports_rank": 27,
+      "movie_rank": 12
+    },
+    {
+      "title": "孙颖莎 一日双赛",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 116159,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E4%B8%80%E6%97%A5%E5%8F%8C%E8%B5%9B"
+      },
+      "raw_titles": [
+        "孙颖莎 一日双赛"
+      ],
+      "rank": 39,
+      "sports_rank": 28
     },
     {
       "title": "哈兰德发现boss都在下半区",
@@ -1042,31 +1181,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 116609,
+      "hot_value": 104184,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%91%E7%8E%B0boss%E9%83%BD%E5%9C%A8%E4%B8%8B%E5%8D%8A%E5%8C%BA"
       },
       "raw_titles": [
         "哈兰德发现boss都在下半区"
       ],
-      "rank": 33,
-      "sports_rank": 26
+      "rank": 40,
+      "sports_rank": 29
     },
     {
-      "title": "C罗回应对阵克罗地亚",
+      "title": "C罗鞋垫印着GOAT",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 104235,
+      "hot_value": 96415,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E5%AF%B9%E9%98%B5%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A"
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%9E%8B%E5%9E%AB%E5%8D%B0%E7%9D%80GOAT"
       },
       "raw_titles": [
-        "C罗回应对阵克罗地亚"
+        "C罗鞋垫印着GOAT"
       ],
-      "rank": 36,
-      "sports_rank": 27
+      "rank": 43,
+      "sports_rank": 30
     },
     {
       "title": "C罗将对阵莫德里奇",
@@ -1081,8 +1220,8 @@
       "raw_titles": [
         "C罗将对阵莫德里奇"
       ],
-      "rank": 38,
-      "sports_rank": 28
+      "rank": 44,
+      "sports_rank": 31
     }
   ],
   "movies": [
@@ -1092,31 +1231,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9176055,
+      "hot_value": 9177092,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E5%96%9C%E6%AC%A2%E7%9A%84%E6%BC%AB%E7%94%BB%E8%A2%ABAI%E6%94%B9%E7%BC%96%E4%BA%86"
       },
       "raw_titles": [
         "我喜欢的漫画被AI改编了"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 1
-    },
-    {
-      "title": "杨紫歌声与微笑全国文旅巡唱",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7817182,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E6%AD%8C%E5%A3%B0%E4%B8%8E%E5%BE%AE%E7%AC%91%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%B7%A1%E5%94%B1"
-      },
-      "raw_titles": [
-        "杨紫歌声与微笑全国文旅巡唱"
-      ],
-      "rank": 10,
-      "movie_rank": 2
     },
     {
       "title": "电影抓特务里了不起的女性",
@@ -1124,14 +1247,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7723445,
+      "hot_value": 7776176,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E9%87%8C%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%A5%B3%E6%80%A7"
       },
       "raw_titles": [
         "电影抓特务里了不起的女性"
       ],
-      "rank": 12,
+      "rank": 10,
+      "movie_rank": 2
+    },
+    {
+      "title": "杨紫歌声与微笑全国文旅巡唱",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7769990,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E6%AD%8C%E5%A3%B0%E4%B8%8E%E5%BE%AE%E7%AC%91%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%B7%A1%E5%94%B1"
+      },
+      "raw_titles": [
+        "杨紫歌声与微笑全国文旅巡唱"
+      ],
+      "rank": 11,
       "movie_rank": 3
     },
     {
@@ -1140,33 +1279,49 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7661425,
+      "hot_value": 7732189,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%902026%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "锐评浪姐2026总决赛"
       ],
-      "rank": 15,
-      "sports_rank": 12,
+      "rank": 12,
+      "sports_rank": 9,
       "movie_rank": 4
     },
     {
-      "title": "RAY评浪姐7总决赛",
-      "category": "综合",
+      "title": "凡人修仙传180集解析",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 3442963,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0180%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
+      },
+      "raw_titles": [
+        "凡人修仙传180集解析"
+      ],
+      "rank": 17,
+      "movie_rank": 5
+    },
+    {
+      "title": "KC零封DCG赛后数据",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2541868,
+      "hot_value": 2112629,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E6%B5%AA%E5%A7%907%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=KC%E9%9B%B6%E5%B0%81DCG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE"
       },
       "raw_titles": [
-        "RAY评浪姐7总决赛"
+        "KC零封DCG赛后数据"
       ],
-      "rank": 17,
-      "sports_rank": 14,
-      "movie_rank": 5
+      "rank": 18,
+      "movie_rank": 6
     },
     {
       "title": "KC DCG",
@@ -1174,15 +1329,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2101852,
+      "hot_value": 2058757,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=KC%20DCG"
       },
       "raw_titles": [
         "KC DCG"
       ],
-      "rank": 18,
-      "movie_rank": 6
+      "rank": 19,
+      "movie_rank": 7
     },
     {
       "title": "歌剧老师锐评歌手第六期",
@@ -1190,7 +1345,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2075473,
+      "hot_value": 1946483,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC%E5%85%AD%E6%9C%9F"
       },
@@ -1198,7 +1353,7 @@
         "歌剧老师锐评歌手第六期"
       ],
       "rank": 20,
-      "movie_rank": 7
+      "movie_rank": 8
     },
     {
       "title": "第31届白玉兰获奖名单",
@@ -1206,7 +1361,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1979056,
+      "hot_value": 1885665,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC31%E5%B1%8A%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95"
       },
@@ -1214,7 +1369,23 @@
         "第31届白玉兰获奖名单"
       ],
       "rank": 22,
-      "movie_rank": 8
+      "movie_rank": 9
+    },
+    {
+      "title": "Niko十一年生涯混剪纪录片",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1614611,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Niko%E5%8D%81%E4%B8%80%E5%B9%B4%E7%94%9F%E6%B6%AF%E6%B7%B7%E5%89%AA%E7%BA%AA%E5%BD%95%E7%89%87"
+      },
+      "raw_titles": [
+        "Niko十一年生涯混剪纪录片"
+      ],
+      "rank": 24,
+      "movie_rank": 10
     },
     {
       "title": "白玉兰把刘亦菲放进战报",
@@ -1222,15 +1393,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 180875,
+      "hot_value": 256070,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%8A%8A%E5%88%98%E4%BA%A6%E8%8F%B2%E6%94%BE%E8%BF%9B%E6%88%98%E6%8A%A5"
       },
       "raw_titles": [
         "白玉兰把刘亦菲放进战报"
       ],
-      "rank": 30,
-      "movie_rank": 9
+      "rank": 32,
+      "movie_rank": 11
     },
     {
       "title": "上海偶遇王一博打高尔夫",
@@ -1238,32 +1409,32 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 116666,
+      "hot_value": 134388,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%81%B6%E9%81%87%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB"
       },
       "raw_titles": [
         "上海偶遇王一博打高尔夫"
       ],
-      "rank": 32,
-      "sports_rank": 25,
-      "movie_rank": 10
+      "rank": 37,
+      "sports_rank": 27,
+      "movie_rank": 12
     },
     {
-      "title": "黄灿灿人气口碑双逆袭",
+      "title": "莫离大结局",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 116380,
+      "hot_value": 120556,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%E4%BA%BA%E6%B0%94%E5%8F%A3%E7%A2%91%E5%8F%8C%E9%80%86%E8%A2%AD"
+        "微博": "https://s.weibo.com/weibo?q=%E8%8E%AB%E7%A6%BB%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
-        "黄灿灿人气口碑双逆袭"
+        "莫离大结局"
       ],
-      "rank": 34,
-      "movie_rank": 11
+      "rank": 38,
+      "movie_rank": 13
     },
     {
       "title": "李现 杨紫",
@@ -1271,31 +1442,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 113066,
+      "hot_value": 103801,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E6%9D%A8%E7%B4%AB"
       },
       "raw_titles": [
         "李现 杨紫"
       ],
-      "rank": 35,
-      "movie_rank": 12
+      "rank": 41,
+      "movie_rank": 14
     },
     {
-      "title": "杨紫朝粉丝鞠了三次躬",
+      "title": "肖战白玉兰登世趋",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 62113,
+      "hot_value": 103746,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9C%9D%E7%B2%89%E4%B8%9D%E9%9E%A0%E4%BA%86%E4%B8%89%E6%AC%A1%E8%BA%AC"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%99%BD%E7%8E%89%E5%85%B0%E7%99%BB%E4%B8%96%E8%B6%8B"
       },
       "raw_titles": [
-        "杨紫朝粉丝鞠了三次躬"
+        "肖战白玉兰登世趋"
       ],
-      "rank": 37,
-      "movie_rank": 13
+      "rank": 42,
+      "movie_rank": 15
     }
   ]
 }
