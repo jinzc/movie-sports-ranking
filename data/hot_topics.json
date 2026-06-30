@@ -1,15 +1,57 @@
 {
-  "update_time": "2026-06-30 07:00:45",
-  "total": 39,
-  "sports_count": 22,
-  "movie_count": 17,
+  "update_time": "2026-06-30 08:00:48",
+  "total": 42,
+  "sports_count": 29,
+  "movie_count": 13,
   "all": [
+    {
+      "title": "点球大战",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 29286844,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98",
+        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E9%A6%96%E8%B4%A5&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E5%BE%B7%E5%9B%BD",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E4%B8%8D%E6%95%8C%E5%B7%B4%E6%8B%89%E5%9C%AD"
+      },
+      "raw_titles": [
+        "点球大战"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "巴西2:1绝杀日本",
+      "category": "体育",
+      "sources": [
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 22838992,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF2%3A1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF2-1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC"
+      },
+      "raw_titles": [
+        "巴西2:1绝杀日本"
+      ],
+      "rank": 2,
+      "sports_rank": 2
+    },
     {
       "title": "世界杯",
       "category": "体育",
       "sources": [
         "微博",
-        "微博",
+        "百度",
+        "百度",
         "百度",
         "百度",
         "百度",
@@ -19,18 +61,34 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 17650837,
+      "hot_value": 18750789,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%90%E4%BA%AE%E6%80%92%E6%96%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B8%A2%E5%81%87%E7%90%83",
-        "百度": "https://m.baidu.com/s?word=%E8%BF%99%E5%87%A0%E7%A7%92%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%80%BC%E9%92%B1%E5%B9%BF%E5%91%8A%E4%BD%8D&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E8%B0%81%E6%98%AF%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%86%A0%E5%86%9B",
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E7%94%BB%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%92%A2%E9%93%81%E9%98%B2%E7%BA%BF&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E7%A5%96%E8%93%9D%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89"
       },
       "raw_titles": [
         "世界杯"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 3,
+      "sports_rank": 3
+    },
+    {
+      "title": "中国小将严子怡再现一投夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7736457,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E4%B8%A5%E5%AD%90%E6%80%A1%E5%86%8D%E7%8E%B0%E4%B8%80%E6%8A%95%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "中国小将严子怡再现一投夺冠"
+      ],
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "吴启华自曝卖肖像权拍AI电影",
@@ -38,79 +96,33 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7702283,
+      "hot_value": 7680305,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E5%90%AF%E5%8D%8E%E8%87%AA%E6%9B%9D%E5%8D%96%E8%82%96%E5%83%8F%E6%9D%83%E6%8B%8DAI%E7%94%B5%E5%BD%B1"
       },
       "raw_titles": [
         "吴启华自曝卖肖像权拍AI电影"
       ],
-      "rank": 2,
-      "movie_rank": 1
-    },
-    {
-      "title": "迪丽热巴获CMG年度女演员",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7649994,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8E%B7CMG%E5%B9%B4%E5%BA%A6%E5%A5%B3%E6%BC%94%E5%91%98"
-      },
-      "raw_titles": [
-        "迪丽热巴获CMG年度女演员"
-      ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "灿如繁星定档0705",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7611959,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E5%AE%9A%E6%A1%A30705"
-      },
-      "raw_titles": [
-        "灿如繁星定档0705"
-      ],
-      "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "哈兰德发抖音全力备战淘汰赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7539602,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%91%E6%8A%96%E9%9F%B3%E5%85%A8%E5%8A%9B%E5%A4%87%E6%88%98%E6%B7%98%E6%B1%B0%E8%B5%9B"
-      },
-      "raw_titles": [
-        "哈兰德发抖音全力备战淘汰赛"
-      ],
       "rank": 5,
-      "sports_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "巴西绝杀",
       "category": "体育",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 4086047,
+      "hot_value": 7494275,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80"
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80",
+        "百度": "https://m.baidu.com/s?word=%E8%A2%AB%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E5%90%8E+%E6%97%A5%E7%90%83%E5%91%98%E7%94%B0%E4%B8%AD%E7%A2%A7%E8%B7%AA%E5%9C%B0%E7%97%9B%E5%93%AD&sa=fyb_news"
       },
       "raw_titles": [
         "巴西绝杀"
       ],
       "rank": 6,
-      "sports_rank": 3
+      "sports_rank": 5
     },
     {
       "title": "赛博朋克边缘行者2预告片",
@@ -118,7 +130,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2675800,
+      "hot_value": 3049892,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E9%A2%84%E5%91%8A%E7%89%87"
       },
@@ -126,23 +138,57 @@
         "赛博朋克边缘行者2预告片"
       ],
       "rank": 7,
-      "movie_rank": 4
+      "movie_rank": 2
     },
     {
-      "title": "巴西2-1绝杀日本",
+      "title": "莫兰特转投开拓者效力",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2662354,
+      "hot_value": 1141456,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF2-1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8E%AB%E5%85%B0%E7%89%B9%E8%BD%AC%E6%8A%95%E5%BC%80%E6%8B%93%E8%80%85%E6%95%88%E5%8A%9B"
       },
       "raw_titles": [
-        "巴西2-1绝杀日本"
+        "莫兰特转投开拓者效力"
       ],
       "rank": 8,
-      "sports_rank": 4
+      "sports_rank": 6
+    },
+    {
+      "title": "金鹰奖视后提名预测",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1125484,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E8%A7%86%E5%90%8E%E6%8F%90%E5%90%8D%E9%A2%84%E6%B5%8B"
+      },
+      "raw_titles": [
+        "金鹰奖视后提名预测"
+      ],
+      "rank": 9,
+      "movie_rank": 3
+    },
+    {
+      "title": "杨紫被质疑未使用原名纯属误解",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 850196,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%AA%E4%BD%BF%E7%94%A8%E5%8E%9F%E5%90%8D%E7%BA%AF%E5%B1%9E%E8%AF%AF%E8%A7%A3",
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%AA%E4%BD%BF%E7%94%A8%E5%8E%9F%E5%90%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "杨紫被质疑未使用原名纯属误解"
+      ],
+      "rank": 10,
+      "movie_rank": 4
     },
     {
       "title": "杨紫获白玉兰视后为何争议难平",
@@ -151,7 +197,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 506096,
+      "hot_value": 808826,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%E4%B8%BA%E4%BD%95%E4%BA%89%E8%AE%AE%E9%9A%BE%E5%B9%B3",
         "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%E4%BA%89%E8%AE%AE%E4%B8%8D%E6%AD%A2&sa=fyb_news"
@@ -159,136 +205,8 @@
       "raw_titles": [
         "杨紫获白玉兰视后为何争议难平"
       ],
-      "rank": 9,
-      "movie_rank": 5
-    },
-    {
-      "title": "补时绝杀 巴西2-1淘汰日本",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 450000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A1%A5%E6%97%B6%E7%BB%9D%E6%9D%80+%E5%B7%B4%E8%A5%BF2-1%E6%B7%98%E6%B1%B0%E6%97%A5%E6%9C%AC&sa=fyb_news"
-      },
-      "raw_titles": [
-        "补时绝杀 巴西2-1淘汰日本"
-      ],
-      "rank": 10,
-      "sports_rank": 5
-    },
-    {
-      "title": "日本球员说被绝杀非常不甘心",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 405000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E8%AF%B4%E8%A2%AB%E7%BB%9D%E6%9D%80%E9%9D%9E%E5%B8%B8%E4%B8%8D%E7%94%98%E5%BF%83&sa=fyb_news"
-      },
-      "raw_titles": [
-        "日本球员说被绝杀非常不甘心"
-      ],
       "rank": 11,
-      "sports_rank": 6
-    },
-    {
-      "title": "郑钦文温网一轮游",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 378000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%B8%A9%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8&sa=fyb_news"
-      },
-      "raw_titles": [
-        "郑钦文温网一轮游"
-      ],
-      "rank": 12,
-      "sports_rank": 7
-    },
-    {
-      "title": "王源近几年没有路演了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 359848,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E8%BF%91%E5%87%A0%E5%B9%B4%E6%B2%A1%E6%9C%89%E8%B7%AF%E6%BC%94%E4%BA%86"
-      },
-      "raw_titles": [
-        "王源近几年没有路演了"
-      ],
-      "rank": 13,
-      "movie_rank": 6
-    },
-    {
-      "title": "巴西扳平比分",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 354963,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86"
-      },
-      "raw_titles": [
-        "巴西扳平比分"
-      ],
-      "rank": 14,
-      "sports_rank": 8
-    },
-    {
-      "title": "如何评价杨紫白玉兰获奖",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 345045,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9D%A8%E7%B4%AB%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96"
-      },
-      "raw_titles": [
-        "如何评价杨紫白玉兰获奖"
-      ],
-      "rank": 15,
-      "movie_rank": 7
-    },
-    {
-      "title": "小孩曾卓君夺冠之路",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 344174,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
-      },
-      "raw_titles": [
-        "小孩曾卓君夺冠之路"
-      ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "杨紫被质疑未使用原名",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 333000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%AA%E4%BD%BF%E7%94%A8%E5%8E%9F%E5%90%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "杨紫被质疑未使用原名"
-      ],
-      "rank": 17,
-      "movie_rank": 8
+      "movie_rank": 5
     },
     {
       "title": "浪姐成团夜爆笑吐槽",
@@ -296,15 +214,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 330866,
+      "hot_value": 675559,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%A4%9C%E7%88%86%E7%AC%91%E5%90%90%E6%A7%BD"
       },
       "raw_titles": [
         "浪姐成团夜爆笑吐槽"
       ],
-      "rank": 18,
-      "movie_rank": 9
+      "rank": 12,
+      "movie_rank": 6
+    },
+    {
+      "title": "如何评价杨紫白玉兰获奖",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 646240,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9D%A8%E7%B4%AB%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96"
+      },
+      "raw_titles": [
+        "如何评价杨紫白玉兰获奖"
+      ],
+      "rank": 13,
+      "movie_rank": 7
+    },
+    {
+      "title": "巴西扳平比分",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 646236,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86"
+      },
+      "raw_titles": [
+        "巴西扳平比分"
+      ],
+      "rank": 14,
+      "sports_rank": 7
+    },
+    {
+      "title": "TLAW DCG",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 646229,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=TLAW%20DCG"
+      },
+      "raw_titles": [
+        "TLAW DCG"
+      ],
+      "rank": 15,
+      "movie_rank": 8
     },
     {
       "title": "火影兄弟之战佐助技能二爆料",
@@ -312,47 +278,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 315455,
+      "hot_value": 645390,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E5%85%84%E5%BC%9F%E4%B9%8B%E6%88%98%E4%BD%90%E5%8A%A9%E6%8A%80%E8%83%BD%E4%BA%8C%E7%88%86%E6%96%99"
       },
       "raw_titles": [
         "火影兄弟之战佐助技能二爆料"
       ],
-      "rank": 19,
-      "movie_rank": 10
+      "rank": 16,
+      "movie_rank": 9
     },
     {
-      "title": "詹姆斯下赛季去哪",
-      "category": "体育",
+      "title": "IGN评测电影版后室",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 312930,
+      "hot_value": 612022,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%8E%BB%E5%93%AA"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E6%B5%8B%E7%94%B5%E5%BD%B1%E7%89%88%E5%90%8E%E5%AE%A4"
       },
       "raw_titles": [
-        "詹姆斯下赛季去哪"
+        "IGN评测电影版后室"
       ],
-      "rank": 20,
-      "sports_rank": 10
-    },
-    {
-      "title": "巴西替补奇兵读秒绝杀",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 297000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E8%A5%BF%E6%9B%BF%E8%A1%A5%E5%A5%87%E5%85%B5%E8%AF%BB%E7%A7%92%E7%BB%9D%E6%9D%80&sa=fyb_news"
-      },
-      "raw_titles": [
-        "巴西替补奇兵读秒绝杀"
-      ],
-      "rank": 21,
-      "sports_rank": 11
+      "rank": 17,
+      "movie_rank": 10
     },
     {
       "title": "歌剧老师锐评歌手第6期",
@@ -360,127 +310,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 281093,
+      "hot_value": 561574,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC6%E6%9C%9F"
       },
       "raw_titles": [
         "歌剧老师锐评歌手第6期"
       ],
-      "rank": 22,
+      "rank": 18,
       "movie_rank": 11
-    },
-    {
-      "title": "电影后室值得看吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 277130,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%90%8E%E5%AE%A4%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
-      },
-      "raw_titles": [
-        "电影后室值得看吗"
-      ],
-      "rank": 23,
-      "movie_rank": 12
-    },
-    {
-      "title": "孙兴慜发长文致歉",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 270000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%85%B4%E6%85%9C%E5%8F%91%E9%95%BF%E6%96%87%E8%87%B4%E6%AD%89&sa=fyb_news"
-      },
-      "raw_titles": [
-        "孙兴慜发长文致歉"
-      ],
-      "rank": 24,
-      "sports_rank": 12
-    },
-    {
-      "title": "RAY评乘风2026总决赛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 253015,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E4%B9%98%E9%A3%8E2026%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "RAY评乘风2026总决赛"
-      ],
-      "rank": 25,
-      "sports_rank": 13
-    },
-    {
-      "title": "王欣瑜连续4年晋级温网第二轮",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 243000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%AC%A3%E7%91%9C%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E6%99%8B%E7%BA%A7%E6%B8%A9%E7%BD%91%E7%AC%AC%E4%BA%8C%E8%BD%AE&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王欣瑜连续4年晋级温网第二轮"
-      ],
-      "rank": 26,
-      "sports_rank": 14
-    },
-    {
-      "title": "三角洲首个单三GTI超人",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 242983,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E9%A6%96%E4%B8%AA%E5%8D%95%E4%B8%89GTI%E8%B6%85%E4%BA%BA"
-      },
-      "raw_titles": [
-        "三角洲首个单三GTI超人"
-      ],
-      "rank": 27,
-      "movie_rank": 13
-    },
-    {
-      "title": "Niko十一年生涯混剪纪录片",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 233248,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Niko%E5%8D%81%E4%B8%80%E5%B9%B4%E7%94%9F%E6%B6%AF%E6%B7%B7%E5%89%AA%E7%BA%AA%E5%BD%95%E7%89%87"
-      },
-      "raw_titles": [
-        "Niko十一年生涯混剪纪录片"
-      ],
-      "rank": 28,
-      "movie_rank": 14
-    },
-    {
-      "title": "猛龙快船交易或将达成",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 229552,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E9%BE%99%E5%BF%AB%E8%88%B9%E4%BA%A4%E6%98%93%E6%88%96%E5%B0%86%E8%BE%BE%E6%88%90"
-      },
-      "raw_titles": [
-        "猛龙快船交易或将达成"
-      ],
-      "rank": 29,
-      "sports_rank": 15
     },
     {
       "title": "曼城官宣马雷斯卡出任主教练",
@@ -488,47 +326,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 213446,
+      "hot_value": 522578,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E%E5%AE%98%E5%AE%A3%E9%A9%AC%E9%9B%B7%E6%96%AF%E5%8D%A1%E5%87%BA%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83"
       },
       "raw_titles": [
         "曼城官宣马雷斯卡出任主教练"
       ],
-      "rank": 30,
-      "sports_rank": 16
+      "rank": 19,
+      "sports_rank": 8
     },
     {
-      "title": "曝詹姆斯即将与勇士会面",
+      "title": "王楚钦孙颖莎vs皮斯特耶库库洛娃",
       "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9B%9D%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8D%B3%E5%B0%86%E4%B8%8E%E5%8B%87%E5%A3%AB%E4%BC%9A%E9%9D%A2&sa=fyb_news"
-      },
-      "raw_titles": [
-        "曝詹姆斯即将与勇士会面"
-      ],
-      "rank": 31,
-      "sports_rank": 17
-    },
-    {
-      "title": "檀健次王楚然吻戏看热了",
-      "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 179364,
+      "hot_value": 496605,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%90%BB%E6%88%8F%E7%9C%8B%E7%83%AD%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%9A%AE%E6%96%AF%E7%89%B9%E8%80%B6%E5%BA%93%E5%BA%93%E6%B4%9B%E5%A8%83"
       },
       "raw_titles": [
-        "檀健次王楚然吻戏看热了"
+        "王楚钦孙颖莎vs皮斯特耶库库洛娃"
       ],
-      "rank": 32,
-      "movie_rank": 15
+      "rank": 20,
+      "sports_rank": 9
     },
     {
       "title": "詹姆斯 勇士",
@@ -536,189 +358,143 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 167457,
+      "hot_value": 485288,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%20%E5%8B%87%E5%A3%AB"
       },
       "raw_titles": [
         "詹姆斯 勇士"
       ],
-      "rank": 33,
-      "sports_rank": 18
+      "rank": 21,
+      "sports_rank": 10
     },
     {
-      "title": "孙兴慜道歉",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 118109,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E9%81%93%E6%AD%89"
-      },
-      "raw_titles": [
-        "孙兴慜道歉"
-      ],
-      "rank": 34,
-      "sports_rank": 19
-    },
-    {
-      "title": "周冬雨多次说演不了话剧文城",
+      "title": "檀健次王楚然吻戏看热了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 112254,
+      "hot_value": 477111,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E5%A4%9A%E6%AC%A1%E8%AF%B4%E6%BC%94%E4%B8%8D%E4%BA%86%E8%AF%9D%E5%89%A7%E6%96%87%E5%9F%8E"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%90%BB%E6%88%8F%E7%9C%8B%E7%83%AD%E4%BA%86"
       },
       "raw_titles": [
-        "周冬雨多次说演不了话剧文城"
+        "檀健次王楚然吻戏看热了"
       ],
-      "rank": 35,
-      "movie_rank": 16
+      "rank": 22,
+      "movie_rank": 12
     },
     {
-      "title": "在没有空调的巴黎感受世纪热浪",
+      "title": "F1奥地利正赛最快单圈视角",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 108000,
+      "hot_value": 474693,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9C%A8%E6%B2%A1%E6%9C%89%E7%A9%BA%E8%B0%83%E7%9A%84%E5%B7%B4%E9%BB%8E%E6%84%9F%E5%8F%97%E4%B8%96%E7%BA%AA%E7%83%AD%E6%B5%AA&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%A5%A5%E5%9C%B0%E5%88%A9%E6%AD%A3%E8%B5%9B%E6%9C%80%E5%BF%AB%E5%8D%95%E5%9C%88%E8%A7%86%E8%A7%92"
       },
       "raw_titles": [
-        "在没有空调的巴黎感受世纪热浪"
+        "F1奥地利正赛最快单圈视角"
       ],
-      "rank": 36,
-      "sports_rank": 20
+      "rank": 23,
+      "sports_rank": 11
     },
     {
-      "title": "赵丽颖风吹半夏含金量还在上升",
+      "title": "王楚钦说配合稍微有些陌生感",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 472949,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E9%85%8D%E5%90%88%E7%A8%8D%E5%BE%AE%E6%9C%89%E4%BA%9B%E9%99%8C%E7%94%9F%E6%84%9F"
+      },
+      "raw_titles": [
+        "王楚钦说配合稍微有些陌生感"
+      ],
+      "rank": 24,
+      "sports_rank": 12
+    },
+    {
+      "title": "王源近几年没有路演了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 105075,
+      "hot_value": 470108,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%A3%8E%E5%90%B9%E5%8D%8A%E5%A4%8F%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E8%BF%91%E5%87%A0%E5%B9%B4%E6%B2%A1%E6%9C%89%E8%B7%AF%E6%BC%94%E4%BA%86"
       },
       "raw_titles": [
-        "赵丽颖风吹半夏含金量还在上升"
+        "王源近几年没有路演了"
       ],
-      "rank": 37,
-      "movie_rank": 17
+      "rank": 25,
+      "movie_rank": 13
     },
     {
-      "title": "张帅时隔四年晋级温网第二轮",
+      "title": "小孩曾卓君夺冠之路",
       "category": "体育",
       "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E5%B8%85%E6%97%B6%E9%9A%94%E5%9B%9B%E5%B9%B4%E6%99%8B%E7%BA%A7%E6%B8%A9%E7%BD%91%E7%AC%AC%E4%BA%8C%E8%BD%AE&sa=fyb_news"
-      },
-      "raw_titles": [
-        "张帅时隔四年晋级温网第二轮"
-      ],
-      "rank": 38,
-      "sports_rank": 21
-    },
-    {
-      "title": "中国18岁小将再现一投夺冠",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD18%E5%B2%81%E5%B0%8F%E5%B0%86%E5%86%8D%E7%8E%B0%E4%B8%80%E6%8A%95%E5%A4%BA%E5%86%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "中国18岁小将再现一投夺冠"
-      ],
-      "rank": 39,
-      "sports_rank": 22
-    }
-  ],
-  "sports": [
-    {
-      "title": "世界杯",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "微博",
-        "百度",
-        "百度",
-        "百度",
-        "抖音",
-        "抖音",
-        "哔哩哔哩",
-        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 17650837,
+      "hot_value": 457809,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%90%E4%BA%AE%E6%80%92%E6%96%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B8%A2%E5%81%87%E7%90%83",
-        "百度": "https://m.baidu.com/s?word=%E8%BF%99%E5%87%A0%E7%A7%92%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%80%BC%E9%92%B1%E5%B9%BF%E5%91%8A%E4%BD%8D&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E8%B0%81%E6%98%AF%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%86%A0%E5%86%9B",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
       },
       "raw_titles": [
-        "世界杯"
+        "小孩曾卓君夺冠之路"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 26,
+      "sports_rank": 13
     },
     {
-      "title": "哈兰德发抖音全力备战淘汰赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7539602,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%91%E6%8A%96%E9%9F%B3%E5%85%A8%E5%8A%9B%E5%A4%87%E6%88%98%E6%B7%98%E6%B1%B0%E8%B5%9B"
-      },
-      "raw_titles": [
-        "哈兰德发抖音全力备战淘汰赛"
-      ],
-      "rank": 5,
-      "sports_rank": 2
-    },
-    {
-      "title": "巴西绝杀",
+      "title": "郑钦文温网三连败西尼亚科娃",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 4086047,
+      "hot_value": 456932,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80"
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%B8%A9%E7%BD%91%E4%B8%89%E8%BF%9E%E8%B4%A5%E8%A5%BF%E5%B0%BC%E4%BA%9A%E7%A7%91%E5%A8%83"
       },
       "raw_titles": [
-        "巴西绝杀"
+        "郑钦文温网三连败西尼亚科娃"
       ],
-      "rank": 6,
-      "sports_rank": 3
+      "rank": 27,
+      "sports_rank": 14
     },
     {
-      "title": "巴西2-1绝杀日本",
+      "title": "德国巴拉圭加时",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 2662354,
+      "hot_value": 455833,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF2-1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%8A%A0%E6%97%B6"
       },
       "raw_titles": [
-        "巴西2-1绝杀日本"
+        "德国巴拉圭加时"
       ],
-      "rank": 8,
-      "sports_rank": 4
+      "rank": 28,
+      "sports_rank": 15
+    },
+    {
+      "title": "孙颖莎王楚钦晋级8强",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 446669,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A78%E5%BC%BA"
+      },
+      "raw_titles": [
+        "孙颖莎王楚钦晋级8强"
+      ],
+      "rank": 29,
+      "sports_rank": 16
     },
     {
       "title": "补时绝杀 巴西2-1淘汰日本",
@@ -726,31 +502,95 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 450000,
+      "hot_value": 441000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%A1%A5%E6%97%B6%E7%BB%9D%E6%9D%80+%E5%B7%B4%E8%A5%BF2-1%E6%B7%98%E6%B1%B0%E6%97%A5%E6%9C%AC&sa=fyb_news"
       },
       "raw_titles": [
         "补时绝杀 巴西2-1淘汰日本"
       ],
-      "rank": 10,
-      "sports_rank": 5
+      "rank": 30,
+      "sports_rank": 17
     },
     {
-      "title": "日本球员说被绝杀非常不甘心",
+      "title": "F1奥地利站赛后复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 440452,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%A5%A5%E5%9C%B0%E5%88%A9%E7%AB%99%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "F1奥地利站赛后复盘"
+      ],
+      "rank": 31,
+      "sports_rank": 18
+    },
+    {
+      "title": "猛龙快船交易或将达成",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 418530,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E9%BE%99%E5%BF%AB%E8%88%B9%E4%BA%A4%E6%98%93%E6%88%96%E5%B0%86%E8%BE%BE%E6%88%90"
+      },
+      "raw_titles": [
+        "猛龙快船交易或将达成"
+      ],
+      "rank": 32,
+      "sports_rank": 19
+    },
+    {
+      "title": "日本遭读秒绝杀 森保一：我水平不够",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 414000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E9%81%AD%E8%AF%BB%E7%A7%92%E7%BB%9D%E6%9D%80+%E6%A3%AE%E4%BF%9D%E4%B8%80%EF%BC%9A%E6%88%91%E6%B0%B4%E5%B9%B3%E4%B8%8D%E5%A4%9F&sa=fyb_news"
+      },
+      "raw_titles": [
+        "日本遭读秒绝杀 森保一：我水平不够"
+      ],
+      "rank": 33,
+      "sports_rank": 20
+    },
+    {
+      "title": "德国罚丢3粒点球",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 405000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E8%AF%B4%E8%A2%AB%E7%BB%9D%E6%9D%80%E9%9D%9E%E5%B8%B8%E4%B8%8D%E7%94%98%E5%BF%83&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E5%9B%BD%E7%BD%9A%E4%B8%A23%E7%B2%92%E7%82%B9%E7%90%83&sa=fyb_news"
       },
       "raw_titles": [
-        "日本球员说被绝杀非常不甘心"
+        "德国罚丢3粒点球"
       ],
-      "rank": 11,
-      "sports_rank": 6
+      "rank": 34,
+      "sports_rank": 21
+    },
+    {
+      "title": "詹姆斯下赛季去哪",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 404078,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%8E%BB%E5%93%AA"
+      },
+      "raw_titles": [
+        "詹姆斯下赛季去哪"
+      ],
+      "rank": 35,
+      "sports_rank": 22
     },
     {
       "title": "郑钦文温网一轮游",
@@ -765,56 +605,40 @@
       "raw_titles": [
         "郑钦文温网一轮游"
       ],
-      "rank": 12,
-      "sports_rank": 7
+      "rank": 36,
+      "sports_rank": 23
     },
     {
-      "title": "巴西扳平比分",
+      "title": "哈弗茨罚丢点球",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 354963,
+      "hot_value": 315000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86"
+        "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%BC%97%E8%8C%A8%E7%BD%9A%E4%B8%A2%E7%82%B9%E7%90%83&sa=fyb_news"
       },
       "raw_titles": [
-        "巴西扳平比分"
+        "哈弗茨罚丢点球"
       ],
-      "rank": 14,
-      "sports_rank": 8
+      "rank": 37,
+      "sports_rank": 24
     },
     {
-      "title": "小孩曾卓君夺冠之路",
+      "title": "日本球员说被绝杀非常不甘心",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 344174,
+      "hot_value": 252000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
+        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E8%AF%B4%E8%A2%AB%E7%BB%9D%E6%9D%80%E9%9D%9E%E5%B8%B8%E4%B8%8D%E7%94%98%E5%BF%83&sa=fyb_news"
       },
       "raw_titles": [
-        "小孩曾卓君夺冠之路"
+        "日本球员说被绝杀非常不甘心"
       ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "詹姆斯下赛季去哪",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 312930,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%8E%BB%E5%93%AA"
-      },
-      "raw_titles": [
-        "詹姆斯下赛季去哪"
-      ],
-      "rank": 20,
-      "sports_rank": 10
+      "rank": 38,
+      "sports_rank": 25
     },
     {
       "title": "巴西替补奇兵读秒绝杀",
@@ -822,15 +646,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 297000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E8%A5%BF%E6%9B%BF%E8%A1%A5%E5%A5%87%E5%85%B5%E8%AF%BB%E7%A7%92%E7%BB%9D%E6%9D%80&sa=fyb_news"
       },
       "raw_titles": [
         "巴西替补奇兵读秒绝杀"
       ],
-      "rank": 21,
-      "sports_rank": 11
+      "rank": 39,
+      "sports_rank": 26
     },
     {
       "title": "孙兴慜发长文致歉",
@@ -838,63 +662,185 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 270000,
+      "hot_value": 207000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%85%B4%E6%85%9C%E5%8F%91%E9%95%BF%E6%96%87%E8%87%B4%E6%AD%89&sa=fyb_news"
       },
       "raw_titles": [
         "孙兴慜发长文致歉"
       ],
-      "rank": 24,
-      "sports_rank": 12
+      "rank": 40,
+      "sports_rank": 27
     },
     {
-      "title": "RAY评乘风2026总决赛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 253015,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E4%B9%98%E9%A3%8E2026%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "RAY评乘风2026总决赛"
-      ],
-      "rank": 25,
-      "sports_rank": 13
-    },
-    {
-      "title": "王欣瑜连续4年晋级温网第二轮",
+      "title": "武磊：巴西队赢的并不轻松",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 144000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%AC%A3%E7%91%9C%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E6%99%8B%E7%BA%A7%E6%B8%A9%E7%BD%91%E7%AC%AC%E4%BA%8C%E8%BD%AE&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E7%A3%8A%EF%BC%9A%E5%B7%B4%E8%A5%BF%E9%98%9F%E8%B5%A2%E7%9A%84%E5%B9%B6%E4%B8%8D%E8%BD%BB%E6%9D%BE&sa=fyb_news"
       },
       "raw_titles": [
-        "王欣瑜连续4年晋级温网第二轮"
+        "武磊：巴西队赢的并不轻松"
       ],
-      "rank": 26,
-      "sports_rank": 14
+      "rank": 41,
+      "sports_rank": 28
     },
     {
-      "title": "猛龙快船交易或将达成",
+      "title": "王楚钦孙颖莎晋级混双八强",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 36000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E6%B7%B7%E5%8F%8C%E5%85%AB%E5%BC%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王楚钦孙颖莎晋级混双八强"
+      ],
+      "rank": 42,
+      "sports_rank": 29
+    }
+  ],
+  "sports": [
+    {
+      "title": "点球大战",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 29286844,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98",
+        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E9%A6%96%E8%B4%A5&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E5%BE%B7%E5%9B%BD",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E4%B8%8D%E6%95%8C%E5%B7%B4%E6%8B%89%E5%9C%AD"
+      },
+      "raw_titles": [
+        "点球大战"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "巴西2:1绝杀日本",
+      "category": "体育",
+      "sources": [
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 22838992,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF2%3A1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF2-1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC"
+      },
+      "raw_titles": [
+        "巴西2:1绝杀日本"
+      ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "世界杯",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "抖音",
+        "抖音",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 18750789,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E7%94%BB%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%92%A2%E9%93%81%E9%98%B2%E7%BA%BF&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E7%A5%96%E8%93%9D%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89"
+      },
+      "raw_titles": [
+        "世界杯"
+      ],
+      "rank": 3,
+      "sports_rank": 3
+    },
+    {
+      "title": "中国小将严子怡再现一投夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7736457,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E4%B8%A5%E5%AD%90%E6%80%A1%E5%86%8D%E7%8E%B0%E4%B8%80%E6%8A%95%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "中国小将严子怡再现一投夺冠"
+      ],
+      "rank": 4,
+      "sports_rank": 4
+    },
+    {
+      "title": "巴西绝杀",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 7494275,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80",
+        "百度": "https://m.baidu.com/s?word=%E8%A2%AB%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E5%90%8E+%E6%97%A5%E7%90%83%E5%91%98%E7%94%B0%E4%B8%AD%E7%A2%A7%E8%B7%AA%E5%9C%B0%E7%97%9B%E5%93%AD&sa=fyb_news"
+      },
+      "raw_titles": [
+        "巴西绝杀"
+      ],
+      "rank": 6,
+      "sports_rank": 5
+    },
+    {
+      "title": "莫兰特转投开拓者效力",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 229552,
+      "hot_value": 1141456,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E9%BE%99%E5%BF%AB%E8%88%B9%E4%BA%A4%E6%98%93%E6%88%96%E5%B0%86%E8%BE%BE%E6%88%90"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8E%AB%E5%85%B0%E7%89%B9%E8%BD%AC%E6%8A%95%E5%BC%80%E6%8B%93%E8%80%85%E6%95%88%E5%8A%9B"
       },
       "raw_titles": [
-        "猛龙快船交易或将达成"
+        "莫兰特转投开拓者效力"
       ],
-      "rank": 29,
-      "sports_rank": 15
+      "rank": 8,
+      "sports_rank": 6
+    },
+    {
+      "title": "巴西扳平比分",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 646236,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86"
+      },
+      "raw_titles": [
+        "巴西扳平比分"
+      ],
+      "rank": 14,
+      "sports_rank": 7
     },
     {
       "title": "曼城官宣马雷斯卡出任主教练",
@@ -902,31 +848,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 213446,
+      "hot_value": 522578,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E%E5%AE%98%E5%AE%A3%E9%A9%AC%E9%9B%B7%E6%96%AF%E5%8D%A1%E5%87%BA%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83"
       },
       "raw_titles": [
         "曼城官宣马雷斯卡出任主教练"
       ],
-      "rank": 30,
-      "sports_rank": 16
+      "rank": 19,
+      "sports_rank": 8
     },
     {
-      "title": "曝詹姆斯即将与勇士会面",
+      "title": "王楚钦孙颖莎vs皮斯特耶库库洛娃",
       "category": "体育",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 189000,
+      "hot_value": 496605,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9B%9D%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8D%B3%E5%B0%86%E4%B8%8E%E5%8B%87%E5%A3%AB%E4%BC%9A%E9%9D%A2&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%9A%AE%E6%96%AF%E7%89%B9%E8%80%B6%E5%BA%93%E5%BA%93%E6%B4%9B%E5%A8%83"
       },
       "raw_titles": [
-        "曝詹姆斯即将与勇士会面"
+        "王楚钦孙颖莎vs皮斯特耶库库洛娃"
       ],
-      "rank": 31,
-      "sports_rank": 17
+      "rank": 20,
+      "sports_rank": 9
     },
     {
       "title": "詹姆斯 勇士",
@@ -934,79 +880,319 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 167457,
+      "hot_value": 485288,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%20%E5%8B%87%E5%A3%AB"
       },
       "raw_titles": [
         "詹姆斯 勇士"
       ],
-      "rank": 33,
-      "sports_rank": 18
+      "rank": 21,
+      "sports_rank": 10
     },
     {
-      "title": "孙兴慜道歉",
+      "title": "F1奥地利正赛最快单圈视角",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 474693,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%A5%A5%E5%9C%B0%E5%88%A9%E6%AD%A3%E8%B5%9B%E6%9C%80%E5%BF%AB%E5%8D%95%E5%9C%88%E8%A7%86%E8%A7%92"
+      },
+      "raw_titles": [
+        "F1奥地利正赛最快单圈视角"
+      ],
+      "rank": 23,
+      "sports_rank": 11
+    },
+    {
+      "title": "王楚钦说配合稍微有些陌生感",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 118109,
+      "hot_value": 472949,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E9%81%93%E6%AD%89"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E9%85%8D%E5%90%88%E7%A8%8D%E5%BE%AE%E6%9C%89%E4%BA%9B%E9%99%8C%E7%94%9F%E6%84%9F"
       },
       "raw_titles": [
-        "孙兴慜道歉"
+        "王楚钦说配合稍微有些陌生感"
       ],
-      "rank": 34,
+      "rank": 24,
+      "sports_rank": 12
+    },
+    {
+      "title": "小孩曾卓君夺冠之路",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 457809,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
+      },
+      "raw_titles": [
+        "小孩曾卓君夺冠之路"
+      ],
+      "rank": 26,
+      "sports_rank": 13
+    },
+    {
+      "title": "郑钦文温网三连败西尼亚科娃",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 456932,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%B8%A9%E7%BD%91%E4%B8%89%E8%BF%9E%E8%B4%A5%E8%A5%BF%E5%B0%BC%E4%BA%9A%E7%A7%91%E5%A8%83"
+      },
+      "raw_titles": [
+        "郑钦文温网三连败西尼亚科娃"
+      ],
+      "rank": 27,
+      "sports_rank": 14
+    },
+    {
+      "title": "德国巴拉圭加时",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 455833,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%8A%A0%E6%97%B6"
+      },
+      "raw_titles": [
+        "德国巴拉圭加时"
+      ],
+      "rank": 28,
+      "sports_rank": 15
+    },
+    {
+      "title": "孙颖莎王楚钦晋级8强",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 446669,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A78%E5%BC%BA"
+      },
+      "raw_titles": [
+        "孙颖莎王楚钦晋级8强"
+      ],
+      "rank": 29,
+      "sports_rank": 16
+    },
+    {
+      "title": "补时绝杀 巴西2-1淘汰日本",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 441000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A1%A5%E6%97%B6%E7%BB%9D%E6%9D%80+%E5%B7%B4%E8%A5%BF2-1%E6%B7%98%E6%B1%B0%E6%97%A5%E6%9C%AC&sa=fyb_news"
+      },
+      "raw_titles": [
+        "补时绝杀 巴西2-1淘汰日本"
+      ],
+      "rank": 30,
+      "sports_rank": 17
+    },
+    {
+      "title": "F1奥地利站赛后复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 440452,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%A5%A5%E5%9C%B0%E5%88%A9%E7%AB%99%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "F1奥地利站赛后复盘"
+      ],
+      "rank": 31,
+      "sports_rank": 18
+    },
+    {
+      "title": "猛龙快船交易或将达成",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 418530,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E9%BE%99%E5%BF%AB%E8%88%B9%E4%BA%A4%E6%98%93%E6%88%96%E5%B0%86%E8%BE%BE%E6%88%90"
+      },
+      "raw_titles": [
+        "猛龙快船交易或将达成"
+      ],
+      "rank": 32,
       "sports_rank": 19
     },
     {
-      "title": "在没有空调的巴黎感受世纪热浪",
+      "title": "日本遭读秒绝杀 森保一：我水平不够",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 108000,
+      "hot_value": 414000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9C%A8%E6%B2%A1%E6%9C%89%E7%A9%BA%E8%B0%83%E7%9A%84%E5%B7%B4%E9%BB%8E%E6%84%9F%E5%8F%97%E4%B8%96%E7%BA%AA%E7%83%AD%E6%B5%AA&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E9%81%AD%E8%AF%BB%E7%A7%92%E7%BB%9D%E6%9D%80+%E6%A3%AE%E4%BF%9D%E4%B8%80%EF%BC%9A%E6%88%91%E6%B0%B4%E5%B9%B3%E4%B8%8D%E5%A4%9F&sa=fyb_news"
       },
       "raw_titles": [
-        "在没有空调的巴黎感受世纪热浪"
+        "日本遭读秒绝杀 森保一：我水平不够"
       ],
-      "rank": 36,
+      "rank": 33,
       "sports_rank": 20
     },
     {
-      "title": "张帅时隔四年晋级温网第二轮",
+      "title": "德国罚丢3粒点球",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 405000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E5%B8%85%E6%97%B6%E9%9A%94%E5%9B%9B%E5%B9%B4%E6%99%8B%E7%BA%A7%E6%B8%A9%E7%BD%91%E7%AC%AC%E4%BA%8C%E8%BD%AE&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E5%9B%BD%E7%BD%9A%E4%B8%A23%E7%B2%92%E7%82%B9%E7%90%83&sa=fyb_news"
       },
       "raw_titles": [
-        "张帅时隔四年晋级温网第二轮"
+        "德国罚丢3粒点球"
       ],
-      "rank": 38,
+      "rank": 34,
       "sports_rank": 21
     },
     {
-      "title": "中国18岁小将再现一投夺冠",
+      "title": "詹姆斯下赛季去哪",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 404078,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%8E%BB%E5%93%AA"
+      },
+      "raw_titles": [
+        "詹姆斯下赛季去哪"
+      ],
+      "rank": 35,
+      "sports_rank": 22
+    },
+    {
+      "title": "郑钦文温网一轮游",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 9000,
+      "hot_value": 378000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD18%E5%B2%81%E5%B0%8F%E5%B0%86%E5%86%8D%E7%8E%B0%E4%B8%80%E6%8A%95%E5%A4%BA%E5%86%A0&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%B8%A9%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8&sa=fyb_news"
       },
       "raw_titles": [
-        "中国18岁小将再现一投夺冠"
+        "郑钦文温网一轮游"
+      ],
+      "rank": 36,
+      "sports_rank": 23
+    },
+    {
+      "title": "哈弗茨罚丢点球",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 315000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%BC%97%E8%8C%A8%E7%BD%9A%E4%B8%A2%E7%82%B9%E7%90%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "哈弗茨罚丢点球"
+      ],
+      "rank": 37,
+      "sports_rank": 24
+    },
+    {
+      "title": "日本球员说被绝杀非常不甘心",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 252000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E8%AF%B4%E8%A2%AB%E7%BB%9D%E6%9D%80%E9%9D%9E%E5%B8%B8%E4%B8%8D%E7%94%98%E5%BF%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "日本球员说被绝杀非常不甘心"
+      ],
+      "rank": 38,
+      "sports_rank": 25
+    },
+    {
+      "title": "巴西替补奇兵读秒绝杀",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E8%A5%BF%E6%9B%BF%E8%A1%A5%E5%A5%87%E5%85%B5%E8%AF%BB%E7%A7%92%E7%BB%9D%E6%9D%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "巴西替补奇兵读秒绝杀"
       ],
       "rank": 39,
-      "sports_rank": 22
+      "sports_rank": 26
+    },
+    {
+      "title": "孙兴慜发长文致歉",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 207000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%85%B4%E6%85%9C%E5%8F%91%E9%95%BF%E6%96%87%E8%87%B4%E6%AD%89&sa=fyb_news"
+      },
+      "raw_titles": [
+        "孙兴慜发长文致歉"
+      ],
+      "rank": 40,
+      "sports_rank": 27
+    },
+    {
+      "title": "武磊：巴西队赢的并不轻松",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E7%A3%8A%EF%BC%9A%E5%B7%B4%E8%A5%BF%E9%98%9F%E8%B5%A2%E7%9A%84%E5%B9%B6%E4%B8%8D%E8%BD%BB%E6%9D%BE&sa=fyb_news"
+      },
+      "raw_titles": [
+        "武磊：巴西队赢的并不轻松"
+      ],
+      "rank": 41,
+      "sports_rank": 28
+    },
+    {
+      "title": "王楚钦孙颖莎晋级混双八强",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 36000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E6%B7%B7%E5%8F%8C%E5%85%AB%E5%BC%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王楚钦孙颖莎晋级混双八强"
+      ],
+      "rank": 42,
+      "sports_rank": 29
     }
   ],
   "movies": [
@@ -1016,47 +1202,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7702283,
+      "hot_value": 7680305,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E5%90%AF%E5%8D%8E%E8%87%AA%E6%9B%9D%E5%8D%96%E8%82%96%E5%83%8F%E6%9D%83%E6%8B%8DAI%E7%94%B5%E5%BD%B1"
       },
       "raw_titles": [
         "吴启华自曝卖肖像权拍AI电影"
       ],
-      "rank": 2,
+      "rank": 5,
       "movie_rank": 1
-    },
-    {
-      "title": "迪丽热巴获CMG年度女演员",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7649994,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8E%B7CMG%E5%B9%B4%E5%BA%A6%E5%A5%B3%E6%BC%94%E5%91%98"
-      },
-      "raw_titles": [
-        "迪丽热巴获CMG年度女演员"
-      ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "灿如繁星定档0705",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7611959,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E5%AE%9A%E6%A1%A30705"
-      },
-      "raw_titles": [
-        "灿如繁星定档0705"
-      ],
-      "rank": 4,
-      "movie_rank": 3
     },
     {
       "title": "赛博朋克边缘行者2预告片",
@@ -1064,7 +1218,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2675800,
+      "hot_value": 3049892,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E9%A2%84%E5%91%8A%E7%89%87"
       },
@@ -1072,6 +1226,40 @@
         "赛博朋克边缘行者2预告片"
       ],
       "rank": 7,
+      "movie_rank": 2
+    },
+    {
+      "title": "金鹰奖视后提名预测",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1125484,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E8%A7%86%E5%90%8E%E6%8F%90%E5%90%8D%E9%A2%84%E6%B5%8B"
+      },
+      "raw_titles": [
+        "金鹰奖视后提名预测"
+      ],
+      "rank": 9,
+      "movie_rank": 3
+    },
+    {
+      "title": "杨紫被质疑未使用原名纯属误解",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 850196,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%AA%E4%BD%BF%E7%94%A8%E5%8E%9F%E5%90%8D%E7%BA%AF%E5%B1%9E%E8%AF%AF%E8%A7%A3",
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%AA%E4%BD%BF%E7%94%A8%E5%8E%9F%E5%90%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "杨紫被质疑未使用原名纯属误解"
+      ],
+      "rank": 10,
       "movie_rank": 4
     },
     {
@@ -1081,7 +1269,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 506096,
+      "hot_value": 808826,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%E4%B8%BA%E4%BD%95%E4%BA%89%E8%AE%AE%E9%9A%BE%E5%B9%B3",
         "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%E4%BA%89%E8%AE%AE%E4%B8%8D%E6%AD%A2&sa=fyb_news"
@@ -1089,23 +1277,23 @@
       "raw_titles": [
         "杨紫获白玉兰视后为何争议难平"
       ],
-      "rank": 9,
+      "rank": 11,
       "movie_rank": 5
     },
     {
-      "title": "王源近几年没有路演了",
+      "title": "浪姐成团夜爆笑吐槽",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 359848,
+      "hot_value": 675559,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E8%BF%91%E5%87%A0%E5%B9%B4%E6%B2%A1%E6%9C%89%E8%B7%AF%E6%BC%94%E4%BA%86"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%A4%9C%E7%88%86%E7%AC%91%E5%90%90%E6%A7%BD"
       },
       "raw_titles": [
-        "王源近几年没有路演了"
+        "浪姐成团夜爆笑吐槽"
       ],
-      "rank": 13,
+      "rank": 12,
       "movie_rank": 6
     },
     {
@@ -1114,47 +1302,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 345045,
+      "hot_value": 646240,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9D%A8%E7%B4%AB%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96"
       },
       "raw_titles": [
         "如何评价杨紫白玉兰获奖"
       ],
-      "rank": 15,
+      "rank": 13,
       "movie_rank": 7
     },
     {
-      "title": "杨紫被质疑未使用原名",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 333000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%AA%E4%BD%BF%E7%94%A8%E5%8E%9F%E5%90%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "杨紫被质疑未使用原名"
-      ],
-      "rank": 17,
-      "movie_rank": 8
-    },
-    {
-      "title": "浪姐成团夜爆笑吐槽",
+      "title": "TLAW DCG",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 330866,
+      "hot_value": 646229,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%A4%9C%E7%88%86%E7%AC%91%E5%90%90%E6%A7%BD"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=TLAW%20DCG"
       },
       "raw_titles": [
-        "浪姐成团夜爆笑吐槽"
+        "TLAW DCG"
       ],
-      "rank": 18,
-      "movie_rank": 9
+      "rank": 15,
+      "movie_rank": 8
     },
     {
       "title": "火影兄弟之战佐助技能二爆料",
@@ -1162,14 +1334,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 315455,
+      "hot_value": 645390,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E5%85%84%E5%BC%9F%E4%B9%8B%E6%88%98%E4%BD%90%E5%8A%A9%E6%8A%80%E8%83%BD%E4%BA%8C%E7%88%86%E6%96%99"
       },
       "raw_titles": [
         "火影兄弟之战佐助技能二爆料"
       ],
-      "rank": 19,
+      "rank": 16,
+      "movie_rank": 9
+    },
+    {
+      "title": "IGN评测电影版后室",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 612022,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E6%B5%8B%E7%94%B5%E5%BD%B1%E7%89%88%E5%90%8E%E5%AE%A4"
+      },
+      "raw_titles": [
+        "IGN评测电影版后室"
+      ],
+      "rank": 17,
       "movie_rank": 10
     },
     {
@@ -1178,63 +1366,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 281093,
+      "hot_value": 561574,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC6%E6%9C%9F"
       },
       "raw_titles": [
         "歌剧老师锐评歌手第6期"
       ],
-      "rank": 22,
+      "rank": 18,
       "movie_rank": 11
-    },
-    {
-      "title": "电影后室值得看吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 277130,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%90%8E%E5%AE%A4%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
-      },
-      "raw_titles": [
-        "电影后室值得看吗"
-      ],
-      "rank": 23,
-      "movie_rank": 12
-    },
-    {
-      "title": "三角洲首个单三GTI超人",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 242983,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E9%A6%96%E4%B8%AA%E5%8D%95%E4%B8%89GTI%E8%B6%85%E4%BA%BA"
-      },
-      "raw_titles": [
-        "三角洲首个单三GTI超人"
-      ],
-      "rank": 27,
-      "movie_rank": 13
-    },
-    {
-      "title": "Niko十一年生涯混剪纪录片",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 233248,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Niko%E5%8D%81%E4%B8%80%E5%B9%B4%E7%94%9F%E6%B6%AF%E6%B7%B7%E5%89%AA%E7%BA%AA%E5%BD%95%E7%89%87"
-      },
-      "raw_titles": [
-        "Niko十一年生涯混剪纪录片"
-      ],
-      "rank": 28,
-      "movie_rank": 14
     },
     {
       "title": "檀健次王楚然吻戏看热了",
@@ -1242,47 +1382,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 179364,
+      "hot_value": 477111,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%90%BB%E6%88%8F%E7%9C%8B%E7%83%AD%E4%BA%86"
       },
       "raw_titles": [
         "檀健次王楚然吻戏看热了"
       ],
-      "rank": 32,
-      "movie_rank": 15
+      "rank": 22,
+      "movie_rank": 12
     },
     {
-      "title": "周冬雨多次说演不了话剧文城",
+      "title": "王源近几年没有路演了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 112254,
+      "hot_value": 470108,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E5%A4%9A%E6%AC%A1%E8%AF%B4%E6%BC%94%E4%B8%8D%E4%BA%86%E8%AF%9D%E5%89%A7%E6%96%87%E5%9F%8E"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E8%BF%91%E5%87%A0%E5%B9%B4%E6%B2%A1%E6%9C%89%E8%B7%AF%E6%BC%94%E4%BA%86"
       },
       "raw_titles": [
-        "周冬雨多次说演不了话剧文城"
+        "王源近几年没有路演了"
       ],
-      "rank": 35,
-      "movie_rank": 16
-    },
-    {
-      "title": "赵丽颖风吹半夏含金量还在上升",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 105075,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%A3%8E%E5%90%B9%E5%8D%8A%E5%A4%8F%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87"
-      },
-      "raw_titles": [
-        "赵丽颖风吹半夏含金量还在上升"
-      ],
-      "rank": 37,
-      "movie_rank": 17
+      "rank": 25,
+      "movie_rank": 13
     }
   ]
 }
