@@ -1,24 +1,57 @@
 {
-  "update_time": "2026-07-01 04:00:49",
-  "total": 38,
-  "sports_count": 24,
-  "movie_count": 16,
+  "update_time": "2026-07-01 05:00:45",
+  "total": 42,
+  "sports_count": 27,
+  "movie_count": 17,
   "all": [
+    {
+      "title": "猛龙交易伦纳德报价曝光",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 10540905,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8C%9B%E9%BE%99%E4%BA%A4%E6%98%93%E4%BC%A6%E7%BA%B3%E5%BE%B7%E6%8A%A5%E4%BB%B7%E6%9B%9D%E5%85%89"
+      },
+      "raw_titles": [
+        "猛龙交易伦纳德报价曝光"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "当浪姐团遇上世界杯",
+      "category": "综合",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8752569,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%BD%93%E6%B5%AA%E5%A7%90%E5%9B%A2%E9%81%87%E4%B8%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "当浪姐团遇上世界杯"
+      ],
+      "rank": 2,
+      "sports_rank": 2,
+      "movie_rank": 1
+    },
     {
       "title": "炽夏大结局",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8933479,
+      "hot_value": 8715322,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%82%BD%E5%A4%8F%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "炽夏大结局"
       ],
-      "rank": 1,
-      "movie_rank": 1
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "摩洛哥点球大战淘汰荷兰",
@@ -28,7 +61,7 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 8211460,
+      "hot_value": 8115890,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%91%A9%E6%B4%9B%E5%93%A5%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E8%8D%B7%E5%85%B0",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%91%A9%E6%B4%9B%E5%93%A5%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E8%8D%B7%E5%85%B0"
@@ -36,25 +69,26 @@
       "raw_titles": [
         "摩洛哥点球大战淘汰荷兰"
       ],
-      "rank": 2,
-      "sports_rank": 1
+      "rank": 4,
+      "sports_rank": 3
     },
     {
-      "title": "当浪姐团遇上世界杯",
-      "category": "综合",
+      "title": "巴西2:1绝杀日本",
+      "category": "体育",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 7767866,
+      "hot_value": 7832284,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BD%93%E6%B5%AA%E5%A7%90%E5%9B%A2%E9%81%87%E4%B8%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF2%3A1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF2-1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC"
       },
       "raw_titles": [
-        "当浪姐团遇上世界杯"
+        "巴西2:1绝杀日本"
       ],
-      "rank": 3,
-      "sports_rank": 2,
-      "movie_rank": 2
+      "rank": 5,
+      "sports_rank": 4
     },
     {
       "title": "哈兰德把抖音当朋友圈发",
@@ -62,47 +96,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7765111,
+      "hot_value": 7776627,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%8A%8A%E6%8A%96%E9%9F%B3%E5%BD%93%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91"
       },
       "raw_titles": [
         "哈兰德把抖音当朋友圈发"
       ],
-      "rank": 4,
-      "sports_rank": 3
-    },
-    {
-      "title": "电影抓特务对白含金量",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7756534,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E5%AF%B9%E7%99%BD%E5%90%AB%E9%87%91%E9%87%8F"
-      },
-      "raw_titles": [
-        "电影抓特务对白含金量"
-      ],
-      "rank": 5,
-      "movie_rank": 3
-    },
-    {
-      "title": "巴西2:1绝杀日本",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7736969,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF2%3A1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC"
-      },
-      "raw_titles": [
-        "巴西2:1绝杀日本"
-      ],
       "rank": 6,
-      "sports_rank": 4
+      "sports_rank": 5
     },
     {
       "title": "巴拉圭点球大战淘汰德国",
@@ -110,7 +112,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7710010,
+      "hot_value": 7744378,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E5%BE%B7%E5%9B%BD"
       },
@@ -118,7 +120,39 @@
         "巴拉圭点球大战淘汰德国"
       ],
       "rank": 7,
-      "sports_rank": 5
+      "sports_rank": 6
+    },
+    {
+      "title": "电影抓特务对白含金量",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7706180,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E5%AF%B9%E7%99%BD%E5%90%AB%E9%87%91%E9%87%8F"
+      },
+      "raw_titles": [
+        "电影抓特务对白含金量"
+      ],
+      "rank": 8,
+      "movie_rank": 3
+    },
+    {
+      "title": "百花奖投票倒计时",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7702372,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8A%95%E7%A5%A8%E5%80%92%E8%AE%A1%E6%97%B6"
+      },
+      "raw_titles": [
+        "百花奖投票倒计时"
+      ],
+      "rank": 9,
+      "movie_rank": 4
     },
     {
       "title": "90s复古滤镜封神了",
@@ -126,37 +160,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7656372,
+      "hot_value": 7659727,
       "urls": {
         "抖音": "https://www.douyin.com/search/90s%E5%A4%8D%E5%8F%A4%E6%BB%A4%E9%95%9C%E5%B0%81%E7%A5%9E%E4%BA%86"
       },
       "raw_titles": [
         "90s复古滤镜封神了"
       ],
-      "rank": 8,
-      "movie_rank": 4
-    },
-    {
-      "title": "詹姆斯",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "微博",
-        "百度",
-        "百度",
-        "哔哩哔哩"
-      ],
-      "hot_value": 2106563,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%A1%AE%E5%AE%9A%E7%A6%BB%E5%BC%80%E6%B9%96%E4%BA%BA",
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF4%E6%AC%A1%E6%8D%A2%E9%98%9F%E9%83%BD%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%8E%BB%E5%90%91%E5%A6%82%E4%BD%95"
-      },
-      "raw_titles": [
-        "詹姆斯"
-      ],
-      "rank": 9,
-      "sports_rank": 6
+      "rank": 10,
+      "movie_rank": 5
     },
     {
       "title": "哈兰德绝杀破门",
@@ -165,7 +177,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 1390841,
+      "hot_value": 1219475,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E7%BB%9D%E6%9D%80%E7%A0%B4%E9%97%A8",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E7%BB%9D%E6%9D%80"
@@ -173,7 +185,7 @@
       "raw_titles": [
         "哈兰德绝杀破门"
       ],
-      "rank": 10,
+      "rank": 11,
       "sports_rank": 7
     },
     {
@@ -182,15 +194,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1140112,
+      "hot_value": 611644,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8C%AA%E5%A8%812-1%E7%BB%9D%E6%9D%80%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6"
       },
       "raw_titles": [
         "挪威2-1绝杀科特迪瓦"
       ],
-      "rank": 11,
+      "rank": 12,
       "sports_rank": 8
+    },
+    {
+      "title": "詹姆斯下赛季去向如何",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 564977,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%8E%BB%E5%90%91%E5%A6%82%E4%BD%95"
+      },
+      "raw_titles": [
+        "詹姆斯下赛季去向如何"
+      ],
+      "rank": 13,
+      "sports_rank": 9
     },
     {
       "title": "姆巴佩先发出战",
@@ -198,15 +226,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 938189,
+      "hot_value": 544348,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%85%88%E5%8F%91%E5%87%BA%E6%88%98"
       },
       "raw_titles": [
         "姆巴佩先发出战"
       ],
-      "rank": 12,
-      "sports_rank": 9
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "西瓜价格大跳水",
@@ -221,8 +249,8 @@
       "raw_titles": [
         "西瓜价格大跳水"
       ],
-      "rank": 13,
-      "sports_rank": 10
+      "rank": 15,
+      "sports_rank": 11
     },
     {
       "title": "世界杯：法国vs瑞典",
@@ -237,104 +265,57 @@
       "raw_titles": [
         "世界杯：法国vs瑞典"
       ],
-      "rank": 14,
-      "sports_rank": 11
-    },
-    {
-      "title": "浪姐全明星远走coffee",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 289983,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E5%85%A8%E6%98%8E%E6%98%9F%E8%BF%9C%E8%B5%B0coffee"
-      },
-      "raw_titles": [
-        "浪姐全明星远走coffee"
-      ],
-      "rank": 15,
-      "movie_rank": 5
-    },
-    {
-      "title": "火影兄弟佐助招募动画",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 279960,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E5%85%84%E5%BC%9F%E4%BD%90%E5%8A%A9%E6%8B%9B%E5%8B%9F%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "火影兄弟佐助招募动画"
-      ],
       "rank": 16,
-      "movie_rank": 6
-    },
-    {
-      "title": "凡人修仙传180集深度解析",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 277026,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0180%E9%9B%86%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90"
-      },
-      "raw_titles": [
-        "凡人修仙传180集深度解析"
-      ],
-      "rank": 17,
-      "movie_rank": 7
-    },
-    {
-      "title": "球评巴西绝杀逆转日本",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 262903,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%90%83%E8%AF%84%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC"
-      },
-      "raw_titles": [
-        "球评巴西绝杀逆转日本"
-      ],
-      "rank": 18,
       "sports_rank": 12
     },
     {
-      "title": "逐条解析NBA转会5大条件",
+      "title": "詹姆斯正式发声告别湖人",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 258129,
+      "hot_value": 396000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%80%90%E6%9D%A1%E8%A7%A3%E6%9E%90NBA%E8%BD%AC%E4%BC%9A5%E5%A4%A7%E6%9D%A1%E4%BB%B6"
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%A3%B0%E5%91%8A%E5%88%AB%E6%B9%96%E4%BA%BA&sa=fyb_news"
       },
       "raw_titles": [
-        "逐条解析NBA转会5大条件"
+        "詹姆斯正式发声告别湖人"
       ],
-      "rank": 19,
+      "rank": 17,
       "sports_rank": 13
     },
     {
-      "title": "全网爆火哈兰德梗解析",
+      "title": "詹姆斯4次换队都在世界杯期间",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 243204,
+      "hot_value": 369000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%BD%91%E7%88%86%E7%81%AB%E5%93%88%E5%85%B0%E5%BE%B7%E6%A2%97%E8%A7%A3%E6%9E%90"
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF4%E6%AC%A1%E6%8D%A2%E9%98%9F%E9%83%BD%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4&sa=fyb_news"
       },
       "raw_titles": [
-        "全网爆火哈兰德梗解析"
+        "詹姆斯4次换队都在世界杯期间"
       ],
-      "rank": 20,
+      "rank": 18,
       "sports_rank": 14
+    },
+    {
+      "title": "詹姆斯确定离开湖人",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 247010,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF"
+      },
+      "raw_titles": [
+        "詹姆斯确定离开湖人"
+      ],
+      "rank": 19,
+      "sports_rank": 15
     },
     {
       "title": "黄多多首部电影重新立项",
@@ -343,7 +324,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 229325,
+      "hot_value": 231510,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%A4%9A%E5%A4%9A%E9%A6%96%E9%83%A8%E7%94%B5%E5%BD%B1%E9%87%8D%E6%96%B0%E7%AB%8B%E9%A1%B9",
         "百度": "https://m.baidu.com/s?word=%E9%BB%84%E5%A4%9A%E5%A4%9A%E9%A6%96%E9%83%A8%E7%94%B5%E5%BD%B1%E9%87%8D%E6%96%B0%E7%AB%8B%E9%A1%B9&sa=fyb_news"
@@ -351,40 +332,8 @@
       "raw_titles": [
         "黄多多首部电影重新立项"
       ],
-      "rank": 21,
-      "movie_rank": 8
-    },
-    {
-      "title": "哈兰德头球",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 219405,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%B4%E7%90%83"
-      },
-      "raw_titles": [
-        "哈兰德头球"
-      ],
-      "rank": 22,
-      "sports_rank": 15
-    },
-    {
-      "title": "墨西哥美国世界杯氛围差距",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 215570,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%BE%8E%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B0%9B%E5%9B%B4%E5%B7%AE%E8%B7%9D"
-      },
-      "raw_titles": [
-        "墨西哥美国世界杯氛围差距"
-      ],
-      "rank": 23,
-      "sports_rank": 16
+      "rank": 20,
+      "movie_rank": 6
     },
     {
       "title": "如何评价杨紫白玉兰获奖",
@@ -392,15 +341,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 205426,
+      "hot_value": 219235,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9D%A8%E7%B4%AB%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96"
       },
       "raw_titles": [
         "如何评价杨紫白玉兰获奖"
       ],
+      "rank": 21,
+      "movie_rank": 7
+    },
+    {
+      "title": "浪姐全明星远走coffee",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 219148,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E5%85%A8%E6%98%8E%E6%98%9F%E8%BF%9C%E8%B5%B0coffee"
+      },
+      "raw_titles": [
+        "浪姐全明星远走coffee"
+      ],
+      "rank": 22,
+      "movie_rank": 8
+    },
+    {
+      "title": "逐条解析NBA转会5大条件",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 205590,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%80%90%E6%9D%A1%E8%A7%A3%E6%9E%90NBA%E8%BD%AC%E4%BC%9A5%E5%A4%A7%E6%9D%A1%E4%BB%B6"
+      },
+      "raw_titles": [
+        "逐条解析NBA转会5大条件"
+      ],
+      "rank": 23,
+      "sports_rank": 16
+    },
+    {
+      "title": "火影兄弟佐助招募动画",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 196190,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E5%85%84%E5%BC%9F%E4%BD%90%E5%8A%A9%E6%8B%9B%E5%8B%9F%E5%8A%A8%E7%94%BB"
+      },
+      "raw_titles": [
+        "火影兄弟佐助招募动画"
+      ],
       "rank": 24,
       "movie_rank": 9
+    },
+    {
+      "title": "全网爆火哈兰德梗解析",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 180797,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%BD%91%E7%88%86%E7%81%AB%E5%93%88%E5%85%B0%E5%BE%B7%E6%A2%97%E8%A7%A3%E6%9E%90"
+      },
+      "raw_titles": [
+        "全网爆火哈兰德梗解析"
+      ],
+      "rank": 25,
+      "sports_rank": 17
+    },
+    {
+      "title": "凡人修仙传180集深度解析",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 178455,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0180%E9%9B%86%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90"
+      },
+      "raw_titles": [
+        "凡人修仙传180集深度解析"
+      ],
+      "rank": 26,
+      "movie_rank": 10
     },
     {
       "title": "电影后室值得看吗",
@@ -408,48 +437,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 189663,
+      "hot_value": 160404,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%90%8E%E5%AE%A4%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
       },
       "raw_titles": [
         "电影后室值得看吗"
       ],
-      "rank": 25,
-      "movie_rank": 10
-    },
-    {
-      "title": "万字剖析DC超级少女",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 163432,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%89%96%E6%9E%90DC%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3"
-      },
-      "raw_titles": [
-        "万字剖析DC超级少女"
-      ],
-      "rank": 26,
-      "movie_rank": 11
-    },
-    {
-      "title": "德国爆冷点球大战不敌巴拉圭",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 162451,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E4%B8%8D%E6%95%8C%E5%B7%B4%E6%8B%89%E5%9C%AD"
-      },
-      "raw_titles": [
-        "德国爆冷点球大战不敌巴拉圭"
-      ],
       "rank": 27,
-      "sports_rank": 17,
-      "movie_rank": 12
+      "movie_rank": 11
     },
     {
       "title": "杨鸣直言杨瀚森在NBA很挣扎",
@@ -457,7 +453,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 135000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E9%B8%A3%E7%9B%B4%E8%A8%80%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%9C%A8NBA%E5%BE%88%E6%8C%A3%E6%89%8E&sa=fyb_news"
       },
@@ -468,132 +464,53 @@
       "sports_rank": 18
     },
     {
-      "title": "张凌赫我连心疼你都有时差",
-      "category": "影视",
+      "title": "德国爆冷点球大战不敌巴拉圭",
+      "category": "综合",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 90480,
+      "hot_value": 139394,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%88%91%E8%BF%9E%E5%BF%83%E7%96%BC%E4%BD%A0%E9%83%BD%E6%9C%89%E6%97%B6%E5%B7%AE"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E4%B8%8D%E6%95%8C%E5%B7%B4%E6%8B%89%E5%9C%AD"
       },
       "raw_titles": [
-        "张凌赫我连心疼你都有时差"
+        "德国爆冷点球大战不敌巴拉圭"
       ],
       "rank": 29,
+      "sports_rank": 19,
+      "movie_rank": 12
+    },
+    {
+      "title": "万字剖析DC超级少女",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 126626,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%89%96%E6%9E%90DC%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3"
+      },
+      "raw_titles": [
+        "万字剖析DC超级少女"
+      ],
+      "rank": 30,
       "movie_rank": 13
     },
     {
-      "title": "德国队多个球星不敢罚点球",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 89998,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%A4%9A%E4%B8%AA%E7%90%83%E6%98%9F%E4%B8%8D%E6%95%A2%E7%BD%9A%E7%82%B9%E7%90%83"
-      },
-      "raw_titles": [
-        "德国队多个球星不敢罚点球"
-      ],
-      "rank": 30,
-      "sports_rank": 19
-    },
-    {
-      "title": "金鹰奖最佳男主角参评名单公布",
+      "title": "浪姐成团夜爆笑吐槽",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 37887,
+      "hot_value": 119280,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E5%8F%82%E8%AF%84%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%A4%9C%E7%88%86%E7%AC%91%E5%90%90%E6%A7%BD"
       },
       "raw_titles": [
-        "金鹰奖最佳男主角参评名单公布"
+        "浪姐成团夜爆笑吐槽"
       ],
       "rank": 31,
       "movie_rank": 14
-    },
-    {
-      "title": "德国队多人犹豫不决不愿罚点球",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 37615,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%A4%9A%E4%BA%BA%E7%8A%B9%E8%B1%AB%E4%B8%8D%E5%86%B3%E4%B8%8D%E6%84%BF%E7%BD%9A%E7%82%B9%E7%90%83"
-      },
-      "raw_titles": [
-        "德国队多人犹豫不决不愿罚点球"
-      ],
-      "rank": 32,
-      "sports_rank": 20
-    },
-    {
-      "title": "张凌赫遗传了父母最精华的部分",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36779,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%81%97%E4%BC%A0%E4%BA%86%E7%88%B6%E6%AF%8D%E6%9C%80%E7%B2%BE%E5%8D%8E%E7%9A%84%E9%83%A8%E5%88%86"
-      },
-      "raw_titles": [
-        "张凌赫遗传了父母最精华的部分"
-      ],
-      "rank": 33,
-      "movie_rank": 15
-    },
-    {
-      "title": "乒乓球收视率远不及世界杯",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36059,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E6%94%B6%E8%A7%86%E7%8E%87%E8%BF%9C%E4%B8%8D%E5%8F%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "乒乓球收视率远不及世界杯"
-      ],
-      "rank": 34,
-      "sports_rank": 21
-    },
-    {
-      "title": "刘耀文入围百花奖最佳新人",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36016,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%85%A5%E5%9B%B4%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA"
-      },
-      "raw_titles": [
-        "刘耀文入围百花奖最佳新人"
-      ],
-      "rank": 35,
-      "movie_rank": 16
-    },
-    {
-      "title": "哈兰德 淘汰赛首秀",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%20%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E7%A7%80"
-      },
-      "raw_titles": [
-        "哈兰德 淘汰赛首秀"
-      ],
-      "rank": 36,
-      "sports_rank": 22
     },
     {
       "title": "美股开盘涨跌不一 太阳能板块领涨",
@@ -601,15 +518,111 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 108000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80+%E5%A4%AA%E9%98%B3%E8%83%BD%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8&sa=fyb_news"
       },
       "raw_titles": [
         "美股开盘涨跌不一 太阳能板块领涨"
       ],
+      "rank": 32,
+      "sports_rank": 20
+    },
+    {
+      "title": "哈兰德头球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 91415,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%B4%E7%90%83"
+      },
+      "raw_titles": [
+        "哈兰德头球"
+      ],
+      "rank": 33,
+      "sports_rank": 21
+    },
+    {
+      "title": "张凌赫我连心疼你都有时差",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 78914,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%88%91%E8%BF%9E%E5%BF%83%E7%96%BC%E4%BD%A0%E9%83%BD%E6%9C%89%E6%97%B6%E5%B7%AE"
+      },
+      "raw_titles": [
+        "张凌赫我连心疼你都有时差"
+      ],
+      "rank": 34,
+      "movie_rank": 15
+    },
+    {
+      "title": "德国队多个球星不敢罚点球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 64512,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%A4%9A%E4%B8%AA%E7%90%83%E6%98%9F%E4%B8%8D%E6%95%A2%E7%BD%9A%E7%82%B9%E7%90%83"
+      },
+      "raw_titles": [
+        "德国队多个球星不敢罚点球"
+      ],
+      "rank": 35,
+      "sports_rank": 22
+    },
+    {
+      "title": "金鹰奖最佳男主角参评名单公布",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 32688,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E5%8F%82%E8%AF%84%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
+      },
+      "raw_titles": [
+        "金鹰奖最佳男主角参评名单公布"
+      ],
+      "rank": 36,
+      "movie_rank": 16
+    },
+    {
+      "title": "德国队多人犹豫不决不愿罚点球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30924,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%A4%9A%E4%BA%BA%E7%8A%B9%E8%B1%AB%E4%B8%8D%E5%86%B3%E4%B8%8D%E6%84%BF%E7%BD%9A%E7%82%B9%E7%90%83"
+      },
+      "raw_titles": [
+        "德国队多人犹豫不决不愿罚点球"
+      ],
       "rank": 37,
       "sports_rank": 23
+    },
+    {
+      "title": "张凌赫遗传了父母最精华的部分",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30901,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%81%97%E4%BC%A0%E4%BA%86%E7%88%B6%E6%AF%8D%E6%9C%80%E7%B2%BE%E5%8D%8E%E7%9A%84%E9%83%A8%E5%88%86"
+      },
+      "raw_titles": [
+        "张凌赫遗传了父母最精华的部分"
+      ],
+      "rank": 38,
+      "movie_rank": 17
     },
     {
       "title": "荷兰队长范戴克没罚点球饱受质疑",
@@ -617,35 +630,80 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 35996,
+      "hot_value": 30889,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%8D%B7%E5%85%B0%E9%98%9F%E9%95%BF%E8%8C%83%E6%88%B4%E5%85%8B%E6%B2%A1%E7%BD%9A%E7%82%B9%E7%90%83%E9%A5%B1%E5%8F%97%E8%B4%A8%E7%96%91"
       },
       "raw_titles": [
         "荷兰队长范戴克没罚点球饱受质疑"
       ],
-      "rank": 38,
+      "rank": 39,
       "sports_rank": 24
+    },
+    {
+      "title": "乒乓球收视率远不及世界杯",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30835,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E6%94%B6%E8%A7%86%E7%8E%87%E8%BF%9C%E4%B8%8D%E5%8F%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "乒乓球收视率远不及世界杯"
+      ],
+      "rank": 40,
+      "sports_rank": 25
+    },
+    {
+      "title": "哈兰德 淘汰赛首秀",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30793,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%20%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E7%A7%80"
+      },
+      "raw_titles": [
+        "哈兰德 淘汰赛首秀"
+      ],
+      "rank": 41,
+      "sports_rank": 26
+    },
+    {
+      "title": "曝德国点球大战多人拒绝罚点",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9B%9D%E5%BE%B7%E5%9B%BD%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E5%A4%9A%E4%BA%BA%E6%8B%92%E7%BB%9D%E7%BD%9A%E7%82%B9&sa=fyb_news"
+      },
+      "raw_titles": [
+        "曝德国点球大战多人拒绝罚点"
+      ],
+      "rank": 42,
+      "sports_rank": 27
     }
   ],
   "sports": [
     {
-      "title": "摩洛哥点球大战淘汰荷兰",
+      "title": "猛龙交易伦纳德报价曝光",
       "category": "体育",
       "sources": [
-        "抖音",
-        "哔哩哔哩",
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 8211460,
+      "hot_value": 10540905,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%91%A9%E6%B4%9B%E5%93%A5%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E8%8D%B7%E5%85%B0",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%91%A9%E6%B4%9B%E5%93%A5%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E8%8D%B7%E5%85%B0"
+        "抖音": "https://www.douyin.com/search/%E7%8C%9B%E9%BE%99%E4%BA%A4%E6%98%93%E4%BC%A6%E7%BA%B3%E5%BE%B7%E6%8A%A5%E4%BB%B7%E6%9B%9D%E5%85%89"
       },
       "raw_titles": [
-        "摩洛哥点球大战淘汰荷兰"
+        "猛龙交易伦纳德报价曝光"
       ],
-      "rank": 2,
+      "rank": 1,
       "sports_rank": 1
     },
     {
@@ -654,29 +712,32 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7767866,
+      "hot_value": 8752569,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BD%93%E6%B5%AA%E5%A7%90%E5%9B%A2%E9%81%87%E4%B8%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
         "当浪姐团遇上世界杯"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 2,
-      "movie_rank": 2
+      "movie_rank": 1
     },
     {
-      "title": "哈兰德把抖音当朋友圈发",
+      "title": "摩洛哥点球大战淘汰荷兰",
       "category": "体育",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩",
+        "哔哩哔哩"
       ],
-      "hot_value": 7765111,
+      "hot_value": 8115890,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%8A%8A%E6%8A%96%E9%9F%B3%E5%BD%93%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91"
+        "抖音": "https://www.douyin.com/search/%E6%91%A9%E6%B4%9B%E5%93%A5%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E8%8D%B7%E5%85%B0",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%91%A9%E6%B4%9B%E5%93%A5%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E8%8D%B7%E5%85%B0"
       },
       "raw_titles": [
-        "哈兰德把抖音当朋友圈发"
+        "摩洛哥点球大战淘汰荷兰"
       ],
       "rank": 4,
       "sports_rank": 3
@@ -685,17 +746,35 @@
       "title": "巴西2:1绝杀日本",
       "category": "体育",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 7736969,
+      "hot_value": 7832284,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF2%3A1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC"
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF2%3A1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF2-1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC"
       },
       "raw_titles": [
         "巴西2:1绝杀日本"
       ],
-      "rank": 6,
+      "rank": 5,
       "sports_rank": 4
+    },
+    {
+      "title": "哈兰德把抖音当朋友圈发",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7776627,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%8A%8A%E6%8A%96%E9%9F%B3%E5%BD%93%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91"
+      },
+      "raw_titles": [
+        "哈兰德把抖音当朋友圈发"
+      ],
+      "rank": 6,
+      "sports_rank": 5
     },
     {
       "title": "巴拉圭点球大战淘汰德国",
@@ -703,7 +782,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7710010,
+      "hot_value": 7744378,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E5%BE%B7%E5%9B%BD"
       },
@@ -711,28 +790,6 @@
         "巴拉圭点球大战淘汰德国"
       ],
       "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "詹姆斯",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "微博",
-        "百度",
-        "百度",
-        "哔哩哔哩"
-      ],
-      "hot_value": 2106563,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%A1%AE%E5%AE%9A%E7%A6%BB%E5%BC%80%E6%B9%96%E4%BA%BA",
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF4%E6%AC%A1%E6%8D%A2%E9%98%9F%E9%83%BD%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%8E%BB%E5%90%91%E5%A6%82%E4%BD%95"
-      },
-      "raw_titles": [
-        "詹姆斯"
-      ],
-      "rank": 9,
       "sports_rank": 6
     },
     {
@@ -742,7 +799,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 1390841,
+      "hot_value": 1219475,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E7%BB%9D%E6%9D%80%E7%A0%B4%E9%97%A8",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E7%BB%9D%E6%9D%80"
@@ -750,7 +807,7 @@
       "raw_titles": [
         "哈兰德绝杀破门"
       ],
-      "rank": 10,
+      "rank": 11,
       "sports_rank": 7
     },
     {
@@ -759,15 +816,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1140112,
+      "hot_value": 611644,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8C%AA%E5%A8%812-1%E7%BB%9D%E6%9D%80%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6"
       },
       "raw_titles": [
         "挪威2-1绝杀科特迪瓦"
       ],
-      "rank": 11,
+      "rank": 12,
       "sports_rank": 8
+    },
+    {
+      "title": "詹姆斯下赛季去向如何",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 564977,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%8E%BB%E5%90%91%E5%A6%82%E4%BD%95"
+      },
+      "raw_titles": [
+        "詹姆斯下赛季去向如何"
+      ],
+      "rank": 13,
+      "sports_rank": 9
     },
     {
       "title": "姆巴佩先发出战",
@@ -775,15 +848,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 938189,
+      "hot_value": 544348,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%85%88%E5%8F%91%E5%87%BA%E6%88%98"
       },
       "raw_titles": [
         "姆巴佩先发出战"
       ],
-      "rank": 12,
-      "sports_rank": 9
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "西瓜价格大跳水",
@@ -798,8 +871,8 @@
       "raw_titles": [
         "西瓜价格大跳水"
       ],
-      "rank": 13,
-      "sports_rank": 10
+      "rank": 15,
+      "sports_rank": 11
     },
     {
       "title": "世界杯：法国vs瑞典",
@@ -814,24 +887,57 @@
       "raw_titles": [
         "世界杯：法国vs瑞典"
       ],
-      "rank": 14,
-      "sports_rank": 11
+      "rank": 16,
+      "sports_rank": 12
     },
     {
-      "title": "球评巴西绝杀逆转日本",
+      "title": "詹姆斯正式发声告别湖人",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 262903,
+      "hot_value": 396000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%90%83%E8%AF%84%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC"
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%A3%B0%E5%91%8A%E5%88%AB%E6%B9%96%E4%BA%BA&sa=fyb_news"
       },
       "raw_titles": [
-        "球评巴西绝杀逆转日本"
+        "詹姆斯正式发声告别湖人"
+      ],
+      "rank": 17,
+      "sports_rank": 13
+    },
+    {
+      "title": "詹姆斯4次换队都在世界杯期间",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 369000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF4%E6%AC%A1%E6%8D%A2%E9%98%9F%E9%83%BD%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "詹姆斯4次换队都在世界杯期间"
       ],
       "rank": 18,
-      "sports_rank": 12
+      "sports_rank": 14
+    },
+    {
+      "title": "詹姆斯确定离开湖人",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 247010,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF"
+      },
+      "raw_titles": [
+        "詹姆斯确定离开湖人"
+      ],
+      "rank": 19,
+      "sports_rank": 15
     },
     {
       "title": "逐条解析NBA转会5大条件",
@@ -839,15 +945,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 258129,
+      "hot_value": 205590,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%80%90%E6%9D%A1%E8%A7%A3%E6%9E%90NBA%E8%BD%AC%E4%BC%9A5%E5%A4%A7%E6%9D%A1%E4%BB%B6"
       },
       "raw_titles": [
         "逐条解析NBA转会5大条件"
       ],
-      "rank": 19,
-      "sports_rank": 13
+      "rank": 23,
+      "sports_rank": 16
     },
     {
       "title": "全网爆火哈兰德梗解析",
@@ -855,64 +961,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 243204,
+      "hot_value": 180797,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%BD%91%E7%88%86%E7%81%AB%E5%93%88%E5%85%B0%E5%BE%B7%E6%A2%97%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
         "全网爆火哈兰德梗解析"
       ],
-      "rank": 20,
-      "sports_rank": 14
-    },
-    {
-      "title": "哈兰德头球",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 219405,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%B4%E7%90%83"
-      },
-      "raw_titles": [
-        "哈兰德头球"
-      ],
-      "rank": 22,
-      "sports_rank": 15
-    },
-    {
-      "title": "墨西哥美国世界杯氛围差距",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 215570,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%BE%8E%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B0%9B%E5%9B%B4%E5%B7%AE%E8%B7%9D"
-      },
-      "raw_titles": [
-        "墨西哥美国世界杯氛围差距"
-      ],
-      "rank": 23,
-      "sports_rank": 16
-    },
-    {
-      "title": "德国爆冷点球大战不敌巴拉圭",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 162451,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E4%B8%8D%E6%95%8C%E5%B7%B4%E6%8B%89%E5%9C%AD"
-      },
-      "raw_titles": [
-        "德国爆冷点球大战不敌巴拉圭"
-      ],
-      "rank": 27,
-      "sports_rank": 17,
-      "movie_rank": 12
+      "rank": 25,
+      "sports_rank": 17
     },
     {
       "title": "杨鸣直言杨瀚森在NBA很挣扎",
@@ -920,7 +977,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 135000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E9%B8%A3%E7%9B%B4%E8%A8%80%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%9C%A8NBA%E5%BE%88%E6%8C%A3%E6%89%8E&sa=fyb_news"
       },
@@ -931,68 +988,21 @@
       "sports_rank": 18
     },
     {
-      "title": "德国队多个球星不敢罚点球",
-      "category": "体育",
+      "title": "德国爆冷点球大战不敌巴拉圭",
+      "category": "综合",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 89998,
+      "hot_value": 139394,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%A4%9A%E4%B8%AA%E7%90%83%E6%98%9F%E4%B8%8D%E6%95%A2%E7%BD%9A%E7%82%B9%E7%90%83"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E4%B8%8D%E6%95%8C%E5%B7%B4%E6%8B%89%E5%9C%AD"
       },
       "raw_titles": [
-        "德国队多个球星不敢罚点球"
+        "德国爆冷点球大战不敌巴拉圭"
       ],
-      "rank": 30,
-      "sports_rank": 19
-    },
-    {
-      "title": "德国队多人犹豫不决不愿罚点球",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 37615,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%A4%9A%E4%BA%BA%E7%8A%B9%E8%B1%AB%E4%B8%8D%E5%86%B3%E4%B8%8D%E6%84%BF%E7%BD%9A%E7%82%B9%E7%90%83"
-      },
-      "raw_titles": [
-        "德国队多人犹豫不决不愿罚点球"
-      ],
-      "rank": 32,
-      "sports_rank": 20
-    },
-    {
-      "title": "乒乓球收视率远不及世界杯",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36059,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E6%94%B6%E8%A7%86%E7%8E%87%E8%BF%9C%E4%B8%8D%E5%8F%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "乒乓球收视率远不及世界杯"
-      ],
-      "rank": 34,
-      "sports_rank": 21
-    },
-    {
-      "title": "哈兰德 淘汰赛首秀",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%20%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E7%A7%80"
-      },
-      "raw_titles": [
-        "哈兰德 淘汰赛首秀"
-      ],
-      "rank": 36,
-      "sports_rank": 22
+      "rank": 29,
+      "sports_rank": 19,
+      "movie_rank": 12
     },
     {
       "title": "美股开盘涨跌不一 太阳能板块领涨",
@@ -1000,12 +1010,60 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 108000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80+%E5%A4%AA%E9%98%B3%E8%83%BD%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8&sa=fyb_news"
       },
       "raw_titles": [
         "美股开盘涨跌不一 太阳能板块领涨"
+      ],
+      "rank": 32,
+      "sports_rank": 20
+    },
+    {
+      "title": "哈兰德头球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 91415,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%B4%E7%90%83"
+      },
+      "raw_titles": [
+        "哈兰德头球"
+      ],
+      "rank": 33,
+      "sports_rank": 21
+    },
+    {
+      "title": "德国队多个球星不敢罚点球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 64512,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%A4%9A%E4%B8%AA%E7%90%83%E6%98%9F%E4%B8%8D%E6%95%A2%E7%BD%9A%E7%82%B9%E7%90%83"
+      },
+      "raw_titles": [
+        "德国队多个球星不敢罚点球"
+      ],
+      "rank": 35,
+      "sports_rank": 22
+    },
+    {
+      "title": "德国队多人犹豫不决不愿罚点球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30924,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%A4%9A%E4%BA%BA%E7%8A%B9%E8%B1%AB%E4%B8%8D%E5%86%B3%E4%B8%8D%E6%84%BF%E7%BD%9A%E7%82%B9%E7%90%83"
+      },
+      "raw_titles": [
+        "德国队多人犹豫不决不愿罚点球"
       ],
       "rank": 37,
       "sports_rank": 23
@@ -1016,49 +1074,97 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 35996,
+      "hot_value": 30889,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%8D%B7%E5%85%B0%E9%98%9F%E9%95%BF%E8%8C%83%E6%88%B4%E5%85%8B%E6%B2%A1%E7%BD%9A%E7%82%B9%E7%90%83%E9%A5%B1%E5%8F%97%E8%B4%A8%E7%96%91"
       },
       "raw_titles": [
         "荷兰队长范戴克没罚点球饱受质疑"
       ],
-      "rank": 38,
+      "rank": 39,
       "sports_rank": 24
+    },
+    {
+      "title": "乒乓球收视率远不及世界杯",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30835,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E6%94%B6%E8%A7%86%E7%8E%87%E8%BF%9C%E4%B8%8D%E5%8F%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "乒乓球收视率远不及世界杯"
+      ],
+      "rank": 40,
+      "sports_rank": 25
+    },
+    {
+      "title": "哈兰德 淘汰赛首秀",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 30793,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%20%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E7%A7%80"
+      },
+      "raw_titles": [
+        "哈兰德 淘汰赛首秀"
+      ],
+      "rank": 41,
+      "sports_rank": 26
+    },
+    {
+      "title": "曝德国点球大战多人拒绝罚点",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9B%9D%E5%BE%B7%E5%9B%BD%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E5%A4%9A%E4%BA%BA%E6%8B%92%E7%BB%9D%E7%BD%9A%E7%82%B9&sa=fyb_news"
+      },
+      "raw_titles": [
+        "曝德国点球大战多人拒绝罚点"
+      ],
+      "rank": 42,
+      "sports_rank": 27
     }
   ],
   "movies": [
-    {
-      "title": "炽夏大结局",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8933479,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%82%BD%E5%A4%8F%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "炽夏大结局"
-      ],
-      "rank": 1,
-      "movie_rank": 1
-    },
     {
       "title": "当浪姐团遇上世界杯",
       "category": "综合",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7767866,
+      "hot_value": 8752569,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BD%93%E6%B5%AA%E5%A7%90%E5%9B%A2%E9%81%87%E4%B8%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
         "当浪姐团遇上世界杯"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 2,
+      "movie_rank": 1
+    },
+    {
+      "title": "炽夏大结局",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8715322,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%82%BD%E5%A4%8F%E5%A4%A7%E7%BB%93%E5%B1%80"
+      },
+      "raw_titles": [
+        "炽夏大结局"
+      ],
+      "rank": 3,
       "movie_rank": 2
     },
     {
@@ -1067,15 +1173,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7756534,
+      "hot_value": 7706180,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E5%AF%B9%E7%99%BD%E5%90%AB%E9%87%91%E9%87%8F"
       },
       "raw_titles": [
         "电影抓特务对白含金量"
       ],
-      "rank": 5,
+      "rank": 8,
       "movie_rank": 3
+    },
+    {
+      "title": "百花奖投票倒计时",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7702372,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8A%95%E7%A5%A8%E5%80%92%E8%AE%A1%E6%97%B6"
+      },
+      "raw_titles": [
+        "百花奖投票倒计时"
+      ],
+      "rank": 9,
+      "movie_rank": 4
     },
     {
       "title": "90s复古滤镜封神了",
@@ -1083,63 +1205,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7656372,
+      "hot_value": 7659727,
       "urls": {
         "抖音": "https://www.douyin.com/search/90s%E5%A4%8D%E5%8F%A4%E6%BB%A4%E9%95%9C%E5%B0%81%E7%A5%9E%E4%BA%86"
       },
       "raw_titles": [
         "90s复古滤镜封神了"
       ],
-      "rank": 8,
-      "movie_rank": 4
-    },
-    {
-      "title": "浪姐全明星远走coffee",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 289983,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E5%85%A8%E6%98%8E%E6%98%9F%E8%BF%9C%E8%B5%B0coffee"
-      },
-      "raw_titles": [
-        "浪姐全明星远走coffee"
-      ],
-      "rank": 15,
+      "rank": 10,
       "movie_rank": 5
-    },
-    {
-      "title": "火影兄弟佐助招募动画",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 279960,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E5%85%84%E5%BC%9F%E4%BD%90%E5%8A%A9%E6%8B%9B%E5%8B%9F%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "火影兄弟佐助招募动画"
-      ],
-      "rank": 16,
-      "movie_rank": 6
-    },
-    {
-      "title": "凡人修仙传180集深度解析",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 277026,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0180%E9%9B%86%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90"
-      },
-      "raw_titles": [
-        "凡人修仙传180集深度解析"
-      ],
-      "rank": 17,
-      "movie_rank": 7
     },
     {
       "title": "黄多多首部电影重新立项",
@@ -1148,7 +1222,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 229325,
+      "hot_value": 231510,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%A4%9A%E5%A4%9A%E9%A6%96%E9%83%A8%E7%94%B5%E5%BD%B1%E9%87%8D%E6%96%B0%E7%AB%8B%E9%A1%B9",
         "百度": "https://m.baidu.com/s?word=%E9%BB%84%E5%A4%9A%E5%A4%9A%E9%A6%96%E9%83%A8%E7%94%B5%E5%BD%B1%E9%87%8D%E6%96%B0%E7%AB%8B%E9%A1%B9&sa=fyb_news"
@@ -1156,8 +1230,8 @@
       "raw_titles": [
         "黄多多首部电影重新立项"
       ],
-      "rank": 21,
-      "movie_rank": 8
+      "rank": 20,
+      "movie_rank": 6
     },
     {
       "title": "如何评价杨紫白玉兰获奖",
@@ -1165,15 +1239,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 205426,
+      "hot_value": 219235,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9D%A8%E7%B4%AB%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96"
       },
       "raw_titles": [
         "如何评价杨紫白玉兰获奖"
       ],
+      "rank": 21,
+      "movie_rank": 7
+    },
+    {
+      "title": "浪姐全明星远走coffee",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 219148,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E5%85%A8%E6%98%8E%E6%98%9F%E8%BF%9C%E8%B5%B0coffee"
+      },
+      "raw_titles": [
+        "浪姐全明星远走coffee"
+      ],
+      "rank": 22,
+      "movie_rank": 8
+    },
+    {
+      "title": "火影兄弟佐助招募动画",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 196190,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E5%85%84%E5%BC%9F%E4%BD%90%E5%8A%A9%E6%8B%9B%E5%8B%9F%E5%8A%A8%E7%94%BB"
+      },
+      "raw_titles": [
+        "火影兄弟佐助招募动画"
+      ],
       "rank": 24,
       "movie_rank": 9
+    },
+    {
+      "title": "凡人修仙传180集深度解析",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 178455,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0180%E9%9B%86%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90"
+      },
+      "raw_titles": [
+        "凡人修仙传180集深度解析"
+      ],
+      "rank": 26,
+      "movie_rank": 10
     },
     {
       "title": "电影后室值得看吗",
@@ -1181,30 +1303,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 189663,
+      "hot_value": 160404,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%90%8E%E5%AE%A4%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
       },
       "raw_titles": [
         "电影后室值得看吗"
       ],
-      "rank": 25,
-      "movie_rank": 10
-    },
-    {
-      "title": "万字剖析DC超级少女",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 163432,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%89%96%E6%9E%90DC%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3"
-      },
-      "raw_titles": [
-        "万字剖析DC超级少女"
-      ],
-      "rank": 26,
+      "rank": 27,
       "movie_rank": 11
     },
     {
@@ -1213,16 +1319,48 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 162451,
+      "hot_value": 139394,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E4%B8%8D%E6%95%8C%E5%B7%B4%E6%8B%89%E5%9C%AD"
       },
       "raw_titles": [
         "德国爆冷点球大战不敌巴拉圭"
       ],
-      "rank": 27,
-      "sports_rank": 17,
+      "rank": 29,
+      "sports_rank": 19,
       "movie_rank": 12
+    },
+    {
+      "title": "万字剖析DC超级少女",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 126626,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%89%96%E6%9E%90DC%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3"
+      },
+      "raw_titles": [
+        "万字剖析DC超级少女"
+      ],
+      "rank": 30,
+      "movie_rank": 13
+    },
+    {
+      "title": "浪姐成团夜爆笑吐槽",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 119280,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%A4%9C%E7%88%86%E7%AC%91%E5%90%90%E6%A7%BD"
+      },
+      "raw_titles": [
+        "浪姐成团夜爆笑吐槽"
+      ],
+      "rank": 31,
+      "movie_rank": 14
     },
     {
       "title": "张凌赫我连心疼你都有时差",
@@ -1230,15 +1368,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 90480,
+      "hot_value": 78914,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%88%91%E8%BF%9E%E5%BF%83%E7%96%BC%E4%BD%A0%E9%83%BD%E6%9C%89%E6%97%B6%E5%B7%AE"
       },
       "raw_titles": [
         "张凌赫我连心疼你都有时差"
       ],
-      "rank": 29,
-      "movie_rank": 13
+      "rank": 34,
+      "movie_rank": 15
     },
     {
       "title": "金鹰奖最佳男主角参评名单公布",
@@ -1246,15 +1384,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 37887,
+      "hot_value": 32688,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E5%8F%82%E8%AF%84%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
         "金鹰奖最佳男主角参评名单公布"
       ],
-      "rank": 31,
-      "movie_rank": 14
+      "rank": 36,
+      "movie_rank": 16
     },
     {
       "title": "张凌赫遗传了父母最精华的部分",
@@ -1262,31 +1400,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 36779,
+      "hot_value": 30901,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%81%97%E4%BC%A0%E4%BA%86%E7%88%B6%E6%AF%8D%E6%9C%80%E7%B2%BE%E5%8D%8E%E7%9A%84%E9%83%A8%E5%88%86"
       },
       "raw_titles": [
         "张凌赫遗传了父母最精华的部分"
       ],
-      "rank": 33,
-      "movie_rank": 15
-    },
-    {
-      "title": "刘耀文入围百花奖最佳新人",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36016,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%85%A5%E5%9B%B4%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA"
-      },
-      "raw_titles": [
-        "刘耀文入围百花奖最佳新人"
-      ],
-      "rank": 35,
-      "movie_rank": 16
+      "rank": 38,
+      "movie_rank": 17
     }
   ]
 }
