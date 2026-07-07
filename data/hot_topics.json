@@ -1,24 +1,40 @@
 {
-  "update_time": "2026-07-07 22:00:53",
-  "total": 37,
-  "sports_count": 31,
+  "update_time": "2026-07-07 23:00:52",
+  "total": 41,
+  "sports_count": 35,
   "movie_count": 6,
   "all": [
+    {
+      "title": "如何评价C罗职业生涯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 15082644,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF"
+      },
+      "raw_titles": [
+        "如何评价C罗职业生涯"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "马克龙力挺姆巴佩",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9530770,
+      "hot_value": 9330439,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%85%8B%E9%BE%99%E5%8A%9B%E6%8C%BA%E5%A7%86%E5%B7%B4%E4%BD%A9"
       },
       "raw_titles": [
         "马克龙力挺姆巴佩"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "C罗最后一舞遗憾落幕",
@@ -26,15 +42,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9279747,
+      "hot_value": 9214946,
       "urls": {
         "抖音": "https://www.douyin.com/search/C%E7%BD%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%E9%81%97%E6%86%BE%E8%90%BD%E5%B9%95"
       },
       "raw_titles": [
         "C罗最后一舞遗憾落幕"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "法国足协谴责针对姆巴佩种族言论",
@@ -42,15 +58,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9212770,
+      "hot_value": 9197181,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B3%95%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%B0%B4%E8%B4%A3%E9%92%88%E5%AF%B9%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A7%8D%E6%97%8F%E8%A8%80%E8%AE%BA"
       },
       "raw_titles": [
         "法国足协谴责针对姆巴佩种族言论"
       ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "哈兰德抖音粉丝数超过挪威人口",
@@ -58,28 +74,12 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9193104,
+      "hot_value": 9137279,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D%E6%95%B0%E8%B6%85%E8%BF%87%E6%8C%AA%E5%A8%81%E4%BA%BA%E5%8F%A3"
       },
       "raw_titles": [
         "哈兰德抖音粉丝数超过挪威人口"
-      ],
-      "rank": 4,
-      "sports_rank": 4
-    },
-    {
-      "title": "央视解说哽咽送别C罗",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9110069,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E5%93%BD%E5%92%BD%E9%80%81%E5%88%ABC%E7%BD%97"
-      },
-      "raw_titles": [
-        "央视解说哽咽送别C罗"
       ],
       "rank": 5,
       "sports_rank": 5
@@ -90,7 +90,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7981602,
+      "hot_value": 8509795,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA6%E5%B8%AD%E5%B7%B2%E5%AE%9A"
       },
@@ -101,36 +101,52 @@
       "sports_rank": 6
     },
     {
+      "title": "央视解说哽咽送别C罗",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8383334,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E5%93%BD%E5%92%BD%E9%80%81%E5%88%ABC%E7%BD%97"
+      },
+      "raw_titles": [
+        "央视解说哽咽送别C罗"
+      ],
+      "rank": 7,
+      "sports_rank": 7
+    },
+    {
+      "title": "姆巴佩遭巴拉圭官员种族歧视",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8369688,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%AE%98%E5%91%98%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86"
+      },
+      "raw_titles": [
+        "姆巴佩遭巴拉圭官员种族歧视"
+      ],
+      "rank": 8,
+      "sports_rank": 8
+    },
+    {
       "title": "功夫女足周星驰射门爆杆不输当年",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7760848,
+      "hot_value": 7826804,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%91%A8%E6%98%9F%E9%A9%B0%E5%B0%84%E9%97%A8%E7%88%86%E6%9D%86%E4%B8%8D%E8%BE%93%E5%BD%93%E5%B9%B4"
       },
       "raw_titles": [
         "功夫女足周星驰射门爆杆不输当年"
       ],
-      "rank": 7,
+      "rank": 9,
       "movie_rank": 1
-    },
-    {
-      "title": "全抖音都在找哈兰德借粉",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7746747,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E9%83%BD%E5%9C%A8%E6%89%BE%E5%93%88%E5%85%B0%E5%BE%B7%E5%80%9F%E7%B2%89"
-      },
-      "raw_titles": [
-        "全抖音都在找哈兰德借粉"
-      ],
-      "rank": 8,
-      "sports_rank": 7
     },
     {
       "title": "哈兰德回复陈赫",
@@ -138,15 +154,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7727295,
+      "hot_value": 7766056,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%9B%9E%E5%A4%8D%E9%99%88%E8%B5%AB"
       },
       "raw_titles": [
         "哈兰德回复陈赫"
       ],
-      "rank": 9,
-      "sports_rank": 8
+      "rank": 10,
+      "sports_rank": 9
+    },
+    {
+      "title": "全抖音都在找哈兰德借粉",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7736112,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E9%83%BD%E5%9C%A8%E6%89%BE%E5%93%88%E5%85%B0%E5%BE%B7%E5%80%9F%E7%B2%89"
+      },
+      "raw_titles": [
+        "全抖音都在找哈兰德借粉"
+      ],
+      "rank": 11,
+      "sports_rank": 10
+    },
+    {
+      "title": "功夫女足我来应援",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7734623,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%88%91%E6%9D%A5%E5%BA%94%E6%8F%B4"
+      },
+      "raw_titles": [
+        "功夫女足我来应援"
+      ],
+      "rank": 12,
+      "movie_rank": 2
     },
     {
       "title": "陪C罗登场也陪他退场",
@@ -154,15 +202,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7722178,
+      "hot_value": 7729699,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E7%99%BB%E5%9C%BA%E4%B9%9F%E9%99%AA%E4%BB%96%E9%80%80%E5%9C%BA"
       },
       "raw_titles": [
         "陪C罗登场也陪他退场"
       ],
-      "rank": 10,
-      "sports_rank": 9
+      "rank": 13,
+      "sports_rank": 11
     },
     {
       "title": "再见船长 现场感受C罗最后一舞",
@@ -170,31 +218,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709760,
+      "hot_value": 7717698,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%86%8D%E8%A7%81%E8%88%B9%E9%95%BF%20%E7%8E%B0%E5%9C%BA%E6%84%9F%E5%8F%97C%E7%BD%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E"
       },
       "raw_titles": [
         "再见船长 现场感受C罗最后一舞"
       ],
-      "rank": 11,
-      "sports_rank": 10
-    },
-    {
-      "title": "C罗职业生涯已足够成功吗",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7677645,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%B7%B2%E8%B6%B3%E5%A4%9F%E6%88%90%E5%8A%9F%E5%90%97"
-      },
-      "raw_titles": [
-        "C罗职业生涯已足够成功吗"
-      ],
-      "rank": 12,
-      "sports_rank": 11
+      "rank": 14,
+      "sports_rank": 12
     },
     {
       "title": "用一封信向C罗和青春告别",
@@ -202,31 +234,65 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671286,
+      "hot_value": 7710277,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%A8%E4%B8%80%E5%B0%81%E4%BF%A1%E5%90%91C%E7%BD%97%E5%92%8C%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB"
       },
       "raw_titles": [
         "用一封信向C罗和青春告别"
       ],
-      "rank": 13,
-      "sports_rank": 12
+      "rank": 15,
+      "sports_rank": 13
     },
     {
-      "title": "曝米切尔2.73亿续约",
+      "title": "C罗职业生涯已足够成功吗",
       "category": "体育",
       "sources": [
+        "抖音"
+      ],
+      "hot_value": 7689126,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%B7%B2%E8%B6%B3%E5%A4%9F%E6%88%90%E5%8A%9F%E5%90%97"
+      },
+      "raw_titles": [
+        "C罗职业生涯已足够成功吗"
+      ],
+      "rank": 16,
+      "sports_rank": 14
+    },
+    {
+      "title": "哈兰德模仿大赛第一名有了",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7684719,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%E6%9C%89%E4%BA%86"
+      },
+      "raw_titles": [
+        "哈兰德模仿大赛第一名有了"
+      ],
+      "rank": 17,
+      "sports_rank": 15
+    },
+    {
+      "title": "米切尔4年2.73亿续约骑士",
+      "category": "体育",
+      "sources": [
+        "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 6378736,
+      "hot_value": 4476981,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%B1%B3%E5%88%87%E5%B0%944%E5%B9%B42.73%E4%BA%BF%E7%BB%AD%E7%BA%A6%E9%AA%91%E5%A3%AB",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%B1%B3%E5%88%87%E5%B0%942.73%E4%BA%BF%E7%BB%AD%E7%BA%A6"
       },
       "raw_titles": [
-        "曝米切尔2.73亿续约"
+        "米切尔4年2.73亿续约骑士"
       ],
-      "rank": 14,
-      "sports_rank": 13
+      "rank": 18,
+      "sports_rank": 16
     },
     {
       "title": "C罗落幕 青春告别",
@@ -234,95 +300,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2068134,
+      "hot_value": 1826181,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%90%BD%E5%B9%95%20%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB"
       },
       "raw_titles": [
         "C罗落幕 青春告别"
       ],
-      "rank": 15,
-      "sports_rank": 14
-    },
-    {
-      "title": "央视评C罗六次征战世界杯",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1759994,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AF%84C%E7%BD%97%E5%85%AD%E6%AC%A1%E5%BE%81%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "央视评C罗六次征战世界杯"
-      ],
-      "rank": 16,
-      "sports_rank": 15
-    },
-    {
-      "title": "C罗 我的世界杯结束了",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1516577,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%93%E6%9D%9F%E4%BA%86"
-      },
-      "raw_titles": [
-        "C罗 我的世界杯结束了"
-      ],
-      "rank": 17,
-      "sports_rank": 16
-    },
-    {
-      "title": "C罗是否应该退役",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1507640,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "C罗是否应该退役"
-      ],
-      "rank": 18,
-      "sports_rank": 17
-    },
-    {
-      "title": "F1英国大奖赛正赛无线电复盘",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1498220,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98"
-      },
-      "raw_titles": [
-        "F1英国大奖赛正赛无线电复盘"
-      ],
       "rank": 19,
-      "sports_rank": 18
-    },
-    {
-      "title": "C罗 后会有7",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1425055,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E5%90%8E%E4%BC%9A%E6%9C%897"
-      },
-      "raw_titles": [
-        "C罗 后会有7"
-      ],
-      "rank": 20,
-      "sports_rank": 19
+      "sports_rank": 17
     },
     {
       "title": "勇夺世界杯但是LPL",
@@ -330,47 +316,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1395875,
+      "hot_value": 1639175,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8B%87%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%86%E6%98%AFLPL"
       },
       "raw_titles": [
         "勇夺世界杯但是LPL"
       ],
-      "rank": 21,
-      "sports_rank": 20
+      "rank": 20,
+      "sports_rank": 18
     },
     {
-      "title": "盘点过去10年暑期档票房冠军",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1316596,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E8%BF%87%E5%8E%BB10%E5%B9%B4%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B"
-      },
-      "raw_titles": [
-        "盘点过去10年暑期档票房冠军"
-      ],
-      "rank": 22,
-      "movie_rank": 2
-    },
-    {
-      "title": "西班牙1-0绝杀葡萄牙",
+      "title": "C罗 我的世界杯结束了",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1193940,
+      "hot_value": 1599198,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%991-0%E7%BB%9D%E6%9D%80%E8%91%A1%E8%90%84%E7%89%99"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%93%E6%9D%9F%E4%BA%86"
       },
       "raw_titles": [
-        "西班牙1-0绝杀葡萄牙"
+        "C罗 我的世界杯结束了"
       ],
-      "rank": 23,
-      "sports_rank": 21
+      "rank": 21,
+      "sports_rank": 19
     },
     {
       "title": "41岁C罗告别世界杯",
@@ -378,15 +348,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1154798,
+      "hot_value": 1518763,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=41%E5%B2%81C%E7%BD%97%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
         "41岁C罗告别世界杯"
       ],
+      "rank": 22,
+      "sports_rank": 20
+    },
+    {
+      "title": "央视评C罗六次征战世界杯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1477674,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AF%84C%E7%BD%97%E5%85%AD%E6%AC%A1%E5%BE%81%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "央视评C罗六次征战世界杯"
+      ],
+      "rank": 23,
+      "sports_rank": 21
+    },
+    {
+      "title": "C罗 后会有7",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1464502,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E5%90%8E%E4%BC%9A%E6%9C%897"
+      },
+      "raw_titles": [
+        "C罗 后会有7"
+      ],
       "rank": 24,
       "sports_rank": 22
+    },
+    {
+      "title": "C罗6届世界杯进球轨迹",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1389192,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%976%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%E8%BD%A8%E8%BF%B9"
+      },
+      "raw_titles": [
+        "C罗6届世界杯进球轨迹"
+      ],
+      "rank": 25,
+      "sports_rank": 23
+    },
+    {
+      "title": "C罗是否应该退役",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1376790,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "C罗是否应该退役"
+      ],
+      "rank": 26,
+      "sports_rank": 24
     },
     {
       "title": "战术拆解哈兰德表现",
@@ -394,48 +428,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1104004,
+      "hot_value": 1117089,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%98%E6%9C%AF%E6%8B%86%E8%A7%A3%E5%93%88%E5%85%B0%E5%BE%B7%E8%A1%A8%E7%8E%B0"
       },
       "raw_titles": [
         "战术拆解哈兰德表现"
       ],
-      "rank": 25,
-      "sports_rank": 23
+      "rank": 27,
+      "sports_rank": 25
+    },
+    {
+      "title": "西班牙1-0绝杀葡萄牙",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1081715,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%991-0%E7%BB%9D%E6%9D%80%E8%91%A1%E8%90%84%E7%89%99"
+      },
+      "raw_titles": [
+        "西班牙1-0绝杀葡萄牙"
+      ],
+      "rank": 28,
+      "sports_rank": 26
     },
     {
       "title": "西班牙绝杀后C罗不断比手势",
       "category": "体育",
       "sources": [
-        "微博",
         "微博"
       ],
-      "hot_value": 1039414,
+      "hot_value": 700672,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E5%90%8EC%E7%BD%97%E5%8F%8D%E5%BA%94"
+        "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E5%90%8EC%E7%BD%97%E4%B8%8D%E6%96%AD%E6%AF%94%E6%89%8B%E5%8A%BF"
       },
       "raw_titles": [
         "西班牙绝杀后C罗不断比手势"
       ],
-      "rank": 26,
-      "sports_rank": 24
-    },
-    {
-      "title": "国足情况通报",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 553107,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5"
-      },
-      "raw_titles": [
-        "国足情况通报"
-      ],
-      "rank": 27,
-      "sports_rank": 25
+      "rank": 29,
+      "sports_rank": 27
     },
     {
       "title": "亚洲股市全线跳水原因",
@@ -443,63 +476,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 546615,
+      "hot_value": 623795,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E8%82%A1%E5%B8%82%E5%85%A8%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0"
       },
       "raw_titles": [
         "亚洲股市全线跳水原因"
       ],
-      "rank": 28,
-      "sports_rank": 26
-    },
-    {
-      "title": "关晓彤为庆祝小巷人家杀青剪的短发",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 543984,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%BA%E5%BA%86%E7%A5%9D%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6%E6%9D%80%E9%9D%92%E5%89%AA%E7%9A%84%E7%9F%AD%E5%8F%91"
-      },
-      "raw_titles": [
-        "关晓彤为庆祝小巷人家杀青剪的短发"
-      ],
-      "rank": 29,
-      "movie_rank": 3
-    },
-    {
-      "title": "王宝强冯清相恋八年仍未领证",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 511735,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%86%AF%E6%B8%85%E7%9B%B8%E6%81%8B%E5%85%AB%E5%B9%B4%E4%BB%8D%E6%9C%AA%E9%A2%86%E8%AF%81"
-      },
-      "raw_titles": [
-        "王宝强冯清相恋八年仍未领证"
-      ],
       "rank": 30,
-      "movie_rank": 4
+      "sports_rank": 28
     },
     {
-      "title": "郭艾伦说C罗是个狠人",
+      "title": "国足情况通报",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 478736,
+      "hot_value": 609847,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E8%AF%B4C%E7%BD%97%E6%98%AF%E4%B8%AA%E7%8B%A0%E4%BA%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5"
       },
       "raw_titles": [
-        "郭艾伦说C罗是个狠人"
+        "国足情况通报"
       ],
       "rank": 31,
-      "sports_rank": 27
+      "sports_rank": 29
+    },
+    {
+      "title": "杨紫晒粉丝的信",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 606616,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%99%92%E7%B2%89%E4%B8%9D%E7%9A%84%E4%BF%A1"
+      },
+      "raw_titles": [
+        "杨紫晒粉丝的信"
+      ],
+      "rank": 32,
+      "movie_rank": 3
     },
     {
       "title": "网传曾沛慈歌手将补位",
@@ -507,14 +524,46 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 472118,
+      "hot_value": 594269,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E6%9B%BE%E6%B2%9B%E6%85%88%E6%AD%8C%E6%89%8B%E5%B0%86%E8%A1%A5%E4%BD%8D"
       },
       "raw_titles": [
         "网传曾沛慈歌手将补位"
       ],
-      "rank": 32,
+      "rank": 33,
+      "movie_rank": 4
+    },
+    {
+      "title": "洛瑞退役",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 587046,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B4%9B%E7%91%9E%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "洛瑞退役"
+      ],
+      "rank": 34,
+      "sports_rank": 30
+    },
+    {
+      "title": "王宝强冯清相恋八年仍未领证",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 576653,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%86%AF%E6%B8%85%E7%9B%B8%E6%81%8B%E5%85%AB%E5%B9%B4%E4%BB%8D%E6%9C%AA%E9%A2%86%E8%AF%81"
+      },
+      "raw_titles": [
+        "王宝强冯清相恋八年仍未领证"
+      ],
+      "rank": 35,
       "movie_rank": 5
     },
     {
@@ -523,14 +572,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 467781,
+      "hot_value": 564141,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%A5%A8%E6%88%BF%E5%8F%B7%E5%8F%AC%E5%8A%9B"
       },
       "raw_titles": [
         "周星驰票房号召力"
       ],
-      "rank": 33,
+      "rank": 36,
       "movie_rank": 6
     },
     {
@@ -539,31 +588,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 423000,
+      "hot_value": 414000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A7%90%E5%A7%90%E6%AF%94%E5%93%88%E5%85%B0%E5%BE%B7%E8%BF%98%E5%83%8F%E5%93%88%E5%85%B0%E5%BE%B7&sa=fyb_news"
       },
       "raw_titles": [
         "哈兰德姐姐比哈兰德还像哈兰德"
       ],
-      "rank": 34,
-      "sports_rank": 28
-    },
-    {
-      "title": "佛得角邀国足比赛被婉拒？足协回应",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 405000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%82%80%E5%9B%BD%E8%B6%B3%E6%AF%94%E8%B5%9B%E8%A2%AB%E5%A9%89%E6%8B%92%EF%BC%9F%E8%B6%B3%E5%8D%8F%E5%9B%9E%E5%BA%94&sa=fyb_news"
-      },
-      "raw_titles": [
-        "佛得角邀国足比赛被婉拒？足协回应"
-      ],
-      "rank": 35,
-      "sports_rank": 29
+      "rank": 37,
+      "sports_rank": 31
     },
     {
       "title": "比利时大胜美国 世界杯最大爽剧",
@@ -571,49 +604,97 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 297000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD+%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E7%88%BD%E5%89%A7&sa=fyb_news"
       },
       "raw_titles": [
         "比利时大胜美国 世界杯最大爽剧"
       ],
-      "rank": 36,
-      "sports_rank": 30
+      "rank": 38,
+      "sports_rank": 32
     },
     {
-      "title": "哈兰德“狂人食谱” 普通人能照搬吗",
+      "title": "佛得角邀国足比赛被婉拒？足协回应",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 252000,
+      "hot_value": 288000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E2%80%9C%E7%8B%82%E4%BA%BA%E9%A3%9F%E8%B0%B1%E2%80%9D+%E6%99%AE%E9%80%9A%E4%BA%BA%E8%83%BD%E7%85%A7%E6%90%AC%E5%90%97&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%82%80%E5%9B%BD%E8%B6%B3%E6%AF%94%E8%B5%9B%E8%A2%AB%E5%A9%89%E6%8B%92%EF%BC%9F%E8%B6%B3%E5%8D%8F%E5%9B%9E%E5%BA%94&sa=fyb_news"
       },
       "raw_titles": [
-        "哈兰德“狂人食谱” 普通人能照搬吗"
+        "佛得角邀国足比赛被婉拒？足协回应"
       ],
-      "rank": 37,
-      "sports_rank": 31
+      "rank": 39,
+      "sports_rank": 33
+    },
+    {
+      "title": "巴黎40℃看秀明星全靠手摇扇子硬扛",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E9%BB%8E40%E2%84%83%E7%9C%8B%E7%A7%80%E6%98%8E%E6%98%9F%E5%85%A8%E9%9D%A0%E6%89%8B%E6%91%87%E6%89%87%E5%AD%90%E7%A1%AC%E6%89%9B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "巴黎40℃看秀明星全靠手摇扇子硬扛"
+      ],
+      "rank": 40,
+      "sports_rank": 34
+    },
+    {
+      "title": "郭艾伦：C罗是个狠人",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 36000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%83%AD%E8%89%BE%E4%BC%A6%EF%BC%9AC%E7%BD%97%E6%98%AF%E4%B8%AA%E7%8B%A0%E4%BA%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "郭艾伦：C罗是个狠人"
+      ],
+      "rank": 41,
+      "sports_rank": 35
     }
   ],
   "sports": [
+    {
+      "title": "如何评价C罗职业生涯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 15082644,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF"
+      },
+      "raw_titles": [
+        "如何评价C罗职业生涯"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "马克龙力挺姆巴佩",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9530770,
+      "hot_value": 9330439,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%85%8B%E9%BE%99%E5%8A%9B%E6%8C%BA%E5%A7%86%E5%B7%B4%E4%BD%A9"
       },
       "raw_titles": [
         "马克龙力挺姆巴佩"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "C罗最后一舞遗憾落幕",
@@ -621,15 +702,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9279747,
+      "hot_value": 9214946,
       "urls": {
         "抖音": "https://www.douyin.com/search/C%E7%BD%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%E9%81%97%E6%86%BE%E8%90%BD%E5%B9%95"
       },
       "raw_titles": [
         "C罗最后一舞遗憾落幕"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "法国足协谴责针对姆巴佩种族言论",
@@ -637,15 +718,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9212770,
+      "hot_value": 9197181,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B3%95%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%B0%B4%E8%B4%A3%E9%92%88%E5%AF%B9%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A7%8D%E6%97%8F%E8%A8%80%E8%AE%BA"
       },
       "raw_titles": [
         "法国足协谴责针对姆巴佩种族言论"
       ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "哈兰德抖音粉丝数超过挪威人口",
@@ -653,28 +734,12 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9193104,
+      "hot_value": 9137279,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D%E6%95%B0%E8%B6%85%E8%BF%87%E6%8C%AA%E5%A8%81%E4%BA%BA%E5%8F%A3"
       },
       "raw_titles": [
         "哈兰德抖音粉丝数超过挪威人口"
-      ],
-      "rank": 4,
-      "sports_rank": 4
-    },
-    {
-      "title": "央视解说哽咽送别C罗",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9110069,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E5%93%BD%E5%92%BD%E9%80%81%E5%88%ABC%E7%BD%97"
-      },
-      "raw_titles": [
-        "央视解说哽咽送别C罗"
       ],
       "rank": 5,
       "sports_rank": 5
@@ -685,7 +750,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7981602,
+      "hot_value": 8509795,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA6%E5%B8%AD%E5%B7%B2%E5%AE%9A"
       },
@@ -696,20 +761,36 @@
       "sports_rank": 6
     },
     {
-      "title": "全抖音都在找哈兰德借粉",
+      "title": "央视解说哽咽送别C罗",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7746747,
+      "hot_value": 8383334,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E9%83%BD%E5%9C%A8%E6%89%BE%E5%93%88%E5%85%B0%E5%BE%B7%E5%80%9F%E7%B2%89"
+        "抖音": "https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E5%93%BD%E5%92%BD%E9%80%81%E5%88%ABC%E7%BD%97"
       },
       "raw_titles": [
-        "全抖音都在找哈兰德借粉"
+        "央视解说哽咽送别C罗"
+      ],
+      "rank": 7,
+      "sports_rank": 7
+    },
+    {
+      "title": "姆巴佩遭巴拉圭官员种族歧视",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8369688,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%AE%98%E5%91%98%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86"
+      },
+      "raw_titles": [
+        "姆巴佩遭巴拉圭官员种族歧视"
       ],
       "rank": 8,
-      "sports_rank": 7
+      "sports_rank": 8
     },
     {
       "title": "哈兰德回复陈赫",
@@ -717,15 +798,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7727295,
+      "hot_value": 7766056,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%9B%9E%E5%A4%8D%E9%99%88%E8%B5%AB"
       },
       "raw_titles": [
         "哈兰德回复陈赫"
       ],
-      "rank": 9,
-      "sports_rank": 8
+      "rank": 10,
+      "sports_rank": 9
+    },
+    {
+      "title": "全抖音都在找哈兰德借粉",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7736112,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E9%83%BD%E5%9C%A8%E6%89%BE%E5%93%88%E5%85%B0%E5%BE%B7%E5%80%9F%E7%B2%89"
+      },
+      "raw_titles": [
+        "全抖音都在找哈兰德借粉"
+      ],
+      "rank": 11,
+      "sports_rank": 10
     },
     {
       "title": "陪C罗登场也陪他退场",
@@ -733,15 +830,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7722178,
+      "hot_value": 7729699,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E7%99%BB%E5%9C%BA%E4%B9%9F%E9%99%AA%E4%BB%96%E9%80%80%E5%9C%BA"
       },
       "raw_titles": [
         "陪C罗登场也陪他退场"
       ],
-      "rank": 10,
-      "sports_rank": 9
+      "rank": 13,
+      "sports_rank": 11
     },
     {
       "title": "再见船长 现场感受C罗最后一舞",
@@ -749,31 +846,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709760,
+      "hot_value": 7717698,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%86%8D%E8%A7%81%E8%88%B9%E9%95%BF%20%E7%8E%B0%E5%9C%BA%E6%84%9F%E5%8F%97C%E7%BD%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E"
       },
       "raw_titles": [
         "再见船长 现场感受C罗最后一舞"
       ],
-      "rank": 11,
-      "sports_rank": 10
-    },
-    {
-      "title": "C罗职业生涯已足够成功吗",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7677645,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%B7%B2%E8%B6%B3%E5%A4%9F%E6%88%90%E5%8A%9F%E5%90%97"
-      },
-      "raw_titles": [
-        "C罗职业生涯已足够成功吗"
-      ],
-      "rank": 12,
-      "sports_rank": 11
+      "rank": 14,
+      "sports_rank": 12
     },
     {
       "title": "用一封信向C罗和青春告别",
@@ -781,31 +862,65 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671286,
+      "hot_value": 7710277,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%A8%E4%B8%80%E5%B0%81%E4%BF%A1%E5%90%91C%E7%BD%97%E5%92%8C%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB"
       },
       "raw_titles": [
         "用一封信向C罗和青春告别"
       ],
-      "rank": 13,
-      "sports_rank": 12
+      "rank": 15,
+      "sports_rank": 13
     },
     {
-      "title": "曝米切尔2.73亿续约",
+      "title": "C罗职业生涯已足够成功吗",
       "category": "体育",
       "sources": [
+        "抖音"
+      ],
+      "hot_value": 7689126,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%B7%B2%E8%B6%B3%E5%A4%9F%E6%88%90%E5%8A%9F%E5%90%97"
+      },
+      "raw_titles": [
+        "C罗职业生涯已足够成功吗"
+      ],
+      "rank": 16,
+      "sports_rank": 14
+    },
+    {
+      "title": "哈兰德模仿大赛第一名有了",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7684719,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%A8%A1%E4%BB%BF%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%E6%9C%89%E4%BA%86"
+      },
+      "raw_titles": [
+        "哈兰德模仿大赛第一名有了"
+      ],
+      "rank": 17,
+      "sports_rank": 15
+    },
+    {
+      "title": "米切尔4年2.73亿续约骑士",
+      "category": "体育",
+      "sources": [
+        "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 6378736,
+      "hot_value": 4476981,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%B1%B3%E5%88%87%E5%B0%944%E5%B9%B42.73%E4%BA%BF%E7%BB%AD%E7%BA%A6%E9%AA%91%E5%A3%AB",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%B1%B3%E5%88%87%E5%B0%942.73%E4%BA%BF%E7%BB%AD%E7%BA%A6"
       },
       "raw_titles": [
-        "曝米切尔2.73亿续约"
+        "米切尔4年2.73亿续约骑士"
       ],
-      "rank": 14,
-      "sports_rank": 13
+      "rank": 18,
+      "sports_rank": 16
     },
     {
       "title": "C罗落幕 青春告别",
@@ -813,95 +928,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2068134,
+      "hot_value": 1826181,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%90%BD%E5%B9%95%20%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB"
       },
       "raw_titles": [
         "C罗落幕 青春告别"
       ],
-      "rank": 15,
-      "sports_rank": 14
-    },
-    {
-      "title": "央视评C罗六次征战世界杯",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1759994,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AF%84C%E7%BD%97%E5%85%AD%E6%AC%A1%E5%BE%81%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "央视评C罗六次征战世界杯"
-      ],
-      "rank": 16,
-      "sports_rank": 15
-    },
-    {
-      "title": "C罗 我的世界杯结束了",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1516577,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%93%E6%9D%9F%E4%BA%86"
-      },
-      "raw_titles": [
-        "C罗 我的世界杯结束了"
-      ],
-      "rank": 17,
-      "sports_rank": 16
-    },
-    {
-      "title": "C罗是否应该退役",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1507640,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "C罗是否应该退役"
-      ],
-      "rank": 18,
-      "sports_rank": 17
-    },
-    {
-      "title": "F1英国大奖赛正赛无线电复盘",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1498220,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98"
-      },
-      "raw_titles": [
-        "F1英国大奖赛正赛无线电复盘"
-      ],
       "rank": 19,
-      "sports_rank": 18
-    },
-    {
-      "title": "C罗 后会有7",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1425055,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E5%90%8E%E4%BC%9A%E6%9C%897"
-      },
-      "raw_titles": [
-        "C罗 后会有7"
-      ],
-      "rank": 20,
-      "sports_rank": 19
+      "sports_rank": 17
     },
     {
       "title": "勇夺世界杯但是LPL",
@@ -909,31 +944,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1395875,
+      "hot_value": 1639175,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8B%87%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%86%E6%98%AFLPL"
       },
       "raw_titles": [
         "勇夺世界杯但是LPL"
       ],
-      "rank": 21,
-      "sports_rank": 20
+      "rank": 20,
+      "sports_rank": 18
     },
     {
-      "title": "西班牙1-0绝杀葡萄牙",
+      "title": "C罗 我的世界杯结束了",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1193940,
+      "hot_value": 1599198,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%991-0%E7%BB%9D%E6%9D%80%E8%91%A1%E8%90%84%E7%89%99"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%93%E6%9D%9F%E4%BA%86"
       },
       "raw_titles": [
-        "西班牙1-0绝杀葡萄牙"
+        "C罗 我的世界杯结束了"
       ],
-      "rank": 23,
-      "sports_rank": 21
+      "rank": 21,
+      "sports_rank": 19
     },
     {
       "title": "41岁C罗告别世界杯",
@@ -941,15 +976,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1154798,
+      "hot_value": 1518763,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=41%E5%B2%81C%E7%BD%97%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
         "41岁C罗告别世界杯"
       ],
+      "rank": 22,
+      "sports_rank": 20
+    },
+    {
+      "title": "央视评C罗六次征战世界杯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1477674,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AF%84C%E7%BD%97%E5%85%AD%E6%AC%A1%E5%BE%81%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "央视评C罗六次征战世界杯"
+      ],
+      "rank": 23,
+      "sports_rank": 21
+    },
+    {
+      "title": "C罗 后会有7",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1464502,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E5%90%8E%E4%BC%9A%E6%9C%897"
+      },
+      "raw_titles": [
+        "C罗 后会有7"
+      ],
       "rank": 24,
       "sports_rank": 22
+    },
+    {
+      "title": "C罗6届世界杯进球轨迹",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1389192,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%976%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%E8%BD%A8%E8%BF%B9"
+      },
+      "raw_titles": [
+        "C罗6届世界杯进球轨迹"
+      ],
+      "rank": 25,
+      "sports_rank": 23
+    },
+    {
+      "title": "C罗是否应该退役",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1376790,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "C罗是否应该退役"
+      ],
+      "rank": 26,
+      "sports_rank": 24
     },
     {
       "title": "战术拆解哈兰德表现",
@@ -957,48 +1056,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1104004,
+      "hot_value": 1117089,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%98%E6%9C%AF%E6%8B%86%E8%A7%A3%E5%93%88%E5%85%B0%E5%BE%B7%E8%A1%A8%E7%8E%B0"
       },
       "raw_titles": [
         "战术拆解哈兰德表现"
       ],
-      "rank": 25,
-      "sports_rank": 23
+      "rank": 27,
+      "sports_rank": 25
+    },
+    {
+      "title": "西班牙1-0绝杀葡萄牙",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1081715,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%991-0%E7%BB%9D%E6%9D%80%E8%91%A1%E8%90%84%E7%89%99"
+      },
+      "raw_titles": [
+        "西班牙1-0绝杀葡萄牙"
+      ],
+      "rank": 28,
+      "sports_rank": 26
     },
     {
       "title": "西班牙绝杀后C罗不断比手势",
       "category": "体育",
       "sources": [
-        "微博",
         "微博"
       ],
-      "hot_value": 1039414,
+      "hot_value": 700672,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E5%90%8EC%E7%BD%97%E5%8F%8D%E5%BA%94"
+        "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E5%90%8EC%E7%BD%97%E4%B8%8D%E6%96%AD%E6%AF%94%E6%89%8B%E5%8A%BF"
       },
       "raw_titles": [
         "西班牙绝杀后C罗不断比手势"
       ],
-      "rank": 26,
-      "sports_rank": 24
-    },
-    {
-      "title": "国足情况通报",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 553107,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5"
-      },
-      "raw_titles": [
-        "国足情况通报"
-      ],
-      "rank": 27,
-      "sports_rank": 25
+      "rank": 29,
+      "sports_rank": 27
     },
     {
       "title": "亚洲股市全线跳水原因",
@@ -1006,31 +1104,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 546615,
+      "hot_value": 623795,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E8%82%A1%E5%B8%82%E5%85%A8%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0"
       },
       "raw_titles": [
         "亚洲股市全线跳水原因"
       ],
-      "rank": 28,
-      "sports_rank": 26
+      "rank": 30,
+      "sports_rank": 28
     },
     {
-      "title": "郭艾伦说C罗是个狠人",
+      "title": "国足情况通报",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 478736,
+      "hot_value": 609847,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E8%AF%B4C%E7%BD%97%E6%98%AF%E4%B8%AA%E7%8B%A0%E4%BA%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5"
       },
       "raw_titles": [
-        "郭艾伦说C罗是个狠人"
+        "国足情况通报"
       ],
       "rank": 31,
-      "sports_rank": 27
+      "sports_rank": 29
+    },
+    {
+      "title": "洛瑞退役",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 587046,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B4%9B%E7%91%9E%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "洛瑞退役"
+      ],
+      "rank": 34,
+      "sports_rank": 30
     },
     {
       "title": "哈兰德姐姐比哈兰德还像哈兰德",
@@ -1038,31 +1152,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 423000,
+      "hot_value": 414000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A7%90%E5%A7%90%E6%AF%94%E5%93%88%E5%85%B0%E5%BE%B7%E8%BF%98%E5%83%8F%E5%93%88%E5%85%B0%E5%BE%B7&sa=fyb_news"
       },
       "raw_titles": [
         "哈兰德姐姐比哈兰德还像哈兰德"
       ],
-      "rank": 34,
-      "sports_rank": 28
-    },
-    {
-      "title": "佛得角邀国足比赛被婉拒？足协回应",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 405000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%82%80%E5%9B%BD%E8%B6%B3%E6%AF%94%E8%B5%9B%E8%A2%AB%E5%A9%89%E6%8B%92%EF%BC%9F%E8%B6%B3%E5%8D%8F%E5%9B%9E%E5%BA%94&sa=fyb_news"
-      },
-      "raw_titles": [
-        "佛得角邀国足比赛被婉拒？足协回应"
-      ],
-      "rank": 35,
-      "sports_rank": 29
+      "rank": 37,
+      "sports_rank": 31
     },
     {
       "title": "比利时大胜美国 世界杯最大爽剧",
@@ -1070,31 +1168,63 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 297000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD+%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E7%88%BD%E5%89%A7&sa=fyb_news"
       },
       "raw_titles": [
         "比利时大胜美国 世界杯最大爽剧"
       ],
-      "rank": 36,
-      "sports_rank": 30
+      "rank": 38,
+      "sports_rank": 32
     },
     {
-      "title": "哈兰德“狂人食谱” 普通人能照搬吗",
+      "title": "佛得角邀国足比赛被婉拒？足协回应",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 252000,
+      "hot_value": 288000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E2%80%9C%E7%8B%82%E4%BA%BA%E9%A3%9F%E8%B0%B1%E2%80%9D+%E6%99%AE%E9%80%9A%E4%BA%BA%E8%83%BD%E7%85%A7%E6%90%AC%E5%90%97&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%82%80%E5%9B%BD%E8%B6%B3%E6%AF%94%E8%B5%9B%E8%A2%AB%E5%A9%89%E6%8B%92%EF%BC%9F%E8%B6%B3%E5%8D%8F%E5%9B%9E%E5%BA%94&sa=fyb_news"
       },
       "raw_titles": [
-        "哈兰德“狂人食谱” 普通人能照搬吗"
+        "佛得角邀国足比赛被婉拒？足协回应"
       ],
-      "rank": 37,
-      "sports_rank": 31
+      "rank": 39,
+      "sports_rank": 33
+    },
+    {
+      "title": "巴黎40℃看秀明星全靠手摇扇子硬扛",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E9%BB%8E40%E2%84%83%E7%9C%8B%E7%A7%80%E6%98%8E%E6%98%9F%E5%85%A8%E9%9D%A0%E6%89%8B%E6%91%87%E6%89%87%E5%AD%90%E7%A1%AC%E6%89%9B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "巴黎40℃看秀明星全靠手摇扇子硬扛"
+      ],
+      "rank": 40,
+      "sports_rank": 34
+    },
+    {
+      "title": "郭艾伦：C罗是个狠人",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 36000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%83%AD%E8%89%BE%E4%BC%A6%EF%BC%9AC%E7%BD%97%E6%98%AF%E4%B8%AA%E7%8B%A0%E4%BA%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "郭艾伦：C罗是个狠人"
+      ],
+      "rank": 41,
+      "sports_rank": 35
     }
   ],
   "movies": [
@@ -1104,63 +1234,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7760848,
+      "hot_value": 7826804,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%91%A8%E6%98%9F%E9%A9%B0%E5%B0%84%E9%97%A8%E7%88%86%E6%9D%86%E4%B8%8D%E8%BE%93%E5%BD%93%E5%B9%B4"
       },
       "raw_titles": [
         "功夫女足周星驰射门爆杆不输当年"
       ],
-      "rank": 7,
+      "rank": 9,
       "movie_rank": 1
     },
     {
-      "title": "盘点过去10年暑期档票房冠军",
+      "title": "功夫女足我来应援",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 1316596,
+      "hot_value": 7734623,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E8%BF%87%E5%8E%BB10%E5%B9%B4%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B"
+        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%88%91%E6%9D%A5%E5%BA%94%E6%8F%B4"
       },
       "raw_titles": [
-        "盘点过去10年暑期档票房冠军"
+        "功夫女足我来应援"
       ],
-      "rank": 22,
+      "rank": 12,
       "movie_rank": 2
     },
     {
-      "title": "关晓彤为庆祝小巷人家杀青剪的短发",
+      "title": "杨紫晒粉丝的信",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 543984,
+      "hot_value": 606616,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%BA%E5%BA%86%E7%A5%9D%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6%E6%9D%80%E9%9D%92%E5%89%AA%E7%9A%84%E7%9F%AD%E5%8F%91"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%99%92%E7%B2%89%E4%B8%9D%E7%9A%84%E4%BF%A1"
       },
       "raw_titles": [
-        "关晓彤为庆祝小巷人家杀青剪的短发"
+        "杨紫晒粉丝的信"
       ],
-      "rank": 29,
+      "rank": 32,
       "movie_rank": 3
-    },
-    {
-      "title": "王宝强冯清相恋八年仍未领证",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 511735,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%86%AF%E6%B8%85%E7%9B%B8%E6%81%8B%E5%85%AB%E5%B9%B4%E4%BB%8D%E6%9C%AA%E9%A2%86%E8%AF%81"
-      },
-      "raw_titles": [
-        "王宝强冯清相恋八年仍未领证"
-      ],
-      "rank": 30,
-      "movie_rank": 4
     },
     {
       "title": "网传曾沛慈歌手将补位",
@@ -1168,14 +1282,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 472118,
+      "hot_value": 594269,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E6%9B%BE%E6%B2%9B%E6%85%88%E6%AD%8C%E6%89%8B%E5%B0%86%E8%A1%A5%E4%BD%8D"
       },
       "raw_titles": [
         "网传曾沛慈歌手将补位"
       ],
-      "rank": 32,
+      "rank": 33,
+      "movie_rank": 4
+    },
+    {
+      "title": "王宝强冯清相恋八年仍未领证",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 576653,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%86%AF%E6%B8%85%E7%9B%B8%E6%81%8B%E5%85%AB%E5%B9%B4%E4%BB%8D%E6%9C%AA%E9%A2%86%E8%AF%81"
+      },
+      "raw_titles": [
+        "王宝强冯清相恋八年仍未领证"
+      ],
+      "rank": 35,
       "movie_rank": 5
     },
     {
@@ -1184,14 +1314,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 467781,
+      "hot_value": 564141,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%A5%A8%E6%88%BF%E5%8F%B7%E5%8F%AC%E5%8A%9B"
       },
       "raw_titles": [
         "周星驰票房号召力"
       ],
-      "rank": 33,
+      "rank": 36,
       "movie_rank": 6
     }
   ]
