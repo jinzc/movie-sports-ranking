@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-07-09 13:00:56",
-  "total": 21,
+  "update_time": "2026-07-09 14:00:56",
+  "total": 22,
   "sports_count": 12,
-  "movie_count": 9,
+  "movie_count": 10,
   "all": [
     {
       "title": "雀骨定档",
@@ -11,7 +11,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8203743,
+      "hot_value": 8078374,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9B%80%E9%AA%A8%E5%AE%9A%E6%A1%A3",
         "抖音": "https://www.douyin.com/search/%E9%9B%80%E9%AA%A8%E5%AE%9A%E6%A1%A30711"
@@ -28,7 +28,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7798543,
+      "hot_value": 7781540,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D"
       },
@@ -39,36 +39,20 @@
       "sports_rank": 1
     },
     {
-      "title": "凡人修仙传大晋实力有多强",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7750771,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%A4%A7%E6%99%8B%E5%AE%9E%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA"
-      },
-      "raw_titles": [
-        "凡人修仙传大晋实力有多强"
-      ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
       "title": "功夫女足发声明抵制倒卖门票",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7743148,
+      "hot_value": 7707654,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%91%E5%A3%B0%E6%98%8E%E6%8A%B5%E5%88%B6%E5%80%92%E5%8D%96%E9%97%A8%E7%A5%A8"
       },
       "raw_titles": [
         "功夫女足发声明抵制倒卖门票"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "无限流鼻祖恐怖游轮定档",
@@ -76,12 +60,28 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7719548,
+      "hot_value": 7688667,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%97%A0%E9%99%90%E6%B5%81%E9%BC%BB%E7%A5%96%E6%81%90%E6%80%96%E6%B8%B8%E8%BD%AE%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "无限流鼻祖恐怖游轮定档"
+      ],
+      "rank": 4,
+      "movie_rank": 3
+    },
+    {
+      "title": "凡人修仙传大晋实力有多强",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7650361,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%A4%A7%E6%99%8B%E5%AE%9E%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA"
+      },
+      "raw_titles": [
+        "凡人修仙传大晋实力有多强"
       ],
       "rank": 5,
       "movie_rank": 4
@@ -92,7 +92,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7681909,
+      "hot_value": 7648963,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BF%83%E4%B8%AD%E9%82%A3%E5%9B%A2%E7%81%AB%E8%B7%B3%E8%B5%B7%E6%9D%A5%E4%BA%86"
       },
@@ -103,51 +103,67 @@
       "movie_rank": 5
     },
     {
+      "title": "老戴试玩释放阿凡达",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1310313,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%80%81%E6%88%B4%E8%AF%95%E7%8E%A9%E9%87%8A%E6%94%BE%E9%98%BF%E5%87%A1%E8%BE%BE"
+      },
+      "raw_titles": [
+        "老戴试玩释放阿凡达"
+      ],
+      "rank": 7,
+      "movie_rank": 6
+    },
+    {
       "title": "阿根廷3-2绝杀埃及",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1879343,
+      "hot_value": 1310311,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%8F%8A"
       },
       "raw_titles": [
         "阿根廷3-2绝杀埃及"
       ],
-      "rank": 7,
+      "rank": 8,
       "sports_rank": 2
     },
     {
-      "title": "挪威vs英格兰世界杯史诗预告",
+      "title": "哈兰德老家挪威是怎样的",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1471219,
+      "hot_value": 1085177,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8C%AA%E5%A8%81vs%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E8%AF%97%E9%A2%84%E5%91%8A"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E8%80%81%E5%AE%B6%E6%8C%AA%E5%A8%81%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84"
       },
       "raw_titles": [
-        "挪威vs英格兰世界杯史诗预告"
+        "哈兰德老家挪威是怎样的"
       ],
-      "rank": 8,
+      "rank": 9,
       "sports_rank": 3
     },
     {
-      "title": "阿根廷 裁判",
+      "title": "姚明NBA队友均已退役",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 1374945,
+      "hot_value": 796272,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%A3%81%E5%88%A4"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%9A%E6%98%8ENBA%E9%98%9F%E5%8F%8B%E5%9D%87%E5%B7%B2%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
-        "阿根廷 裁判"
+        "姚明NBA队友均已退役"
       ],
-      "rank": 9,
+      "rank": 10,
       "sports_rank": 4
     },
     {
@@ -156,47 +172,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1106455,
+      "hot_value": 758147,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E5%A4%8D%E6%B4%BB%E4%BA%86%E8%BF%98%E8%83%BD%E8%BE%93%E7%90%83"
       },
       "raw_titles": [
         "美国队红牌复活了还能输球"
       ],
-      "rank": 10,
+      "rank": 11,
       "sports_rank": 5
     },
     {
-      "title": "洛瑞6分钟退役短片",
+      "title": "世界杯四分之一决赛前瞻",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 995250,
+      "hot_value": 748213,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E7%91%9E6%E5%88%86%E9%92%9F%E9%80%80%E5%BD%B9%E7%9F%AD%E7%89%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
-        "洛瑞6分钟退役短片"
+        "世界杯四分之一决赛前瞻"
       ],
-      "rank": 11,
+      "rank": 12,
       "sports_rank": 6
     },
     {
-      "title": "曝85花三字视后退圈",
-      "category": "影视",
+      "title": "阿根廷 裁判",
+      "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 433970,
+      "hot_value": 469053,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D85%E8%8A%B1%E4%B8%89%E5%AD%97%E8%A7%86%E5%90%8E%E9%80%80%E5%9C%88"
+        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%A3%81%E5%88%A4"
       },
       "raw_titles": [
-        "曝85花三字视后退圈"
+        "阿根廷 裁判"
       ],
-      "rank": 12,
-      "movie_rank": 6
+      "rank": 13,
+      "sports_rank": 7
     },
     {
       "title": "RedVelvet海报疑似Gemini生成",
@@ -204,31 +220,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 414826,
+      "hot_value": 351239,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90"
       },
       "raw_titles": [
         "RedVelvet海报疑似Gemini生成"
       ],
-      "rank": 13,
+      "rank": 14,
       "movie_rank": 7
     },
     {
-      "title": "世界杯8强实力排名",
-      "category": "体育",
+      "title": "曝85花三字视后退圈",
+      "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 336312,
+      "hot_value": 345241,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%AE%9E%E5%8A%9B%E6%8E%92%E5%90%8D"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D85%E8%8A%B1%E4%B8%89%E5%AD%97%E8%A7%86%E5%90%8E%E9%80%80%E5%9C%88"
       },
       "raw_titles": [
-        "世界杯8强实力排名"
+        "曝85花三字视后退圈"
       ],
-      "rank": 14,
-      "sports_rank": 7
+      "rank": 15,
+      "movie_rank": 8
     },
     {
       "title": "C罗淘汰后首次发文",
@@ -236,65 +252,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 306000,
+      "hot_value": 279000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E6%B7%98%E6%B1%B0%E5%90%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E6%96%87&sa=fyb_news"
       },
       "raw_titles": [
         "C罗淘汰后首次发文"
       ],
-      "rank": 15,
+      "rank": 16,
       "sports_rank": 8
     },
     {
-      "title": "阿根廷夺冠概率跌至第四",
+      "title": "苏翊鸣诠释冠军高光力量",
       "category": "体育",
       "sources": [
-        "微博",
-        "百度"
+        "微博"
       ],
-      "hot_value": 296120,
+      "hot_value": 271277,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%9B%9B",
-        "百度": "https://m.baidu.com/s?word=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%9B%9B&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%AF%A0%E9%87%8A%E5%86%A0%E5%86%9B%E9%AB%98%E5%85%89%E5%8A%9B%E9%87%8F"
       },
       "raw_titles": [
-        "阿根廷夺冠概率跌至第四"
-      ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "新华社：国足成绩再不好 也不能造谣",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 234000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E5%9B%BD%E8%B6%B3%E6%88%90%E7%BB%A9%E5%86%8D%E4%B8%8D%E5%A5%BD+%E4%B9%9F%E4%B8%8D%E8%83%BD%E9%80%A0%E8%B0%A3&sa=fyb_news"
-      },
-      "raw_titles": [
-        "新华社：国足成绩再不好 也不能造谣"
+        "苏翊鸣诠释冠军高光力量"
       ],
       "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "世界杯已淘汰队伍排名",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%B2%E6%B7%98%E6%B1%B0%E9%98%9F%E4%BC%8D%E6%8E%92%E5%90%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯已淘汰队伍排名"
-      ],
-      "rank": 18,
-      "sports_rank": 11
+      "sports_rank": 9
     },
     {
       "title": "《雀骨》定档7月11日",
@@ -302,15 +284,63 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 189000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E9%9B%80%E9%AA%A8%E3%80%8B%E5%AE%9A%E6%A1%A37%E6%9C%8811%E6%97%A5&sa=fyb_news"
       },
       "raw_titles": [
         "《雀骨》定档7月11日"
       ],
+      "rank": 18,
+      "movie_rank": 9
+    },
+    {
+      "title": "世界杯：法国vs摩洛哥",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 153000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E6%91%A9%E6%B4%9B%E5%93%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯：法国vs摩洛哥"
+      ],
       "rank": 19,
-      "movie_rank": 8
+      "sports_rank": 10
+    },
+    {
+      "title": "新华社：国足成绩再不好 也不能造谣",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E5%9B%BD%E8%B6%B3%E6%88%90%E7%BB%A9%E5%86%8D%E4%B8%8D%E5%A5%BD+%E4%B9%9F%E4%B8%8D%E8%83%BD%E9%80%A0%E8%B0%A3&sa=fyb_news"
+      },
+      "raw_titles": [
+        "新华社：国足成绩再不好 也不能造谣"
+      ],
+      "rank": 20,
+      "sports_rank": 11
+    },
+    {
+      "title": "世界杯已淘汰队伍排名",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 135000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%B2%E6%B7%98%E6%B1%B0%E9%98%9F%E4%BC%8D%E6%8E%92%E5%90%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯已淘汰队伍排名"
+      ],
+      "rank": 21,
+      "sports_rank": 12
     },
     {
       "title": "邓紫棋回应因台风取消演唱会",
@@ -318,31 +348,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 126000,
+      "hot_value": 63000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%9B%9E%E5%BA%94%E5%9B%A0%E5%8F%B0%E9%A3%8E%E5%8F%96%E6%B6%88%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news"
       },
       "raw_titles": [
         "邓紫棋回应因台风取消演唱会"
       ],
-      "rank": 20,
-      "movie_rank": 9
-    },
-    {
-      "title": "FIFA实力榜姆巴佩进攻第1",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=FIFA%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E6%94%BB%E7%AC%AC1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "FIFA实力榜姆巴佩进攻第1"
-      ],
-      "rank": 21,
-      "sports_rank": 12
+      "rank": 22,
+      "movie_rank": 10
     }
   ],
   "sports": [
@@ -352,7 +366,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7798543,
+      "hot_value": 7781540,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D"
       },
@@ -368,46 +382,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1879343,
+      "hot_value": 1310311,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%8F%8A"
       },
       "raw_titles": [
         "阿根廷3-2绝杀埃及"
       ],
-      "rank": 7,
+      "rank": 8,
       "sports_rank": 2
     },
     {
-      "title": "挪威vs英格兰世界杯史诗预告",
+      "title": "哈兰德老家挪威是怎样的",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1471219,
+      "hot_value": 1085177,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8C%AA%E5%A8%81vs%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E8%AF%97%E9%A2%84%E5%91%8A"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E8%80%81%E5%AE%B6%E6%8C%AA%E5%A8%81%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84"
       },
       "raw_titles": [
-        "挪威vs英格兰世界杯史诗预告"
+        "哈兰德老家挪威是怎样的"
       ],
-      "rank": 8,
+      "rank": 9,
       "sports_rank": 3
     },
     {
-      "title": "阿根廷 裁判",
+      "title": "姚明NBA队友均已退役",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 1374945,
+      "hot_value": 796272,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%A3%81%E5%88%A4"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%9A%E6%98%8ENBA%E9%98%9F%E5%8F%8B%E5%9D%87%E5%B7%B2%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
-        "阿根廷 裁判"
+        "姚明NBA队友均已退役"
       ],
-      "rank": 9,
+      "rank": 10,
       "sports_rank": 4
     },
     {
@@ -416,46 +430,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1106455,
+      "hot_value": 758147,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E5%A4%8D%E6%B4%BB%E4%BA%86%E8%BF%98%E8%83%BD%E8%BE%93%E7%90%83"
       },
       "raw_titles": [
         "美国队红牌复活了还能输球"
       ],
-      "rank": 10,
+      "rank": 11,
       "sports_rank": 5
     },
     {
-      "title": "洛瑞6分钟退役短片",
+      "title": "世界杯四分之一决赛前瞻",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 995250,
+      "hot_value": 748213,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E7%91%9E6%E5%88%86%E9%92%9F%E9%80%80%E5%BD%B9%E7%9F%AD%E7%89%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
-        "洛瑞6分钟退役短片"
+        "世界杯四分之一决赛前瞻"
       ],
-      "rank": 11,
+      "rank": 12,
       "sports_rank": 6
     },
     {
-      "title": "世界杯8强实力排名",
+      "title": "阿根廷 裁判",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 336312,
+      "hot_value": 469053,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%AE%9E%E5%8A%9B%E6%8E%92%E5%90%8D"
+        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%A3%81%E5%88%A4"
       },
       "raw_titles": [
-        "世界杯8强实力排名"
+        "阿根廷 裁判"
       ],
-      "rank": 14,
+      "rank": 13,
       "sports_rank": 7
     },
     {
@@ -464,33 +478,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 306000,
+      "hot_value": 279000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E6%B7%98%E6%B1%B0%E5%90%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E6%96%87&sa=fyb_news"
       },
       "raw_titles": [
         "C罗淘汰后首次发文"
       ],
-      "rank": 15,
+      "rank": 16,
       "sports_rank": 8
     },
     {
-      "title": "阿根廷夺冠概率跌至第四",
+      "title": "苏翊鸣诠释冠军高光力量",
       "category": "体育",
       "sources": [
-        "微博",
-        "百度"
+        "微博"
       ],
-      "hot_value": 296120,
+      "hot_value": 271277,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%9B%9B",
-        "百度": "https://m.baidu.com/s?word=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%9B%9B&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%AF%A0%E9%87%8A%E5%86%A0%E5%86%9B%E9%AB%98%E5%85%89%E5%8A%9B%E9%87%8F"
       },
       "raw_titles": [
-        "阿根廷夺冠概率跌至第四"
+        "苏翊鸣诠释冠军高光力量"
       ],
-      "rank": 16,
+      "rank": 17,
       "sports_rank": 9
+    },
+    {
+      "title": "世界杯：法国vs摩洛哥",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 153000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E6%91%A9%E6%B4%9B%E5%93%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯：法国vs摩洛哥"
+      ],
+      "rank": 19,
+      "sports_rank": 10
     },
     {
       "title": "新华社：国足成绩再不好 也不能造谣",
@@ -498,15 +526,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E5%9B%BD%E8%B6%B3%E6%88%90%E7%BB%A9%E5%86%8D%E4%B8%8D%E5%A5%BD+%E4%B9%9F%E4%B8%8D%E8%83%BD%E9%80%A0%E8%B0%A3&sa=fyb_news"
       },
       "raw_titles": [
         "新华社：国足成绩再不好 也不能造谣"
       ],
-      "rank": 17,
-      "sports_rank": 10
+      "rank": 20,
+      "sports_rank": 11
     },
     {
       "title": "世界杯已淘汰队伍排名",
@@ -514,28 +542,12 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 189000,
+      "hot_value": 135000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%B2%E6%B7%98%E6%B1%B0%E9%98%9F%E4%BC%8D%E6%8E%92%E5%90%8D&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯已淘汰队伍排名"
-      ],
-      "rank": 18,
-      "sports_rank": 11
-    },
-    {
-      "title": "FIFA实力榜姆巴佩进攻第1",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=FIFA%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E6%94%BB%E7%AC%AC1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "FIFA实力榜姆巴佩进攻第1"
       ],
       "rank": 21,
       "sports_rank": 12
@@ -549,7 +561,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8203743,
+      "hot_value": 8078374,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9B%80%E9%AA%A8%E5%AE%9A%E6%A1%A3",
         "抖音": "https://www.douyin.com/search/%E9%9B%80%E9%AA%A8%E5%AE%9A%E6%A1%A30711"
@@ -561,36 +573,20 @@
       "movie_rank": 1
     },
     {
-      "title": "凡人修仙传大晋实力有多强",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7750771,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%A4%A7%E6%99%8B%E5%AE%9E%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA"
-      },
-      "raw_titles": [
-        "凡人修仙传大晋实力有多强"
-      ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
       "title": "功夫女足发声明抵制倒卖门票",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7743148,
+      "hot_value": 7707654,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%91%E5%A3%B0%E6%98%8E%E6%8A%B5%E5%88%B6%E5%80%92%E5%8D%96%E9%97%A8%E7%A5%A8"
       },
       "raw_titles": [
         "功夫女足发声明抵制倒卖门票"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "无限流鼻祖恐怖游轮定档",
@@ -598,12 +594,28 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7719548,
+      "hot_value": 7688667,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%97%A0%E9%99%90%E6%B5%81%E9%BC%BB%E7%A5%96%E6%81%90%E6%80%96%E6%B8%B8%E8%BD%AE%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "无限流鼻祖恐怖游轮定档"
+      ],
+      "rank": 4,
+      "movie_rank": 3
+    },
+    {
+      "title": "凡人修仙传大晋实力有多强",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7650361,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%A4%A7%E6%99%8B%E5%AE%9E%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA"
+      },
+      "raw_titles": [
+        "凡人修仙传大晋实力有多强"
       ],
       "rank": 5,
       "movie_rank": 4
@@ -614,7 +626,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7681909,
+      "hot_value": 7648963,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BF%83%E4%B8%AD%E9%82%A3%E5%9B%A2%E7%81%AB%E8%B7%B3%E8%B5%B7%E6%9D%A5%E4%BA%86"
       },
@@ -625,19 +637,19 @@
       "movie_rank": 5
     },
     {
-      "title": "曝85花三字视后退圈",
+      "title": "老戴试玩释放阿凡达",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 433970,
+      "hot_value": 1310313,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D85%E8%8A%B1%E4%B8%89%E5%AD%97%E8%A7%86%E5%90%8E%E9%80%80%E5%9C%88"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%80%81%E6%88%B4%E8%AF%95%E7%8E%A9%E9%87%8A%E6%94%BE%E9%98%BF%E5%87%A1%E8%BE%BE"
       },
       "raw_titles": [
-        "曝85花三字视后退圈"
+        "老戴试玩释放阿凡达"
       ],
-      "rank": 12,
+      "rank": 7,
       "movie_rank": 6
     },
     {
@@ -646,15 +658,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 414826,
+      "hot_value": 351239,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90"
       },
       "raw_titles": [
         "RedVelvet海报疑似Gemini生成"
       ],
-      "rank": 13,
+      "rank": 14,
       "movie_rank": 7
+    },
+    {
+      "title": "曝85花三字视后退圈",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 345241,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D85%E8%8A%B1%E4%B8%89%E5%AD%97%E8%A7%86%E5%90%8E%E9%80%80%E5%9C%88"
+      },
+      "raw_titles": [
+        "曝85花三字视后退圈"
+      ],
+      "rank": 15,
+      "movie_rank": 8
     },
     {
       "title": "《雀骨》定档7月11日",
@@ -662,15 +690,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 189000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E9%9B%80%E9%AA%A8%E3%80%8B%E5%AE%9A%E6%A1%A37%E6%9C%8811%E6%97%A5&sa=fyb_news"
       },
       "raw_titles": [
         "《雀骨》定档7月11日"
       ],
-      "rank": 19,
-      "movie_rank": 8
+      "rank": 18,
+      "movie_rank": 9
     },
     {
       "title": "邓紫棋回应因台风取消演唱会",
@@ -678,15 +706,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 126000,
+      "hot_value": 63000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%9B%9E%E5%BA%94%E5%9B%A0%E5%8F%B0%E9%A3%8E%E5%8F%96%E6%B6%88%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news"
       },
       "raw_titles": [
         "邓紫棋回应因台风取消演唱会"
       ],
-      "rank": 20,
-      "movie_rank": 9
+      "rank": 22,
+      "movie_rank": 10
     }
   ]
 }
