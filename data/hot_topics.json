@@ -1,7 +1,7 @@
 {
-  "update_time": "2026-07-09 22:00:55",
-  "total": 16,
-  "sports_count": 11,
+  "update_time": "2026-07-09 23:01:03",
+  "total": 15,
+  "sports_count": 10,
   "movie_count": 5,
   "all": [
     {
@@ -9,14 +9,11 @@
       "category": "影视",
       "sources": [
         "微博",
-        "微博",
-        "百度",
         "抖音"
       ],
-      "hot_value": 8433268,
+      "hot_value": 8346005,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96",
-        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news",
+        "微博": "https://s.weibo.com/weibo?q=%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95",
         "抖音": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
@@ -26,19 +23,35 @@
       "movie_rank": 1
     },
     {
+      "title": "功夫女足预售票房破4000万",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7751605,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B44000%E4%B8%87"
+      },
+      "raw_titles": [
+        "功夫女足预售票房破4000万"
+      ],
+      "rank": 2,
+      "movie_rank": 2
+    },
+    {
       "title": "哈兰德中文感谢抖音粉丝",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7753099,
+      "hot_value": 7732190,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D"
       },
       "raw_titles": [
         "哈兰德中文感谢抖音粉丝"
       ],
-      "rank": 2,
+      "rank": 3,
       "sports_rank": 1
     },
     {
@@ -47,15 +60,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742123,
+      "hot_value": 7730929,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%B7%B1%E5%9C%B3%E8%B7%AF%E6%BC%94"
       },
       "raw_titles": [
         "电影功夫女足深圳路演"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 4,
+      "movie_rank": 3
     },
     {
       "title": "雀骨定档0711",
@@ -63,15 +76,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7716277,
+      "hot_value": 7716959,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%9B%80%E9%AA%A8%E5%AE%9A%E6%A1%A30711"
       },
       "raw_titles": [
         "雀骨定档0711"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 5,
+      "movie_rank": 4
     },
     {
       "title": "哈兰德摇花手",
@@ -79,14 +92,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7702468,
+      "hot_value": 7672579,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%91%87%E8%8A%B1%E6%89%8B"
       },
       "raw_titles": [
         "哈兰德摇花手"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 2
     },
     {
@@ -95,31 +108,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7667595,
+      "hot_value": 7657514,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%87%8D%E7%94%9F%E4%B9%8B%E6%88%91%E5%9C%A8%E7%BB%BC%E8%89%BA%E4%BB%98%E8%B4%B9%E6%91%87%E5%A5%B6%E8%8C%B6"
       },
       "raw_titles": [
         "重生之我在综艺付费摇奶茶"
       ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
-      "title": "功夫女足预售票房破4000万",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7653241,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B44000%E4%B8%87"
-      },
-      "raw_titles": [
-        "功夫女足预售票房破4000万"
-      ],
       "rank": 7,
       "movie_rank": 5
+    },
+    {
+      "title": "三分钟看懂台风巴威有多狠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 2137299,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%89%E5%A4%9A%E7%8B%A0"
+      },
+      "raw_titles": [
+        "三分钟看懂台风巴威有多狠"
+      ],
+      "rank": 8,
+      "sports_rank": 3
     },
     {
       "title": "米饭仙人的酱汁世界杯",
@@ -127,47 +140,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1321386,
+      "hot_value": 1722050,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E9%A5%AD%E4%BB%99%E4%BA%BA%E7%9A%84%E9%85%B1%E6%B1%81%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
         "米饭仙人的酱汁世界杯"
       ],
-      "rank": 8,
-      "sports_rank": 3
-    },
-    {
-      "title": "王者大司命FMVP皮肤质量如何",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1300954,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%A4%A7%E5%8F%B8%E5%91%BDFMVP%E7%9A%AE%E8%82%A4%E8%B4%A8%E9%87%8F%E5%A6%82%E4%BD%95"
-      },
-      "raw_titles": [
-        "王者大司命FMVP皮肤质量如何"
-      ],
       "rank": 9,
       "sports_rank": 4
     },
     {
-      "title": "姆巴佩冲四强先得过这关",
+      "title": "大司命FMVP皮肤设计解析",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 1250240,
+      "hot_value": 1454450,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%86%B2%E5%9B%9B%E5%BC%BA%E5%85%88%E5%BE%97%E8%BF%87%E8%BF%99%E5%85%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%8F%B8%E5%91%BDFMVP%E7%9A%AE%E8%82%A4%E8%AE%BE%E8%AE%A1%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
-        "姆巴佩冲四强先得过这关"
+        "大司命FMVP皮肤设计解析"
       ],
       "rank": 10,
       "sports_rank": 5
+    },
+    {
+      "title": "曼联会买入楚阿梅尼吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1359665,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%BC%9A%E4%B9%B0%E5%85%A5%E6%A5%9A%E9%98%BF%E6%A2%85%E5%B0%BC%E5%90%97"
+      },
+      "raw_titles": [
+        "曼联会买入楚阿梅尼吗"
+      ],
+      "rank": 11,
+      "sports_rank": 6
     },
     {
       "title": "哈兰德最新广告堪比守门员恐怖片",
@@ -175,28 +188,12 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 414000,
+      "hot_value": 288000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E6%9C%80%E6%96%B0%E5%B9%BF%E5%91%8A%E5%A0%AA%E6%AF%94%E5%AE%88%E9%97%A8%E5%91%98%E6%81%90%E6%80%96%E7%89%87&sa=fyb_news"
       },
       "raw_titles": [
         "哈兰德最新广告堪比守门员恐怖片"
-      ],
-      "rank": 11,
-      "sports_rank": 6
-    },
-    {
-      "title": "世界杯最大冷门是国际足联",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E5%86%B7%E9%97%A8%E6%98%AF%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯最大冷门是国际足联"
       ],
       "rank": 12,
       "sports_rank": 7
@@ -207,7 +204,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 387000,
+      "hot_value": 261000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E5%85%A8%E7%BD%91%E5%BE%81%E9%9B%86%E4%B8%AD%E5%9B%BD%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5&sa=fyb_news"
       },
@@ -218,52 +215,36 @@
       "sports_rank": 8
     },
     {
-      "title": "AI预测法国夺冠概率居首",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 246613,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BD%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%B1%85%E9%A6%96"
-      },
-      "raw_titles": [
-        "AI预测法国夺冠概率居首"
-      ],
-      "rank": 14,
-      "sports_rank": 9
-    },
-    {
       "title": "赖斯苦练臀部颠球在世界杯用上了",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 225000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B5%96%E6%96%AF%E8%8B%A6%E7%BB%83%E8%87%80%E9%83%A8%E9%A2%A0%E7%90%83%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%94%A8%E4%B8%8A%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "赖斯苦练臀部颠球在世界杯用上了"
       ],
-      "rank": 15,
-      "sports_rank": 10
+      "rank": 14,
+      "sports_rank": 9
     },
     {
-      "title": "巴拉圭球迷焚烧姆巴佩人形玩偶",
+      "title": "世界杯最大冷门是国际足联",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 189000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%90%83%E8%BF%B7%E7%84%9A%E7%83%A7%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%BA%E5%BD%A2%E7%8E%A9%E5%81%B6&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E5%86%B7%E9%97%A8%E6%98%AF%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94&sa=fyb_news"
       },
       "raw_titles": [
-        "巴拉圭球迷焚烧姆巴佩人形玩偶"
+        "世界杯最大冷门是国际足联"
       ],
-      "rank": 16,
-      "sports_rank": 11
+      "rank": 15,
+      "sports_rank": 10
     }
   ],
   "sports": [
@@ -273,14 +254,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7753099,
+      "hot_value": 7732190,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D"
       },
       "raw_titles": [
         "哈兰德中文感谢抖音粉丝"
       ],
-      "rank": 2,
+      "rank": 3,
       "sports_rank": 1
     },
     {
@@ -289,15 +270,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7702468,
+      "hot_value": 7672579,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E6%91%87%E8%8A%B1%E6%89%8B"
       },
       "raw_titles": [
         "哈兰德摇花手"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 2
+    },
+    {
+      "title": "三分钟看懂台风巴威有多狠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 2137299,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%89%E5%A4%9A%E7%8B%A0"
+      },
+      "raw_titles": [
+        "三分钟看懂台风巴威有多狠"
+      ],
+      "rank": 8,
+      "sports_rank": 3
     },
     {
       "title": "米饭仙人的酱汁世界杯",
@@ -305,47 +302,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1321386,
+      "hot_value": 1722050,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E9%A5%AD%E4%BB%99%E4%BA%BA%E7%9A%84%E9%85%B1%E6%B1%81%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
         "米饭仙人的酱汁世界杯"
       ],
-      "rank": 8,
-      "sports_rank": 3
-    },
-    {
-      "title": "王者大司命FMVP皮肤质量如何",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1300954,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%A4%A7%E5%8F%B8%E5%91%BDFMVP%E7%9A%AE%E8%82%A4%E8%B4%A8%E9%87%8F%E5%A6%82%E4%BD%95"
-      },
-      "raw_titles": [
-        "王者大司命FMVP皮肤质量如何"
-      ],
       "rank": 9,
       "sports_rank": 4
     },
     {
-      "title": "姆巴佩冲四强先得过这关",
+      "title": "大司命FMVP皮肤设计解析",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 1250240,
+      "hot_value": 1454450,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%86%B2%E5%9B%9B%E5%BC%BA%E5%85%88%E5%BE%97%E8%BF%87%E8%BF%99%E5%85%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%8F%B8%E5%91%BDFMVP%E7%9A%AE%E8%82%A4%E8%AE%BE%E8%AE%A1%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
-        "姆巴佩冲四强先得过这关"
+        "大司命FMVP皮肤设计解析"
       ],
       "rank": 10,
       "sports_rank": 5
+    },
+    {
+      "title": "曼联会买入楚阿梅尼吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1359665,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%BC%9A%E4%B9%B0%E5%85%A5%E6%A5%9A%E9%98%BF%E6%A2%85%E5%B0%BC%E5%90%97"
+      },
+      "raw_titles": [
+        "曼联会买入楚阿梅尼吗"
+      ],
+      "rank": 11,
+      "sports_rank": 6
     },
     {
       "title": "哈兰德最新广告堪比守门员恐怖片",
@@ -353,28 +350,12 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 414000,
+      "hot_value": 288000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E6%9C%80%E6%96%B0%E5%B9%BF%E5%91%8A%E5%A0%AA%E6%AF%94%E5%AE%88%E9%97%A8%E5%91%98%E6%81%90%E6%80%96%E7%89%87&sa=fyb_news"
       },
       "raw_titles": [
         "哈兰德最新广告堪比守门员恐怖片"
-      ],
-      "rank": 11,
-      "sports_rank": 6
-    },
-    {
-      "title": "世界杯最大冷门是国际足联",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E5%86%B7%E9%97%A8%E6%98%AF%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯最大冷门是国际足联"
       ],
       "rank": 12,
       "sports_rank": 7
@@ -385,7 +366,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 387000,
+      "hot_value": 261000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E5%85%A8%E7%BD%91%E5%BE%81%E9%9B%86%E4%B8%AD%E5%9B%BD%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5&sa=fyb_news"
       },
@@ -396,52 +377,36 @@
       "sports_rank": 8
     },
     {
-      "title": "AI预测法国夺冠概率居首",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 246613,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BD%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%B1%85%E9%A6%96"
-      },
-      "raw_titles": [
-        "AI预测法国夺冠概率居首"
-      ],
-      "rank": 14,
-      "sports_rank": 9
-    },
-    {
       "title": "赖斯苦练臀部颠球在世界杯用上了",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 225000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B5%96%E6%96%AF%E8%8B%A6%E7%BB%83%E8%87%80%E9%83%A8%E9%A2%A0%E7%90%83%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%94%A8%E4%B8%8A%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "赖斯苦练臀部颠球在世界杯用上了"
       ],
-      "rank": 15,
-      "sports_rank": 10
+      "rank": 14,
+      "sports_rank": 9
     },
     {
-      "title": "巴拉圭球迷焚烧姆巴佩人形玩偶",
+      "title": "世界杯最大冷门是国际足联",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 189000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%90%83%E8%BF%B7%E7%84%9A%E7%83%A7%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%BA%E5%BD%A2%E7%8E%A9%E5%81%B6&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E5%86%B7%E9%97%A8%E6%98%AF%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94&sa=fyb_news"
       },
       "raw_titles": [
-        "巴拉圭球迷焚烧姆巴佩人形玩偶"
+        "世界杯最大冷门是国际足联"
       ],
-      "rank": 16,
-      "sports_rank": 11
+      "rank": 15,
+      "sports_rank": 10
     }
   ],
   "movies": [
@@ -450,14 +415,11 @@
       "category": "影视",
       "sources": [
         "微博",
-        "微博",
-        "百度",
         "抖音"
       ],
-      "hot_value": 8433268,
+      "hot_value": 8346005,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96",
-        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news",
+        "微博": "https://s.weibo.com/weibo?q=%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95",
         "抖音": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
@@ -467,20 +429,36 @@
       "movie_rank": 1
     },
     {
+      "title": "功夫女足预售票房破4000万",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7751605,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B44000%E4%B8%87"
+      },
+      "raw_titles": [
+        "功夫女足预售票房破4000万"
+      ],
+      "rank": 2,
+      "movie_rank": 2
+    },
+    {
       "title": "电影功夫女足深圳路演",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742123,
+      "hot_value": 7730929,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%B7%B1%E5%9C%B3%E8%B7%AF%E6%BC%94"
       },
       "raw_titles": [
         "电影功夫女足深圳路演"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 4,
+      "movie_rank": 3
     },
     {
       "title": "雀骨定档0711",
@@ -488,15 +466,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7716277,
+      "hot_value": 7716959,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%9B%80%E9%AA%A8%E5%AE%9A%E6%A1%A30711"
       },
       "raw_titles": [
         "雀骨定档0711"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 5,
+      "movie_rank": 4
     },
     {
       "title": "重生之我在综艺付费摇奶茶",
@@ -504,28 +482,12 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7667595,
+      "hot_value": 7657514,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%87%8D%E7%94%9F%E4%B9%8B%E6%88%91%E5%9C%A8%E7%BB%BC%E8%89%BA%E4%BB%98%E8%B4%B9%E6%91%87%E5%A5%B6%E8%8C%B6"
       },
       "raw_titles": [
         "重生之我在综艺付费摇奶茶"
-      ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
-      "title": "功夫女足预售票房破4000万",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7653241,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B44000%E4%B8%87"
-      },
-      "raw_titles": [
-        "功夫女足预售票房破4000万"
       ],
       "rank": 7,
       "movie_rank": 5
