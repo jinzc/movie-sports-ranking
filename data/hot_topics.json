@@ -1,23 +1,44 @@
 {
-  "update_time": "2026-07-11 05:00:53",
-  "total": 40,
-  "sports_count": 20,
-  "movie_count": 20,
+  "update_time": "2026-07-11 06:00:54",
+  "total": 39,
+  "sports_count": 23,
+  "movie_count": 16,
   "all": [
+    {
+      "title": "功夫女足",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音",
+        "抖音",
+        "抖音",
+        "抖音"
+      ],
+      "hot_value": 31457343,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B0%88%E5%8F%82%E6%BC%94%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+      },
+      "raw_titles": [
+        "功夫女足"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "我国成功实施火箭一子级可控回收",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10493230,
+      "hot_value": 10377005,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E7%81%AB%E7%AE%AD%E4%B8%80%E5%AD%90%E7%BA%A7%E5%8F%AF%E6%8E%A7%E5%9B%9E%E6%94%B6"
       },
       "raw_titles": [
         "我国成功实施火箭一子级可控回收"
       ],
-      "rank": 1,
+      "rank": 2,
       "sports_rank": 1
     },
     {
@@ -26,15 +47,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9130783,
+      "hot_value": 8668516,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%8C%B6%E5%95%8A%E4%BA%8C%E4%B8%AD%E7%AC%AC%E5%85%AD%E5%AD%A3%E5%AE%9A%E6%A1%A3%E6%9A%91%E6%9C%9F"
       },
       "raw_titles": [
         "茶啊二中第六季定档暑期"
       ],
-      "rank": 2,
-      "movie_rank": 1
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "姆巴佩回应受伤",
@@ -42,31 +63,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8902165,
+      "hot_value": 8533014,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%9E%E5%BA%94%E5%8F%97%E4%BC%A4"
       },
       "raw_titles": [
         "姆巴佩回应受伤"
       ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
-      "title": "功夫女足预售总票房破6000万",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7827547,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B46000%E4%B8%87"
-      },
-      "raw_titles": [
-        "功夫女足预售总票房破6000万"
-      ],
       "rank": 4,
-      "movie_rank": 2
+      "sports_rank": 2
     },
     {
       "title": "歌手2026第八期舞台",
@@ -74,7 +79,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7811308,
+      "hot_value": 7788050,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%85%AB%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
@@ -85,69 +90,19 @@
       "movie_rank": 3
     },
     {
-      "title": "电影《功夫女足》首支长预告",
-      "category": "影视",
-      "sources": [
-        "百度",
-        "抖音"
-      ],
-      "hot_value": 7781411,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%91%E5%B8%83%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A"
-      },
-      "raw_titles": [
-        "电影《功夫女足》首支长预告"
-      ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
-      "title": "周星驰功夫女足各队功夫够燥的",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7762532,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%90%84%E9%98%9F%E5%8A%9F%E5%A4%AB%E5%A4%9F%E7%87%A5%E7%9A%84"
-      },
-      "raw_titles": [
-        "周星驰功夫女足各队功夫够燥的"
-      ],
-      "rank": 7,
-      "movie_rank": 5
-    },
-    {
-      "title": "迪丽热巴谈参演功夫女足",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7725563,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B0%88%E5%8F%82%E6%BC%94%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
-      },
-      "raw_titles": [
-        "迪丽热巴谈参演功夫女足"
-      ],
-      "rank": 8,
-      "movie_rank": 6
-    },
-    {
       "title": "葱的花语是哈兰德",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7705845,
+      "hot_value": 7714662,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%91%B1%E7%9A%84%E8%8A%B1%E8%AF%AD%E6%98%AF%E5%93%88%E5%85%B0%E5%BE%B7"
       },
       "raw_titles": [
         "葱的花语是哈兰德"
       ],
-      "rank": 9,
+      "rank": 6,
       "sports_rank": 3
     },
     {
@@ -156,31 +111,49 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7640820,
+      "hot_value": 7628916,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A2%AB%E8%80%81%E5%90%9B%E5%B1%B1%E5%9B%BD%E6%BC%AB%E5%B0%8F%E5%A7%90%E5%A7%90%E5%8F%AF%E7%88%B1%E5%88%B0"
       },
       "raw_titles": [
         "被老君山国漫小姐姐可爱到"
       ],
-      "rank": 10,
-      "movie_rank": 7
+      "rank": 7,
+      "movie_rank": 4
     },
     {
-      "title": "比利时扳平比分",
+      "title": "假面骑士甲斗20周年新作",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 1197829,
+      "hot_value": 7621717,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B6%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86"
+        "抖音": "https://www.douyin.com/search/%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%94%B2%E6%96%9720%E5%91%A8%E5%B9%B4%E6%96%B0%E4%BD%9C"
       },
       "raw_titles": [
-        "比利时扳平比分"
+        "假面骑士甲斗20周年新作"
       ],
-      "rank": 11,
+      "rank": 8,
       "sports_rank": 4
+    },
+    {
+      "title": "西班牙2-1绝杀比利时",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 4250079,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E7%BB%9D%E6%9D%80%E6%AF%94%E5%88%A9%E6%97%B6&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E7%BB%9D%E6%9D%80%E6%AF%94%E5%88%A9%E6%97%B6"
+      },
+      "raw_titles": [
+        "西班牙2-1绝杀比利时"
+      ],
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "UP主实拍中国首枚火箭回收",
@@ -188,15 +161,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 947758,
+      "hot_value": 880836,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6"
       },
       "raw_titles": [
         "UP主实拍中国首枚火箭回收"
       ],
-      "rank": 12,
-      "sports_rank": 5
+      "rank": 10,
+      "sports_rank": 6
     },
     {
       "title": "世界杯解说天花板是如何炼成的",
@@ -204,15 +177,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 833620,
+      "hot_value": 848726,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%A3%E8%AF%B4%E5%A4%A9%E8%8A%B1%E6%9D%BF%E6%98%AF%E5%A6%82%E4%BD%95%E7%82%BC%E6%88%90%E7%9A%84"
       },
       "raw_titles": [
         "世界杯解说天花板是如何炼成的"
       ],
-      "rank": 13,
-      "sports_rank": 6
+      "rank": 11,
+      "sports_rank": 7
     },
     {
       "title": "解读全球首次运载火箭网系回收全程",
@@ -220,30 +193,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 830220,
+      "hot_value": 744579,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E5%85%A8%E7%A8%8B"
       },
       "raw_titles": [
         "解读全球首次运载火箭网系回收全程"
       ],
-      "rank": 14,
-      "sports_rank": 7
-    },
-    {
-      "title": "长征十号乙火箭首飞圆满成功",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 809282,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9E%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F"
-      },
-      "raw_titles": [
-        "长征十号乙火箭首飞圆满成功"
-      ],
-      "rank": 15,
+      "rank": 12,
       "sports_rank": 8
     },
     {
@@ -252,112 +209,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 764337,
+      "hot_value": 666471,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%98%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E8%88%B9"
       },
       "raw_titles": [
         "探访中国首艘火箭回收船"
       ],
-      "rank": 16,
+      "rank": 13,
       "sports_rank": 9
     },
     {
-      "title": "幻兽帕鲁1.0正式版上线预告片",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 521385,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%811.0%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%E9%A2%84%E5%91%8A%E7%89%87"
-      },
-      "raw_titles": [
-        "幻兽帕鲁1.0正式版上线预告片"
-      ],
-      "rank": 17,
-      "movie_rank": 8
-    },
-    {
-      "title": "三分钟看懂台风巴威有多狠",
+      "title": "长征十号乙火箭首飞圆满成功",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 517125,
+      "hot_value": 635423,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%89%E5%A4%9A%E7%8B%A0"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9E%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F"
       },
       "raw_titles": [
-        "三分钟看懂台风巴威有多狠"
+        "长征十号乙火箭首飞圆满成功"
       ],
-      "rank": 18,
+      "rank": 14,
       "sports_rank": 10
-    },
-    {
-      "title": "京东邀您一起看周星驰功夫女足",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "微博"
-      ],
-      "hot_value": 455084,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
-      },
-      "raw_titles": [
-        "京东邀您一起看周星驰功夫女足"
-      ],
-      "rank": 19,
-      "movie_rank": 9
-    },
-    {
-      "title": "火箭网系回收有何优势",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 447786,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E6%9C%89%E4%BD%95%E4%BC%98%E5%8A%BF"
-      },
-      "raw_titles": [
-        "火箭网系回收有何优势"
-      ],
-      "rank": 20,
-      "sports_rank": 11
-    },
-    {
-      "title": "世界杯：西班牙vs比利时",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 441000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%AF%94%E5%88%A9%E6%97%B6&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯：西班牙vs比利时"
-      ],
-      "rank": 21,
-      "sports_rank": 12
-    },
-    {
-      "title": "G2选手预测世界杯冠军",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 420311,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=G2%E9%80%89%E6%89%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B"
-      },
-      "raw_titles": [
-        "G2选手预测世界杯冠军"
-      ],
-      "rank": 22,
-      "sports_rank": 13
     },
     {
       "title": "火影首位1亿战力玩家诞生",
@@ -365,15 +241,143 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 417773,
+      "hot_value": 605342,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E9%A6%96%E4%BD%8D1%E4%BA%BF%E6%88%98%E5%8A%9B%E7%8E%A9%E5%AE%B6%E8%AF%9E%E7%94%9F"
       },
       "raw_titles": [
         "火影首位1亿战力玩家诞生"
       ],
+      "rank": 15,
+      "movie_rank": 5
+    },
+    {
+      "title": "幻兽帕鲁1.0正式版上线预告片",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 494700,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%811.0%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%E9%A2%84%E5%91%8A%E7%89%87"
+      },
+      "raw_titles": [
+        "幻兽帕鲁1.0正式版上线预告片"
+      ],
+      "rank": 16,
+      "movie_rank": 6
+    },
+    {
+      "title": "火箭网系回收有何优势",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 492821,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E6%9C%89%E4%BD%95%E4%BC%98%E5%8A%BF"
+      },
+      "raw_titles": [
+        "火箭网系回收有何优势"
+      ],
+      "rank": 17,
+      "sports_rank": 11
+    },
+    {
+      "title": "中国为何非要死磕火箭回收",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 428871,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E9%9D%9E%E8%A6%81%E6%AD%BB%E7%A3%95%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6"
+      },
+      "raw_titles": [
+        "中国为何非要死磕火箭回收"
+      ],
+      "rank": 18,
+      "sports_rank": 12
+    },
+    {
+      "title": "三分钟看懂台风巴威有多狠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 381630,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%89%E5%A4%9A%E7%8B%A0"
+      },
+      "raw_titles": [
+        "三分钟看懂台风巴威有多狠"
+      ],
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "世界杯：西班牙vs比利时",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 378000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%AF%94%E5%88%A9%E6%97%B6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯：西班牙vs比利时"
+      ],
+      "rank": 20,
+      "sports_rank": 14
+    },
+    {
+      "title": "西班牙绝杀惊呆甲亢哥",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 369000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E6%83%8A%E5%91%86%E7%94%B2%E4%BA%A2%E5%93%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西班牙绝杀惊呆甲亢哥"
+      ],
+      "rank": 21,
+      "sports_rank": 15
+    },
+    {
+      "title": "G2选手预测世界杯冠军",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 352893,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=G2%E9%80%89%E6%89%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B"
+      },
+      "raw_titles": [
+        "G2选手预测世界杯冠军"
+      ],
+      "rank": 22,
+      "sports_rank": 16
+    },
+    {
+      "title": "电影三国争洛阳观后感",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 340451,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E4%B8%89%E5%9B%BD%E4%BA%89%E6%B4%9B%E9%98%B3%E8%A7%82%E5%90%8E%E6%84%9F"
+      },
+      "raw_titles": [
+        "电影三国争洛阳观后感"
+      ],
       "rank": 23,
-      "movie_rank": 10
+      "movie_rank": 7
     },
     {
       "title": "窦靖童《歌手》摇滚黑嗓",
@@ -389,7 +393,23 @@
         "窦靖童《歌手》摇滚黑嗓"
       ],
       "rank": 24,
-      "movie_rank": 11
+      "movie_rank": 8
+    },
+    {
+      "title": "亚马尔状态",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 280199,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81"
+      },
+      "raw_titles": [
+        "亚马尔状态"
+      ],
+      "rank": 25,
+      "sports_rank": 17
     },
     {
       "title": "胡彦斌蝉联《歌手》月度冠军",
@@ -404,8 +424,8 @@
       "raw_titles": [
         "胡彦斌蝉联《歌手》月度冠军"
       ],
-      "rank": 25,
-      "movie_rank": 12
+      "rank": 26,
+      "movie_rank": 9
     },
     {
       "title": "除了比赛训练 哈兰德一点也没闲着",
@@ -420,8 +440,24 @@
       "raw_titles": [
         "除了比赛训练 哈兰德一点也没闲着"
       ],
-      "rank": 26,
-      "sports_rank": 14
+      "rank": 27,
+      "sports_rank": 18
+    },
+    {
+      "title": "周星驰口碑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 227720,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "周星驰口碑"
+      ],
+      "rank": 28,
+      "movie_rank": 10
     },
     {
       "title": "法国队夺冠还有多少悬念",
@@ -436,8 +472,8 @@
       "raw_titles": [
         "法国队夺冠还有多少悬念"
       ],
-      "rank": 27,
-      "sports_rank": 15
+      "rank": 29,
+      "sports_rank": 19
     },
     {
       "title": "暴雨天家里进水怎么办",
@@ -445,15 +481,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 153000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%AE%B6%E9%87%8C%E8%BF%9B%E6%B0%B4%E6%80%8E%E4%B9%88%E5%8A%9E&sa=fyb_news"
       },
       "raw_titles": [
         "暴雨天家里进水怎么办"
       ],
-      "rank": 28,
-      "movie_rank": 13
+      "rank": 30,
+      "movie_rank": 11
+    },
+    {
+      "title": "梅里诺连场绝杀",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 109407,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E9%87%8C%E8%AF%BA%E8%BF%9E%E5%9C%BA%E7%BB%9D%E6%9D%80"
+      },
+      "raw_titles": [
+        "梅里诺连场绝杀"
+      ],
+      "rank": 31,
+      "sports_rank": 20
     },
     {
       "title": "《歌手》第八期排名",
@@ -461,47 +513,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 81000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC%E5%85%AB%E6%9C%9F%E6%8E%92%E5%90%8D&sa=fyb_news"
       },
       "raw_titles": [
         "《歌手》第八期排名"
       ],
-      "rank": 29,
-      "movie_rank": 14
-    },
-    {
-      "title": "周星驰口碑",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 146680,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8F%A3%E7%A2%91"
-      },
-      "raw_titles": [
-        "周星驰口碑"
-      ],
-      "rank": 30,
-      "movie_rank": 15
-    },
-    {
-      "title": "亚马尔状态",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 119752,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81"
-      },
-      "raw_titles": [
-        "亚马尔状态"
-      ],
-      "rank": 31,
-      "sports_rank": 16
+      "rank": 32,
+      "movie_rank": 12
     },
     {
       "title": "范志毅说亚马尔必须要尊重C罗",
@@ -509,15 +529,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 60940,
+      "hot_value": 76988,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E8%AF%B4%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%BF%85%E9%A1%BB%E8%A6%81%E5%B0%8A%E9%87%8DC%E7%BD%97"
       },
       "raw_titles": [
         "范志毅说亚马尔必须要尊重C罗"
       ],
-      "rank": 32,
-      "sports_rank": 17
+      "rank": 33,
+      "sports_rank": 21
     },
     {
       "title": "迪丽热巴这动作把我腿掰折也做不到",
@@ -525,15 +545,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 60622,
+      "hot_value": 63528,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%99%E5%8A%A8%E4%BD%9C%E6%8A%8A%E6%88%91%E8%85%BF%E6%8E%B0%E6%8A%98%E4%B9%9F%E5%81%9A%E4%B8%8D%E5%88%B0"
       },
       "raw_titles": [
         "迪丽热巴这动作把我腿掰折也做不到"
       ],
-      "rank": 33,
-      "movie_rank": 16
+      "rank": 34,
+      "movie_rank": 13
     },
     {
       "title": "歌手排名",
@@ -541,15 +561,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 55430,
+      "hot_value": 57258,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
         "歌手排名"
       ],
-      "rank": 34,
-      "movie_rank": 17
+      "rank": 35,
+      "movie_rank": 14
     },
     {
       "title": "德约科维奇vs辛纳",
@@ -557,15 +577,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 50305,
+      "hot_value": 45699,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87vs%E8%BE%9B%E7%BA%B3"
       },
       "raw_titles": [
         "德约科维奇vs辛纳"
       ],
-      "rank": 35,
-      "sports_rank": 18
+      "rank": 36,
+      "sports_rank": 22
     },
     {
       "title": "邓紫棋被歌手弹幕发现了行踪",
@@ -573,47 +593,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 46109,
+      "hot_value": 41726,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E8%A2%AB%E6%AD%8C%E6%89%8B%E5%BC%B9%E5%B9%95%E5%8F%91%E7%8E%B0%E4%BA%86%E8%A1%8C%E8%B8%AA"
       },
       "raw_titles": [
         "邓紫棋被歌手弹幕发现了行踪"
       ],
-      "rank": 36,
-      "movie_rank": 18
-    },
-    {
-      "title": "迪丽热巴大腿肌踢成巨肌了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 43523,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%A7%E8%85%BF%E8%82%8C%E8%B8%A2%E6%88%90%E5%B7%A8%E8%82%8C%E4%BA%86"
-      },
-      "raw_titles": [
-        "迪丽热巴大腿肌踢成巨肌了"
-      ],
       "rank": 37,
-      "movie_rank": 19
-    },
-    {
-      "title": "薛之谦演唱会",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36915,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "薛之谦演唱会"
-      ],
-      "rank": 38,
-      "movie_rank": 20
+      "movie_rank": 15
     },
     {
       "title": "哈兰德被小孩摸完大腿一秒变红",
@@ -621,31 +609,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 36915,
+      "hot_value": 41642,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%91%B8%E5%AE%8C%E5%A4%A7%E8%85%BF%E4%B8%80%E7%A7%92%E5%8F%98%E7%BA%A2"
       },
       "raw_titles": [
         "哈兰德被小孩摸完大腿一秒变红"
       ],
-      "rank": 39,
-      "sports_rank": 19
+      "rank": 38,
+      "sports_rank": 23
     },
     {
-      "title": "挪威进八强 哈兰德让鲁尼兑现承诺",
-      "category": "体育",
+      "title": "迪丽热巴大腿肌踢成巨肌了",
+      "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 36915,
+      "hot_value": 39024,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%81%E8%BF%9B%E5%85%AB%E5%BC%BA%20%E5%93%88%E5%85%B0%E5%BE%B7%E8%AE%A9%E9%B2%81%E5%B0%BC%E5%85%91%E7%8E%B0%E6%89%BF%E8%AF%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%A7%E8%85%BF%E8%82%8C%E8%B8%A2%E6%88%90%E5%B7%A8%E8%82%8C%E4%BA%86"
       },
       "raw_titles": [
-        "挪威进八强 哈兰德让鲁尼兑现承诺"
+        "迪丽热巴大腿肌踢成巨肌了"
       ],
-      "rank": 40,
-      "sports_rank": 20
+      "rank": 39,
+      "movie_rank": 16
     }
   ],
   "sports": [
@@ -655,14 +643,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10493230,
+      "hot_value": 10377005,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E7%81%AB%E7%AE%AD%E4%B8%80%E5%AD%90%E7%BA%A7%E5%8F%AF%E6%8E%A7%E5%9B%9E%E6%94%B6"
       },
       "raw_titles": [
         "我国成功实施火箭一子级可控回收"
       ],
-      "rank": 1,
+      "rank": 2,
       "sports_rank": 1
     },
     {
@@ -671,14 +659,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8902165,
+      "hot_value": 8533014,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%9E%E5%BA%94%E5%8F%97%E4%BC%A4"
       },
       "raw_titles": [
         "姆巴佩回应受伤"
       ],
-      "rank": 3,
+      "rank": 4,
       "sports_rank": 2
     },
     {
@@ -687,31 +675,49 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7705845,
+      "hot_value": 7714662,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%91%B1%E7%9A%84%E8%8A%B1%E8%AF%AD%E6%98%AF%E5%93%88%E5%85%B0%E5%BE%B7"
       },
       "raw_titles": [
         "葱的花语是哈兰德"
       ],
-      "rank": 9,
+      "rank": 6,
       "sports_rank": 3
     },
     {
-      "title": "比利时扳平比分",
+      "title": "假面骑士甲斗20周年新作",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 1197829,
+      "hot_value": 7621717,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B6%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86"
+        "抖音": "https://www.douyin.com/search/%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%94%B2%E6%96%9720%E5%91%A8%E5%B9%B4%E6%96%B0%E4%BD%9C"
       },
       "raw_titles": [
-        "比利时扳平比分"
+        "假面骑士甲斗20周年新作"
       ],
-      "rank": 11,
+      "rank": 8,
       "sports_rank": 4
+    },
+    {
+      "title": "西班牙2-1绝杀比利时",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 4250079,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E7%BB%9D%E6%9D%80%E6%AF%94%E5%88%A9%E6%97%B6&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E7%BB%9D%E6%9D%80%E6%AF%94%E5%88%A9%E6%97%B6"
+      },
+      "raw_titles": [
+        "西班牙2-1绝杀比利时"
+      ],
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "UP主实拍中国首枚火箭回收",
@@ -719,15 +725,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 947758,
+      "hot_value": 880836,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6"
       },
       "raw_titles": [
         "UP主实拍中国首枚火箭回收"
       ],
-      "rank": 12,
-      "sports_rank": 5
+      "rank": 10,
+      "sports_rank": 6
     },
     {
       "title": "世界杯解说天花板是如何炼成的",
@@ -735,15 +741,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 833620,
+      "hot_value": 848726,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%A3%E8%AF%B4%E5%A4%A9%E8%8A%B1%E6%9D%BF%E6%98%AF%E5%A6%82%E4%BD%95%E7%82%BC%E6%88%90%E7%9A%84"
       },
       "raw_titles": [
         "世界杯解说天花板是如何炼成的"
       ],
-      "rank": 13,
-      "sports_rank": 6
+      "rank": 11,
+      "sports_rank": 7
     },
     {
       "title": "解读全球首次运载火箭网系回收全程",
@@ -751,30 +757,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 830220,
+      "hot_value": 744579,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E5%85%A8%E7%A8%8B"
       },
       "raw_titles": [
         "解读全球首次运载火箭网系回收全程"
       ],
-      "rank": 14,
-      "sports_rank": 7
-    },
-    {
-      "title": "长征十号乙火箭首飞圆满成功",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 809282,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9E%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F"
-      },
-      "raw_titles": [
-        "长征十号乙火箭首飞圆满成功"
-      ],
-      "rank": 15,
+      "rank": 12,
       "sports_rank": 8
     },
     {
@@ -783,30 +773,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 764337,
+      "hot_value": 666471,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%98%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E8%88%B9"
       },
       "raw_titles": [
         "探访中国首艘火箭回收船"
       ],
-      "rank": 16,
+      "rank": 13,
       "sports_rank": 9
     },
     {
-      "title": "三分钟看懂台风巴威有多狠",
+      "title": "长征十号乙火箭首飞圆满成功",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 517125,
+      "hot_value": 635423,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%89%E5%A4%9A%E7%8B%A0"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9E%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F"
       },
       "raw_titles": [
-        "三分钟看懂台风巴威有多狠"
+        "长征十号乙火箭首飞圆满成功"
       ],
-      "rank": 18,
+      "rank": 14,
       "sports_rank": 10
     },
     {
@@ -815,15 +805,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 447786,
+      "hot_value": 492821,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E6%9C%89%E4%BD%95%E4%BC%98%E5%8A%BF"
       },
       "raw_titles": [
         "火箭网系回收有何优势"
       ],
-      "rank": 20,
+      "rank": 17,
       "sports_rank": 11
+    },
+    {
+      "title": "中国为何非要死磕火箭回收",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 428871,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E9%9D%9E%E8%A6%81%E6%AD%BB%E7%A3%95%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6"
+      },
+      "raw_titles": [
+        "中国为何非要死磕火箭回收"
+      ],
+      "rank": 18,
+      "sports_rank": 12
+    },
+    {
+      "title": "三分钟看懂台风巴威有多狠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 381630,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%89%E5%A4%9A%E7%8B%A0"
+      },
+      "raw_titles": [
+        "三分钟看懂台风巴威有多狠"
+      ],
+      "rank": 19,
+      "sports_rank": 13
     },
     {
       "title": "世界杯：西班牙vs比利时",
@@ -831,15 +853,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 441000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%AF%94%E5%88%A9%E6%97%B6&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯：西班牙vs比利时"
       ],
+      "rank": 20,
+      "sports_rank": 14
+    },
+    {
+      "title": "西班牙绝杀惊呆甲亢哥",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 369000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E6%83%8A%E5%91%86%E7%94%B2%E4%BA%A2%E5%93%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西班牙绝杀惊呆甲亢哥"
+      ],
       "rank": 21,
-      "sports_rank": 12
+      "sports_rank": 15
     },
     {
       "title": "G2选手预测世界杯冠军",
@@ -847,7 +885,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 420311,
+      "hot_value": 352893,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=G2%E9%80%89%E6%89%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B"
       },
@@ -855,7 +893,23 @@
         "G2选手预测世界杯冠军"
       ],
       "rank": 22,
-      "sports_rank": 13
+      "sports_rank": 16
+    },
+    {
+      "title": "亚马尔状态",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 280199,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81"
+      },
+      "raw_titles": [
+        "亚马尔状态"
+      ],
+      "rank": 25,
+      "sports_rank": 17
     },
     {
       "title": "除了比赛训练 哈兰德一点也没闲着",
@@ -870,8 +924,8 @@
       "raw_titles": [
         "除了比赛训练 哈兰德一点也没闲着"
       ],
-      "rank": 26,
-      "sports_rank": 14
+      "rank": 27,
+      "sports_rank": 18
     },
     {
       "title": "法国队夺冠还有多少悬念",
@@ -886,24 +940,24 @@
       "raw_titles": [
         "法国队夺冠还有多少悬念"
       ],
-      "rank": 27,
-      "sports_rank": 15
+      "rank": 29,
+      "sports_rank": 19
     },
     {
-      "title": "亚马尔状态",
+      "title": "梅里诺连场绝杀",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 119752,
+      "hot_value": 109407,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81"
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E9%87%8C%E8%AF%BA%E8%BF%9E%E5%9C%BA%E7%BB%9D%E6%9D%80"
       },
       "raw_titles": [
-        "亚马尔状态"
+        "梅里诺连场绝杀"
       ],
       "rank": 31,
-      "sports_rank": 16
+      "sports_rank": 20
     },
     {
       "title": "范志毅说亚马尔必须要尊重C罗",
@@ -911,15 +965,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 60940,
+      "hot_value": 76988,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E8%AF%B4%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%BF%85%E9%A1%BB%E8%A6%81%E5%B0%8A%E9%87%8DC%E7%BD%97"
       },
       "raw_titles": [
         "范志毅说亚马尔必须要尊重C罗"
       ],
-      "rank": 32,
-      "sports_rank": 17
+      "rank": 33,
+      "sports_rank": 21
     },
     {
       "title": "德约科维奇vs辛纳",
@@ -927,15 +981,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 50305,
+      "hot_value": 45699,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87vs%E8%BE%9B%E7%BA%B3"
       },
       "raw_titles": [
         "德约科维奇vs辛纳"
       ],
-      "rank": 35,
-      "sports_rank": 18
+      "rank": 36,
+      "sports_rank": 22
     },
     {
       "title": "哈兰德被小孩摸完大腿一秒变红",
@@ -943,64 +997,53 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 36915,
+      "hot_value": 41642,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%91%B8%E5%AE%8C%E5%A4%A7%E8%85%BF%E4%B8%80%E7%A7%92%E5%8F%98%E7%BA%A2"
       },
       "raw_titles": [
         "哈兰德被小孩摸完大腿一秒变红"
       ],
-      "rank": 39,
-      "sports_rank": 19
-    },
-    {
-      "title": "挪威进八强 哈兰德让鲁尼兑现承诺",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36915,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%81%E8%BF%9B%E5%85%AB%E5%BC%BA%20%E5%93%88%E5%85%B0%E5%BE%B7%E8%AE%A9%E9%B2%81%E5%B0%BC%E5%85%91%E7%8E%B0%E6%89%BF%E8%AF%BA"
-      },
-      "raw_titles": [
-        "挪威进八强 哈兰德让鲁尼兑现承诺"
-      ],
-      "rank": 40,
-      "sports_rank": 20
+      "rank": 38,
+      "sports_rank": 23
     }
   ],
   "movies": [
+    {
+      "title": "功夫女足",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音",
+        "抖音",
+        "抖音",
+        "抖音"
+      ],
+      "hot_value": 31457343,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B0%88%E5%8F%82%E6%BC%94%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+      },
+      "raw_titles": [
+        "功夫女足"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "茶啊二中第六季定档暑期",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9130783,
+      "hot_value": 8668516,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%8C%B6%E5%95%8A%E4%BA%8C%E4%B8%AD%E7%AC%AC%E5%85%AD%E5%AD%A3%E5%AE%9A%E6%A1%A3%E6%9A%91%E6%9C%9F"
       },
       "raw_titles": [
         "茶啊二中第六季定档暑期"
       ],
-      "rank": 2,
-      "movie_rank": 1
-    },
-    {
-      "title": "功夫女足预售总票房破6000万",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7827547,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B46000%E4%B8%87"
-      },
-      "raw_titles": [
-        "功夫女足预售总票房破6000万"
-      ],
-      "rank": 4,
+      "rank": 3,
       "movie_rank": 2
     },
     {
@@ -1009,7 +1052,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7811308,
+      "hot_value": 7788050,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%85%AB%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
@@ -1020,103 +1063,20 @@
       "movie_rank": 3
     },
     {
-      "title": "电影《功夫女足》首支长预告",
-      "category": "影视",
-      "sources": [
-        "百度",
-        "抖音"
-      ],
-      "hot_value": 7781411,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%91%E5%B8%83%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A"
-      },
-      "raw_titles": [
-        "电影《功夫女足》首支长预告"
-      ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
-      "title": "周星驰功夫女足各队功夫够燥的",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7762532,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%90%84%E9%98%9F%E5%8A%9F%E5%A4%AB%E5%A4%9F%E7%87%A5%E7%9A%84"
-      },
-      "raw_titles": [
-        "周星驰功夫女足各队功夫够燥的"
-      ],
-      "rank": 7,
-      "movie_rank": 5
-    },
-    {
-      "title": "迪丽热巴谈参演功夫女足",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7725563,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B0%88%E5%8F%82%E6%BC%94%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
-      },
-      "raw_titles": [
-        "迪丽热巴谈参演功夫女足"
-      ],
-      "rank": 8,
-      "movie_rank": 6
-    },
-    {
       "title": "被老君山国漫小姐姐可爱到",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7640820,
+      "hot_value": 7628916,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A2%AB%E8%80%81%E5%90%9B%E5%B1%B1%E5%9B%BD%E6%BC%AB%E5%B0%8F%E5%A7%90%E5%A7%90%E5%8F%AF%E7%88%B1%E5%88%B0"
       },
       "raw_titles": [
         "被老君山国漫小姐姐可爱到"
       ],
-      "rank": 10,
-      "movie_rank": 7
-    },
-    {
-      "title": "幻兽帕鲁1.0正式版上线预告片",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 521385,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%811.0%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%E9%A2%84%E5%91%8A%E7%89%87"
-      },
-      "raw_titles": [
-        "幻兽帕鲁1.0正式版上线预告片"
-      ],
-      "rank": 17,
-      "movie_rank": 8
-    },
-    {
-      "title": "京东邀您一起看周星驰功夫女足",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "微博"
-      ],
-      "hot_value": 455084,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
-      },
-      "raw_titles": [
-        "京东邀您一起看周星驰功夫女足"
-      ],
-      "rank": 19,
-      "movie_rank": 9
+      "rank": 7,
+      "movie_rank": 4
     },
     {
       "title": "火影首位1亿战力玩家诞生",
@@ -1124,15 +1084,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 417773,
+      "hot_value": 605342,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E9%A6%96%E4%BD%8D1%E4%BA%BF%E6%88%98%E5%8A%9B%E7%8E%A9%E5%AE%B6%E8%AF%9E%E7%94%9F"
       },
       "raw_titles": [
         "火影首位1亿战力玩家诞生"
       ],
+      "rank": 15,
+      "movie_rank": 5
+    },
+    {
+      "title": "幻兽帕鲁1.0正式版上线预告片",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 494700,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%811.0%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%E9%A2%84%E5%91%8A%E7%89%87"
+      },
+      "raw_titles": [
+        "幻兽帕鲁1.0正式版上线预告片"
+      ],
+      "rank": 16,
+      "movie_rank": 6
+    },
+    {
+      "title": "电影三国争洛阳观后感",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 340451,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E4%B8%89%E5%9B%BD%E4%BA%89%E6%B4%9B%E9%98%B3%E8%A7%82%E5%90%8E%E6%84%9F"
+      },
+      "raw_titles": [
+        "电影三国争洛阳观后感"
+      ],
       "rank": 23,
-      "movie_rank": 10
+      "movie_rank": 7
     },
     {
       "title": "窦靖童《歌手》摇滚黑嗓",
@@ -1148,7 +1140,7 @@
         "窦靖童《歌手》摇滚黑嗓"
       ],
       "rank": 24,
-      "movie_rank": 11
+      "movie_rank": 8
     },
     {
       "title": "胡彦斌蝉联《歌手》月度冠军",
@@ -1163,40 +1155,8 @@
       "raw_titles": [
         "胡彦斌蝉联《歌手》月度冠军"
       ],
-      "rank": 25,
-      "movie_rank": 12
-    },
-    {
-      "title": "暴雨天家里进水怎么办",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 216000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%AE%B6%E9%87%8C%E8%BF%9B%E6%B0%B4%E6%80%8E%E4%B9%88%E5%8A%9E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "暴雨天家里进水怎么办"
-      ],
-      "rank": 28,
-      "movie_rank": 13
-    },
-    {
-      "title": "《歌手》第八期排名",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 171000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC%E5%85%AB%E6%9C%9F%E6%8E%92%E5%90%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《歌手》第八期排名"
-      ],
-      "rank": 29,
-      "movie_rank": 14
+      "rank": 26,
+      "movie_rank": 9
     },
     {
       "title": "周星驰口碑",
@@ -1204,15 +1164,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 146680,
+      "hot_value": 227720,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "周星驰口碑"
       ],
+      "rank": 28,
+      "movie_rank": 10
+    },
+    {
+      "title": "暴雨天家里进水怎么办",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 153000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E5%AE%B6%E9%87%8C%E8%BF%9B%E6%B0%B4%E6%80%8E%E4%B9%88%E5%8A%9E&sa=fyb_news"
+      },
+      "raw_titles": [
+        "暴雨天家里进水怎么办"
+      ],
       "rank": 30,
-      "movie_rank": 15
+      "movie_rank": 11
+    },
+    {
+      "title": "《歌手》第八期排名",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 81000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC%E5%85%AB%E6%9C%9F%E6%8E%92%E5%90%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《歌手》第八期排名"
+      ],
+      "rank": 32,
+      "movie_rank": 12
     },
     {
       "title": "迪丽热巴这动作把我腿掰折也做不到",
@@ -1220,15 +1212,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 60622,
+      "hot_value": 63528,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%99%E5%8A%A8%E4%BD%9C%E6%8A%8A%E6%88%91%E8%85%BF%E6%8E%B0%E6%8A%98%E4%B9%9F%E5%81%9A%E4%B8%8D%E5%88%B0"
       },
       "raw_titles": [
         "迪丽热巴这动作把我腿掰折也做不到"
       ],
-      "rank": 33,
-      "movie_rank": 16
+      "rank": 34,
+      "movie_rank": 13
     },
     {
       "title": "歌手排名",
@@ -1236,15 +1228,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 55430,
+      "hot_value": 57258,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
         "歌手排名"
       ],
-      "rank": 34,
-      "movie_rank": 17
+      "rank": 35,
+      "movie_rank": 14
     },
     {
       "title": "邓紫棋被歌手弹幕发现了行踪",
@@ -1252,15 +1244,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 46109,
+      "hot_value": 41726,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E8%A2%AB%E6%AD%8C%E6%89%8B%E5%BC%B9%E5%B9%95%E5%8F%91%E7%8E%B0%E4%BA%86%E8%A1%8C%E8%B8%AA"
       },
       "raw_titles": [
         "邓紫棋被歌手弹幕发现了行踪"
       ],
-      "rank": 36,
-      "movie_rank": 18
+      "rank": 37,
+      "movie_rank": 15
     },
     {
       "title": "迪丽热巴大腿肌踢成巨肌了",
@@ -1268,31 +1260,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 43523,
+      "hot_value": 39024,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%A7%E8%85%BF%E8%82%8C%E8%B8%A2%E6%88%90%E5%B7%A8%E8%82%8C%E4%BA%86"
       },
       "raw_titles": [
         "迪丽热巴大腿肌踢成巨肌了"
       ],
-      "rank": 37,
-      "movie_rank": 19
-    },
-    {
-      "title": "薛之谦演唱会",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 36915,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "薛之谦演唱会"
-      ],
-      "rank": 38,
-      "movie_rank": 20
+      "rank": 39,
+      "movie_rank": 16
     }
   ]
 }
