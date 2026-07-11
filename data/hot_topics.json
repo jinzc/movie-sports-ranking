@@ -1,24 +1,44 @@
 {
-  "update_time": "2026-07-11 08:00:55",
-  "total": 46,
-  "sports_count": 30,
-  "movie_count": 16,
+  "update_time": "2026-07-11 09:00:55",
+  "total": 42,
+  "sports_count": 28,
+  "movie_count": 14,
   "all": [
+    {
+      "title": "功夫女足",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音",
+        "抖音",
+        "抖音"
+      ],
+      "hot_value": 23550521,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B0%88%E5%8F%82%E6%BC%94%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+      },
+      "raw_titles": [
+        "功夫女足"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "茶啊二中第六季定档暑期",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8206075,
+      "hot_value": 8565672,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%8C%B6%E5%95%8A%E4%BA%8C%E4%B8%AD%E7%AC%AC%E5%85%AD%E5%AD%A3%E5%AE%9A%E6%A1%A3%E6%9A%91%E6%9C%9F"
       },
       "raw_titles": [
         "茶啊二中第六季定档暑期"
       ],
-      "rank": 1,
-      "movie_rank": 1
+      "rank": 2,
+      "movie_rank": 2
     },
     {
       "title": "我国成功实施火箭一子级可控回收",
@@ -26,95 +46,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7829919,
+      "hot_value": 7822271,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E7%81%AB%E7%AE%AD%E4%B8%80%E5%AD%90%E7%BA%A7%E5%8F%AF%E6%8E%A7%E5%9B%9E%E6%94%B6"
       },
       "raw_titles": [
         "我国成功实施火箭一子级可控回收"
       ],
-      "rank": 2,
-      "sports_rank": 1
-    },
-    {
-      "title": "功夫女足发布首支长预告",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7807789,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%91%E5%B8%83%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A"
-      },
-      "raw_titles": [
-        "功夫女足发布首支长预告"
-      ],
       "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "歌手2026第八期舞台",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7778315,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%85%AB%E6%9C%9F%E8%88%9E%E5%8F%B0"
-      },
-      "raw_titles": [
-        "歌手2026第八期舞台"
-      ],
-      "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "周星驰功夫女足各队功夫够燥的",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7757276,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%90%84%E9%98%9F%E5%8A%9F%E5%A4%AB%E5%A4%9F%E7%87%A5%E7%9A%84"
-      },
-      "raw_titles": [
-        "周星驰功夫女足各队功夫够燥的"
-      ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "火影忍者将拍好莱坞真人电影",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7703918,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%B0%86%E6%8B%8D%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%9C%9F%E4%BA%BA%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "火影忍者将拍好莱坞真人电影"
-      ],
-      "rank": 6,
-      "movie_rank": 5
-    },
-    {
-      "title": "迪丽热巴谈参演功夫女足",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7683132,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B0%88%E5%8F%82%E6%BC%94%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
-      },
-      "raw_titles": [
-        "迪丽热巴谈参演功夫女足"
-      ],
-      "rank": 7,
-      "movie_rank": 6
+      "sports_rank": 1
     },
     {
       "title": "葱的花语是哈兰德",
@@ -122,15 +62,63 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7670940,
+      "hot_value": 7796795,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%91%B1%E7%9A%84%E8%8A%B1%E8%AF%AD%E6%98%AF%E5%93%88%E5%85%B0%E5%BE%B7"
       },
       "raw_titles": [
         "葱的花语是哈兰德"
       ],
-      "rank": 8,
+      "rank": 4,
       "sports_rank": 2
+    },
+    {
+      "title": "歌手2026第八期舞台",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7780862,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%85%AB%E6%9C%9F%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "歌手2026第八期舞台"
+      ],
+      "rank": 5,
+      "movie_rank": 3
+    },
+    {
+      "title": "火影忍者将拍好莱坞真人电影",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7779758,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%B0%86%E6%8B%8D%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%9C%9F%E4%BA%BA%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "火影忍者将拍好莱坞真人电影"
+      ],
+      "rank": 6,
+      "movie_rank": 4
+    },
+    {
+      "title": "电影想你了预售开启",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7659111,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%83%B3%E4%BD%A0%E4%BA%86%E9%A2%84%E5%94%AE%E5%BC%80%E5%90%AF"
+      },
+      "raw_titles": [
+        "电影想你了预售开启"
+      ],
+      "rank": 7,
+      "movie_rank": 5
     },
     {
       "title": "给哈兰德做了一支AI大片",
@@ -138,14 +126,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7647597,
+      "hot_value": 7640523,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%99%E5%93%88%E5%85%B0%E5%BE%B7%E5%81%9A%E4%BA%86%E4%B8%80%E6%94%AFAI%E5%A4%A7%E7%89%87"
       },
       "raw_titles": [
         "给哈兰德做了一支AI大片"
       ],
-      "rank": 9,
+      "rank": 8,
       "sports_rank": 3
     },
     {
@@ -154,15 +142,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7637660,
+      "hot_value": 7636473,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A2%AB%E8%80%81%E5%90%9B%E5%B1%B1%E5%9B%BD%E6%BC%AB%E5%B0%8F%E5%A7%90%E5%A7%90%E5%8F%AF%E7%88%B1%E5%88%B0"
       },
       "raw_titles": [
         "被老君山国漫小姐姐可爱到"
       ],
-      "rank": 10,
-      "movie_rank": 7
+      "rank": 9,
+      "movie_rank": 6
     },
     {
       "title": "假面骑士甲斗20周年新作",
@@ -170,14 +158,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7635624,
+      "hot_value": 7635259,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%94%B2%E6%96%9720%E5%91%A8%E5%B9%B4%E6%96%B0%E4%BD%9C"
       },
       "raw_titles": [
         "假面骑士甲斗20周年新作"
       ],
-      "rank": 11,
+      "rank": 10,
       "sports_rank": 4
     },
     {
@@ -186,14 +174,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 5239271,
+      "hot_value": 3709028,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E6%99%8B%E7%BA%A7%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
         "西班牙绝杀晋级赛后复盘"
       ],
-      "rank": 12,
+      "rank": 11,
       "sports_rank": 5
     },
     {
@@ -203,7 +191,7 @@
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 2636258,
+      "hot_value": 2284631,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E7%BB%9D%E6%9D%80%E6%AF%94%E5%88%A9%E6%97%B6&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E7%BB%9D%E6%9D%80%E6%AF%94%E5%88%A9%E6%97%B6"
@@ -211,7 +199,7 @@
       "raw_titles": [
         "西班牙2-1绝杀比利时"
       ],
-      "rank": 13,
+      "rank": 12,
       "sports_rank": 6
     },
     {
@@ -220,14 +208,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2247505,
+      "hot_value": 1844018,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6"
       },
       "raw_titles": [
         "UP主实拍中国首枚火箭回收"
       ],
-      "rank": 14,
+      "rank": 13,
       "sports_rank": 7
     },
     {
@@ -236,63 +224,33 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1588117,
+      "hot_value": 1655327,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%A3%E8%AF%B4%E5%A4%A9%E8%8A%B1%E6%9D%BF%E6%98%AF%E5%A6%82%E4%BD%95%E7%82%BC%E6%88%90%E7%9A%84"
       },
       "raw_titles": [
         "世界杯解说天花板是如何炼成的"
       ],
-      "rank": 15,
+      "rank": 14,
       "sports_rank": 8
     },
     {
-      "title": "姆巴佩的速度有多快",
+      "title": "文班亚马降薪续约",
       "category": "体育",
       "sources": [
+        "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 1529370,
+      "hot_value": 1598421,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E9%80%9F%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%BF%AB"
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E9%99%8D%E8%96%AA%E7%BB%AD%E7%BA%A6",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E9%99%8D%E8%96%AA%E7%BB%AD%E7%BA%A6%E9%A9%AC%E5%88%BA"
       },
       "raw_titles": [
-        "姆巴佩的速度有多快"
+        "文班亚马降薪续约"
       ],
-      "rank": 16,
+      "rank": 15,
       "sports_rank": 9
-    },
-    {
-      "title": "解读全球首次运载火箭网系回收全程",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1461041,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E5%85%A8%E7%A8%8B"
-      },
-      "raw_titles": [
-        "解读全球首次运载火箭网系回收全程"
-      ],
-      "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "探访中国首艘火箭回收船",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1374715,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%98%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E8%88%B9"
-      },
-      "raw_titles": [
-        "探访中国首艘火箭回收船"
-      ],
-      "rank": 18,
-      "sports_rank": 11
     },
     {
       "title": "长征十号乙火箭首飞圆满成功",
@@ -300,31 +258,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1342029,
+      "hot_value": 1568002,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9E%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F"
       },
       "raw_titles": [
         "长征十号乙火箭首飞圆满成功"
       ],
-      "rank": 19,
-      "sports_rank": 12
-    },
-    {
-      "title": "面对十七级台风怎么办",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1150823,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9D%A2%E5%AF%B9%E5%8D%81%E4%B8%83%E7%BA%A7%E5%8F%B0%E9%A3%8E%E6%80%8E%E4%B9%88%E5%8A%9E"
-      },
-      "raw_titles": [
-        "面对十七级台风怎么办"
-      ],
-      "rank": 20,
-      "movie_rank": 8
+      "rank": 16,
+      "sports_rank": 10
     },
     {
       "title": "长征十号乙火箭回收现场视频",
@@ -332,15 +274,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 1129211,
+      "hot_value": 1427966,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91"
       },
       "raw_titles": [
         "长征十号乙火箭回收现场视频"
       ],
-      "rank": 21,
-      "sports_rank": 13
+      "rank": 17,
+      "sports_rank": 11
+    },
+    {
+      "title": "面对十七级台风怎么办",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1318500,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9D%A2%E5%AF%B9%E5%8D%81%E4%B8%83%E7%BA%A7%E5%8F%B0%E9%A3%8E%E6%80%8E%E4%B9%88%E5%8A%9E"
+      },
+      "raw_titles": [
+        "面对十七级台风怎么办"
+      ],
+      "rank": 18,
+      "movie_rank": 7
+    },
+    {
+      "title": "解读全球首次运载火箭网系回收全程",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1272304,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E5%85%A8%E7%A8%8B"
+      },
+      "raw_titles": [
+        "解读全球首次运载火箭网系回收全程"
+      ],
+      "rank": 19,
+      "sports_rank": 12
     },
     {
       "title": "火影首位1亿战力玩家诞生",
@@ -348,47 +322,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1123653,
+      "hot_value": 1270630,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E9%A6%96%E4%BD%8D1%E4%BA%BF%E6%88%98%E5%8A%9B%E7%8E%A9%E5%AE%B6%E8%AF%9E%E7%94%9F"
       },
       "raw_titles": [
         "火影首位1亿战力玩家诞生"
       ],
-      "rank": 22,
-      "movie_rank": 9
+      "rank": 20,
+      "movie_rank": 8
     },
     {
-      "title": "UP动画间谍王后开播",
-      "category": "影视",
+      "title": "探访中国首艘火箭回收船",
+      "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 966761,
+      "hot_value": 1227910,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E5%8A%A8%E7%94%BB%E9%97%B4%E8%B0%8D%E7%8E%8B%E5%90%8E%E5%BC%80%E6%92%AD"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%98%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E8%88%B9"
       },
       "raw_titles": [
-        "UP动画间谍王后开播"
+        "探访中国首艘火箭回收船"
       ],
-      "rank": 23,
-      "movie_rank": 10
-    },
-    {
-      "title": "幻兽帕鲁1.0正式版上线预告片",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 950467,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%811.0%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%E9%A2%84%E5%91%8A%E7%89%87"
-      },
-      "raw_titles": [
-        "幻兽帕鲁1.0正式版上线预告片"
-      ],
-      "rank": 24,
-      "movie_rank": 11
+      "rank": 21,
+      "sports_rank": 13
     },
     {
       "title": "火箭网系回收有何优势",
@@ -396,31 +354,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 930640,
+      "hot_value": 947636,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E6%9C%89%E4%BD%95%E4%BC%98%E5%8A%BF"
       },
       "raw_titles": [
         "火箭网系回收有何优势"
       ],
-      "rank": 25,
+      "rank": 22,
       "sports_rank": 14
-    },
-    {
-      "title": "文班亚马降薪续约马刺",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 815180,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E9%99%8D%E8%96%AA%E7%BB%AD%E7%BA%A6%E9%A9%AC%E5%88%BA"
-      },
-      "raw_titles": [
-        "文班亚马降薪续约马刺"
-      ],
-      "rank": 26,
-      "sports_rank": 15
     },
     {
       "title": "周星驰口碑",
@@ -428,63 +370,96 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 558770,
+      "hot_value": 937562,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "周星驰口碑"
       ],
-      "rank": 27,
-      "movie_rank": 12
+      "rank": 23,
+      "movie_rank": 9
     },
     {
-      "title": "辛芷蕾包场支持功夫女足",
+      "title": "幻兽帕鲁1.0正式版上线预告片",
       "category": "影视",
       "sources": [
-        "微博",
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 443081,
+      "hot_value": 824813,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%811.0%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%E9%A2%84%E5%91%8A%E7%89%87"
       },
       "raw_titles": [
-        "辛芷蕾包场支持功夫女足"
+        "幻兽帕鲁1.0正式版上线预告片"
       ],
-      "rank": 28,
-      "movie_rank": 13
+      "rank": 24,
+      "movie_rank": 10
     },
     {
-      "title": "西班牙绝杀惊呆甲亢哥",
+      "title": "G2选手预测世界杯冠军",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 806621,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=G2%E9%80%89%E6%89%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B"
+      },
+      "raw_titles": [
+        "G2选手预测世界杯冠军"
+      ],
+      "rank": 25,
+      "sports_rank": 15
+    },
+    {
+      "title": "电影三国争洛阳观后感",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 793686,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E4%B8%89%E5%9B%BD%E4%BA%89%E6%B4%9B%E9%98%B3%E8%A7%82%E5%90%8E%E6%84%9F"
+      },
+      "raw_titles": [
+        "电影三国争洛阳观后感"
+      ],
+      "rank": 26,
+      "movie_rank": 11
+    },
+    {
+      "title": "亚马尔这个卧底藏了4年",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 604272,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BF%99%E4%B8%AA%E5%8D%A7%E5%BA%95%E8%97%8F%E4%BA%864%E5%B9%B4",
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BF%99%E4%B8%AA%E5%8D%A7%E5%BA%95%E8%97%8F%E4%BA%864%E5%B9%B4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚马尔这个卧底藏了4年"
+      ],
+      "rank": 27,
+      "sports_rank": 16
+    },
+    {
+      "title": "18岁亚马尔放话：不惧任何强敌",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 378000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E6%83%8A%E5%91%86%E7%94%B2%E4%BA%A2%E5%93%A5&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=18%E5%B2%81%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%94%BE%E8%AF%9D%EF%BC%9A%E4%B8%8D%E6%83%A7%E4%BB%BB%E4%BD%95%E5%BC%BA%E6%95%8C&sa=fyb_news"
       },
       "raw_titles": [
-        "西班牙绝杀惊呆甲亢哥"
+        "18岁亚马尔放话：不惧任何强敌"
       ],
-      "rank": 29,
-      "sports_rank": 16
-    },
-    {
-      "title": "西班牙时隔16年再进世界杯4强",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 369000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "西班牙时隔16年再进世界杯4强"
-      ],
-      "rank": 30,
+      "rank": 28,
       "sports_rank": 17
     },
     {
@@ -493,111 +468,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 315491,
+      "hot_value": 359971,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%99%E5%8A%A8%E4%BD%9C%E6%8A%8A%E6%88%91%E8%85%BF%E6%8E%B0%E6%8A%98%E4%B9%9F%E5%81%9A%E4%B8%8D%E5%88%B0"
       },
       "raw_titles": [
         "迪丽热巴这动作把我腿掰折也做不到"
       ],
-      "rank": 31,
-      "movie_rank": 14
-    },
-    {
-      "title": "18岁亚马尔放话：不惧任何强敌",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 288000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=18%E5%B2%81%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%94%BE%E8%AF%9D%EF%BC%9A%E4%B8%8D%E6%83%A7%E4%BB%BB%E4%BD%95%E5%BC%BA%E6%95%8C&sa=fyb_news"
-      },
-      "raw_titles": [
-        "18岁亚马尔放话：不惧任何强敌"
-      ],
-      "rank": 32,
-      "sports_rank": 18
-    },
-    {
-      "title": "亚马尔状态",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 248236,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81"
-      },
-      "raw_titles": [
-        "亚马尔状态"
-      ],
-      "rank": 33,
-      "sports_rank": 19
-    },
-    {
-      "title": "歌手官博回复邓紫棋",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 244955,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E5%AE%98%E5%8D%9A%E5%9B%9E%E5%A4%8D%E9%82%93%E7%B4%AB%E6%A3%8B"
-      },
-      "raw_titles": [
-        "歌手官博回复邓紫棋"
-      ],
-      "rank": 34,
-      "movie_rank": 15
-    },
-    {
-      "title": "亚马尔这个卧底藏了4年",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 237847,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BF%99%E4%B8%AA%E5%8D%A7%E5%BA%95%E8%97%8F%E4%BA%864%E5%B9%B4"
-      },
-      "raw_titles": [
-        "亚马尔这个卧底藏了4年"
-      ],
-      "rank": 35,
-      "sports_rank": 20
-    },
-    {
-      "title": "霍思燕家的鸟又夺冠了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 233727,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9C%8D%E6%80%9D%E7%87%95%E5%AE%B6%E7%9A%84%E9%B8%9F%E5%8F%88%E5%A4%BA%E5%86%A0%E4%BA%86"
-      },
-      "raw_titles": [
-        "霍思燕家的鸟又夺冠了"
-      ],
-      "rank": 36,
-      "sports_rank": 21
-    },
-    {
-      "title": "苏醒老婆去世界杯现场了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 231927,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%80%81%E5%A9%86%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E4%BA%86"
-      },
-      "raw_titles": [
-        "苏醒老婆去世界杯现场了"
-      ],
-      "rank": 37,
-      "sports_rank": 22
+      "rank": 29,
+      "movie_rank": 12
     },
     {
       "title": "法国名宿称感觉C罗被队友孤立",
@@ -605,14 +484,110 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 230780,
+      "hot_value": 327946,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%90%8D%E5%AE%BF%E7%A7%B0%E6%84%9F%E8%A7%89C%E7%BD%97%E8%A2%AB%E9%98%9F%E5%8F%8B%E5%AD%A4%E7%AB%8B"
       },
       "raw_titles": [
         "法国名宿称感觉C罗被队友孤立"
       ],
-      "rank": 38,
+      "rank": 30,
+      "sports_rank": 18
+    },
+    {
+      "title": "歌手官博回复邓紫棋",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 308751,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E5%AE%98%E5%8D%9A%E5%9B%9E%E5%A4%8D%E9%82%93%E7%B4%AB%E6%A3%8B"
+      },
+      "raw_titles": [
+        "歌手官博回复邓紫棋"
+      ],
+      "rank": 31,
+      "movie_rank": 13
+    },
+    {
+      "title": "为什么要回收火箭",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD&sa=fyb_news"
+      },
+      "raw_titles": [
+        "为什么要回收火箭"
+      ],
+      "rank": 32,
+      "sports_rank": 19
+    },
+    {
+      "title": "苏醒老婆去世界杯现场了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 303455,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%80%81%E5%A9%86%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E4%BA%86"
+      },
+      "raw_titles": [
+        "苏醒老婆去世界杯现场了"
+      ],
+      "rank": 33,
+      "sports_rank": 20
+    },
+    {
+      "title": "亚马尔状态",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 298714,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81"
+      },
+      "raw_titles": [
+        "亚马尔状态"
+      ],
+      "rank": 34,
+      "sports_rank": 21
+    },
+    {
+      "title": "西班牙时隔16年再进世界杯4强",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 297000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西班牙时隔16年再进世界杯4强"
+      ],
+      "rank": 35,
+      "sports_rank": 22
+    },
+    {
+      "title": "中国将用回收火箭再发射",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 289998,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E7%94%A8%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E5%86%8D%E5%8F%91%E5%B0%84"
+      },
+      "raw_titles": [
+        "中国将用回收火箭再发射"
+      ],
+      "rank": 36,
       "sports_rank": 23
     },
     {
@@ -621,63 +596,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 217806,
+      "hot_value": 288514,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
         "歌手排名"
       ],
-      "rank": 39,
-      "movie_rank": 16
+      "rank": 37,
+      "movie_rank": 14
     },
     {
-      "title": "中国将用回收火箭再发射",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 216848,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E7%94%A8%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E5%86%8D%E5%8F%91%E5%B0%84"
-      },
-      "raw_titles": [
-        "中国将用回收火箭再发射"
-      ],
-      "rank": 40,
-      "sports_rank": 24
-    },
-    {
-      "title": "两度替补制胜！梅里诺创世界杯纪录",
+      "title": "西班牙绝杀惊呆甲亢哥",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 279000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%A4%E5%BA%A6%E6%9B%BF%E8%A1%A5%E5%88%B6%E8%83%9C%EF%BC%81%E6%A2%85%E9%87%8C%E8%AF%BA%E5%88%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%AA%E5%BD%95&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E6%83%8A%E5%91%86%E7%94%B2%E4%BA%A2%E5%93%A5&sa=fyb_news"
       },
       "raw_titles": [
-        "两度替补制胜！梅里诺创世界杯纪录"
+        "西班牙绝杀惊呆甲亢哥"
       ],
-      "rank": 41,
-      "sports_rank": 25
+      "rank": 38,
+      "sports_rank": 24
     },
     {
-      "title": "哈兰德被小孩摸完大腿一秒变红",
+      "title": "梅里诺回应连场绝杀",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 215141,
+      "hot_value": 180000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%91%B8%E5%AE%8C%E5%A4%A7%E8%85%BF%E4%B8%80%E7%A7%92%E5%8F%98%E7%BA%A2"
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E9%87%8C%E8%AF%BA%E5%9B%9E%E5%BA%94%E8%BF%9E%E5%9C%BA%E7%BB%9D%E6%9D%80&sa=fyb_news"
       },
       "raw_titles": [
-        "哈兰德被小孩摸完大腿一秒变红"
+        "梅里诺回应连场绝杀"
       ],
-      "rank": 42,
-      "sports_rank": 26
+      "rank": 39,
+      "sports_rank": 25
     },
     {
       "title": "亚马尔说法国最怕的对手是西班牙",
@@ -685,15 +644,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 135000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%AF%B4%E6%B3%95%E5%9B%BD%E6%9C%80%E6%80%95%E7%9A%84%E5%AF%B9%E6%89%8B%E6%98%AF%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
       },
       "raw_titles": [
         "亚马尔说法国最怕的对手是西班牙"
       ],
-      "rank": 43,
-      "sports_rank": 27
+      "rank": 40,
+      "sports_rank": 26
     },
     {
       "title": "秘鲁超500名新生儿取名为哈兰德",
@@ -708,8 +667,8 @@
       "raw_titles": [
         "秘鲁超500名新生儿取名为哈兰德"
       ],
-      "rank": 44,
-      "sports_rank": 28
+      "rank": 41,
+      "sports_rank": 27
     },
     {
       "title": "梅里诺自带绝杀体质",
@@ -717,31 +676,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 81000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A2%85%E9%87%8C%E8%AF%BA%E8%87%AA%E5%B8%A6%E7%BB%9D%E6%9D%80%E4%BD%93%E8%B4%A8&sa=fyb_news"
       },
       "raw_titles": [
         "梅里诺自带绝杀体质"
       ],
-      "rank": 45,
-      "sports_rank": 29
-    },
-    {
-      "title": "网友的各种哈兰德神级设计",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%BD%91%E5%8F%8B%E7%9A%84%E5%90%84%E7%A7%8D%E5%93%88%E5%85%B0%E5%BE%B7%E7%A5%9E%E7%BA%A7%E8%AE%BE%E8%AE%A1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "网友的各种哈兰德神级设计"
-      ],
-      "rank": 46,
-      "sports_rank": 30
+      "rank": 42,
+      "sports_rank": 28
     }
   ],
   "sports": [
@@ -751,14 +694,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7829919,
+      "hot_value": 7822271,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E7%81%AB%E7%AE%AD%E4%B8%80%E5%AD%90%E7%BA%A7%E5%8F%AF%E6%8E%A7%E5%9B%9E%E6%94%B6"
       },
       "raw_titles": [
         "我国成功实施火箭一子级可控回收"
       ],
-      "rank": 2,
+      "rank": 3,
       "sports_rank": 1
     },
     {
@@ -767,14 +710,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7670940,
+      "hot_value": 7796795,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%91%B1%E7%9A%84%E8%8A%B1%E8%AF%AD%E6%98%AF%E5%93%88%E5%85%B0%E5%BE%B7"
       },
       "raw_titles": [
         "葱的花语是哈兰德"
       ],
-      "rank": 8,
+      "rank": 4,
       "sports_rank": 2
     },
     {
@@ -783,14 +726,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7647597,
+      "hot_value": 7640523,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%BB%99%E5%93%88%E5%85%B0%E5%BE%B7%E5%81%9A%E4%BA%86%E4%B8%80%E6%94%AFAI%E5%A4%A7%E7%89%87"
       },
       "raw_titles": [
         "给哈兰德做了一支AI大片"
       ],
-      "rank": 9,
+      "rank": 8,
       "sports_rank": 3
     },
     {
@@ -799,14 +742,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7635624,
+      "hot_value": 7635259,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%94%B2%E6%96%9720%E5%91%A8%E5%B9%B4%E6%96%B0%E4%BD%9C"
       },
       "raw_titles": [
         "假面骑士甲斗20周年新作"
       ],
-      "rank": 11,
+      "rank": 10,
       "sports_rank": 4
     },
     {
@@ -815,14 +758,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 5239271,
+      "hot_value": 3709028,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E6%99%8B%E7%BA%A7%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
         "西班牙绝杀晋级赛后复盘"
       ],
-      "rank": 12,
+      "rank": 11,
       "sports_rank": 5
     },
     {
@@ -832,7 +775,7 @@
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 2636258,
+      "hot_value": 2284631,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E7%BB%9D%E6%9D%80%E6%AF%94%E5%88%A9%E6%97%B6&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E7%BB%9D%E6%9D%80%E6%AF%94%E5%88%A9%E6%97%B6"
@@ -840,7 +783,7 @@
       "raw_titles": [
         "西班牙2-1绝杀比利时"
       ],
-      "rank": 13,
+      "rank": 12,
       "sports_rank": 6
     },
     {
@@ -849,14 +792,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2247505,
+      "hot_value": 1844018,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6"
       },
       "raw_titles": [
         "UP主实拍中国首枚火箭回收"
       ],
-      "rank": 14,
+      "rank": 13,
       "sports_rank": 7
     },
     {
@@ -865,63 +808,33 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1588117,
+      "hot_value": 1655327,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%A3%E8%AF%B4%E5%A4%A9%E8%8A%B1%E6%9D%BF%E6%98%AF%E5%A6%82%E4%BD%95%E7%82%BC%E6%88%90%E7%9A%84"
       },
       "raw_titles": [
         "世界杯解说天花板是如何炼成的"
       ],
-      "rank": 15,
+      "rank": 14,
       "sports_rank": 8
     },
     {
-      "title": "姆巴佩的速度有多快",
+      "title": "文班亚马降薪续约",
       "category": "体育",
       "sources": [
+        "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 1529370,
+      "hot_value": 1598421,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E9%80%9F%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%BF%AB"
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E9%99%8D%E8%96%AA%E7%BB%AD%E7%BA%A6",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E9%99%8D%E8%96%AA%E7%BB%AD%E7%BA%A6%E9%A9%AC%E5%88%BA"
       },
       "raw_titles": [
-        "姆巴佩的速度有多快"
+        "文班亚马降薪续约"
       ],
-      "rank": 16,
+      "rank": 15,
       "sports_rank": 9
-    },
-    {
-      "title": "解读全球首次运载火箭网系回收全程",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1461041,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E5%85%A8%E7%A8%8B"
-      },
-      "raw_titles": [
-        "解读全球首次运载火箭网系回收全程"
-      ],
-      "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "探访中国首艘火箭回收船",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1374715,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%98%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E8%88%B9"
-      },
-      "raw_titles": [
-        "探访中国首艘火箭回收船"
-      ],
-      "rank": 18,
-      "sports_rank": 11
     },
     {
       "title": "长征十号乙火箭首飞圆满成功",
@@ -929,15 +842,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1342029,
+      "hot_value": 1568002,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9E%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F"
       },
       "raw_titles": [
         "长征十号乙火箭首飞圆满成功"
       ],
-      "rank": 19,
-      "sports_rank": 12
+      "rank": 16,
+      "sports_rank": 10
     },
     {
       "title": "长征十号乙火箭回收现场视频",
@@ -945,12 +858,44 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 1129211,
+      "hot_value": 1427966,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91"
       },
       "raw_titles": [
         "长征十号乙火箭回收现场视频"
+      ],
+      "rank": 17,
+      "sports_rank": 11
+    },
+    {
+      "title": "解读全球首次运载火箭网系回收全程",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1272304,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E5%85%A8%E7%A8%8B"
+      },
+      "raw_titles": [
+        "解读全球首次运载火箭网系回收全程"
+      ],
+      "rank": 19,
+      "sports_rank": 12
+    },
+    {
+      "title": "探访中国首艘火箭回收船",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1227910,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%98%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E8%88%B9"
+      },
+      "raw_titles": [
+        "探访中国首艘火箭回收船"
       ],
       "rank": 21,
       "sports_rank": 13
@@ -961,63 +906,49 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 930640,
+      "hot_value": 947636,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E6%9C%89%E4%BD%95%E4%BC%98%E5%8A%BF"
       },
       "raw_titles": [
         "火箭网系回收有何优势"
       ],
-      "rank": 25,
+      "rank": 22,
       "sports_rank": 14
     },
     {
-      "title": "文班亚马降薪续约马刺",
+      "title": "G2选手预测世界杯冠军",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 815180,
+      "hot_value": 806621,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E9%99%8D%E8%96%AA%E7%BB%AD%E7%BA%A6%E9%A9%AC%E5%88%BA"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=G2%E9%80%89%E6%89%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B"
       },
       "raw_titles": [
-        "文班亚马降薪续约马刺"
+        "G2选手预测世界杯冠军"
       ],
-      "rank": 26,
+      "rank": 25,
       "sports_rank": 15
     },
     {
-      "title": "西班牙绝杀惊呆甲亢哥",
+      "title": "亚马尔这个卧底藏了4年",
       "category": "体育",
       "sources": [
+        "微博",
         "百度"
       ],
-      "hot_value": 378000,
+      "hot_value": 604272,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E6%83%8A%E5%91%86%E7%94%B2%E4%BA%A2%E5%93%A5&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BF%99%E4%B8%AA%E5%8D%A7%E5%BA%95%E8%97%8F%E4%BA%864%E5%B9%B4",
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BF%99%E4%B8%AA%E5%8D%A7%E5%BA%95%E8%97%8F%E4%BA%864%E5%B9%B4&sa=fyb_news"
       },
       "raw_titles": [
-        "西班牙绝杀惊呆甲亢哥"
+        "亚马尔这个卧底藏了4年"
       ],
-      "rank": 29,
+      "rank": 27,
       "sports_rank": 16
-    },
-    {
-      "title": "西班牙时隔16年再进世界杯4强",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 369000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "西班牙时隔16年再进世界杯4强"
-      ],
-      "rank": 30,
-      "sports_rank": 17
     },
     {
       "title": "18岁亚马尔放话：不惧任何强敌",
@@ -1025,79 +956,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 288000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=18%E5%B2%81%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%94%BE%E8%AF%9D%EF%BC%9A%E4%B8%8D%E6%83%A7%E4%BB%BB%E4%BD%95%E5%BC%BA%E6%95%8C&sa=fyb_news"
       },
       "raw_titles": [
         "18岁亚马尔放话：不惧任何强敌"
       ],
-      "rank": 32,
-      "sports_rank": 18
-    },
-    {
-      "title": "亚马尔状态",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 248236,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81"
-      },
-      "raw_titles": [
-        "亚马尔状态"
-      ],
-      "rank": 33,
-      "sports_rank": 19
-    },
-    {
-      "title": "亚马尔这个卧底藏了4年",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 237847,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BF%99%E4%B8%AA%E5%8D%A7%E5%BA%95%E8%97%8F%E4%BA%864%E5%B9%B4"
-      },
-      "raw_titles": [
-        "亚马尔这个卧底藏了4年"
-      ],
-      "rank": 35,
-      "sports_rank": 20
-    },
-    {
-      "title": "霍思燕家的鸟又夺冠了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 233727,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9C%8D%E6%80%9D%E7%87%95%E5%AE%B6%E7%9A%84%E9%B8%9F%E5%8F%88%E5%A4%BA%E5%86%A0%E4%BA%86"
-      },
-      "raw_titles": [
-        "霍思燕家的鸟又夺冠了"
-      ],
-      "rank": 36,
-      "sports_rank": 21
-    },
-    {
-      "title": "苏醒老婆去世界杯现场了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 231927,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%80%81%E5%A9%86%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E4%BA%86"
-      },
-      "raw_titles": [
-        "苏醒老婆去世界杯现场了"
-      ],
-      "rank": 37,
-      "sports_rank": 22
+      "rank": 28,
+      "sports_rank": 17
     },
     {
       "title": "法国名宿称感觉C罗被队友孤立",
@@ -1105,15 +972,79 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 230780,
+      "hot_value": 327946,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%90%8D%E5%AE%BF%E7%A7%B0%E6%84%9F%E8%A7%89C%E7%BD%97%E8%A2%AB%E9%98%9F%E5%8F%8B%E5%AD%A4%E7%AB%8B"
       },
       "raw_titles": [
         "法国名宿称感觉C罗被队友孤立"
       ],
-      "rank": 38,
-      "sports_rank": 23
+      "rank": 30,
+      "sports_rank": 18
+    },
+    {
+      "title": "为什么要回收火箭",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD&sa=fyb_news"
+      },
+      "raw_titles": [
+        "为什么要回收火箭"
+      ],
+      "rank": 32,
+      "sports_rank": 19
+    },
+    {
+      "title": "苏醒老婆去世界杯现场了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 303455,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%80%81%E5%A9%86%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E4%BA%86"
+      },
+      "raw_titles": [
+        "苏醒老婆去世界杯现场了"
+      ],
+      "rank": 33,
+      "sports_rank": 20
+    },
+    {
+      "title": "亚马尔状态",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 298714,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81"
+      },
+      "raw_titles": [
+        "亚马尔状态"
+      ],
+      "rank": 34,
+      "sports_rank": 21
+    },
+    {
+      "title": "西班牙时隔16年再进世界杯4强",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 297000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西班牙时隔16年再进世界杯4强"
+      ],
+      "rank": 35,
+      "sports_rank": 22
     },
     {
       "title": "中国将用回收火箭再发射",
@@ -1121,47 +1052,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 216848,
+      "hot_value": 289998,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E7%94%A8%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E5%86%8D%E5%8F%91%E5%B0%84"
       },
       "raw_titles": [
         "中国将用回收火箭再发射"
       ],
-      "rank": 40,
-      "sports_rank": 24
+      "rank": 36,
+      "sports_rank": 23
     },
     {
-      "title": "两度替补制胜！梅里诺创世界杯纪录",
+      "title": "西班牙绝杀惊呆甲亢哥",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 279000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%A4%E5%BA%A6%E6%9B%BF%E8%A1%A5%E5%88%B6%E8%83%9C%EF%BC%81%E6%A2%85%E9%87%8C%E8%AF%BA%E5%88%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%AA%E5%BD%95&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E6%83%8A%E5%91%86%E7%94%B2%E4%BA%A2%E5%93%A5&sa=fyb_news"
       },
       "raw_titles": [
-        "两度替补制胜！梅里诺创世界杯纪录"
+        "西班牙绝杀惊呆甲亢哥"
       ],
-      "rank": 41,
-      "sports_rank": 25
+      "rank": 38,
+      "sports_rank": 24
     },
     {
-      "title": "哈兰德被小孩摸完大腿一秒变红",
+      "title": "梅里诺回应连场绝杀",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 215141,
+      "hot_value": 180000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%91%B8%E5%AE%8C%E5%A4%A7%E8%85%BF%E4%B8%80%E7%A7%92%E5%8F%98%E7%BA%A2"
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E9%87%8C%E8%AF%BA%E5%9B%9E%E5%BA%94%E8%BF%9E%E5%9C%BA%E7%BB%9D%E6%9D%80&sa=fyb_news"
       },
       "raw_titles": [
-        "哈兰德被小孩摸完大腿一秒变红"
+        "梅里诺回应连场绝杀"
       ],
-      "rank": 42,
-      "sports_rank": 26
+      "rank": 39,
+      "sports_rank": 25
     },
     {
       "title": "亚马尔说法国最怕的对手是西班牙",
@@ -1169,15 +1100,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 135000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%AF%B4%E6%B3%95%E5%9B%BD%E6%9C%80%E6%80%95%E7%9A%84%E5%AF%B9%E6%89%8B%E6%98%AF%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
       },
       "raw_titles": [
         "亚马尔说法国最怕的对手是西班牙"
       ],
-      "rank": 43,
-      "sports_rank": 27
+      "rank": 40,
+      "sports_rank": 26
     },
     {
       "title": "秘鲁超500名新生儿取名为哈兰德",
@@ -1192,8 +1123,8 @@
       "raw_titles": [
         "秘鲁超500名新生儿取名为哈兰德"
       ],
-      "rank": 44,
-      "sports_rank": 28
+      "rank": 41,
+      "sports_rank": 27
     },
     {
       "title": "梅里诺自带绝杀体质",
@@ -1201,64 +1132,52 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 81000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A2%85%E9%87%8C%E8%AF%BA%E8%87%AA%E5%B8%A6%E7%BB%9D%E6%9D%80%E4%BD%93%E8%B4%A8&sa=fyb_news"
       },
       "raw_titles": [
         "梅里诺自带绝杀体质"
       ],
-      "rank": 45,
-      "sports_rank": 29
-    },
-    {
-      "title": "网友的各种哈兰德神级设计",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%BD%91%E5%8F%8B%E7%9A%84%E5%90%84%E7%A7%8D%E5%93%88%E5%85%B0%E5%BE%B7%E7%A5%9E%E7%BA%A7%E8%AE%BE%E8%AE%A1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "网友的各种哈兰德神级设计"
-      ],
-      "rank": 46,
-      "sports_rank": 30
+      "rank": 42,
+      "sports_rank": 28
     }
   ],
   "movies": [
+    {
+      "title": "功夫女足",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音",
+        "抖音",
+        "抖音"
+      ],
+      "hot_value": 23550521,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B0%88%E5%8F%82%E6%BC%94%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+      },
+      "raw_titles": [
+        "功夫女足"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "茶啊二中第六季定档暑期",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8206075,
+      "hot_value": 8565672,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%8C%B6%E5%95%8A%E4%BA%8C%E4%B8%AD%E7%AC%AC%E5%85%AD%E5%AD%A3%E5%AE%9A%E6%A1%A3%E6%9A%91%E6%9C%9F"
       },
       "raw_titles": [
         "茶啊二中第六季定档暑期"
       ],
-      "rank": 1,
-      "movie_rank": 1
-    },
-    {
-      "title": "功夫女足发布首支长预告",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7807789,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%91%E5%B8%83%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A"
-      },
-      "raw_titles": [
-        "功夫女足发布首支长预告"
-      ],
-      "rank": 3,
+      "rank": 2,
       "movie_rank": 2
     },
     {
@@ -1267,31 +1186,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7778315,
+      "hot_value": 7780862,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E7%AC%AC%E5%85%AB%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "歌手2026第八期舞台"
       ],
-      "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "周星驰功夫女足各队功夫够燥的",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7757276,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%90%84%E9%98%9F%E5%8A%9F%E5%A4%AB%E5%A4%9F%E7%87%A5%E7%9A%84"
-      },
-      "raw_titles": [
-        "周星驰功夫女足各队功夫够燥的"
-      ],
       "rank": 5,
-      "movie_rank": 4
+      "movie_rank": 3
     },
     {
       "title": "火影忍者将拍好莱坞真人电影",
@@ -1299,7 +1202,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7703918,
+      "hot_value": 7779758,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E5%B0%86%E6%8B%8D%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%9C%9F%E4%BA%BA%E7%94%B5%E5%BD%B1"
       },
@@ -1307,23 +1210,23 @@
         "火影忍者将拍好莱坞真人电影"
       ],
       "rank": 6,
-      "movie_rank": 5
+      "movie_rank": 4
     },
     {
-      "title": "迪丽热巴谈参演功夫女足",
+      "title": "电影想你了预售开启",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7683132,
+      "hot_value": 7659111,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B0%88%E5%8F%82%E6%BC%94%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E6%83%B3%E4%BD%A0%E4%BA%86%E9%A2%84%E5%94%AE%E5%BC%80%E5%90%AF"
       },
       "raw_titles": [
-        "迪丽热巴谈参演功夫女足"
+        "电影想你了预售开启"
       ],
       "rank": 7,
-      "movie_rank": 6
+      "movie_rank": 5
     },
     {
       "title": "被老君山国漫小姐姐可爱到",
@@ -1331,15 +1234,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7637660,
+      "hot_value": 7636473,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A2%AB%E8%80%81%E5%90%9B%E5%B1%B1%E5%9B%BD%E6%BC%AB%E5%B0%8F%E5%A7%90%E5%A7%90%E5%8F%AF%E7%88%B1%E5%88%B0"
       },
       "raw_titles": [
         "被老君山国漫小姐姐可爱到"
       ],
-      "rank": 10,
-      "movie_rank": 7
+      "rank": 9,
+      "movie_rank": 6
     },
     {
       "title": "面对十七级台风怎么办",
@@ -1347,15 +1250,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1150823,
+      "hot_value": 1318500,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9D%A2%E5%AF%B9%E5%8D%81%E4%B8%83%E7%BA%A7%E5%8F%B0%E9%A3%8E%E6%80%8E%E4%B9%88%E5%8A%9E"
       },
       "raw_titles": [
         "面对十七级台风怎么办"
       ],
-      "rank": 20,
-      "movie_rank": 8
+      "rank": 18,
+      "movie_rank": 7
     },
     {
       "title": "火影首位1亿战力玩家诞生",
@@ -1363,47 +1266,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1123653,
+      "hot_value": 1270630,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E9%A6%96%E4%BD%8D1%E4%BA%BF%E6%88%98%E5%8A%9B%E7%8E%A9%E5%AE%B6%E8%AF%9E%E7%94%9F"
       },
       "raw_titles": [
         "火影首位1亿战力玩家诞生"
       ],
-      "rank": 22,
-      "movie_rank": 9
-    },
-    {
-      "title": "UP动画间谍王后开播",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 966761,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E5%8A%A8%E7%94%BB%E9%97%B4%E8%B0%8D%E7%8E%8B%E5%90%8E%E5%BC%80%E6%92%AD"
-      },
-      "raw_titles": [
-        "UP动画间谍王后开播"
-      ],
-      "rank": 23,
-      "movie_rank": 10
-    },
-    {
-      "title": "幻兽帕鲁1.0正式版上线预告片",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 950467,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%811.0%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%E9%A2%84%E5%91%8A%E7%89%87"
-      },
-      "raw_titles": [
-        "幻兽帕鲁1.0正式版上线预告片"
-      ],
-      "rank": 24,
-      "movie_rank": 11
+      "rank": 20,
+      "movie_rank": 8
     },
     {
       "title": "周星驰口碑",
@@ -1411,32 +1282,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 558770,
+      "hot_value": 937562,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "周星驰口碑"
       ],
-      "rank": 27,
-      "movie_rank": 12
+      "rank": 23,
+      "movie_rank": 9
     },
     {
-      "title": "辛芷蕾包场支持功夫女足",
+      "title": "幻兽帕鲁1.0正式版上线预告片",
       "category": "影视",
       "sources": [
-        "微博",
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 443081,
+      "hot_value": 824813,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%811.0%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%E9%A2%84%E5%91%8A%E7%89%87"
       },
       "raw_titles": [
-        "辛芷蕾包场支持功夫女足"
+        "幻兽帕鲁1.0正式版上线预告片"
       ],
-      "rank": 28,
-      "movie_rank": 13
+      "rank": 24,
+      "movie_rank": 10
+    },
+    {
+      "title": "电影三国争洛阳观后感",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 793686,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E4%B8%89%E5%9B%BD%E4%BA%89%E6%B4%9B%E9%98%B3%E8%A7%82%E5%90%8E%E6%84%9F"
+      },
+      "raw_titles": [
+        "电影三国争洛阳观后感"
+      ],
+      "rank": 26,
+      "movie_rank": 11
     },
     {
       "title": "迪丽热巴这动作把我腿掰折也做不到",
@@ -1444,15 +1330,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 315491,
+      "hot_value": 359971,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%99%E5%8A%A8%E4%BD%9C%E6%8A%8A%E6%88%91%E8%85%BF%E6%8E%B0%E6%8A%98%E4%B9%9F%E5%81%9A%E4%B8%8D%E5%88%B0"
       },
       "raw_titles": [
         "迪丽热巴这动作把我腿掰折也做不到"
       ],
-      "rank": 31,
-      "movie_rank": 14
+      "rank": 29,
+      "movie_rank": 12
     },
     {
       "title": "歌手官博回复邓紫棋",
@@ -1460,15 +1346,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 244955,
+      "hot_value": 308751,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E5%AE%98%E5%8D%9A%E5%9B%9E%E5%A4%8D%E9%82%93%E7%B4%AB%E6%A3%8B"
       },
       "raw_titles": [
         "歌手官博回复邓紫棋"
       ],
-      "rank": 34,
-      "movie_rank": 15
+      "rank": 31,
+      "movie_rank": 13
     },
     {
       "title": "歌手排名",
@@ -1476,15 +1362,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 217806,
+      "hot_value": 288514,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
         "歌手排名"
       ],
-      "rank": 39,
-      "movie_rank": 16
+      "rank": 37,
+      "movie_rank": 14
     }
   ]
 }
