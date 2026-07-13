@@ -1,14 +1,13 @@
 {
-  "update_time": "2026-07-14 06:00:59",
-  "total": 32,
-  "sports_count": 10,
-  "movie_count": 22,
+  "update_time": "2026-07-14 07:01:04",
+  "total": 31,
+  "sports_count": 11,
+  "movie_count": 20,
   "all": [
     {
       "title": "世界杯",
       "category": "体育",
       "sources": [
-        "微博",
         "微博",
         "百度",
         "百度",
@@ -17,12 +16,12 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 9252819,
+      "hot_value": 9303977,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%96%E6%97%A0%E7%BC%98%E6%89%93%E7%A0%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%95%E5%B1%8A13%E7%90%83%E7%BA%AA%E5%BD%95",
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E6%B2%A1%E8%B5%A2%E4%B8%96%E7%95%8C%E6%9D%AF+%E4%BD%86%E8%B5%A2%E5%BE%97%E4%BA%86%E4%B8%96%E7%95%8C&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%E6%96%B0%E7%94%9F%E4%BB%A3%E7%90%83%E6%98%9F%E7%9B%98%E7%82%B9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "世界杯"
@@ -36,7 +35,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8604560,
+      "hot_value": 8395448,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E6%B2%A1%E6%9C%89%E6%88%90%E5%8A%9F%E5%AD%A6"
       },
@@ -47,35 +46,19 @@
       "movie_rank": 1
     },
     {
-      "title": "曼联签下蒂莱曼斯",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7833255,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9B%BC%E8%81%94%E7%AD%BE%E4%B8%8B%E8%92%82%E8%8E%B1%E6%9B%BC%E6%96%AF"
-      },
-      "raw_titles": [
-        "曼联签下蒂莱曼斯"
-      ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
       "title": "周星驰星女郎雪野入驻抖音",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7755009,
+      "hot_value": 7753949,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E6%98%9F%E5%A5%B3%E9%83%8E%E9%9B%AA%E9%87%8E%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3"
       },
       "raw_titles": [
         "周星驰星女郎雪野入驻抖音"
       ],
-      "rank": 4,
+      "rank": 3,
       "movie_rank": 2
     },
     {
@@ -84,31 +67,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707437,
+      "hot_value": 7730024,
       "urls": {
         "抖音": "https://www.douyin.com/search/2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B430%E4%BA%BF"
       },
       "raw_titles": [
         "2026暑期档票房破30亿"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 3
-    },
-    {
-      "title": "沉浸式体验功夫女足幕后",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7695486,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%B9%95%E5%90%8E"
-      },
-      "raw_titles": [
-        "沉浸式体验功夫女足幕后"
-      ],
-      "rank": 6,
-      "movie_rank": 4
     },
     {
       "title": "电影功夫女足倡导文明观影",
@@ -116,14 +83,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7681445,
+      "hot_value": 7683070,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%A1%E5%AF%BC%E6%96%87%E6%98%8E%E8%A7%82%E5%BD%B1"
       },
       "raw_titles": [
         "电影功夫女足倡导文明观影"
       ],
-      "rank": 7,
+      "rank": 5,
+      "movie_rank": 4
+    },
+    {
+      "title": "沉浸式体验功夫女足幕后",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7671396,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%B9%95%E5%90%8E"
+      },
+      "raw_titles": [
+        "沉浸式体验功夫女足幕后"
+      ],
+      "rank": 6,
       "movie_rank": 5
     },
     {
@@ -132,32 +115,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7672923,
+      "hot_value": 7655094,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%AF%B9%E6%88%98%E7%BB%BF%E5%B7%A8%E4%BA%BA%E7%89%87%E6%AE%B5%E5%85%AC%E5%BC%80"
       },
       "raw_titles": [
         "蜘蛛侠对战绿巨人片段公开"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 6
     },
     {
-      "title": "锐评周星驰功夫女足",
+      "title": "IGN评周星驰功夫女足",
       "category": "影视",
       "sources": [
         "哔哩哔哩",
-        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 617342,
+      "hot_value": 1294287,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
       },
       "raw_titles": [
-        "锐评周星驰功夫女足"
+        "IGN评周星驰功夫女足"
       ],
-      "rank": 9,
+      "rank": 8,
       "movie_rank": 7
     },
     {
@@ -167,14 +149,14 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 499198,
+      "hot_value": 578976,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%A5%BD%E7%9C%8B%E5%90%97"
       },
       "raw_titles": [
         "功夫女足值得看吗"
       ],
-      "rank": 10,
+      "rank": 9,
       "movie_rank": 8
     },
     {
@@ -190,8 +172,56 @@
       "raw_titles": [
         "《功夫女足》爆了 但周星驰有点偷懒"
       ],
-      "rank": 11,
+      "rank": 10,
       "movie_rank": 9
+    },
+    {
+      "title": "周星驰的“炸裂”票房不可复制",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 342000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9A%84%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "周星驰的“炸裂”票房不可复制"
+      ],
+      "rank": 11,
+      "movie_rank": 10
+    },
+    {
+      "title": "当哈兰德表情包与现实完美融合",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 324195,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%93%88%E5%85%B0%E5%BE%B7%E8%A1%A8%E6%83%85%E5%8C%85%E4%B8%8E%E7%8E%B0%E5%AE%9E%E5%AE%8C%E7%BE%8E%E8%9E%8D%E5%90%88"
+      },
+      "raw_titles": [
+        "当哈兰德表情包与现实完美融合"
+      ],
+      "rank": 12,
+      "sports_rank": 2
+    },
+    {
+      "title": "“功夫女足和功夫差了十个少林足球”",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 315000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%92%8C%E5%8A%9F%E5%A4%AB%E5%B7%AE%E4%BA%86%E5%8D%81%E4%B8%AA%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "“功夫女足和功夫差了十个少林足球”"
+      ],
+      "rank": 13,
+      "movie_rank": 11
     },
     {
       "title": "博主：《功夫女足》没那么烂",
@@ -206,40 +236,8 @@
       "raw_titles": [
         "博主：《功夫女足》没那么烂"
       ],
-      "rank": 12,
-      "movie_rank": 10
-    },
-    {
-      "title": "当哈兰德表情包与现实完美融合",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 270671,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%93%88%E5%85%B0%E5%BE%B7%E8%A1%A8%E6%83%85%E5%8C%85%E4%B8%8E%E7%8E%B0%E5%AE%9E%E5%AE%8C%E7%BE%8E%E8%9E%8D%E5%90%88"
-      },
-      "raw_titles": [
-        "当哈兰德表情包与现实完美融合"
-      ],
-      "rank": 13,
-      "sports_rank": 3
-    },
-    {
-      "title": "周星驰的“炸裂”票房不可复制",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 270000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9A%84%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6&sa=fyb_news"
-      },
-      "raw_titles": [
-        "周星驰的“炸裂”票房不可复制"
-      ],
       "rank": 14,
-      "movie_rank": 11
+      "movie_rank": 12
     },
     {
       "title": "日本宣布可回收火箭试飞成功",
@@ -247,7 +245,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 249765,
+      "hot_value": 293687,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F"
       },
@@ -255,7 +253,7 @@
         "日本宣布可回收火箭试飞成功"
       ],
       "rank": 15,
-      "sports_rank": 4
+      "sports_rank": 3
     },
     {
       "title": "锐评HLE战胜BLG夺冠",
@@ -263,7 +261,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 249632,
+      "hot_value": 264932,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84HLE%E6%88%98%E8%83%9CBLG%E5%A4%BA%E5%86%A0"
       },
@@ -271,23 +269,23 @@
         "锐评HLE战胜BLG夺冠"
       ],
       "rank": 16,
-      "sports_rank": 5
+      "sports_rank": 4
     },
     {
-      "title": "“功夫女足和功夫差了十个少林足球”",
+      "title": "周星驰功夫女足为何引争议",
       "category": "影视",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 243000,
+      "hot_value": 236298,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%92%8C%E5%8A%9F%E5%A4%AB%E5%B7%AE%E4%BA%86%E5%8D%81%E4%B8%AA%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E2%80%9D&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
-        "“功夫女足和功夫差了十个少林足球”"
+        "周星驰功夫女足为何引争议"
       ],
       "rank": 17,
-      "movie_rank": 12
+      "movie_rank": 13
     },
     {
       "title": "功夫女足影评",
@@ -295,7 +293,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 195894,
+      "hot_value": 212110,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BD%B1%E8%AF%84"
       },
@@ -303,23 +301,7 @@
         "功夫女足影评"
       ],
       "rank": 18,
-      "movie_rank": 13
-    },
-    {
-      "title": "深度解析中国第一枚回收火箭",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 163835,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD"
-      },
-      "raw_titles": [
-        "深度解析中国第一枚回收火箭"
-      ],
-      "rank": 19,
-      "sports_rank": 6
+      "movie_rank": 14
     },
     {
       "title": "如果哈兰德不是挪威人会怎么样",
@@ -327,79 +309,79 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 162000,
+      "hot_value": 207000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%A6%82%E6%9E%9C%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%8D%E6%98%AF%E6%8C%AA%E5%A8%81%E4%BA%BA%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7&sa=fyb_news"
       },
       "raw_titles": [
         "如果哈兰德不是挪威人会怎么样"
       ],
-      "rank": 20,
-      "sports_rank": 7
+      "rank": 19,
+      "sports_rank": 5
     },
     {
-      "title": "如何评价功夫女足",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 147273,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
-      },
-      "raw_titles": [
-        "如何评价功夫女足"
-      ],
-      "rank": 21,
-      "movie_rank": 14
-    },
-    {
-      "title": "Zeus获FMVP",
+      "title": "深度解析中国第一枚回收火箭",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 144819,
+      "hot_value": 187363,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Zeus%E8%8E%B7FMVP"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD"
       },
       "raw_titles": [
-        "Zeus获FMVP"
+        "深度解析中国第一枚回收火箭"
+      ],
+      "rank": 20,
+      "sports_rank": 6
+    },
+    {
+      "title": "姆巴佩补水啦魔性广告背后",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 173988,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A1%A5%E6%B0%B4%E5%95%A6%E9%AD%94%E6%80%A7%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E"
+      },
+      "raw_titles": [
+        "姆巴佩补水啦魔性广告背后"
+      ],
+      "rank": 21,
+      "sports_rank": 7
+    },
+    {
+      "title": "火箭升空后的外层空间法",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 173659,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E7%AE%AD%E5%8D%87%E7%A9%BA%E5%90%8E%E7%9A%84%E5%A4%96%E5%B1%82%E7%A9%BA%E9%97%B4%E6%B3%95"
+      },
+      "raw_titles": [
+        "火箭升空后的外层空间法"
       ],
       "rank": 22,
       "sports_rank": 8
     },
     {
-      "title": "周星驰路演称怕辜负观众支持",
+      "title": "动画揭秘美伊算法战争的背后",
       "category": "影视",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 126000,
+      "hot_value": 156128,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%B7%AF%E6%BC%94%E7%A7%B0%E6%80%95%E8%BE%9C%E8%B4%9F%E8%A7%82%E4%BC%97%E6%94%AF%E6%8C%81&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E6%8F%AD%E7%A7%98%E7%BE%8E%E4%BC%8A%E7%AE%97%E6%B3%95%E6%88%98%E4%BA%89%E7%9A%84%E8%83%8C%E5%90%8E"
       },
       "raw_titles": [
-        "周星驰路演称怕辜负观众支持"
+        "动画揭秘美伊算法战争的背后"
       ],
       "rank": 23,
       "movie_rank": 15
-    },
-    {
-      "title": "《功夫女足》破5亿 周星驰：感到惭愧",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A0%B45%E4%BA%BF+%E5%91%A8%E6%98%9F%E9%A9%B0%EF%BC%9A%E6%84%9F%E5%88%B0%E6%83%AD%E6%84%A7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《功夫女足》破5亿 周星驰：感到惭愧"
-      ],
-      "rank": 24,
-      "movie_rank": 16
     },
     {
       "title": "哈兰德女朋友穿高跟鞋颠球",
@@ -407,15 +389,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 52994,
+      "hot_value": 152767,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B%E9%A2%A0%E7%90%83"
       },
       "raw_titles": [
         "哈兰德女朋友穿高跟鞋颠球"
       ],
-      "rank": 25,
+      "rank": 24,
       "sports_rank": 9
+    },
+    {
+      "title": "施南生去年刚获金像奖",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 152314,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%BD%E5%8D%97%E7%94%9F%E5%8E%BB%E5%B9%B4%E5%88%9A%E8%8E%B7%E9%87%91%E5%83%8F%E5%A5%96"
+      },
+      "raw_titles": [
+        "施南生去年刚获金像奖"
+      ],
+      "rank": 25,
+      "movie_rank": 16
     },
     {
       "title": "迪丽热巴穿钰珑队服走机场",
@@ -423,7 +421,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 52969,
+      "hot_value": 152238,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A9%BF%E9%92%B0%E7%8F%91%E9%98%9F%E6%9C%8D%E8%B5%B0%E6%9C%BA%E5%9C%BA"
       },
@@ -434,100 +432,84 @@
       "movie_rank": 17
     },
     {
-      "title": "施南生去年刚获金像奖",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 52823,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%96%BD%E5%8D%97%E7%94%9F%E5%8E%BB%E5%B9%B4%E5%88%9A%E8%8E%B7%E9%87%91%E5%83%8F%E5%A5%96"
-      },
-      "raw_titles": [
-        "施南生去年刚获金像奖"
-      ],
-      "rank": 27,
-      "movie_rank": 18
-    },
-    {
       "title": "郑钦文vs马内罗",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 52517,
+      "hot_value": 146848,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E9%A9%AC%E5%86%85%E7%BD%97"
       },
       "raw_titles": [
         "郑钦文vs马内罗"
       ],
-      "rank": 28,
+      "rank": 27,
       "sports_rank": 10
     },
     {
-      "title": "迪丽热巴功夫女足路演花絮",
+      "title": "迪丽热巴到杭州了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 52435,
+      "hot_value": 144812,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B7%AF%E6%BC%94%E8%8A%B1%E7%B5%AE"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%B0%E6%9D%AD%E5%B7%9E%E4%BA%86"
       },
       "raw_titles": [
-        "迪丽热巴功夫女足路演花絮"
+        "迪丽热巴到杭州了"
+      ],
+      "rank": 28,
+      "movie_rank": 18
+    },
+    {
+      "title": "周星驰路演称怕辜负观众支持",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%B7%AF%E6%BC%94%E7%A7%B0%E6%80%95%E8%BE%9C%E8%B4%9F%E8%A7%82%E4%BC%97%E6%94%AF%E6%8C%81&sa=fyb_news"
+      },
+      "raw_titles": [
+        "周星驰路演称怕辜负观众支持"
       ],
       "rank": 29,
       "movie_rank": 19
     },
     {
-      "title": "檀健次宿舍直播",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 52338,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%AE%BF%E8%88%8D%E7%9B%B4%E6%92%AD"
-      },
-      "raw_titles": [
-        "檀健次宿舍直播"
-      ],
-      "rank": 30,
-      "movie_rank": 20
-    },
-    {
-      "title": "功夫女足票房破6亿",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 52313,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF"
-      },
-      "raw_titles": [
-        "功夫女足票房破6亿"
-      ],
-      "rank": 31,
-      "movie_rank": 21
-    },
-    {
-      "title": "周星驰《功夫女足》遇冰火反差",
-      "category": "影视",
+      "title": "中国品牌角逐“哈兰德效应”",
+      "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 27000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%81%87%E5%86%B0%E7%81%AB%E5%8F%8D%E5%B7%AE&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E8%A7%92%E9%80%90%E2%80%9C%E5%93%88%E5%85%B0%E5%BE%B7%E6%95%88%E5%BA%94%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "周星驰《功夫女足》遇冰火反差"
+        "中国品牌角逐“哈兰德效应”"
       ],
-      "rank": 32,
-      "movie_rank": 22
+      "rank": 30,
+      "sports_rank": 11
+    },
+    {
+      "title": "《功夫女足》破5亿 周星驰：感到惭愧",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A0%B45%E4%BA%BF+%E5%91%A8%E6%98%9F%E9%A9%B0%EF%BC%9A%E6%84%9F%E5%88%B0%E6%83%AD%E6%84%A7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《功夫女足》破5亿 周星驰：感到惭愧"
+      ],
+      "rank": 31,
+      "movie_rank": 20
     }
   ],
   "sports": [
@@ -536,7 +518,6 @@
       "category": "体育",
       "sources": [
         "微博",
-        "微博",
         "百度",
         "百度",
         "抖音",
@@ -544,12 +525,12 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 9252819,
+      "hot_value": 9303977,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%96%E6%97%A0%E7%BC%98%E6%89%93%E7%A0%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%95%E5%B1%8A13%E7%90%83%E7%BA%AA%E5%BD%95",
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E6%B2%A1%E8%B5%A2%E4%B8%96%E7%95%8C%E6%9D%AF+%E4%BD%86%E8%B5%A2%E5%BE%97%E4%BA%86%E4%B8%96%E7%95%8C&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%E6%96%B0%E7%94%9F%E4%BB%A3%E7%90%83%E6%98%9F%E7%9B%98%E7%82%B9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "世界杯"
@@ -558,36 +539,20 @@
       "sports_rank": 1
     },
     {
-      "title": "曼联签下蒂莱曼斯",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7833255,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9B%BC%E8%81%94%E7%AD%BE%E4%B8%8B%E8%92%82%E8%8E%B1%E6%9B%BC%E6%96%AF"
-      },
-      "raw_titles": [
-        "曼联签下蒂莱曼斯"
-      ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
       "title": "当哈兰德表情包与现实完美融合",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 270671,
+      "hot_value": 324195,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%93%88%E5%85%B0%E5%BE%B7%E8%A1%A8%E6%83%85%E5%8C%85%E4%B8%8E%E7%8E%B0%E5%AE%9E%E5%AE%8C%E7%BE%8E%E8%9E%8D%E5%90%88"
       },
       "raw_titles": [
         "当哈兰德表情包与现实完美融合"
       ],
-      "rank": 13,
-      "sports_rank": 3
+      "rank": 12,
+      "sports_rank": 2
     },
     {
       "title": "日本宣布可回收火箭试飞成功",
@@ -595,7 +560,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 249765,
+      "hot_value": 293687,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F"
       },
@@ -603,7 +568,7 @@
         "日本宣布可回收火箭试飞成功"
       ],
       "rank": 15,
-      "sports_rank": 4
+      "sports_rank": 3
     },
     {
       "title": "锐评HLE战胜BLG夺冠",
@@ -611,7 +576,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 249632,
+      "hot_value": 264932,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84HLE%E6%88%98%E8%83%9CBLG%E5%A4%BA%E5%86%A0"
       },
@@ -619,6 +584,22 @@
         "锐评HLE战胜BLG夺冠"
       ],
       "rank": 16,
+      "sports_rank": 4
+    },
+    {
+      "title": "如果哈兰德不是挪威人会怎么样",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 207000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%A6%82%E6%9E%9C%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%8D%E6%98%AF%E6%8C%AA%E5%A8%81%E4%BA%BA%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "如果哈兰德不是挪威人会怎么样"
+      ],
+      "rank": 19,
       "sports_rank": 5
     },
     {
@@ -627,44 +608,44 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 163835,
+      "hot_value": 187363,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD"
       },
       "raw_titles": [
         "深度解析中国第一枚回收火箭"
       ],
-      "rank": 19,
+      "rank": 20,
       "sports_rank": 6
     },
     {
-      "title": "如果哈兰德不是挪威人会怎么样",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 162000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A6%82%E6%9E%9C%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%8D%E6%98%AF%E6%8C%AA%E5%A8%81%E4%BA%BA%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "如果哈兰德不是挪威人会怎么样"
-      ],
-      "rank": 20,
-      "sports_rank": 7
-    },
-    {
-      "title": "Zeus获FMVP",
+      "title": "姆巴佩补水啦魔性广告背后",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 144819,
+      "hot_value": 173988,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Zeus%E8%8E%B7FMVP"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A1%A5%E6%B0%B4%E5%95%A6%E9%AD%94%E6%80%A7%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E"
       },
       "raw_titles": [
-        "Zeus获FMVP"
+        "姆巴佩补水啦魔性广告背后"
+      ],
+      "rank": 21,
+      "sports_rank": 7
+    },
+    {
+      "title": "火箭升空后的外层空间法",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 173659,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E7%AE%AD%E5%8D%87%E7%A9%BA%E5%90%8E%E7%9A%84%E5%A4%96%E5%B1%82%E7%A9%BA%E9%97%B4%E6%B3%95"
+      },
+      "raw_titles": [
+        "火箭升空后的外层空间法"
       ],
       "rank": 22,
       "sports_rank": 8
@@ -675,14 +656,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 52994,
+      "hot_value": 152767,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B%E9%A2%A0%E7%90%83"
       },
       "raw_titles": [
         "哈兰德女朋友穿高跟鞋颠球"
       ],
-      "rank": 25,
+      "rank": 24,
       "sports_rank": 9
     },
     {
@@ -691,15 +672,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 52517,
+      "hot_value": 146848,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E9%A9%AC%E5%86%85%E7%BD%97"
       },
       "raw_titles": [
         "郑钦文vs马内罗"
       ],
-      "rank": 28,
+      "rank": 27,
       "sports_rank": 10
+    },
+    {
+      "title": "中国品牌角逐“哈兰德效应”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 27000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E8%A7%92%E9%80%90%E2%80%9C%E5%93%88%E5%85%B0%E5%BE%B7%E6%95%88%E5%BA%94%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "中国品牌角逐“哈兰德效应”"
+      ],
+      "rank": 30,
+      "sports_rank": 11
     }
   ],
   "movies": [
@@ -709,7 +706,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8604560,
+      "hot_value": 8395448,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E6%B2%A1%E6%9C%89%E6%88%90%E5%8A%9F%E5%AD%A6"
       },
@@ -725,14 +722,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7755009,
+      "hot_value": 7753949,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E6%98%9F%E5%A5%B3%E9%83%8E%E9%9B%AA%E9%87%8E%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3"
       },
       "raw_titles": [
         "周星驰星女郎雪野入驻抖音"
       ],
-      "rank": 4,
+      "rank": 3,
       "movie_rank": 2
     },
     {
@@ -741,31 +738,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707437,
+      "hot_value": 7730024,
       "urls": {
         "抖音": "https://www.douyin.com/search/2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B430%E4%BA%BF"
       },
       "raw_titles": [
         "2026暑期档票房破30亿"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 3
-    },
-    {
-      "title": "沉浸式体验功夫女足幕后",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7695486,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%B9%95%E5%90%8E"
-      },
-      "raw_titles": [
-        "沉浸式体验功夫女足幕后"
-      ],
-      "rank": 6,
-      "movie_rank": 4
     },
     {
       "title": "电影功夫女足倡导文明观影",
@@ -773,14 +754,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7681445,
+      "hot_value": 7683070,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%A1%E5%AF%BC%E6%96%87%E6%98%8E%E8%A7%82%E5%BD%B1"
       },
       "raw_titles": [
         "电影功夫女足倡导文明观影"
       ],
-      "rank": 7,
+      "rank": 5,
+      "movie_rank": 4
+    },
+    {
+      "title": "沉浸式体验功夫女足幕后",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7671396,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%B9%95%E5%90%8E"
+      },
+      "raw_titles": [
+        "沉浸式体验功夫女足幕后"
+      ],
+      "rank": 6,
       "movie_rank": 5
     },
     {
@@ -789,32 +786,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7672923,
+      "hot_value": 7655094,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%AF%B9%E6%88%98%E7%BB%BF%E5%B7%A8%E4%BA%BA%E7%89%87%E6%AE%B5%E5%85%AC%E5%BC%80"
       },
       "raw_titles": [
         "蜘蛛侠对战绿巨人片段公开"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 6
     },
     {
-      "title": "锐评周星驰功夫女足",
+      "title": "IGN评周星驰功夫女足",
       "category": "影视",
       "sources": [
         "哔哩哔哩",
-        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 617342,
+      "hot_value": 1294287,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
       },
       "raw_titles": [
-        "锐评周星驰功夫女足"
+        "IGN评周星驰功夫女足"
       ],
-      "rank": 9,
+      "rank": 8,
       "movie_rank": 7
     },
     {
@@ -824,14 +820,14 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 499198,
+      "hot_value": 578976,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%A5%BD%E7%9C%8B%E5%90%97"
       },
       "raw_titles": [
         "功夫女足值得看吗"
       ],
-      "rank": 10,
+      "rank": 9,
       "movie_rank": 8
     },
     {
@@ -847,8 +843,40 @@
       "raw_titles": [
         "《功夫女足》爆了 但周星驰有点偷懒"
       ],
-      "rank": 11,
+      "rank": 10,
       "movie_rank": 9
+    },
+    {
+      "title": "周星驰的“炸裂”票房不可复制",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 342000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9A%84%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "周星驰的“炸裂”票房不可复制"
+      ],
+      "rank": 11,
+      "movie_rank": 10
+    },
+    {
+      "title": "“功夫女足和功夫差了十个少林足球”",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 315000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%92%8C%E5%8A%9F%E5%A4%AB%E5%B7%AE%E4%BA%86%E5%8D%81%E4%B8%AA%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "“功夫女足和功夫差了十个少林足球”"
+      ],
+      "rank": 13,
+      "movie_rank": 11
     },
     {
       "title": "博主：《功夫女足》没那么烂",
@@ -863,40 +891,24 @@
       "raw_titles": [
         "博主：《功夫女足》没那么烂"
       ],
-      "rank": 12,
-      "movie_rank": 10
-    },
-    {
-      "title": "周星驰的“炸裂”票房不可复制",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 270000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9A%84%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6&sa=fyb_news"
-      },
-      "raw_titles": [
-        "周星驰的“炸裂”票房不可复制"
-      ],
       "rank": 14,
-      "movie_rank": 11
+      "movie_rank": 12
     },
     {
-      "title": "“功夫女足和功夫差了十个少林足球”",
+      "title": "周星驰功夫女足为何引争议",
       "category": "影视",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 243000,
+      "hot_value": 236298,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%92%8C%E5%8A%9F%E5%A4%AB%E5%B7%AE%E4%BA%86%E5%8D%81%E4%B8%AA%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E2%80%9D&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
-        "“功夫女足和功夫差了十个少林足球”"
+        "周星驰功夫女足为何引争议"
       ],
       "rank": 17,
-      "movie_rank": 12
+      "movie_rank": 13
     },
     {
       "title": "功夫女足影评",
@@ -904,7 +916,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 195894,
+      "hot_value": 212110,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BD%B1%E8%AF%84"
       },
@@ -912,54 +924,38 @@
         "功夫女足影评"
       ],
       "rank": 18,
-      "movie_rank": 13
+      "movie_rank": 14
     },
     {
-      "title": "如何评价功夫女足",
+      "title": "动画揭秘美伊算法战争的背后",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 147273,
+      "hot_value": 156128,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E6%8F%AD%E7%A7%98%E7%BE%8E%E4%BC%8A%E7%AE%97%E6%B3%95%E6%88%98%E4%BA%89%E7%9A%84%E8%83%8C%E5%90%8E"
       },
       "raw_titles": [
-        "如何评价功夫女足"
-      ],
-      "rank": 21,
-      "movie_rank": 14
-    },
-    {
-      "title": "周星驰路演称怕辜负观众支持",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 126000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%B7%AF%E6%BC%94%E7%A7%B0%E6%80%95%E8%BE%9C%E8%B4%9F%E8%A7%82%E4%BC%97%E6%94%AF%E6%8C%81&sa=fyb_news"
-      },
-      "raw_titles": [
-        "周星驰路演称怕辜负观众支持"
+        "动画揭秘美伊算法战争的背后"
       ],
       "rank": 23,
       "movie_rank": 15
     },
     {
-      "title": "《功夫女足》破5亿 周星驰：感到惭愧",
+      "title": "施南生去年刚获金像奖",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 81000,
+      "hot_value": 152314,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A0%B45%E4%BA%BF+%E5%91%A8%E6%98%9F%E9%A9%B0%EF%BC%9A%E6%84%9F%E5%88%B0%E6%83%AD%E6%84%A7&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%BD%E5%8D%97%E7%94%9F%E5%8E%BB%E5%B9%B4%E5%88%9A%E8%8E%B7%E9%87%91%E5%83%8F%E5%A5%96"
       },
       "raw_titles": [
-        "《功夫女足》破5亿 周星驰：感到惭愧"
+        "施南生去年刚获金像奖"
       ],
-      "rank": 24,
+      "rank": 25,
       "movie_rank": 16
     },
     {
@@ -968,7 +964,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 52969,
+      "hot_value": 152238,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A9%BF%E9%92%B0%E7%8F%91%E9%98%9F%E6%9C%8D%E8%B5%B0%E6%9C%BA%E5%9C%BA"
       },
@@ -979,84 +975,52 @@
       "movie_rank": 17
     },
     {
-      "title": "施南生去年刚获金像奖",
+      "title": "迪丽热巴到杭州了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 52823,
+      "hot_value": 144812,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%96%BD%E5%8D%97%E7%94%9F%E5%8E%BB%E5%B9%B4%E5%88%9A%E8%8E%B7%E9%87%91%E5%83%8F%E5%A5%96"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%B0%E6%9D%AD%E5%B7%9E%E4%BA%86"
       },
       "raw_titles": [
-        "施南生去年刚获金像奖"
+        "迪丽热巴到杭州了"
       ],
-      "rank": 27,
+      "rank": 28,
       "movie_rank": 18
     },
     {
-      "title": "迪丽热巴功夫女足路演花絮",
+      "title": "周星驰路演称怕辜负观众支持",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 52435,
+      "hot_value": 144000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B7%AF%E6%BC%94%E8%8A%B1%E7%B5%AE"
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%B7%AF%E6%BC%94%E7%A7%B0%E6%80%95%E8%BE%9C%E8%B4%9F%E8%A7%82%E4%BC%97%E6%94%AF%E6%8C%81&sa=fyb_news"
       },
       "raw_titles": [
-        "迪丽热巴功夫女足路演花絮"
+        "周星驰路演称怕辜负观众支持"
       ],
       "rank": 29,
       "movie_rank": 19
     },
     {
-      "title": "檀健次宿舍直播",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 52338,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%AE%BF%E8%88%8D%E7%9B%B4%E6%92%AD"
-      },
-      "raw_titles": [
-        "檀健次宿舍直播"
-      ],
-      "rank": 30,
-      "movie_rank": 20
-    },
-    {
-      "title": "功夫女足票房破6亿",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 52313,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF"
-      },
-      "raw_titles": [
-        "功夫女足票房破6亿"
-      ],
-      "rank": 31,
-      "movie_rank": 21
-    },
-    {
-      "title": "周星驰《功夫女足》遇冰火反差",
+      "title": "《功夫女足》破5亿 周星驰：感到惭愧",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 27000,
+      "hot_value": 9000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%81%87%E5%86%B0%E7%81%AB%E5%8F%8D%E5%B7%AE&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A0%B45%E4%BA%BF+%E5%91%A8%E6%98%9F%E9%A9%B0%EF%BC%9A%E6%84%9F%E5%88%B0%E6%83%AD%E6%84%A7&sa=fyb_news"
       },
       "raw_titles": [
-        "周星驰《功夫女足》遇冰火反差"
+        "《功夫女足》破5亿 周星驰：感到惭愧"
       ],
-      "rank": 32,
-      "movie_rank": 22
+      "rank": 31,
+      "movie_rank": 20
     }
   ]
 }
