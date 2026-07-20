@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-07-20 07:00:45",
-  "total": 50,
-  "sports_count": 35,
-  "movie_count": 16,
+  "update_time": "2026-07-20 08:00:56",
+  "total": 56,
+  "sports_count": 39,
+  "movie_count": 19,
   "all": [
     {
       "title": "西班牙加时1-0阿根廷 夺世界杯冠军",
@@ -13,7 +13,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 64711609,
+      "hot_value": 61473094,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%991%3A0%E6%88%98%E8%83%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0",
@@ -31,7 +31,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 47211284,
+      "hot_value": 44868263,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E6%97%B6%E8%B5%9B%E7%8E%87%E5%85%88%E7%A0%B4%E9%97%A8"
       },
@@ -48,7 +48,7 @@
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 14901789,
+      "hot_value": 14842579,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%81%A9%E4%BD%90%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%81%A9%E4%BD%90%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B"
@@ -60,24 +60,63 @@
       "sports_rank": 3
     },
     {
-      "title": "世界杯中场秀 不转播",
+      "title": "罗德里获世界杯金球奖",
+      "category": "综合",
+      "sources": [
+        "微博",
+        "微博",
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 12923391,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96",
+        "百度": "https://m.baidu.com/s?word=%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96"
+      },
+      "raw_titles": [
+        "罗德里获世界杯金球奖"
+      ],
+      "rank": 4,
+      "sports_rank": 4,
+      "movie_rank": 1
+    },
+    {
+      "title": "徐静雨评西班牙世界杯夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 10522476,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "徐静雨评西班牙世界杯夺冠"
+      ],
+      "rank": 5,
+      "sports_rank": 5
+    },
+    {
+      "title": "BTS世界杯中场秀",
       "category": "体育",
       "sources": [
         "微博",
         "微博",
-        "微博",
         "抖音"
       ],
-      "hot_value": 11694239,
+      "hot_value": 8357308,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=BTS%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9C%BA%E7%A7%80",
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9C%BA%E7%A7%80",
         "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9C%BA%E7%A7%80"
       },
       "raw_titles": [
-        "世界杯中场秀 不转播"
+        "BTS世界杯中场秀"
       ],
-      "rank": 4,
-      "sports_rank": 4
+      "rank": 6,
+      "sports_rank": 6
     },
     {
       "title": "2026年度电影总票房突破200亿",
@@ -85,15 +124,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7651025,
+      "hot_value": 7648977,
       "urls": {
         "抖音": "https://www.douyin.com/search/2026%E5%B9%B4%E5%BA%A6%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B4200%E4%BA%BF"
       },
       "raw_titles": [
         "2026年度电影总票房突破200亿"
       ],
-      "rank": 5,
-      "movie_rank": 1
+      "rank": 7,
+      "movie_rank": 2
     },
     {
       "title": "功夫女足上映9天票房突破13亿",
@@ -101,94 +140,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7644052,
+      "hot_value": 7644162,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%8A%E6%98%A09%E5%A4%A9%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B413%E4%BA%BF"
       },
       "raw_titles": [
         "功夫女足上映9天票房突破13亿"
       ],
-      "rank": 6,
-      "movie_rank": 2
-    },
-    {
-      "title": "比决赛先来的是宿舍世界杯",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7636467,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AF%94%E5%86%B3%E8%B5%9B%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E5%AE%BF%E8%88%8D%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "比决赛先来的是宿舍世界杯"
-      ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "姆巴佩：我宁愿不当这个历史射手王",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7612491,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E6%88%91%E5%AE%81%E6%84%BF%E4%B8%8D%E5%BD%93%E8%BF%99%E4%B8%AA%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B"
-      },
-      "raw_titles": [
-        "姆巴佩：我宁愿不当这个历史射手王"
-      ],
       "rank": 8,
-      "sports_rank": 6
-    },
-    {
-      "title": "杨紫也拍上球场转场了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7609866,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E4%B9%9F%E6%8B%8D%E4%B8%8A%E7%90%83%E5%9C%BA%E8%BD%AC%E5%9C%BA%E4%BA%86"
-      },
-      "raw_titles": [
-        "杨紫也拍上球场转场了"
-      ],
-      "rank": 9,
       "movie_rank": 3
     },
     {
-      "title": "如何评价姆巴佩",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7231505,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9"
-      },
-      "raw_titles": [
-        "如何评价姆巴佩"
-      ],
-      "rank": 10,
-      "sports_rank": 7
-    },
-    {
-      "title": "李熊猫动画定档0729",
+      "title": "功夫女足应援舞我来跳",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7127110,
+      "hot_value": 7632958,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E7%86%8A%E7%8C%AB%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A30729"
+        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BA%94%E6%8F%B4%E8%88%9E%E6%88%91%E6%9D%A5%E8%B7%B3"
       },
       "raw_titles": [
-        "李熊猫动画定档0729"
+        "功夫女足应援舞我来跳"
       ],
-      "rank": 11,
+      "rank": 9,
       "movie_rank": 4
     },
     {
@@ -197,15 +172,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 6993640,
+      "hot_value": 7625638,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%8C%E5%8F%8C%E6%BC%94%E6%88%91%E6%8A%B9%E4%B8%8D%E5%BC%80%E9%9D%A2%E5%BC%8F%E9%81%93%E6%AD%89"
       },
       "raw_titles": [
         "功夫女足双双演我抹不开面式道歉"
       ],
-      "rank": 12,
+      "rank": 10,
       "movie_rank": 5
+    },
+    {
+      "title": "如何评价姆巴佩",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7622069,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9"
+      },
+      "raw_titles": [
+        "如何评价姆巴佩"
+      ],
+      "rank": 11,
+      "sports_rank": 7
+    },
+    {
+      "title": "比决赛先来的是宿舍世界杯",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7614415,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AF%94%E5%86%B3%E8%B5%9B%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E5%AE%BF%E8%88%8D%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "比决赛先来的是宿舍世界杯"
+      ],
+      "rank": 12,
+      "sports_rank": 8
     },
     {
       "title": "被电影八仙神级站位帅到了",
@@ -213,7 +220,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 6964072,
+      "hot_value": 7594548,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A2%AB%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E7%A5%9E%E7%BA%A7%E7%AB%99%E4%BD%8D%E5%B8%85%E5%88%B0%E4%BA%86"
       },
@@ -224,37 +231,71 @@
       "movie_rank": 6
     },
     {
-      "title": "功夫女足应援舞我来跳",
+      "title": "亚马尔 19岁的世界杯冠军",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 7569128,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E5%B0%94%2019%E5%B2%81%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B"
+      },
+      "raw_titles": [
+        "亚马尔 19岁的世界杯冠军"
+      ],
+      "rank": 14,
+      "sports_rank": 9
+    },
+    {
+      "title": "李熊猫动画定档0729",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 6901068,
+      "hot_value": 7279439,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BA%94%E6%8F%B4%E8%88%9E%E6%88%91%E6%9D%A5%E8%B7%B3"
+        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E7%86%8A%E7%8C%AB%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A30729"
       },
       "raw_titles": [
-        "功夫女足应援舞我来跳"
+        "李熊猫动画定档0729"
       ],
-      "rank": 14,
+      "rank": 15,
       "movie_rank": 7
     },
     {
-      "title": "世界杯冠军 就是这一杯",
+      "title": "姆巴佩金靴",
       "category": "体育",
       "sources": [
         "微博",
-        "微博"
+        "百度"
       ],
-      "hot_value": 4536689,
+      "hot_value": 5877654,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF"
+        "微博": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%87%91%E9%9D%B4",
+        "百度": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A910%E7%90%83%E5%A4%BA%E9%87%91%E9%9D%B4%E5%A5%96&sa=fyb_news"
       },
       "raw_titles": [
-        "世界杯冠军 就是这一杯"
+        "姆巴佩金靴"
       ],
-      "rank": 15,
-      "sports_rank": 8
+      "rank": 16,
+      "sports_rank": 10
+    },
+    {
+      "title": "世界杯收官抽百万黄金",
+      "category": "综合",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 3275879,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%B6%E5%AE%98%E6%8A%BD%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91"
+      },
+      "raw_titles": [
+        "世界杯收官抽百万黄金"
+      ],
+      "rank": 17,
+      "sports_rank": 11,
+      "movie_rank": 8
     },
     {
       "title": "西班牙夺冠含金量太高了",
@@ -262,184 +303,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 2986906,
+      "hot_value": 2252841,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E5%90%AB%E9%87%91%E9%87%8F%E5%A4%AA%E9%AB%98%E4%BA%86"
       },
       "raw_titles": [
         "西班牙夺冠含金量太高了"
       ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "裁判这都能忍住不掏牌",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1557576,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4%E8%BF%99%E9%83%BD%E8%83%BD%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%8E%8F%E7%89%8C",
-        "百度": "https://m.baidu.com/s?word=%E8%A3%81%E5%88%A4%E8%BF%99%E9%83%BD%E8%83%BD%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%8E%8F%E7%89%8C&sa=fyb_news"
-      },
-      "raw_titles": [
-        "裁判这都能忍住不掏牌"
-      ],
-      "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "费兰加时赛破门",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1483727,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B4%B9%E5%85%B0%E5%8A%A0%E6%97%B6%E8%B5%9B%E7%A0%B4%E9%97%A8",
-        "百度": "https://m.baidu.com/s?word=%E8%B4%B9%E5%85%B0%E6%89%98%E9%9B%B7%E6%96%AF%E5%8A%A0%E6%97%B6%E7%A0%B4%E9%97%A8&sa=fyb_news"
-      },
-      "raw_titles": [
-        "费兰加时赛破门"
-      ],
       "rank": 18,
-      "sports_rank": 11
-    },
-    {
-      "title": "世界杯决赛判罚尺度",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1458930,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%88%A4%E7%BD%9A%E5%B0%BA%E5%BA%A6",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%88%A4%E7%BD%9A%E5%B0%BA%E5%BA%A6&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯决赛判罚尺度"
-      ],
-      "rank": 19,
       "sports_rank": 12
-    },
-    {
-      "title": "澎湖海战 撤档",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1433532,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%20%E6%92%A4%E6%A1%A3"
-      },
-      "raw_titles": [
-        "澎湖海战 撤档"
-      ],
-      "rank": 20,
-      "movie_rank": 8
-    },
-    {
-      "title": "姆巴佩金靴",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1408287,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%87%91%E9%9D%B4"
-      },
-      "raw_titles": [
-        "姆巴佩金靴"
-      ],
-      "rank": 21,
-      "sports_rank": 13
-    },
-    {
-      "title": "樊振东评世界杯最佳阵容",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1388732,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9",
-        "百度": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9&sa=fyb_news"
-      },
-      "raw_titles": [
-        "樊振东评世界杯最佳阵容"
-      ],
-      "rank": 22,
-      "sports_rank": 14
-    },
-    {
-      "title": "金球奖",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1387590,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96"
-      },
-      "raw_titles": [
-        "金球奖"
-      ],
-      "rank": 23,
-      "sports_rank": 15,
-      "movie_rank": 9
-    },
-    {
-      "title": "王源演唱会上座率",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1357326,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87"
-      },
-      "raw_titles": [
-        "王源演唱会上座率"
-      ],
-      "rank": 24,
-      "movie_rank": 10
-    },
-    {
-      "title": "西班牙阿根廷加时赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1336686,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8A%A0%E6%97%B6%E8%B5%9B"
-      },
-      "raw_titles": [
-        "西班牙阿根廷加时赛"
-      ],
-      "rank": 25,
-      "sports_rank": 16
-    },
-    {
-      "title": "樊振东资深球迷实锤了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1253323,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B5%84%E6%B7%B1%E7%90%83%E8%BF%B7%E5%AE%9E%E9%94%A4%E4%BA%86"
-      },
-      "raw_titles": [
-        "樊振东资深球迷实锤了"
-      ],
-      "rank": 26,
-      "sports_rank": 17
     },
     {
       "title": "王冰冰带你回顾本届世界杯",
@@ -447,31 +319,33 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 738032,
+      "hot_value": 1092478,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%BE%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
         "王冰冰带你回顾本届世界杯"
       ],
-      "rank": 27,
-      "sports_rank": 18
+      "rank": 19,
+      "sports_rank": 13
     },
     {
-      "title": "世界杯决赛看点",
+      "title": "亚马尔最年轻双冠王",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "百度"
       ],
-      "hot_value": 554479,
+      "hot_value": 775006,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E7%82%B9"
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%9C%80%E5%B9%B4%E8%BD%BB%E5%8F%8C%E5%86%A0%E7%8E%8B",
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%9C%80%E5%B9%B4%E8%BD%BB%E5%8F%8C%E5%86%A0%E7%8E%8B&sa=fyb_news"
       },
       "raw_titles": [
-        "世界杯决赛看点"
+        "亚马尔最年轻双冠王"
       ],
-      "rank": 28,
-      "sports_rank": 19
+      "rank": 20,
+      "sports_rank": 14
     },
     {
       "title": "解读安理会讨论红海局势",
@@ -479,15 +353,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 493786,
+      "hot_value": 725828,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%AE%89%E7%90%86%E4%BC%9A%E8%AE%A8%E8%AE%BA%E7%BA%A2%E6%B5%B7%E5%B1%80%E5%8A%BF"
       },
       "raw_titles": [
         "解读安理会讨论红海局势"
       ],
-      "rank": 29,
-      "movie_rank": 11
+      "rank": 21,
+      "movie_rank": 9
+    },
+    {
+      "title": "世界杯决赛看点",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 635607,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E7%82%B9"
+      },
+      "raw_titles": [
+        "世界杯决赛看点"
+      ],
+      "rank": 22,
+      "sports_rank": 15
     },
     {
       "title": "F1比利时大奖赛正赛集锦",
@@ -495,63 +385,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 460394,
+      "hot_value": 615992,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E9%9B%86%E9%94%A6"
       },
       "raw_titles": [
         "F1比利时大奖赛正赛集锦"
       ],
-      "rank": 30,
-      "sports_rank": 20
-    },
-    {
-      "title": "亚马尔最年轻双冠王",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%9C%80%E5%B9%B4%E8%BD%BB%E5%8F%8C%E5%86%A0%E7%8E%8B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "亚马尔最年轻双冠王"
-      ],
-      "rank": 31,
-      "sports_rank": 21
-    },
-    {
-      "title": "西班牙创世界杯冠军最少失球纪录",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 405000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E6%9C%80%E5%B0%91%E5%A4%B1%E7%90%83%E7%BA%AA%E5%BD%95&sa=fyb_news"
-      },
-      "raw_titles": [
-        "西班牙创世界杯冠军最少失球纪录"
-      ],
-      "rank": 32,
-      "sports_rank": 22
-    },
-    {
-      "title": "19岁亚马尔首夺世界杯",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=19%E5%B2%81%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A6%96%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "19岁亚马尔首夺世界杯"
-      ],
-      "rank": 33,
-      "sports_rank": 23
+      "rank": 23,
+      "sports_rank": 16
     },
     {
       "title": "世界杯48强最终排名",
@@ -559,175 +401,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 378000,
+      "hot_value": 441000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF48%E5%BC%BA%E6%9C%80%E7%BB%88%E6%8E%92%E5%90%8D&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯48强最终排名"
       ],
-      "rank": 34,
-      "sports_rank": 24
-    },
-    {
-      "title": "亚马尔开导姆巴佩",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 361407,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%BC%80%E5%AF%BC%E5%A7%86%E5%B7%B4%E4%BD%A9"
-      },
-      "raw_titles": [
-        "亚马尔开导姆巴佩"
-      ],
-      "rank": 35,
-      "sports_rank": 25
-    },
-    {
-      "title": "动画八仙121个彩蛋盘点",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 314519,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E5%85%AB%E4%BB%99121%E4%B8%AA%E5%BD%A9%E8%9B%8B%E7%9B%98%E7%82%B9"
-      },
-      "raw_titles": [
-        "动画八仙121个彩蛋盘点"
-      ],
-      "rank": 36,
-      "movie_rank": 12
-    },
-    {
-      "title": "管泽元谈世界杯落幕",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 306368,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E8%B0%88%E4%B8%96%E7%95%8C%E6%9D%AF%E8%90%BD%E5%B9%95"
-      },
-      "raw_titles": [
-        "管泽元谈世界杯落幕"
-      ],
-      "rank": 37,
-      "sports_rank": 26
-    },
-    {
-      "title": "西班牙2年内连夺欧洲杯+世界杯",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 306000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992%E5%B9%B4%E5%86%85%E8%BF%9E%E5%A4%BA%E6%AC%A7%E6%B4%B2%E6%9D%AF%2B%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "西班牙2年内连夺欧洲杯+世界杯"
-      ],
-      "rank": 38,
-      "sports_rank": 27
-    },
-    {
-      "title": "火影综艺飞舞吧忍者第一集",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 302462,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%80%E9%9B%86"
-      },
-      "raw_titles": [
-        "火影综艺飞舞吧忍者第一集"
-      ],
-      "rank": 39,
-      "movie_rank": 13
-    },
-    {
-      "title": "姆巴佩愿用射手王换踢决赛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 296608,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%84%BF%E7%94%A8%E5%B0%84%E6%89%8B%E7%8E%8B%E6%8D%A2%E8%B8%A2%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "姆巴佩愿用射手王换踢决赛"
-      ],
-      "rank": 40,
-      "sports_rank": 28
-    },
-    {
-      "title": "特朗普现身世界杯决赛看台",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 279000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E5%8F%B0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "特朗普现身世界杯决赛看台"
-      ],
-      "rank": 41,
-      "sports_rank": 29
-    },
-    {
-      "title": "电影八仙真实观后感",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 261034,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E7%9C%9F%E5%AE%9E%E8%A7%82%E5%90%8E%E6%84%9F"
-      },
-      "raw_titles": [
-        "电影八仙真实观后感"
-      ],
-      "rank": 42,
-      "movie_rank": 14
-    },
-    {
-      "title": "周星驰混剪单曲 还踢球",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 240567,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%B7%B7%E5%89%AA%E5%8D%95%E6%9B%B2%20%E8%BF%98%E8%B8%A2%E7%90%83"
-      },
-      "raw_titles": [
-        "周星驰混剪单曲 还踢球"
-      ],
-      "rank": 43,
-      "movie_rank": 15
-    },
-    {
-      "title": "甲亢哥献唱世界杯决赛",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%94%B2%E4%BA%A2%E5%93%A5%E7%8C%AE%E5%94%B1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "甲亢哥献唱世界杯决赛"
-      ],
-      "rank": 44,
-      "sports_rank": 30
+      "rank": 24,
+      "sports_rank": 17
     },
     {
       "title": "世界杯季军赛赛后复盘",
@@ -735,95 +417,511 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 214020,
+      "hot_value": 436429,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
         "世界杯季军赛赛后复盘"
       ],
-      "rank": 45,
-      "sports_rank": 31
+      "rank": 25,
+      "sports_rank": 18
     },
     {
-      "title": "世界杯中场秀贾斯汀比伯抱吉他弹唱",
+      "title": "贺炜33字总结世界杯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 422637,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B4%BA%E7%82%9C33%E5%AD%97%E6%80%BB%E7%BB%93%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "贺炜33字总结世界杯"
+      ],
+      "rank": 26,
+      "sports_rank": 19
+    },
+    {
+      "title": "澎湖海战 撤档",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 402794,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%20%E6%92%A4%E6%A1%A3"
+      },
+      "raw_titles": [
+        "澎湖海战 撤档"
+      ],
+      "rank": 27,
+      "movie_rank": 10
+    },
+    {
+      "title": "火影综艺飞舞吧忍者第一集",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 398639,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%80%E9%9B%86"
+      },
+      "raw_titles": [
+        "火影综艺飞舞吧忍者第一集"
+      ],
+      "rank": 28,
+      "movie_rank": 11
+    },
+    {
+      "title": "王俊凯工作室必有高人指点",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 385701,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%BF%85%E6%9C%89%E9%AB%98%E4%BA%BA%E6%8C%87%E7%82%B9"
+      },
+      "raw_titles": [
+        "王俊凯工作室必有高人指点"
+      ],
+      "rank": 29,
+      "movie_rank": 12
+    },
+    {
+      "title": "王一博你让多少人脸红了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 376121,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BD%A0%E8%AE%A9%E5%A4%9A%E5%B0%91%E4%BA%BA%E8%84%B8%E7%BA%A2%E4%BA%86"
+      },
+      "raw_titles": [
+        "王一博你让多少人脸红了"
+      ],
+      "rank": 30,
+      "movie_rank": 13
+    },
+    {
+      "title": "王源演唱会上座率",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 368445,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87"
+      },
+      "raw_titles": [
+        "王源演唱会上座率"
+      ],
+      "rank": 31,
+      "movie_rank": 14
+    },
+    {
+      "title": "男子回应花3000元带两台空调飞巴黎",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 364494,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E8%8A%B13000%E5%85%83%E5%B8%A6%E4%B8%A4%E5%8F%B0%E7%A9%BA%E8%B0%83%E9%A3%9E%E5%B7%B4%E9%BB%8E"
+      },
+      "raw_titles": [
+        "男子回应花3000元带两台空调飞巴黎"
+      ],
+      "rank": 32,
+      "sports_rank": 20
+    },
+    {
+      "title": "世界杯最新冠军榜",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 361355,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E6%96%B0%E5%86%A0%E5%86%9B%E6%A6%9C"
+      },
+      "raw_titles": [
+        "世界杯最新冠军榜"
+      ],
+      "rank": 33,
+      "sports_rank": 21
+    },
+    {
+      "title": "19岁亚马尔首夺世界杯",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 144000,
+      "hot_value": 342000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9C%BA%E7%A7%80%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AF%E6%8A%B1%E5%90%89%E4%BB%96%E5%BC%B9%E5%94%B1&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=19%E5%B2%81%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A6%96%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
       },
       "raw_titles": [
-        "世界杯中场秀贾斯汀比伯抱吉他弹唱"
+        "19岁亚马尔首夺世界杯"
+      ],
+      "rank": 34,
+      "sports_rank": 22
+    },
+    {
+      "title": "西班牙阿根廷加时赛",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 341063,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8A%A0%E6%97%B6%E8%B5%9B"
+      },
+      "raw_titles": [
+        "西班牙阿根廷加时赛"
+      ],
+      "rank": 35,
+      "sports_rank": 23
+    },
+    {
+      "title": "樊振东祝贺西班牙夺冠",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 339014,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A5%9D%E8%B4%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "樊振东祝贺西班牙夺冠"
+      ],
+      "rank": 36,
+      "sports_rank": 24
+    },
+    {
+      "title": "蔡依林唱心引力送给王俊凯",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 326053,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%94%B1%E5%BF%83%E5%BC%95%E5%8A%9B%E9%80%81%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF"
+      },
+      "raw_titles": [
+        "蔡依林唱心引力送给王俊凯"
+      ],
+      "rank": 37,
+      "movie_rank": 15
+    },
+    {
+      "title": "功夫女足票房",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 322762,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF"
+      },
+      "raw_titles": [
+        "功夫女足票房"
+      ],
+      "rank": 38,
+      "movie_rank": 16
+    },
+    {
+      "title": "亚马尔开导姆巴佩",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 305413,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%BC%80%E5%AF%BC%E5%A7%86%E5%B7%B4%E4%BD%A9"
+      },
+      "raw_titles": [
+        "亚马尔开导姆巴佩"
+      ],
+      "rank": 39,
+      "sports_rank": 25
+    },
+    {
+      "title": "管泽元谈世界杯落幕",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 301810,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E8%B0%88%E4%B8%96%E7%95%8C%E6%9D%AF%E8%90%BD%E5%B9%95"
+      },
+      "raw_titles": [
+        "管泽元谈世界杯落幕"
+      ],
+      "rank": 40,
+      "sports_rank": 26
+    },
+    {
+      "title": "动画八仙121个彩蛋盘点",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 298116,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E5%85%AB%E4%BB%99121%E4%B8%AA%E5%BD%A9%E8%9B%8B%E7%9B%98%E7%82%B9"
+      },
+      "raw_titles": [
+        "动画八仙121个彩蛋盘点"
+      ],
+      "rank": 41,
+      "movie_rank": 17
+    },
+    {
+      "title": "电影八仙真实观后感",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 294720,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E7%9C%9F%E5%AE%9E%E8%A7%82%E5%90%8E%E6%84%9F"
+      },
+      "raw_titles": [
+        "电影八仙真实观后感"
+      ],
+      "rank": 42,
+      "movie_rank": 18
+    },
+    {
+      "title": "周星驰混剪单曲 还踢球",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 294182,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%B7%B7%E5%89%AA%E5%8D%95%E6%9B%B2%20%E8%BF%98%E8%B8%A2%E7%90%83"
+      },
+      "raw_titles": [
+        "周星驰混剪单曲 还踢球"
+      ],
+      "rank": 43,
+      "movie_rank": 19
+    },
+    {
+      "title": "费兰托雷斯加时破门",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 279000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%B4%B9%E5%85%B0%E6%89%98%E9%9B%B7%E6%96%AF%E5%8A%A0%E6%97%B6%E7%A0%B4%E9%97%A8&sa=fyb_news"
+      },
+      "raw_titles": [
+        "费兰托雷斯加时破门"
+      ],
+      "rank": 44,
+      "sports_rank": 27
+    },
+    {
+      "title": "裁判这都能忍住不掏牌",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 225000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A3%81%E5%88%A4%E8%BF%99%E9%83%BD%E8%83%BD%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%8E%8F%E7%89%8C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "裁判这都能忍住不掏牌"
+      ],
+      "rank": 45,
+      "sports_rank": 28
+    },
+    {
+      "title": "西班牙创世界杯冠军最少失球纪录",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 180000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E6%9C%80%E5%B0%91%E5%A4%B1%E7%90%83%E7%BA%AA%E5%BD%95&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西班牙创世界杯冠军最少失球纪录"
       ],
       "rank": 46,
+      "sports_rank": 29
+    },
+    {
+      "title": "2030年世界杯3国举办6国办赛",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 171000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=2030%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF3%E5%9B%BD%E4%B8%BE%E5%8A%9E6%E5%9B%BD%E5%8A%9E%E8%B5%9B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "2030年世界杯3国举办6国办赛"
+      ],
+      "rank": 47,
+      "sports_rank": 30
+    },
+    {
+      "title": "亚马尔全场数据",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 135000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%85%A8%E5%9C%BA%E6%95%B0%E6%8D%AE&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚马尔全场数据"
+      ],
+      "rank": 48,
+      "sports_rank": 31
+    },
+    {
+      "title": "西班牙2年内连夺欧洲杯+世界杯",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 126000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992%E5%B9%B4%E5%86%85%E8%BF%9E%E5%A4%BA%E6%AC%A7%E6%B4%B2%E6%9D%AF%2B%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西班牙2年内连夺欧洲杯+世界杯"
+      ],
+      "rank": 49,
       "sports_rank": 32
     },
     {
-      "title": "《功夫女足》进入年度票房榜前三",
-      "category": "影视",
+      "title": "樊振东评世界杯最佳阵容",
+      "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 108000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%BF%9B%E5%85%A5%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E4%B8%89&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9&sa=fyb_news"
       },
       "raw_titles": [
-        "《功夫女足》进入年度票房榜前三"
+        "樊振东评世界杯最佳阵容"
       ],
-      "rank": 47,
-      "movie_rank": 16
+      "rank": 50,
+      "sports_rank": 33
     },
     {
-      "title": "奔四老将马龙许昕夺冠男乒有何隐忧",
+      "title": "一图回顾西班牙夺冠之路",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 90000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%80%E5%9B%BE%E5%9B%9E%E9%A1%BE%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "一图回顾西班牙夺冠之路"
+      ],
+      "rank": 51,
+      "sports_rank": 34
+    },
+    {
+      "title": "克罗斯发文庆西班牙夺冠",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 81000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A5%94%E5%9B%9B%E8%80%81%E5%B0%86%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E5%A4%BA%E5%86%A0%E7%94%B7%E4%B9%92%E6%9C%89%E4%BD%95%E9%9A%90%E5%BF%A7&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%85%8B%E7%BD%97%E6%96%AF%E5%8F%91%E6%96%87%E5%BA%86%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&sa=fyb_news"
       },
       "raw_titles": [
-        "奔四老将马龙许昕夺冠男乒有何隐忧"
+        "克罗斯发文庆西班牙夺冠"
       ],
-      "rank": 48,
-      "sports_rank": 33
+      "rank": 52,
+      "sports_rank": 35
     },
     {
-      "title": "母女参加横渡钱塘江赛 13岁女儿夺冠",
+      "title": "世界杯决赛判罚尺度",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%88%A4%E7%BD%9A%E5%B0%BA%E5%BA%A6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯决赛判罚尺度"
+      ],
+      "rank": 53,
+      "sports_rank": 36
+    },
+    {
+      "title": "西班牙后卫当选世界杯最佳年轻球员",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%90%8E%E5%8D%AB%E5%BD%93%E9%80%89%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E5%B9%B4%E8%BD%BB%E7%90%83%E5%91%98&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西班牙后卫当选世界杯最佳年轻球员"
+      ],
+      "rank": 54,
+      "sports_rank": 37
+    },
+    {
+      "title": "佛得角门将观战世界杯决赛",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 54000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%AF%8D%E5%A5%B3%E5%8F%82%E5%8A%A0%E6%A8%AA%E6%B8%A1%E9%92%B1%E5%A1%98%E6%B1%9F%E8%B5%9B+13%E5%B2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E8%A7%82%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "母女参加横渡钱塘江赛 13岁女儿夺冠"
+        "佛得角门将观战世界杯决赛"
       ],
-      "rank": 49,
-      "sports_rank": 34
+      "rank": 55,
+      "sports_rank": 38
     },
     {
-      "title": "男子带两台移动空调赴巴黎",
+      "title": "甲亢哥献唱世界杯决赛",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 27000,
+      "hot_value": 45000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%B8%A6%E4%B8%A4%E5%8F%B0%E7%A7%BB%E5%8A%A8%E7%A9%BA%E8%B0%83%E8%B5%B4%E5%B7%B4%E9%BB%8E&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%94%B2%E4%BA%A2%E5%93%A5%E7%8C%AE%E5%94%B1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "男子带两台移动空调赴巴黎"
+        "甲亢哥献唱世界杯决赛"
       ],
-      "rank": 50,
-      "sports_rank": 35
+      "rank": 56,
+      "sports_rank": 39
     }
   ],
   "sports": [
@@ -836,7 +934,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 64711609,
+      "hot_value": 61473094,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%991%3A0%E6%88%98%E8%83%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0",
@@ -854,7 +952,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 47211284,
+      "hot_value": 44868263,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E6%97%B6%E8%B5%9B%E7%8E%87%E5%85%88%E7%A0%B4%E9%97%A8"
       },
@@ -871,7 +969,7 @@
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 14901789,
+      "hot_value": 14842579,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%81%A9%E4%BD%90%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%81%A9%E4%BD%90%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B"
@@ -883,55 +981,62 @@
       "sports_rank": 3
     },
     {
-      "title": "世界杯中场秀 不转播",
-      "category": "体育",
+      "title": "罗德里获世界杯金球奖",
+      "category": "综合",
       "sources": [
         "微博",
         "微博",
-        "微博",
-        "抖音"
+        "百度",
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 11694239,
+      "hot_value": 12923391,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=BTS%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9C%BA%E7%A7%80",
-        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9C%BA%E7%A7%80"
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96",
+        "百度": "https://m.baidu.com/s?word=%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96"
       },
       "raw_titles": [
-        "世界杯中场秀 不转播"
+        "罗德里获世界杯金球奖"
       ],
       "rank": 4,
-      "sports_rank": 4
+      "sports_rank": 4,
+      "movie_rank": 1
     },
     {
-      "title": "比决赛先来的是宿舍世界杯",
+      "title": "徐静雨评西班牙世界杯夺冠",
       "category": "体育",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7636467,
+      "hot_value": 10522476,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AF%94%E5%86%B3%E8%B5%9B%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E5%AE%BF%E8%88%8D%E4%B8%96%E7%95%8C%E6%9D%AF"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "比决赛先来的是宿舍世界杯"
+        "徐静雨评西班牙世界杯夺冠"
       ],
-      "rank": 7,
+      "rank": 5,
       "sports_rank": 5
     },
     {
-      "title": "姆巴佩：我宁愿不当这个历史射手王",
+      "title": "BTS世界杯中场秀",
       "category": "体育",
       "sources": [
+        "微博",
+        "微博",
         "抖音"
       ],
-      "hot_value": 7612491,
+      "hot_value": 8357308,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E6%88%91%E5%AE%81%E6%84%BF%E4%B8%8D%E5%BD%93%E8%BF%99%E4%B8%AA%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9C%BA%E7%A7%80",
+        "抖音": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9C%BA%E7%A7%80"
       },
       "raw_titles": [
-        "姆巴佩：我宁愿不当这个历史射手王"
+        "BTS世界杯中场秀"
       ],
-      "rank": 8,
+      "rank": 6,
       "sports_rank": 6
     },
     {
@@ -940,32 +1045,82 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7231505,
+      "hot_value": 7622069,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9"
       },
       "raw_titles": [
         "如何评价姆巴佩"
       ],
-      "rank": 10,
+      "rank": 11,
       "sports_rank": 7
     },
     {
-      "title": "世界杯冠军 就是这一杯",
+      "title": "比决赛先来的是宿舍世界杯",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7614415,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AF%94%E5%86%B3%E8%B5%9B%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E5%AE%BF%E8%88%8D%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "比决赛先来的是宿舍世界杯"
+      ],
+      "rank": 12,
+      "sports_rank": 8
+    },
+    {
+      "title": "亚马尔 19岁的世界杯冠军",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 7569128,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E5%B0%94%2019%E5%B2%81%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B"
+      },
+      "raw_titles": [
+        "亚马尔 19岁的世界杯冠军"
+      ],
+      "rank": 14,
+      "sports_rank": 9
+    },
+    {
+      "title": "姆巴佩金靴",
       "category": "体育",
       "sources": [
         "微博",
-        "微博"
+        "百度"
       ],
-      "hot_value": 4536689,
+      "hot_value": 5877654,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF"
+        "微博": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%87%91%E9%9D%B4",
+        "百度": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A910%E7%90%83%E5%A4%BA%E9%87%91%E9%9D%B4%E5%A5%96&sa=fyb_news"
       },
       "raw_titles": [
-        "世界杯冠军 就是这一杯"
+        "姆巴佩金靴"
       ],
-      "rank": 15,
-      "sports_rank": 8
+      "rank": 16,
+      "sports_rank": 10
+    },
+    {
+      "title": "世界杯收官抽百万黄金",
+      "category": "综合",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 3275879,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%B6%E5%AE%98%E6%8A%BD%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91"
+      },
+      "raw_titles": [
+        "世界杯收官抽百万黄金"
+      ],
+      "rank": 17,
+      "sports_rank": 11,
+      "movie_rank": 8
     },
     {
       "title": "西班牙夺冠含金量太高了",
@@ -973,152 +1128,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 2986906,
+      "hot_value": 2252841,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E5%90%AB%E9%87%91%E9%87%8F%E5%A4%AA%E9%AB%98%E4%BA%86"
       },
       "raw_titles": [
         "西班牙夺冠含金量太高了"
       ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "裁判这都能忍住不掏牌",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1557576,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4%E8%BF%99%E9%83%BD%E8%83%BD%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%8E%8F%E7%89%8C",
-        "百度": "https://m.baidu.com/s?word=%E8%A3%81%E5%88%A4%E8%BF%99%E9%83%BD%E8%83%BD%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%8E%8F%E7%89%8C&sa=fyb_news"
-      },
-      "raw_titles": [
-        "裁判这都能忍住不掏牌"
-      ],
-      "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "费兰加时赛破门",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1483727,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B4%B9%E5%85%B0%E5%8A%A0%E6%97%B6%E8%B5%9B%E7%A0%B4%E9%97%A8",
-        "百度": "https://m.baidu.com/s?word=%E8%B4%B9%E5%85%B0%E6%89%98%E9%9B%B7%E6%96%AF%E5%8A%A0%E6%97%B6%E7%A0%B4%E9%97%A8&sa=fyb_news"
-      },
-      "raw_titles": [
-        "费兰加时赛破门"
-      ],
       "rank": 18,
-      "sports_rank": 11
-    },
-    {
-      "title": "世界杯决赛判罚尺度",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1458930,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%88%A4%E7%BD%9A%E5%B0%BA%E5%BA%A6",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%88%A4%E7%BD%9A%E5%B0%BA%E5%BA%A6&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯决赛判罚尺度"
-      ],
-      "rank": 19,
       "sports_rank": 12
-    },
-    {
-      "title": "姆巴佩金靴",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1408287,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%87%91%E9%9D%B4"
-      },
-      "raw_titles": [
-        "姆巴佩金靴"
-      ],
-      "rank": 21,
-      "sports_rank": 13
-    },
-    {
-      "title": "樊振东评世界杯最佳阵容",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1388732,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9",
-        "百度": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9&sa=fyb_news"
-      },
-      "raw_titles": [
-        "樊振东评世界杯最佳阵容"
-      ],
-      "rank": 22,
-      "sports_rank": 14
-    },
-    {
-      "title": "金球奖",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1387590,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96"
-      },
-      "raw_titles": [
-        "金球奖"
-      ],
-      "rank": 23,
-      "sports_rank": 15,
-      "movie_rank": 9
-    },
-    {
-      "title": "西班牙阿根廷加时赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1336686,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8A%A0%E6%97%B6%E8%B5%9B"
-      },
-      "raw_titles": [
-        "西班牙阿根廷加时赛"
-      ],
-      "rank": 25,
-      "sports_rank": 16
-    },
-    {
-      "title": "樊振东资深球迷实锤了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1253323,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B5%84%E6%B7%B1%E7%90%83%E8%BF%B7%E5%AE%9E%E9%94%A4%E4%BA%86"
-      },
-      "raw_titles": [
-        "樊振东资深球迷实锤了"
-      ],
-      "rank": 26,
-      "sports_rank": 17
     },
     {
       "title": "王冰冰带你回顾本届世界杯",
@@ -1126,15 +1144,33 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 738032,
+      "hot_value": 1092478,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%BE%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF"
       },
       "raw_titles": [
         "王冰冰带你回顾本届世界杯"
       ],
-      "rank": 27,
-      "sports_rank": 18
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "亚马尔最年轻双冠王",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 775006,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%9C%80%E5%B9%B4%E8%BD%BB%E5%8F%8C%E5%86%A0%E7%8E%8B",
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%9C%80%E5%B9%B4%E8%BD%BB%E5%8F%8C%E5%86%A0%E7%8E%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚马尔最年轻双冠王"
+      ],
+      "rank": 20,
+      "sports_rank": 14
     },
     {
       "title": "世界杯决赛看点",
@@ -1142,15 +1178,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 554479,
+      "hot_value": 635607,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E7%82%B9"
       },
       "raw_titles": [
         "世界杯决赛看点"
       ],
-      "rank": 28,
-      "sports_rank": 19
+      "rank": 22,
+      "sports_rank": 15
     },
     {
       "title": "F1比利时大奖赛正赛集锦",
@@ -1158,63 +1194,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 460394,
+      "hot_value": 615992,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E9%9B%86%E9%94%A6"
       },
       "raw_titles": [
         "F1比利时大奖赛正赛集锦"
       ],
-      "rank": 30,
-      "sports_rank": 20
-    },
-    {
-      "title": "亚马尔最年轻双冠王",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%9C%80%E5%B9%B4%E8%BD%BB%E5%8F%8C%E5%86%A0%E7%8E%8B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "亚马尔最年轻双冠王"
-      ],
-      "rank": 31,
-      "sports_rank": 21
-    },
-    {
-      "title": "西班牙创世界杯冠军最少失球纪录",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 405000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E6%9C%80%E5%B0%91%E5%A4%B1%E7%90%83%E7%BA%AA%E5%BD%95&sa=fyb_news"
-      },
-      "raw_titles": [
-        "西班牙创世界杯冠军最少失球纪录"
-      ],
-      "rank": 32,
-      "sports_rank": 22
-    },
-    {
-      "title": "19岁亚马尔首夺世界杯",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=19%E5%B2%81%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A6%96%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "19岁亚马尔首夺世界杯"
-      ],
-      "rank": 33,
-      "sports_rank": 23
+      "rank": 23,
+      "sports_rank": 16
     },
     {
       "title": "世界杯48强最终排名",
@@ -1222,14 +1210,126 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 378000,
+      "hot_value": 441000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF48%E5%BC%BA%E6%9C%80%E7%BB%88%E6%8E%92%E5%90%8D&sa=fyb_news"
       },
       "raw_titles": [
         "世界杯48强最终排名"
       ],
+      "rank": 24,
+      "sports_rank": 17
+    },
+    {
+      "title": "世界杯季军赛赛后复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 436429,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "世界杯季军赛赛后复盘"
+      ],
+      "rank": 25,
+      "sports_rank": 18
+    },
+    {
+      "title": "贺炜33字总结世界杯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 422637,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B4%BA%E7%82%9C33%E5%AD%97%E6%80%BB%E7%BB%93%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "贺炜33字总结世界杯"
+      ],
+      "rank": 26,
+      "sports_rank": 19
+    },
+    {
+      "title": "男子回应花3000元带两台空调飞巴黎",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 364494,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E8%8A%B13000%E5%85%83%E5%B8%A6%E4%B8%A4%E5%8F%B0%E7%A9%BA%E8%B0%83%E9%A3%9E%E5%B7%B4%E9%BB%8E"
+      },
+      "raw_titles": [
+        "男子回应花3000元带两台空调飞巴黎"
+      ],
+      "rank": 32,
+      "sports_rank": 20
+    },
+    {
+      "title": "世界杯最新冠军榜",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 361355,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E6%96%B0%E5%86%A0%E5%86%9B%E6%A6%9C"
+      },
+      "raw_titles": [
+        "世界杯最新冠军榜"
+      ],
+      "rank": 33,
+      "sports_rank": 21
+    },
+    {
+      "title": "19岁亚马尔首夺世界杯",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 342000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=19%E5%B2%81%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A6%96%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "19岁亚马尔首夺世界杯"
+      ],
       "rank": 34,
+      "sports_rank": 22
+    },
+    {
+      "title": "西班牙阿根廷加时赛",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 341063,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8A%A0%E6%97%B6%E8%B5%9B"
+      },
+      "raw_titles": [
+        "西班牙阿根廷加时赛"
+      ],
+      "rank": 35,
+      "sports_rank": 23
+    },
+    {
+      "title": "樊振东祝贺西班牙夺冠",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 339014,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A5%9D%E8%B4%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "樊振东祝贺西班牙夺冠"
+      ],
+      "rank": 36,
       "sports_rank": 24
     },
     {
@@ -1238,14 +1338,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 361407,
+      "hot_value": 305413,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%BC%80%E5%AF%BC%E5%A7%86%E5%B7%B4%E4%BD%A9"
       },
       "raw_titles": [
         "亚马尔开导姆巴佩"
       ],
-      "rank": 35,
+      "rank": 39,
       "sports_rank": 25
     },
     {
@@ -1254,15 +1354,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 306368,
+      "hot_value": 301810,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E8%B0%88%E4%B8%96%E7%95%8C%E6%9D%AF%E8%90%BD%E5%B9%95"
       },
       "raw_titles": [
         "管泽元谈世界杯落幕"
       ],
-      "rank": 37,
+      "rank": 40,
       "sports_rank": 26
+    },
+    {
+      "title": "费兰托雷斯加时破门",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 279000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%B4%B9%E5%85%B0%E6%89%98%E9%9B%B7%E6%96%AF%E5%8A%A0%E6%97%B6%E7%A0%B4%E9%97%A8&sa=fyb_news"
+      },
+      "raw_titles": [
+        "费兰托雷斯加时破门"
+      ],
+      "rank": 44,
+      "sports_rank": 27
+    },
+    {
+      "title": "裁判这都能忍住不掏牌",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 225000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A3%81%E5%88%A4%E8%BF%99%E9%83%BD%E8%83%BD%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%8E%8F%E7%89%8C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "裁判这都能忍住不掏牌"
+      ],
+      "rank": 45,
+      "sports_rank": 28
+    },
+    {
+      "title": "西班牙创世界杯冠军最少失球纪录",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 180000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E6%9C%80%E5%B0%91%E5%A4%B1%E7%90%83%E7%BA%AA%E5%BD%95&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西班牙创世界杯冠军最少失球纪录"
+      ],
+      "rank": 46,
+      "sports_rank": 29
+    },
+    {
+      "title": "2030年世界杯3国举办6国办赛",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 171000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=2030%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF3%E5%9B%BD%E4%B8%BE%E5%8A%9E6%E5%9B%BD%E5%8A%9E%E8%B5%9B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "2030年世界杯3国举办6国办赛"
+      ],
+      "rank": 47,
+      "sports_rank": 30
+    },
+    {
+      "title": "亚马尔全场数据",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 135000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%85%A8%E5%9C%BA%E6%95%B0%E6%8D%AE&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚马尔全场数据"
+      ],
+      "rank": 48,
+      "sports_rank": 31
     },
     {
       "title": "西班牙2年内连夺欧洲杯+世界杯",
@@ -1270,47 +1450,111 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 306000,
+      "hot_value": 126000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992%E5%B9%B4%E5%86%85%E8%BF%9E%E5%A4%BA%E6%AC%A7%E6%B4%B2%E6%9D%AF%2B%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
       },
       "raw_titles": [
         "西班牙2年内连夺欧洲杯+世界杯"
       ],
-      "rank": 38,
-      "sports_rank": 27
+      "rank": 49,
+      "sports_rank": 32
     },
     {
-      "title": "姆巴佩愿用射手王换踢决赛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 296608,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%84%BF%E7%94%A8%E5%B0%84%E6%89%8B%E7%8E%8B%E6%8D%A2%E8%B8%A2%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "姆巴佩愿用射手王换踢决赛"
-      ],
-      "rank": 40,
-      "sports_rank": 28
-    },
-    {
-      "title": "特朗普现身世界杯决赛看台",
+      "title": "樊振东评世界杯最佳阵容",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 108000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E5%8F%B0&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9&sa=fyb_news"
       },
       "raw_titles": [
-        "特朗普现身世界杯决赛看台"
+        "樊振东评世界杯最佳阵容"
       ],
-      "rank": 41,
-      "sports_rank": 29
+      "rank": 50,
+      "sports_rank": 33
+    },
+    {
+      "title": "一图回顾西班牙夺冠之路",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 90000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%80%E5%9B%BE%E5%9B%9E%E9%A1%BE%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "一图回顾西班牙夺冠之路"
+      ],
+      "rank": 51,
+      "sports_rank": 34
+    },
+    {
+      "title": "克罗斯发文庆西班牙夺冠",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 81000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%85%8B%E7%BD%97%E6%96%AF%E5%8F%91%E6%96%87%E5%BA%86%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&sa=fyb_news"
+      },
+      "raw_titles": [
+        "克罗斯发文庆西班牙夺冠"
+      ],
+      "rank": 52,
+      "sports_rank": 35
+    },
+    {
+      "title": "世界杯决赛判罚尺度",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%88%A4%E7%BD%9A%E5%B0%BA%E5%BA%A6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "世界杯决赛判罚尺度"
+      ],
+      "rank": 53,
+      "sports_rank": 36
+    },
+    {
+      "title": "西班牙后卫当选世界杯最佳年轻球员",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%90%8E%E5%8D%AB%E5%BD%93%E9%80%89%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E5%B9%B4%E8%BD%BB%E7%90%83%E5%91%98&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西班牙后卫当选世界杯最佳年轻球员"
+      ],
+      "rank": 54,
+      "sports_rank": 37
+    },
+    {
+      "title": "佛得角门将观战世界杯决赛",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 54000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E8%A7%82%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "佛得角门将观战世界杯决赛"
+      ],
+      "rank": 55,
+      "sports_rank": 38
     },
     {
       "title": "甲亢哥献唱世界杯决赛",
@@ -1318,113 +1562,57 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 225000,
+      "hot_value": 45000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%94%B2%E4%BA%A2%E5%93%A5%E7%8C%AE%E5%94%B1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news"
       },
       "raw_titles": [
         "甲亢哥献唱世界杯决赛"
       ],
-      "rank": 44,
-      "sports_rank": 30
-    },
-    {
-      "title": "世界杯季军赛赛后复盘",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 214020,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98"
-      },
-      "raw_titles": [
-        "世界杯季军赛赛后复盘"
-      ],
-      "rank": 45,
-      "sports_rank": 31
-    },
-    {
-      "title": "世界杯中场秀贾斯汀比伯抱吉他弹唱",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 144000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9C%BA%E7%A7%80%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AF%E6%8A%B1%E5%90%89%E4%BB%96%E5%BC%B9%E5%94%B1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界杯中场秀贾斯汀比伯抱吉他弹唱"
-      ],
-      "rank": 46,
-      "sports_rank": 32
-    },
-    {
-      "title": "奔四老将马龙许昕夺冠男乒有何隐忧",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A5%94%E5%9B%9B%E8%80%81%E5%B0%86%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E5%A4%BA%E5%86%A0%E7%94%B7%E4%B9%92%E6%9C%89%E4%BD%95%E9%9A%90%E5%BF%A7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "奔四老将马龙许昕夺冠男乒有何隐忧"
-      ],
-      "rank": 48,
-      "sports_rank": 33
-    },
-    {
-      "title": "母女参加横渡钱塘江赛 13岁女儿夺冠",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 54000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%AF%8D%E5%A5%B3%E5%8F%82%E5%8A%A0%E6%A8%AA%E6%B8%A1%E9%92%B1%E5%A1%98%E6%B1%9F%E8%B5%9B+13%E5%B2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "母女参加横渡钱塘江赛 13岁女儿夺冠"
-      ],
-      "rank": 49,
-      "sports_rank": 34
-    },
-    {
-      "title": "男子带两台移动空调赴巴黎",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 27000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%B8%A6%E4%B8%A4%E5%8F%B0%E7%A7%BB%E5%8A%A8%E7%A9%BA%E8%B0%83%E8%B5%B4%E5%B7%B4%E9%BB%8E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "男子带两台移动空调赴巴黎"
-      ],
-      "rank": 50,
-      "sports_rank": 35
+      "rank": 56,
+      "sports_rank": 39
     }
   ],
   "movies": [
+    {
+      "title": "罗德里获世界杯金球奖",
+      "category": "综合",
+      "sources": [
+        "微博",
+        "微博",
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 12923391,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96",
+        "百度": "https://m.baidu.com/s?word=%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96"
+      },
+      "raw_titles": [
+        "罗德里获世界杯金球奖"
+      ],
+      "rank": 4,
+      "sports_rank": 4,
+      "movie_rank": 1
+    },
     {
       "title": "2026年度电影总票房突破200亿",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7651025,
+      "hot_value": 7648977,
       "urls": {
         "抖音": "https://www.douyin.com/search/2026%E5%B9%B4%E5%BA%A6%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B4200%E4%BA%BF"
       },
       "raw_titles": [
         "2026年度电影总票房突破200亿"
       ],
-      "rank": 5,
-      "movie_rank": 1
+      "rank": 7,
+      "movie_rank": 2
     },
     {
       "title": "功夫女足上映9天票房突破13亿",
@@ -1432,46 +1620,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7644052,
+      "hot_value": 7644162,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%8A%E6%98%A09%E5%A4%A9%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B413%E4%BA%BF"
       },
       "raw_titles": [
         "功夫女足上映9天票房突破13亿"
       ],
-      "rank": 6,
-      "movie_rank": 2
-    },
-    {
-      "title": "杨紫也拍上球场转场了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7609866,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E4%B9%9F%E6%8B%8D%E4%B8%8A%E7%90%83%E5%9C%BA%E8%BD%AC%E5%9C%BA%E4%BA%86"
-      },
-      "raw_titles": [
-        "杨紫也拍上球场转场了"
-      ],
-      "rank": 9,
+      "rank": 8,
       "movie_rank": 3
     },
     {
-      "title": "李熊猫动画定档0729",
+      "title": "功夫女足应援舞我来跳",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7127110,
+      "hot_value": 7632958,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E7%86%8A%E7%8C%AB%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A30729"
+        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BA%94%E6%8F%B4%E8%88%9E%E6%88%91%E6%9D%A5%E8%B7%B3"
       },
       "raw_titles": [
-        "李熊猫动画定档0729"
+        "功夫女足应援舞我来跳"
       ],
-      "rank": 11,
+      "rank": 9,
       "movie_rank": 4
     },
     {
@@ -1480,14 +1652,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 6993640,
+      "hot_value": 7625638,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%8C%E5%8F%8C%E6%BC%94%E6%88%91%E6%8A%B9%E4%B8%8D%E5%BC%80%E9%9D%A2%E5%BC%8F%E9%81%93%E6%AD%89"
       },
       "raw_titles": [
         "功夫女足双双演我抹不开面式道歉"
       ],
-      "rank": 12,
+      "rank": 10,
       "movie_rank": 5
     },
     {
@@ -1496,7 +1668,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 6964072,
+      "hot_value": 7594548,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A2%AB%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E7%A5%9E%E7%BA%A7%E7%AB%99%E4%BD%8D%E5%B8%85%E5%88%B0%E4%BA%86"
       },
@@ -1507,69 +1679,37 @@
       "movie_rank": 6
     },
     {
-      "title": "功夫女足应援舞我来跳",
+      "title": "李熊猫动画定档0729",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 6901068,
+      "hot_value": 7279439,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BA%94%E6%8F%B4%E8%88%9E%E6%88%91%E6%9D%A5%E8%B7%B3"
+        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E7%86%8A%E7%8C%AB%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A30729"
       },
       "raw_titles": [
-        "功夫女足应援舞我来跳"
+        "李熊猫动画定档0729"
       ],
-      "rank": 14,
+      "rank": 15,
       "movie_rank": 7
     },
     {
-      "title": "澎湖海战 撤档",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1433532,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%20%E6%92%A4%E6%A1%A3"
-      },
-      "raw_titles": [
-        "澎湖海战 撤档"
-      ],
-      "rank": 20,
-      "movie_rank": 8
-    },
-    {
-      "title": "金球奖",
+      "title": "世界杯收官抽百万黄金",
       "category": "综合",
       "sources": [
         "微博"
       ],
-      "hot_value": 1387590,
+      "hot_value": 3275879,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%B6%E5%AE%98%E6%8A%BD%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91"
       },
       "raw_titles": [
-        "金球奖"
+        "世界杯收官抽百万黄金"
       ],
-      "rank": 23,
-      "sports_rank": 15,
-      "movie_rank": 9
-    },
-    {
-      "title": "王源演唱会上座率",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1357326,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87"
-      },
-      "raw_titles": [
-        "王源演唱会上座率"
-      ],
-      "rank": 24,
-      "movie_rank": 10
+      "rank": 17,
+      "sports_rank": 11,
+      "movie_rank": 8
     },
     {
       "title": "解读安理会讨论红海局势",
@@ -1577,31 +1717,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 493786,
+      "hot_value": 725828,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%AE%89%E7%90%86%E4%BC%9A%E8%AE%A8%E8%AE%BA%E7%BA%A2%E6%B5%B7%E5%B1%80%E5%8A%BF"
       },
       "raw_titles": [
         "解读安理会讨论红海局势"
       ],
-      "rank": 29,
-      "movie_rank": 11
+      "rank": 21,
+      "movie_rank": 9
     },
     {
-      "title": "动画八仙121个彩蛋盘点",
+      "title": "澎湖海战 撤档",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 314519,
+      "hot_value": 402794,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E5%85%AB%E4%BB%99121%E4%B8%AA%E5%BD%A9%E8%9B%8B%E7%9B%98%E7%82%B9"
+        "微博": "https://s.weibo.com/weibo?q=%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%20%E6%92%A4%E6%A1%A3"
       },
       "raw_titles": [
-        "动画八仙121个彩蛋盘点"
+        "澎湖海战 撤档"
       ],
-      "rank": 36,
-      "movie_rank": 12
+      "rank": 27,
+      "movie_rank": 10
     },
     {
       "title": "火影综艺飞舞吧忍者第一集",
@@ -1609,15 +1749,111 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 302462,
+      "hot_value": 398639,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%80%E9%9B%86"
       },
       "raw_titles": [
         "火影综艺飞舞吧忍者第一集"
       ],
-      "rank": 39,
+      "rank": 28,
+      "movie_rank": 11
+    },
+    {
+      "title": "王俊凯工作室必有高人指点",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 385701,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%BF%85%E6%9C%89%E9%AB%98%E4%BA%BA%E6%8C%87%E7%82%B9"
+      },
+      "raw_titles": [
+        "王俊凯工作室必有高人指点"
+      ],
+      "rank": 29,
+      "movie_rank": 12
+    },
+    {
+      "title": "王一博你让多少人脸红了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 376121,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BD%A0%E8%AE%A9%E5%A4%9A%E5%B0%91%E4%BA%BA%E8%84%B8%E7%BA%A2%E4%BA%86"
+      },
+      "raw_titles": [
+        "王一博你让多少人脸红了"
+      ],
+      "rank": 30,
       "movie_rank": 13
+    },
+    {
+      "title": "王源演唱会上座率",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 368445,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87"
+      },
+      "raw_titles": [
+        "王源演唱会上座率"
+      ],
+      "rank": 31,
+      "movie_rank": 14
+    },
+    {
+      "title": "蔡依林唱心引力送给王俊凯",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 326053,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%94%B1%E5%BF%83%E5%BC%95%E5%8A%9B%E9%80%81%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF"
+      },
+      "raw_titles": [
+        "蔡依林唱心引力送给王俊凯"
+      ],
+      "rank": 37,
+      "movie_rank": 15
+    },
+    {
+      "title": "功夫女足票房",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 322762,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF"
+      },
+      "raw_titles": [
+        "功夫女足票房"
+      ],
+      "rank": 38,
+      "movie_rank": 16
+    },
+    {
+      "title": "动画八仙121个彩蛋盘点",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 298116,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E5%85%AB%E4%BB%99121%E4%B8%AA%E5%BD%A9%E8%9B%8B%E7%9B%98%E7%82%B9"
+      },
+      "raw_titles": [
+        "动画八仙121个彩蛋盘点"
+      ],
+      "rank": 41,
+      "movie_rank": 17
     },
     {
       "title": "电影八仙真实观后感",
@@ -1625,7 +1861,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 261034,
+      "hot_value": 294720,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E7%9C%9F%E5%AE%9E%E8%A7%82%E5%90%8E%E6%84%9F"
       },
@@ -1633,7 +1869,7 @@
         "电影八仙真实观后感"
       ],
       "rank": 42,
-      "movie_rank": 14
+      "movie_rank": 18
     },
     {
       "title": "周星驰混剪单曲 还踢球",
@@ -1641,7 +1877,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 240567,
+      "hot_value": 294182,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%B7%B7%E5%89%AA%E5%8D%95%E6%9B%B2%20%E8%BF%98%E8%B8%A2%E7%90%83"
       },
@@ -1649,23 +1885,7 @@
         "周星驰混剪单曲 还踢球"
       ],
       "rank": 43,
-      "movie_rank": 15
-    },
-    {
-      "title": "《功夫女足》进入年度票房榜前三",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 108000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%BF%9B%E5%85%A5%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E4%B8%89&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《功夫女足》进入年度票房榜前三"
-      ],
-      "rank": 47,
-      "movie_rank": 16
+      "movie_rank": 19
     }
   ]
 }
