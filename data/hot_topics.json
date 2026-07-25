@@ -1,23 +1,25 @@
 {
-  "update_time": "2026-07-25 07:00:50",
-  "total": 33,
-  "sports_count": 12,
-  "movie_count": 21,
+  "update_time": "2026-07-25 08:00:47",
+  "total": 29,
+  "sports_count": 13,
+  "movie_count": 16,
   "all": [
     {
       "title": "詹姆斯加盟76人",
       "category": "体育",
       "sources": [
         "微博",
+        "微博",
+        "百度",
         "百度",
         "抖音",
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 18027105,
+      "hot_value": 19627275,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA&sa=fyb_news",
+        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%BA%94%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%A7%B0%E5%8A%A0%E7%9B%9F76%E4%BA%BA%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%86%B3%E5%AE%9A&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA"
       },
@@ -28,52 +30,37 @@
       "sports_rank": 1
     },
     {
+      "title": "歌手冲刺赛第一场舞台",
+      "category": "影视",
+      "sources": [
+        "抖音",
+        "抖音"
+      ],
+      "hot_value": 15378639,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E6%AD%8C%E7%8E%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "歌手冲刺赛第一场舞台"
+      ],
+      "rank": 2,
+      "movie_rank": 1
+    },
+    {
       "title": "长征三号乙火箭发射与闪电同框",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7748312,
+      "hot_value": 7818236,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%95%BF%E5%BE%81%E4%B8%89%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E4%B8%8E%E9%97%AA%E7%94%B5%E5%90%8C%E6%A1%86"
       },
       "raw_titles": [
         "长征三号乙火箭发射与闪电同框"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "歌手冲刺赛第一场舞台",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7739335,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%88%9E%E5%8F%B0"
-      },
-      "raw_titles": [
-        "歌手冲刺赛第一场舞台"
-      ],
       "rank": 3,
-      "movie_rank": 1
-    },
-    {
-      "title": "邓紫棋天津演唱会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7737708,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "邓紫棋天津演唱会"
-      ],
-      "rank": 4,
-      "movie_rank": 2
+      "sports_rank": 2
     },
     {
       "title": "周星驰说中国有好多世界第一",
@@ -81,47 +68,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7678072,
+      "hot_value": 7662464,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80"
       },
       "raw_titles": [
         "周星驰说中国有好多世界第一"
       ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "邓紫棋天津演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7659755,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "邓紫棋天津演唱会"
+      ],
       "rank": 5,
       "movie_rank": 3
-    },
-    {
-      "title": "电影痴迷观后感",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7674275,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%97%B4%E8%BF%B7%E8%A7%82%E5%90%8E%E6%84%9F"
-      },
-      "raw_titles": [
-        "电影痴迷观后感"
-      ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
-      "title": "王虹获奖后感言",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7646747,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%A5%96%E5%90%8E%E6%84%9F%E8%A8%80"
-      },
-      "raw_titles": [
-        "王虹获奖后感言"
-      ],
-      "rank": 7,
-      "movie_rank": 5
     },
     {
       "title": "脱口秀演员海宇谈高考加分上大专",
@@ -129,15 +100,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7631872,
+      "hot_value": 7625966,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%B5%B7%E5%AE%87%E8%B0%88%E9%AB%98%E8%80%83%E5%8A%A0%E5%88%86%E4%B8%8A%E5%A4%A7%E4%B8%93"
       },
       "raw_titles": [
         "脱口秀演员海宇谈高考加分上大专"
       ],
-      "rank": 8,
-      "movie_rank": 6
+      "rank": 6,
+      "movie_rank": 4
     },
     {
       "title": "knowknow王鹤棣太有节目了",
@@ -145,15 +116,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7621542,
+      "hot_value": 7419946,
       "urls": {
         "抖音": "https://www.douyin.com/search/knowknow%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%A4%AA%E6%9C%89%E8%8A%82%E7%9B%AE%E4%BA%86"
       },
       "raw_titles": [
         "knowknow王鹤棣太有节目了"
       ],
-      "rank": 9,
-      "movie_rank": 7
+      "rank": 7,
+      "movie_rank": 5
     },
     {
       "title": "儿科医生收官集聚焦看不见的真相",
@@ -161,15 +132,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7613697,
+      "hot_value": 7394826,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E6%94%B6%E5%AE%98%E9%9B%86%E8%81%9A%E7%84%A6%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E7%9C%9F%E7%9B%B8"
       },
       "raw_titles": [
         "儿科医生收官集聚焦看不见的真相"
       ],
-      "rank": 10,
-      "movie_rank": 8
+      "rank": 8,
+      "movie_rank": 6
+    },
+    {
+      "title": "19岁亚马尔宣布女友怀孕",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 925894,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=19%E5%B2%81%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%AE%A3%E5%B8%83%E5%A5%B3%E5%8F%8B%E6%80%80%E5%AD%95"
+      },
+      "raw_titles": [
+        "19岁亚马尔宣布女友怀孕"
+      ],
+      "rank": 9,
+      "sports_rank": 3
     },
     {
       "title": "蜘蛛侠崭新之日观影前必看",
@@ -177,47 +164,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 474539,
+      "hot_value": 602899,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5%E8%A7%82%E5%BD%B1%E5%89%8D%E5%BF%85%E7%9C%8B"
       },
       "raw_titles": [
         "蜘蛛侠崭新之日观影前必看"
       ],
-      "rank": 11,
-      "movie_rank": 9
-    },
-    {
-      "title": "The Shy回应复出原因",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 402850,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=The%20Shy%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%8E%9F%E5%9B%A0"
-      },
-      "raw_titles": [
-        "The Shy回应复出原因"
-      ],
-      "rank": 12,
-      "sports_rank": 3
-    },
-    {
-      "title": "亚足联为何反对世界杯扩军至64队",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 378000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%B6%B3%E8%81%94%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%AF%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%A9%E5%86%9B%E8%87%B364%E9%98%9F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "亚足联为何反对世界杯扩军至64队"
-      ],
-      "rank": 13,
-      "sports_rank": 4
+      "rank": 10,
+      "movie_rank": 7
     },
     {
       "title": "当少林足球遇上功夫女足",
@@ -225,15 +180,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 366630,
+      "hot_value": 521428,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E9%81%87%E4%B8%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
       },
       "raw_titles": [
         "当少林足球遇上功夫女足"
       ],
+      "rank": 11,
+      "movie_rank": 8
+    },
+    {
+      "title": "The Shy回应复出原因",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 460600,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=The%20Shy%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%8E%9F%E5%9B%A0"
+      },
+      "raw_titles": [
+        "The Shy回应复出原因"
+      ],
+      "rank": 12,
+      "sports_rank": 4
+    },
+    {
+      "title": "力箭一号遥十五火箭发射成功",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 371052,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%9B%E7%AE%AD%E4%B8%80%E5%8F%B7%E9%81%A5%E5%8D%81%E4%BA%94%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F"
+      },
+      "raw_titles": [
+        "力箭一号遥十五火箭发射成功"
+      ],
+      "rank": 13,
+      "sports_rank": 5
+    },
+    {
+      "title": "歌手排名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 365156,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "歌手排名"
+      ],
       "rank": 14,
-      "movie_rank": 10
+      "movie_rank": 9
     },
     {
       "title": "《歌手》第10期排名：窦靖童第一",
@@ -241,7 +244,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 315000,
+      "hot_value": 342000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC10%E6%9C%9F%E6%8E%92%E5%90%8D%EF%BC%9A%E7%AA%A6%E9%9D%96%E7%AB%A5%E7%AC%AC%E4%B8%80&sa=fyb_news"
       },
@@ -249,23 +252,7 @@
         "《歌手》第10期排名：窦靖童第一"
       ],
       "rank": 15,
-      "movie_rank": 11
-    },
-    {
-      "title": "詹姆斯年薪仅400万",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 306000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E4%BB%85400%E4%B8%87&sa=fyb_news"
-      },
-      "raw_titles": [
-        "詹姆斯年薪仅400万"
-      ],
-      "rank": 16,
-      "sports_rank": 5
+      "movie_rank": 10
     },
     {
       "title": "詹姆斯发长文",
@@ -273,15 +260,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 288711,
+      "hot_value": 340536,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8F%91%E9%95%BF%E6%96%87"
       },
       "raw_titles": [
         "詹姆斯发长文"
       ],
-      "rank": 17,
+      "rank": 16,
       "sports_rank": 6
+    },
+    {
+      "title": "亚足联为何反对世界杯扩军至64队",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 297000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%B6%B3%E8%81%94%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%AF%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%A9%E5%86%9B%E8%87%B364%E9%98%9F&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚足联为何反对世界杯扩军至64队"
+      ],
+      "rank": 17,
+      "sports_rank": 7
     },
     {
       "title": "周星驰叫迪丽热巴“巴爷”",
@@ -297,86 +300,134 @@
         "周星驰叫迪丽热巴“巴爷”"
       ],
       "rank": 18,
-      "movie_rank": 12
+      "movie_rank": 11
     },
     {
-      "title": "力箭一号遥十五火箭发射成功",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 220810,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%9B%E7%AE%AD%E4%B8%80%E5%8F%B7%E9%81%A5%E5%8D%81%E4%BA%94%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F"
-      },
-      "raw_titles": [
-        "力箭一号遥十五火箭发射成功"
-      ],
-      "rank": 19,
-      "sports_rank": 7
-    },
-    {
-      "title": "歌手排名",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 211588,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
-      },
-      "raw_titles": [
-        "歌手排名"
-      ],
-      "rank": 20,
-      "movie_rank": 13
-    },
-    {
-      "title": "山东魏桥8比3中超电缆",
+      "title": "詹姆斯降薪4862万美元",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 117000,
+      "hot_value": 270000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B1%B1%E4%B8%9C%E9%AD%8F%E6%A1%A58%E6%AF%943%E4%B8%AD%E8%B6%85%E7%94%B5%E7%BC%86&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news"
       },
       "raw_titles": [
-        "山东魏桥8比3中超电缆"
+        "詹姆斯降薪4862万美元"
       ],
-      "rank": 21,
+      "rank": 19,
       "sports_rank": 8
     },
     {
-      "title": "詹姆斯底薪",
+      "title": "詹姆斯年薪仅400万",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 261000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E4%BB%85400%E4%B8%87&sa=fyb_news"
+      },
+      "raw_titles": [
+        "詹姆斯年薪仅400万"
+      ],
+      "rank": 20,
+      "sports_rank": 9
+    },
+    {
+      "title": "火箭穿闪电一飞冲天",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 66248,
+      "hot_value": 211522,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BA%95%E8%96%AA"
+        "微博": "https://s.weibo.com/weibo?q=%E7%81%AB%E7%AE%AD%E7%A9%BF%E9%97%AA%E7%94%B5%E4%B8%80%E9%A3%9E%E5%86%B2%E5%A4%A9"
       },
       "raw_titles": [
-        "詹姆斯底薪"
+        "火箭穿闪电一飞冲天"
       ],
-      "rank": 22,
-      "sports_rank": 9
+      "rank": 21,
+      "sports_rank": 10
     },
     {
-      "title": "《歌手》串讲苏醒张远抢麦",
+      "title": "迪丽热巴腰间饰品",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 121823,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%85%B0%E9%97%B4%E9%A5%B0%E5%93%81"
+      },
+      "raw_titles": [
+        "迪丽热巴腰间饰品"
+      ],
+      "rank": 22,
+      "movie_rank": 12
+    },
+    {
+      "title": "詹姆斯年薪在76人排第7",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 121808,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E5%9C%A876%E4%BA%BA%E6%8E%92%E7%AC%AC7"
+      },
+      "raw_titles": [
+        "詹姆斯年薪在76人排第7"
+      ],
+      "rank": 23,
+      "sports_rank": 11
+    },
+    {
+      "title": "李天阳先后硬刚王楚钦林诗栋",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 99363,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A4%A9%E9%98%B3%E5%85%88%E5%90%8E%E7%A1%AC%E5%88%9A%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E8%AF%97%E6%A0%8B"
+      },
+      "raw_titles": [
+        "李天阳先后硬刚王楚钦林诗栋"
+      ],
+      "rank": 24,
+      "sports_rank": 12
+    },
+    {
+      "title": "荷兰弟回忆成龙探班趣事",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 63000,
+      "hot_value": 81000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E4%B8%B2%E8%AE%B2%E8%8B%8F%E9%86%92%E5%BC%A0%E8%BF%9C%E6%8A%A2%E9%BA%A6&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%9B%9E%E5%BF%86%E6%88%90%E9%BE%99%E6%8E%A2%E7%8F%AD%E8%B6%A3%E4%BA%8B&sa=fyb_news"
       },
       "raw_titles": [
-        "《歌手》串讲苏醒张远抢麦"
+        "荷兰弟回忆成龙探班趣事"
       ],
-      "rank": 23,
+      "rank": 25,
+      "movie_rank": 13
+    },
+    {
+      "title": "张凌赫演的生理性面部抽搐",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 64920,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%BC%94%E7%9A%84%E7%94%9F%E7%90%86%E6%80%A7%E9%9D%A2%E9%83%A8%E6%8A%BD%E6%90%90"
+      },
+      "raw_titles": [
+        "张凌赫演的生理性面部抽搐"
+      ],
+      "rank": 26,
       "movie_rank": 14
     },
     {
@@ -385,15 +436,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 61985,
+      "hot_value": 63246,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=76%E4%BA%BA%E9%98%B5%E5%AE%B9"
       },
       "raw_titles": [
         "76人阵容"
       ],
-      "rank": 24,
-      "sports_rank": 10
+      "rank": 27,
+      "sports_rank": 13
     },
     {
       "title": "年会不能停2口碑",
@@ -401,127 +452,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 57609,
+      "hot_value": 62268,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C2%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "年会不能停2口碑"
       ],
-      "rank": 25,
-      "movie_rank": 15
-    },
-    {
-      "title": "张凌赫演的生理性面部抽搐",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57409,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%BC%94%E7%9A%84%E7%94%9F%E7%90%86%E6%80%A7%E9%9D%A2%E9%83%A8%E6%8A%BD%E6%90%90"
-      },
-      "raw_titles": [
-        "张凌赫演的生理性面部抽搐"
-      ],
-      "rank": 26,
-      "movie_rank": 16
-    },
-    {
-      "title": "耳帝评价歌手",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57300,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D%E8%AF%84%E4%BB%B7%E6%AD%8C%E6%89%8B"
-      },
-      "raw_titles": [
-        "耳帝评价歌手"
-      ],
-      "rank": 27,
-      "movie_rank": 17
-    },
-    {
-      "title": "张凌赫王楚然回复那英",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57261,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%9B%9E%E5%A4%8D%E9%82%A3%E8%8B%B1"
-      },
-      "raw_titles": [
-        "张凌赫王楚然回复那英"
-      ],
       "rank": 28,
-      "movie_rank": 18
-    },
-    {
-      "title": "歌手 孙楠",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57203,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20%E5%AD%99%E6%A5%A0"
-      },
-      "raw_titles": [
-        "歌手 孙楠"
-      ],
-      "rank": 29,
-      "movie_rank": 19
-    },
-    {
-      "title": "孙颖莎俱乐部回应伤情",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57174,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%A4%E6%83%85"
-      },
-      "raw_titles": [
-        "孙颖莎俱乐部回应伤情"
-      ],
-      "rank": 30,
-      "sports_rank": 11
-    },
-    {
-      "title": "薛之谦演唱会",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57141,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "薛之谦演唱会"
-      ],
-      "rank": 31,
-      "movie_rank": 20
-    },
-    {
-      "title": "孙颖莎说我们国乒是一个整体",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57084,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%88%91%E4%BB%AC%E5%9B%BD%E4%B9%92%E6%98%AF%E4%B8%80%E4%B8%AA%E6%95%B4%E4%BD%93"
-      },
-      "raw_titles": [
-        "孙颖莎说我们国乒是一个整体"
-      ],
-      "rank": 32,
-      "sports_rank": 12
+      "movie_rank": 15
     },
     {
       "title": "暑期档剧集开分 《这一秒过火》垫底",
@@ -536,8 +475,8 @@
       "raw_titles": [
         "暑期档剧集开分 《这一秒过火》垫底"
       ],
-      "rank": 33,
-      "movie_rank": 21
+      "rank": 29,
+      "movie_rank": 16
     }
   ],
   "sports": [
@@ -546,15 +485,17 @@
       "category": "体育",
       "sources": [
         "微博",
+        "微博",
+        "百度",
         "百度",
         "抖音",
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 18027105,
+      "hot_value": 19627275,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA&sa=fyb_news",
+        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%BA%94%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%A7%B0%E5%8A%A0%E7%9B%9F76%E4%BA%BA%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%86%B3%E5%AE%9A&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA"
       },
@@ -570,15 +511,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7748312,
+      "hot_value": 7818236,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%95%BF%E5%BE%81%E4%B8%89%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E4%B8%8E%E9%97%AA%E7%94%B5%E5%90%8C%E6%A1%86"
       },
       "raw_titles": [
         "长征三号乙火箭发射与闪电同框"
       ],
-      "rank": 2,
+      "rank": 3,
       "sports_rank": 2
+    },
+    {
+      "title": "19岁亚马尔宣布女友怀孕",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 925894,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=19%E5%B2%81%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%AE%A3%E5%B8%83%E5%A5%B3%E5%8F%8B%E6%80%80%E5%AD%95"
+      },
+      "raw_titles": [
+        "19岁亚马尔宣布女友怀孕"
+      ],
+      "rank": 9,
+      "sports_rank": 3
     },
     {
       "title": "The Shy回应复出原因",
@@ -586,7 +543,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 402850,
+      "hot_value": 460600,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=The%20Shy%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%8E%9F%E5%9B%A0"
       },
@@ -594,38 +551,22 @@
         "The Shy回应复出原因"
       ],
       "rank": 12,
-      "sports_rank": 3
-    },
-    {
-      "title": "亚足联为何反对世界杯扩军至64队",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 378000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%B6%B3%E8%81%94%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%AF%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%A9%E5%86%9B%E8%87%B364%E9%98%9F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "亚足联为何反对世界杯扩军至64队"
-      ],
-      "rank": 13,
       "sports_rank": 4
     },
     {
-      "title": "詹姆斯年薪仅400万",
+      "title": "力箭一号遥十五火箭发射成功",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 306000,
+      "hot_value": 371052,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E4%BB%85400%E4%B8%87&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%9B%E7%AE%AD%E4%B8%80%E5%8F%B7%E9%81%A5%E5%8D%81%E4%BA%94%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F"
       },
       "raw_titles": [
-        "詹姆斯年薪仅400万"
+        "力箭一号遥十五火箭发射成功"
       ],
-      "rank": 16,
+      "rank": 13,
       "sports_rank": 5
     },
     {
@@ -634,63 +575,111 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 288711,
+      "hot_value": 340536,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8F%91%E9%95%BF%E6%96%87"
       },
       "raw_titles": [
         "詹姆斯发长文"
       ],
-      "rank": 17,
+      "rank": 16,
       "sports_rank": 6
     },
     {
-      "title": "力箭一号遥十五火箭发射成功",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 220810,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%9B%E7%AE%AD%E4%B8%80%E5%8F%B7%E9%81%A5%E5%8D%81%E4%BA%94%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F"
-      },
-      "raw_titles": [
-        "力箭一号遥十五火箭发射成功"
-      ],
-      "rank": 19,
-      "sports_rank": 7
-    },
-    {
-      "title": "山东魏桥8比3中超电缆",
+      "title": "亚足联为何反对世界杯扩军至64队",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 117000,
+      "hot_value": 297000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B1%B1%E4%B8%9C%E9%AD%8F%E6%A1%A58%E6%AF%943%E4%B8%AD%E8%B6%85%E7%94%B5%E7%BC%86&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%B6%B3%E8%81%94%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%AF%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%A9%E5%86%9B%E8%87%B364%E9%98%9F&sa=fyb_news"
       },
       "raw_titles": [
-        "山东魏桥8比3中超电缆"
+        "亚足联为何反对世界杯扩军至64队"
       ],
-      "rank": 21,
+      "rank": 17,
+      "sports_rank": 7
+    },
+    {
+      "title": "詹姆斯降薪4862万美元",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 270000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "詹姆斯降薪4862万美元"
+      ],
+      "rank": 19,
       "sports_rank": 8
     },
     {
-      "title": "詹姆斯底薪",
+      "title": "詹姆斯年薪仅400万",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 261000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E4%BB%85400%E4%B8%87&sa=fyb_news"
+      },
+      "raw_titles": [
+        "詹姆斯年薪仅400万"
+      ],
+      "rank": 20,
+      "sports_rank": 9
+    },
+    {
+      "title": "火箭穿闪电一飞冲天",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 66248,
+      "hot_value": 211522,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BA%95%E8%96%AA"
+        "微博": "https://s.weibo.com/weibo?q=%E7%81%AB%E7%AE%AD%E7%A9%BF%E9%97%AA%E7%94%B5%E4%B8%80%E9%A3%9E%E5%86%B2%E5%A4%A9"
       },
       "raw_titles": [
-        "詹姆斯底薪"
+        "火箭穿闪电一飞冲天"
       ],
-      "rank": 22,
-      "sports_rank": 9
+      "rank": 21,
+      "sports_rank": 10
+    },
+    {
+      "title": "詹姆斯年薪在76人排第7",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 121808,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E5%9C%A876%E4%BA%BA%E6%8E%92%E7%AC%AC7"
+      },
+      "raw_titles": [
+        "詹姆斯年薪在76人排第7"
+      ],
+      "rank": 23,
+      "sports_rank": 11
+    },
+    {
+      "title": "李天阳先后硬刚王楚钦林诗栋",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 99363,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A4%A9%E9%98%B3%E5%85%88%E5%90%8E%E7%A1%AC%E5%88%9A%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E8%AF%97%E6%A0%8B"
+      },
+      "raw_titles": [
+        "李天阳先后硬刚王楚钦林诗栋"
+      ],
+      "rank": 24,
+      "sports_rank": 12
     },
     {
       "title": "76人阵容",
@@ -698,47 +687,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 61985,
+      "hot_value": 63246,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=76%E4%BA%BA%E9%98%B5%E5%AE%B9"
       },
       "raw_titles": [
         "76人阵容"
       ],
-      "rank": 24,
-      "sports_rank": 10
-    },
-    {
-      "title": "孙颖莎俱乐部回应伤情",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57174,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%A4%E6%83%85"
-      },
-      "raw_titles": [
-        "孙颖莎俱乐部回应伤情"
-      ],
-      "rank": 30,
-      "sports_rank": 11
-    },
-    {
-      "title": "孙颖莎说我们国乒是一个整体",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57084,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%88%91%E4%BB%AC%E5%9B%BD%E4%B9%92%E6%98%AF%E4%B8%80%E4%B8%AA%E6%95%B4%E4%BD%93"
-      },
-      "raw_titles": [
-        "孙颖莎说我们国乒是一个整体"
-      ],
-      "rank": 32,
-      "sports_rank": 12
+      "rank": 27,
+      "sports_rank": 13
     }
   ],
   "movies": [
@@ -746,33 +703,18 @@
       "title": "歌手冲刺赛第一场舞台",
       "category": "影视",
       "sources": [
+        "抖音",
         "抖音"
       ],
-      "hot_value": 7739335,
+      "hot_value": 15378639,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%88%9E%E5%8F%B0"
+        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E6%AD%8C%E7%8E%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
         "歌手冲刺赛第一场舞台"
       ],
-      "rank": 3,
+      "rank": 2,
       "movie_rank": 1
-    },
-    {
-      "title": "邓紫棋天津演唱会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7737708,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "邓紫棋天津演唱会"
-      ],
-      "rank": 4,
-      "movie_rank": 2
     },
     {
       "title": "周星驰说中国有好多世界第一",
@@ -780,47 +722,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7678072,
+      "hot_value": 7662464,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80"
       },
       "raw_titles": [
         "周星驰说中国有好多世界第一"
       ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "邓紫棋天津演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7659755,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "邓紫棋天津演唱会"
+      ],
       "rank": 5,
       "movie_rank": 3
-    },
-    {
-      "title": "电影痴迷观后感",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7674275,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%97%B4%E8%BF%B7%E8%A7%82%E5%90%8E%E6%84%9F"
-      },
-      "raw_titles": [
-        "电影痴迷观后感"
-      ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
-      "title": "王虹获奖后感言",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7646747,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%A5%96%E5%90%8E%E6%84%9F%E8%A8%80"
-      },
-      "raw_titles": [
-        "王虹获奖后感言"
-      ],
-      "rank": 7,
-      "movie_rank": 5
     },
     {
       "title": "脱口秀演员海宇谈高考加分上大专",
@@ -828,15 +754,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7631872,
+      "hot_value": 7625966,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%B5%B7%E5%AE%87%E8%B0%88%E9%AB%98%E8%80%83%E5%8A%A0%E5%88%86%E4%B8%8A%E5%A4%A7%E4%B8%93"
       },
       "raw_titles": [
         "脱口秀演员海宇谈高考加分上大专"
       ],
-      "rank": 8,
-      "movie_rank": 6
+      "rank": 6,
+      "movie_rank": 4
     },
     {
       "title": "knowknow王鹤棣太有节目了",
@@ -844,15 +770,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7621542,
+      "hot_value": 7419946,
       "urls": {
         "抖音": "https://www.douyin.com/search/knowknow%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%A4%AA%E6%9C%89%E8%8A%82%E7%9B%AE%E4%BA%86"
       },
       "raw_titles": [
         "knowknow王鹤棣太有节目了"
       ],
-      "rank": 9,
-      "movie_rank": 7
+      "rank": 7,
+      "movie_rank": 5
     },
     {
       "title": "儿科医生收官集聚焦看不见的真相",
@@ -860,15 +786,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7613697,
+      "hot_value": 7394826,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E6%94%B6%E5%AE%98%E9%9B%86%E8%81%9A%E7%84%A6%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E7%9C%9F%E7%9B%B8"
       },
       "raw_titles": [
         "儿科医生收官集聚焦看不见的真相"
       ],
-      "rank": 10,
-      "movie_rank": 8
+      "rank": 8,
+      "movie_rank": 6
     },
     {
       "title": "蜘蛛侠崭新之日观影前必看",
@@ -876,15 +802,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 474539,
+      "hot_value": 602899,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5%E8%A7%82%E5%BD%B1%E5%89%8D%E5%BF%85%E7%9C%8B"
       },
       "raw_titles": [
         "蜘蛛侠崭新之日观影前必看"
       ],
-      "rank": 11,
-      "movie_rank": 9
+      "rank": 10,
+      "movie_rank": 7
     },
     {
       "title": "当少林足球遇上功夫女足",
@@ -892,15 +818,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 366630,
+      "hot_value": 521428,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E9%81%87%E4%B8%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
       },
       "raw_titles": [
         "当少林足球遇上功夫女足"
       ],
+      "rank": 11,
+      "movie_rank": 8
+    },
+    {
+      "title": "歌手排名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 365156,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
+      },
+      "raw_titles": [
+        "歌手排名"
+      ],
       "rank": 14,
-      "movie_rank": 10
+      "movie_rank": 9
     },
     {
       "title": "《歌手》第10期排名：窦靖童第一",
@@ -908,7 +850,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 315000,
+      "hot_value": 342000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC10%E6%9C%9F%E6%8E%92%E5%90%8D%EF%BC%9A%E7%AA%A6%E9%9D%96%E7%AB%A5%E7%AC%AC%E4%B8%80&sa=fyb_news"
       },
@@ -916,7 +858,7 @@
         "《歌手》第10期排名：窦靖童第一"
       ],
       "rank": 15,
-      "movie_rank": 11
+      "movie_rank": 10
     },
     {
       "title": "周星驰叫迪丽热巴“巴爷”",
@@ -932,38 +874,54 @@
         "周星驰叫迪丽热巴“巴爷”"
       ],
       "rank": 18,
-      "movie_rank": 12
+      "movie_rank": 11
     },
     {
-      "title": "歌手排名",
+      "title": "迪丽热巴腰间饰品",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 211588,
+      "hot_value": 121823,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%85%B0%E9%97%B4%E9%A5%B0%E5%93%81"
       },
       "raw_titles": [
-        "歌手排名"
+        "迪丽热巴腰间饰品"
       ],
-      "rank": 20,
-      "movie_rank": 13
+      "rank": 22,
+      "movie_rank": 12
     },
     {
-      "title": "《歌手》串讲苏醒张远抢麦",
+      "title": "荷兰弟回忆成龙探班趣事",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 63000,
+      "hot_value": 81000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E4%B8%B2%E8%AE%B2%E8%8B%8F%E9%86%92%E5%BC%A0%E8%BF%9C%E6%8A%A2%E9%BA%A6&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%9B%9E%E5%BF%86%E6%88%90%E9%BE%99%E6%8E%A2%E7%8F%AD%E8%B6%A3%E4%BA%8B&sa=fyb_news"
       },
       "raw_titles": [
-        "《歌手》串讲苏醒张远抢麦"
+        "荷兰弟回忆成龙探班趣事"
       ],
-      "rank": 23,
+      "rank": 25,
+      "movie_rank": 13
+    },
+    {
+      "title": "张凌赫演的生理性面部抽搐",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 64920,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%BC%94%E7%9A%84%E7%94%9F%E7%90%86%E6%80%A7%E9%9D%A2%E9%83%A8%E6%8A%BD%E6%90%90"
+      },
+      "raw_titles": [
+        "张凌赫演的生理性面部抽搐"
+      ],
+      "rank": 26,
       "movie_rank": 14
     },
     {
@@ -972,95 +930,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 57609,
+      "hot_value": 62268,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C2%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "年会不能停2口碑"
       ],
-      "rank": 25,
-      "movie_rank": 15
-    },
-    {
-      "title": "张凌赫演的生理性面部抽搐",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57409,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%BC%94%E7%9A%84%E7%94%9F%E7%90%86%E6%80%A7%E9%9D%A2%E9%83%A8%E6%8A%BD%E6%90%90"
-      },
-      "raw_titles": [
-        "张凌赫演的生理性面部抽搐"
-      ],
-      "rank": 26,
-      "movie_rank": 16
-    },
-    {
-      "title": "耳帝评价歌手",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57300,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D%E8%AF%84%E4%BB%B7%E6%AD%8C%E6%89%8B"
-      },
-      "raw_titles": [
-        "耳帝评价歌手"
-      ],
-      "rank": 27,
-      "movie_rank": 17
-    },
-    {
-      "title": "张凌赫王楚然回复那英",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57261,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%9B%9E%E5%A4%8D%E9%82%A3%E8%8B%B1"
-      },
-      "raw_titles": [
-        "张凌赫王楚然回复那英"
-      ],
       "rank": 28,
-      "movie_rank": 18
-    },
-    {
-      "title": "歌手 孙楠",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57203,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20%E5%AD%99%E6%A5%A0"
-      },
-      "raw_titles": [
-        "歌手 孙楠"
-      ],
-      "rank": 29,
-      "movie_rank": 19
-    },
-    {
-      "title": "薛之谦演唱会",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 57141,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "薛之谦演唱会"
-      ],
-      "rank": 31,
-      "movie_rank": 20
+      "movie_rank": 15
     },
     {
       "title": "暑期档剧集开分 《这一秒过火》垫底",
@@ -1075,8 +953,8 @@
       "raw_titles": [
         "暑期档剧集开分 《这一秒过火》垫底"
       ],
-      "rank": 33,
-      "movie_rank": 21
+      "rank": 29,
+      "movie_rank": 16
     }
   ]
 }
