@@ -1,46 +1,28 @@
 {
-  "update_time": "2026-07-25 13:00:46",
-  "total": 27,
-  "sports_count": 8,
-  "movie_count": 19,
+  "update_time": "2026-07-25 14:00:52",
+  "total": 29,
+  "sports_count": 12,
+  "movie_count": 18,
   "all": [
     {
-      "title": "詹姆斯加盟76人",
+      "title": "杰伦布朗回应詹姆斯加盟76人",
       "category": "体育",
       "sources": [
         "微博",
         "抖音",
-        "抖音",
-        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 22212782,
+      "hot_value": 12021989,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
-        "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F%E7%9A%8476%E4%BA%BA%E9%98%B5%E5%AE%B9%E7%A7%91%E6%99%AE",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E5%9B%9E%E5%BA%94%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
+        "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA"
       },
       "raw_titles": [
-        "詹姆斯加盟76人"
+        "杰伦布朗回应詹姆斯加盟76人"
       ],
       "rank": 1,
       "sports_rank": 1
-    },
-    {
-      "title": "詹姆斯为何降薪超4千万",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 10246636,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BD%95%E9%99%8D%E8%96%AA%E8%B6%854%E5%8D%83%E4%B8%87"
-      },
-      "raw_titles": [
-        "詹姆斯为何降薪超4千万"
-      ],
-      "rank": 2,
-      "sports_rank": 2
     },
     {
       "title": "歌手冲刺赛第一场舞台",
@@ -48,15 +30,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7751250,
+      "hot_value": 7758620,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "歌手冲刺赛第一场舞台"
       ],
-      "rank": 3,
+      "rank": 2,
       "movie_rank": 1
+    },
+    {
+      "title": "詹姆斯加盟的76人阵容科普",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7754083,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F%E7%9A%8476%E4%BA%BA%E9%98%B5%E5%AE%B9%E7%A7%91%E6%99%AE"
+      },
+      "raw_titles": [
+        "詹姆斯加盟的76人阵容科普"
+      ],
+      "rank": 3,
+      "sports_rank": 2
     },
     {
       "title": "温兆伦力挺功夫女足",
@@ -64,7 +62,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7699127,
+      "hot_value": 7743092,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B8%A9%E5%85%86%E4%BC%A6%E5%8A%9B%E6%8C%BA%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
       },
@@ -80,7 +78,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7689537,
+      "hot_value": 7692682,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%A1%82%E6%9E%97%E4%B8%AD%E5%AD%A6%E7%A5%9D%E8%B4%BA%E6%A0%A1%E5%8F%8B%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%A5%96"
       },
@@ -91,51 +89,35 @@
       "movie_rank": 3
     },
     {
-      "title": "脱口秀演员海宇谈高考加分上大专",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7645048,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%B5%B7%E5%AE%87%E8%B0%88%E9%AB%98%E8%80%83%E5%8A%A0%E5%88%86%E4%B8%8A%E5%A4%A7%E4%B8%93"
-      },
-      "raw_titles": [
-        "脱口秀演员海宇谈高考加分上大专"
-      ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
       "title": "张拿铁配音汪汪队大电影3",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7633668,
+      "hot_value": 7640306,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%A0%E6%8B%BF%E9%93%81%E9%85%8D%E9%9F%B3%E6%B1%AA%E6%B1%AA%E9%98%9F%E5%A4%A7%E7%94%B5%E5%BD%B13"
       },
       "raw_titles": [
         "张拿铁配音汪汪队大电影3"
       ],
-      "rank": 7,
-      "movie_rank": 5
+      "rank": 6,
+      "movie_rank": 4
     },
     {
-      "title": "76人新赛季能走多远",
+      "title": "詹姆斯为何降薪超4千万",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 4045600,
+      "hot_value": 6463299,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=76%E4%BA%BA%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BD%95%E9%99%8D%E8%96%AA%E8%B6%854%E5%8D%83%E4%B8%87"
       },
       "raw_titles": [
-        "76人新赛季能走多远"
+        "詹姆斯为何降薪超4千万"
       ],
-      "rank": 8,
+      "rank": 7,
       "sports_rank": 3
     },
     {
@@ -144,34 +126,67 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 3786677,
+      "hot_value": 2615272,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A8%80%E8%AE%BA%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
         "旭旭宝宝周星驰言论为何引争议"
       ],
-      "rank": 9,
-      "movie_rank": 6
+      "rank": 8,
+      "movie_rank": 5
     },
     {
-      "title": "王楚钦vs张煜东",
+      "title": "王楚钦1比2张煜东",
       "category": "体育",
       "sources": [
         "微博",
+        "微博"
+      ],
+      "hot_value": 2183741,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E7%85%9C%E4%B8%9C"
+      },
+      "raw_titles": [
+        "王楚钦1比2张煜东"
+      ],
+      "rank": 9,
+      "sports_rank": 4
+    },
+    {
+      "title": "王楚钦爆冷不敌张煜东",
+      "category": "综合",
+      "sources": [
         "微博",
         "百度"
       ],
-      "hot_value": 3240451,
+      "hot_value": 1606699,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A61%E6%AF%942%E5%BC%A0%E7%85%9C%E4%B8%9C",
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E5%BC%A0%E7%85%9C%E4%B8%9C",
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E5%BC%A0%E7%85%9C%E4%B8%9C&sa=fyb_news"
       },
       "raw_titles": [
-        "王楚钦vs张煜东"
+        "王楚钦爆冷不敌张煜东"
       ],
       "rank": 10,
-      "sports_rank": 4
+      "sports_rank": 5,
+      "movie_rank": 6
+    },
+    {
+      "title": "76人新赛季能走多远",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1518602,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=76%E4%BA%BA%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
+      },
+      "raw_titles": [
+        "76人新赛季能走多远"
+      ],
+      "rank": 11,
+      "sports_rank": 6
     },
     {
       "title": "锐评小蜜蜂爆冷不敌液体",
@@ -179,15 +194,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1929512,
+      "hot_value": 1419667,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%B0%8F%E8%9C%9C%E8%9C%82%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B6%B2%E4%BD%93"
       },
       "raw_titles": [
         "锐评小蜜蜂爆冷不敌液体"
       ],
-      "rank": 11,
+      "rank": 12,
       "movie_rank": 7
+    },
+    {
+      "title": "徐静雨评詹姆斯加盟76人",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1301068,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA"
+      },
+      "raw_titles": [
+        "徐静雨评詹姆斯加盟76人"
+      ],
+      "rank": 13,
+      "sports_rank": 7
     },
     {
       "title": "歌手第十期reaction",
@@ -195,47 +226,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1748854,
+      "hot_value": 878340,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B%E7%AC%AC%E5%8D%81%E6%9C%9Freaction"
       },
       "raw_titles": [
         "歌手第十期reaction"
       ],
-      "rank": 12,
-      "movie_rank": 8
-    },
-    {
-      "title": "歌手2026真有人配拿歌王吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1640869,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B2026%E7%9C%9F%E6%9C%89%E4%BA%BA%E9%85%8D%E6%8B%BF%E6%AD%8C%E7%8E%8B%E5%90%97"
-      },
-      "raw_titles": [
-        "歌手2026真有人配拿歌王吗"
-      ],
-      "rank": 13,
-      "movie_rank": 9
-    },
-    {
-      "title": "游戏CG导演自制三角洲AI电影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1061902,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8FCG%E5%AF%BC%E6%BC%94%E8%87%AA%E5%88%B6%E4%B8%89%E8%A7%92%E6%B4%B2AI%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "游戏CG导演自制三角洲AI电影"
-      ],
       "rank": 14,
-      "movie_rank": 10
+      "movie_rank": 8
     },
     {
       "title": "The Shy回应复出原因",
@@ -243,7 +242,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 989270,
+      "hot_value": 832923,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=The%20Shy%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%8E%9F%E5%9B%A0"
       },
@@ -251,7 +250,7 @@
         "The Shy回应复出原因"
       ],
       "rank": 15,
-      "sports_rank": 5
+      "sports_rank": 8
     },
     {
       "title": "蜘蛛侠中国独家海报",
@@ -259,7 +258,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 931633,
+      "hot_value": 801765,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A0%E4%B8%AD%E5%9B%BD%E7%8B%AC%E5%AE%B6%E6%B5%B7%E6%8A%A5"
       },
@@ -267,25 +266,39 @@
         "蜘蛛侠中国独家海报"
       ],
       "rank": 16,
-      "movie_rank": 11
+      "movie_rank": 9
     },
     {
-      "title": "詹姆斯疯狂降薪4875万",
+      "title": "盘点世界杯后身价上涨的球员",
       "category": "体育",
       "sources": [
-        "微博",
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 495159,
+      "hot_value": 765651,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%96%AF%E7%8B%82%E9%99%8D%E8%96%AA4875%E4%B8%87",
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8E%E8%BA%AB%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%90%83%E5%91%98"
       },
       "raw_titles": [
-        "詹姆斯疯狂降薪4875万"
+        "盘点世界杯后身价上涨的球员"
       ],
       "rank": 17,
-      "sports_rank": 6
+      "sports_rank": 9
+    },
+    {
+      "title": "歌手2026真有人配拿歌王吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 726198,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B2026%E7%9C%9F%E6%9C%89%E4%BA%BA%E9%85%8D%E6%8B%BF%E6%AD%8C%E7%8E%8B%E5%90%97"
+      },
+      "raw_titles": [
+        "歌手2026真有人配拿歌王吗"
+      ],
+      "rank": 18,
+      "movie_rank": 10
     },
     {
       "title": "特朗普称詹姆斯是种族主义者",
@@ -294,7 +307,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 399562,
+      "hot_value": 567587,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85",
         "百度": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85&sa=fyb_news"
@@ -302,88 +315,42 @@
       "raw_titles": [
         "特朗普称詹姆斯是种族主义者"
       ],
-      "rank": 18,
-      "sports_rank": 7
-    },
-    {
-      "title": "胡彦斌问这是王源自己写的吗",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 368963,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E9%97%AE%E8%BF%99%E6%98%AF%E7%8E%8B%E6%BA%90%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E5%90%97"
-      },
-      "raw_titles": [
-        "胡彦斌问这是王源自己写的吗"
-      ],
       "rank": 19,
-      "movie_rank": 12
+      "sports_rank": 10
     },
     {
-      "title": "与肖战尽享这一刻",
-      "category": "影视",
+      "title": "詹姆斯疯狂降薪4875万",
+      "category": "体育",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 229505,
+      "hot_value": 456985,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%8E%E8%82%96%E6%88%98%E5%B0%BD%E4%BA%AB%E8%BF%99%E4%B8%80%E5%88%BB"
+        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%96%AF%E7%8B%82%E9%99%8D%E8%96%AA4875%E4%B8%87",
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news"
       },
       "raw_titles": [
-        "与肖战尽享这一刻"
+        "詹姆斯疯狂降薪4875万"
       ],
       "rank": 20,
-      "movie_rank": 13
+      "sports_rank": 11
     },
     {
-      "title": "凡人修仙传",
+      "title": "王一博排位赛结束",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 168411,
+      "hot_value": 290743,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8E%92%E4%BD%8D%E8%B5%9B%E7%BB%93%E6%9D%9F"
       },
       "raw_titles": [
-        "凡人修仙传"
+        "王一博排位赛结束"
       ],
       "rank": 21,
-      "movie_rank": 14
-    },
-    {
-      "title": "王一博刷新昨天的个人最快圈速",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 167126,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%88%B7%E6%96%B0%E6%98%A8%E5%A4%A9%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%BF%AB%E5%9C%88%E9%80%9F"
-      },
-      "raw_titles": [
-        "王一博刷新昨天的个人最快圈速"
-      ],
-      "rank": 22,
-      "movie_rank": 15
-    },
-    {
-      "title": "张凌赫王楚然秒火今晚圆房",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 154561,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%A7%92%E7%81%AB%E4%BB%8A%E6%99%9A%E5%9C%86%E6%88%BF"
-      },
-      "raw_titles": [
-        "张凌赫王楚然秒火今晚圆房"
-      ],
-      "rank": 23,
-      "movie_rank": 16
+      "movie_rank": 11
     },
     {
       "title": "《功夫女足》票房流失超4亿？片方回应",
@@ -391,31 +358,95 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 153000,
+      "hot_value": 279000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E6%B5%81%E5%A4%B1%E8%B6%854%E4%BA%BF%EF%BC%9F%E7%89%87%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news"
       },
       "raw_titles": [
         "《功夫女足》票房流失超4亿？片方回应"
       ],
-      "rank": 24,
-      "movie_rank": 17
+      "rank": 22,
+      "movie_rank": 12
     },
     {
-      "title": "王源雪崩口碑",
+      "title": "凡人修仙传",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 145754,
+      "hot_value": 249957,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E9%9B%AA%E5%B4%A9%E5%8F%A3%E7%A2%91"
+        "微博": "https://s.weibo.com/weibo?q=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0"
       },
       "raw_titles": [
-        "王源雪崩口碑"
+        "凡人修仙传"
+      ],
+      "rank": 23,
+      "movie_rank": 13
+    },
+    {
+      "title": "张凌赫三年前也是这么守护宫子羽的",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 249716,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%89%E5%B9%B4%E5%89%8D%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%AE%88%E6%8A%A4%E5%AE%AB%E5%AD%90%E7%BE%BD%E7%9A%84"
+      },
+      "raw_titles": [
+        "张凌赫三年前也是这么守护宫子羽的"
+      ],
+      "rank": 24,
+      "movie_rank": 14
+    },
+    {
+      "title": "胡彦斌问这是王源自己写的吗",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 223945,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E9%97%AE%E8%BF%99%E6%98%AF%E7%8E%8B%E6%BA%90%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E5%90%97"
+      },
+      "raw_titles": [
+        "胡彦斌问这是王源自己写的吗"
       ],
       "rank": 25,
-      "movie_rank": 18
+      "movie_rank": 15
+    },
+    {
+      "title": "周深这就不用工作留痕了吧",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 190651,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E8%BF%99%E5%B0%B1%E4%B8%8D%E7%94%A8%E5%B7%A5%E4%BD%9C%E7%95%99%E7%97%95%E4%BA%86%E5%90%A7"
+      },
+      "raw_titles": [
+        "周深这就不用工作留痕了吧"
+      ],
+      "rank": 26,
+      "movie_rank": 16
+    },
+    {
+      "title": "张凌赫王楚然秒火今晚圆房",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 147258,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%A7%92%E7%81%AB%E4%BB%8A%E6%99%9A%E5%9C%86%E6%88%BF"
+      },
+      "raw_titles": [
+        "张凌赫王楚然秒火今晚圆房"
+      ],
+      "rank": 27,
+      "movie_rank": 17
     },
     {
       "title": "76人队友乐疯了",
@@ -423,15 +454,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 90000,
+      "hot_value": 108000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=76%E4%BA%BA%E9%98%9F%E5%8F%8B%E4%B9%90%E7%96%AF%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "76人队友乐疯了"
       ],
-      "rank": 26,
-      "sports_rank": 8
+      "rank": 28,
+      "sports_rank": 12
     },
     {
       "title": "暑期档剧集开分 《这一秒过火》垫底",
@@ -446,32 +477,46 @@
       "raw_titles": [
         "暑期档剧集开分 《这一秒过火》垫底"
       ],
-      "rank": 27,
-      "movie_rank": 19
+      "rank": 29,
+      "movie_rank": 18
     }
   ],
   "sports": [
     {
-      "title": "詹姆斯加盟76人",
+      "title": "杰伦布朗回应詹姆斯加盟76人",
       "category": "体育",
       "sources": [
         "微博",
         "抖音",
-        "抖音",
-        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 22212782,
+      "hot_value": 12021989,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
-        "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F%E7%9A%8476%E4%BA%BA%E9%98%B5%E5%AE%B9%E7%A7%91%E6%99%AE",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E5%9B%9E%E5%BA%94%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
+        "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%9B%9F76%E4%BA%BA",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA"
       },
       "raw_titles": [
-        "詹姆斯加盟76人"
+        "杰伦布朗回应詹姆斯加盟76人"
       ],
       "rank": 1,
       "sports_rank": 1
+    },
+    {
+      "title": "詹姆斯加盟的76人阵容科普",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7754083,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F%E7%9A%8476%E4%BA%BA%E9%98%B5%E5%AE%B9%E7%A7%91%E6%99%AE"
+      },
+      "raw_titles": [
+        "詹姆斯加盟的76人阵容科普"
+      ],
+      "rank": 3,
+      "sports_rank": 2
     },
     {
       "title": "詹姆斯为何降薪超4千万",
@@ -479,15 +524,51 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 10246636,
+      "hot_value": 6463299,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BD%95%E9%99%8D%E8%96%AA%E8%B6%854%E5%8D%83%E4%B8%87"
       },
       "raw_titles": [
         "詹姆斯为何降薪超4千万"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 7,
+      "sports_rank": 3
+    },
+    {
+      "title": "王楚钦1比2张煜东",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 2183741,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E7%85%9C%E4%B8%9C"
+      },
+      "raw_titles": [
+        "王楚钦1比2张煜东"
+      ],
+      "rank": 9,
+      "sports_rank": 4
+    },
+    {
+      "title": "王楚钦爆冷不敌张煜东",
+      "category": "综合",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 1606699,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E5%BC%A0%E7%85%9C%E4%B8%9C",
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E5%BC%A0%E7%85%9C%E4%B8%9C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王楚钦爆冷不敌张煜东"
+      ],
+      "rank": 10,
+      "sports_rank": 5,
+      "movie_rank": 6
     },
     {
       "title": "76人新赛季能走多远",
@@ -495,34 +576,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 4045600,
+      "hot_value": 1518602,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=76%E4%BA%BA%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
       },
       "raw_titles": [
         "76人新赛季能走多远"
       ],
-      "rank": 8,
-      "sports_rank": 3
+      "rank": 11,
+      "sports_rank": 6
     },
     {
-      "title": "王楚钦vs张煜东",
+      "title": "徐静雨评詹姆斯加盟76人",
       "category": "体育",
       "sources": [
-        "微博",
-        "微博",
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 3240451,
+      "hot_value": 1301068,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A61%E6%AF%942%E5%BC%A0%E7%85%9C%E4%B8%9C",
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E5%BC%A0%E7%85%9C%E4%B8%9C&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA"
       },
       "raw_titles": [
-        "王楚钦vs张煜东"
+        "徐静雨评詹姆斯加盟76人"
       ],
-      "rank": 10,
-      "sports_rank": 4
+      "rank": 13,
+      "sports_rank": 7
     },
     {
       "title": "The Shy回应复出原因",
@@ -530,7 +608,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 989270,
+      "hot_value": 832923,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=The%20Shy%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%8E%9F%E5%9B%A0"
       },
@@ -538,25 +616,23 @@
         "The Shy回应复出原因"
       ],
       "rank": 15,
-      "sports_rank": 5
+      "sports_rank": 8
     },
     {
-      "title": "詹姆斯疯狂降薪4875万",
+      "title": "盘点世界杯后身价上涨的球员",
       "category": "体育",
       "sources": [
-        "微博",
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 495159,
+      "hot_value": 765651,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%96%AF%E7%8B%82%E9%99%8D%E8%96%AA4875%E4%B8%87",
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8E%E8%BA%AB%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%90%83%E5%91%98"
       },
       "raw_titles": [
-        "詹姆斯疯狂降薪4875万"
+        "盘点世界杯后身价上涨的球员"
       ],
       "rank": 17,
-      "sports_rank": 6
+      "sports_rank": 9
     },
     {
       "title": "特朗普称詹姆斯是种族主义者",
@@ -565,7 +641,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 399562,
+      "hot_value": 567587,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85",
         "百度": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85&sa=fyb_news"
@@ -573,8 +649,26 @@
       "raw_titles": [
         "特朗普称詹姆斯是种族主义者"
       ],
-      "rank": 18,
-      "sports_rank": 7
+      "rank": 19,
+      "sports_rank": 10
+    },
+    {
+      "title": "詹姆斯疯狂降薪4875万",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 456985,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%96%AF%E7%8B%82%E9%99%8D%E8%96%AA4875%E4%B8%87",
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "詹姆斯疯狂降薪4875万"
+      ],
+      "rank": 20,
+      "sports_rank": 11
     },
     {
       "title": "76人队友乐疯了",
@@ -582,15 +676,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 90000,
+      "hot_value": 108000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=76%E4%BA%BA%E9%98%9F%E5%8F%8B%E4%B9%90%E7%96%AF%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "76人队友乐疯了"
       ],
-      "rank": 26,
-      "sports_rank": 8
+      "rank": 28,
+      "sports_rank": 12
     }
   ],
   "movies": [
@@ -600,14 +694,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7751250,
+      "hot_value": 7758620,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "歌手冲刺赛第一场舞台"
       ],
-      "rank": 3,
+      "rank": 2,
       "movie_rank": 1
     },
     {
@@ -616,7 +710,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7699127,
+      "hot_value": 7743092,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B8%A9%E5%85%86%E4%BC%A6%E5%8A%9B%E6%8C%BA%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3"
       },
@@ -632,7 +726,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7689537,
+      "hot_value": 7692682,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%A1%82%E6%9E%97%E4%B8%AD%E5%AD%A6%E7%A5%9D%E8%B4%BA%E6%A0%A1%E5%8F%8B%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%A5%96"
       },
@@ -643,36 +737,20 @@
       "movie_rank": 3
     },
     {
-      "title": "脱口秀演员海宇谈高考加分上大专",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7645048,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%B5%B7%E5%AE%87%E8%B0%88%E9%AB%98%E8%80%83%E5%8A%A0%E5%88%86%E4%B8%8A%E5%A4%A7%E4%B8%93"
-      },
-      "raw_titles": [
-        "脱口秀演员海宇谈高考加分上大专"
-      ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
       "title": "张拿铁配音汪汪队大电影3",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7633668,
+      "hot_value": 7640306,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%A0%E6%8B%BF%E9%93%81%E9%85%8D%E9%9F%B3%E6%B1%AA%E6%B1%AA%E9%98%9F%E5%A4%A7%E7%94%B5%E5%BD%B13"
       },
       "raw_titles": [
         "张拿铁配音汪汪队大电影3"
       ],
-      "rank": 7,
-      "movie_rank": 5
+      "rank": 6,
+      "movie_rank": 4
     },
     {
       "title": "旭旭宝宝周星驰言论为何引争议",
@@ -680,14 +758,33 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 3786677,
+      "hot_value": 2615272,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A8%80%E8%AE%BA%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
         "旭旭宝宝周星驰言论为何引争议"
       ],
-      "rank": 9,
+      "rank": 8,
+      "movie_rank": 5
+    },
+    {
+      "title": "王楚钦爆冷不敌张煜东",
+      "category": "综合",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 1606699,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E5%BC%A0%E7%85%9C%E4%B8%9C",
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E5%BC%A0%E7%85%9C%E4%B8%9C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王楚钦爆冷不敌张煜东"
+      ],
+      "rank": 10,
+      "sports_rank": 5,
       "movie_rank": 6
     },
     {
@@ -696,14 +793,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1929512,
+      "hot_value": 1419667,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%B0%8F%E8%9C%9C%E8%9C%82%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B6%B2%E4%BD%93"
       },
       "raw_titles": [
         "锐评小蜜蜂爆冷不敌液体"
       ],
-      "rank": 11,
+      "rank": 12,
       "movie_rank": 7
     },
     {
@@ -712,47 +809,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1748854,
+      "hot_value": 878340,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B%E7%AC%AC%E5%8D%81%E6%9C%9Freaction"
       },
       "raw_titles": [
         "歌手第十期reaction"
       ],
-      "rank": 12,
-      "movie_rank": 8
-    },
-    {
-      "title": "歌手2026真有人配拿歌王吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1640869,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B2026%E7%9C%9F%E6%9C%89%E4%BA%BA%E9%85%8D%E6%8B%BF%E6%AD%8C%E7%8E%8B%E5%90%97"
-      },
-      "raw_titles": [
-        "歌手2026真有人配拿歌王吗"
-      ],
-      "rank": 13,
-      "movie_rank": 9
-    },
-    {
-      "title": "游戏CG导演自制三角洲AI电影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1061902,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8FCG%E5%AF%BC%E6%BC%94%E8%87%AA%E5%88%B6%E4%B8%89%E8%A7%92%E6%B4%B2AI%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "游戏CG导演自制三角洲AI电影"
-      ],
       "rank": 14,
-      "movie_rank": 10
+      "movie_rank": 8
     },
     {
       "title": "蜘蛛侠中国独家海报",
@@ -760,7 +825,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 931633,
+      "hot_value": 801765,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A0%E4%B8%AD%E5%9B%BD%E7%8B%AC%E5%AE%B6%E6%B5%B7%E6%8A%A5"
       },
@@ -768,87 +833,39 @@
         "蜘蛛侠中国独家海报"
       ],
       "rank": 16,
-      "movie_rank": 11
+      "movie_rank": 9
     },
     {
-      "title": "胡彦斌问这是王源自己写的吗",
+      "title": "歌手2026真有人配拿歌王吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 726198,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B2026%E7%9C%9F%E6%9C%89%E4%BA%BA%E9%85%8D%E6%8B%BF%E6%AD%8C%E7%8E%8B%E5%90%97"
+      },
+      "raw_titles": [
+        "歌手2026真有人配拿歌王吗"
+      ],
+      "rank": 18,
+      "movie_rank": 10
+    },
+    {
+      "title": "王一博排位赛结束",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 368963,
+      "hot_value": 290743,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E9%97%AE%E8%BF%99%E6%98%AF%E7%8E%8B%E6%BA%90%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E5%90%97"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8E%92%E4%BD%8D%E8%B5%9B%E7%BB%93%E6%9D%9F"
       },
       "raw_titles": [
-        "胡彦斌问这是王源自己写的吗"
-      ],
-      "rank": 19,
-      "movie_rank": 12
-    },
-    {
-      "title": "与肖战尽享这一刻",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 229505,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%8E%E8%82%96%E6%88%98%E5%B0%BD%E4%BA%AB%E8%BF%99%E4%B8%80%E5%88%BB"
-      },
-      "raw_titles": [
-        "与肖战尽享这一刻"
-      ],
-      "rank": 20,
-      "movie_rank": 13
-    },
-    {
-      "title": "凡人修仙传",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 168411,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0"
-      },
-      "raw_titles": [
-        "凡人修仙传"
+        "王一博排位赛结束"
       ],
       "rank": 21,
-      "movie_rank": 14
-    },
-    {
-      "title": "王一博刷新昨天的个人最快圈速",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 167126,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%88%B7%E6%96%B0%E6%98%A8%E5%A4%A9%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%BF%AB%E5%9C%88%E9%80%9F"
-      },
-      "raw_titles": [
-        "王一博刷新昨天的个人最快圈速"
-      ],
-      "rank": 22,
-      "movie_rank": 15
-    },
-    {
-      "title": "张凌赫王楚然秒火今晚圆房",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 154561,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%A7%92%E7%81%AB%E4%BB%8A%E6%99%9A%E5%9C%86%E6%88%BF"
-      },
-      "raw_titles": [
-        "张凌赫王楚然秒火今晚圆房"
-      ],
-      "rank": 23,
-      "movie_rank": 16
+      "movie_rank": 11
     },
     {
       "title": "《功夫女足》票房流失超4亿？片方回应",
@@ -856,31 +873,95 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 153000,
+      "hot_value": 279000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E6%B5%81%E5%A4%B1%E8%B6%854%E4%BA%BF%EF%BC%9F%E7%89%87%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news"
       },
       "raw_titles": [
         "《功夫女足》票房流失超4亿？片方回应"
       ],
-      "rank": 24,
-      "movie_rank": 17
+      "rank": 22,
+      "movie_rank": 12
     },
     {
-      "title": "王源雪崩口碑",
+      "title": "凡人修仙传",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 145754,
+      "hot_value": 249957,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E9%9B%AA%E5%B4%A9%E5%8F%A3%E7%A2%91"
+        "微博": "https://s.weibo.com/weibo?q=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0"
       },
       "raw_titles": [
-        "王源雪崩口碑"
+        "凡人修仙传"
+      ],
+      "rank": 23,
+      "movie_rank": 13
+    },
+    {
+      "title": "张凌赫三年前也是这么守护宫子羽的",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 249716,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%89%E5%B9%B4%E5%89%8D%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%AE%88%E6%8A%A4%E5%AE%AB%E5%AD%90%E7%BE%BD%E7%9A%84"
+      },
+      "raw_titles": [
+        "张凌赫三年前也是这么守护宫子羽的"
+      ],
+      "rank": 24,
+      "movie_rank": 14
+    },
+    {
+      "title": "胡彦斌问这是王源自己写的吗",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 223945,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E9%97%AE%E8%BF%99%E6%98%AF%E7%8E%8B%E6%BA%90%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E5%90%97"
+      },
+      "raw_titles": [
+        "胡彦斌问这是王源自己写的吗"
       ],
       "rank": 25,
-      "movie_rank": 18
+      "movie_rank": 15
+    },
+    {
+      "title": "周深这就不用工作留痕了吧",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 190651,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E8%BF%99%E5%B0%B1%E4%B8%8D%E7%94%A8%E5%B7%A5%E4%BD%9C%E7%95%99%E7%97%95%E4%BA%86%E5%90%A7"
+      },
+      "raw_titles": [
+        "周深这就不用工作留痕了吧"
+      ],
+      "rank": 26,
+      "movie_rank": 16
+    },
+    {
+      "title": "张凌赫王楚然秒火今晚圆房",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 147258,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%A7%92%E7%81%AB%E4%BB%8A%E6%99%9A%E5%9C%86%E6%88%BF"
+      },
+      "raw_titles": [
+        "张凌赫王楚然秒火今晚圆房"
+      ],
+      "rank": 27,
+      "movie_rank": 17
     },
     {
       "title": "暑期档剧集开分 《这一秒过火》垫底",
@@ -895,8 +976,8 @@
       "raw_titles": [
         "暑期档剧集开分 《这一秒过火》垫底"
       ],
-      "rank": 27,
-      "movie_rank": 19
+      "rank": 29,
+      "movie_rank": 18
     }
   ]
 }
