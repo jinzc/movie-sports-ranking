@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-07-29 10:00:48",
-  "total": 22,
+  "update_time": "2026-07-29 11:00:55",
+  "total": 25,
   "sports_count": 9,
-  "movie_count": 13,
+  "movie_count": 16,
   "all": [
     {
       "title": "蜘蛛侠",
@@ -11,16 +11,17 @@
         "微博",
         "抖音",
         "抖音",
+        "抖音",
         "哔哩哔哩",
         "哔哩哔哩",
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 18083396,
+      "hot_value": 27195277,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A0",
-        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%9C%8B%E4%B9%8B%E5%89%8D%E7%9F%A5%E9%81%93%E8%BF%99%E4%BA%9B%E5%B0%B1%E5%A4%9F%E4%BA%86",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%96%B0%E8%A7%92%E8%89%B2%E7%9B%98%E7%82%B9"
+        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A0%E4%B8%8A%E7%8F%AD%E5%89%8Dvs%E8%9C%98%E8%9B%9B%E4%BE%A0%E4%B8%8A%E7%8F%AD%E5%90%8E",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A1%A5%E8%AF%BE%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%95%85%E4%BA%8B%E7%BA%BF"
       },
       "raw_titles": [
         "蜘蛛侠"
@@ -29,36 +30,19 @@
       "movie_rank": 1
     },
     {
-      "title": "六公主评功夫女足票房破20亿",
-      "category": "影视",
-      "sources": [
-        "抖音",
-        "抖音"
-      ],
-      "hot_value": 15924853,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF"
-      },
-      "raw_titles": [
-        "六公主评功夫女足票房破20亿"
-      ],
-      "rank": 2,
-      "movie_rank": 2
-    },
-    {
       "title": "曝克莱或将寻求买断离开独行侠",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9160835,
+      "hot_value": 9159645,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9B%9D%E5%85%8B%E8%8E%B1%E6%88%96%E5%B0%86%E5%AF%BB%E6%B1%82%E4%B9%B0%E6%96%AD%E7%A6%BB%E5%BC%80%E7%8B%AC%E8%A1%8C%E4%BE%A0"
       },
       "raw_titles": [
         "曝克莱或将寻求买断离开独行侠"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 1
     },
     {
@@ -67,15 +51,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7780724,
+      "hot_value": 8387915,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%8A%96%E7%81%AB%E6%9D%AFAI%E7%95%AA%E5%A4%96%E5%A4%A7%E7%94%B5%E5%BD%B1"
       },
       "raw_titles": [
         "抖火杯AI番外大电影"
       ],
+      "rank": 3,
+      "movie_rank": 2
+    },
+    {
+      "title": "六公主评功夫女足票房破20亿",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8375761,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF"
+      },
+      "raw_titles": [
+        "六公主评功夫女足票房破20亿"
+      ],
       "rank": 4,
       "movie_rank": 3
+    },
+    {
+      "title": "功夫女足20亿解锁周星驰惊喜抖音",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7804209,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B320%E4%BA%BF%E8%A7%A3%E9%94%81%E5%91%A8%E6%98%9F%E9%A9%B0%E6%83%8A%E5%96%9C%E6%8A%96%E9%9F%B3"
+      },
+      "raw_titles": [
+        "功夫女足20亿解锁周星驰惊喜抖音"
+      ],
+      "rank": 5,
+      "movie_rank": 4
     },
     {
       "title": "歌手2026官宣孙楠为守关歌手",
@@ -83,15 +99,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7654989,
+      "hot_value": 7699593,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E5%AE%98%E5%AE%A3%E5%AD%99%E6%A5%A0%E4%B8%BA%E5%AE%88%E5%85%B3%E6%AD%8C%E6%89%8B"
       },
       "raw_titles": [
         "歌手2026官宣孙楠为守关歌手"
       ],
-      "rank": 5,
-      "movie_rank": 4
+      "rank": 6,
+      "movie_rank": 5
     },
     {
       "title": "保罗乔治抖音发文寻找电动车男孩",
@@ -99,15 +115,79 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7653021,
+      "hot_value": 7676361,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BF%9D%E7%BD%97%E4%B9%94%E6%B2%BB%E6%8A%96%E9%9F%B3%E5%8F%91%E6%96%87%E5%AF%BB%E6%89%BE%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%94%B7%E5%AD%A9"
       },
       "raw_titles": [
         "保罗乔治抖音发文寻找电动车男孩"
       ],
-      "rank": 6,
+      "rank": 7,
       "sports_rank": 2
+    },
+    {
+      "title": "网飞是否造成韩剧寒冬",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1876140,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BD%91%E9%A3%9E%E6%98%AF%E5%90%A6%E9%80%A0%E6%88%90%E9%9F%A9%E5%89%A7%E5%AF%92%E5%86%AC"
+      },
+      "raw_titles": [
+        "网飞是否造成韩剧寒冬"
+      ],
+      "rank": 8,
+      "movie_rank": 6
+    },
+    {
+      "title": "切尔西6-4西悉尼流浪者",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 480965,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%87%E5%B0%94%E8%A5%BF6-4%E8%A5%BF%E6%82%89%E5%B0%BC%E6%B5%81%E6%B5%AA%E8%80%85"
+      },
+      "raw_titles": [
+        "切尔西6-4西悉尼流浪者"
+      ],
+      "rank": 9,
+      "sports_rank": 3
+    },
+    {
+      "title": "F1匈牙利站正赛无线电复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 465763,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%8C%88%E7%89%99%E5%88%A9%E7%AB%99%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "F1匈牙利站正赛无线电复盘"
+      ],
+      "rank": 10,
+      "sports_rank": 4
+    },
+    {
+      "title": "追梦格林重返勇士",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 440118,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%BD%E6%A2%A6%E6%A0%BC%E6%9E%97%E9%87%8D%E8%BF%94%E5%8B%87%E5%A3%AB"
+      },
+      "raw_titles": [
+        "追梦格林重返勇士"
+      ],
+      "rank": 11,
+      "sports_rank": 5
     },
     {
       "title": "地震来了怎么办？提前设置地震预警",
@@ -122,8 +202,8 @@
       "raw_titles": [
         "地震来了怎么办？提前设置地震预警"
       ],
-      "rank": 7,
-      "movie_rank": 5
+      "rank": 12,
+      "movie_rank": 7
     },
     {
       "title": "瑞莫第9季大结局解析",
@@ -131,31 +211,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 420812,
+      "hot_value": 429921,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%91%9E%E8%8E%AB%E7%AC%AC9%E5%AD%A3%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
         "瑞莫第9季大结局解析"
       ],
-      "rank": 8,
-      "movie_rank": 6
-    },
-    {
-      "title": "为何多部电影撤出暑期档",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 414355,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E5%A4%9A%E9%83%A8%E7%94%B5%E5%BD%B1%E6%92%A4%E5%87%BA%E6%9A%91%E6%9C%9F%E6%A1%A3"
-      },
-      "raw_titles": [
-        "为何多部电影撤出暑期档"
-      ],
-      "rank": 9,
-      "movie_rank": 7
+      "rank": 13,
+      "movie_rank": 8
     },
     {
       "title": "柯洁战胜李轩豪棋局复盘",
@@ -163,47 +227,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 399560,
+      "hot_value": 429914,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%E6%88%98%E8%83%9C%E6%9D%8E%E8%BD%A9%E8%B1%AA%E6%A3%8B%E5%B1%80%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
         "柯洁战胜李轩豪棋局复盘"
       ],
-      "rank": 10,
-      "sports_rank": 3
+      "rank": 14,
+      "sports_rank": 6
     },
     {
-      "title": "国足新星周报",
-      "category": "体育",
+      "title": "为何多部电影撤出暑期档",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 376104,
+      "hot_value": 408718,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E6%96%B0%E6%98%9F%E5%91%A8%E6%8A%A5"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E5%A4%9A%E9%83%A8%E7%94%B5%E5%BD%B1%E6%92%A4%E5%87%BA%E6%9A%91%E6%9C%9F%E6%A1%A3"
       },
       "raw_titles": [
-        "国足新星周报"
+        "为何多部电影撤出暑期档"
       ],
-      "rank": 11,
-      "sports_rank": 4
-    },
-    {
-      "title": "郑钦文状态怎么了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 374783,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%8A%B6%E6%80%81%E6%80%8E%E4%B9%88%E4%BA%86"
-      },
-      "raw_titles": [
-        "郑钦文状态怎么了"
-      ],
-      "rank": 12,
-      "sports_rank": 5
+      "rank": 15,
+      "movie_rank": 9
     },
     {
       "title": "乒乓小将失利后拳击对手 官方通报",
@@ -211,79 +259,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 369000,
+      "hot_value": 342000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B9%92%E4%B9%93%E5%B0%8F%E5%B0%86%E5%A4%B1%E5%88%A9%E5%90%8E%E6%8B%B3%E5%87%BB%E5%AF%B9%E6%89%8B+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news"
       },
       "raw_titles": [
         "乒乓小将失利后拳击对手 官方通报"
       ],
-      "rank": 13,
-      "sports_rank": 6
-    },
-    {
-      "title": "追梦格林重返勇士",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 339195,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%BD%E6%A2%A6%E6%A0%BC%E6%9E%97%E9%87%8D%E8%BF%94%E5%8B%87%E5%A3%AB"
-      },
-      "raw_titles": [
-        "追梦格林重返勇士"
-      ],
-      "rank": 14,
+      "rank": 16,
       "sports_rank": 7
     },
     {
-      "title": "世界杯最佳进球来自佛得角",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 314556,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E8%BF%9B%E7%90%83%E6%9D%A5%E8%87%AA%E4%BD%9B%E5%BE%97%E8%A7%92"
-      },
-      "raw_titles": [
-        "世界杯最佳进球来自佛得角"
-      ],
-      "rank": 15,
-      "sports_rank": 8
-    },
-    {
-      "title": "暑期档上半场电影盘点",
+      "title": "动画批评会毁掉乐趣吗",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 273425,
+      "hot_value": 310157,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E4%B8%8A%E5%8D%8A%E5%9C%BA%E7%94%B5%E5%BD%B1%E7%9B%98%E7%82%B9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E6%89%B9%E8%AF%84%E4%BC%9A%E6%AF%81%E6%8E%89%E4%B9%90%E8%B6%A3%E5%90%97"
       },
       "raw_titles": [
-        "暑期档上半场电影盘点"
+        "动画批评会毁掉乐趣吗"
       ],
-      "rank": 16,
-      "movie_rank": 8
+      "rank": 17,
+      "movie_rank": 10
     },
     {
-      "title": "艾米下沉口碑",
+      "title": "这谁能认出来是李现",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 201995,
+      "hot_value": 243979,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%89%BE%E7%B1%B3%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%99%E8%B0%81%E8%83%BD%E8%AE%A4%E5%87%BA%E6%9D%A5%E6%98%AF%E6%9D%8E%E7%8E%B0"
       },
       "raw_titles": [
-        "艾米下沉口碑"
+        "这谁能认出来是李现"
       ],
-      "rank": 17,
-      "movie_rank": 9
+      "rank": 18,
+      "movie_rank": 11
     },
     {
       "title": "陈丽君要拍电视剧了",
@@ -291,15 +307,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 199123,
+      "hot_value": 241190,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%E8%A6%81%E6%8B%8D%E7%94%B5%E8%A7%86%E5%89%A7%E4%BA%86"
       },
       "raw_titles": [
         "陈丽君要拍电视剧了"
       ],
-      "rank": 18,
-      "movie_rank": 10
+      "rank": 19,
+      "movie_rank": 12
+    },
+    {
+      "title": "艾米下沉口碑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 230586,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%89%BE%E7%B1%B3%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "艾米下沉口碑"
+      ],
+      "rank": 20,
+      "movie_rank": 13
+    },
+    {
+      "title": "郑钦文状态怎么了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 229433,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%8A%B6%E6%80%81%E6%80%8E%E4%B9%88%E4%BA%86"
+      },
+      "raw_titles": [
+        "郑钦文状态怎么了"
+      ],
+      "rank": 21,
+      "sports_rank": 8
     },
     {
       "title": "张凌赫我最讨厌事后道歉",
@@ -307,47 +355,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 188507,
+      "hot_value": 218321,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%88%91%E6%9C%80%E8%AE%A8%E5%8E%8C%E4%BA%8B%E5%90%8E%E9%81%93%E6%AD%89"
       },
       "raw_titles": [
         "张凌赫我最讨厌事后道歉"
       ],
-      "rank": 19,
-      "movie_rank": 11
-    },
-    {
-      "title": "倪妮我想象中旅行穿搭出片的样子",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 186200,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E6%88%91%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%97%85%E8%A1%8C%E7%A9%BF%E6%90%AD%E5%87%BA%E7%89%87%E7%9A%84%E6%A0%B7%E5%AD%90"
-      },
-      "raw_titles": [
-        "倪妮我想象中旅行穿搭出片的样子"
-      ],
-      "rank": 20,
-      "movie_rank": 12
-    },
-    {
-      "title": "郑钦文 连丢三局",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 180159,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%20%E8%BF%9E%E4%B8%A2%E4%B8%89%E5%B1%80"
-      },
-      "raw_titles": [
-        "郑钦文 连丢三局"
-      ],
-      "rank": 21,
-      "sports_rank": 9
+      "rank": 22,
+      "movie_rank": 14
     },
     {
       "title": "医院女厕贴反家暴撕贴纸求助海报",
@@ -355,15 +371,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 144000,
+      "hot_value": 207000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%8C%BB%E9%99%A2%E5%A5%B3%E5%8E%95%E8%B4%B4%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%92%95%E8%B4%B4%E7%BA%B8%E6%B1%82%E5%8A%A9%E6%B5%B7%E6%8A%A5&sa=fyb_news"
       },
       "raw_titles": [
         "医院女厕贴反家暴撕贴纸求助海报"
       ],
-      "rank": 22,
-      "movie_rank": 13
+      "rank": 23,
+      "movie_rank": 15
+    },
+    {
+      "title": "追梦1年2770万美元续约勇士",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%BF%BD%E6%A2%A61%E5%B9%B42770%E4%B8%87%E7%BE%8E%E5%85%83%E7%BB%AD%E7%BA%A6%E5%8B%87%E5%A3%AB&sa=fyb_news"
+      },
+      "raw_titles": [
+        "追梦1年2770万美元续约勇士"
+      ],
+      "rank": 24,
+      "sports_rank": 9
+    },
+    {
+      "title": "王虹邓煜获奖 击破了一个谣言",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 27000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E8%8E%B7%E5%A5%96+%E5%87%BB%E7%A0%B4%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B0%A3%E8%A8%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王虹邓煜获奖 击破了一个谣言"
+      ],
+      "rank": 25,
+      "movie_rank": 16
     }
   ],
   "sports": [
@@ -373,14 +421,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9160835,
+      "hot_value": 9159645,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9B%9D%E5%85%8B%E8%8E%B1%E6%88%96%E5%B0%86%E5%AF%BB%E6%B1%82%E4%B9%B0%E6%96%AD%E7%A6%BB%E5%BC%80%E7%8B%AC%E8%A1%8C%E4%BE%A0"
       },
       "raw_titles": [
         "曝克莱或将寻求买断离开独行侠"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 1
     },
     {
@@ -389,79 +437,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7653021,
+      "hot_value": 7676361,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BF%9D%E7%BD%97%E4%B9%94%E6%B2%BB%E6%8A%96%E9%9F%B3%E5%8F%91%E6%96%87%E5%AF%BB%E6%89%BE%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%94%B7%E5%AD%A9"
       },
       "raw_titles": [
         "保罗乔治抖音发文寻找电动车男孩"
       ],
-      "rank": 6,
+      "rank": 7,
       "sports_rank": 2
     },
     {
-      "title": "柯洁战胜李轩豪棋局复盘",
+      "title": "切尔西6-4西悉尼流浪者",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 399560,
+      "hot_value": 480965,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%E6%88%98%E8%83%9C%E6%9D%8E%E8%BD%A9%E8%B1%AA%E6%A3%8B%E5%B1%80%E5%A4%8D%E7%9B%98"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%87%E5%B0%94%E8%A5%BF6-4%E8%A5%BF%E6%82%89%E5%B0%BC%E6%B5%81%E6%B5%AA%E8%80%85"
       },
       "raw_titles": [
-        "柯洁战胜李轩豪棋局复盘"
+        "切尔西6-4西悉尼流浪者"
       ],
-      "rank": 10,
+      "rank": 9,
       "sports_rank": 3
     },
     {
-      "title": "国足新星周报",
+      "title": "F1匈牙利站正赛无线电复盘",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 376104,
+      "hot_value": 465763,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E6%96%B0%E6%98%9F%E5%91%A8%E6%8A%A5"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%8C%88%E7%89%99%E5%88%A9%E7%AB%99%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
-        "国足新星周报"
+        "F1匈牙利站正赛无线电复盘"
       ],
-      "rank": 11,
+      "rank": 10,
       "sports_rank": 4
-    },
-    {
-      "title": "郑钦文状态怎么了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 374783,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%8A%B6%E6%80%81%E6%80%8E%E4%B9%88%E4%BA%86"
-      },
-      "raw_titles": [
-        "郑钦文状态怎么了"
-      ],
-      "rank": 12,
-      "sports_rank": 5
-    },
-    {
-      "title": "乒乓小将失利后拳击对手 官方通报",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 369000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B9%92%E4%B9%93%E5%B0%8F%E5%B0%86%E5%A4%B1%E5%88%A9%E5%90%8E%E6%8B%B3%E5%87%BB%E5%AF%B9%E6%89%8B+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news"
-      },
-      "raw_titles": [
-        "乒乓小将失利后拳击对手 官方通报"
-      ],
-      "rank": 13,
-      "sports_rank": 6
     },
     {
       "title": "追梦格林重返勇士",
@@ -469,46 +485,78 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 339195,
+      "hot_value": 440118,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%BD%E6%A2%A6%E6%A0%BC%E6%9E%97%E9%87%8D%E8%BF%94%E5%8B%87%E5%A3%AB"
       },
       "raw_titles": [
         "追梦格林重返勇士"
       ],
-      "rank": 14,
-      "sports_rank": 7
+      "rank": 11,
+      "sports_rank": 5
     },
     {
-      "title": "世界杯最佳进球来自佛得角",
+      "title": "柯洁战胜李轩豪棋局复盘",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 314556,
+      "hot_value": 429914,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E8%BF%9B%E7%90%83%E6%9D%A5%E8%87%AA%E4%BD%9B%E5%BE%97%E8%A7%92"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%E6%88%98%E8%83%9C%E6%9D%8E%E8%BD%A9%E8%B1%AA%E6%A3%8B%E5%B1%80%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
-        "世界杯最佳进球来自佛得角"
+        "柯洁战胜李轩豪棋局复盘"
       ],
-      "rank": 15,
-      "sports_rank": 8
+      "rank": 14,
+      "sports_rank": 6
     },
     {
-      "title": "郑钦文 连丢三局",
+      "title": "乒乓小将失利后拳击对手 官方通报",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 342000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B9%92%E4%B9%93%E5%B0%8F%E5%B0%86%E5%A4%B1%E5%88%A9%E5%90%8E%E6%8B%B3%E5%87%BB%E5%AF%B9%E6%89%8B+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "乒乓小将失利后拳击对手 官方通报"
+      ],
+      "rank": 16,
+      "sports_rank": 7
+    },
+    {
+      "title": "郑钦文状态怎么了",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 180159,
+      "hot_value": 229433,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%20%E8%BF%9E%E4%B8%A2%E4%B8%89%E5%B1%80"
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%8A%B6%E6%80%81%E6%80%8E%E4%B9%88%E4%BA%86"
       },
       "raw_titles": [
-        "郑钦文 连丢三局"
+        "郑钦文状态怎么了"
       ],
       "rank": 21,
+      "sports_rank": 8
+    },
+    {
+      "title": "追梦1年2770万美元续约勇士",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%BF%BD%E6%A2%A61%E5%B9%B42770%E4%B8%87%E7%BE%8E%E5%85%83%E7%BB%AD%E7%BA%A6%E5%8B%87%E5%A3%AB&sa=fyb_news"
+      },
+      "raw_titles": [
+        "追梦1年2770万美元续约勇士"
+      ],
+      "rank": 24,
       "sports_rank": 9
     }
   ],
@@ -520,16 +568,17 @@
         "微博",
         "抖音",
         "抖音",
+        "抖音",
         "哔哩哔哩",
         "哔哩哔哩",
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 18083396,
+      "hot_value": 27195277,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A0",
-        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%9C%8B%E4%B9%8B%E5%89%8D%E7%9F%A5%E9%81%93%E8%BF%99%E4%BA%9B%E5%B0%B1%E5%A4%9F%E4%BA%86",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%96%B0%E8%A7%92%E8%89%B2%E7%9B%98%E7%82%B9"
+        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A0%E4%B8%8A%E7%8F%AD%E5%89%8Dvs%E8%9C%98%E8%9B%9B%E4%BE%A0%E4%B8%8A%E7%8F%AD%E5%90%8E",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A1%A5%E8%AF%BE%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%95%85%E4%BA%8B%E7%BA%BF"
       },
       "raw_titles": [
         "蜘蛛侠"
@@ -538,37 +587,52 @@
       "movie_rank": 1
     },
     {
-      "title": "六公主评功夫女足票房破20亿",
-      "category": "影视",
-      "sources": [
-        "抖音",
-        "抖音"
-      ],
-      "hot_value": 15924853,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF"
-      },
-      "raw_titles": [
-        "六公主评功夫女足票房破20亿"
-      ],
-      "rank": 2,
-      "movie_rank": 2
-    },
-    {
       "title": "抖火杯AI番外大电影",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7780724,
+      "hot_value": 8387915,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%8A%96%E7%81%AB%E6%9D%AFAI%E7%95%AA%E5%A4%96%E5%A4%A7%E7%94%B5%E5%BD%B1"
       },
       "raw_titles": [
         "抖火杯AI番外大电影"
       ],
+      "rank": 3,
+      "movie_rank": 2
+    },
+    {
+      "title": "六公主评功夫女足票房破20亿",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8375761,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%84%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF"
+      },
+      "raw_titles": [
+        "六公主评功夫女足票房破20亿"
+      ],
       "rank": 4,
       "movie_rank": 3
+    },
+    {
+      "title": "功夫女足20亿解锁周星驰惊喜抖音",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7804209,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B320%E4%BA%BF%E8%A7%A3%E9%94%81%E5%91%A8%E6%98%9F%E9%A9%B0%E6%83%8A%E5%96%9C%E6%8A%96%E9%9F%B3"
+      },
+      "raw_titles": [
+        "功夫女足20亿解锁周星驰惊喜抖音"
+      ],
+      "rank": 5,
+      "movie_rank": 4
     },
     {
       "title": "歌手2026官宣孙楠为守关歌手",
@@ -576,15 +640,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7654989,
+      "hot_value": 7699593,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E5%AE%98%E5%AE%A3%E5%AD%99%E6%A5%A0%E4%B8%BA%E5%AE%88%E5%85%B3%E6%AD%8C%E6%89%8B"
       },
       "raw_titles": [
         "歌手2026官宣孙楠为守关歌手"
       ],
-      "rank": 5,
-      "movie_rank": 4
+      "rank": 6,
+      "movie_rank": 5
+    },
+    {
+      "title": "网飞是否造成韩剧寒冬",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1876140,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BD%91%E9%A3%9E%E6%98%AF%E5%90%A6%E9%80%A0%E6%88%90%E9%9F%A9%E5%89%A7%E5%AF%92%E5%86%AC"
+      },
+      "raw_titles": [
+        "网飞是否造成韩剧寒冬"
+      ],
+      "rank": 8,
+      "movie_rank": 6
     },
     {
       "title": "地震来了怎么办？提前设置地震预警",
@@ -599,8 +679,8 @@
       "raw_titles": [
         "地震来了怎么办？提前设置地震预警"
       ],
-      "rank": 7,
-      "movie_rank": 5
+      "rank": 12,
+      "movie_rank": 7
     },
     {
       "title": "瑞莫第9季大结局解析",
@@ -608,15 +688,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 420812,
+      "hot_value": 429921,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%91%9E%E8%8E%AB%E7%AC%AC9%E5%AD%A3%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
         "瑞莫第9季大结局解析"
       ],
-      "rank": 8,
-      "movie_rank": 6
+      "rank": 13,
+      "movie_rank": 8
     },
     {
       "title": "为何多部电影撤出暑期档",
@@ -624,47 +704,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 414355,
+      "hot_value": 408718,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E5%A4%9A%E9%83%A8%E7%94%B5%E5%BD%B1%E6%92%A4%E5%87%BA%E6%9A%91%E6%9C%9F%E6%A1%A3"
       },
       "raw_titles": [
         "为何多部电影撤出暑期档"
       ],
-      "rank": 9,
-      "movie_rank": 7
+      "rank": 15,
+      "movie_rank": 9
     },
     {
-      "title": "暑期档上半场电影盘点",
+      "title": "动画批评会毁掉乐趣吗",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 273425,
+      "hot_value": 310157,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E4%B8%8A%E5%8D%8A%E5%9C%BA%E7%94%B5%E5%BD%B1%E7%9B%98%E7%82%B9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E6%89%B9%E8%AF%84%E4%BC%9A%E6%AF%81%E6%8E%89%E4%B9%90%E8%B6%A3%E5%90%97"
       },
       "raw_titles": [
-        "暑期档上半场电影盘点"
+        "动画批评会毁掉乐趣吗"
       ],
-      "rank": 16,
-      "movie_rank": 8
+      "rank": 17,
+      "movie_rank": 10
     },
     {
-      "title": "艾米下沉口碑",
+      "title": "这谁能认出来是李现",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 201995,
+      "hot_value": 243979,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%89%BE%E7%B1%B3%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%99%E8%B0%81%E8%83%BD%E8%AE%A4%E5%87%BA%E6%9D%A5%E6%98%AF%E6%9D%8E%E7%8E%B0"
       },
       "raw_titles": [
-        "艾米下沉口碑"
+        "这谁能认出来是李现"
       ],
-      "rank": 17,
-      "movie_rank": 9
+      "rank": 18,
+      "movie_rank": 11
     },
     {
       "title": "陈丽君要拍电视剧了",
@@ -672,15 +752,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 199123,
+      "hot_value": 241190,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%E8%A6%81%E6%8B%8D%E7%94%B5%E8%A7%86%E5%89%A7%E4%BA%86"
       },
       "raw_titles": [
         "陈丽君要拍电视剧了"
       ],
-      "rank": 18,
-      "movie_rank": 10
+      "rank": 19,
+      "movie_rank": 12
+    },
+    {
+      "title": "艾米下沉口碑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 230586,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%89%BE%E7%B1%B3%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "艾米下沉口碑"
+      ],
+      "rank": 20,
+      "movie_rank": 13
     },
     {
       "title": "张凌赫我最讨厌事后道歉",
@@ -688,31 +784,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 188507,
+      "hot_value": 218321,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%88%91%E6%9C%80%E8%AE%A8%E5%8E%8C%E4%BA%8B%E5%90%8E%E9%81%93%E6%AD%89"
       },
       "raw_titles": [
         "张凌赫我最讨厌事后道歉"
       ],
-      "rank": 19,
-      "movie_rank": 11
-    },
-    {
-      "title": "倪妮我想象中旅行穿搭出片的样子",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 186200,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E6%88%91%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%97%85%E8%A1%8C%E7%A9%BF%E6%90%AD%E5%87%BA%E7%89%87%E7%9A%84%E6%A0%B7%E5%AD%90"
-      },
-      "raw_titles": [
-        "倪妮我想象中旅行穿搭出片的样子"
-      ],
-      "rank": 20,
-      "movie_rank": 12
+      "rank": 22,
+      "movie_rank": 14
     },
     {
       "title": "医院女厕贴反家暴撕贴纸求助海报",
@@ -720,15 +800,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 144000,
+      "hot_value": 207000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%8C%BB%E9%99%A2%E5%A5%B3%E5%8E%95%E8%B4%B4%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%92%95%E8%B4%B4%E7%BA%B8%E6%B1%82%E5%8A%A9%E6%B5%B7%E6%8A%A5&sa=fyb_news"
       },
       "raw_titles": [
         "医院女厕贴反家暴撕贴纸求助海报"
       ],
-      "rank": 22,
-      "movie_rank": 13
+      "rank": 23,
+      "movie_rank": 15
+    },
+    {
+      "title": "王虹邓煜获奖 击破了一个谣言",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 27000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E8%8E%B7%E5%A5%96+%E5%87%BB%E7%A0%B4%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B0%A3%E8%A8%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王虹邓煜获奖 击破了一个谣言"
+      ],
+      "rank": 25,
+      "movie_rank": 16
     }
   ]
 }
