@@ -1,40 +1,48 @@
 {
-  "update_time": "2026-07-31 22:00:48",
+  "update_time": "2026-07-31 23:00:54",
   "total": 27,
-  "sports_count": 6,
-  "movie_count": 21,
+  "sports_count": 7,
+  "movie_count": 20,
   "all": [
     {
-      "title": "蜘蛛侠4结尾神来之笔",
+      "title": "蜘蛛侠",
       "category": "影视",
       "sources": [
-        "抖音"
+        "微博",
+        "抖音",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩"
       ],
-      "hot_value": 7832673,
+      "hot_value": 12659198,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%93%E5%B0%BE%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94"
+        "微博": "https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A0",
+        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%93%E5%B0%BE%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E6%95%85%E4%BA%8B"
       },
       "raw_titles": [
-        "蜘蛛侠4结尾神来之笔"
+        "蜘蛛侠"
       ],
       "rank": 1,
       "movie_rank": 1
     },
     {
-      "title": "阿哲自制综艺蜥蜴头造型太炸裂了",
-      "category": "影视",
+      "title": "吴宜泽无缘斯诺克上海大师赛决赛",
+      "category": "体育",
       "sources": [
+        "百度",
         "抖音"
       ],
-      "hot_value": 7740978,
+      "hot_value": 12111892,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%98%BF%E5%93%B2%E8%87%AA%E5%88%B6%E7%BB%BC%E8%89%BA%E8%9C%A5%E8%9C%B4%E5%A4%B4%E9%80%A0%E5%9E%8B%E5%A4%AA%E7%82%B8%E8%A3%82%E4%BA%86"
+        "百度": "https://m.baidu.com/s?word=%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%97%A0%E7%BC%98%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%86%B3%E8%B5%9B&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%8D%8A%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
-        "阿哲自制综艺蜥蜴头造型太炸裂了"
+        "吴宜泽无缘斯诺克上海大师赛决赛"
       ],
       "rank": 2,
-      "movie_rank": 2
+      "sports_rank": 1
     },
     {
       "title": "特鲁姆普长台准到离谱",
@@ -42,7 +50,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7726758,
+      "hot_value": 7817823,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E9%95%BF%E5%8F%B0%E5%87%86%E5%88%B0%E7%A6%BB%E8%B0%B1"
       },
@@ -50,71 +58,55 @@
         "特鲁姆普长台准到离谱"
       ],
       "rank": 3,
-      "sports_rank": 1
+      "sports_rank": 2
     },
     {
-      "title": "蜘蛛侠崭新之日皮影海报",
+      "title": "阿哲自制综艺蜥蜴头造型太炸裂了",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7661970,
+      "hot_value": 7768211,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5%E7%9A%AE%E5%BD%B1%E6%B5%B7%E6%8A%A5"
+        "抖音": "https://www.douyin.com/search/%E9%98%BF%E5%93%B2%E8%87%AA%E5%88%B6%E7%BB%BC%E8%89%BA%E8%9C%A5%E8%9C%B4%E5%A4%B4%E9%80%A0%E5%9E%8B%E5%A4%AA%E7%82%B8%E8%A3%82%E4%BA%86"
       },
       "raw_titles": [
-        "蜘蛛侠崭新之日皮影海报"
+        "阿哲自制综艺蜥蜴头造型太炸裂了"
       ],
       "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "歌手冲刺赛第二场舞台",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7735453,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%9C%BA%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "歌手冲刺赛第二场舞台"
+      ],
+      "rank": 5,
       "movie_rank": 3
     },
     {
-      "title": "狂阿弥和荷兰弟聊蜘蛛侠的10年",
+      "title": "歌手排名",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 1654284,
+      "hot_value": 2046494,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8B%82%E9%98%BF%E5%BC%A5%E5%92%8C%E8%8D%B7%E5%85%B0%E5%BC%9F%E8%81%8A%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9A%8410%E5%B9%B4"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
-        "狂阿弥和荷兰弟聊蜘蛛侠的10年"
-      ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "一站式讲完蜘蛛侠4细节",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1245533,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E7%AB%99%E5%BC%8F%E8%AE%B2%E5%AE%8C%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%86%E8%8A%82"
-      },
-      "raw_titles": [
-        "一站式讲完蜘蛛侠4细节"
+        "歌手排名"
       ],
       "rank": 6,
-      "movie_rank": 5
-    },
-    {
-      "title": "蜘蛛侠真正的破茧重生",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1099542,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%A0%B4%E8%8C%A7%E9%87%8D%E7%94%9F"
-      },
-      "raw_titles": [
-        "蜘蛛侠真正的破茧重生"
-      ],
-      "rank": 7,
-      "movie_rank": 6
+      "movie_rank": 4
     },
     {
       "title": "柯洁称党毅飞是最强的对手之一",
@@ -122,31 +114,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1099194,
+      "hot_value": 1380088,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%E7%A7%B0%E5%85%9A%E6%AF%85%E9%A3%9E%E6%98%AF%E6%9C%80%E5%BC%BA%E7%9A%84%E5%AF%B9%E6%89%8B%E4%B9%8B%E4%B8%80"
       },
       "raw_titles": [
         "柯洁称党毅飞是最强的对手之一"
       ],
-      "rank": 8,
-      "sports_rank": 2
+      "rank": 7,
+      "sports_rank": 3
     },
     {
-      "title": "歌手直播",
-      "category": "影视",
+      "title": "机器狼扛着火箭筒冲上滩头",
+      "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 1056729,
+      "hot_value": 1292205,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E7%8B%BC%E6%89%9B%E7%9D%80%E7%81%AB%E7%AE%AD%E7%AD%92%E5%86%B2%E4%B8%8A%E6%BB%A9%E5%A4%B4"
       },
       "raw_titles": [
-        "歌手直播"
+        "机器狼扛着火箭筒冲上滩头"
       ],
-      "rank": 9,
-      "movie_rank": 7
+      "rank": 8,
+      "sports_rank": 4
     },
     {
       "title": "柯洁 冠军结算画面",
@@ -154,15 +146,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1051955,
+      "hot_value": 1287226,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%20%E5%86%A0%E5%86%9B%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2"
       },
       "raw_titles": [
         "柯洁 冠军结算画面"
       ],
+      "rank": 9,
+      "sports_rank": 5
+    },
+    {
+      "title": "解读爆火AI动画垃圾站",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1275555,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%88%86%E7%81%ABAI%E5%8A%A8%E7%94%BB%E5%9E%83%E5%9C%BE%E7%AB%99"
+      },
+      "raw_titles": [
+        "解读爆火AI动画垃圾站"
+      ],
       "rank": 10,
-      "sports_rank": 3
+      "movie_rank": 5
+    },
+    {
+      "title": "决战动漫男二之巅",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1187960,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%86%B3%E6%88%98%E5%8A%A8%E6%BC%AB%E7%94%B7%E4%BA%8C%E4%B9%8B%E5%B7%85"
+      },
+      "raw_titles": [
+        "决战动漫男二之巅"
+      ],
+      "rank": 11,
+      "movie_rank": 6
     },
     {
       "title": "柯洁夺冠后采访",
@@ -170,97 +194,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1016652,
+      "hot_value": 1145276,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%E5%A4%BA%E5%86%A0%E5%90%8E%E9%87%87%E8%AE%BF"
       },
       "raw_titles": [
         "柯洁夺冠后采访"
       ],
-      "rank": 11,
-      "sports_rank": 4
-    },
-    {
-      "title": "群星闪耀时口碑为何两极分化",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 875404,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6%E5%8F%A3%E7%A2%91%E4%B8%BA%E4%BD%95%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96"
-      },
-      "raw_titles": [
-        "群星闪耀时口碑为何两极分化"
-      ],
       "rank": 12,
-      "movie_rank": 8
-    },
-    {
-      "title": "蜘蛛侠4讲了什么故事",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 812635,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E6%95%85%E4%BA%8B"
-      },
-      "raw_titles": [
-        "蜘蛛侠4讲了什么故事"
-      ],
-      "rank": 13,
-      "movie_rank": 9
-    },
-    {
-      "title": "柯洁拿下王中王争霸赛冠军",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 809259,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%E6%8B%BF%E4%B8%8B%E7%8E%8B%E4%B8%AD%E7%8E%8B%E4%BA%89%E9%9C%B8%E8%B5%9B%E5%86%A0%E5%86%9B"
-      },
-      "raw_titles": [
-        "柯洁拿下王中王争霸赛冠军"
-      ],
-      "rank": 14,
-      "sports_rank": 5
-    },
-    {
-      "title": "邓紫棋偷看歌手又被发现了",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 799363,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E6%AD%8C%E6%89%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86",
-        "百度": "https://m.baidu.com/s?word=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86&sa=fyb_news"
-      },
-      "raw_titles": [
-        "邓紫棋偷看歌手又被发现了"
-      ],
-      "rank": 15,
-      "movie_rank": 10
-    },
-    {
-      "title": "蜘蛛侠4真实观后感",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 697769,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%9C%9F%E5%AE%9E%E8%A7%82%E5%90%8E%E6%84%9F"
-      },
-      "raw_titles": [
-        "蜘蛛侠4真实观后感"
-      ],
-      "rank": 16,
-      "movie_rank": 11
+      "sports_rank": 6
     },
     {
       "title": "周星驰质疑董宇辉看大话西游500遍",
@@ -268,47 +210,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 657098,
+      "hot_value": 999064,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%B4%A8%E7%96%91%E8%91%A3%E5%AE%87%E8%BE%89%E7%9C%8B%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8500%E9%81%8D"
       },
       "raw_titles": [
         "周星驰质疑董宇辉看大话西游500遍"
       ],
-      "rank": 17,
-      "movie_rank": 12
-    },
-    {
-      "title": "灰境行者新预告片",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 648880,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%B0%E5%A2%83%E8%A1%8C%E8%80%85%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87"
-      },
-      "raw_titles": [
-        "灰境行者新预告片"
-      ],
-      "rank": 18,
-      "movie_rank": 13
-    },
-    {
-      "title": "蜘蛛侠4结局解析",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 560404,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%93%E5%B1%80%E8%A7%A3%E6%9E%90"
-      },
-      "raw_titles": [
-        "蜘蛛侠4结局解析"
-      ],
-      "rank": 19,
-      "movie_rank": 14
+      "rank": 13,
+      "movie_rank": 7
     },
     {
       "title": "窦靖童 王菲的声音窦唯的造型",
@@ -317,7 +227,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 521853,
+      "hot_value": 447766,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%AA%A6%E9%9D%96%E7%AB%A5%20%E7%8E%8B%E8%8F%B2%E7%9A%84%E5%A3%B0%E9%9F%B3%E7%AA%A6%E5%94%AF%E7%9A%84%E9%80%A0%E5%9E%8B",
         "百度": "https://m.baidu.com/s?word=%E7%AA%A6%E9%9D%96%E7%AB%A5%E7%8E%8B%E8%8F%B2%E7%9A%84%E5%A3%B0%E9%9F%B3%E7%AA%A6%E5%94%AF%E7%9A%84%E9%80%A0%E5%9E%8B&sa=fyb_news"
@@ -325,24 +235,122 @@
       "raw_titles": [
         "窦靖童 王菲的声音窦唯的造型"
       ],
-      "rank": 20,
-      "movie_rank": 15
+      "rank": 14,
+      "movie_rank": 8
     },
     {
-      "title": "《八仙！》导演：没想到杨戬这么火",
+      "title": "董宇辉称看了500遍大话西游 星爷震惊",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 288000,
+      "hot_value": 414000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E6%9D%A8%E6%88%AC%E8%BF%99%E4%B9%88%E7%81%AB&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E7%9C%8B%E4%BA%86500%E9%81%8D%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8+%E6%98%9F%E7%88%B7%E9%9C%87%E6%83%8A&sa=fyb_news"
       },
       "raw_titles": [
-        "《八仙！》导演：没想到杨戬这么火"
+        "董宇辉称看了500遍大话西游 星爷震惊"
+      ],
+      "rank": 15,
+      "movie_rank": 9
+    },
+    {
+      "title": "申惠善获青龙视后",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 399882,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%94%B3%E6%83%A0%E5%96%84%E8%8E%B7%E9%9D%92%E9%BE%99%E8%A7%86%E5%90%8E"
+      },
+      "raw_titles": [
+        "申惠善获青龙视后"
+      ],
+      "rank": 16,
+      "movie_rank": 10
+    },
+    {
+      "title": "《歌手2026》“歌王之战”人选决出",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 387000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B2026%E3%80%8B%E2%80%9C%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98%E2%80%9D%E4%BA%BA%E9%80%89%E5%86%B3%E5%87%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《歌手2026》“歌王之战”人选决出"
+      ],
+      "rank": 17,
+      "movie_rank": 11
+    },
+    {
+      "title": "邓紫棋偷看歌手又被发现了",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 317096,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E6%AD%8C%E6%89%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86",
+        "百度": "https://m.baidu.com/s?word=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "邓紫棋偷看歌手又被发现了"
+      ],
+      "rank": 18,
+      "movie_rank": 12
+    },
+    {
+      "title": "肖战的腰还好吗",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 243333,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9A%84%E8%85%B0%E8%BF%98%E5%A5%BD%E5%90%97"
+      },
+      "raw_titles": [
+        "肖战的腰还好吗"
+      ],
+      "rank": 19,
+      "movie_rank": 13
+    },
+    {
+      "title": "歌手直播",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 243127,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD"
+      },
+      "raw_titles": [
+        "歌手直播"
+      ],
+      "rank": 20,
+      "movie_rank": 14
+    },
+    {
+      "title": "杨幂百花奖史上第一位女配双提名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 239120,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%A5%B3%E9%85%8D%E5%8F%8C%E6%8F%90%E5%90%8D"
+      },
+      "raw_titles": [
+        "杨幂百花奖史上第一位女配双提名"
       ],
       "rank": 21,
-      "movie_rank": 16
+      "movie_rank": 15
     },
     {
       "title": "迪丽热巴中国银幕封面",
@@ -350,7 +358,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 268405,
+      "hot_value": 222898,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%AD%E5%9B%BD%E9%93%B6%E5%B9%95%E5%B0%81%E9%9D%A2"
       },
@@ -358,54 +366,70 @@
         "迪丽热巴中国银幕封面"
       ],
       "rank": 22,
-      "movie_rank": 17
+      "movie_rank": 16
     },
     {
-      "title": "王楚钦vs徐瑛彬",
+      "title": "王楚钦徐瑛彬 伤病对决",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 264697,
+      "hot_value": 208174,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BE%90%E7%91%9B%E5%BD%AC"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%BE%90%E7%91%9B%E5%BD%AC%20%E4%BC%A4%E7%97%85%E5%AF%B9%E5%86%B3"
       },
       "raw_titles": [
-        "王楚钦vs徐瑛彬"
+        "王楚钦徐瑛彬 伤病对决"
       ],
       "rank": 23,
-      "sports_rank": 6
+      "sports_rank": 7
     },
     {
-      "title": "丑八怪 改编",
+      "title": "魏如萱《歌手》一季被淘汰两次",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 198000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%AD%8F%E5%A6%82%E8%90%B1%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E4%B8%80%E5%AD%A3%E8%A2%AB%E6%B7%98%E6%B1%B0%E4%B8%A4%E6%AC%A1&sa=fyb_news"
+      },
+      "raw_titles": [
+        "魏如萱《歌手》一季被淘汰两次"
+      ],
+      "rank": 24,
+      "movie_rank": 17
+    },
+    {
+      "title": "尤长靖歌手第一",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 244076,
+      "hot_value": 164581,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%91%E5%85%AB%E6%80%AA%20%E6%94%B9%E7%BC%96"
+        "微博": "https://s.weibo.com/weibo?q=%E5%B0%A4%E9%95%BF%E9%9D%96%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%80"
       },
       "raw_titles": [
-        "丑八怪 改编"
+        "尤长靖歌手第一"
       ],
-      "rank": 24,
+      "rank": 25,
       "movie_rank": 18
     },
     {
-      "title": "好多明星用了迪丽热巴音频",
+      "title": "《八仙！》导演：没想到杨戬这么火",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 203029,
+      "hot_value": 162000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E7%94%A8%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%9F%B3%E9%A2%91"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E6%9D%A8%E6%88%AC%E8%BF%99%E4%B9%88%E7%81%AB&sa=fyb_news"
       },
       "raw_titles": [
-        "好多明星用了迪丽热巴音频"
+        "《八仙！》导演：没想到杨戬这么火"
       ],
-      "rank": 25,
+      "rank": 26,
       "movie_rank": 19
     },
     {
@@ -414,41 +438,43 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 108000,
+      "hot_value": 63000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%AD%8F%E5%A6%82%E8%90%B1%E3%80%8A%E4%B8%91%E5%85%AB%E6%80%AA%E3%80%8B%E4%BB%8E%E8%A2%AB%E9%AA%82%E5%88%B0%E5%B0%81%E7%A5%9E&sa=fyb_news"
       },
       "raw_titles": [
         "魏如萱《丑八怪》从被骂到封神"
       ],
-      "rank": 26,
-      "movie_rank": 20
-    },
-    {
-      "title": "想打“亚洲牌”的格莱美急了",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 18000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%83%B3%E6%89%93%E2%80%9C%E4%BA%9A%E6%B4%B2%E7%89%8C%E2%80%9D%E7%9A%84%E6%A0%BC%E8%8E%B1%E7%BE%8E%E6%80%A5%E4%BA%86&sa=fyb_news"
-      },
-      "raw_titles": [
-        "想打“亚洲牌”的格莱美急了"
-      ],
       "rank": 27,
-      "movie_rank": 21
+      "movie_rank": 20
     }
   ],
   "sports": [
     {
+      "title": "吴宜泽无缘斯诺克上海大师赛决赛",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 12111892,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%97%A0%E7%BC%98%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%86%B3%E8%B5%9B&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%8D%8A%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "吴宜泽无缘斯诺克上海大师赛决赛"
+      ],
+      "rank": 2,
+      "sports_rank": 1
+    },
+    {
       "title": "特鲁姆普长台准到离谱",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7726758,
+      "hot_value": 7817823,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E9%95%BF%E5%8F%B0%E5%87%86%E5%88%B0%E7%A6%BB%E8%B0%B1"
       },
@@ -456,7 +482,7 @@
         "特鲁姆普长台准到离谱"
       ],
       "rank": 3,
-      "sports_rank": 1
+      "sports_rank": 2
     },
     {
       "title": "柯洁称党毅飞是最强的对手之一",
@@ -464,15 +490,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1099194,
+      "hot_value": 1380088,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%E7%A7%B0%E5%85%9A%E6%AF%85%E9%A3%9E%E6%98%AF%E6%9C%80%E5%BC%BA%E7%9A%84%E5%AF%B9%E6%89%8B%E4%B9%8B%E4%B8%80"
       },
       "raw_titles": [
         "柯洁称党毅飞是最强的对手之一"
       ],
+      "rank": 7,
+      "sports_rank": 3
+    },
+    {
+      "title": "机器狼扛着火箭筒冲上滩头",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1292205,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E7%8B%BC%E6%89%9B%E7%9D%80%E7%81%AB%E7%AE%AD%E7%AD%92%E5%86%B2%E4%B8%8A%E6%BB%A9%E5%A4%B4"
+      },
+      "raw_titles": [
+        "机器狼扛着火箭筒冲上滩头"
+      ],
       "rank": 8,
-      "sports_rank": 2
+      "sports_rank": 4
     },
     {
       "title": "柯洁 冠军结算画面",
@@ -480,15 +522,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1051955,
+      "hot_value": 1287226,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%20%E5%86%A0%E5%86%9B%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2"
       },
       "raw_titles": [
         "柯洁 冠军结算画面"
       ],
-      "rank": 10,
-      "sports_rank": 3
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "柯洁夺冠后采访",
@@ -496,62 +538,52 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1016652,
+      "hot_value": 1145276,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%E5%A4%BA%E5%86%A0%E5%90%8E%E9%87%87%E8%AE%BF"
       },
       "raw_titles": [
         "柯洁夺冠后采访"
       ],
-      "rank": 11,
-      "sports_rank": 4
+      "rank": 12,
+      "sports_rank": 6
     },
     {
-      "title": "柯洁拿下王中王争霸赛冠军",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 809259,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E6%B4%81%E6%8B%BF%E4%B8%8B%E7%8E%8B%E4%B8%AD%E7%8E%8B%E4%BA%89%E9%9C%B8%E8%B5%9B%E5%86%A0%E5%86%9B"
-      },
-      "raw_titles": [
-        "柯洁拿下王中王争霸赛冠军"
-      ],
-      "rank": 14,
-      "sports_rank": 5
-    },
-    {
-      "title": "王楚钦vs徐瑛彬",
+      "title": "王楚钦徐瑛彬 伤病对决",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 264697,
+      "hot_value": 208174,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BE%90%E7%91%9B%E5%BD%AC"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%BE%90%E7%91%9B%E5%BD%AC%20%E4%BC%A4%E7%97%85%E5%AF%B9%E5%86%B3"
       },
       "raw_titles": [
-        "王楚钦vs徐瑛彬"
+        "王楚钦徐瑛彬 伤病对决"
       ],
       "rank": 23,
-      "sports_rank": 6
+      "sports_rank": 7
     }
   ],
   "movies": [
     {
-      "title": "蜘蛛侠4结尾神来之笔",
+      "title": "蜘蛛侠",
       "category": "影视",
       "sources": [
-        "抖音"
+        "微博",
+        "抖音",
+        "哔哩哔哩",
+        "哔哩哔哩",
+        "哔哩哔哩"
       ],
-      "hot_value": 7832673,
+      "hot_value": 12659198,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%93%E5%B0%BE%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94"
+        "微博": "https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A0",
+        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%93%E5%B0%BE%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E6%95%85%E4%BA%8B"
       },
       "raw_titles": [
-        "蜘蛛侠4结尾神来之笔"
+        "蜘蛛侠"
       ],
       "rank": 1,
       "movie_rank": 1
@@ -562,161 +594,79 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7740978,
+      "hot_value": 7768211,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%98%BF%E5%93%B2%E8%87%AA%E5%88%B6%E7%BB%BC%E8%89%BA%E8%9C%A5%E8%9C%B4%E5%A4%B4%E9%80%A0%E5%9E%8B%E5%A4%AA%E7%82%B8%E8%A3%82%E4%BA%86"
       },
       "raw_titles": [
         "阿哲自制综艺蜥蜴头造型太炸裂了"
       ],
-      "rank": 2,
+      "rank": 4,
       "movie_rank": 2
     },
     {
-      "title": "蜘蛛侠崭新之日皮影海报",
+      "title": "歌手冲刺赛第二场舞台",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7661970,
+      "hot_value": 7735453,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5%E7%9A%AE%E5%BD%B1%E6%B5%B7%E6%8A%A5"
+        "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%9C%BA%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
-        "蜘蛛侠崭新之日皮影海报"
+        "歌手冲刺赛第二场舞台"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 3
     },
     {
-      "title": "狂阿弥和荷兰弟聊蜘蛛侠的10年",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1654284,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8B%82%E9%98%BF%E5%BC%A5%E5%92%8C%E8%8D%B7%E5%85%B0%E5%BC%9F%E8%81%8A%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9A%8410%E5%B9%B4"
-      },
-      "raw_titles": [
-        "狂阿弥和荷兰弟聊蜘蛛侠的10年"
-      ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "一站式讲完蜘蛛侠4细节",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1245533,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E7%AB%99%E5%BC%8F%E8%AE%B2%E5%AE%8C%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%86%E8%8A%82"
-      },
-      "raw_titles": [
-        "一站式讲完蜘蛛侠4细节"
-      ],
-      "rank": 6,
-      "movie_rank": 5
-    },
-    {
-      "title": "蜘蛛侠真正的破茧重生",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1099542,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%A0%B4%E8%8C%A7%E9%87%8D%E7%94%9F"
-      },
-      "raw_titles": [
-        "蜘蛛侠真正的破茧重生"
-      ],
-      "rank": 7,
-      "movie_rank": 6
-    },
-    {
-      "title": "歌手直播",
+      "title": "歌手排名",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 1056729,
+      "hot_value": 2046494,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
-        "歌手直播"
+        "歌手排名"
       ],
-      "rank": 9,
-      "movie_rank": 7
+      "rank": 6,
+      "movie_rank": 4
     },
     {
-      "title": "群星闪耀时口碑为何两极分化",
+      "title": "解读爆火AI动画垃圾站",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 875404,
+      "hot_value": 1275555,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6%E5%8F%A3%E7%A2%91%E4%B8%BA%E4%BD%95%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%88%86%E7%81%ABAI%E5%8A%A8%E7%94%BB%E5%9E%83%E5%9C%BE%E7%AB%99"
       },
       "raw_titles": [
-        "群星闪耀时口碑为何两极分化"
+        "解读爆火AI动画垃圾站"
       ],
-      "rank": 12,
-      "movie_rank": 8
+      "rank": 10,
+      "movie_rank": 5
     },
     {
-      "title": "蜘蛛侠4讲了什么故事",
+      "title": "决战动漫男二之巅",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 812635,
+      "hot_value": 1187960,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E6%95%85%E4%BA%8B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%86%B3%E6%88%98%E5%8A%A8%E6%BC%AB%E7%94%B7%E4%BA%8C%E4%B9%8B%E5%B7%85"
       },
       "raw_titles": [
-        "蜘蛛侠4讲了什么故事"
+        "决战动漫男二之巅"
       ],
-      "rank": 13,
-      "movie_rank": 9
-    },
-    {
-      "title": "邓紫棋偷看歌手又被发现了",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 799363,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E6%AD%8C%E6%89%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86",
-        "百度": "https://m.baidu.com/s?word=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86&sa=fyb_news"
-      },
-      "raw_titles": [
-        "邓紫棋偷看歌手又被发现了"
-      ],
-      "rank": 15,
-      "movie_rank": 10
-    },
-    {
-      "title": "蜘蛛侠4真实观后感",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 697769,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%9C%9F%E5%AE%9E%E8%A7%82%E5%90%8E%E6%84%9F"
-      },
-      "raw_titles": [
-        "蜘蛛侠4真实观后感"
-      ],
-      "rank": 16,
-      "movie_rank": 11
+      "rank": 11,
+      "movie_rank": 6
     },
     {
       "title": "周星驰质疑董宇辉看大话西游500遍",
@@ -724,47 +674,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 657098,
+      "hot_value": 999064,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%B4%A8%E7%96%91%E8%91%A3%E5%AE%87%E8%BE%89%E7%9C%8B%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8500%E9%81%8D"
       },
       "raw_titles": [
         "周星驰质疑董宇辉看大话西游500遍"
       ],
-      "rank": 17,
-      "movie_rank": 12
-    },
-    {
-      "title": "灰境行者新预告片",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 648880,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%B0%E5%A2%83%E8%A1%8C%E8%80%85%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87"
-      },
-      "raw_titles": [
-        "灰境行者新预告片"
-      ],
-      "rank": 18,
-      "movie_rank": 13
-    },
-    {
-      "title": "蜘蛛侠4结局解析",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 560404,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%93%E5%B1%80%E8%A7%A3%E6%9E%90"
-      },
-      "raw_titles": [
-        "蜘蛛侠4结局解析"
-      ],
-      "rank": 19,
-      "movie_rank": 14
+      "rank": 13,
+      "movie_rank": 7
     },
     {
       "title": "窦靖童 王菲的声音窦唯的造型",
@@ -773,7 +691,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 521853,
+      "hot_value": 447766,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%AA%A6%E9%9D%96%E7%AB%A5%20%E7%8E%8B%E8%8F%B2%E7%9A%84%E5%A3%B0%E9%9F%B3%E7%AA%A6%E5%94%AF%E7%9A%84%E9%80%A0%E5%9E%8B",
         "百度": "https://m.baidu.com/s?word=%E7%AA%A6%E9%9D%96%E7%AB%A5%E7%8E%8B%E8%8F%B2%E7%9A%84%E5%A3%B0%E9%9F%B3%E7%AA%A6%E5%94%AF%E7%9A%84%E9%80%A0%E5%9E%8B&sa=fyb_news"
@@ -781,24 +699,122 @@
       "raw_titles": [
         "窦靖童 王菲的声音窦唯的造型"
       ],
-      "rank": 20,
-      "movie_rank": 15
+      "rank": 14,
+      "movie_rank": 8
     },
     {
-      "title": "《八仙！》导演：没想到杨戬这么火",
+      "title": "董宇辉称看了500遍大话西游 星爷震惊",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 288000,
+      "hot_value": 414000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E6%9D%A8%E6%88%AC%E8%BF%99%E4%B9%88%E7%81%AB&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E7%9C%8B%E4%BA%86500%E9%81%8D%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8+%E6%98%9F%E7%88%B7%E9%9C%87%E6%83%8A&sa=fyb_news"
       },
       "raw_titles": [
-        "《八仙！》导演：没想到杨戬这么火"
+        "董宇辉称看了500遍大话西游 星爷震惊"
+      ],
+      "rank": 15,
+      "movie_rank": 9
+    },
+    {
+      "title": "申惠善获青龙视后",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 399882,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%94%B3%E6%83%A0%E5%96%84%E8%8E%B7%E9%9D%92%E9%BE%99%E8%A7%86%E5%90%8E"
+      },
+      "raw_titles": [
+        "申惠善获青龙视后"
+      ],
+      "rank": 16,
+      "movie_rank": 10
+    },
+    {
+      "title": "《歌手2026》“歌王之战”人选决出",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 387000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AD%8C%E6%89%8B2026%E3%80%8B%E2%80%9C%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98%E2%80%9D%E4%BA%BA%E9%80%89%E5%86%B3%E5%87%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《歌手2026》“歌王之战”人选决出"
+      ],
+      "rank": 17,
+      "movie_rank": 11
+    },
+    {
+      "title": "邓紫棋偷看歌手又被发现了",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 317096,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E6%AD%8C%E6%89%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86",
+        "百度": "https://m.baidu.com/s?word=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "邓紫棋偷看歌手又被发现了"
+      ],
+      "rank": 18,
+      "movie_rank": 12
+    },
+    {
+      "title": "肖战的腰还好吗",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 243333,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9A%84%E8%85%B0%E8%BF%98%E5%A5%BD%E5%90%97"
+      },
+      "raw_titles": [
+        "肖战的腰还好吗"
+      ],
+      "rank": 19,
+      "movie_rank": 13
+    },
+    {
+      "title": "歌手直播",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 243127,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD"
+      },
+      "raw_titles": [
+        "歌手直播"
+      ],
+      "rank": 20,
+      "movie_rank": 14
+    },
+    {
+      "title": "杨幂百花奖史上第一位女配双提名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 239120,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%A5%B3%E9%85%8D%E5%8F%8C%E6%8F%90%E5%90%8D"
+      },
+      "raw_titles": [
+        "杨幂百花奖史上第一位女配双提名"
       ],
       "rank": 21,
-      "movie_rank": 16
+      "movie_rank": 15
     },
     {
       "title": "迪丽热巴中国银幕封面",
@@ -806,7 +822,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 268405,
+      "hot_value": 222898,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%AD%E5%9B%BD%E9%93%B6%E5%B9%95%E5%B0%81%E9%9D%A2"
       },
@@ -814,38 +830,54 @@
         "迪丽热巴中国银幕封面"
       ],
       "rank": 22,
+      "movie_rank": 16
+    },
+    {
+      "title": "魏如萱《歌手》一季被淘汰两次",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 198000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%AD%8F%E5%A6%82%E8%90%B1%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E4%B8%80%E5%AD%A3%E8%A2%AB%E6%B7%98%E6%B1%B0%E4%B8%A4%E6%AC%A1&sa=fyb_news"
+      },
+      "raw_titles": [
+        "魏如萱《歌手》一季被淘汰两次"
+      ],
+      "rank": 24,
       "movie_rank": 17
     },
     {
-      "title": "丑八怪 改编",
+      "title": "尤长靖歌手第一",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 244076,
+      "hot_value": 164581,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%91%E5%85%AB%E6%80%AA%20%E6%94%B9%E7%BC%96"
+        "微博": "https://s.weibo.com/weibo?q=%E5%B0%A4%E9%95%BF%E9%9D%96%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%80"
       },
       "raw_titles": [
-        "丑八怪 改编"
+        "尤长靖歌手第一"
       ],
-      "rank": 24,
+      "rank": 25,
       "movie_rank": 18
     },
     {
-      "title": "好多明星用了迪丽热巴音频",
+      "title": "《八仙！》导演：没想到杨戬这么火",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 203029,
+      "hot_value": 162000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E7%94%A8%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%9F%B3%E9%A2%91"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E6%9D%A8%E6%88%AC%E8%BF%99%E4%B9%88%E7%81%AB&sa=fyb_news"
       },
       "raw_titles": [
-        "好多明星用了迪丽热巴音频"
+        "《八仙！》导演：没想到杨戬这么火"
       ],
-      "rank": 25,
+      "rank": 26,
       "movie_rank": 19
     },
     {
@@ -854,31 +886,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 108000,
+      "hot_value": 63000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%AD%8F%E5%A6%82%E8%90%B1%E3%80%8A%E4%B8%91%E5%85%AB%E6%80%AA%E3%80%8B%E4%BB%8E%E8%A2%AB%E9%AA%82%E5%88%B0%E5%B0%81%E7%A5%9E&sa=fyb_news"
       },
       "raw_titles": [
         "魏如萱《丑八怪》从被骂到封神"
       ],
-      "rank": 26,
-      "movie_rank": 20
-    },
-    {
-      "title": "想打“亚洲牌”的格莱美急了",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 18000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%83%B3%E6%89%93%E2%80%9C%E4%BA%9A%E6%B4%B2%E7%89%8C%E2%80%9D%E7%9A%84%E6%A0%BC%E8%8E%B1%E7%BE%8E%E6%80%A5%E4%BA%86&sa=fyb_news"
-      },
-      "raw_titles": [
-        "想打“亚洲牌”的格莱美急了"
-      ],
       "rank": 27,
-      "movie_rank": 21
+      "movie_rank": 20
     }
   ]
 }
