@@ -1,57 +1,39 @@
 {
-  "update_time": "2026-08-03 00:00:48",
+  "update_time": "2026-08-03 01:00:48",
   "total": 31,
-  "sports_count": 11,
-  "movie_count": 21,
+  "sports_count": 9,
+  "movie_count": 22,
   "all": [
-    {
-      "title": "特鲁姆普大心脏一分逆转绝杀",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8168417,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%A7%E5%BF%83%E8%84%8F%E4%B8%80%E5%88%86%E9%80%86%E8%BD%AC%E7%BB%9D%E6%9D%80"
-      },
-      "raw_titles": [
-        "特鲁姆普大心脏一分逆转绝杀"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "蔡徐坤演唱会",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "抖音"
-      ],
-      "hot_value": 7979815,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A",
-        "抖音": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E6%90%AD"
-      },
-      "raw_titles": [
-        "蔡徐坤演唱会"
-      ],
-      "rank": 2,
-      "movie_rank": 1
-    },
     {
       "title": "中超辽宁铁人3:1上海申花",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7793395,
+      "hot_value": 7889285,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E8%BE%BD%E5%AE%81%E9%93%81%E4%BA%BA3%3A1%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1"
       },
       "raw_titles": [
         "中超辽宁铁人3:1上海申花"
       ],
-      "rank": 3,
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "特鲁姆普大心脏一分逆转绝杀",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7804231,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%A7%E5%BF%83%E8%84%8F%E4%B8%80%E5%88%86%E9%80%86%E8%BD%AC%E7%BB%9D%E6%9D%80"
+      },
+      "raw_titles": [
+        "特鲁姆普大心脏一分逆转绝杀"
+      ],
+      "rank": 2,
       "sports_rank": 2
     },
     {
@@ -60,14 +42,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7754839,
+      "hot_value": 7786912,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B9%96%E5%8D%97%E7%9C%81%E8%B6%B3%E5%8D%8F%E9%80%9A%E6%8A%A5%E6%B9%98%E8%B6%85%E8%81%94%E8%B5%9B%E6%BC%8F%E5%88%A4%E7%82%B9%E7%90%83"
       },
       "raw_titles": [
         "湖南省足协通报湘超联赛漏判点球"
       ],
-      "rank": 4,
+      "rank": 3,
       "sports_rank": 3
     },
     {
@@ -76,12 +58,28 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7738014,
+      "hot_value": 7782425,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%8E%BB%E4%BD%A0%E7%9A%84%E5%B2%9B%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7%E4%BA%86"
       },
       "raw_titles": [
         "电影去你的岛后劲太大了"
+      ],
+      "rank": 4,
+      "movie_rank": 1
+    },
+    {
+      "title": "小火人蜘蛛侠联动",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7751736,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B0%8F%E7%81%AB%E4%BA%BA%E8%9C%98%E8%9B%9B%E4%BE%A0%E8%81%94%E5%8A%A8"
+      },
+      "raw_titles": [
+        "小火人蜘蛛侠联动"
       ],
       "rank": 5,
       "movie_rank": 2
@@ -92,7 +90,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7727879,
+      "hot_value": 7743701,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9F%AF%E6%B4%81%E8%BF%99%E6%AC%A1cos%E5%8F%8D%E5%B7%AE%E6%84%9F%E6%8B%89%E6%BB%A1"
       },
@@ -108,7 +106,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7695497,
+      "hot_value": 7694324,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%87%8A%E5%B0%8F%E9%BE%99%E6%97%B6%E9%9A%9430%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%8E%A2%E7%8F%AD%E5%91%A8%E6%98%9F%E9%A9%B0"
       },
@@ -119,20 +117,70 @@
       "movie_rank": 3
     },
     {
+      "title": "晒出你的蔡徐坤演唱会穿搭",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7686801,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E6%90%AD"
+      },
+      "raw_titles": [
+        "晒出你的蔡徐坤演唱会穿搭"
+      ],
+      "rank": 8,
+      "movie_rank": 4
+    },
+    {
       "title": "如果你也懂蜘蛛侠4和怪奇物语",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7643541,
+      "hot_value": 7669861,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%9F%E6%87%82%E8%9C%98%E8%9B%9B%E4%BE%A04%E5%92%8C%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD"
       },
       "raw_titles": [
         "如果你也懂蜘蛛侠4和怪奇物语"
       ],
-      "rank": 8,
-      "movie_rank": 4
+      "rank": 9,
+      "movie_rank": 5
+    },
+    {
+      "title": "斯诺克上海大师赛特鲁姆普夺冠",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1688010,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%BA%E5%86%A0&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "斯诺克上海大师赛特鲁姆普夺冠"
+      ],
+      "rank": 10,
+      "sports_rank": 5
+    },
+    {
+      "title": "仲树回应采访诺兰爆火",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1526104,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%B2%E6%A0%91%E5%9B%9E%E5%BA%94%E9%87%87%E8%AE%BF%E8%AF%BA%E5%85%B0%E7%88%86%E7%81%AB"
+      },
+      "raw_titles": [
+        "仲树回应采访诺兰爆火"
+      ],
+      "rank": 11,
+      "movie_rank": 6
     },
     {
       "title": "中国人能飞真人版",
@@ -140,15 +188,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1762936,
+      "hot_value": 1314520,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%9C%9F%E4%BA%BA%E7%89%88"
       },
       "raw_titles": [
         "中国人能飞真人版"
       ],
-      "rank": 9,
-      "movie_rank": 5
+      "rank": 12,
+      "movie_rank": 7
     },
     {
       "title": "仲树对话诺兰奥德赛",
@@ -156,31 +204,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1607916,
+      "hot_value": 1203991,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%B2%E6%A0%91%E5%AF%B9%E8%AF%9D%E8%AF%BA%E5%85%B0%E5%A5%A5%E5%BE%B7%E8%B5%9B"
       },
       "raw_titles": [
         "仲树对话诺兰奥德赛"
       ],
-      "rank": 10,
-      "movie_rank": 6
-    },
-    {
-      "title": "万字解析蜘蛛侠崭新之日",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1527706,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5"
-      },
-      "raw_titles": [
-        "万字解析蜘蛛侠崭新之日"
-      ],
-      "rank": 11,
-      "movie_rank": 7
+      "rank": 13,
+      "movie_rank": 8
     },
     {
       "title": "歌剧老师评歌手第11期",
@@ -188,47 +220,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1492952,
+      "hot_value": 1155961,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC11%E6%9C%9F"
       },
       "raw_titles": [
         "歌剧老师评歌手第11期"
       ],
-      "rank": 12,
-      "movie_rank": 8
+      "rank": 14,
+      "movie_rank": 9
     },
     {
-      "title": "孙颖莎因伤退赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1122280,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B"
-      },
-      "raw_titles": [
-        "孙颖莎因伤退赛"
-      ],
-      "rank": 13,
-      "sports_rank": 5
-    },
-    {
-      "title": "假如网络烂梗穿越到经典电影",
+      "title": "万字解析蜘蛛侠崭新之日",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1077167,
+      "hot_value": 1112148,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E7%BD%91%E7%BB%9C%E7%83%82%E6%A2%97%E7%A9%BF%E8%B6%8A%E5%88%B0%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5"
       },
       "raw_titles": [
-        "假如网络烂梗穿越到经典电影"
+        "万字解析蜘蛛侠崭新之日"
       ],
-      "rank": 14,
-      "movie_rank": 9
+      "rank": 15,
+      "movie_rank": 10
+    },
+    {
+      "title": "蔡徐坤说终于撕掉爱豆标签",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 898782,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E7%BB%88%E4%BA%8E%E6%92%95%E6%8E%89%E7%88%B1%E8%B1%86%E6%A0%87%E7%AD%BE"
+      },
+      "raw_titles": [
+        "蔡徐坤说终于撕掉爱豆标签"
+      ],
+      "rank": 16,
+      "movie_rank": 11
     },
     {
       "title": "火影综艺飞舞吧忍者第三集",
@@ -236,15 +268,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 892358,
+      "hot_value": 631117,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%89%E9%9B%86"
       },
       "raw_titles": [
         "火影综艺飞舞吧忍者第三集"
       ],
-      "rank": 15,
-      "movie_rank": 10
+      "rank": 17,
+      "movie_rank": 12
     },
     {
       "title": "把看过的炸裂小说翻拍成短剧",
@@ -252,31 +284,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 804656,
+      "hot_value": 608185,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E7%9C%8B%E8%BF%87%E7%9A%84%E7%82%B8%E8%A3%82%E5%B0%8F%E8%AF%B4%E7%BF%BB%E6%8B%8D%E6%88%90%E7%9F%AD%E5%89%A7"
       },
       "raw_titles": [
         "把看过的炸裂小说翻拍成短剧"
       ],
-      "rank": 16,
-      "movie_rank": 11
+      "rank": 18,
+      "movie_rank": 13
     },
     {
-      "title": "蔡徐坤亲吻粉丝手背",
+      "title": "真实评价蜘蛛侠4动作戏",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 600672,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E8%9C%98%E8%9B%9B%E4%BE%A04%E5%8A%A8%E4%BD%9C%E6%88%8F"
+      },
+      "raw_titles": [
+        "真实评价蜘蛛侠4动作戏"
+      ],
+      "rank": 19,
+      "movie_rank": 14
+    },
+    {
+      "title": "蜘蛛侠4为何评价两极",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 593091,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E4%B8%BA%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%A4%E6%9E%81"
+      },
+      "raw_titles": [
+        "蜘蛛侠4为何评价两极"
+      ],
+      "rank": 20,
+      "movie_rank": 15
+    },
+    {
+      "title": "王俊凯植物医生品牌全球代言人",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 717931,
+      "hot_value": 446459,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%B2%E5%90%BB%E7%B2%89%E4%B8%9D%E6%89%8B%E8%83%8C"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%A4%8D%E7%89%A9%E5%8C%BB%E7%94%9F%E5%93%81%E7%89%8C%E5%85%A8%E7%90%83%E4%BB%A3%E8%A8%80%E4%BA%BA"
       },
       "raw_titles": [
-        "蔡徐坤亲吻粉丝手背"
+        "王俊凯植物医生品牌全球代言人"
       ],
-      "rank": 17,
-      "movie_rank": 12
+      "rank": 21,
+      "movie_rank": 16
     },
     {
       "title": "2026暑期档电影票房破71亿",
@@ -291,56 +355,72 @@
       "raw_titles": [
         "2026暑期档电影票房破71亿"
       ],
-      "rank": 18,
-      "movie_rank": 13
+      "rank": 22,
+      "movie_rank": 17
     },
     {
-      "title": "张凌赫的妈妈公开了和家人的合照",
+      "title": "《九门》开播带火赵丽颖版尹新月",
       "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 352675,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E5%A6%88%E5%A6%88%E5%85%AC%E5%BC%80%E4%BA%86%E5%92%8C%E5%AE%B6%E4%BA%BA%E7%9A%84%E5%90%88%E7%85%A7"
-      },
-      "raw_titles": [
-        "张凌赫的妈妈公开了和家人的合照"
-      ],
-      "rank": 19,
-      "movie_rank": 14
-    },
-    {
-      "title": "斯诺克上海大师赛特鲁姆普夺冠",
-      "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 333000,
+      "hot_value": 315000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%BA%E5%86%A0&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E4%B9%9D%E9%97%A8%E3%80%8B%E5%BC%80%E6%92%AD%E5%B8%A6%E7%81%AB%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%89%88%E5%B0%B9%E6%96%B0%E6%9C%88&sa=fyb_news"
       },
       "raw_titles": [
-        "斯诺克上海大师赛特鲁姆普夺冠"
+        "《九门》开播带火赵丽颖版尹新月"
       ],
-      "rank": 20,
+      "rank": 23,
+      "movie_rank": 18
+    },
+    {
+      "title": "孙颖莎因伤退赛",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 304522,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B"
+      },
+      "raw_titles": [
+        "孙颖莎因伤退赛"
+      ],
+      "rank": 24,
       "sports_rank": 6
     },
     {
-      "title": "易烊千玺打码",
+      "title": "蔡徐坤亲吻粉丝手背",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 311456,
+      "hot_value": 301900,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%89%93%E7%A0%81"
+        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%B2%E5%90%BB%E7%B2%89%E4%B8%9D%E6%89%8B%E8%83%8C"
       },
       "raw_titles": [
-        "易烊千玺打码"
+        "蔡徐坤亲吻粉丝手背"
       ],
-      "rank": 21,
-      "movie_rank": 15
+      "rank": 25,
+      "movie_rank": 19
+    },
+    {
+      "title": "李若彤挑战“蜘蛛侠单手撑地”",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 288000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E8%8B%A5%E5%BD%A4%E6%8C%91%E6%88%98%E2%80%9C%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%8D%95%E6%89%8B%E6%92%91%E5%9C%B0%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "李若彤挑战“蜘蛛侠单手撑地”"
+      ],
+      "rank": 26,
+      "movie_rank": 20
     },
     {
       "title": "被预言活不过40的患病退役军人74岁了",
@@ -355,89 +435,8 @@
       "raw_titles": [
         "被预言活不过40的患病退役军人74岁了"
       ],
-      "rank": 22,
-      "sports_rank": 7
-    },
-    {
-      "title": "2026年亚运会",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 250411,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=2026%E5%B9%B4%E4%BA%9A%E8%BF%90%E4%BC%9A"
-      },
-      "raw_titles": [
-        "2026年亚运会"
-      ],
-      "rank": 23,
-      "sports_rank": 8
-    },
-    {
-      "title": "迪丽热巴撒饭艺人",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 237268,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%92%92%E9%A5%AD%E8%89%BA%E4%BA%BA"
-      },
-      "raw_titles": [
-        "迪丽热巴撒饭艺人"
-      ],
-      "rank": 24,
-      "movie_rank": 16
-    },
-    {
-      "title": "《九门》开播带火赵丽颖版尹新月",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 234000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E4%B9%9D%E9%97%A8%E3%80%8B%E5%BC%80%E6%92%AD%E5%B8%A6%E7%81%AB%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%89%88%E5%B0%B9%E6%96%B0%E6%9C%88&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《九门》开播带火赵丽颖版尹新月"
-      ],
-      "rank": 25,
-      "movie_rank": 17
-    },
-    {
-      "title": "孙颖莎因伤退出WTT瑞典大满贯",
-      "category": "综合",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%A0%E4%BC%A4%E9%80%80%E5%87%BAWTT%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "孙颖莎因伤退出WTT瑞典大满贯"
-      ],
-      "rank": 26,
-      "sports_rank": 9,
-      "movie_rank": 18
-    },
-    {
-      "title": "李若彤挑战“蜘蛛侠单手撑地”",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 207000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E8%8B%A5%E5%BD%A4%E6%8C%91%E6%88%98%E2%80%9C%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%8D%95%E6%89%8B%E6%92%91%E5%9C%B0%E2%80%9D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "李若彤挑战“蜘蛛侠单手撑地”"
-      ],
       "rank": 27,
-      "movie_rank": 19
+      "sports_rank": 7
     },
     {
       "title": "C罗婚礼将用“siu”代替“我愿意”",
@@ -445,7 +444,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 189000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E5%A9%9A%E7%A4%BC%E5%B0%86%E7%94%A8%E2%80%9Csiu%E2%80%9D%E4%BB%A3%E6%9B%BF%E2%80%9C%E6%88%91%E6%84%BF%E6%84%8F%E2%80%9D&sa=fyb_news"
       },
@@ -453,23 +452,23 @@
         "C罗婚礼将用“siu”代替“我愿意”"
       ],
       "rank": 28,
-      "sports_rank": 10
+      "sports_rank": 8
     },
     {
-      "title": "主持人看迪丽热巴的眼神",
-      "category": "影视",
+      "title": "2026年亚运会",
+      "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 168456,
+      "hot_value": 212998,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%9C%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E7%9C%BC%E7%A5%9E"
+        "微博": "https://s.weibo.com/weibo?q=2026%E5%B9%B4%E4%BA%9A%E8%BF%90%E4%BC%9A"
       },
       "raw_titles": [
-        "主持人看迪丽热巴的眼神"
+        "2026年亚运会"
       ],
       "rank": 29,
-      "movie_rank": 20
+      "sports_rank": 9
     },
     {
       "title": "王俊凯把能开的座位都开了",
@@ -477,7 +476,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 128552,
+      "hot_value": 203370,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%8A%8A%E8%83%BD%E5%BC%80%E7%9A%84%E5%BA%A7%E4%BD%8D%E9%83%BD%E5%BC%80%E4%BA%86"
       },
@@ -488,53 +487,53 @@
       "movie_rank": 21
     },
     {
-      "title": "C罗无名指佩戴巨型钻戒",
-      "category": "体育",
+      "title": "《奥德赛》183元IMAX点映票抢不到",
+      "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 126000,
+      "hot_value": 72000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E6%97%A0%E5%90%8D%E6%8C%87%E4%BD%A9%E6%88%B4%E5%B7%A8%E5%9E%8B%E9%92%BB%E6%88%92&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B183%E5%85%83IMAX%E7%82%B9%E6%98%A0%E7%A5%A8%E6%8A%A2%E4%B8%8D%E5%88%B0&sa=fyb_news"
       },
       "raw_titles": [
-        "C罗无名指佩戴巨型钻戒"
+        "《奥德赛》183元IMAX点映票抢不到"
       ],
       "rank": 31,
-      "sports_rank": 11
+      "movie_rank": 22
     }
   ],
   "sports": [
     {
-      "title": "特鲁姆普大心脏一分逆转绝杀",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8168417,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%A7%E5%BF%83%E8%84%8F%E4%B8%80%E5%88%86%E9%80%86%E8%BD%AC%E7%BB%9D%E6%9D%80"
-      },
-      "raw_titles": [
-        "特鲁姆普大心脏一分逆转绝杀"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
       "title": "中超辽宁铁人3:1上海申花",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7793395,
+      "hot_value": 7889285,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E8%BE%BD%E5%AE%81%E9%93%81%E4%BA%BA3%3A1%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1"
       },
       "raw_titles": [
         "中超辽宁铁人3:1上海申花"
       ],
-      "rank": 3,
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "特鲁姆普大心脏一分逆转绝杀",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7804231,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%A7%E5%BF%83%E8%84%8F%E4%B8%80%E5%88%86%E9%80%86%E8%BD%AC%E7%BB%9D%E6%9D%80"
+      },
+      "raw_titles": [
+        "特鲁姆普大心脏一分逆转绝杀"
+      ],
+      "rank": 2,
       "sports_rank": 2
     },
     {
@@ -543,14 +542,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7754839,
+      "hot_value": 7786912,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B9%96%E5%8D%97%E7%9C%81%E8%B6%B3%E5%8D%8F%E9%80%9A%E6%8A%A5%E6%B9%98%E8%B6%85%E8%81%94%E8%B5%9B%E6%BC%8F%E5%88%A4%E7%82%B9%E7%90%83"
       },
       "raw_titles": [
         "湖南省足协通报湘超联赛漏判点球"
       ],
-      "rank": 4,
+      "rank": 3,
       "sports_rank": 3
     },
     {
@@ -559,7 +558,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7727879,
+      "hot_value": 7743701,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9F%AF%E6%B4%81%E8%BF%99%E6%AC%A1cos%E5%8F%8D%E5%B7%AE%E6%84%9F%E6%8B%89%E6%BB%A1"
       },
@@ -570,35 +569,37 @@
       "sports_rank": 4
     },
     {
+      "title": "斯诺克上海大师赛特鲁姆普夺冠",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1688010,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%BA%E5%86%A0&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "斯诺克上海大师赛特鲁姆普夺冠"
+      ],
+      "rank": 10,
+      "sports_rank": 5
+    },
+    {
       "title": "孙颖莎因伤退赛",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 1122280,
+      "hot_value": 304522,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B"
       },
       "raw_titles": [
         "孙颖莎因伤退赛"
       ],
-      "rank": 13,
-      "sports_rank": 5
-    },
-    {
-      "title": "斯诺克上海大师赛特鲁姆普夺冠",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 333000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E5%A4%BA%E5%86%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "斯诺克上海大师赛特鲁姆普夺冠"
-      ],
-      "rank": 20,
+      "rank": 24,
       "sports_rank": 6
     },
     {
@@ -614,41 +615,8 @@
       "raw_titles": [
         "被预言活不过40的患病退役军人74岁了"
       ],
-      "rank": 22,
+      "rank": 27,
       "sports_rank": 7
-    },
-    {
-      "title": "2026年亚运会",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 250411,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=2026%E5%B9%B4%E4%BA%9A%E8%BF%90%E4%BC%9A"
-      },
-      "raw_titles": [
-        "2026年亚运会"
-      ],
-      "rank": 23,
-      "sports_rank": 8
-    },
-    {
-      "title": "孙颖莎因伤退出WTT瑞典大满贯",
-      "category": "综合",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%A0%E4%BC%A4%E9%80%80%E5%87%BAWTT%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "孙颖莎因伤退出WTT瑞典大满贯"
-      ],
-      "rank": 26,
-      "sports_rank": 9,
-      "movie_rank": 18
     },
     {
       "title": "C罗婚礼将用“siu”代替“我愿意”",
@@ -656,7 +624,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 189000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E5%A9%9A%E7%A4%BC%E5%B0%86%E7%94%A8%E2%80%9Csiu%E2%80%9D%E4%BB%A3%E6%9B%BF%E2%80%9C%E6%88%91%E6%84%BF%E6%84%8F%E2%80%9D&sa=fyb_news"
       },
@@ -664,56 +632,54 @@
         "C罗婚礼将用“siu”代替“我愿意”"
       ],
       "rank": 28,
-      "sports_rank": 10
+      "sports_rank": 8
     },
     {
-      "title": "C罗无名指佩戴巨型钻戒",
+      "title": "2026年亚运会",
       "category": "体育",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 126000,
+      "hot_value": 212998,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E6%97%A0%E5%90%8D%E6%8C%87%E4%BD%A9%E6%88%B4%E5%B7%A8%E5%9E%8B%E9%92%BB%E6%88%92&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=2026%E5%B9%B4%E4%BA%9A%E8%BF%90%E4%BC%9A"
       },
       "raw_titles": [
-        "C罗无名指佩戴巨型钻戒"
+        "2026年亚运会"
       ],
-      "rank": 31,
-      "sports_rank": 11
+      "rank": 29,
+      "sports_rank": 9
     }
   ],
   "movies": [
-    {
-      "title": "蔡徐坤演唱会",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "抖音"
-      ],
-      "hot_value": 7979815,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A",
-        "抖音": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E6%90%AD"
-      },
-      "raw_titles": [
-        "蔡徐坤演唱会"
-      ],
-      "rank": 2,
-      "movie_rank": 1
-    },
     {
       "title": "电影去你的岛后劲太大了",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7738014,
+      "hot_value": 7782425,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%8E%BB%E4%BD%A0%E7%9A%84%E5%B2%9B%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7%E4%BA%86"
       },
       "raw_titles": [
         "电影去你的岛后劲太大了"
+      ],
+      "rank": 4,
+      "movie_rank": 1
+    },
+    {
+      "title": "小火人蜘蛛侠联动",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7751736,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B0%8F%E7%81%AB%E4%BA%BA%E8%9C%98%E8%9B%9B%E4%BE%A0%E8%81%94%E5%8A%A8"
+      },
+      "raw_titles": [
+        "小火人蜘蛛侠联动"
       ],
       "rank": 5,
       "movie_rank": 2
@@ -724,7 +690,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7695497,
+      "hot_value": 7694324,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%87%8A%E5%B0%8F%E9%BE%99%E6%97%B6%E9%9A%9430%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%8E%A2%E7%8F%AD%E5%91%A8%E6%98%9F%E9%A9%B0"
       },
@@ -735,20 +701,52 @@
       "movie_rank": 3
     },
     {
+      "title": "晒出你的蔡徐坤演唱会穿搭",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7686801,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E6%90%AD"
+      },
+      "raw_titles": [
+        "晒出你的蔡徐坤演唱会穿搭"
+      ],
+      "rank": 8,
+      "movie_rank": 4
+    },
+    {
       "title": "如果你也懂蜘蛛侠4和怪奇物语",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7643541,
+      "hot_value": 7669861,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%9F%E6%87%82%E8%9C%98%E8%9B%9B%E4%BE%A04%E5%92%8C%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD"
       },
       "raw_titles": [
         "如果你也懂蜘蛛侠4和怪奇物语"
       ],
-      "rank": 8,
-      "movie_rank": 4
+      "rank": 9,
+      "movie_rank": 5
+    },
+    {
+      "title": "仲树回应采访诺兰爆火",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1526104,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%B2%E6%A0%91%E5%9B%9E%E5%BA%94%E9%87%87%E8%AE%BF%E8%AF%BA%E5%85%B0%E7%88%86%E7%81%AB"
+      },
+      "raw_titles": [
+        "仲树回应采访诺兰爆火"
+      ],
+      "rank": 11,
+      "movie_rank": 6
     },
     {
       "title": "中国人能飞真人版",
@@ -756,15 +754,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1762936,
+      "hot_value": 1314520,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%9C%9F%E4%BA%BA%E7%89%88"
       },
       "raw_titles": [
         "中国人能飞真人版"
       ],
-      "rank": 9,
-      "movie_rank": 5
+      "rank": 12,
+      "movie_rank": 7
     },
     {
       "title": "仲树对话诺兰奥德赛",
@@ -772,31 +770,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1607916,
+      "hot_value": 1203991,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%B2%E6%A0%91%E5%AF%B9%E8%AF%9D%E8%AF%BA%E5%85%B0%E5%A5%A5%E5%BE%B7%E8%B5%9B"
       },
       "raw_titles": [
         "仲树对话诺兰奥德赛"
       ],
-      "rank": 10,
-      "movie_rank": 6
-    },
-    {
-      "title": "万字解析蜘蛛侠崭新之日",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1527706,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5"
-      },
-      "raw_titles": [
-        "万字解析蜘蛛侠崭新之日"
-      ],
-      "rank": 11,
-      "movie_rank": 7
+      "rank": 13,
+      "movie_rank": 8
     },
     {
       "title": "歌剧老师评歌手第11期",
@@ -804,31 +786,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1492952,
+      "hot_value": 1155961,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC11%E6%9C%9F"
       },
       "raw_titles": [
         "歌剧老师评歌手第11期"
       ],
-      "rank": 12,
-      "movie_rank": 8
+      "rank": 14,
+      "movie_rank": 9
     },
     {
-      "title": "假如网络烂梗穿越到经典电影",
+      "title": "万字解析蜘蛛侠崭新之日",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1077167,
+      "hot_value": 1112148,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E7%BD%91%E7%BB%9C%E7%83%82%E6%A2%97%E7%A9%BF%E8%B6%8A%E5%88%B0%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5"
       },
       "raw_titles": [
-        "假如网络烂梗穿越到经典电影"
+        "万字解析蜘蛛侠崭新之日"
       ],
-      "rank": 14,
-      "movie_rank": 9
+      "rank": 15,
+      "movie_rank": 10
+    },
+    {
+      "title": "蔡徐坤说终于撕掉爱豆标签",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 898782,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E7%BB%88%E4%BA%8E%E6%92%95%E6%8E%89%E7%88%B1%E8%B1%86%E6%A0%87%E7%AD%BE"
+      },
+      "raw_titles": [
+        "蔡徐坤说终于撕掉爱豆标签"
+      ],
+      "rank": 16,
+      "movie_rank": 11
     },
     {
       "title": "火影综艺飞舞吧忍者第三集",
@@ -836,15 +834,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 892358,
+      "hot_value": 631117,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%89%E9%9B%86"
       },
       "raw_titles": [
         "火影综艺飞舞吧忍者第三集"
       ],
-      "rank": 15,
-      "movie_rank": 10
+      "rank": 17,
+      "movie_rank": 12
     },
     {
       "title": "把看过的炸裂小说翻拍成短剧",
@@ -852,31 +850,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 804656,
+      "hot_value": 608185,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E7%9C%8B%E8%BF%87%E7%9A%84%E7%82%B8%E8%A3%82%E5%B0%8F%E8%AF%B4%E7%BF%BB%E6%8B%8D%E6%88%90%E7%9F%AD%E5%89%A7"
       },
       "raw_titles": [
         "把看过的炸裂小说翻拍成短剧"
       ],
-      "rank": 16,
-      "movie_rank": 11
+      "rank": 18,
+      "movie_rank": 13
     },
     {
-      "title": "蔡徐坤亲吻粉丝手背",
+      "title": "真实评价蜘蛛侠4动作戏",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 600672,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E8%9C%98%E8%9B%9B%E4%BE%A04%E5%8A%A8%E4%BD%9C%E6%88%8F"
+      },
+      "raw_titles": [
+        "真实评价蜘蛛侠4动作戏"
+      ],
+      "rank": 19,
+      "movie_rank": 14
+    },
+    {
+      "title": "蜘蛛侠4为何评价两极",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 593091,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E4%B8%BA%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%A4%E6%9E%81"
+      },
+      "raw_titles": [
+        "蜘蛛侠4为何评价两极"
+      ],
+      "rank": 20,
+      "movie_rank": 15
+    },
+    {
+      "title": "王俊凯植物医生品牌全球代言人",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 717931,
+      "hot_value": 446459,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%B2%E5%90%BB%E7%B2%89%E4%B8%9D%E6%89%8B%E8%83%8C"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%A4%8D%E7%89%A9%E5%8C%BB%E7%94%9F%E5%93%81%E7%89%8C%E5%85%A8%E7%90%83%E4%BB%A3%E8%A8%80%E4%BA%BA"
       },
       "raw_titles": [
-        "蔡徐坤亲吻粉丝手背"
+        "王俊凯植物医生品牌全球代言人"
       ],
-      "rank": 17,
-      "movie_rank": 12
+      "rank": 21,
+      "movie_rank": 16
     },
     {
       "title": "2026暑期档电影票房破71亿",
@@ -891,56 +921,8 @@
       "raw_titles": [
         "2026暑期档电影票房破71亿"
       ],
-      "rank": 18,
-      "movie_rank": 13
-    },
-    {
-      "title": "张凌赫的妈妈公开了和家人的合照",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 352675,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E5%A6%88%E5%A6%88%E5%85%AC%E5%BC%80%E4%BA%86%E5%92%8C%E5%AE%B6%E4%BA%BA%E7%9A%84%E5%90%88%E7%85%A7"
-      },
-      "raw_titles": [
-        "张凌赫的妈妈公开了和家人的合照"
-      ],
-      "rank": 19,
-      "movie_rank": 14
-    },
-    {
-      "title": "易烊千玺打码",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 311456,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%89%93%E7%A0%81"
-      },
-      "raw_titles": [
-        "易烊千玺打码"
-      ],
-      "rank": 21,
-      "movie_rank": 15
-    },
-    {
-      "title": "迪丽热巴撒饭艺人",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 237268,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%92%92%E9%A5%AD%E8%89%BA%E4%BA%BA"
-      },
-      "raw_titles": [
-        "迪丽热巴撒饭艺人"
-      ],
-      "rank": 24,
-      "movie_rank": 16
+      "rank": 22,
+      "movie_rank": 17
     },
     {
       "title": "《九门》开播带火赵丽颖版尹新月",
@@ -948,32 +930,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 315000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E4%B9%9D%E9%97%A8%E3%80%8B%E5%BC%80%E6%92%AD%E5%B8%A6%E7%81%AB%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%89%88%E5%B0%B9%E6%96%B0%E6%9C%88&sa=fyb_news"
       },
       "raw_titles": [
         "《九门》开播带火赵丽颖版尹新月"
       ],
-      "rank": 25,
-      "movie_rank": 17
+      "rank": 23,
+      "movie_rank": 18
     },
     {
-      "title": "孙颖莎因伤退出WTT瑞典大满贯",
-      "category": "综合",
+      "title": "蔡徐坤亲吻粉丝手背",
+      "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 225000,
+      "hot_value": 301900,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%A0%E4%BC%A4%E9%80%80%E5%87%BAWTT%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E4%BA%B2%E5%90%BB%E7%B2%89%E4%B8%9D%E6%89%8B%E8%83%8C"
       },
       "raw_titles": [
-        "孙颖莎因伤退出WTT瑞典大满贯"
+        "蔡徐坤亲吻粉丝手背"
       ],
-      "rank": 26,
-      "sports_rank": 9,
-      "movie_rank": 18
+      "rank": 25,
+      "movie_rank": 19
     },
     {
       "title": "李若彤挑战“蜘蛛侠单手撑地”",
@@ -981,30 +962,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 207000,
+      "hot_value": 288000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E8%8B%A5%E5%BD%A4%E6%8C%91%E6%88%98%E2%80%9C%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%8D%95%E6%89%8B%E6%92%91%E5%9C%B0%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
         "李若彤挑战“蜘蛛侠单手撑地”"
       ],
-      "rank": 27,
-      "movie_rank": 19
-    },
-    {
-      "title": "主持人看迪丽热巴的眼神",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 168456,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%9C%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E7%9C%BC%E7%A5%9E"
-      },
-      "raw_titles": [
-        "主持人看迪丽热巴的眼神"
-      ],
-      "rank": 29,
+      "rank": 26,
       "movie_rank": 20
     },
     {
@@ -1013,7 +978,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 128552,
+      "hot_value": 203370,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%8A%8A%E8%83%BD%E5%BC%80%E7%9A%84%E5%BA%A7%E4%BD%8D%E9%83%BD%E5%BC%80%E4%BA%86"
       },
@@ -1022,6 +987,22 @@
       ],
       "rank": 30,
       "movie_rank": 21
+    },
+    {
+      "title": "《奥德赛》183元IMAX点映票抢不到",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B183%E5%85%83IMAX%E7%82%B9%E6%98%A0%E7%A5%A8%E6%8A%A2%E4%B8%8D%E5%88%B0&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《奥德赛》183元IMAX点映票抢不到"
+      ],
+      "rank": 31,
+      "movie_rank": 22
     }
   ]
 }
