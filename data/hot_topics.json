@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-08-05 21:00:53",
-  "total": 22,
-  "sports_count": 5,
-  "movie_count": 19,
+  "update_time": "2026-08-05 22:00:55",
+  "total": 19,
+  "sports_count": 4,
+  "movie_count": 17,
   "all": [
     {
       "title": "蜘蛛侠官抖也在玩MJ梗",
@@ -10,7 +10,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8365201,
+      "hot_value": 8563927,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%AE%98%E6%8A%96%E4%B9%9F%E5%9C%A8%E7%8E%A9MJ%E6%A2%97"
       },
@@ -26,7 +26,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8179838,
+      "hot_value": 8456247,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3"
       },
@@ -37,53 +37,20 @@
       "movie_rank": 2
     },
     {
-      "title": "抖音手瓦选秀大会",
-      "category": "综合",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7743889,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E6%89%8B%E7%93%A6%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A"
-      },
-      "raw_titles": [
-        "抖音手瓦选秀大会"
-      ],
-      "rank": 3,
-      "sports_rank": 1,
-      "movie_rank": 3
-    },
-    {
-      "title": "导演称赞荷兰弟对肌肉的控制力",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7709749,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%AF%BC%E6%BC%94%E7%A7%B0%E8%B5%9E%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%AF%B9%E8%82%8C%E8%82%89%E7%9A%84%E6%8E%A7%E5%88%B6%E5%8A%9B"
-      },
-      "raw_titles": [
-        "导演称赞荷兰弟对肌肉的控制力"
-      ],
-      "rank": 4,
-      "movie_rank": 4
-    },
-    {
       "title": "见过蜘蛛侠穿女装吗",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709007,
+      "hot_value": 8190671,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A7%81%E8%BF%87%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%A9%BF%E5%A5%B3%E8%A3%85%E5%90%97"
       },
       "raw_titles": [
         "见过蜘蛛侠穿女装吗"
       ],
-      "rank": 5,
-      "movie_rank": 5
+      "rank": 3,
+      "movie_rank": 3
     },
     {
       "title": "澜无双皮肤闪光海报",
@@ -91,14 +58,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7660692,
+      "hot_value": 7814645,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%BE%9C%E6%97%A0%E5%8F%8C%E7%9A%AE%E8%82%A4%E9%97%AA%E5%85%89%E6%B5%B7%E6%8A%A5"
       },
       "raw_titles": [
         "澜无双皮肤闪光海报"
       ],
+      "rank": 4,
+      "movie_rank": 4
+    },
+    {
+      "title": "导演称赞荷兰弟对肌肉的控制力",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7806207,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%AF%BC%E6%BC%94%E7%A7%B0%E8%B5%9E%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%AF%B9%E8%82%8C%E8%82%89%E7%9A%84%E6%8E%A7%E5%88%B6%E5%8A%9B"
+      },
+      "raw_titles": [
+        "导演称赞荷兰弟对肌肉的控制力"
+      ],
+      "rank": 5,
+      "movie_rank": 5
+    },
+    {
+      "title": "抖音手瓦选秀大会",
+      "category": "综合",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7746197,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E6%89%8B%E7%93%A6%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A"
+      },
+      "raw_titles": [
+        "抖音手瓦选秀大会"
+      ],
       "rank": 6,
+      "sports_rank": 1,
       "movie_rank": 6
     },
     {
@@ -107,7 +107,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 754357,
+      "hot_value": 644965,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=fgo2.6%E5%8A%A8%E7%94%BB%E5%8C%96"
       },
@@ -118,17 +118,17 @@
       "movie_rank": 7
     },
     {
-      "title": "初代蜘蛛侠有多神",
+      "title": "蜘蛛侠4 MJ恢复记忆了吗",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 704383,
+      "hot_value": 516929,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%9D%E4%BB%A3%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%9C%89%E5%A4%9A%E7%A5%9E"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%20MJ%E6%81%A2%E5%A4%8D%E8%AE%B0%E5%BF%86%E4%BA%86%E5%90%97"
       },
       "raw_titles": [
-        "初代蜘蛛侠有多神"
+        "蜘蛛侠4 MJ恢复记忆了吗"
       ],
       "rank": 8,
       "movie_rank": 8
@@ -139,7 +139,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 660301,
+      "hot_value": 511646,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E4%BE%A0%E5%85%9C%E5%AE%9E%E6%88%98%E6%80%9D%E8%B7%AF"
       },
@@ -150,70 +150,20 @@
       "movie_rank": 9
     },
     {
-      "title": "蜘蛛侠4 MJ恢复记忆了吗",
+      "title": "小Lin说对话漫威总裁",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 641362,
+      "hot_value": 483266,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%20MJ%E6%81%A2%E5%A4%8D%E8%AE%B0%E5%BF%86%E4%BA%86%E5%90%97"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8FLin%E8%AF%B4%E5%AF%B9%E8%AF%9D%E6%BC%AB%E5%A8%81%E6%80%BB%E8%A3%81"
       },
       "raw_titles": [
-        "蜘蛛侠4 MJ恢复记忆了吗"
+        "小Lin说对话漫威总裁"
       ],
       "rank": 10,
       "movie_rank": 10
-    },
-    {
-      "title": "锐评一饭封神2同款顺德菜",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 623055,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E2%E5%90%8C%E6%AC%BE%E9%A1%BA%E5%BE%B7%E8%8F%9C"
-      },
-      "raw_titles": [
-        "锐评一饭封神2同款顺德菜"
-      ],
-      "rank": 11,
-      "movie_rank": 11
-    },
-    {
-      "title": "锐评一饭封神2 这个鸭子包熟吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 529308,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E2%20%E8%BF%99%E4%B8%AA%E9%B8%AD%E5%AD%90%E5%8C%85%E7%86%9F%E5%90%97"
-      },
-      "raw_titles": [
-        "锐评一饭封神2 这个鸭子包熟吗"
-      ],
-      "rank": 12,
-      "movie_rank": 12
-    },
-    {
-      "title": "这一秒过火大结局",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 500366,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%A4%A7%E7%BB%93%E5%B1%80",
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80&sa=fyb_news"
-      },
-      "raw_titles": [
-        "这一秒过火大结局"
-      ],
-      "rank": 13,
-      "movie_rank": 13
     },
     {
       "title": "王俊凯 南京",
@@ -221,31 +171,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 462795,
+      "hot_value": 373617,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%8D%97%E4%BA%AC"
       },
       "raw_titles": [
         "王俊凯 南京"
       ],
-      "rank": 14,
-      "movie_rank": 14
-    },
-    {
-      "title": "羽毛球馆禁止黑底鞋入场引争议",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%86%E7%A6%81%E6%AD%A2%E9%BB%91%E5%BA%95%E9%9E%8B%E5%85%A5%E5%9C%BA%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news"
-      },
-      "raw_titles": [
-        "羽毛球馆禁止黑底鞋入场引争议"
-      ],
-      "rank": 15,
-      "sports_rank": 2
+      "rank": 11,
+      "movie_rank": 11
     },
     {
       "title": "周杰伦晒打网球图 配文：照打",
@@ -260,9 +194,9 @@
       "raw_titles": [
         "周杰伦晒打网球图 配文：照打"
       ],
-      "rank": 16,
-      "sports_rank": 3,
-      "movie_rank": 15
+      "rank": 12,
+      "sports_rank": 2,
+      "movie_rank": 12
     },
     {
       "title": "指责周星驰无儿女没朋友 李修贤致歉",
@@ -270,15 +204,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 297000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%8C%87%E8%B4%A3%E5%91%A8%E6%98%9F%E9%A9%B0%E6%97%A0%E5%84%BF%E5%A5%B3%E6%B2%A1%E6%9C%8B%E5%8F%8B+%E6%9D%8E%E4%BF%AE%E8%B4%A4%E8%87%B4%E6%AD%89&sa=fyb_news"
       },
       "raw_titles": [
         "指责周星驰无儿女没朋友 李修贤致歉"
       ],
-      "rank": 17,
-      "movie_rank": 16
+      "rank": 13,
+      "movie_rank": 13
+    },
+    {
+      "title": "羽毛球馆禁止黑底鞋入场引争议",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 288000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%86%E7%A6%81%E6%AD%A2%E9%BB%91%E5%BA%95%E9%9E%8B%E5%85%A5%E5%9C%BA%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news"
+      },
+      "raw_titles": [
+        "羽毛球馆禁止黑底鞋入场引争议"
+      ],
+      "rank": 14,
+      "sports_rank": 3
     },
     {
       "title": "演唱会音乐总监回应周杰伦私生子传闻",
@@ -293,24 +243,8 @@
       "raw_titles": [
         "演唱会音乐总监回应周杰伦私生子传闻"
       ],
-      "rank": 18,
-      "movie_rank": 17
-    },
-    {
-      "title": "范丞丞没胖但肌肉快掉没了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 214709,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%B2%A1%E8%83%96%E4%BD%86%E8%82%8C%E8%82%89%E5%BF%AB%E6%8E%89%E6%B2%A1%E4%BA%86"
-      },
-      "raw_titles": [
-        "范丞丞没胖但肌肉快掉没了"
-      ],
-      "rank": 19,
-      "movie_rank": 18
+      "rank": 15,
+      "movie_rank": 14
     },
     {
       "title": "迪丽热巴直播",
@@ -318,47 +252,63 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 200349,
+      "hot_value": 187562,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9B%B4%E6%92%AD"
       },
       "raw_titles": [
         "迪丽热巴直播"
       ],
-      "rank": 20,
-      "movie_rank": 19
+      "rank": 16,
+      "movie_rank": 15
     },
     {
-      "title": "女排国手李盈莹因心脏问题接受手术",
+      "title": "范丞丞没胖但肌肉快掉没了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 171500,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%B2%A1%E8%83%96%E4%BD%86%E8%82%8C%E8%82%89%E5%BF%AB%E6%8E%89%E6%B2%A1%E4%BA%86"
+      },
+      "raw_titles": [
+        "范丞丞没胖但肌肉快掉没了"
+      ],
+      "rank": 17,
+      "movie_rank": 16
+    },
+    {
+      "title": "尤文图斯1比0切尔西 双方起冲突",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 144000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A5%B3%E6%8E%92%E5%9B%BD%E6%89%8B%E6%9D%8E%E7%9B%88%E8%8E%B9%E5%9B%A0%E5%BF%83%E8%84%8F%E9%97%AE%E9%A2%98%E6%8E%A5%E5%8F%97%E6%89%8B%E6%9C%AF&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AF1%E6%AF%940%E5%88%87%E5%B0%94%E8%A5%BF+%E5%8F%8C%E6%96%B9%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news"
       },
       "raw_titles": [
-        "女排国手李盈莹因心脏问题接受手术"
+        "尤文图斯1比0切尔西 双方起冲突"
       ],
-      "rank": 21,
+      "rank": 18,
       "sports_rank": 4
     },
     {
-      "title": "网友偶遇姆巴佩：姆总主动表示可合照",
-      "category": "体育",
+      "title": "《这一秒过火》大结局",
+      "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 45000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E5%A7%86%E6%80%BB%E4%B8%BB%E5%8A%A8%E8%A1%A8%E7%A4%BA%E5%8F%AF%E5%90%88%E7%85%A7&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80&sa=fyb_news"
       },
       "raw_titles": [
-        "网友偶遇姆巴佩：姆总主动表示可合照"
+        "《这一秒过火》大结局"
       ],
-      "rank": 22,
-      "sports_rank": 5
+      "rank": 19,
+      "movie_rank": 17
     }
   ],
   "sports": [
@@ -368,32 +318,16 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7743889,
+      "hot_value": 7746197,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E6%89%8B%E7%93%A6%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A"
       },
       "raw_titles": [
         "抖音手瓦选秀大会"
       ],
-      "rank": 3,
+      "rank": 6,
       "sports_rank": 1,
-      "movie_rank": 3
-    },
-    {
-      "title": "羽毛球馆禁止黑底鞋入场引争议",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%86%E7%A6%81%E6%AD%A2%E9%BB%91%E5%BA%95%E9%9E%8B%E5%85%A5%E5%9C%BA%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news"
-      },
-      "raw_titles": [
-        "羽毛球馆禁止黑底鞋入场引争议"
-      ],
-      "rank": 15,
-      "sports_rank": 2
+      "movie_rank": 6
     },
     {
       "title": "周杰伦晒打网球图 配文：照打",
@@ -408,41 +342,41 @@
       "raw_titles": [
         "周杰伦晒打网球图 配文：照打"
       ],
-      "rank": 16,
-      "sports_rank": 3,
-      "movie_rank": 15
+      "rank": 12,
+      "sports_rank": 2,
+      "movie_rank": 12
     },
     {
-      "title": "女排国手李盈莹因心脏问题接受手术",
+      "title": "羽毛球馆禁止黑底鞋入场引争议",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 288000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A5%B3%E6%8E%92%E5%9B%BD%E6%89%8B%E6%9D%8E%E7%9B%88%E8%8E%B9%E5%9B%A0%E5%BF%83%E8%84%8F%E9%97%AE%E9%A2%98%E6%8E%A5%E5%8F%97%E6%89%8B%E6%9C%AF&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%86%E7%A6%81%E6%AD%A2%E9%BB%91%E5%BA%95%E9%9E%8B%E5%85%A5%E5%9C%BA%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news"
       },
       "raw_titles": [
-        "女排国手李盈莹因心脏问题接受手术"
+        "羽毛球馆禁止黑底鞋入场引争议"
       ],
-      "rank": 21,
+      "rank": 14,
+      "sports_rank": 3
+    },
+    {
+      "title": "尤文图斯1比0切尔西 双方起冲突",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AF1%E6%AF%940%E5%88%87%E5%B0%94%E8%A5%BF+%E5%8F%8C%E6%96%B9%E8%B5%B7%E5%86%B2%E7%AA%81&sa=fyb_news"
+      },
+      "raw_titles": [
+        "尤文图斯1比0切尔西 双方起冲突"
+      ],
+      "rank": 18,
       "sports_rank": 4
-    },
-    {
-      "title": "网友偶遇姆巴佩：姆总主动表示可合照",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 18000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E5%A7%86%E6%80%BB%E4%B8%BB%E5%8A%A8%E8%A1%A8%E7%A4%BA%E5%8F%AF%E5%90%88%E7%85%A7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "网友偶遇姆巴佩：姆总主动表示可合照"
-      ],
-      "rank": 22,
-      "sports_rank": 5
     }
   ],
   "movies": [
@@ -452,7 +386,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8365201,
+      "hot_value": 8563927,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%AE%98%E6%8A%96%E4%B9%9F%E5%9C%A8%E7%8E%A9MJ%E6%A2%97"
       },
@@ -468,7 +402,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8179838,
+      "hot_value": 8456247,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3"
       },
@@ -479,53 +413,20 @@
       "movie_rank": 2
     },
     {
-      "title": "抖音手瓦选秀大会",
-      "category": "综合",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7743889,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E6%89%8B%E7%93%A6%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A"
-      },
-      "raw_titles": [
-        "抖音手瓦选秀大会"
-      ],
-      "rank": 3,
-      "sports_rank": 1,
-      "movie_rank": 3
-    },
-    {
-      "title": "导演称赞荷兰弟对肌肉的控制力",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7709749,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%AF%BC%E6%BC%94%E7%A7%B0%E8%B5%9E%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%AF%B9%E8%82%8C%E8%82%89%E7%9A%84%E6%8E%A7%E5%88%B6%E5%8A%9B"
-      },
-      "raw_titles": [
-        "导演称赞荷兰弟对肌肉的控制力"
-      ],
-      "rank": 4,
-      "movie_rank": 4
-    },
-    {
       "title": "见过蜘蛛侠穿女装吗",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709007,
+      "hot_value": 8190671,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A7%81%E8%BF%87%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%A9%BF%E5%A5%B3%E8%A3%85%E5%90%97"
       },
       "raw_titles": [
         "见过蜘蛛侠穿女装吗"
       ],
-      "rank": 5,
-      "movie_rank": 5
+      "rank": 3,
+      "movie_rank": 3
     },
     {
       "title": "澜无双皮肤闪光海报",
@@ -533,14 +434,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7660692,
+      "hot_value": 7814645,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%BE%9C%E6%97%A0%E5%8F%8C%E7%9A%AE%E8%82%A4%E9%97%AA%E5%85%89%E6%B5%B7%E6%8A%A5"
       },
       "raw_titles": [
         "澜无双皮肤闪光海报"
       ],
+      "rank": 4,
+      "movie_rank": 4
+    },
+    {
+      "title": "导演称赞荷兰弟对肌肉的控制力",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7806207,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%AF%BC%E6%BC%94%E7%A7%B0%E8%B5%9E%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%AF%B9%E8%82%8C%E8%82%89%E7%9A%84%E6%8E%A7%E5%88%B6%E5%8A%9B"
+      },
+      "raw_titles": [
+        "导演称赞荷兰弟对肌肉的控制力"
+      ],
+      "rank": 5,
+      "movie_rank": 5
+    },
+    {
+      "title": "抖音手瓦选秀大会",
+      "category": "综合",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7746197,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E6%89%8B%E7%93%A6%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A"
+      },
+      "raw_titles": [
+        "抖音手瓦选秀大会"
+      ],
       "rank": 6,
+      "sports_rank": 1,
       "movie_rank": 6
     },
     {
@@ -549,7 +483,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 754357,
+      "hot_value": 644965,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=fgo2.6%E5%8A%A8%E7%94%BB%E5%8C%96"
       },
@@ -560,17 +494,17 @@
       "movie_rank": 7
     },
     {
-      "title": "初代蜘蛛侠有多神",
+      "title": "蜘蛛侠4 MJ恢复记忆了吗",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 704383,
+      "hot_value": 516929,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%9D%E4%BB%A3%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%9C%89%E5%A4%9A%E7%A5%9E"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%20MJ%E6%81%A2%E5%A4%8D%E8%AE%B0%E5%BF%86%E4%BA%86%E5%90%97"
       },
       "raw_titles": [
-        "初代蜘蛛侠有多神"
+        "蜘蛛侠4 MJ恢复记忆了吗"
       ],
       "rank": 8,
       "movie_rank": 8
@@ -581,7 +515,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 660301,
+      "hot_value": 511646,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E4%BE%A0%E5%85%9C%E5%AE%9E%E6%88%98%E6%80%9D%E8%B7%AF"
       },
@@ -592,70 +526,20 @@
       "movie_rank": 9
     },
     {
-      "title": "蜘蛛侠4 MJ恢复记忆了吗",
+      "title": "小Lin说对话漫威总裁",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 641362,
+      "hot_value": 483266,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%20MJ%E6%81%A2%E5%A4%8D%E8%AE%B0%E5%BF%86%E4%BA%86%E5%90%97"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8FLin%E8%AF%B4%E5%AF%B9%E8%AF%9D%E6%BC%AB%E5%A8%81%E6%80%BB%E8%A3%81"
       },
       "raw_titles": [
-        "蜘蛛侠4 MJ恢复记忆了吗"
+        "小Lin说对话漫威总裁"
       ],
       "rank": 10,
       "movie_rank": 10
-    },
-    {
-      "title": "锐评一饭封神2同款顺德菜",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 623055,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E2%E5%90%8C%E6%AC%BE%E9%A1%BA%E5%BE%B7%E8%8F%9C"
-      },
-      "raw_titles": [
-        "锐评一饭封神2同款顺德菜"
-      ],
-      "rank": 11,
-      "movie_rank": 11
-    },
-    {
-      "title": "锐评一饭封神2 这个鸭子包熟吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 529308,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E2%20%E8%BF%99%E4%B8%AA%E9%B8%AD%E5%AD%90%E5%8C%85%E7%86%9F%E5%90%97"
-      },
-      "raw_titles": [
-        "锐评一饭封神2 这个鸭子包熟吗"
-      ],
-      "rank": 12,
-      "movie_rank": 12
-    },
-    {
-      "title": "这一秒过火大结局",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 500366,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%A4%A7%E7%BB%93%E5%B1%80",
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80&sa=fyb_news"
-      },
-      "raw_titles": [
-        "这一秒过火大结局"
-      ],
-      "rank": 13,
-      "movie_rank": 13
     },
     {
       "title": "王俊凯 南京",
@@ -663,15 +547,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 462795,
+      "hot_value": 373617,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%8D%97%E4%BA%AC"
       },
       "raw_titles": [
         "王俊凯 南京"
       ],
-      "rank": 14,
-      "movie_rank": 14
+      "rank": 11,
+      "movie_rank": 11
     },
     {
       "title": "周杰伦晒打网球图 配文：照打",
@@ -686,9 +570,9 @@
       "raw_titles": [
         "周杰伦晒打网球图 配文：照打"
       ],
-      "rank": 16,
-      "sports_rank": 3,
-      "movie_rank": 15
+      "rank": 12,
+      "sports_rank": 2,
+      "movie_rank": 12
     },
     {
       "title": "指责周星驰无儿女没朋友 李修贤致歉",
@@ -696,15 +580,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 297000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%8C%87%E8%B4%A3%E5%91%A8%E6%98%9F%E9%A9%B0%E6%97%A0%E5%84%BF%E5%A5%B3%E6%B2%A1%E6%9C%8B%E5%8F%8B+%E6%9D%8E%E4%BF%AE%E8%B4%A4%E8%87%B4%E6%AD%89&sa=fyb_news"
       },
       "raw_titles": [
         "指责周星驰无儿女没朋友 李修贤致歉"
       ],
-      "rank": 17,
-      "movie_rank": 16
+      "rank": 13,
+      "movie_rank": 13
     },
     {
       "title": "演唱会音乐总监回应周杰伦私生子传闻",
@@ -719,24 +603,8 @@
       "raw_titles": [
         "演唱会音乐总监回应周杰伦私生子传闻"
       ],
-      "rank": 18,
-      "movie_rank": 17
-    },
-    {
-      "title": "范丞丞没胖但肌肉快掉没了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 214709,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%B2%A1%E8%83%96%E4%BD%86%E8%82%8C%E8%82%89%E5%BF%AB%E6%8E%89%E6%B2%A1%E4%BA%86"
-      },
-      "raw_titles": [
-        "范丞丞没胖但肌肉快掉没了"
-      ],
-      "rank": 19,
-      "movie_rank": 18
+      "rank": 15,
+      "movie_rank": 14
     },
     {
       "title": "迪丽热巴直播",
@@ -744,15 +612,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 200349,
+      "hot_value": 187562,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9B%B4%E6%92%AD"
       },
       "raw_titles": [
         "迪丽热巴直播"
       ],
-      "rank": 20,
-      "movie_rank": 19
+      "rank": 16,
+      "movie_rank": 15
+    },
+    {
+      "title": "范丞丞没胖但肌肉快掉没了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 171500,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%B2%A1%E8%83%96%E4%BD%86%E8%82%8C%E8%82%89%E5%BF%AB%E6%8E%89%E6%B2%A1%E4%BA%86"
+      },
+      "raw_titles": [
+        "范丞丞没胖但肌肉快掉没了"
+      ],
+      "rank": 17,
+      "movie_rank": 16
+    },
+    {
+      "title": "《这一秒过火》大结局",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《这一秒过火》大结局"
+      ],
+      "rank": 19,
+      "movie_rank": 17
     }
   ]
 }
