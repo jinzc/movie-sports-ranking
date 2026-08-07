@@ -1,25 +1,9 @@
 {
-  "update_time": "2026-08-08 04:00:53",
-  "total": 25,
-  "sports_count": 9,
-  "movie_count": 18,
+  "update_time": "2026-08-08 05:00:46",
+  "total": 26,
+  "sports_count": 10,
+  "movie_count": 19,
   "all": [
-    {
-      "title": "邓紫棋南昌演唱会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8321219,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%8D%97%E6%98%8C%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "邓紫棋南昌演唱会"
-      ],
-      "rank": 1,
-      "movie_rank": 1
-    },
     {
       "title": "王者万象棋定档9月",
       "category": "综合",
@@ -27,7 +11,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 7951801,
+      "hot_value": 9967776,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%88",
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%88"
@@ -35,8 +19,24 @@
       "raw_titles": [
         "王者万象棋定档9月"
       ],
-      "rank": 2,
+      "rank": 1,
       "sports_rank": 1,
+      "movie_rank": 1
+    },
+    {
+      "title": "邓紫棋南昌演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7888171,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%8D%97%E6%98%8C%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "邓紫棋南昌演唱会"
+      ],
+      "rank": 2,
       "movie_rank": 2
     },
     {
@@ -45,7 +45,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7817921,
+      "hot_value": 7818645,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98%E8%88%9E%E5%8F%B0"
       },
@@ -61,7 +61,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7801245,
+      "hot_value": 7755783,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%8C%91%E6%88%98%E7%9C%8B%E7%94%B5%E5%BD%B1%E5%8E%BB%E4%BD%A0%E7%9A%84%E5%B2%9B%E4%B8%8D%E5%93%AD"
       },
@@ -72,54 +72,56 @@
       "movie_rank": 4
     },
     {
-      "title": "社会情歌手势舞来啦",
+      "title": "杨幂的旅行碎片好温暖",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7716249,
+      "hot_value": 7671715,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%A4%BE%E4%BC%9A%E6%83%85%E6%AD%8C%E6%89%8B%E5%8A%BF%E8%88%9E%E6%9D%A5%E5%95%A6"
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E7%9A%84%E6%97%85%E8%A1%8C%E7%A2%8E%E7%89%87%E5%A5%BD%E6%B8%A9%E6%9A%96"
       },
       "raw_titles": [
-        "社会情歌手势舞来啦"
+        "杨幂的旅行碎片好温暖"
       ],
       "rank": 5,
       "movie_rank": 5
     },
     {
+      "title": "阿哲综艺运气游戏太费老弟了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7669900,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%98%BF%E5%93%B2%E7%BB%BC%E8%89%BA%E8%BF%90%E6%B0%94%E6%B8%B8%E6%88%8F%E5%A4%AA%E8%B4%B9%E8%80%81%E5%BC%9F%E4%BA%86"
+      },
+      "raw_titles": [
+        "阿哲综艺运气游戏太费老弟了"
+      ],
+      "rank": 6,
+      "movie_rank": 6
+    },
+    {
       "title": "U17国足点球大战淘汰河床晋级决赛",
       "category": "体育",
       "sources": [
+        "微博",
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 667625,
+      "hot_value": 609901,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E6%B2%B3%E5%BA%8A%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B3%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E6%B2%B3%E5%BA%8A%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B3%E6%88%98%E8%83%9C%E6%B2%B3%E5%BA%8A%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "U17国足点球大战淘汰河床晋级决赛"
       ],
-      "rank": 6,
-      "sports_rank": 2
-    },
-    {
-      "title": "猎鹰火箭残骸撞月球对比图",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 605756,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E7%81%AB%E7%AE%AD%E6%AE%8B%E9%AA%B8%E6%92%9E%E6%9C%88%E7%90%83%E5%AF%B9%E6%AF%94%E5%9B%BE"
-      },
-      "raw_titles": [
-        "猎鹰火箭残骸撞月球对比图"
-      ],
       "rank": 7,
-      "sports_rank": 3
+      "sports_rank": 2
     },
     {
       "title": "胡彦斌获《歌手2026》歌王",
@@ -135,7 +137,7 @@
         "胡彦斌获《歌手2026》歌王"
       ],
       "rank": 8,
-      "movie_rank": 6
+      "movie_rank": 7
     },
     {
       "title": "百花奖开幕式 刘浩存独舞",
@@ -152,7 +154,23 @@
         "百花奖开幕式 刘浩存独舞"
       ],
       "rank": 9,
-      "movie_rank": 7
+      "movie_rank": 8
+    },
+    {
+      "title": "猎鹰火箭残骸撞月球对比图",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 387936,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E7%81%AB%E7%AE%AD%E6%AE%8B%E9%AA%B8%E6%92%9E%E6%9C%88%E7%90%83%E5%AF%B9%E6%AF%94%E5%9B%BE"
+      },
+      "raw_titles": [
+        "猎鹰火箭残骸撞月球对比图"
+      ],
+      "rank": 10,
+      "sports_rank": 3
     },
     {
       "title": "周深贵州方言新歌每个人",
@@ -160,15 +178,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 337552,
+      "hot_value": 300508,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E8%B4%B5%E5%B7%9E%E6%96%B9%E8%A8%80%E6%96%B0%E6%AD%8C%E6%AF%8F%E4%B8%AA%E4%BA%BA"
       },
       "raw_titles": [
         "周深贵州方言新歌每个人"
       ],
-      "rank": 10,
-      "movie_rank": 8
+      "rank": 11,
+      "movie_rank": 9
     },
     {
       "title": "GTA6将发布新预告片",
@@ -176,15 +194,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 336995,
+      "hot_value": 287848,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87"
       },
       "raw_titles": [
         "GTA6将发布新预告片"
       ],
-      "rank": 11,
-      "movie_rank": 9
+      "rank": 12,
+      "movie_rank": 10
     },
     {
       "title": "复盘柯洁逆转党毅飞",
@@ -192,15 +210,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 312643,
+      "hot_value": 240700,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC%E5%85%9A%E6%AF%85%E9%A3%9E"
       },
       "raw_titles": [
         "复盘柯洁逆转党毅飞"
       ],
-      "rank": 12,
+      "rank": 13,
       "sports_rank": 4
+    },
+    {
+      "title": "尤长靖歌手决赛唱跳舞台",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 222281,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%A4%E9%95%BF%E9%9D%96%E6%AD%8C%E6%89%8B%E5%86%B3%E8%B5%9B%E5%94%B1%E8%B7%B3%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "尤长靖歌手决赛唱跳舞台"
+      ],
+      "rank": 14,
+      "movie_rank": 11
     },
     {
       "title": "格温在每个宇宙都会爱上蜘蛛侠",
@@ -208,15 +242,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 261793,
+      "hot_value": 196225,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A0%BC%E6%B8%A9%E5%9C%A8%E6%AF%8F%E4%B8%AA%E5%AE%87%E5%AE%99%E9%83%BD%E4%BC%9A%E7%88%B1%E4%B8%8A%E8%9C%98%E8%9B%9B%E4%BE%A0"
       },
       "raw_titles": [
         "格温在每个宇宙都会爱上蜘蛛侠"
       ],
-      "rank": 13,
-      "movie_rank": 10
+      "rank": 15,
+      "movie_rank": 12
     },
     {
       "title": "窦靖童说王菲窦唯都会为她看《歌手》",
@@ -224,31 +258,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 189000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%AA%A6%E9%9D%96%E7%AB%A5%E8%AF%B4%E7%8E%8B%E8%8F%B2%E7%AA%A6%E5%94%AF%E9%83%BD%E4%BC%9A%E4%B8%BA%E5%A5%B9%E7%9C%8B%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B&sa=fyb_news"
       },
       "raw_titles": [
         "窦靖童说王菲窦唯都会为她看《歌手》"
       ],
-      "rank": 14,
-      "movie_rank": 11
-    },
-    {
-      "title": "梳理漫威大事件编年史",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 176947,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%B3%E7%90%86%E6%BC%AB%E5%A8%81%E5%A4%A7%E4%BA%8B%E4%BB%B6%E7%BC%96%E5%B9%B4%E5%8F%B2"
-      },
-      "raw_titles": [
-        "梳理漫威大事件编年史"
-      ],
-      "rank": 15,
-      "movie_rank": 12
+      "rank": 16,
+      "movie_rank": 13
     },
     {
       "title": "中超第22轮：北京国安4-0深圳新鹏城",
@@ -256,33 +274,50 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 162000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E8%B6%85%E7%AC%AC22%E8%BD%AE%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%894-0%E6%B7%B1%E5%9C%B3%E6%96%B0%E9%B9%8F%E5%9F%8E&sa=fyb_news"
       },
       "raw_titles": [
         "中超第22轮：北京国安4-0深圳新鹏城"
       ],
-      "rank": 16,
+      "rank": 17,
       "sports_rank": 5
+    },
+    {
+      "title": "梳理漫威大事件编年史",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 126817,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%B3%E7%90%86%E6%BC%AB%E5%A8%81%E5%A4%A7%E4%BA%8B%E4%BB%B6%E7%BC%96%E5%B9%B4%E5%8F%B2"
+      },
+      "raw_titles": [
+        "梳理漫威大事件编年史"
+      ],
+      "rank": 18,
+      "movie_rank": 14
     },
     {
       "title": "歌手总决赛 孙燕姿吴青峰太伟大了",
       "category": "综合",
       "sources": [
         "微博",
+        "微博",
         "微博"
       ],
-      "hot_value": 133284,
+      "hot_value": 112486,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B"
       },
       "raw_titles": [
         "歌手总决赛 孙燕姿吴青峰太伟大了"
       ],
-      "rank": 17,
+      "rank": 19,
       "sports_rank": 6,
-      "movie_rank": 13
+      "movie_rank": 15
     },
     {
       "title": "湖人官微发文没提詹姆斯",
@@ -290,14 +325,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 126000,
+      "hot_value": 99000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%B9%96%E4%BA%BA%E5%AE%98%E5%BE%AE%E5%8F%91%E6%96%87%E6%B2%A1%E6%8F%90%E8%A9%B9%E5%A7%86%E6%96%AF&sa=fyb_news"
       },
       "raw_titles": [
         "湖人官微发文没提詹姆斯"
       ],
-      "rank": 18,
+      "rank": 20,
       "sports_rank": 7
     },
     {
@@ -306,15 +341,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 58411,
+      "hot_value": 41709,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
         "歌手排名"
       ],
-      "rank": 19,
-      "movie_rank": 14
+      "rank": 21,
+      "movie_rank": 16
     },
     {
       "title": "湖人 詹姆斯",
@@ -322,14 +357,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 56344,
+      "hot_value": 40498,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%20%E8%A9%B9%E5%A7%86%E6%96%AF"
       },
       "raw_titles": [
         "湖人 詹姆斯"
       ],
-      "rank": 20,
+      "rank": 22,
       "sports_rank": 8
     },
     {
@@ -338,31 +373,32 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 50885,
+      "hot_value": 40423,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%AE%98%E6%96%B9%E5%AE%A3%E4%BC%A0%E8%A2%AB%E6%8C%87%E9%99%A4%E5%90%8D%E8%A9%B9%E7%9C%89"
       },
       "raw_titles": [
         "湖人官方宣传被指除名詹眉"
       ],
-      "rank": 21,
+      "rank": 23,
       "sports_rank": 9
     },
     {
-      "title": "歌手收视率",
-      "category": "影视",
+      "title": "欧阳娜娜歌手总决赛plog",
+      "category": "综合",
       "sources": [
         "微博"
       ],
-      "hot_value": 40615,
+      "hot_value": 33603,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9Bplog"
       },
       "raw_titles": [
-        "歌手收视率"
+        "欧阳娜娜歌手总决赛plog"
       ],
-      "rank": 22,
-      "movie_rank": 15
+      "rank": 24,
+      "sports_rank": 10,
+      "movie_rank": 17
     },
     {
       "title": "张凌赫苍兰诀婚服里面破洞裤",
@@ -370,47 +406,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 38929,
+      "hot_value": 29011,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%8B%8D%E5%85%B0%E8%AF%80%E5%A9%9A%E6%9C%8D%E9%87%8C%E9%9D%A2%E7%A0%B4%E6%B4%9E%E8%A3%A4"
       },
       "raw_titles": [
         "张凌赫苍兰诀婚服里面破洞裤"
       ],
-      "rank": 23,
-      "movie_rank": 16
-    },
-    {
-      "title": "TF三代常驻综艺",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 38600,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=TF%E4%B8%89%E4%BB%A3%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA"
-      },
-      "raw_titles": [
-        "TF三代常驻综艺"
-      ],
-      "rank": 24,
-      "movie_rank": 17
-    },
-    {
-      "title": "王俊凯安排张雅琪当氛围组",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 38491,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AE%89%E6%8E%92%E5%BC%A0%E9%9B%85%E7%90%AA%E5%BD%93%E6%B0%9B%E5%9B%B4%E7%BB%84"
-      },
-      "raw_titles": [
-        "王俊凯安排张雅琪当氛围组"
-      ],
       "rank": 25,
       "movie_rank": 18
+    },
+    {
+      "title": "歌手收视率",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 28024,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87"
+      },
+      "raw_titles": [
+        "歌手收视率"
+      ],
+      "rank": 26,
+      "movie_rank": 19
     }
   ],
   "sports": [
@@ -421,7 +441,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 7951801,
+      "hot_value": 9967776,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%88",
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%88"
@@ -429,26 +449,28 @@
       "raw_titles": [
         "王者万象棋定档9月"
       ],
-      "rank": 2,
+      "rank": 1,
       "sports_rank": 1,
-      "movie_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "U17国足点球大战淘汰河床晋级决赛",
       "category": "体育",
       "sources": [
+        "微博",
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 667625,
+      "hot_value": 609901,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E6%B2%B3%E5%BA%8A%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B3%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E6%B2%B3%E5%BA%8A%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B3%E6%88%98%E8%83%9C%E6%B2%B3%E5%BA%8A%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "U17国足点球大战淘汰河床晋级决赛"
       ],
-      "rank": 6,
+      "rank": 7,
       "sports_rank": 2
     },
     {
@@ -457,14 +479,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 605756,
+      "hot_value": 387936,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E7%81%AB%E7%AE%AD%E6%AE%8B%E9%AA%B8%E6%92%9E%E6%9C%88%E7%90%83%E5%AF%B9%E6%AF%94%E5%9B%BE"
       },
       "raw_titles": [
         "猎鹰火箭残骸撞月球对比图"
       ],
-      "rank": 7,
+      "rank": 10,
       "sports_rank": 3
     },
     {
@@ -473,14 +495,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 312643,
+      "hot_value": 240700,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC%E5%85%9A%E6%AF%85%E9%A3%9E"
       },
       "raw_titles": [
         "复盘柯洁逆转党毅飞"
       ],
-      "rank": 12,
+      "rank": 13,
       "sports_rank": 4
     },
     {
@@ -489,14 +511,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 162000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E8%B6%85%E7%AC%AC22%E8%BD%AE%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%894-0%E6%B7%B1%E5%9C%B3%E6%96%B0%E9%B9%8F%E5%9F%8E&sa=fyb_news"
       },
       "raw_titles": [
         "中超第22轮：北京国安4-0深圳新鹏城"
       ],
-      "rank": 16,
+      "rank": 17,
       "sports_rank": 5
     },
     {
@@ -504,18 +526,19 @@
       "category": "综合",
       "sources": [
         "微博",
+        "微博",
         "微博"
       ],
-      "hot_value": 133284,
+      "hot_value": 112486,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B"
       },
       "raw_titles": [
         "歌手总决赛 孙燕姿吴青峰太伟大了"
       ],
-      "rank": 17,
+      "rank": 19,
       "sports_rank": 6,
-      "movie_rank": 13
+      "movie_rank": 15
     },
     {
       "title": "湖人官微发文没提詹姆斯",
@@ -523,14 +546,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 126000,
+      "hot_value": 99000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%B9%96%E4%BA%BA%E5%AE%98%E5%BE%AE%E5%8F%91%E6%96%87%E6%B2%A1%E6%8F%90%E8%A9%B9%E5%A7%86%E6%96%AF&sa=fyb_news"
       },
       "raw_titles": [
         "湖人官微发文没提詹姆斯"
       ],
-      "rank": 18,
+      "rank": 20,
       "sports_rank": 7
     },
     {
@@ -539,14 +562,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 56344,
+      "hot_value": 40498,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%20%E8%A9%B9%E5%A7%86%E6%96%AF"
       },
       "raw_titles": [
         "湖人 詹姆斯"
       ],
-      "rank": 20,
+      "rank": 22,
       "sports_rank": 8
     },
     {
@@ -555,34 +578,35 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 50885,
+      "hot_value": 40423,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%AE%98%E6%96%B9%E5%AE%A3%E4%BC%A0%E8%A2%AB%E6%8C%87%E9%99%A4%E5%90%8D%E8%A9%B9%E7%9C%89"
       },
       "raw_titles": [
         "湖人官方宣传被指除名詹眉"
       ],
-      "rank": 21,
+      "rank": 23,
       "sports_rank": 9
+    },
+    {
+      "title": "欧阳娜娜歌手总决赛plog",
+      "category": "综合",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 33603,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9Bplog"
+      },
+      "raw_titles": [
+        "欧阳娜娜歌手总决赛plog"
+      ],
+      "rank": 24,
+      "sports_rank": 10,
+      "movie_rank": 17
     }
   ],
   "movies": [
-    {
-      "title": "邓紫棋南昌演唱会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8321219,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%8D%97%E6%98%8C%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "邓紫棋南昌演唱会"
-      ],
-      "rank": 1,
-      "movie_rank": 1
-    },
     {
       "title": "王者万象棋定档9月",
       "category": "综合",
@@ -590,7 +614,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 7951801,
+      "hot_value": 9967776,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%88",
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%88"
@@ -598,8 +622,24 @@
       "raw_titles": [
         "王者万象棋定档9月"
       ],
-      "rank": 2,
+      "rank": 1,
       "sports_rank": 1,
+      "movie_rank": 1
+    },
+    {
+      "title": "邓紫棋南昌演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7888171,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%8D%97%E6%98%8C%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "邓紫棋南昌演唱会"
+      ],
+      "rank": 2,
       "movie_rank": 2
     },
     {
@@ -608,7 +648,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7817921,
+      "hot_value": 7818645,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98%E8%88%9E%E5%8F%B0"
       },
@@ -624,7 +664,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7801245,
+      "hot_value": 7755783,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%8C%91%E6%88%98%E7%9C%8B%E7%94%B5%E5%BD%B1%E5%8E%BB%E4%BD%A0%E7%9A%84%E5%B2%9B%E4%B8%8D%E5%93%AD"
       },
@@ -635,20 +675,36 @@
       "movie_rank": 4
     },
     {
-      "title": "社会情歌手势舞来啦",
+      "title": "杨幂的旅行碎片好温暖",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7716249,
+      "hot_value": 7671715,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%A4%BE%E4%BC%9A%E6%83%85%E6%AD%8C%E6%89%8B%E5%8A%BF%E8%88%9E%E6%9D%A5%E5%95%A6"
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E7%9A%84%E6%97%85%E8%A1%8C%E7%A2%8E%E7%89%87%E5%A5%BD%E6%B8%A9%E6%9A%96"
       },
       "raw_titles": [
-        "社会情歌手势舞来啦"
+        "杨幂的旅行碎片好温暖"
       ],
       "rank": 5,
       "movie_rank": 5
+    },
+    {
+      "title": "阿哲综艺运气游戏太费老弟了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7669900,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%98%BF%E5%93%B2%E7%BB%BC%E8%89%BA%E8%BF%90%E6%B0%94%E6%B8%B8%E6%88%8F%E5%A4%AA%E8%B4%B9%E8%80%81%E5%BC%9F%E4%BA%86"
+      },
+      "raw_titles": [
+        "阿哲综艺运气游戏太费老弟了"
+      ],
+      "rank": 6,
+      "movie_rank": 6
     },
     {
       "title": "胡彦斌获《歌手2026》歌王",
@@ -664,7 +720,7 @@
         "胡彦斌获《歌手2026》歌王"
       ],
       "rank": 8,
-      "movie_rank": 6
+      "movie_rank": 7
     },
     {
       "title": "百花奖开幕式 刘浩存独舞",
@@ -681,7 +737,7 @@
         "百花奖开幕式 刘浩存独舞"
       ],
       "rank": 9,
-      "movie_rank": 7
+      "movie_rank": 8
     },
     {
       "title": "周深贵州方言新歌每个人",
@@ -689,15 +745,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 337552,
+      "hot_value": 300508,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E8%B4%B5%E5%B7%9E%E6%96%B9%E8%A8%80%E6%96%B0%E6%AD%8C%E6%AF%8F%E4%B8%AA%E4%BA%BA"
       },
       "raw_titles": [
         "周深贵州方言新歌每个人"
       ],
-      "rank": 10,
-      "movie_rank": 8
+      "rank": 11,
+      "movie_rank": 9
     },
     {
       "title": "GTA6将发布新预告片",
@@ -705,15 +761,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 336995,
+      "hot_value": 287848,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87"
       },
       "raw_titles": [
         "GTA6将发布新预告片"
       ],
-      "rank": 11,
-      "movie_rank": 9
+      "rank": 12,
+      "movie_rank": 10
+    },
+    {
+      "title": "尤长靖歌手决赛唱跳舞台",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 222281,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%A4%E9%95%BF%E9%9D%96%E6%AD%8C%E6%89%8B%E5%86%B3%E8%B5%9B%E5%94%B1%E8%B7%B3%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "尤长靖歌手决赛唱跳舞台"
+      ],
+      "rank": 14,
+      "movie_rank": 11
     },
     {
       "title": "格温在每个宇宙都会爱上蜘蛛侠",
@@ -721,15 +793,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 261793,
+      "hot_value": 196225,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A0%BC%E6%B8%A9%E5%9C%A8%E6%AF%8F%E4%B8%AA%E5%AE%87%E5%AE%99%E9%83%BD%E4%BC%9A%E7%88%B1%E4%B8%8A%E8%9C%98%E8%9B%9B%E4%BE%A0"
       },
       "raw_titles": [
         "格温在每个宇宙都会爱上蜘蛛侠"
       ],
-      "rank": 13,
-      "movie_rank": 10
+      "rank": 15,
+      "movie_rank": 12
     },
     {
       "title": "窦靖童说王菲窦唯都会为她看《歌手》",
@@ -737,15 +809,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 189000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%AA%A6%E9%9D%96%E7%AB%A5%E8%AF%B4%E7%8E%8B%E8%8F%B2%E7%AA%A6%E5%94%AF%E9%83%BD%E4%BC%9A%E4%B8%BA%E5%A5%B9%E7%9C%8B%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B&sa=fyb_news"
       },
       "raw_titles": [
         "窦靖童说王菲窦唯都会为她看《歌手》"
       ],
-      "rank": 14,
-      "movie_rank": 11
+      "rank": 16,
+      "movie_rank": 13
     },
     {
       "title": "梳理漫威大事件编年史",
@@ -753,33 +825,34 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 176947,
+      "hot_value": 126817,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%B3%E7%90%86%E6%BC%AB%E5%A8%81%E5%A4%A7%E4%BA%8B%E4%BB%B6%E7%BC%96%E5%B9%B4%E5%8F%B2"
       },
       "raw_titles": [
         "梳理漫威大事件编年史"
       ],
-      "rank": 15,
-      "movie_rank": 12
+      "rank": 18,
+      "movie_rank": 14
     },
     {
       "title": "歌手总决赛 孙燕姿吴青峰太伟大了",
       "category": "综合",
       "sources": [
         "微博",
+        "微博",
         "微博"
       ],
-      "hot_value": 133284,
+      "hot_value": 112486,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B"
       },
       "raw_titles": [
         "歌手总决赛 孙燕姿吴青峰太伟大了"
       ],
-      "rank": 17,
+      "rank": 19,
       "sports_rank": 6,
-      "movie_rank": 13
+      "movie_rank": 15
     },
     {
       "title": "歌手排名",
@@ -787,31 +860,32 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 58411,
+      "hot_value": 41709,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
         "歌手排名"
       ],
-      "rank": 19,
-      "movie_rank": 14
+      "rank": 21,
+      "movie_rank": 16
     },
     {
-      "title": "歌手收视率",
-      "category": "影视",
+      "title": "欧阳娜娜歌手总决赛plog",
+      "category": "综合",
       "sources": [
         "微博"
       ],
-      "hot_value": 40615,
+      "hot_value": 33603,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9Bplog"
       },
       "raw_titles": [
-        "歌手收视率"
+        "欧阳娜娜歌手总决赛plog"
       ],
-      "rank": 22,
-      "movie_rank": 15
+      "rank": 24,
+      "sports_rank": 10,
+      "movie_rank": 17
     },
     {
       "title": "张凌赫苍兰诀婚服里面破洞裤",
@@ -819,47 +893,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 38929,
+      "hot_value": 29011,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%8B%8D%E5%85%B0%E8%AF%80%E5%A9%9A%E6%9C%8D%E9%87%8C%E9%9D%A2%E7%A0%B4%E6%B4%9E%E8%A3%A4"
       },
       "raw_titles": [
         "张凌赫苍兰诀婚服里面破洞裤"
       ],
-      "rank": 23,
-      "movie_rank": 16
-    },
-    {
-      "title": "TF三代常驻综艺",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 38600,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=TF%E4%B8%89%E4%BB%A3%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA"
-      },
-      "raw_titles": [
-        "TF三代常驻综艺"
-      ],
-      "rank": 24,
-      "movie_rank": 17
-    },
-    {
-      "title": "王俊凯安排张雅琪当氛围组",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 38491,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AE%89%E6%8E%92%E5%BC%A0%E9%9B%85%E7%90%AA%E5%BD%93%E6%B0%9B%E5%9B%B4%E7%BB%84"
-      },
-      "raw_titles": [
-        "王俊凯安排张雅琪当氛围组"
-      ],
       "rank": 25,
       "movie_rank": 18
+    },
+    {
+      "title": "歌手收视率",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 28024,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87"
+      },
+      "raw_titles": [
+        "歌手收视率"
+      ],
+      "rank": 26,
+      "movie_rank": 19
     }
   ]
 }
