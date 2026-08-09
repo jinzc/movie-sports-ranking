@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-08-10 02:00:45",
-  "total": 26,
-  "sports_count": 7,
-  "movie_count": 20,
+  "update_time": "2026-08-10 03:00:48",
+  "total": 24,
+  "sports_count": 6,
+  "movie_count": 19,
   "all": [
     {
       "title": "百花奖",
@@ -17,7 +17,7 @@
         "抖音",
         "抖音"
       ],
-      "hot_value": 16567382,
+      "hot_value": 16232265,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%AF%B9%E6%8E%A5%E7%A1%AE%E8%AE%A4%E5%87%BA%E5%B8%AD%E7%99%BE%E8%8A%B1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC",
         "百度": "https://m.baidu.com/s?word=%E9%99%88%E4%B8%BD%E5%90%9B%E6%8F%90%E5%90%8D%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E5%A5%96&sa=fyb_news",
@@ -35,7 +35,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7801447,
+      "hot_value": 7762421,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7%E8%A2%AB%E6%9B%9D%E9%9A%90%E5%8C%BF%E6%94%B6%E5%85%A5%E8%B6%855000%E4%B8%87%E7%BE%8E%E5%85%83"
       },
@@ -51,7 +51,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7738321,
+      "hot_value": 7759354,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%99%E5%BC%A0%E6%98%AF%E7%83%82%E7%89%87%E4%BD%86%E6%88%91%E5%96%9C%E6%AC%A2"
       },
@@ -67,7 +67,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707385,
+      "hot_value": 7697952,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E8%80%81%E5%B9%B4%E5%A6%86%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%83%B3%E5%88%B0"
       },
@@ -78,52 +78,20 @@
       "movie_rank": 3
     },
     {
-      "title": "CFPL白鲨击败KZ夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7655303,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/CFPL%E7%99%BD%E9%B2%A8%E5%87%BB%E8%B4%A5KZ%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "CFPL白鲨击败KZ夺冠"
-      ],
-      "rank": 5,
-      "sports_rank": 2
-    },
-    {
       "title": "如何评价沈腾文牧野新片",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2771949,
+      "hot_value": 1559246,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B2%88%E8%85%BE%E6%96%87%E7%89%A7%E9%87%8E%E6%96%B0%E7%89%87"
       },
       "raw_titles": [
         "如何评价沈腾文牧野新片"
       ],
-      "rank": 6,
+      "rank": 5,
       "movie_rank": 4
-    },
-    {
-      "title": "诺兰奥德赛值得看吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 497825,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%AF%BA%E5%85%B0%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
-      },
-      "raw_titles": [
-        "诺兰奥德赛值得看吗"
-      ],
-      "rank": 7,
-      "movie_rank": 5
     },
     {
       "title": "上海迪士尼因台风变水上乐园",
@@ -138,56 +106,24 @@
       "raw_titles": [
         "上海迪士尼因台风变水上乐园"
       ],
-      "rank": 8,
+      "rank": 6,
+      "movie_rank": 5
+    },
+    {
+      "title": "《欢迎来龙餐馆》点映及预售总票房破亿",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 333000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%82%B9%E6%98%A0%E5%8F%8A%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《欢迎来龙餐馆》点映及预售总票房破亿"
+      ],
+      "rank": 7,
       "movie_rank": 6
-    },
-    {
-      "title": "欢迎来龙餐馆能超越我不是药神吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 414428,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
-      },
-      "raw_titles": [
-        "欢迎来龙餐馆能超越我不是药神吗"
-      ],
-      "rank": 9,
-      "movie_rank": 7
-    },
-    {
-      "title": "暑期档哪部电影值得看",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 414405,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
-      },
-      "raw_titles": [
-        "暑期档哪部电影值得看"
-      ],
-      "rank": 10,
-      "movie_rank": 8
-    },
-    {
-      "title": "动画真的审美降级了吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 327695,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%BA%86%E5%90%97"
-      },
-      "raw_titles": [
-        "动画真的审美降级了吗"
-      ],
-      "rank": 11,
-      "movie_rank": 9
     },
     {
       "title": "上海交大绝杀清华闯进AUBL总决赛",
@@ -202,8 +138,72 @@
       "raw_titles": [
         "上海交大绝杀清华闯进AUBL总决赛"
       ],
+      "rank": 8,
+      "sports_rank": 2
+    },
+    {
+      "title": "暑期档哪部电影值得看",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287963,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
+      },
+      "raw_titles": [
+        "暑期档哪部电影值得看"
+      ],
+      "rank": 9,
+      "movie_rank": 7
+    },
+    {
+      "title": "欢迎来龙餐馆能超越我不是药神吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 286198,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
+      },
+      "raw_titles": [
+        "欢迎来龙餐馆能超越我不是药神吗"
+      ],
+      "rank": 10,
+      "movie_rank": 8
+    },
+    {
+      "title": "诺兰奥德赛值得看吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 275600,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%AF%BA%E5%85%B0%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
+      },
+      "raw_titles": [
+        "诺兰奥德赛值得看吗"
+      ],
+      "rank": 11,
+      "movie_rank": 9
+    },
+    {
+      "title": "动画真的审美降级了吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 246077,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%BA%86%E5%90%97"
+      },
+      "raw_titles": [
+        "动画真的审美降级了吗"
+      ],
       "rank": 12,
-      "sports_rank": 3
+      "movie_rank": 10
     },
     {
       "title": "荷兰弟凭什么出演蜘蛛侠",
@@ -211,7 +211,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 300244,
+      "hot_value": 178639,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%87%AD%E4%BB%80%E4%B9%88%E5%87%BA%E6%BC%94%E8%9C%98%E8%9B%9B%E4%BE%A0"
       },
@@ -219,23 +219,23 @@
         "荷兰弟凭什么出演蜘蛛侠"
       ],
       "rank": 13,
-      "movie_rank": 10
+      "movie_rank": 11
     },
     {
-      "title": "《欢迎来龙餐馆》点映及预售总票房破亿",
-      "category": "影视",
+      "title": "国足U17与阿森纳决赛取消 并列冠军",
+      "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 270000,
+      "hot_value": 162000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%82%B9%E6%98%A0%E5%8F%8A%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3U17%E4%B8%8E%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%86%B3%E8%B5%9B%E5%8F%96%E6%B6%88+%E5%B9%B6%E5%88%97%E5%86%A0%E5%86%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "《欢迎来龙餐馆》点映及预售总票房破亿"
+        "国足U17与阿森纳决赛取消 并列冠军"
       ],
       "rank": 14,
-      "movie_rank": 11
+      "sports_rank": 3
     },
     {
       "title": "沈腾 影帝",
@@ -243,7 +243,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 258316,
+      "hot_value": 139928,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D"
       },
@@ -259,7 +259,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 255940,
+      "hot_value": 137314,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E5%A5%A5%E6%96%AF%E5%8D%A1"
       },
@@ -270,36 +270,36 @@
       "movie_rank": 13
     },
     {
-      "title": "朱一龙鼻子怎么了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 255557,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86"
-      },
-      "raw_titles": [
-        "朱一龙鼻子怎么了"
-      ],
-      "rank": 17,
-      "movie_rank": 14
-    },
-    {
       "title": "张本智和说和妹妹同时夺冠意义重大",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 255073,
+      "hot_value": 136010,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%92%8C%E5%A6%B9%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7"
       },
       "raw_titles": [
         "张本智和说和妹妹同时夺冠意义重大"
       ],
-      "rank": 18,
+      "rank": 17,
       "sports_rank": 4
+    },
+    {
+      "title": "朱一龙鼻子怎么了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 132675,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86"
+      },
+      "raw_titles": [
+        "朱一龙鼻子怎么了"
+      ],
+      "rank": 18,
+      "movie_rank": 14
     },
     {
       "title": "张凌赫还原谢征名台词",
@@ -307,7 +307,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 252616,
+      "hot_value": 130709,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BF%98%E5%8E%9F%E8%B0%A2%E5%BE%81%E5%90%8D%E5%8F%B0%E8%AF%8D"
       },
@@ -323,7 +323,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 249612,
+      "hot_value": 127489,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%A0%E9%A2%9C%E9%A6%99%E6%B8%AFplog"
       },
@@ -339,7 +339,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 237812,
+      "hot_value": 126190,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BB%99%E9%80%86%E5%8A%A8%E7%94%BB"
       },
@@ -350,52 +350,20 @@
       "movie_rank": 17
     },
     {
-      "title": "阿森纳vs多特蒙德",
+      "title": "乒乓球多人上榜中国品牌青年榜",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 235126,
+      "hot_value": 111027,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E5%A4%9A%E4%BA%BA%E4%B8%8A%E6%A6%9C%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E9%9D%92%E5%B9%B4%E6%A6%9C"
       },
       "raw_titles": [
-        "阿森纳vs多特蒙德"
+        "乒乓球多人上榜中国品牌青年榜"
       ],
       "rank": 22,
       "sports_rank": 5
-    },
-    {
-      "title": "龙餐馆 比我不是药神好十个抓娃娃",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 234401,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E6%AF%94%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%A5%BD%E5%8D%81%E4%B8%AA%E6%8A%93%E5%A8%83%E5%A8%83"
-      },
-      "raw_titles": [
-        "龙餐馆 比我不是药神好十个抓娃娃"
-      ],
-      "rank": 23,
-      "movie_rank": 18
-    },
-    {
-      "title": "国足U17与阿森纳决赛取消 并列冠军",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 162000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3U17%E4%B8%8E%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%86%B3%E8%B5%9B%E5%8F%96%E6%B6%88+%E5%B9%B6%E5%88%97%E5%86%A0%E5%86%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "国足U17与阿森纳决赛取消 并列冠军"
-      ],
-      "rank": 24,
-      "sports_rank": 6
     },
     {
       "title": "沈腾挑战老年妆",
@@ -403,15 +371,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 126000,
+      "hot_value": 45000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%B2%88%E8%85%BE%E6%8C%91%E6%88%98%E8%80%81%E5%B9%B4%E5%A6%86&sa=fyb_news"
       },
       "raw_titles": [
         "沈腾挑战老年妆"
       ],
-      "rank": 25,
-      "movie_rank": 19
+      "rank": 23,
+      "movie_rank": 18
     },
     {
       "title": "肖国栋晋级 特鲁姆普爆冷出局",
@@ -419,16 +387,16 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 27000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%82%96%E5%9B%BD%E6%A0%8B%E6%99%8B%E7%BA%A7+%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80&sa=fyb_news"
       },
       "raw_titles": [
         "肖国栋晋级 特鲁姆普爆冷出局"
       ],
-      "rank": 26,
-      "sports_rank": 7,
-      "movie_rank": 20
+      "rank": 24,
+      "sports_rank": 6,
+      "movie_rank": 19
     }
   ],
   "sports": [
@@ -438,7 +406,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7801447,
+      "hot_value": 7762421,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7%E8%A2%AB%E6%9B%9D%E9%9A%90%E5%8C%BF%E6%94%B6%E5%85%A5%E8%B6%855000%E4%B8%87%E7%BE%8E%E5%85%83"
       },
@@ -447,22 +415,6 @@
       ],
       "rank": 2,
       "sports_rank": 1
-    },
-    {
-      "title": "CFPL白鲨击败KZ夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7655303,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/CFPL%E7%99%BD%E9%B2%A8%E5%87%BB%E8%B4%A5KZ%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "CFPL白鲨击败KZ夺冠"
-      ],
-      "rank": 5,
-      "sports_rank": 2
     },
     {
       "title": "上海交大绝杀清华闯进AUBL总决赛",
@@ -477,40 +429,8 @@
       "raw_titles": [
         "上海交大绝杀清华闯进AUBL总决赛"
       ],
-      "rank": 12,
-      "sports_rank": 3
-    },
-    {
-      "title": "张本智和说和妹妹同时夺冠意义重大",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 255073,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%92%8C%E5%A6%B9%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7"
-      },
-      "raw_titles": [
-        "张本智和说和妹妹同时夺冠意义重大"
-      ],
-      "rank": 18,
-      "sports_rank": 4
-    },
-    {
-      "title": "阿森纳vs多特蒙德",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 235126,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7"
-      },
-      "raw_titles": [
-        "阿森纳vs多特蒙德"
-      ],
-      "rank": 22,
-      "sports_rank": 5
+      "rank": 8,
+      "sports_rank": 2
     },
     {
       "title": "国足U17与阿森纳决赛取消 并列冠军",
@@ -525,8 +445,40 @@
       "raw_titles": [
         "国足U17与阿森纳决赛取消 并列冠军"
       ],
-      "rank": 24,
-      "sports_rank": 6
+      "rank": 14,
+      "sports_rank": 3
+    },
+    {
+      "title": "张本智和说和妹妹同时夺冠意义重大",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 136010,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%92%8C%E5%A6%B9%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7"
+      },
+      "raw_titles": [
+        "张本智和说和妹妹同时夺冠意义重大"
+      ],
+      "rank": 17,
+      "sports_rank": 4
+    },
+    {
+      "title": "乒乓球多人上榜中国品牌青年榜",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 111027,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E5%A4%9A%E4%BA%BA%E4%B8%8A%E6%A6%9C%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E9%9D%92%E5%B9%B4%E6%A6%9C"
+      },
+      "raw_titles": [
+        "乒乓球多人上榜中国品牌青年榜"
+      ],
+      "rank": 22,
+      "sports_rank": 5
     },
     {
       "title": "肖国栋晋级 特鲁姆普爆冷出局",
@@ -534,16 +486,16 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 27000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%82%96%E5%9B%BD%E6%A0%8B%E6%99%8B%E7%BA%A7+%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80&sa=fyb_news"
       },
       "raw_titles": [
         "肖国栋晋级 特鲁姆普爆冷出局"
       ],
-      "rank": 26,
-      "sports_rank": 7,
-      "movie_rank": 20
+      "rank": 24,
+      "sports_rank": 6,
+      "movie_rank": 19
     }
   ],
   "movies": [
@@ -560,7 +512,7 @@
         "抖音",
         "抖音"
       ],
-      "hot_value": 16567382,
+      "hot_value": 16232265,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%AF%B9%E6%8E%A5%E7%A1%AE%E8%AE%A4%E5%87%BA%E5%B8%AD%E7%99%BE%E8%8A%B1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC",
         "百度": "https://m.baidu.com/s?word=%E9%99%88%E4%B8%BD%E5%90%9B%E6%8F%90%E5%90%8D%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E5%A5%96&sa=fyb_news",
@@ -578,7 +530,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7738321,
+      "hot_value": 7759354,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%99%E5%BC%A0%E6%98%AF%E7%83%82%E7%89%87%E4%BD%86%E6%88%91%E5%96%9C%E6%AC%A2"
       },
@@ -594,7 +546,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707385,
+      "hot_value": 7697952,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E8%80%81%E5%B9%B4%E5%A6%86%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%83%B3%E5%88%B0"
       },
@@ -610,31 +562,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2771949,
+      "hot_value": 1559246,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B2%88%E8%85%BE%E6%96%87%E7%89%A7%E9%87%8E%E6%96%B0%E7%89%87"
       },
       "raw_titles": [
         "如何评价沈腾文牧野新片"
       ],
-      "rank": 6,
+      "rank": 5,
       "movie_rank": 4
-    },
-    {
-      "title": "诺兰奥德赛值得看吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 497825,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%AF%BA%E5%85%B0%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
-      },
-      "raw_titles": [
-        "诺兰奥德赛值得看吗"
-      ],
-      "rank": 7,
-      "movie_rank": 5
     },
     {
       "title": "上海迪士尼因台风变水上乐园",
@@ -649,72 +585,8 @@
       "raw_titles": [
         "上海迪士尼因台风变水上乐园"
       ],
-      "rank": 8,
-      "movie_rank": 6
-    },
-    {
-      "title": "欢迎来龙餐馆能超越我不是药神吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 414428,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
-      },
-      "raw_titles": [
-        "欢迎来龙餐馆能超越我不是药神吗"
-      ],
-      "rank": 9,
-      "movie_rank": 7
-    },
-    {
-      "title": "暑期档哪部电影值得看",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 414405,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
-      },
-      "raw_titles": [
-        "暑期档哪部电影值得看"
-      ],
-      "rank": 10,
-      "movie_rank": 8
-    },
-    {
-      "title": "动画真的审美降级了吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 327695,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%BA%86%E5%90%97"
-      },
-      "raw_titles": [
-        "动画真的审美降级了吗"
-      ],
-      "rank": 11,
-      "movie_rank": 9
-    },
-    {
-      "title": "荷兰弟凭什么出演蜘蛛侠",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 300244,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%87%AD%E4%BB%80%E4%B9%88%E5%87%BA%E6%BC%94%E8%9C%98%E8%9B%9B%E4%BE%A0"
-      },
-      "raw_titles": [
-        "荷兰弟凭什么出演蜘蛛侠"
-      ],
-      "rank": 13,
-      "movie_rank": 10
+      "rank": 6,
+      "movie_rank": 5
     },
     {
       "title": "《欢迎来龙餐馆》点映及预售总票房破亿",
@@ -722,14 +594,94 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 270000,
+      "hot_value": 333000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%82%B9%E6%98%A0%E5%8F%8A%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news"
       },
       "raw_titles": [
         "《欢迎来龙餐馆》点映及预售总票房破亿"
       ],
-      "rank": 14,
+      "rank": 7,
+      "movie_rank": 6
+    },
+    {
+      "title": "暑期档哪部电影值得看",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287963,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
+      },
+      "raw_titles": [
+        "暑期档哪部电影值得看"
+      ],
+      "rank": 9,
+      "movie_rank": 7
+    },
+    {
+      "title": "欢迎来龙餐馆能超越我不是药神吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 286198,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
+      },
+      "raw_titles": [
+        "欢迎来龙餐馆能超越我不是药神吗"
+      ],
+      "rank": 10,
+      "movie_rank": 8
+    },
+    {
+      "title": "诺兰奥德赛值得看吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 275600,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%AF%BA%E5%85%B0%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
+      },
+      "raw_titles": [
+        "诺兰奥德赛值得看吗"
+      ],
+      "rank": 11,
+      "movie_rank": 9
+    },
+    {
+      "title": "动画真的审美降级了吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 246077,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%BA%86%E5%90%97"
+      },
+      "raw_titles": [
+        "动画真的审美降级了吗"
+      ],
+      "rank": 12,
+      "movie_rank": 10
+    },
+    {
+      "title": "荷兰弟凭什么出演蜘蛛侠",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 178639,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%87%AD%E4%BB%80%E4%B9%88%E5%87%BA%E6%BC%94%E8%9C%98%E8%9B%9B%E4%BE%A0"
+      },
+      "raw_titles": [
+        "荷兰弟凭什么出演蜘蛛侠"
+      ],
+      "rank": 13,
       "movie_rank": 11
     },
     {
@@ -738,7 +690,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 258316,
+      "hot_value": 139928,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D"
       },
@@ -754,7 +706,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 255940,
+      "hot_value": 137314,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E5%A5%A5%E6%96%AF%E5%8D%A1"
       },
@@ -770,14 +722,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 255557,
+      "hot_value": 132675,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86"
       },
       "raw_titles": [
         "朱一龙鼻子怎么了"
       ],
-      "rank": 17,
+      "rank": 18,
       "movie_rank": 14
     },
     {
@@ -786,7 +738,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 252616,
+      "hot_value": 130709,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BF%98%E5%8E%9F%E8%B0%A2%E5%BE%81%E5%90%8D%E5%8F%B0%E8%AF%8D"
       },
@@ -802,7 +754,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 249612,
+      "hot_value": 127489,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%A0%E9%A2%9C%E9%A6%99%E6%B8%AFplog"
       },
@@ -818,7 +770,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 237812,
+      "hot_value": 126190,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BB%99%E9%80%86%E5%8A%A8%E7%94%BB"
       },
@@ -829,36 +781,20 @@
       "movie_rank": 17
     },
     {
-      "title": "龙餐馆 比我不是药神好十个抓娃娃",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 234401,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E6%AF%94%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%A5%BD%E5%8D%81%E4%B8%AA%E6%8A%93%E5%A8%83%E5%A8%83"
-      },
-      "raw_titles": [
-        "龙餐馆 比我不是药神好十个抓娃娃"
-      ],
-      "rank": 23,
-      "movie_rank": 18
-    },
-    {
       "title": "沈腾挑战老年妆",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 126000,
+      "hot_value": 45000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%B2%88%E8%85%BE%E6%8C%91%E6%88%98%E8%80%81%E5%B9%B4%E5%A6%86&sa=fyb_news"
       },
       "raw_titles": [
         "沈腾挑战老年妆"
       ],
-      "rank": 25,
-      "movie_rank": 19
+      "rank": 23,
+      "movie_rank": 18
     },
     {
       "title": "肖国栋晋级 特鲁姆普爆冷出局",
@@ -866,16 +802,16 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 27000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%82%96%E5%9B%BD%E6%A0%8B%E6%99%8B%E7%BA%A7+%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80&sa=fyb_news"
       },
       "raw_titles": [
         "肖国栋晋级 特鲁姆普爆冷出局"
       ],
-      "rank": 26,
-      "sports_rank": 7,
-      "movie_rank": 20
+      "rank": 24,
+      "sports_rank": 6,
+      "movie_rank": 19
     }
   ]
 }
