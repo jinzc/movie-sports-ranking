@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-08-10 01:00:49",
-  "total": 27,
+  "update_time": "2026-08-10 02:00:45",
+  "total": 26,
   "sports_count": 7,
-  "movie_count": 21,
+  "movie_count": 20,
   "all": [
     {
       "title": "百花奖",
@@ -17,7 +17,7 @@
         "抖音",
         "抖音"
       ],
-      "hot_value": 16835217,
+      "hot_value": 16567382,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%AF%B9%E6%8E%A5%E7%A1%AE%E8%AE%A4%E5%87%BA%E5%B8%AD%E7%99%BE%E8%8A%B1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC",
         "百度": "https://m.baidu.com/s?word=%E9%99%88%E4%B8%BD%E5%90%9B%E6%8F%90%E5%90%8D%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E5%A5%96&sa=fyb_news",
@@ -30,36 +30,36 @@
       "movie_rank": 1
     },
     {
-      "title": "这张是烂片但我喜欢",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7793869,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%BF%99%E5%BC%A0%E6%98%AF%E7%83%82%E7%89%87%E4%BD%86%E6%88%91%E5%96%9C%E6%AC%A2"
-      },
-      "raw_titles": [
-        "这张是烂片但我喜欢"
-      ],
-      "rank": 2,
-      "movie_rank": 2
-    },
-    {
       "title": "伦纳德被曝隐匿收入超5000万美元",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7736245,
+      "hot_value": 7801447,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7%E8%A2%AB%E6%9B%9D%E9%9A%90%E5%8C%BF%E6%94%B6%E5%85%A5%E8%B6%855000%E4%B8%87%E7%BE%8E%E5%85%83"
       },
       "raw_titles": [
         "伦纳德被曝隐匿收入超5000万美元"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 1
+    },
+    {
+      "title": "这张是烂片但我喜欢",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7738321,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%BF%99%E5%BC%A0%E6%98%AF%E7%83%82%E7%89%87%E4%BD%86%E6%88%91%E5%96%9C%E6%AC%A2"
+      },
+      "raw_titles": [
+        "这张是烂片但我喜欢"
+      ],
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "沈腾老年妆完全没想到",
@@ -67,7 +67,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707805,
+      "hot_value": 7707385,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E8%80%81%E5%B9%B4%E5%A6%86%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%83%B3%E5%88%B0"
       },
@@ -78,19 +78,35 @@
       "movie_rank": 3
     },
     {
+      "title": "CFPL白鲨击败KZ夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7655303,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/CFPL%E7%99%BD%E9%B2%A8%E5%87%BB%E8%B4%A5KZ%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "CFPL白鲨击败KZ夺冠"
+      ],
+      "rank": 5,
+      "sports_rank": 2
+    },
+    {
       "title": "如何评价沈腾文牧野新片",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 4314190,
+      "hot_value": 2771949,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B2%88%E8%85%BE%E6%96%87%E7%89%A7%E9%87%8E%E6%96%B0%E7%89%87"
       },
       "raw_titles": [
         "如何评价沈腾文牧野新片"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 4
     },
     {
@@ -99,47 +115,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 692352,
+      "hot_value": 497825,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%AF%BA%E5%85%B0%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
       },
       "raw_titles": [
         "诺兰奥德赛值得看吗"
       ],
-      "rank": 6,
-      "movie_rank": 5
-    },
-    {
-      "title": "暑期档哪部电影值得看",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 573299,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
-      },
-      "raw_titles": [
-        "暑期档哪部电影值得看"
-      ],
       "rank": 7,
-      "movie_rank": 6
-    },
-    {
-      "title": "欢迎来龙餐馆能超越我不是药神吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 568303,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
-      },
-      "raw_titles": [
-        "欢迎来龙餐馆能超越我不是药神吗"
-      ],
-      "rank": 8,
-      "movie_rank": 7
+      "movie_rank": 5
     },
     {
       "title": "上海迪士尼因台风变水上乐园",
@@ -154,7 +138,39 @@
       "raw_titles": [
         "上海迪士尼因台风变水上乐园"
       ],
+      "rank": 8,
+      "movie_rank": 6
+    },
+    {
+      "title": "欢迎来龙餐馆能超越我不是药神吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 414428,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
+      },
+      "raw_titles": [
+        "欢迎来龙餐馆能超越我不是药神吗"
+      ],
       "rank": 9,
+      "movie_rank": 7
+    },
+    {
+      "title": "暑期档哪部电影值得看",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 414405,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
+      },
+      "raw_titles": [
+        "暑期档哪部电影值得看"
+      ],
+      "rank": 10,
       "movie_rank": 8
     },
     {
@@ -163,47 +179,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 425466,
+      "hot_value": 327695,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%BA%86%E5%90%97"
       },
       "raw_titles": [
         "动画真的审美降级了吗"
       ],
-      "rank": 10,
-      "movie_rank": 9
-    },
-    {
-      "title": "沈腾 影帝",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 392857,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D"
-      },
-      "raw_titles": [
-        "沈腾 影帝"
-      ],
       "rank": 11,
-      "movie_rank": 10
-    },
-    {
-      "title": "荷兰弟凭什么出演蜘蛛侠",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 372348,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%87%AD%E4%BB%80%E4%B9%88%E5%87%BA%E6%BC%94%E8%9C%98%E8%9B%9B%E4%BE%A0"
-      },
-      "raw_titles": [
-        "荷兰弟凭什么出演蜘蛛侠"
-      ],
-      "rank": 12,
-      "movie_rank": 11
+      "movie_rank": 9
     },
     {
       "title": "上海交大绝杀清华闯进AUBL总决赛",
@@ -218,40 +202,24 @@
       "raw_titles": [
         "上海交大绝杀清华闯进AUBL总决赛"
       ],
-      "rank": 13,
-      "sports_rank": 2
+      "rank": 12,
+      "sports_rank": 3
     },
     {
-      "title": "龙餐馆 奥斯卡",
+      "title": "荷兰弟凭什么出演蜘蛛侠",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 242150,
+      "hot_value": 300244,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E5%A5%A5%E6%96%AF%E5%8D%A1"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%87%AD%E4%BB%80%E4%B9%88%E5%87%BA%E6%BC%94%E8%9C%98%E8%9B%9B%E4%BE%A0"
       },
       "raw_titles": [
-        "龙餐馆 奥斯卡"
+        "荷兰弟凭什么出演蜘蛛侠"
       ],
-      "rank": 14,
-      "movie_rank": 12
-    },
-    {
-      "title": "一个“村级”游泳池为啥全网点赞",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%80%E4%B8%AA%E2%80%9C%E6%9D%91%E7%BA%A7%E2%80%9D%E6%B8%B8%E6%B3%B3%E6%B1%A0%E4%B8%BA%E5%95%A5%E5%85%A8%E7%BD%91%E7%82%B9%E8%B5%9E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "一个“村级”游泳池为啥全网点赞"
-      ],
-      "rank": 15,
-      "sports_rank": 3
+      "rank": 13,
+      "movie_rank": 10
     },
     {
       "title": "《欢迎来龙餐馆》点映及预售总票房破亿",
@@ -259,12 +227,44 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 270000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%82%B9%E6%98%A0%E5%8F%8A%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news"
       },
       "raw_titles": [
         "《欢迎来龙餐馆》点映及预售总票房破亿"
+      ],
+      "rank": 14,
+      "movie_rank": 11
+    },
+    {
+      "title": "沈腾 影帝",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 258316,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D"
+      },
+      "raw_titles": [
+        "沈腾 影帝"
+      ],
+      "rank": 15,
+      "movie_rank": 12
+    },
+    {
+      "title": "龙餐馆 奥斯卡",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 255940,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E5%A5%A5%E6%96%AF%E5%8D%A1"
+      },
+      "raw_titles": [
+        "龙餐馆 奥斯卡"
       ],
       "rank": 16,
       "movie_rank": 13
@@ -275,7 +275,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 214850,
+      "hot_value": 255557,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86"
       },
@@ -291,7 +291,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 213457,
+      "hot_value": 255073,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%92%8C%E5%A6%B9%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7"
       },
@@ -307,7 +307,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 203168,
+      "hot_value": 252616,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BF%98%E5%8E%9F%E8%B0%A2%E5%BE%81%E5%90%8D%E5%8F%B0%E8%AF%8D"
       },
@@ -323,7 +323,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 193097,
+      "hot_value": 249612,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%A0%E9%A2%9C%E9%A6%99%E6%B8%AFplog"
       },
@@ -339,7 +339,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 185875,
+      "hot_value": 237812,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BB%99%E9%80%86%E5%8A%A8%E7%94%BB"
       },
@@ -350,52 +350,36 @@
       "movie_rank": 17
     },
     {
-      "title": "龙餐馆 比我不是药神好十个抓娃娃",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 185475,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E6%AF%94%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%A5%BD%E5%8D%81%E4%B8%AA%E6%8A%93%E5%A8%83%E5%A8%83"
-      },
-      "raw_titles": [
-        "龙餐馆 比我不是药神好十个抓娃娃"
-      ],
-      "rank": 22,
-      "movie_rank": 18
-    },
-    {
-      "title": "台风白海豚过境迪士尼变水上乐园",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 185151,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%BF%87%E5%A2%83%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%98%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD"
-      },
-      "raw_titles": [
-        "台风白海豚过境迪士尼变水上乐园"
-      ],
-      "rank": 23,
-      "movie_rank": 19
-    },
-    {
       "title": "阿森纳vs多特蒙德",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 183822,
+      "hot_value": 235126,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7"
       },
       "raw_titles": [
         "阿森纳vs多特蒙德"
       ],
-      "rank": 24,
+      "rank": 22,
       "sports_rank": 5
+    },
+    {
+      "title": "龙餐馆 比我不是药神好十个抓娃娃",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 234401,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E6%AF%94%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%A5%BD%E5%8D%81%E4%B8%AA%E6%8A%93%E5%A8%83%E5%A8%83"
+      },
+      "raw_titles": [
+        "龙餐馆 比我不是药神好十个抓娃娃"
+      ],
+      "rank": 23,
+      "movie_rank": 18
     },
     {
       "title": "国足U17与阿森纳决赛取消 并列冠军",
@@ -410,7 +394,7 @@
       "raw_titles": [
         "国足U17与阿森纳决赛取消 并列冠军"
       ],
-      "rank": 25,
+      "rank": 24,
       "sports_rank": 6
     },
     {
@@ -426,8 +410,8 @@
       "raw_titles": [
         "沈腾挑战老年妆"
       ],
-      "rank": 26,
-      "movie_rank": 20
+      "rank": 25,
+      "movie_rank": 19
     },
     {
       "title": "肖国栋晋级 特鲁姆普爆冷出局",
@@ -435,16 +419,16 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 45000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%82%96%E5%9B%BD%E6%A0%8B%E6%99%8B%E7%BA%A7+%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80&sa=fyb_news"
       },
       "raw_titles": [
         "肖国栋晋级 特鲁姆普爆冷出局"
       ],
-      "rank": 27,
+      "rank": 26,
       "sports_rank": 7,
-      "movie_rank": 21
+      "movie_rank": 20
     }
   ],
   "sports": [
@@ -454,15 +438,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7736245,
+      "hot_value": 7801447,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7%E8%A2%AB%E6%9B%9D%E9%9A%90%E5%8C%BF%E6%94%B6%E5%85%A5%E8%B6%855000%E4%B8%87%E7%BE%8E%E5%85%83"
       },
       "raw_titles": [
         "伦纳德被曝隐匿收入超5000万美元"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 1
+    },
+    {
+      "title": "CFPL白鲨击败KZ夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7655303,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/CFPL%E7%99%BD%E9%B2%A8%E5%87%BB%E8%B4%A5KZ%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "CFPL白鲨击败KZ夺冠"
+      ],
+      "rank": 5,
+      "sports_rank": 2
     },
     {
       "title": "上海交大绝杀清华闯进AUBL总决赛",
@@ -477,23 +477,7 @@
       "raw_titles": [
         "上海交大绝杀清华闯进AUBL总决赛"
       ],
-      "rank": 13,
-      "sports_rank": 2
-    },
-    {
-      "title": "一个“村级”游泳池为啥全网点赞",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%80%E4%B8%AA%E2%80%9C%E6%9D%91%E7%BA%A7%E2%80%9D%E6%B8%B8%E6%B3%B3%E6%B1%A0%E4%B8%BA%E5%95%A5%E5%85%A8%E7%BD%91%E7%82%B9%E8%B5%9E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "一个“村级”游泳池为啥全网点赞"
-      ],
-      "rank": 15,
+      "rank": 12,
       "sports_rank": 3
     },
     {
@@ -502,7 +486,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 213457,
+      "hot_value": 255073,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%92%8C%E5%A6%B9%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7"
       },
@@ -518,14 +502,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 183822,
+      "hot_value": 235126,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7"
       },
       "raw_titles": [
         "阿森纳vs多特蒙德"
       ],
-      "rank": 24,
+      "rank": 22,
       "sports_rank": 5
     },
     {
@@ -541,7 +525,7 @@
       "raw_titles": [
         "国足U17与阿森纳决赛取消 并列冠军"
       ],
-      "rank": 25,
+      "rank": 24,
       "sports_rank": 6
     },
     {
@@ -550,16 +534,16 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 45000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%82%96%E5%9B%BD%E6%A0%8B%E6%99%8B%E7%BA%A7+%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80&sa=fyb_news"
       },
       "raw_titles": [
         "肖国栋晋级 特鲁姆普爆冷出局"
       ],
-      "rank": 27,
+      "rank": 26,
       "sports_rank": 7,
-      "movie_rank": 21
+      "movie_rank": 20
     }
   ],
   "movies": [
@@ -576,7 +560,7 @@
         "抖音",
         "抖音"
       ],
-      "hot_value": 16835217,
+      "hot_value": 16567382,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%AF%B9%E6%8E%A5%E7%A1%AE%E8%AE%A4%E5%87%BA%E5%B8%AD%E7%99%BE%E8%8A%B1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC",
         "百度": "https://m.baidu.com/s?word=%E9%99%88%E4%B8%BD%E5%90%9B%E6%8F%90%E5%90%8D%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E5%A5%96&sa=fyb_news",
@@ -594,14 +578,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7793869,
+      "hot_value": 7738321,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%99%E5%BC%A0%E6%98%AF%E7%83%82%E7%89%87%E4%BD%86%E6%88%91%E5%96%9C%E6%AC%A2"
       },
       "raw_titles": [
         "这张是烂片但我喜欢"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 2
     },
     {
@@ -610,7 +594,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707805,
+      "hot_value": 7707385,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E8%80%81%E5%B9%B4%E5%A6%86%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%83%B3%E5%88%B0"
       },
@@ -626,14 +610,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 4314190,
+      "hot_value": 2771949,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B2%88%E8%85%BE%E6%96%87%E7%89%A7%E9%87%8E%E6%96%B0%E7%89%87"
       },
       "raw_titles": [
         "如何评价沈腾文牧野新片"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 4
     },
     {
@@ -642,47 +626,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 692352,
+      "hot_value": 497825,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%AF%BA%E5%85%B0%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
       },
       "raw_titles": [
         "诺兰奥德赛值得看吗"
       ],
-      "rank": 6,
-      "movie_rank": 5
-    },
-    {
-      "title": "暑期档哪部电影值得看",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 573299,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
-      },
-      "raw_titles": [
-        "暑期档哪部电影值得看"
-      ],
       "rank": 7,
-      "movie_rank": 6
-    },
-    {
-      "title": "欢迎来龙餐馆能超越我不是药神吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 568303,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
-      },
-      "raw_titles": [
-        "欢迎来龙餐馆能超越我不是药神吗"
-      ],
-      "rank": 8,
-      "movie_rank": 7
+      "movie_rank": 5
     },
     {
       "title": "上海迪士尼因台风变水上乐园",
@@ -697,7 +649,39 @@
       "raw_titles": [
         "上海迪士尼因台风变水上乐园"
       ],
+      "rank": 8,
+      "movie_rank": 6
+    },
+    {
+      "title": "欢迎来龙餐馆能超越我不是药神吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 414428,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
+      },
+      "raw_titles": [
+        "欢迎来龙餐馆能超越我不是药神吗"
+      ],
       "rank": 9,
+      "movie_rank": 7
+    },
+    {
+      "title": "暑期档哪部电影值得看",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 414405,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
+      },
+      "raw_titles": [
+        "暑期档哪部电影值得看"
+      ],
+      "rank": 10,
       "movie_rank": 8
     },
     {
@@ -706,31 +690,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 425466,
+      "hot_value": 327695,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%BA%86%E5%90%97"
       },
       "raw_titles": [
         "动画真的审美降级了吗"
       ],
-      "rank": 10,
-      "movie_rank": 9
-    },
-    {
-      "title": "沈腾 影帝",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 392857,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D"
-      },
-      "raw_titles": [
-        "沈腾 影帝"
-      ],
       "rank": 11,
-      "movie_rank": 10
+      "movie_rank": 9
     },
     {
       "title": "荷兰弟凭什么出演蜘蛛侠",
@@ -738,31 +706,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 372348,
+      "hot_value": 300244,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%E5%BC%9F%E5%87%AD%E4%BB%80%E4%B9%88%E5%87%BA%E6%BC%94%E8%9C%98%E8%9B%9B%E4%BE%A0"
       },
       "raw_titles": [
         "荷兰弟凭什么出演蜘蛛侠"
       ],
-      "rank": 12,
-      "movie_rank": 11
-    },
-    {
-      "title": "龙餐馆 奥斯卡",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 242150,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E5%A5%A5%E6%96%AF%E5%8D%A1"
-      },
-      "raw_titles": [
-        "龙餐馆 奥斯卡"
-      ],
-      "rank": 14,
-      "movie_rank": 12
+      "rank": 13,
+      "movie_rank": 10
     },
     {
       "title": "《欢迎来龙餐馆》点映及预售总票房破亿",
@@ -770,12 +722,44 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 270000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%82%B9%E6%98%A0%E5%8F%8A%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&sa=fyb_news"
       },
       "raw_titles": [
         "《欢迎来龙餐馆》点映及预售总票房破亿"
+      ],
+      "rank": 14,
+      "movie_rank": 11
+    },
+    {
+      "title": "沈腾 影帝",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 258316,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D"
+      },
+      "raw_titles": [
+        "沈腾 影帝"
+      ],
+      "rank": 15,
+      "movie_rank": 12
+    },
+    {
+      "title": "龙餐馆 奥斯卡",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 255940,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E5%A5%A5%E6%96%AF%E5%8D%A1"
+      },
+      "raw_titles": [
+        "龙餐馆 奥斯卡"
       ],
       "rank": 16,
       "movie_rank": 13
@@ -786,7 +770,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 214850,
+      "hot_value": 255557,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86"
       },
@@ -802,7 +786,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 203168,
+      "hot_value": 252616,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BF%98%E5%8E%9F%E8%B0%A2%E5%BE%81%E5%90%8D%E5%8F%B0%E8%AF%8D"
       },
@@ -818,7 +802,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 193097,
+      "hot_value": 249612,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%A0%E9%A2%9C%E9%A6%99%E6%B8%AFplog"
       },
@@ -834,7 +818,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 185875,
+      "hot_value": 237812,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BB%99%E9%80%86%E5%8A%A8%E7%94%BB"
       },
@@ -850,31 +834,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 185475,
+      "hot_value": 234401,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E6%AF%94%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%A5%BD%E5%8D%81%E4%B8%AA%E6%8A%93%E5%A8%83%E5%A8%83"
       },
       "raw_titles": [
         "龙餐馆 比我不是药神好十个抓娃娃"
       ],
-      "rank": 22,
-      "movie_rank": 18
-    },
-    {
-      "title": "台风白海豚过境迪士尼变水上乐园",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 185151,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%BF%87%E5%A2%83%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%98%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD"
-      },
-      "raw_titles": [
-        "台风白海豚过境迪士尼变水上乐园"
-      ],
       "rank": 23,
-      "movie_rank": 19
+      "movie_rank": 18
     },
     {
       "title": "沈腾挑战老年妆",
@@ -889,8 +857,8 @@
       "raw_titles": [
         "沈腾挑战老年妆"
       ],
-      "rank": 26,
-      "movie_rank": 20
+      "rank": 25,
+      "movie_rank": 19
     },
     {
       "title": "肖国栋晋级 特鲁姆普爆冷出局",
@@ -898,16 +866,16 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 45000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%82%96%E5%9B%BD%E6%A0%8B%E6%99%8B%E7%BA%A7+%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80&sa=fyb_news"
       },
       "raw_titles": [
         "肖国栋晋级 特鲁姆普爆冷出局"
       ],
-      "rank": 27,
+      "rank": 26,
       "sports_rank": 7,
-      "movie_rank": 21
+      "movie_rank": 20
     }
   ]
 }
