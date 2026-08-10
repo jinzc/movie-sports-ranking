@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-08-10 22:00:49",
-  "total": 46,
-  "sports_count": 5,
-  "movie_count": 41,
+  "update_time": "2026-08-10 23:00:55",
+  "total": 42,
+  "sports_count": 4,
+  "movie_count": 38,
   "all": [
     {
       "title": "王宝强0票",
@@ -10,7 +10,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 17891214,
+      "hot_value": 19070488,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8"
       },
@@ -21,6 +21,27 @@
       "movie_rank": 1
     },
     {
+      "title": "易烊千玺百花奖最佳男主",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 16305215,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96",
+        "百度": "https://m.baidu.com/s?word=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92"
+      },
+      "raw_titles": [
+        "易烊千玺百花奖最佳男主"
+      ],
+      "rank": 2,
+      "movie_rank": 2
+    },
+    {
       "title": "卫诗雅百花奖最佳女主",
       "category": "影视",
       "sources": [
@@ -28,7 +49,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 16992153,
+      "hot_value": 13454641,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%8D%AB%E8%AF%97%E9%9B%85%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB",
         "百度": "https://m.baidu.com/s?word=%E5%8D%AB%E8%AF%97%E9%9B%85%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92&sa=fyb_news",
@@ -37,45 +58,27 @@
       "raw_titles": [
         "卫诗雅百花奖最佳女主"
       ],
-      "rank": 2,
-      "movie_rank": 2
-    },
-    {
-      "title": "易烊千玺百花奖最佳男主",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "微博",
-        "百度",
-        "哔哩哔哩"
-      ],
-      "hot_value": 16914643,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96",
-        "百度": "https://m.baidu.com/s?word=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96"
-      },
-      "raw_titles": [
-        "易烊千玺百花奖最佳男主"
-      ],
       "rank": 3,
       "movie_rank": 3
     },
     {
-      "title": "百花奖闭幕式",
+      "title": "百花奖获奖名单",
       "category": "影视",
       "sources": [
         "微博",
+        "百度",
         "抖音",
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 16695423,
+      "hot_value": 12410898,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F",
-        "抖音": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF"
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
+        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%AE%8C%E6%95%B4%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
-        "百花奖闭幕式"
+        "百花奖获奖名单"
       ],
       "rank": 4,
       "movie_rank": 4
@@ -86,7 +89,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11438708,
+      "hot_value": 11263737,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E5%A2%9E%E5%8A%BF%E5%90%91%E5%A5%BD"
       },
@@ -97,24 +100,41 @@
       "movie_rank": 5
     },
     {
-      "title": "萨日娜最佳女配",
+      "title": "王骁获百花奖最佳男配角",
       "category": "影视",
       "sources": [
-        "微博",
+        "百度",
         "百度",
         "抖音"
       ],
-      "hot_value": 10041056,
+      "hot_value": 8638898,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%90%A8%E6%97%A5%E5%A8%9C%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D",
         "百度": "https://m.baidu.com/s?word=%E8%90%A8%E6%97%A5%E5%A8%9C%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E9%AA%81%E8%90%A8%E6%97%A5%E5%A8%9C%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E9%85%8D"
       },
       "raw_titles": [
-        "萨日娜最佳女配"
+        "王骁获百花奖最佳男配角"
       ],
       "rank": 6,
       "movie_rank": 6
+    },
+    {
+      "title": "百花奖闭幕式",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 8256984,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F",
+        "抖音": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F"
+      },
+      "raw_titles": [
+        "百花奖闭幕式"
+      ],
+      "rank": 7,
+      "movie_rank": 7
     },
     {
       "title": "电视剧重器开播",
@@ -122,15 +142,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8256296,
+      "hot_value": 8174947,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8D%E5%99%A8%E5%BC%80%E6%92%AD"
       },
       "raw_titles": [
         "电视剧重器开播"
       ],
-      "rank": 7,
-      "movie_rank": 7
+      "rank": 8,
+      "movie_rank": 8
     },
     {
       "title": "欢迎来龙餐馆沈腾演技",
@@ -138,15 +158,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7745936,
+      "hot_value": 7780354,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E6%B2%88%E8%85%BE%E6%BC%94%E6%8A%80"
       },
       "raw_titles": [
         "欢迎来龙餐馆沈腾演技"
       ],
-      "rank": 8,
-      "movie_rank": 8
+      "rank": 9,
+      "movie_rank": 9
     },
     {
       "title": "杨幂刘诗诗百花奖同框走红毯",
@@ -154,28 +174,12 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7741540,
+      "hot_value": 7731990,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E7%99%BE%E8%8A%B1%E5%A5%96%E5%90%8C%E6%A1%86%E8%B5%B0%E7%BA%A2%E6%AF%AF"
       },
       "raw_titles": [
         "杨幂刘诗诗百花奖同框走红毯"
-      ],
-      "rank": 9,
-      "movie_rank": 9
-    },
-    {
-      "title": "谁能拒绝看一集毛毯动画",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7699526,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E7%9C%8B%E4%B8%80%E9%9B%86%E6%AF%9B%E6%AF%AF%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "谁能拒绝看一集毛毯动画"
       ],
       "rank": 10,
       "movie_rank": 10
@@ -186,7 +190,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7694912,
+      "hot_value": 7677976,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%99%E5%BC%A0%E6%98%AF%E7%83%82%E7%89%87%E4%BD%86%E6%88%91%E5%96%9C%E6%AC%A2"
       },
@@ -197,88 +201,132 @@
       "movie_rank": 11
     },
     {
-      "title": "百花奖短剧男女演员同框",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7680279,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9F%AD%E5%89%A7%E7%94%B7%E5%A5%B3%E6%BC%94%E5%91%98%E5%90%8C%E6%A1%86"
-      },
-      "raw_titles": [
-        "百花奖短剧男女演员同框"
-      ],
-      "rank": 12,
-      "movie_rank": 12
-    },
-    {
-      "title": "百花奖获奖名单",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度",
-        "哔哩哔哩"
-      ],
-      "hot_value": 1982517,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
-        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
-      },
-      "raw_titles": [
-        "百花奖获奖名单"
-      ],
-      "rank": 13,
-      "movie_rank": 13
-    },
-    {
-      "title": "沈腾新片里的东方式智慧",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1844327,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87%E9%87%8C%E7%9A%84%E4%B8%9C%E6%96%B9%E5%BC%8F%E6%99%BA%E6%85%A7"
-      },
-      "raw_titles": [
-        "沈腾新片里的东方式智慧"
-      ],
-      "rank": 14,
-      "movie_rank": 14
-    },
-    {
       "title": "食贫道讲述墨西哥后世界杯时代",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1819828,
+      "hot_value": 1539780,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E8%AE%B2%E8%BF%B0%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%90%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%B6%E4%BB%A3"
       },
       "raw_titles": [
         "食贫道讲述墨西哥后世界杯时代"
       ],
-      "rank": 15,
+      "rank": 12,
       "sports_rank": 1
     },
     {
-      "title": "UP主锐评英超西甲夏窗引援",
+      "title": "刘耀文看到易烊千玺拿影帝的反应",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1484570,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E7%9C%8B%E5%88%B0%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8B%BF%E5%BD%B1%E5%B8%9D%E7%9A%84%E5%8F%8D%E5%BA%94"
+      },
+      "raw_titles": [
+        "刘耀文看到易烊千玺拿影帝的反应"
+      ],
+      "rank": 13,
+      "movie_rank": 12
+    },
+    {
+      "title": "假面骑士祥子",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1406785,
+      "hot_value": 1445376,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B1%E8%B6%85%E8%A5%BF%E7%94%B2%E5%A4%8F%E7%AA%97%E5%BC%95%E6%8F%B4"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%A5%A5%E5%AD%90"
       },
       "raw_titles": [
-        "UP主锐评英超西甲夏窗引援"
+        "假面骑士祥子"
+      ],
+      "rank": 14,
+      "sports_rank": 2
+    },
+    {
+      "title": "张凌赫现身WALOVI新品盛典",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1396930,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%B0%E8%BA%ABWALOVI%E6%96%B0%E5%93%81%E7%9B%9B%E5%85%B8"
+      },
+      "raw_titles": [
+        "张凌赫现身WALOVI新品盛典"
+      ],
+      "rank": 15,
+      "movie_rank": 13
+    },
+    {
+      "title": "杨幂百花奖24票",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1128389,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%99%BE%E8%8A%B1%E5%A5%9624%E7%A5%A8"
+      },
+      "raw_titles": [
+        "杨幂百花奖24票"
       ],
       "rank": 16,
-      "sports_rank": 2
+      "movie_rank": 14
+    },
+    {
+      "title": "陈思诚在家里气哭了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1123742,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E5%9C%A8%E5%AE%B6%E9%87%8C%E6%B0%94%E5%93%AD%E4%BA%86"
+      },
+      "raw_titles": [
+        "陈思诚在家里气哭了"
+      ],
+      "rank": 17,
+      "movie_rank": 15
+    },
+    {
+      "title": "沈腾 王宝强",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1119022,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E7%8E%8B%E5%AE%9D%E5%BC%BA"
+      },
+      "raw_titles": [
+        "沈腾 王宝强"
+      ],
+      "rank": 18,
+      "movie_rank": 16
+    },
+    {
+      "title": "梁家辉安慰马丽不要哭",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1117714,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%81%E5%AE%B6%E8%BE%89%E5%AE%89%E6%85%B0%E9%A9%AC%E4%B8%BD%E4%B8%8D%E8%A6%81%E5%93%AD"
+      },
+      "raw_titles": [
+        "梁家辉安慰马丽不要哭"
+      ],
+      "rank": 19,
+      "movie_rank": 17
     },
     {
       "title": "大鹏最佳导演",
@@ -287,7 +335,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 1179493,
+      "hot_value": 1115872,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%B9%8F%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94",
         "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E9%B9%8F%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94&sa=fyb_news"
@@ -295,58 +343,40 @@
       "raw_titles": [
         "大鹏最佳导演"
       ],
-      "rank": 17,
-      "movie_rank": 15
+      "rank": 20,
+      "movie_rank": 18
     },
     {
-      "title": "欢迎来龙餐馆能超越我不是药神吗",
+      "title": "沈腾新片里的东方式智慧",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1095836,
+      "hot_value": 962175,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87%E9%87%8C%E7%9A%84%E4%B8%9C%E6%96%B9%E5%BC%8F%E6%99%BA%E6%85%A7"
       },
       "raw_titles": [
-        "欢迎来龙餐馆能超越我不是药神吗"
+        "沈腾新片里的东方式智慧"
       ],
-      "rank": 18,
-      "movie_rank": 16
+      "rank": 21,
+      "movie_rank": 19
     },
     {
-      "title": "王骁百花奖最佳男配",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 999605,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%AA%81%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D",
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E9%AA%81%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王骁百花奖最佳男配"
-      ],
-      "rank": 19,
-      "movie_rank": 17
-    },
-    {
-      "title": "张凌赫现身WALOVI新品盛典",
+      "title": "张凌赫紫色头发",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 955766,
+      "hot_value": 830061,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%B0%E8%BA%ABWALOVI%E6%96%B0%E5%93%81%E7%9B%9B%E5%85%B8"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%B4%AB%E8%89%B2%E5%A4%B4%E5%8F%91"
       },
       "raw_titles": [
-        "张凌赫现身WALOVI新品盛典"
+        "张凌赫紫色头发"
       ],
-      "rank": 20,
-      "movie_rank": 18
+      "rank": 22,
+      "movie_rank": 20
     },
     {
       "title": "乔丹的季后赛63分强到什么程度",
@@ -354,14 +384,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 934770,
+      "hot_value": 774225,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B9%94%E4%B8%B9%E7%9A%84%E5%AD%A3%E5%90%8E%E8%B5%9B63%E5%88%86%E5%BC%BA%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6"
       },
       "raw_titles": [
         "乔丹的季后赛63分强到什么程度"
       ],
-      "rank": 21,
+      "rank": 23,
       "sports_rank": 3
     },
     {
@@ -370,79 +400,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 924139,
+      "hot_value": 758958,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BA%AB%E4%B8%8A%E6%B2%A1%E6%9C%89%E5%B1%95%E7%A4%BA%E4%BD%8D%E4%BA%86"
       },
       "raw_titles": [
         "易烊千玺身上没有展示位了"
       ],
-      "rank": 22,
-      "movie_rank": 19
-    },
-    {
-      "title": "杨幂百花奖24票",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 920617,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%99%BE%E8%8A%B1%E5%A5%9624%E7%A5%A8"
-      },
-      "raw_titles": [
-        "杨幂百花奖24票"
-      ],
-      "rank": 23,
-      "movie_rank": 20
-    },
-    {
-      "title": "易烊千玺 挺刺激的有点想吐",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 909442,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E6%8C%BA%E5%88%BA%E6%BF%80%E7%9A%84%E6%9C%89%E7%82%B9%E6%83%B3%E5%90%90"
-      },
-      "raw_titles": [
-        "易烊千玺 挺刺激的有点想吐"
-      ],
       "rank": 24,
       "movie_rank": 21
     },
     {
-      "title": "梁家辉安慰马丽不要哭",
+      "title": "欢迎来龙餐馆能超越我不是药神吗",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 897440,
+      "hot_value": 738669,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%81%E5%AE%B6%E8%BE%89%E5%AE%89%E6%85%B0%E9%A9%AC%E4%B8%BD%E4%B8%8D%E8%A6%81%E5%93%AD"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
       },
       "raw_titles": [
-        "梁家辉安慰马丽不要哭"
+        "欢迎来龙餐馆能超越我不是药神吗"
       ],
       "rank": 25,
       "movie_rank": 22
-    },
-    {
-      "title": "百花奖影后和白玉兰视后同框",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 846860,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BD%B1%E5%90%8E%E5%92%8C%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%E5%90%8C%E6%A1%86"
-      },
-      "raw_titles": [
-        "百花奖影后和白玉兰视后同框"
-      ],
-      "rank": 26,
-      "movie_rank": 23
     },
     {
       "title": "如何评价沈腾文牧野新片",
@@ -450,15 +432,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 785093,
+      "hot_value": 631925,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B2%88%E8%85%BE%E6%96%87%E7%89%A7%E9%87%8E%E6%96%B0%E7%89%87"
       },
       "raw_titles": [
         "如何评价沈腾文牧野新片"
       ],
-      "rank": 27,
-      "movie_rank": 24
+      "rank": 26,
+      "movie_rank": 23
     },
     {
       "title": "UP主自制明日方舟动画",
@@ -466,31 +448,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 691784,
+      "hot_value": 624873,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "UP主自制明日方舟动画"
       ],
-      "rank": 28,
-      "movie_rank": 25
+      "rank": 27,
+      "movie_rank": 24
     },
     {
-      "title": "沈腾 王宝强",
+      "title": "小小的我导演0票",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 669031,
+      "hot_value": 614220,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E7%8E%8B%E5%AE%9D%E5%BC%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91%E5%AF%BC%E6%BC%940%E7%A5%A8"
       },
       "raw_titles": [
-        "沈腾 王宝强"
+        "小小的我导演0票"
       ],
-      "rank": 29,
-      "movie_rank": 26
+      "rank": 28,
+      "movie_rank": 25
     },
     {
       "title": "龙餐馆微剧透影评",
@@ -498,12 +480,28 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 549675,
+      "hot_value": 609350,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A4%90%E9%A6%86%E5%BE%AE%E5%89%A7%E9%80%8F%E5%BD%B1%E8%AF%84"
       },
       "raw_titles": [
         "龙餐馆微剧透影评"
+      ],
+      "rank": 29,
+      "movie_rank": 26
+    },
+    {
+      "title": "百花奖影后和白玉兰视后同框",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 595081,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BD%B1%E5%90%8E%E5%92%8C%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%E5%90%8C%E6%A1%86"
+      },
+      "raw_titles": [
+        "百花奖影后和白玉兰视后同框"
       ],
       "rank": 30,
       "movie_rank": 27
@@ -514,7 +512,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 459215,
+      "hot_value": 534034,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
       },
@@ -525,52 +523,20 @@
       "movie_rank": 28
     },
     {
-      "title": "动画中经典的大哥角色",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 450432,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E4%B8%AD%E7%BB%8F%E5%85%B8%E7%9A%84%E5%A4%A7%E5%93%A5%E8%A7%92%E8%89%B2"
-      },
-      "raw_titles": [
-        "动画中经典的大哥角色"
-      ],
-      "rank": 32,
-      "movie_rank": 29
-    },
-    {
-      "title": "假面骑士第47集剧情有何bug",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 430852,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%AC%AC47%E9%9B%86%E5%89%A7%E6%83%85%E6%9C%89%E4%BD%95bug"
-      },
-      "raw_titles": [
-        "假面骑士第47集剧情有何bug"
-      ],
-      "rank": 33,
-      "sports_rank": 4
-    },
-    {
-      "title": "百花奖颁奖典礼",
+      "title": "王宝强首次入围百花奖却以0票收场",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 387000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%A6%96%E6%AC%A1%E5%85%A5%E5%9B%B4%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8D%B4%E4%BB%A50%E7%A5%A8%E6%94%B6%E5%9C%BA&sa=fyb_news"
       },
       "raw_titles": [
-        "百花奖颁奖典礼"
+        "王宝强首次入围百花奖却以0票收场"
       ],
-      "rank": 34,
-      "movie_rank": 30
+      "rank": 32,
+      "movie_rank": 29
     },
     {
       "title": "相声演员李晓龙因病去世 年仅38岁",
@@ -578,15 +544,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 387000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%9B%B8%E5%A3%B0%E6%BC%94%E5%91%98%E6%9D%8E%E6%99%93%E9%BE%99%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8538%E5%B2%81&sa=fyb_news"
       },
       "raw_titles": [
         "相声演员李晓龙因病去世 年仅38岁"
       ],
-      "rank": 35,
-      "movie_rank": 31
+      "rank": 33,
+      "movie_rank": 30
     },
     {
       "title": "陈丽君获百花奖最佳新人",
@@ -601,8 +567,8 @@
       "raw_titles": [
         "陈丽君获百花奖最佳新人"
       ],
-      "rank": 36,
-      "movie_rank": 32
+      "rank": 34,
+      "movie_rank": 31
     },
     {
       "title": "男单前10国乒仅剩王楚钦、林诗栋",
@@ -617,23 +583,39 @@
       "raw_titles": [
         "男单前10国乒仅剩王楚钦、林诗栋"
       ],
-      "rank": 37,
-      "sports_rank": 5
+      "rank": 35,
+      "sports_rank": 4
     },
     {
-      "title": "《肖申克的救赎》内地定档 豆瓣9.7分",
+      "title": "《哪吒之魔童闹海》获百花奖最佳影片奖",
       "category": "影视",
       "sources": [
         "百度"
       ],
       "hot_value": 252000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3+%E8%B1%86%E7%93%A39.7%E5%88%86&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%E3%80%8B%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%BD%B1%E7%89%87%E5%A5%96&sa=fyb_news"
       },
       "raw_titles": [
-        "《肖申克的救赎》内地定档 豆瓣9.7分"
+        "《哪吒之魔童闹海》获百花奖最佳影片奖"
       ],
-      "rank": 38,
+      "rank": 36,
+      "movie_rank": 32
+    },
+    {
+      "title": "宋佳马丽落泪祝贺萨日娜获奖",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 234000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AE%8B%E4%BD%B3%E9%A9%AC%E4%B8%BD%E8%90%BD%E6%B3%AA%E7%A5%9D%E8%B4%BA%E8%90%A8%E6%97%A5%E5%A8%9C%E8%8E%B7%E5%A5%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "宋佳马丽落泪祝贺萨日娜获奖"
+      ],
+      "rank": 37,
       "movie_rank": 33
     },
     {
@@ -649,7 +631,7 @@
       "raw_titles": [
         "男演员入职景区当NPC 和魏大勋是校友"
       ],
-      "rank": 39,
+      "rank": 38,
       "movie_rank": 34
     },
     {
@@ -665,7 +647,7 @@
       "raw_titles": [
         "周深演唱会被台下激光笔照射"
       ],
-      "rank": 40,
+      "rank": 39,
       "movie_rank": 35
     },
     {
@@ -681,23 +663,23 @@
       "raw_titles": [
         "沈腾主演电影票房已破415亿"
       ],
-      "rank": 41,
+      "rank": 40,
       "movie_rank": 36
     },
     {
-      "title": "《欢迎来龙餐馆》预测票房或超20亿",
+      "title": "百花奖刘诗诗仅得1票",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 189000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E6%88%96%E8%B6%8520%E4%BA%BF&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%85%E5%BE%971%E7%A5%A8&sa=fyb_news"
       },
       "raw_titles": [
-        "《欢迎来龙餐馆》预测票房或超20亿"
+        "百花奖刘诗诗仅得1票"
       ],
-      "rank": 42,
+      "rank": 41,
       "movie_rank": 37
     },
     {
@@ -706,63 +688,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 162000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E7%BA%A2%E6%AF%AF%E9%87%91%E8%89%B2%E9%95%BF%E8%A3%99%E4%BC%BC%E7%8F%A0%E5%B8%98%E7%A5%9E%E5%A5%B3&sa=fyb_news"
       },
       "raw_titles": [
         "杨紫红毯金色长裙似珠帘神女"
       ],
-      "rank": 43,
+      "rank": 42,
       "movie_rank": 38
-    },
-    {
-      "title": "《哪吒之魔童闹海》获百花奖最佳影片奖",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%E3%80%8B%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%BD%B1%E7%89%87%E5%A5%96&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《哪吒之魔童闹海》获百花奖最佳影片奖"
-      ],
-      "rank": 44,
-      "movie_rank": 39
-    },
-    {
-      "title": "百花奖刘诗诗仅得1票",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%85%E5%BE%971%E7%A5%A8&sa=fyb_news"
-      },
-      "raw_titles": [
-        "百花奖刘诗诗仅得1票"
-      ],
-      "rank": 45,
-      "movie_rank": 40
-    },
-    {
-      "title": "宋佳马丽落泪祝贺萨日娜获奖",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AE%8B%E4%BD%B3%E9%A9%AC%E4%B8%BD%E8%90%BD%E6%B3%AA%E7%A5%9D%E8%B4%BA%E8%90%A8%E6%97%A5%E5%A8%9C%E8%8E%B7%E5%A5%96&sa=fyb_news"
-      },
-      "raw_titles": [
-        "宋佳马丽落泪祝贺萨日娜获奖"
-      ],
-      "rank": 46,
-      "movie_rank": 41
     }
   ],
   "sports": [
@@ -772,30 +706,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1819828,
+      "hot_value": 1539780,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E8%AE%B2%E8%BF%B0%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%90%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%B6%E4%BB%A3"
       },
       "raw_titles": [
         "食贫道讲述墨西哥后世界杯时代"
       ],
-      "rank": 15,
+      "rank": 12,
       "sports_rank": 1
     },
     {
-      "title": "UP主锐评英超西甲夏窗引援",
+      "title": "假面骑士祥子",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1406785,
+      "hot_value": 1445376,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B1%E8%B6%85%E8%A5%BF%E7%94%B2%E5%A4%8F%E7%AA%97%E5%BC%95%E6%8F%B4"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%A5%A5%E5%AD%90"
       },
       "raw_titles": [
-        "UP主锐评英超西甲夏窗引援"
+        "假面骑士祥子"
       ],
-      "rank": 16,
+      "rank": 14,
       "sports_rank": 2
     },
     {
@@ -804,31 +738,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 934770,
+      "hot_value": 774225,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B9%94%E4%B8%B9%E7%9A%84%E5%AD%A3%E5%90%8E%E8%B5%9B63%E5%88%86%E5%BC%BA%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6"
       },
       "raw_titles": [
         "乔丹的季后赛63分强到什么程度"
       ],
-      "rank": 21,
+      "rank": 23,
       "sports_rank": 3
-    },
-    {
-      "title": "假面骑士第47集剧情有何bug",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 430852,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%AC%AC47%E9%9B%86%E5%89%A7%E6%83%85%E6%9C%89%E4%BD%95bug"
-      },
-      "raw_titles": [
-        "假面骑士第47集剧情有何bug"
-      ],
-      "rank": 33,
-      "sports_rank": 4
     },
     {
       "title": "男单前10国乒仅剩王楚钦、林诗栋",
@@ -843,8 +761,8 @@
       "raw_titles": [
         "男单前10国乒仅剩王楚钦、林诗栋"
       ],
-      "rank": 37,
-      "sports_rank": 5
+      "rank": 35,
+      "sports_rank": 4
     }
   ],
   "movies": [
@@ -854,7 +772,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 17891214,
+      "hot_value": 19070488,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8"
       },
@@ -865,6 +783,27 @@
       "movie_rank": 1
     },
     {
+      "title": "易烊千玺百花奖最佳男主",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 16305215,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96",
+        "百度": "https://m.baidu.com/s?word=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92"
+      },
+      "raw_titles": [
+        "易烊千玺百花奖最佳男主"
+      ],
+      "rank": 2,
+      "movie_rank": 2
+    },
+    {
       "title": "卫诗雅百花奖最佳女主",
       "category": "影视",
       "sources": [
@@ -872,7 +811,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 16992153,
+      "hot_value": 13454641,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%8D%AB%E8%AF%97%E9%9B%85%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB",
         "百度": "https://m.baidu.com/s?word=%E5%8D%AB%E8%AF%97%E9%9B%85%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92&sa=fyb_news",
@@ -881,45 +820,27 @@
       "raw_titles": [
         "卫诗雅百花奖最佳女主"
       ],
-      "rank": 2,
-      "movie_rank": 2
-    },
-    {
-      "title": "易烊千玺百花奖最佳男主",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "微博",
-        "百度",
-        "哔哩哔哩"
-      ],
-      "hot_value": 16914643,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96",
-        "百度": "https://m.baidu.com/s?word=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96"
-      },
-      "raw_titles": [
-        "易烊千玺百花奖最佳男主"
-      ],
       "rank": 3,
       "movie_rank": 3
     },
     {
-      "title": "百花奖闭幕式",
+      "title": "百花奖获奖名单",
       "category": "影视",
       "sources": [
         "微博",
+        "百度",
         "抖音",
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 16695423,
+      "hot_value": 12410898,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F",
-        "抖音": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF"
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
+        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%AE%8C%E6%95%B4%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
-        "百花奖闭幕式"
+        "百花奖获奖名单"
       ],
       "rank": 4,
       "movie_rank": 4
@@ -930,7 +851,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11438708,
+      "hot_value": 11263737,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E5%A2%9E%E5%8A%BF%E5%90%91%E5%A5%BD"
       },
@@ -941,24 +862,41 @@
       "movie_rank": 5
     },
     {
-      "title": "萨日娜最佳女配",
+      "title": "王骁获百花奖最佳男配角",
       "category": "影视",
       "sources": [
-        "微博",
+        "百度",
         "百度",
         "抖音"
       ],
-      "hot_value": 10041056,
+      "hot_value": 8638898,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%90%A8%E6%97%A5%E5%A8%9C%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D",
         "百度": "https://m.baidu.com/s?word=%E8%90%A8%E6%97%A5%E5%A8%9C%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E9%AA%81%E8%90%A8%E6%97%A5%E5%A8%9C%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E9%85%8D"
       },
       "raw_titles": [
-        "萨日娜最佳女配"
+        "王骁获百花奖最佳男配角"
       ],
       "rank": 6,
       "movie_rank": 6
+    },
+    {
+      "title": "百花奖闭幕式",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 8256984,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F",
+        "抖音": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F"
+      },
+      "raw_titles": [
+        "百花奖闭幕式"
+      ],
+      "rank": 7,
+      "movie_rank": 7
     },
     {
       "title": "电视剧重器开播",
@@ -966,15 +904,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8256296,
+      "hot_value": 8174947,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8D%E5%99%A8%E5%BC%80%E6%92%AD"
       },
       "raw_titles": [
         "电视剧重器开播"
       ],
-      "rank": 7,
-      "movie_rank": 7
+      "rank": 8,
+      "movie_rank": 8
     },
     {
       "title": "欢迎来龙餐馆沈腾演技",
@@ -982,15 +920,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7745936,
+      "hot_value": 7780354,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E6%B2%88%E8%85%BE%E6%BC%94%E6%8A%80"
       },
       "raw_titles": [
         "欢迎来龙餐馆沈腾演技"
       ],
-      "rank": 8,
-      "movie_rank": 8
+      "rank": 9,
+      "movie_rank": 9
     },
     {
       "title": "杨幂刘诗诗百花奖同框走红毯",
@@ -998,28 +936,12 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7741540,
+      "hot_value": 7731990,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E7%99%BE%E8%8A%B1%E5%A5%96%E5%90%8C%E6%A1%86%E8%B5%B0%E7%BA%A2%E6%AF%AF"
       },
       "raw_titles": [
         "杨幂刘诗诗百花奖同框走红毯"
-      ],
-      "rank": 9,
-      "movie_rank": 9
-    },
-    {
-      "title": "谁能拒绝看一集毛毯动画",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7699526,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E7%9C%8B%E4%B8%80%E9%9B%86%E6%AF%9B%E6%AF%AF%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "谁能拒绝看一集毛毯动画"
       ],
       "rank": 10,
       "movie_rank": 10
@@ -1030,7 +952,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7694912,
+      "hot_value": 7677976,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%99%E5%BC%A0%E6%98%AF%E7%83%82%E7%89%87%E4%BD%86%E6%88%91%E5%96%9C%E6%AC%A2"
       },
@@ -1041,56 +963,100 @@
       "movie_rank": 11
     },
     {
-      "title": "百花奖短剧男女演员同框",
+      "title": "刘耀文看到易烊千玺拿影帝的反应",
       "category": "影视",
       "sources": [
-        "抖音"
+        "微博"
       ],
-      "hot_value": 7680279,
+      "hot_value": 1484570,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9F%AD%E5%89%A7%E7%94%B7%E5%A5%B3%E6%BC%94%E5%91%98%E5%90%8C%E6%A1%86"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E7%9C%8B%E5%88%B0%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8B%BF%E5%BD%B1%E5%B8%9D%E7%9A%84%E5%8F%8D%E5%BA%94"
       },
       "raw_titles": [
-        "百花奖短剧男女演员同框"
+        "刘耀文看到易烊千玺拿影帝的反应"
       ],
-      "rank": 12,
+      "rank": 13,
       "movie_rank": 12
     },
     {
-      "title": "百花奖获奖名单",
+      "title": "张凌赫现身WALOVI新品盛典",
       "category": "影视",
       "sources": [
-        "微博",
-        "百度",
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 1982517,
+      "hot_value": 1396930,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
-        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%B0%E8%BA%ABWALOVI%E6%96%B0%E5%93%81%E7%9B%9B%E5%85%B8"
       },
       "raw_titles": [
-        "百花奖获奖名单"
+        "张凌赫现身WALOVI新品盛典"
       ],
-      "rank": 13,
+      "rank": 15,
       "movie_rank": 13
     },
     {
-      "title": "沈腾新片里的东方式智慧",
+      "title": "杨幂百花奖24票",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 1844327,
+      "hot_value": 1128389,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87%E9%87%8C%E7%9A%84%E4%B8%9C%E6%96%B9%E5%BC%8F%E6%99%BA%E6%85%A7"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%99%BE%E8%8A%B1%E5%A5%9624%E7%A5%A8"
       },
       "raw_titles": [
-        "沈腾新片里的东方式智慧"
+        "杨幂百花奖24票"
       ],
-      "rank": 14,
+      "rank": 16,
       "movie_rank": 14
+    },
+    {
+      "title": "陈思诚在家里气哭了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1123742,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E5%9C%A8%E5%AE%B6%E9%87%8C%E6%B0%94%E5%93%AD%E4%BA%86"
+      },
+      "raw_titles": [
+        "陈思诚在家里气哭了"
+      ],
+      "rank": 17,
+      "movie_rank": 15
+    },
+    {
+      "title": "沈腾 王宝强",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1119022,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E7%8E%8B%E5%AE%9D%E5%BC%BA"
+      },
+      "raw_titles": [
+        "沈腾 王宝强"
+      ],
+      "rank": 18,
+      "movie_rank": 16
+    },
+    {
+      "title": "梁家辉安慰马丽不要哭",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1117714,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%81%E5%AE%B6%E8%BE%89%E5%AE%89%E6%85%B0%E9%A9%AC%E4%B8%BD%E4%B8%8D%E8%A6%81%E5%93%AD"
+      },
+      "raw_titles": [
+        "梁家辉安慰马丽不要哭"
+      ],
+      "rank": 19,
+      "movie_rank": 17
     },
     {
       "title": "大鹏最佳导演",
@@ -1099,7 +1065,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 1179493,
+      "hot_value": 1115872,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%B9%8F%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94",
         "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E9%B9%8F%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94&sa=fyb_news"
@@ -1107,58 +1073,40 @@
       "raw_titles": [
         "大鹏最佳导演"
       ],
-      "rank": 17,
-      "movie_rank": 15
+      "rank": 20,
+      "movie_rank": 18
     },
     {
-      "title": "欢迎来龙餐馆能超越我不是药神吗",
+      "title": "沈腾新片里的东方式智慧",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1095836,
+      "hot_value": 962175,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87%E9%87%8C%E7%9A%84%E4%B8%9C%E6%96%B9%E5%BC%8F%E6%99%BA%E6%85%A7"
       },
       "raw_titles": [
-        "欢迎来龙餐馆能超越我不是药神吗"
+        "沈腾新片里的东方式智慧"
       ],
-      "rank": 18,
-      "movie_rank": 16
+      "rank": 21,
+      "movie_rank": 19
     },
     {
-      "title": "王骁百花奖最佳男配",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 999605,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%AA%81%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D",
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E9%AA%81%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王骁百花奖最佳男配"
-      ],
-      "rank": 19,
-      "movie_rank": 17
-    },
-    {
-      "title": "张凌赫现身WALOVI新品盛典",
+      "title": "张凌赫紫色头发",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 955766,
+      "hot_value": 830061,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%B0%E8%BA%ABWALOVI%E6%96%B0%E5%93%81%E7%9B%9B%E5%85%B8"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%B4%AB%E8%89%B2%E5%A4%B4%E5%8F%91"
       },
       "raw_titles": [
-        "张凌赫现身WALOVI新品盛典"
+        "张凌赫紫色头发"
       ],
-      "rank": 20,
-      "movie_rank": 18
+      "rank": 22,
+      "movie_rank": 20
     },
     {
       "title": "易烊千玺身上没有展示位了",
@@ -1166,79 +1114,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 924139,
+      "hot_value": 758958,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BA%AB%E4%B8%8A%E6%B2%A1%E6%9C%89%E5%B1%95%E7%A4%BA%E4%BD%8D%E4%BA%86"
       },
       "raw_titles": [
         "易烊千玺身上没有展示位了"
       ],
-      "rank": 22,
-      "movie_rank": 19
-    },
-    {
-      "title": "杨幂百花奖24票",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 920617,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%99%BE%E8%8A%B1%E5%A5%9624%E7%A5%A8"
-      },
-      "raw_titles": [
-        "杨幂百花奖24票"
-      ],
-      "rank": 23,
-      "movie_rank": 20
-    },
-    {
-      "title": "易烊千玺 挺刺激的有点想吐",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 909442,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E6%8C%BA%E5%88%BA%E6%BF%80%E7%9A%84%E6%9C%89%E7%82%B9%E6%83%B3%E5%90%90"
-      },
-      "raw_titles": [
-        "易烊千玺 挺刺激的有点想吐"
-      ],
       "rank": 24,
       "movie_rank": 21
     },
     {
-      "title": "梁家辉安慰马丽不要哭",
+      "title": "欢迎来龙餐馆能超越我不是药神吗",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 897440,
+      "hot_value": 738669,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%81%E5%AE%B6%E8%BE%89%E5%AE%89%E6%85%B0%E9%A9%AC%E4%B8%BD%E4%B8%8D%E8%A6%81%E5%93%AD"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E8%83%BD%E8%B6%85%E8%B6%8A%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%90%97"
       },
       "raw_titles": [
-        "梁家辉安慰马丽不要哭"
+        "欢迎来龙餐馆能超越我不是药神吗"
       ],
       "rank": 25,
       "movie_rank": 22
-    },
-    {
-      "title": "百花奖影后和白玉兰视后同框",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 846860,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BD%B1%E5%90%8E%E5%92%8C%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%E5%90%8C%E6%A1%86"
-      },
-      "raw_titles": [
-        "百花奖影后和白玉兰视后同框"
-      ],
-      "rank": 26,
-      "movie_rank": 23
     },
     {
       "title": "如何评价沈腾文牧野新片",
@@ -1246,15 +1146,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 785093,
+      "hot_value": 631925,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B2%88%E8%85%BE%E6%96%87%E7%89%A7%E9%87%8E%E6%96%B0%E7%89%87"
       },
       "raw_titles": [
         "如何评价沈腾文牧野新片"
       ],
-      "rank": 27,
-      "movie_rank": 24
+      "rank": 26,
+      "movie_rank": 23
     },
     {
       "title": "UP主自制明日方舟动画",
@@ -1262,31 +1162,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 691784,
+      "hot_value": 624873,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "UP主自制明日方舟动画"
       ],
-      "rank": 28,
-      "movie_rank": 25
+      "rank": 27,
+      "movie_rank": 24
     },
     {
-      "title": "沈腾 王宝强",
+      "title": "小小的我导演0票",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 669031,
+      "hot_value": 614220,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E7%8E%8B%E5%AE%9D%E5%BC%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91%E5%AF%BC%E6%BC%940%E7%A5%A8"
       },
       "raw_titles": [
-        "沈腾 王宝强"
+        "小小的我导演0票"
       ],
-      "rank": 29,
-      "movie_rank": 26
+      "rank": 28,
+      "movie_rank": 25
     },
     {
       "title": "龙餐馆微剧透影评",
@@ -1294,12 +1194,28 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 549675,
+      "hot_value": 609350,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A4%90%E9%A6%86%E5%BE%AE%E5%89%A7%E9%80%8F%E5%BD%B1%E8%AF%84"
       },
       "raw_titles": [
         "龙餐馆微剧透影评"
+      ],
+      "rank": 29,
+      "movie_rank": 26
+    },
+    {
+      "title": "百花奖影后和白玉兰视后同框",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 595081,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BD%B1%E5%90%8E%E5%92%8C%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%E5%90%8C%E6%A1%86"
+      },
+      "raw_titles": [
+        "百花奖影后和白玉兰视后同框"
       ],
       "rank": 30,
       "movie_rank": 27
@@ -1310,7 +1226,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 459215,
+      "hot_value": 534034,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B"
       },
@@ -1321,36 +1237,20 @@
       "movie_rank": 28
     },
     {
-      "title": "动画中经典的大哥角色",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 450432,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E4%B8%AD%E7%BB%8F%E5%85%B8%E7%9A%84%E5%A4%A7%E5%93%A5%E8%A7%92%E8%89%B2"
-      },
-      "raw_titles": [
-        "动画中经典的大哥角色"
-      ],
-      "rank": 32,
-      "movie_rank": 29
-    },
-    {
-      "title": "百花奖颁奖典礼",
+      "title": "王宝强首次入围百花奖却以0票收场",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 387000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%A6%96%E6%AC%A1%E5%85%A5%E5%9B%B4%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8D%B4%E4%BB%A50%E7%A5%A8%E6%94%B6%E5%9C%BA&sa=fyb_news"
       },
       "raw_titles": [
-        "百花奖颁奖典礼"
+        "王宝强首次入围百花奖却以0票收场"
       ],
-      "rank": 34,
-      "movie_rank": 30
+      "rank": 32,
+      "movie_rank": 29
     },
     {
       "title": "相声演员李晓龙因病去世 年仅38岁",
@@ -1358,15 +1258,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 387000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%9B%B8%E5%A3%B0%E6%BC%94%E5%91%98%E6%9D%8E%E6%99%93%E9%BE%99%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8538%E5%B2%81&sa=fyb_news"
       },
       "raw_titles": [
         "相声演员李晓龙因病去世 年仅38岁"
       ],
-      "rank": 35,
-      "movie_rank": 31
+      "rank": 33,
+      "movie_rank": 30
     },
     {
       "title": "陈丽君获百花奖最佳新人",
@@ -1381,23 +1281,39 @@
       "raw_titles": [
         "陈丽君获百花奖最佳新人"
       ],
-      "rank": 36,
-      "movie_rank": 32
+      "rank": 34,
+      "movie_rank": 31
     },
     {
-      "title": "《肖申克的救赎》内地定档 豆瓣9.7分",
+      "title": "《哪吒之魔童闹海》获百花奖最佳影片奖",
       "category": "影视",
       "sources": [
         "百度"
       ],
       "hot_value": 252000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3+%E8%B1%86%E7%93%A39.7%E5%88%86&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%E3%80%8B%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%BD%B1%E7%89%87%E5%A5%96&sa=fyb_news"
       },
       "raw_titles": [
-        "《肖申克的救赎》内地定档 豆瓣9.7分"
+        "《哪吒之魔童闹海》获百花奖最佳影片奖"
       ],
-      "rank": 38,
+      "rank": 36,
+      "movie_rank": 32
+    },
+    {
+      "title": "宋佳马丽落泪祝贺萨日娜获奖",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 234000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AE%8B%E4%BD%B3%E9%A9%AC%E4%B8%BD%E8%90%BD%E6%B3%AA%E7%A5%9D%E8%B4%BA%E8%90%A8%E6%97%A5%E5%A8%9C%E8%8E%B7%E5%A5%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "宋佳马丽落泪祝贺萨日娜获奖"
+      ],
+      "rank": 37,
       "movie_rank": 33
     },
     {
@@ -1413,7 +1329,7 @@
       "raw_titles": [
         "男演员入职景区当NPC 和魏大勋是校友"
       ],
-      "rank": 39,
+      "rank": 38,
       "movie_rank": 34
     },
     {
@@ -1429,7 +1345,7 @@
       "raw_titles": [
         "周深演唱会被台下激光笔照射"
       ],
-      "rank": 40,
+      "rank": 39,
       "movie_rank": 35
     },
     {
@@ -1445,23 +1361,23 @@
       "raw_titles": [
         "沈腾主演电影票房已破415亿"
       ],
-      "rank": 41,
+      "rank": 40,
       "movie_rank": 36
     },
     {
-      "title": "《欢迎来龙餐馆》预测票房或超20亿",
+      "title": "百花奖刘诗诗仅得1票",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 189000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E6%88%96%E8%B6%8520%E4%BA%BF&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%85%E5%BE%971%E7%A5%A8&sa=fyb_news"
       },
       "raw_titles": [
-        "《欢迎来龙餐馆》预测票房或超20亿"
+        "百花奖刘诗诗仅得1票"
       ],
-      "rank": 42,
+      "rank": 41,
       "movie_rank": 37
     },
     {
@@ -1470,63 +1386,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 162000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%B4%AB%E7%BA%A2%E6%AF%AF%E9%87%91%E8%89%B2%E9%95%BF%E8%A3%99%E4%BC%BC%E7%8F%A0%E5%B8%98%E7%A5%9E%E5%A5%B3&sa=fyb_news"
       },
       "raw_titles": [
         "杨紫红毯金色长裙似珠帘神女"
       ],
-      "rank": 43,
+      "rank": 42,
       "movie_rank": 38
-    },
-    {
-      "title": "《哪吒之魔童闹海》获百花奖最佳影片奖",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%E3%80%8B%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%BD%B1%E7%89%87%E5%A5%96&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《哪吒之魔童闹海》获百花奖最佳影片奖"
-      ],
-      "rank": 44,
-      "movie_rank": 39
-    },
-    {
-      "title": "百花奖刘诗诗仅得1票",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%85%E5%BE%971%E7%A5%A8&sa=fyb_news"
-      },
-      "raw_titles": [
-        "百花奖刘诗诗仅得1票"
-      ],
-      "rank": 45,
-      "movie_rank": 40
-    },
-    {
-      "title": "宋佳马丽落泪祝贺萨日娜获奖",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AE%8B%E4%BD%B3%E9%A9%AC%E4%B8%BD%E8%90%BD%E6%B3%AA%E7%A5%9D%E8%B4%BA%E8%90%A8%E6%97%A5%E5%A8%9C%E8%8E%B7%E5%A5%96&sa=fyb_news"
-      },
-      "raw_titles": [
-        "宋佳马丽落泪祝贺萨日娜获奖"
-      ],
-      "rank": 46,
-      "movie_rank": 41
     }
   ]
 }
