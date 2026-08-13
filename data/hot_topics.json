@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-08-13 08:00:52",
-  "total": 19,
-  "sports_count": 8,
-  "movie_count": 11,
+  "update_time": "2026-08-13 09:00:49",
+  "total": 23,
+  "sports_count": 11,
+  "movie_count": 12,
   "all": [
     {
       "title": "威少宣布退役",
@@ -10,13 +10,15 @@
       "sources": [
         "微博",
         "百度",
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 12659007,
+      "hot_value": 12530771,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9",
         "百度": "https://m.baidu.com/s?word=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9"
+        "抖音": "https://www.douyin.com/search/%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E6%AD%A3%E5%BC%8F%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
         "威少宣布退役"
@@ -25,22 +27,20 @@
       "sports_rank": 1
     },
     {
-      "title": "C罗宣布结婚",
-      "category": "体育",
+      "title": "欢迎来龙餐馆票房破三亿",
+      "category": "影视",
       "sources": [
-        "微博",
         "抖音"
       ],
-      "hot_value": 7689425,
+      "hot_value": 7644655,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A",
-        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A5%E5%B0%8F%E6%97%B6%E6%94%B6%E8%8E%B71400%E4%B8%87%E8%B5%9E"
+        "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%B8%89%E4%BA%BF"
       },
       "raw_titles": [
-        "C罗宣布结婚"
+        "欢迎来龙餐馆票房破三亿"
       ],
       "rank": 2,
-      "sports_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "熊出没给00后粉丝的一封信",
@@ -48,7 +48,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7629649,
+      "hot_value": 7640297,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%86%8A%E5%87%BA%E6%B2%A1%E7%BB%9900%E5%90%8E%E7%B2%89%E4%B8%9D%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1"
       },
@@ -56,88 +56,103 @@
         "熊出没给00后粉丝的一封信"
       ],
       "rank": 3,
-      "movie_rank": 1
-    },
-    {
-      "title": "御廷谣大结局",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7622860,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BE%A1%E5%BB%B7%E8%B0%A3%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "御廷谣大结局"
-      ],
-      "rank": 4,
       "movie_rank": 2
     },
     {
-      "title": "李现张婧仪权威的现偶真神",
-      "category": "影视",
+      "title": "C罗宣布结婚5小时收获1400万赞",
+      "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7611818,
+      "hot_value": 7619385,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E7%8E%B0%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%9D%83%E5%A8%81%E7%9A%84%E7%8E%B0%E5%81%B6%E7%9C%9F%E7%A5%9E"
+        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A5%E5%B0%8F%E6%97%B6%E6%94%B6%E8%8E%B71400%E4%B8%87%E8%B5%9E"
       },
       "raw_titles": [
-        "李现张婧仪权威的现偶真神"
+        "C罗宣布结婚5小时收获1400万赞"
+      ],
+      "rank": 4,
+      "sports_rank": 2
+    },
+    {
+      "title": "欧超杯巴黎2-1维拉",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1283590,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E8%B6%85%E6%9D%AF%E5%B7%B4%E9%BB%8E2-1%E7%BB%B4%E6%8B%89"
+      },
+      "raw_titles": [
+        "欧超杯巴黎2-1维拉"
       ],
       "rank": 5,
-      "movie_rank": 3
+      "sports_rank": 3
+    },
+    {
+      "title": "威少拒绝国王奇才报价仍选择退役",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1025472,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E6%8B%92%E7%BB%9D%E5%9B%BD%E7%8E%8B%E5%A5%87%E6%89%8D%E6%8A%A5%E4%BB%B7%E4%BB%8D%E9%80%89%E6%8B%A9%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "威少拒绝国王奇才报价仍选择退役"
+      ],
+      "rank": 6,
+      "sports_rank": 4
+    },
+    {
+      "title": "皇马1-0拉科鲁尼亚",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 571909,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC1-0%E6%8B%89%E7%A7%91%E9%B2%81%E5%B0%BC%E4%BA%9A"
+      },
+      "raw_titles": [
+        "皇马1-0拉科鲁尼亚"
+      ],
+      "rank": 7,
+      "sports_rank": 5
+    },
+    {
+      "title": "湖人所有权再次易主",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 531556,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B9%96%E4%BA%BA%E6%89%80%E6%9C%89%E6%9D%83%E5%86%8D%E6%AC%A1%E6%98%93%E4%B8%BB"
+      },
+      "raw_titles": [
+        "湖人所有权再次易主"
+      ],
+      "rank": 8,
+      "sports_rank": 6
     },
     {
       "title": "百花奖票数结果争议盘点",
       "category": "影视",
       "sources": [
-        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 596552,
+      "hot_value": 531542,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E4%BC%97%E7%99%BE%E8%8A%B1%E5%A5%96%E4%BA%89%E8%AE%AE%E7%9B%98%E7%82%B9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%A5%A8%E6%95%B0%E7%BB%93%E6%9E%9C%E4%BA%89%E8%AE%AE%E7%9B%98%E7%82%B9"
       },
       "raw_titles": [
         "百花奖票数结果争议盘点"
       ],
-      "rank": 6,
-      "movie_rank": 4
-    },
-    {
-      "title": "詹姆斯回应威少退役",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 470438,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%BA%94%E5%A8%81%E5%B0%91%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "詹姆斯回应威少退役"
-      ],
-      "rank": 7,
-      "sports_rank": 3
-    },
-    {
-      "title": "百花奖看点全复盘",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 370756,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9C%8B%E7%82%B9%E5%85%A8%E5%A4%8D%E7%9B%98"
-      },
-      "raw_titles": [
-        "百花奖看点全复盘"
-      ],
-      "rank": 8,
-      "movie_rank": 5
+      "rank": 9,
+      "movie_rank": 3
     },
     {
       "title": "字母哥现身EWC",
@@ -145,15 +160,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 307660,
+      "hot_value": 504617,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AD%97%E6%AF%8D%E5%93%A5%E7%8E%B0%E8%BA%ABEWC"
       },
       "raw_titles": [
         "字母哥现身EWC"
       ],
-      "rank": 9,
-      "sports_rank": 4
+      "rank": 10,
+      "sports_rank": 7
     },
     {
       "title": "UP主谈甄子丹监制影之刃零",
@@ -161,15 +176,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 278916,
+      "hot_value": 498656,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B0%88%E7%94%84%E5%AD%90%E4%B8%B9%E7%9B%91%E5%88%B6%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6"
       },
       "raw_titles": [
         "UP主谈甄子丹监制影之刃零"
       ],
-      "rank": 10,
-      "movie_rank": 6
+      "rank": 11,
+      "movie_rank": 4
+    },
+    {
+      "title": "百花奖看点全复盘",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 424255,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9C%8B%E7%82%B9%E5%85%A8%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "百花奖看点全复盘"
+      ],
+      "rank": 12,
+      "movie_rank": 5
+    },
+    {
+      "title": "曼联1-1战平利兹联",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 406141,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-1%E6%88%98%E5%B9%B3%E5%88%A9%E5%85%B9%E8%81%94"
+      },
+      "raw_titles": [
+        "曼联1-1战平利兹联"
+      ],
+      "rank": 13,
+      "sports_rank": 8
     },
     {
       "title": "龙餐馆 现实比电影更残酷",
@@ -177,14 +224,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 274375,
+      "hot_value": 315953,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A4%90%E9%A6%86%20%E7%8E%B0%E5%AE%9E%E6%AF%94%E7%94%B5%E5%BD%B1%E6%9B%B4%E6%AE%8B%E9%85%B7"
       },
       "raw_titles": [
         "龙餐馆 现实比电影更残酷"
       ],
-      "rank": 11,
+      "rank": 14,
+      "movie_rank": 6
+    },
+    {
+      "title": "蒋奇明口碑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 216930,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%92%8B%E5%A5%87%E6%98%8E%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "蒋奇明口碑"
+      ],
+      "rank": 15,
       "movie_rank": 7
     },
     {
@@ -193,63 +256,63 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 208554,
+      "hot_value": 216825,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%94%B6%E5%B7%A5%E5%90%8E%E4%BC%9A%E7%BB%99%E5%89%A7%E7%BB%84%E6%9C%8B%E5%8F%8B%E5%81%9A%E9%A5%AD"
       },
       "raw_titles": [
         "肖战收工后会给剧组朋友做饭"
       ],
-      "rank": 12,
+      "rank": 16,
       "movie_rank": 8
     },
     {
-      "title": "雷佳音因功利心接下陈俊生",
+      "title": "巴黎连续两年夺欧超杯冠军",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 212990,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B9%B4%E5%A4%BA%E6%AC%A7%E8%B6%85%E6%9D%AF%E5%86%A0%E5%86%9B"
+      },
+      "raw_titles": [
+        "巴黎连续两年夺欧超杯冠军"
+      ],
+      "rank": 17,
+      "sports_rank": 9
+    },
+    {
+      "title": "李现晒与张婧仪合照告别雾里青",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 130733,
+      "hot_value": 202923,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%9B%A0%E5%8A%9F%E5%88%A9%E5%BF%83%E6%8E%A5%E4%B8%8B%E9%99%88%E4%BF%8A%E7%94%9F"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%99%92%E4%B8%8E%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%90%88%E7%85%A7%E5%91%8A%E5%88%AB%E9%9B%BE%E9%87%8C%E9%9D%92"
       },
       "raw_titles": [
-        "雷佳音因功利心接下陈俊生"
+        "李现晒与张婧仪合照告别雾里青"
       ],
-      "rank": 13,
+      "rank": 18,
       "movie_rank": 9
     },
     {
-      "title": "王加一分享和肖战相识的过往",
+      "title": "三体公司原CEO毒杀董事长案细节披露",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 129292,
+      "hot_value": 171000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%A0%E4%B8%80%E5%88%86%E4%BA%AB%E5%92%8C%E8%82%96%E6%88%98%E7%9B%B8%E8%AF%86%E7%9A%84%E8%BF%87%E5%BE%80"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%89%E4%BD%93%E5%85%AC%E5%8F%B8%E5%8E%9FCEO%E6%AF%92%E6%9D%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&sa=fyb_news"
       },
       "raw_titles": [
-        "王加一分享和肖战相识的过往"
+        "三体公司原CEO毒杀董事长案细节披露"
       ],
-      "rank": 14,
+      "rank": 19,
       "movie_rank": 10
-    },
-    {
-      "title": "周星驰罕见露面接受专访",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 126908,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%BD%95%E8%A7%81%E9%9C%B2%E9%9D%A2%E6%8E%A5%E5%8F%97%E4%B8%93%E8%AE%BF"
-      },
-      "raw_titles": [
-        "周星驰罕见露面接受专访"
-      ],
-      "rank": 15,
-      "movie_rank": 11
     },
     {
       "title": "湖人售价120亿美元",
@@ -257,63 +320,63 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 119934,
+      "hot_value": 153131,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83"
       },
       "raw_titles": [
         "湖人售价120亿美元"
       ],
-      "rank": 16,
-      "sports_rank": 5
+      "rank": 20,
+      "sports_rank": 10
     },
     {
-      "title": "沃尔特以超120亿美元出售湖人",
-      "category": "体育",
+      "title": "周星驰罕见露面接受专访",
+      "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 72000,
+      "hot_value": 137743,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B2%83%E5%B0%94%E7%89%B9%E4%BB%A5%E8%B6%85120%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B9%96%E4%BA%BA&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%BD%95%E8%A7%81%E9%9C%B2%E9%9D%A2%E6%8E%A5%E5%8F%97%E4%B8%93%E8%AE%BF"
       },
       "raw_titles": [
-        "沃尔特以超120亿美元出售湖人"
+        "周星驰罕见露面接受专访"
       ],
-      "rank": 17,
-      "sports_rank": 6
+      "rank": 21,
+      "movie_rank": 11
     },
     {
-      "title": "苏翊鸣被任命为“体育促土地”大使",
-      "category": "体育",
+      "title": "赵丽颖老剧重播收视登榜",
+      "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 45000,
+      "hot_value": 105778,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BA%E2%80%9C%E4%BD%93%E8%82%B2%E4%BF%83%E5%9C%9F%E5%9C%B0%E2%80%9D%E5%A4%A7%E4%BD%BF&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%80%81%E5%89%A7%E9%87%8D%E6%92%AD%E6%94%B6%E8%A7%86%E7%99%BB%E6%A6%9C"
       },
       "raw_titles": [
-        "苏翊鸣被任命为“体育促土地”大使"
+        "赵丽颖老剧重播收视登榜"
       ],
-      "rank": 18,
-      "sports_rank": 7
+      "rank": 22,
+      "movie_rank": 12
     },
     {
-      "title": "郑海霞：对中国女篮冲击世界杯有信心",
+      "title": "詹姆斯回应威少退役",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 27000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%91%E6%B5%B7%E9%9C%9E%EF%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%89%E4%BF%A1%E5%BF%83&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%BA%94%E5%A8%81%E5%B0%91%E9%80%80%E5%BD%B9&sa=fyb_news"
       },
       "raw_titles": [
-        "郑海霞：对中国女篮冲击世界杯有信心"
+        "詹姆斯回应威少退役"
       ],
-      "rank": 19,
-      "sports_rank": 8
+      "rank": 23,
+      "sports_rank": 11
     }
   ],
   "sports": [
@@ -323,13 +386,15 @@
       "sources": [
         "微博",
         "百度",
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 12659007,
+      "hot_value": 12530771,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9",
         "百度": "https://m.baidu.com/s?word=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9"
+        "抖音": "https://www.douyin.com/search/%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E6%AD%A3%E5%BC%8F%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
         "威少宣布退役"
@@ -338,38 +403,84 @@
       "sports_rank": 1
     },
     {
-      "title": "C罗宣布结婚",
+      "title": "C罗宣布结婚5小时收获1400万赞",
       "category": "体育",
       "sources": [
-        "微博",
         "抖音"
       ],
-      "hot_value": 7689425,
+      "hot_value": 7619385,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A",
         "抖音": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A5%E5%B0%8F%E6%97%B6%E6%94%B6%E8%8E%B71400%E4%B8%87%E8%B5%9E"
       },
       "raw_titles": [
-        "C罗宣布结婚"
+        "C罗宣布结婚5小时收获1400万赞"
       ],
-      "rank": 2,
+      "rank": 4,
       "sports_rank": 2
     },
     {
-      "title": "詹姆斯回应威少退役",
+      "title": "欧超杯巴黎2-1维拉",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1283590,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E8%B6%85%E6%9D%AF%E5%B7%B4%E9%BB%8E2-1%E7%BB%B4%E6%8B%89"
+      },
+      "raw_titles": [
+        "欧超杯巴黎2-1维拉"
+      ],
+      "rank": 5,
+      "sports_rank": 3
+    },
+    {
+      "title": "威少拒绝国王奇才报价仍选择退役",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 470438,
+      "hot_value": 1025472,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%BA%94%E5%A8%81%E5%B0%91%E9%80%80%E5%BD%B9"
+        "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E6%8B%92%E7%BB%9D%E5%9B%BD%E7%8E%8B%E5%A5%87%E6%89%8D%E6%8A%A5%E4%BB%B7%E4%BB%8D%E9%80%89%E6%8B%A9%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
-        "詹姆斯回应威少退役"
+        "威少拒绝国王奇才报价仍选择退役"
+      ],
+      "rank": 6,
+      "sports_rank": 4
+    },
+    {
+      "title": "皇马1-0拉科鲁尼亚",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 571909,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC1-0%E6%8B%89%E7%A7%91%E9%B2%81%E5%B0%BC%E4%BA%9A"
+      },
+      "raw_titles": [
+        "皇马1-0拉科鲁尼亚"
       ],
       "rank": 7,
-      "sports_rank": 3
+      "sports_rank": 5
+    },
+    {
+      "title": "湖人所有权再次易主",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 531556,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B9%96%E4%BA%BA%E6%89%80%E6%9C%89%E6%9D%83%E5%86%8D%E6%AC%A1%E6%98%93%E4%B8%BB"
+      },
+      "raw_titles": [
+        "湖人所有权再次易主"
+      ],
+      "rank": 8,
+      "sports_rank": 6
     },
     {
       "title": "字母哥现身EWC",
@@ -377,15 +488,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 307660,
+      "hot_value": 504617,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AD%97%E6%AF%8D%E5%93%A5%E7%8E%B0%E8%BA%ABEWC"
       },
       "raw_titles": [
         "字母哥现身EWC"
       ],
-      "rank": 9,
-      "sports_rank": 4
+      "rank": 10,
+      "sports_rank": 7
+    },
+    {
+      "title": "曼联1-1战平利兹联",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 406141,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-1%E6%88%98%E5%B9%B3%E5%88%A9%E5%85%B9%E8%81%94"
+      },
+      "raw_titles": [
+        "曼联1-1战平利兹联"
+      ],
+      "rank": 13,
+      "sports_rank": 8
+    },
+    {
+      "title": "巴黎连续两年夺欧超杯冠军",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 212990,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B9%B4%E5%A4%BA%E6%AC%A7%E8%B6%85%E6%9D%AF%E5%86%A0%E5%86%9B"
+      },
+      "raw_titles": [
+        "巴黎连续两年夺欧超杯冠军"
+      ],
+      "rank": 17,
+      "sports_rank": 9
     },
     {
       "title": "湖人售价120亿美元",
@@ -393,73 +536,57 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 119934,
+      "hot_value": 153131,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83"
       },
       "raw_titles": [
         "湖人售价120亿美元"
       ],
-      "rank": 16,
-      "sports_rank": 5
+      "rank": 20,
+      "sports_rank": 10
     },
     {
-      "title": "沃尔特以超120亿美元出售湖人",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B2%83%E5%B0%94%E7%89%B9%E4%BB%A5%E8%B6%85120%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B9%96%E4%BA%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "沃尔特以超120亿美元出售湖人"
-      ],
-      "rank": 17,
-      "sports_rank": 6
-    },
-    {
-      "title": "苏翊鸣被任命为“体育促土地”大使",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 45000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BA%E2%80%9C%E4%BD%93%E8%82%B2%E4%BF%83%E5%9C%9F%E5%9C%B0%E2%80%9D%E5%A4%A7%E4%BD%BF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "苏翊鸣被任命为“体育促土地”大使"
-      ],
-      "rank": 18,
-      "sports_rank": 7
-    },
-    {
-      "title": "郑海霞：对中国女篮冲击世界杯有信心",
+      "title": "詹姆斯回应威少退役",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 27000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%91%E6%B5%B7%E9%9C%9E%EF%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%89%E4%BF%A1%E5%BF%83&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%BA%94%E5%A8%81%E5%B0%91%E9%80%80%E5%BD%B9&sa=fyb_news"
       },
       "raw_titles": [
-        "郑海霞：对中国女篮冲击世界杯有信心"
+        "詹姆斯回应威少退役"
       ],
-      "rank": 19,
-      "sports_rank": 8
+      "rank": 23,
+      "sports_rank": 11
     }
   ],
   "movies": [
+    {
+      "title": "欢迎来龙餐馆票房破三亿",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7644655,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%B8%89%E4%BA%BF"
+      },
+      "raw_titles": [
+        "欢迎来龙餐馆票房破三亿"
+      ],
+      "rank": 2,
+      "movie_rank": 1
+    },
     {
       "title": "熊出没给00后粉丝的一封信",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7629649,
+      "hot_value": 7640297,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%86%8A%E5%87%BA%E6%B2%A1%E7%BB%9900%E5%90%8E%E7%B2%89%E4%B8%9D%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1"
       },
@@ -467,55 +594,38 @@
         "熊出没给00后粉丝的一封信"
       ],
       "rank": 3,
-      "movie_rank": 1
-    },
-    {
-      "title": "御廷谣大结局",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7622860,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BE%A1%E5%BB%B7%E8%B0%A3%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "御廷谣大结局"
-      ],
-      "rank": 4,
       "movie_rank": 2
-    },
-    {
-      "title": "李现张婧仪权威的现偶真神",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7611818,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E7%8E%B0%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%9D%83%E5%A8%81%E7%9A%84%E7%8E%B0%E5%81%B6%E7%9C%9F%E7%A5%9E"
-      },
-      "raw_titles": [
-        "李现张婧仪权威的现偶真神"
-      ],
-      "rank": 5,
-      "movie_rank": 3
     },
     {
       "title": "百花奖票数结果争议盘点",
       "category": "影视",
       "sources": [
-        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 596552,
+      "hot_value": 531542,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E4%BC%97%E7%99%BE%E8%8A%B1%E5%A5%96%E4%BA%89%E8%AE%AE%E7%9B%98%E7%82%B9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%A5%A8%E6%95%B0%E7%BB%93%E6%9E%9C%E4%BA%89%E8%AE%AE%E7%9B%98%E7%82%B9"
       },
       "raw_titles": [
         "百花奖票数结果争议盘点"
       ],
-      "rank": 6,
+      "rank": 9,
+      "movie_rank": 3
+    },
+    {
+      "title": "UP主谈甄子丹监制影之刃零",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 498656,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B0%88%E7%94%84%E5%AD%90%E4%B8%B9%E7%9B%91%E5%88%B6%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6"
+      },
+      "raw_titles": [
+        "UP主谈甄子丹监制影之刃零"
+      ],
+      "rank": 11,
       "movie_rank": 4
     },
     {
@@ -524,31 +634,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 370756,
+      "hot_value": 424255,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9C%8B%E7%82%B9%E5%85%A8%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
         "百花奖看点全复盘"
       ],
-      "rank": 8,
+      "rank": 12,
       "movie_rank": 5
-    },
-    {
-      "title": "UP主谈甄子丹监制影之刃零",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 278916,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B0%88%E7%94%84%E5%AD%90%E4%B8%B9%E7%9B%91%E5%88%B6%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6"
-      },
-      "raw_titles": [
-        "UP主谈甄子丹监制影之刃零"
-      ],
-      "rank": 10,
-      "movie_rank": 6
     },
     {
       "title": "龙餐馆 现实比电影更残酷",
@@ -556,14 +650,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 274375,
+      "hot_value": 315953,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A4%90%E9%A6%86%20%E7%8E%B0%E5%AE%9E%E6%AF%94%E7%94%B5%E5%BD%B1%E6%9B%B4%E6%AE%8B%E9%85%B7"
       },
       "raw_titles": [
         "龙餐馆 现实比电影更残酷"
       ],
-      "rank": 11,
+      "rank": 14,
+      "movie_rank": 6
+    },
+    {
+      "title": "蒋奇明口碑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 216930,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%92%8B%E5%A5%87%E6%98%8E%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "蒋奇明口碑"
+      ],
+      "rank": 15,
       "movie_rank": 7
     },
     {
@@ -572,46 +682,46 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 208554,
+      "hot_value": 216825,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%94%B6%E5%B7%A5%E5%90%8E%E4%BC%9A%E7%BB%99%E5%89%A7%E7%BB%84%E6%9C%8B%E5%8F%8B%E5%81%9A%E9%A5%AD"
       },
       "raw_titles": [
         "肖战收工后会给剧组朋友做饭"
       ],
-      "rank": 12,
+      "rank": 16,
       "movie_rank": 8
     },
     {
-      "title": "雷佳音因功利心接下陈俊生",
+      "title": "李现晒与张婧仪合照告别雾里青",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 130733,
+      "hot_value": 202923,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%9B%A0%E5%8A%9F%E5%88%A9%E5%BF%83%E6%8E%A5%E4%B8%8B%E9%99%88%E4%BF%8A%E7%94%9F"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%99%92%E4%B8%8E%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%90%88%E7%85%A7%E5%91%8A%E5%88%AB%E9%9B%BE%E9%87%8C%E9%9D%92"
       },
       "raw_titles": [
-        "雷佳音因功利心接下陈俊生"
+        "李现晒与张婧仪合照告别雾里青"
       ],
-      "rank": 13,
+      "rank": 18,
       "movie_rank": 9
     },
     {
-      "title": "王加一分享和肖战相识的过往",
+      "title": "三体公司原CEO毒杀董事长案细节披露",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 129292,
+      "hot_value": 171000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%A0%E4%B8%80%E5%88%86%E4%BA%AB%E5%92%8C%E8%82%96%E6%88%98%E7%9B%B8%E8%AF%86%E7%9A%84%E8%BF%87%E5%BE%80"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%89%E4%BD%93%E5%85%AC%E5%8F%B8%E5%8E%9FCEO%E6%AF%92%E6%9D%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&sa=fyb_news"
       },
       "raw_titles": [
-        "王加一分享和肖战相识的过往"
+        "三体公司原CEO毒杀董事长案细节披露"
       ],
-      "rank": 14,
+      "rank": 19,
       "movie_rank": 10
     },
     {
@@ -620,15 +730,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 126908,
+      "hot_value": 137743,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%BD%95%E8%A7%81%E9%9C%B2%E9%9D%A2%E6%8E%A5%E5%8F%97%E4%B8%93%E8%AE%BF"
       },
       "raw_titles": [
         "周星驰罕见露面接受专访"
       ],
-      "rank": 15,
+      "rank": 21,
       "movie_rank": 11
+    },
+    {
+      "title": "赵丽颖老剧重播收视登榜",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 105778,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%80%81%E5%89%A7%E9%87%8D%E6%92%AD%E6%94%B6%E8%A7%86%E7%99%BB%E6%A6%9C"
+      },
+      "raw_titles": [
+        "赵丽颖老剧重播收视登榜"
+      ],
+      "rank": 22,
+      "movie_rank": 12
     }
   ]
 }
