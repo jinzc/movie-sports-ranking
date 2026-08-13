@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-08-13 10:00:56",
-  "total": 30,
-  "sports_count": 13,
-  "movie_count": 18,
+  "update_time": "2026-08-13 11:00:52",
+  "total": 25,
+  "sports_count": 10,
+  "movie_count": 15,
   "all": [
     {
       "title": "威少宣布退役",
@@ -13,7 +13,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12994591,
+      "hot_value": 12267109,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9",
         "百度": "https://m.baidu.com/s?word=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news",
@@ -27,37 +27,20 @@
       "sports_rank": 1
     },
     {
-      "title": "伦纳德百分大战定档",
-      "category": "综合",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7742803,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7%E7%99%BE%E5%88%86%E5%A4%A7%E6%88%98%E5%AE%9A%E6%A1%A3"
-      },
-      "raw_titles": [
-        "伦纳德百分大战定档"
-      ],
-      "rank": 2,
-      "sports_rank": 2,
-      "movie_rank": 1
-    },
-    {
       "title": "欢迎来龙餐馆票房破三亿",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7551708,
+      "hot_value": 7613518,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%B8%89%E4%BA%BF"
       },
       "raw_titles": [
         "欢迎来龙餐馆票房破三亿"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 2,
+      "movie_rank": 1
     },
     {
       "title": "熊出没给00后粉丝的一封信",
@@ -65,31 +48,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7537406,
+      "hot_value": 7611418,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%86%8A%E5%87%BA%E6%B2%A1%E7%BB%9900%E5%90%8E%E7%B2%89%E4%B8%9D%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1"
       },
       "raw_titles": [
         "熊出没给00后粉丝的一封信"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 3,
+      "movie_rank": 2
     },
     {
-      "title": "御廷谣大结局",
-      "category": "影视",
+      "title": "欧超杯巴黎2-1维拉",
+      "category": "体育",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7342814,
+      "hot_value": 1572815,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BE%A1%E5%BB%B7%E8%B0%A3%E5%A4%A7%E7%BB%93%E5%B1%80"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E8%B6%85%E6%9D%AF%E5%B7%B4%E9%BB%8E2-1%E7%BB%B4%E6%8B%89"
       },
       "raw_titles": [
-        "御廷谣大结局"
+        "欧超杯巴黎2-1维拉"
+      ],
+      "rank": 4,
+      "sports_rank": 2
+    },
+    {
+      "title": "百花奖看点全复盘",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 896120,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9C%8B%E7%82%B9%E5%85%A8%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "百花奖看点全复盘"
       ],
       "rank": 5,
-      "movie_rank": 4
+      "movie_rank": 3
     },
     {
       "title": "高燃混剪威少巅峰时刻",
@@ -97,7 +96,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2429723,
+      "hot_value": 834344,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83%E6%B7%B7%E5%89%AA%E5%A8%81%E5%B0%91%E5%B7%85%E5%B3%B0%E6%97%B6%E5%88%BB"
       },
@@ -108,148 +107,20 @@
       "sports_rank": 3
     },
     {
-      "title": "欧超杯巴黎2-1维拉",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1430633,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E8%B6%85%E6%9D%AF%E5%B7%B4%E9%BB%8E2-1%E7%BB%B4%E6%8B%89"
-      },
-      "raw_titles": [
-        "欧超杯巴黎2-1维拉"
-      ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "EWC CS小蜜蜂横扫100T",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1388960,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=EWC%20CS%E5%B0%8F%E8%9C%9C%E8%9C%82%E6%A8%AA%E6%89%AB100T"
-      },
-      "raw_titles": [
-        "EWC CS小蜜蜂横扫100T"
-      ],
-      "rank": 8,
-      "sports_rank": 5
-    },
-    {
-      "title": "锐评绿龙EWC首战爆冷落败",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 686211,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E7%BB%BF%E9%BE%99EWC%E9%A6%96%E6%88%98%E7%88%86%E5%86%B7%E8%90%BD%E8%B4%A5"
-      },
-      "raw_titles": [
-        "锐评绿龙EWC首战爆冷落败"
-      ],
-      "rank": 9,
-      "movie_rank": 5
-    },
-    {
-      "title": "威少拒绝国王奇才报价仍选择退役",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 630051,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E6%8B%92%E7%BB%9D%E5%9B%BD%E7%8E%8B%E5%A5%87%E6%89%8D%E6%8A%A5%E4%BB%B7%E4%BB%8D%E9%80%89%E6%8B%A9%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "威少拒绝国王奇才报价仍选择退役"
-      ],
-      "rank": 10,
-      "sports_rank": 6
-    },
-    {
-      "title": "百花奖票数结果争议盘点",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 605390,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%A5%A8%E6%95%B0%E7%BB%93%E6%9E%9C%E4%BA%89%E8%AE%AE%E7%9B%98%E7%82%B9"
-      },
-      "raw_titles": [
-        "百花奖票数结果争议盘点"
-      ],
-      "rank": 11,
-      "movie_rank": 6
-    },
-    {
-      "title": "魏如萱称歌手丑八怪是节目组选的",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 584059,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A6%82%E8%90%B1%E7%A7%B0%E6%AD%8C%E6%89%8B%E4%B8%91%E5%85%AB%E6%80%AA%E6%98%AF%E8%8A%82%E7%9B%AE%E7%BB%84%E9%80%89%E7%9A%84"
-      },
-      "raw_titles": [
-        "魏如萱称歌手丑八怪是节目组选的"
-      ],
-      "rank": 12,
-      "movie_rank": 7
-    },
-    {
-      "title": "百花奖看点全复盘",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 580425,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9C%8B%E7%82%B9%E5%85%A8%E5%A4%8D%E7%9B%98"
-      },
-      "raw_titles": [
-        "百花奖看点全复盘"
-      ],
-      "rank": 13,
-      "movie_rank": 8
-    },
-    {
       "title": "字母哥现身EWC",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 566009,
+      "hot_value": 768155,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AD%97%E6%AF%8D%E5%93%A5%E7%8E%B0%E8%BA%ABEWC"
       },
       "raw_titles": [
         "字母哥现身EWC"
       ],
-      "rank": 14,
-      "sports_rank": 7
-    },
-    {
-      "title": "皇马1-0拉科鲁尼亚",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 521990,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC1-0%E6%8B%89%E7%A7%91%E9%B2%81%E5%B0%BC%E4%BA%9A"
-      },
-      "raw_titles": [
-        "皇马1-0拉科鲁尼亚"
-      ],
-      "rank": 15,
-      "sports_rank": 8
+      "rank": 7,
+      "sports_rank": 4
     },
     {
       "title": "UP主谈甄子丹监制影之刃零",
@@ -257,31 +128,111 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 520305,
+      "hot_value": 695973,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B0%88%E7%94%84%E5%AD%90%E4%B8%B9%E7%9B%91%E5%88%B6%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6"
       },
       "raw_titles": [
         "UP主谈甄子丹监制影之刃零"
       ],
-      "rank": 16,
-      "movie_rank": 9
+      "rank": 8,
+      "movie_rank": 4
     },
     {
-      "title": "蒋奇明口碑",
+      "title": "百花奖票数结果争议盘点",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 694815,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%A5%A8%E6%95%B0%E7%BB%93%E6%9E%9C%E4%BA%89%E8%AE%AE%E7%9B%98%E7%82%B9"
+      },
+      "raw_titles": [
+        "百花奖票数结果争议盘点"
+      ],
+      "rank": 9,
+      "movie_rank": 5
+    },
+    {
+      "title": "狄龙获成龙电影周终身成就荣誉",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 579427,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8B%84%E9%BE%99%E8%8E%B7%E6%88%90%E9%BE%99%E7%94%B5%E5%BD%B1%E5%91%A8%E7%BB%88%E8%BA%AB%E6%88%90%E5%B0%B1%E8%8D%A3%E8%AA%89"
+      },
+      "raw_titles": [
+        "狄龙获成龙电影周终身成就荣誉"
+      ],
+      "rank": 10,
+      "movie_rank": 6
+    },
+    {
+      "title": "邹市明45岁重返拳击赛场",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 560589,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%82%B9%E5%B8%82%E6%98%8E45%E5%B2%81%E9%87%8D%E8%BF%94%E6%8B%B3%E5%87%BB%E8%B5%9B%E5%9C%BA"
+      },
+      "raw_titles": [
+        "邹市明45岁重返拳击赛场"
+      ],
+      "rank": 11,
+      "sports_rank": 5
+    },
+    {
+      "title": "EWC CS小蜜蜂横扫100T",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 549343,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=EWC%20CS%E5%B0%8F%E8%9C%9C%E8%9C%82%E6%A8%AA%E6%89%AB100T"
+      },
+      "raw_titles": [
+        "EWC CS小蜜蜂横扫100T"
+      ],
+      "rank": 12,
+      "sports_rank": 6
+    },
+    {
+      "title": "魏如萱称歌手丑八怪是节目组选的",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 506675,
+      "hot_value": 512037,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%92%8B%E5%A5%87%E6%98%8E%E5%8F%A3%E7%A2%91"
+        "微博": "https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A6%82%E8%90%B1%E7%A7%B0%E6%AD%8C%E6%89%8B%E4%B8%91%E5%85%AB%E6%80%AA%E6%98%AF%E8%8A%82%E7%9B%AE%E7%BB%84%E9%80%89%E7%9A%84"
       },
       "raw_titles": [
-        "蒋奇明口碑"
+        "魏如萱称歌手丑八怪是节目组选的"
       ],
-      "rank": 17,
-      "movie_rank": 10
+      "rank": 13,
+      "movie_rank": 7
+    },
+    {
+      "title": "凯迪拉克F1车队更换领队",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 475195,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BF1%E8%BD%A6%E9%98%9F%E6%9B%B4%E6%8D%A2%E9%A2%86%E9%98%9F"
+      },
+      "raw_titles": [
+        "凯迪拉克F1车队更换领队"
+      ],
+      "rank": 14,
+      "sports_rank": 7
     },
     {
       "title": "曼联1-1战平利兹联",
@@ -289,44 +240,92 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 375015,
+      "hot_value": 473231,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-1%E6%88%98%E5%B9%B3%E5%88%A9%E5%85%B9%E8%81%94"
       },
       "raw_titles": [
         "曼联1-1战平利兹联"
       ],
-      "rank": 18,
+      "rank": 15,
+      "sports_rank": 8
+    },
+    {
+      "title": "威少拒绝国王奇才报价仍选择退役",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 287067,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E6%8B%92%E7%BB%9D%E5%9B%BD%E7%8E%8B%E5%A5%87%E6%89%8D%E6%8A%A5%E4%BB%B7%E4%BB%8D%E9%80%89%E6%8B%A9%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "威少拒绝国王奇才报价仍选择退役"
+      ],
+      "rank": 16,
       "sports_rank": 9
     },
     {
-      "title": "湖人所有权再次易主",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 288157,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B9%96%E4%BA%BA%E6%89%80%E6%9C%89%E6%9D%83%E5%86%8D%E6%AC%A1%E6%98%93%E4%B8%BB"
-      },
-      "raw_titles": [
-        "湖人所有权再次易主"
-      ],
-      "rank": 19,
-      "sports_rank": 10
-    },
-    {
-      "title": "龙餐馆 现实比电影更残酷",
+      "title": "阚清子开机照戴了求婚钻戒",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 282368,
+      "hot_value": 234156,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A4%90%E9%A6%86%20%E7%8E%B0%E5%AE%9E%E6%AF%94%E7%94%B5%E5%BD%B1%E6%9B%B4%E6%AE%8B%E9%85%B7"
+        "微博": "https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%E5%BC%80%E6%9C%BA%E7%85%A7%E6%88%B4%E4%BA%86%E6%B1%82%E5%A9%9A%E9%92%BB%E6%88%92"
       },
       "raw_titles": [
-        "龙餐馆 现实比电影更残酷"
+        "阚清子开机照戴了求婚钻戒"
+      ],
+      "rank": 17,
+      "movie_rank": 8
+    },
+    {
+      "title": "蒋奇明口碑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 219822,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%92%8B%E5%A5%87%E6%98%8E%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "蒋奇明口碑"
+      ],
+      "rank": 18,
+      "movie_rank": 9
+    },
+    {
+      "title": "赵丽颖老剧重播收视登榜",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 219684,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%80%81%E5%89%A7%E9%87%8D%E6%92%AD%E6%94%B6%E8%A7%86%E7%99%BB%E6%A6%9C"
+      },
+      "raw_titles": [
+        "赵丽颖老剧重播收视登榜"
+      ],
+      "rank": 19,
+      "movie_rank": 10
+    },
+    {
+      "title": "三体公司原CEO毒杀董事长案细节披露",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 207000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%89%E4%BD%93%E5%85%AC%E5%8F%B8%E5%8E%9FCEO%E6%AF%92%E6%9D%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&sa=fyb_news"
+      },
+      "raw_titles": [
+        "三体公司原CEO毒杀董事长案细节披露"
       ],
       "rank": 20,
       "movie_rank": 11
@@ -337,7 +336,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 226447,
+      "hot_value": 190385,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E9%99%88%E7%9B%88%E6%B4%81%E5%8E%BB%E4%B8%96"
       },
@@ -348,20 +347,36 @@
       "movie_rank": 12
     },
     {
-      "title": "赵丽颖老剧重播收视登榜",
+      "title": "医护称易烊千玺演刘春和太逼真",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 189000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%8C%BB%E6%8A%A4%E7%A7%B0%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%88%98%E6%98%A5%E5%92%8C%E5%A4%AA%E9%80%BC%E7%9C%9F&sa=fyb_news"
+      },
+      "raw_titles": [
+        "医护称易烊千玺演刘春和太逼真"
+      ],
+      "rank": 22,
+      "movie_rank": 13
+    },
+    {
+      "title": "刘宇宁张凌赫勇敢的人先吃光道具",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 223856,
+      "hot_value": 188877,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%80%81%E5%89%A7%E9%87%8D%E6%92%AD%E6%94%B6%E8%A7%86%E7%99%BB%E6%A6%9C"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8B%87%E6%95%A2%E7%9A%84%E4%BA%BA%E5%85%88%E5%90%83%E5%85%89%E9%81%93%E5%85%B7"
       },
       "raw_titles": [
-        "赵丽颖老剧重播收视登榜"
+        "刘宇宁张凌赫勇敢的人先吃光道具"
       ],
-      "rank": 22,
-      "movie_rank": 13
+      "rank": 23,
+      "movie_rank": 14
     },
     {
       "title": "肖战收工后会给剧组朋友做饭",
@@ -369,95 +384,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 216642,
+      "hot_value": 185350,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%94%B6%E5%B7%A5%E5%90%8E%E4%BC%9A%E7%BB%99%E5%89%A7%E7%BB%84%E6%9C%8B%E5%8F%8B%E5%81%9A%E9%A5%AD"
       },
       "raw_titles": [
         "肖战收工后会给剧组朋友做饭"
       ],
-      "rank": 23,
-      "movie_rank": 14
-    },
-    {
-      "title": "周星驰罕见露面接受专访",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 210256,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%BD%95%E8%A7%81%E9%9C%B2%E9%9D%A2%E6%8E%A5%E5%8F%97%E4%B8%93%E8%AE%BF"
-      },
-      "raw_titles": [
-        "周星驰罕见露面接受专访"
-      ],
       "rank": 24,
       "movie_rank": 15
-    },
-    {
-      "title": "湖人售价120亿美元",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 208898,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83"
-      },
-      "raw_titles": [
-        "湖人售价120亿美元"
-      ],
-      "rank": 25,
-      "sports_rank": 11
-    },
-    {
-      "title": "李现晒与张婧仪合照告别雾里青",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 200565,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%99%92%E4%B8%8E%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%90%88%E7%85%A7%E5%91%8A%E5%88%AB%E9%9B%BE%E9%87%8C%E9%9D%92"
-      },
-      "raw_titles": [
-        "李现晒与张婧仪合照告别雾里青"
-      ],
-      "rank": 26,
-      "movie_rank": 16
-    },
-    {
-      "title": "三体公司原CEO毒杀董事长案细节披露",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%89%E4%BD%93%E5%85%AC%E5%8F%B8%E5%8E%9FCEO%E6%AF%92%E6%9D%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&sa=fyb_news"
-      },
-      "raw_titles": [
-        "三体公司原CEO毒杀董事长案细节披露"
-      ],
-      "rank": 27,
-      "movie_rank": 17
-    },
-    {
-      "title": "威少退役 哈登晒合照并配心碎表情",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 108000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A8%81%E5%B0%91%E9%80%80%E5%BD%B9+%E5%93%88%E7%99%BB%E6%99%92%E5%90%88%E7%85%A7%E5%B9%B6%E9%85%8D%E5%BF%83%E7%A2%8E%E8%A1%A8%E6%83%85&sa=fyb_news"
-      },
-      "raw_titles": [
-        "威少退役 哈登晒合照并配心碎表情"
-      ],
-      "rank": 28,
-      "sports_rank": 12
     },
     {
       "title": "詹姆斯回应威少退役",
@@ -465,31 +400,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 9000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%BA%94%E5%A8%81%E5%B0%91%E9%80%80%E5%BD%B9&sa=fyb_news"
       },
       "raw_titles": [
         "詹姆斯回应威少退役"
       ],
-      "rank": 29,
-      "sports_rank": 13
-    },
-    {
-      "title": "医护称易烊千玺演刘春和太逼真",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%8C%BB%E6%8A%A4%E7%A7%B0%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%88%98%E6%98%A5%E5%92%8C%E5%A4%AA%E9%80%BC%E7%9C%9F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "医护称易烊千玺演刘春和太逼真"
-      ],
-      "rank": 30,
-      "movie_rank": 18
+      "rank": 25,
+      "sports_rank": 10
     }
   ],
   "sports": [
@@ -502,7 +421,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12994591,
+      "hot_value": 12267109,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9",
         "百度": "https://m.baidu.com/s?word=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news",
@@ -516,21 +435,20 @@
       "sports_rank": 1
     },
     {
-      "title": "伦纳德百分大战定档",
-      "category": "综合",
+      "title": "欧超杯巴黎2-1维拉",
+      "category": "体育",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7742803,
+      "hot_value": 1572815,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7%E7%99%BE%E5%88%86%E5%A4%A7%E6%88%98%E5%AE%9A%E6%A1%A3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E8%B6%85%E6%9D%AF%E5%B7%B4%E9%BB%8E2-1%E7%BB%B4%E6%8B%89"
       },
       "raw_titles": [
-        "伦纳德百分大战定档"
+        "欧超杯巴黎2-1维拉"
       ],
-      "rank": 2,
-      "sports_rank": 2,
-      "movie_rank": 1
+      "rank": 4,
+      "sports_rank": 2
     },
     {
       "title": "高燃混剪威少巅峰时刻",
@@ -538,7 +456,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2429723,
+      "hot_value": 834344,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83%E6%B7%B7%E5%89%AA%E5%A8%81%E5%B0%91%E5%B7%85%E5%B3%B0%E6%97%B6%E5%88%BB"
       },
@@ -549,20 +467,36 @@
       "sports_rank": 3
     },
     {
-      "title": "欧超杯巴黎2-1维拉",
+      "title": "字母哥现身EWC",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1430633,
+      "hot_value": 768155,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E8%B6%85%E6%9D%AF%E5%B7%B4%E9%BB%8E2-1%E7%BB%B4%E6%8B%89"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AD%97%E6%AF%8D%E5%93%A5%E7%8E%B0%E8%BA%ABEWC"
       },
       "raw_titles": [
-        "欧超杯巴黎2-1维拉"
+        "字母哥现身EWC"
       ],
       "rank": 7,
       "sports_rank": 4
+    },
+    {
+      "title": "邹市明45岁重返拳击赛场",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 560589,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%82%B9%E5%B8%82%E6%98%8E45%E5%B2%81%E9%87%8D%E8%BF%94%E6%8B%B3%E5%87%BB%E8%B5%9B%E5%9C%BA"
+      },
+      "raw_titles": [
+        "邹市明45岁重返拳击赛场"
+      ],
+      "rank": 11,
+      "sports_rank": 5
     },
     {
       "title": "EWC CS小蜜蜂横扫100T",
@@ -570,63 +504,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1388960,
+      "hot_value": 549343,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=EWC%20CS%E5%B0%8F%E8%9C%9C%E8%9C%82%E6%A8%AA%E6%89%AB100T"
       },
       "raw_titles": [
         "EWC CS小蜜蜂横扫100T"
       ],
-      "rank": 8,
-      "sports_rank": 5
-    },
-    {
-      "title": "威少拒绝国王奇才报价仍选择退役",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 630051,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E6%8B%92%E7%BB%9D%E5%9B%BD%E7%8E%8B%E5%A5%87%E6%89%8D%E6%8A%A5%E4%BB%B7%E4%BB%8D%E9%80%89%E6%8B%A9%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "威少拒绝国王奇才报价仍选择退役"
-      ],
-      "rank": 10,
+      "rank": 12,
       "sports_rank": 6
     },
     {
-      "title": "字母哥现身EWC",
+      "title": "凯迪拉克F1车队更换领队",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 566009,
+      "hot_value": 475195,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AD%97%E6%AF%8D%E5%93%A5%E7%8E%B0%E8%BA%ABEWC"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BF1%E8%BD%A6%E9%98%9F%E6%9B%B4%E6%8D%A2%E9%A2%86%E9%98%9F"
       },
       "raw_titles": [
-        "字母哥现身EWC"
+        "凯迪拉克F1车队更换领队"
       ],
       "rank": 14,
       "sports_rank": 7
-    },
-    {
-      "title": "皇马1-0拉科鲁尼亚",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 521990,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC1-0%E6%8B%89%E7%A7%91%E9%B2%81%E5%B0%BC%E4%BA%9A"
-      },
-      "raw_titles": [
-        "皇马1-0拉科鲁尼亚"
-      ],
-      "rank": 15,
-      "sports_rank": 8
     },
     {
       "title": "曼联1-1战平利兹联",
@@ -634,63 +536,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 375015,
+      "hot_value": 473231,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-1%E6%88%98%E5%B9%B3%E5%88%A9%E5%85%B9%E8%81%94"
       },
       "raw_titles": [
         "曼联1-1战平利兹联"
       ],
-      "rank": 18,
-      "sports_rank": 9
+      "rank": 15,
+      "sports_rank": 8
     },
     {
-      "title": "湖人所有权再次易主",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 288157,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B9%96%E4%BA%BA%E6%89%80%E6%9C%89%E6%9D%83%E5%86%8D%E6%AC%A1%E6%98%93%E4%B8%BB"
-      },
-      "raw_titles": [
-        "湖人所有权再次易主"
-      ],
-      "rank": 19,
-      "sports_rank": 10
-    },
-    {
-      "title": "湖人售价120亿美元",
+      "title": "威少拒绝国王奇才报价仍选择退役",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 208898,
+      "hot_value": 287067,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83"
+        "微博": "https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91%E6%8B%92%E7%BB%9D%E5%9B%BD%E7%8E%8B%E5%A5%87%E6%89%8D%E6%8A%A5%E4%BB%B7%E4%BB%8D%E9%80%89%E6%8B%A9%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
-        "湖人售价120亿美元"
+        "威少拒绝国王奇才报价仍选择退役"
       ],
-      "rank": 25,
-      "sports_rank": 11
-    },
-    {
-      "title": "威少退役 哈登晒合照并配心碎表情",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 108000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A8%81%E5%B0%91%E9%80%80%E5%BD%B9+%E5%93%88%E7%99%BB%E6%99%92%E5%90%88%E7%85%A7%E5%B9%B6%E9%85%8D%E5%BF%83%E7%A2%8E%E8%A1%A8%E6%83%85&sa=fyb_news"
-      },
-      "raw_titles": [
-        "威少退役 哈登晒合照并配心碎表情"
-      ],
-      "rank": 28,
-      "sports_rank": 12
+      "rank": 16,
+      "sports_rank": 9
     },
     {
       "title": "詹姆斯回应威少退役",
@@ -698,50 +568,33 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 9000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%BA%94%E5%A8%81%E5%B0%91%E9%80%80%E5%BD%B9&sa=fyb_news"
       },
       "raw_titles": [
         "詹姆斯回应威少退役"
       ],
-      "rank": 29,
-      "sports_rank": 13
+      "rank": 25,
+      "sports_rank": 10
     }
   ],
   "movies": [
-    {
-      "title": "伦纳德百分大战定档",
-      "category": "综合",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7742803,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7%E7%99%BE%E5%88%86%E5%A4%A7%E6%88%98%E5%AE%9A%E6%A1%A3"
-      },
-      "raw_titles": [
-        "伦纳德百分大战定档"
-      ],
-      "rank": 2,
-      "sports_rank": 2,
-      "movie_rank": 1
-    },
     {
       "title": "欢迎来龙餐馆票房破三亿",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7551708,
+      "hot_value": 7613518,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%B8%89%E4%BA%BF"
       },
       "raw_titles": [
         "欢迎来龙餐馆票房破三亿"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 2,
+      "movie_rank": 1
     },
     {
       "title": "熊出没给00后粉丝的一封信",
@@ -749,47 +602,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7537406,
+      "hot_value": 7611418,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%86%8A%E5%87%BA%E6%B2%A1%E7%BB%9900%E5%90%8E%E7%B2%89%E4%B8%9D%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1"
       },
       "raw_titles": [
         "熊出没给00后粉丝的一封信"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 3,
+      "movie_rank": 2
     },
     {
-      "title": "御廷谣大结局",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7342814,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BE%A1%E5%BB%B7%E8%B0%A3%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "御廷谣大结局"
-      ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "锐评绿龙EWC首战爆冷落败",
+      "title": "百花奖看点全复盘",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 686211,
+      "hot_value": 896120,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E7%BB%BF%E9%BE%99EWC%E9%A6%96%E6%88%98%E7%88%86%E5%86%B7%E8%90%BD%E8%B4%A5"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9C%8B%E7%82%B9%E5%85%A8%E5%A4%8D%E7%9B%98"
       },
       "raw_titles": [
-        "锐评绿龙EWC首战爆冷落败"
+        "百花奖看点全复盘"
       ],
-      "rank": 9,
-      "movie_rank": 5
+      "rank": 5,
+      "movie_rank": 3
+    },
+    {
+      "title": "UP主谈甄子丹监制影之刃零",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 695973,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B0%88%E7%94%84%E5%AD%90%E4%B8%B9%E7%9B%91%E5%88%B6%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6"
+      },
+      "raw_titles": [
+        "UP主谈甄子丹监制影之刃零"
+      ],
+      "rank": 8,
+      "movie_rank": 4
     },
     {
       "title": "百花奖票数结果争议盘点",
@@ -797,14 +650,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 605390,
+      "hot_value": 694815,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%A5%A8%E6%95%B0%E7%BB%93%E6%9E%9C%E4%BA%89%E8%AE%AE%E7%9B%98%E7%82%B9"
       },
       "raw_titles": [
         "百花奖票数结果争议盘点"
       ],
-      "rank": 11,
+      "rank": 9,
+      "movie_rank": 5
+    },
+    {
+      "title": "狄龙获成龙电影周终身成就荣誉",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 579427,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8B%84%E9%BE%99%E8%8E%B7%E6%88%90%E9%BE%99%E7%94%B5%E5%BD%B1%E5%91%A8%E7%BB%88%E8%BA%AB%E6%88%90%E5%B0%B1%E8%8D%A3%E8%AA%89"
+      },
+      "raw_titles": [
+        "狄龙获成龙电影周终身成就荣誉"
+      ],
+      "rank": 10,
       "movie_rank": 6
     },
     {
@@ -813,47 +682,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 584059,
+      "hot_value": 512037,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A6%82%E8%90%B1%E7%A7%B0%E6%AD%8C%E6%89%8B%E4%B8%91%E5%85%AB%E6%80%AA%E6%98%AF%E8%8A%82%E7%9B%AE%E7%BB%84%E9%80%89%E7%9A%84"
       },
       "raw_titles": [
         "魏如萱称歌手丑八怪是节目组选的"
       ],
-      "rank": 12,
+      "rank": 13,
       "movie_rank": 7
     },
     {
-      "title": "百花奖看点全复盘",
+      "title": "阚清子开机照戴了求婚钻戒",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 580425,
+      "hot_value": 234156,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9C%8B%E7%82%B9%E5%85%A8%E5%A4%8D%E7%9B%98"
+        "微博": "https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%E5%BC%80%E6%9C%BA%E7%85%A7%E6%88%B4%E4%BA%86%E6%B1%82%E5%A9%9A%E9%92%BB%E6%88%92"
       },
       "raw_titles": [
-        "百花奖看点全复盘"
+        "阚清子开机照戴了求婚钻戒"
       ],
-      "rank": 13,
+      "rank": 17,
       "movie_rank": 8
-    },
-    {
-      "title": "UP主谈甄子丹监制影之刃零",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 520305,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B0%88%E7%94%84%E5%AD%90%E4%B8%B9%E7%9B%91%E5%88%B6%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6"
-      },
-      "raw_titles": [
-        "UP主谈甄子丹监制影之刃零"
-      ],
-      "rank": 16,
-      "movie_rank": 9
     },
     {
       "title": "蒋奇明口碑",
@@ -861,28 +714,44 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 506675,
+      "hot_value": 219822,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%92%8B%E5%A5%87%E6%98%8E%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "蒋奇明口碑"
       ],
-      "rank": 17,
+      "rank": 18,
+      "movie_rank": 9
+    },
+    {
+      "title": "赵丽颖老剧重播收视登榜",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 219684,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%80%81%E5%89%A7%E9%87%8D%E6%92%AD%E6%94%B6%E8%A7%86%E7%99%BB%E6%A6%9C"
+      },
+      "raw_titles": [
+        "赵丽颖老剧重播收视登榜"
+      ],
+      "rank": 19,
       "movie_rank": 10
     },
     {
-      "title": "龙餐馆 现实比电影更残酷",
+      "title": "三体公司原CEO毒杀董事长案细节披露",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 282368,
+      "hot_value": 207000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A4%90%E9%A6%86%20%E7%8E%B0%E5%AE%9E%E6%AF%94%E7%94%B5%E5%BD%B1%E6%9B%B4%E6%AE%8B%E9%85%B7"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%89%E4%BD%93%E5%85%AC%E5%8F%B8%E5%8E%9FCEO%E6%AF%92%E6%9D%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&sa=fyb_news"
       },
       "raw_titles": [
-        "龙餐馆 现实比电影更残酷"
+        "三体公司原CEO毒杀董事长案细节披露"
       ],
       "rank": 20,
       "movie_rank": 11
@@ -893,7 +762,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 226447,
+      "hot_value": 190385,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E9%99%88%E7%9B%88%E6%B4%81%E5%8E%BB%E4%B8%96"
       },
@@ -904,20 +773,36 @@
       "movie_rank": 12
     },
     {
-      "title": "赵丽颖老剧重播收视登榜",
+      "title": "医护称易烊千玺演刘春和太逼真",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 189000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%8C%BB%E6%8A%A4%E7%A7%B0%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%88%98%E6%98%A5%E5%92%8C%E5%A4%AA%E9%80%BC%E7%9C%9F&sa=fyb_news"
+      },
+      "raw_titles": [
+        "医护称易烊千玺演刘春和太逼真"
+      ],
+      "rank": 22,
+      "movie_rank": 13
+    },
+    {
+      "title": "刘宇宁张凌赫勇敢的人先吃光道具",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 223856,
+      "hot_value": 188877,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%80%81%E5%89%A7%E9%87%8D%E6%92%AD%E6%94%B6%E8%A7%86%E7%99%BB%E6%A6%9C"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8B%87%E6%95%A2%E7%9A%84%E4%BA%BA%E5%85%88%E5%90%83%E5%85%89%E9%81%93%E5%85%B7"
       },
       "raw_titles": [
-        "赵丽颖老剧重播收视登榜"
+        "刘宇宁张凌赫勇敢的人先吃光道具"
       ],
-      "rank": 22,
-      "movie_rank": 13
+      "rank": 23,
+      "movie_rank": 14
     },
     {
       "title": "肖战收工后会给剧组朋友做饭",
@@ -925,79 +810,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 216642,
+      "hot_value": 185350,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%94%B6%E5%B7%A5%E5%90%8E%E4%BC%9A%E7%BB%99%E5%89%A7%E7%BB%84%E6%9C%8B%E5%8F%8B%E5%81%9A%E9%A5%AD"
       },
       "raw_titles": [
         "肖战收工后会给剧组朋友做饭"
       ],
-      "rank": 23,
-      "movie_rank": 14
-    },
-    {
-      "title": "周星驰罕见露面接受专访",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 210256,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%BD%95%E8%A7%81%E9%9C%B2%E9%9D%A2%E6%8E%A5%E5%8F%97%E4%B8%93%E8%AE%BF"
-      },
-      "raw_titles": [
-        "周星驰罕见露面接受专访"
-      ],
       "rank": 24,
       "movie_rank": 15
-    },
-    {
-      "title": "李现晒与张婧仪合照告别雾里青",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 200565,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%99%92%E4%B8%8E%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%90%88%E7%85%A7%E5%91%8A%E5%88%AB%E9%9B%BE%E9%87%8C%E9%9D%92"
-      },
-      "raw_titles": [
-        "李现晒与张婧仪合照告别雾里青"
-      ],
-      "rank": 26,
-      "movie_rank": 16
-    },
-    {
-      "title": "三体公司原CEO毒杀董事长案细节披露",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%89%E4%BD%93%E5%85%AC%E5%8F%B8%E5%8E%9FCEO%E6%AF%92%E6%9D%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&sa=fyb_news"
-      },
-      "raw_titles": [
-        "三体公司原CEO毒杀董事长案细节披露"
-      ],
-      "rank": 27,
-      "movie_rank": 17
-    },
-    {
-      "title": "医护称易烊千玺演刘春和太逼真",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%8C%BB%E6%8A%A4%E7%A7%B0%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%88%98%E6%98%A5%E5%92%8C%E5%A4%AA%E9%80%BC%E7%9C%9F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "医护称易烊千玺演刘春和太逼真"
-      ],
-      "rank": 30,
-      "movie_rank": 18
     }
   ]
 }
