@@ -1,40 +1,72 @@
 {
-  "update_time": "2026-08-14 22:00:51",
-  "total": 23,
-  "sports_count": 6,
-  "movie_count": 18,
+  "update_time": "2026-08-14 23:00:49",
+  "total": 22,
+  "sports_count": 4,
+  "movie_count": 19,
   "all": [
+    {
+      "title": "欢迎来龙餐馆票房破五亿",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8654184,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%94%E4%BA%BF"
+      },
+      "raw_titles": [
+        "欢迎来龙餐馆票房破五亿"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
+    {
+      "title": "邓紫棋嘉兴演唱会暴雨中开唱",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8151080,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%98%89%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BC%80%E5%94%B1"
+      },
+      "raw_titles": [
+        "邓紫棋嘉兴演唱会暴雨中开唱"
+      ],
+      "rank": 2,
+      "movie_rank": 2
+    },
+    {
+      "title": "动画电影牛来票房7000多",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8105407,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E7%89%9B%E6%9D%A5%E7%A5%A8%E6%88%BF7000%E5%A4%9A"
+      },
+      "raw_titles": [
+        "动画电影牛来票房7000多"
+      ],
+      "rank": 3,
+      "movie_rank": 3
+    },
     {
       "title": "电影空枪8月19日全国上映",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7791149,
+      "hot_value": 7791438,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A9%BA%E6%9E%AA8%E6%9C%8819%E6%97%A5%E5%85%A8%E5%9B%BD%E4%B8%8A%E6%98%A0"
       },
       "raw_titles": [
         "电影空枪8月19日全国上映"
       ],
-      "rank": 1,
-      "movie_rank": 1
-    },
-    {
-      "title": "粉丝们给熊出没的回信",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7743243,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%B2%89%E4%B8%9D%E4%BB%AC%E7%BB%99%E7%86%8A%E5%87%BA%E6%B2%A1%E7%9A%84%E5%9B%9E%E4%BF%A1"
-      },
-      "raw_titles": [
-        "粉丝们给熊出没的回信"
-      ],
-      "rank": 2,
-      "movie_rank": 2
+      "rank": 4,
+      "movie_rank": 4
     },
     {
       "title": "沈腾回应没有最佳男主角奖",
@@ -42,15 +74,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742503,
+      "hot_value": 7757885,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E5%9B%9E%E5%BA%94%E6%B2%A1%E6%9C%89%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E5%A5%96"
       },
       "raw_titles": [
         "沈腾回应没有最佳男主角奖"
       ],
-      "rank": 3,
-      "movie_rank": 3
+      "rank": 5,
+      "movie_rank": 5
+    },
+    {
+      "title": "粉丝们给熊出没的回信",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7744919,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%B2%89%E4%B8%9D%E4%BB%AC%E7%BB%99%E7%86%8A%E5%87%BA%E6%B2%A1%E7%9A%84%E5%9B%9E%E4%BF%A1"
+      },
+      "raw_titles": [
+        "粉丝们给熊出没的回信"
+      ],
+      "rank": 6,
+      "movie_rank": 6
     },
     {
       "title": "电影牛来建模粗糙被网友吐槽",
@@ -58,31 +106,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742318,
+      "hot_value": 7737176,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%89%9B%E6%9D%A5%E5%BB%BA%E6%A8%A1%E7%B2%97%E7%B3%99%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD"
       },
       "raw_titles": [
         "电影牛来建模粗糙被网友吐槽"
       ],
-      "rank": 4,
-      "movie_rank": 4
-    },
-    {
-      "title": "欢迎来龙餐馆票房破五亿",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7709925,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%94%E4%BA%BF"
-      },
-      "raw_titles": [
-        "欢迎来龙餐馆票房破五亿"
-      ],
-      "rank": 5,
-      "movie_rank": 5
+      "rank": 7,
+      "movie_rank": 7
     },
     {
       "title": "雪王来了动画定档",
@@ -90,47 +122,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7665435,
+      "hot_value": 7672585,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%9B%AA%E7%8E%8B%E6%9D%A5%E4%BA%86%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "雪王来了动画定档"
       ],
-      "rank": 6,
-      "movie_rank": 6
-    },
-    {
-      "title": "Wings TI6夺冠十周年",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1401002,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Wings%20TI6%E5%A4%BA%E5%86%A0%E5%8D%81%E5%91%A8%E5%B9%B4"
-      },
-      "raw_titles": [
-        "Wings TI6夺冠十周年"
-      ],
-      "rank": 7,
-      "sports_rank": 1
-    },
-    {
-      "title": "UP动画我在现代当幽差",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1360682,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E5%8A%A8%E7%94%BB%E6%88%91%E5%9C%A8%E7%8E%B0%E4%BB%A3%E5%BD%93%E5%B9%BD%E5%B7%AE"
-      },
-      "raw_titles": [
-        "UP动画我在现代当幽差"
-      ],
       "rank": 8,
-      "movie_rank": 7
+      "movie_rank": 8
     },
     {
       "title": "中国足球小将战平巴萨",
@@ -138,7 +138,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1164135,
+      "hot_value": 1706993,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%88%98%E5%B9%B3%E5%B7%B4%E8%90%A8"
       },
@@ -146,7 +146,39 @@
         "中国足球小将战平巴萨"
       ],
       "rank": 9,
+      "sports_rank": 1
+    },
+    {
+      "title": "Wings TI6夺冠十周年",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1706950,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Wings%20TI6%E5%A4%BA%E5%86%A0%E5%8D%81%E5%91%A8%E5%B9%B4"
+      },
+      "raw_titles": [
+        "Wings TI6夺冠十周年"
+      ],
+      "rank": 10,
       "sports_rank": 2
+    },
+    {
+      "title": "UP动画我在现代当幽差",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1692420,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E5%8A%A8%E7%94%BB%E6%88%91%E5%9C%A8%E7%8E%B0%E4%BB%A3%E5%BD%93%E5%B9%BD%E5%B7%AE"
+      },
+      "raw_titles": [
+        "UP动画我在现代当幽差"
+      ],
+      "rank": 11,
+      "movie_rank": 9
     },
     {
       "title": "百花奖最佳导演的来时路",
@@ -154,15 +186,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1116534,
+      "hot_value": 1310747,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%E7%9A%84%E6%9D%A5%E6%97%B6%E8%B7%AF"
       },
       "raw_titles": [
         "百花奖最佳导演的来时路"
       ],
-      "rank": 10,
-      "movie_rank": 8
+      "rank": 12,
+      "movie_rank": 10
     },
     {
       "title": "曝曼城将签下恩佐",
@@ -170,47 +202,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1079630,
+      "hot_value": 1000183,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E6%9B%BC%E5%9F%8E%E5%B0%86%E7%AD%BE%E4%B8%8B%E6%81%A9%E4%BD%90"
       },
       "raw_titles": [
         "曝曼城将签下恩佐"
       ],
-      "rank": 11,
+      "rank": 13,
       "sports_rank": 3
     },
     {
-      "title": "威少当年是怎么被雷霆选中的",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1050284,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%B0%91%E5%BD%93%E5%B9%B4%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E9%9B%B7%E9%9C%86%E9%80%89%E4%B8%AD%E7%9A%84"
-      },
-      "raw_titles": [
-        "威少当年是怎么被雷霆选中的"
-      ],
-      "rank": 12,
-      "sports_rank": 4
-    },
-    {
-      "title": "披哥选手体脂率",
+      "title": "皇阿玛披哥送考五阿哥",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 840981,
+      "hot_value": 576415,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E9%80%89%E6%89%8B%E4%BD%93%E8%84%82%E7%8E%87"
+        "微博": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%98%BF%E7%8E%9B%E6%8A%AB%E5%93%A5%E9%80%81%E8%80%83%E4%BA%94%E9%98%BF%E5%93%A5"
       },
       "raw_titles": [
-        "披哥选手体脂率"
+        "皇阿玛披哥送考五阿哥"
       ],
-      "rank": 13,
-      "movie_rank": 9
+      "rank": 14,
+      "movie_rank": 11
     },
     {
       "title": "迪丽热巴又心软撤诉了",
@@ -218,31 +234,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 522240,
+      "hot_value": 444197,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%88%E5%BF%83%E8%BD%AF%E6%92%A4%E8%AF%89%E4%BA%86"
       },
       "raw_titles": [
         "迪丽热巴又心软撤诉了"
       ],
-      "rank": 14,
-      "movie_rank": 10
-    },
-    {
-      "title": "世界杯决赛西班牙犯规",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 354597,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8A%AF%E8%A7%84"
-      },
-      "raw_titles": [
-        "世界杯决赛西班牙犯规"
-      ],
       "rank": 15,
-      "sports_rank": 5
+      "movie_rank": 12
     },
     {
       "title": "披哥直播 观众瞌睡",
@@ -250,7 +250,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 324000,
+      "hot_value": 423000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%8A%AB%E5%93%A5%E7%9B%B4%E6%92%AD+%E8%A7%82%E4%BC%97%E7%9E%8C%E7%9D%A1&sa=fyb_news"
       },
@@ -258,7 +258,7 @@
         "披哥直播 观众瞌睡"
       ],
       "rank": 16,
-      "movie_rank": 11
+      "movie_rank": 13
     },
     {
       "title": "415亿换不来一座“影帝”奖杯吗",
@@ -266,7 +266,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 315000,
+      "hot_value": 405000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=415%E4%BA%BF%E6%8D%A2%E4%B8%8D%E6%9D%A5%E4%B8%80%E5%BA%A7%E2%80%9C%E5%BD%B1%E5%B8%9D%E2%80%9D%E5%A5%96%E6%9D%AF%E5%90%97&sa=fyb_news"
       },
@@ -274,39 +274,23 @@
         "415亿换不来一座“影帝”奖杯吗"
       ],
       "rank": 17,
-      "movie_rank": 12
+      "movie_rank": 14
     },
     {
-      "title": "偶遇章子怡素颜健身",
+      "title": "披哥选手体脂率",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 283899,
+      "hot_value": 294243,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%81%B6%E9%81%87%E7%AB%A0%E5%AD%90%E6%80%A1%E7%B4%A0%E9%A2%9C%E5%81%A5%E8%BA%AB"
+        "微博": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E9%80%89%E6%89%8B%E4%BD%93%E8%84%82%E7%8E%87"
       },
       "raw_titles": [
-        "偶遇章子怡素颜健身"
+        "披哥选手体脂率"
       ],
       "rank": 18,
-      "movie_rank": 13
-    },
-    {
-      "title": "王者联动电影八仙",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 248716,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%81%94%E5%8A%A8%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99"
-      },
-      "raw_titles": [
-        "王者联动电影八仙"
-      ],
-      "rank": 19,
-      "movie_rank": 14
+      "movie_rank": 15
     },
     {
       "title": "博主被某香港影帝骂穷土包子",
@@ -314,15 +298,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 288000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%8D%9A%E4%B8%BB%E8%A2%AB%E6%9F%90%E9%A6%99%E6%B8%AF%E5%BD%B1%E5%B8%9D%E9%AA%82%E7%A9%B7%E5%9C%9F%E5%8C%85%E5%AD%90&sa=fyb_news"
       },
       "raw_titles": [
         "博主被某香港影帝骂穷土包子"
       ],
-      "rank": 20,
-      "movie_rank": 15
+      "rank": 19,
+      "movie_rank": 16
     },
     {
       "title": "王传君19年前就参加过选秀",
@@ -330,16 +314,16 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 252000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B19%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%8F%82%E5%8A%A0%E8%BF%87%E9%80%89%E7%A7%80&sa=fyb_news"
       },
       "raw_titles": [
         "王传君19年前就参加过选秀"
       ],
-      "rank": 21,
-      "sports_rank": 6,
-      "movie_rank": 16
+      "rank": 20,
+      "sports_rank": 4,
+      "movie_rank": 17
     },
     {
       "title": "刘昊然：2年之后未必不会唱跳",
@@ -347,57 +331,41 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 198000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%88%98%E6%98%8A%E7%84%B6%EF%BC%9A2%E5%B9%B4%E4%B9%8B%E5%90%8E%E6%9C%AA%E5%BF%85%E4%B8%8D%E4%BC%9A%E5%94%B1%E8%B7%B3&sa=fyb_news"
       },
       "raw_titles": [
         "刘昊然：2年之后未必不会唱跳"
       ],
-      "rank": 22,
-      "movie_rank": 17
+      "rank": 21,
+      "movie_rank": 18
     },
     {
-      "title": "朱一龙电影《空枪》定档",
+      "title": "披哥最累的是沈梦辰",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 126000,
+      "hot_value": 207881,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%94%B5%E5%BD%B1%E3%80%8A%E7%A9%BA%E6%9E%AA%E3%80%8B%E5%AE%9A%E6%A1%A3&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E6%9C%80%E7%B4%AF%E7%9A%84%E6%98%AF%E6%B2%88%E6%A2%A6%E8%BE%B0"
       },
       "raw_titles": [
-        "朱一龙电影《空枪》定档"
+        "披哥最累的是沈梦辰"
       ],
-      "rank": 23,
-      "movie_rank": 18
+      "rank": 22,
+      "movie_rank": 19
     }
   ],
   "sports": [
     {
-      "title": "Wings TI6夺冠十周年",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1401002,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Wings%20TI6%E5%A4%BA%E5%86%A0%E5%8D%81%E5%91%A8%E5%B9%B4"
-      },
-      "raw_titles": [
-        "Wings TI6夺冠十周年"
-      ],
-      "rank": 7,
-      "sports_rank": 1
-    },
-    {
       "title": "中国足球小将战平巴萨",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1164135,
+      "hot_value": 1706993,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%88%98%E5%B9%B3%E5%B7%B4%E8%90%A8"
       },
@@ -405,6 +373,22 @@
         "中国足球小将战平巴萨"
       ],
       "rank": 9,
+      "sports_rank": 1
+    },
+    {
+      "title": "Wings TI6夺冠十周年",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1706950,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Wings%20TI6%E5%A4%BA%E5%86%A0%E5%8D%81%E5%91%A8%E5%B9%B4"
+      },
+      "raw_titles": [
+        "Wings TI6夺冠十周年"
+      ],
+      "rank": 10,
       "sports_rank": 2
     },
     {
@@ -413,47 +397,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1079630,
+      "hot_value": 1000183,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E6%9B%BC%E5%9F%8E%E5%B0%86%E7%AD%BE%E4%B8%8B%E6%81%A9%E4%BD%90"
       },
       "raw_titles": [
         "曝曼城将签下恩佐"
       ],
-      "rank": 11,
+      "rank": 13,
       "sports_rank": 3
-    },
-    {
-      "title": "威少当年是怎么被雷霆选中的",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1050284,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%B0%91%E5%BD%93%E5%B9%B4%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E9%9B%B7%E9%9C%86%E9%80%89%E4%B8%AD%E7%9A%84"
-      },
-      "raw_titles": [
-        "威少当年是怎么被雷霆选中的"
-      ],
-      "rank": 12,
-      "sports_rank": 4
-    },
-    {
-      "title": "世界杯决赛西班牙犯规",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 354597,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8A%AF%E8%A7%84"
-      },
-      "raw_titles": [
-        "世界杯决赛西班牙犯规"
-      ],
-      "rank": 15,
-      "sports_rank": 5
     },
     {
       "title": "王传君19年前就参加过选秀",
@@ -461,50 +413,82 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 252000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B19%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%8F%82%E5%8A%A0%E8%BF%87%E9%80%89%E7%A7%80&sa=fyb_news"
       },
       "raw_titles": [
         "王传君19年前就参加过选秀"
       ],
-      "rank": 21,
-      "sports_rank": 6,
-      "movie_rank": 16
+      "rank": 20,
+      "sports_rank": 4,
+      "movie_rank": 17
     }
   ],
   "movies": [
+    {
+      "title": "欢迎来龙餐馆票房破五亿",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8654184,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%94%E4%BA%BF"
+      },
+      "raw_titles": [
+        "欢迎来龙餐馆票房破五亿"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
+    {
+      "title": "邓紫棋嘉兴演唱会暴雨中开唱",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8151080,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%98%89%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BC%80%E5%94%B1"
+      },
+      "raw_titles": [
+        "邓紫棋嘉兴演唱会暴雨中开唱"
+      ],
+      "rank": 2,
+      "movie_rank": 2
+    },
+    {
+      "title": "动画电影牛来票房7000多",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8105407,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E7%89%9B%E6%9D%A5%E7%A5%A8%E6%88%BF7000%E5%A4%9A"
+      },
+      "raw_titles": [
+        "动画电影牛来票房7000多"
+      ],
+      "rank": 3,
+      "movie_rank": 3
+    },
     {
       "title": "电影空枪8月19日全国上映",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7791149,
+      "hot_value": 7791438,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A9%BA%E6%9E%AA8%E6%9C%8819%E6%97%A5%E5%85%A8%E5%9B%BD%E4%B8%8A%E6%98%A0"
       },
       "raw_titles": [
         "电影空枪8月19日全国上映"
       ],
-      "rank": 1,
-      "movie_rank": 1
-    },
-    {
-      "title": "粉丝们给熊出没的回信",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7743243,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%B2%89%E4%B8%9D%E4%BB%AC%E7%BB%99%E7%86%8A%E5%87%BA%E6%B2%A1%E7%9A%84%E5%9B%9E%E4%BF%A1"
-      },
-      "raw_titles": [
-        "粉丝们给熊出没的回信"
-      ],
-      "rank": 2,
-      "movie_rank": 2
+      "rank": 4,
+      "movie_rank": 4
     },
     {
       "title": "沈腾回应没有最佳男主角奖",
@@ -512,15 +496,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742503,
+      "hot_value": 7757885,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E5%9B%9E%E5%BA%94%E6%B2%A1%E6%9C%89%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E5%A5%96"
       },
       "raw_titles": [
         "沈腾回应没有最佳男主角奖"
       ],
-      "rank": 3,
-      "movie_rank": 3
+      "rank": 5,
+      "movie_rank": 5
+    },
+    {
+      "title": "粉丝们给熊出没的回信",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7744919,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%B2%89%E4%B8%9D%E4%BB%AC%E7%BB%99%E7%86%8A%E5%87%BA%E6%B2%A1%E7%9A%84%E5%9B%9E%E4%BF%A1"
+      },
+      "raw_titles": [
+        "粉丝们给熊出没的回信"
+      ],
+      "rank": 6,
+      "movie_rank": 6
     },
     {
       "title": "电影牛来建模粗糙被网友吐槽",
@@ -528,31 +528,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742318,
+      "hot_value": 7737176,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%89%9B%E6%9D%A5%E5%BB%BA%E6%A8%A1%E7%B2%97%E7%B3%99%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD"
       },
       "raw_titles": [
         "电影牛来建模粗糙被网友吐槽"
       ],
-      "rank": 4,
-      "movie_rank": 4
-    },
-    {
-      "title": "欢迎来龙餐馆票房破五亿",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7709925,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%94%E4%BA%BF"
-      },
-      "raw_titles": [
-        "欢迎来龙餐馆票房破五亿"
-      ],
-      "rank": 5,
-      "movie_rank": 5
+      "rank": 7,
+      "movie_rank": 7
     },
     {
       "title": "雪王来了动画定档",
@@ -560,15 +544,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7665435,
+      "hot_value": 7672585,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%9B%AA%E7%8E%8B%E6%9D%A5%E4%BA%86%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "雪王来了动画定档"
       ],
-      "rank": 6,
-      "movie_rank": 6
+      "rank": 8,
+      "movie_rank": 8
     },
     {
       "title": "UP动画我在现代当幽差",
@@ -576,15 +560,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1360682,
+      "hot_value": 1692420,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E5%8A%A8%E7%94%BB%E6%88%91%E5%9C%A8%E7%8E%B0%E4%BB%A3%E5%BD%93%E5%B9%BD%E5%B7%AE"
       },
       "raw_titles": [
         "UP动画我在现代当幽差"
       ],
-      "rank": 8,
-      "movie_rank": 7
+      "rank": 11,
+      "movie_rank": 9
     },
     {
       "title": "百花奖最佳导演的来时路",
@@ -592,31 +576,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1116534,
+      "hot_value": 1310747,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%E7%9A%84%E6%9D%A5%E6%97%B6%E8%B7%AF"
       },
       "raw_titles": [
         "百花奖最佳导演的来时路"
       ],
-      "rank": 10,
-      "movie_rank": 8
+      "rank": 12,
+      "movie_rank": 10
     },
     {
-      "title": "披哥选手体脂率",
+      "title": "皇阿玛披哥送考五阿哥",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 840981,
+      "hot_value": 576415,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E9%80%89%E6%89%8B%E4%BD%93%E8%84%82%E7%8E%87"
+        "微博": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%98%BF%E7%8E%9B%E6%8A%AB%E5%93%A5%E9%80%81%E8%80%83%E4%BA%94%E9%98%BF%E5%93%A5"
       },
       "raw_titles": [
-        "披哥选手体脂率"
+        "皇阿玛披哥送考五阿哥"
       ],
-      "rank": 13,
-      "movie_rank": 9
+      "rank": 14,
+      "movie_rank": 11
     },
     {
       "title": "迪丽热巴又心软撤诉了",
@@ -624,15 +608,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 522240,
+      "hot_value": 444197,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%88%E5%BF%83%E8%BD%AF%E6%92%A4%E8%AF%89%E4%BA%86"
       },
       "raw_titles": [
         "迪丽热巴又心软撤诉了"
       ],
-      "rank": 14,
-      "movie_rank": 10
+      "rank": 15,
+      "movie_rank": 12
     },
     {
       "title": "披哥直播 观众瞌睡",
@@ -640,7 +624,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 324000,
+      "hot_value": 423000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%8A%AB%E5%93%A5%E7%9B%B4%E6%92%AD+%E8%A7%82%E4%BC%97%E7%9E%8C%E7%9D%A1&sa=fyb_news"
       },
@@ -648,7 +632,7 @@
         "披哥直播 观众瞌睡"
       ],
       "rank": 16,
-      "movie_rank": 11
+      "movie_rank": 13
     },
     {
       "title": "415亿换不来一座“影帝”奖杯吗",
@@ -656,7 +640,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 315000,
+      "hot_value": 405000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=415%E4%BA%BF%E6%8D%A2%E4%B8%8D%E6%9D%A5%E4%B8%80%E5%BA%A7%E2%80%9C%E5%BD%B1%E5%B8%9D%E2%80%9D%E5%A5%96%E6%9D%AF%E5%90%97&sa=fyb_news"
       },
@@ -664,39 +648,23 @@
         "415亿换不来一座“影帝”奖杯吗"
       ],
       "rank": 17,
-      "movie_rank": 12
+      "movie_rank": 14
     },
     {
-      "title": "偶遇章子怡素颜健身",
+      "title": "披哥选手体脂率",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 283899,
+      "hot_value": 294243,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%81%B6%E9%81%87%E7%AB%A0%E5%AD%90%E6%80%A1%E7%B4%A0%E9%A2%9C%E5%81%A5%E8%BA%AB"
+        "微博": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E9%80%89%E6%89%8B%E4%BD%93%E8%84%82%E7%8E%87"
       },
       "raw_titles": [
-        "偶遇章子怡素颜健身"
+        "披哥选手体脂率"
       ],
       "rank": 18,
-      "movie_rank": 13
-    },
-    {
-      "title": "王者联动电影八仙",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 248716,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%81%94%E5%8A%A8%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99"
-      },
-      "raw_titles": [
-        "王者联动电影八仙"
-      ],
-      "rank": 19,
-      "movie_rank": 14
+      "movie_rank": 15
     },
     {
       "title": "博主被某香港影帝骂穷土包子",
@@ -704,15 +672,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 288000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%8D%9A%E4%B8%BB%E8%A2%AB%E6%9F%90%E9%A6%99%E6%B8%AF%E5%BD%B1%E5%B8%9D%E9%AA%82%E7%A9%B7%E5%9C%9F%E5%8C%85%E5%AD%90&sa=fyb_news"
       },
       "raw_titles": [
         "博主被某香港影帝骂穷土包子"
       ],
-      "rank": 20,
-      "movie_rank": 15
+      "rank": 19,
+      "movie_rank": 16
     },
     {
       "title": "王传君19年前就参加过选秀",
@@ -720,16 +688,16 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 252000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B19%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%8F%82%E5%8A%A0%E8%BF%87%E9%80%89%E7%A7%80&sa=fyb_news"
       },
       "raw_titles": [
         "王传君19年前就参加过选秀"
       ],
-      "rank": 21,
-      "sports_rank": 6,
-      "movie_rank": 16
+      "rank": 20,
+      "sports_rank": 4,
+      "movie_rank": 17
     },
     {
       "title": "刘昊然：2年之后未必不会唱跳",
@@ -737,31 +705,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 198000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%88%98%E6%98%8A%E7%84%B6%EF%BC%9A2%E5%B9%B4%E4%B9%8B%E5%90%8E%E6%9C%AA%E5%BF%85%E4%B8%8D%E4%BC%9A%E5%94%B1%E8%B7%B3&sa=fyb_news"
       },
       "raw_titles": [
         "刘昊然：2年之后未必不会唱跳"
       ],
-      "rank": 22,
-      "movie_rank": 17
+      "rank": 21,
+      "movie_rank": 18
     },
     {
-      "title": "朱一龙电影《空枪》定档",
+      "title": "披哥最累的是沈梦辰",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 126000,
+      "hot_value": 207881,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%94%B5%E5%BD%B1%E3%80%8A%E7%A9%BA%E6%9E%AA%E3%80%8B%E5%AE%9A%E6%A1%A3&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E6%9C%80%E7%B4%AF%E7%9A%84%E6%98%AF%E6%B2%88%E6%A2%A6%E8%BE%B0"
       },
       "raw_titles": [
-        "朱一龙电影《空枪》定档"
+        "披哥最累的是沈梦辰"
       ],
-      "rank": 23,
-      "movie_rank": 18
+      "rank": 22,
+      "movie_rank": 19
     }
   ]
 }
