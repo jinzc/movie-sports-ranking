@@ -1,24 +1,44 @@
 {
-  "update_time": "2026-08-19 08:00:48",
-  "total": 29,
+  "update_time": "2026-08-19 09:00:50",
+  "total": 33,
   "sports_count": 11,
-  "movie_count": 18,
+  "movie_count": 22,
   "all": [
+    {
+      "title": "重大突破！中国首次实现火箭陆地回收",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 20272970,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6"
+      },
+      "raw_titles": [
+        "重大突破！中国首次实现火箭陆地回收"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "中超上海申花0:3北京国安",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8972729,
+      "hot_value": 8465942,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B10%3A3%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89"
       },
       "raw_titles": [
         "中超上海申花0:3北京国安"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "章子怡230万投资卖出3.05亿",
@@ -26,15 +46,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7841520,
+      "hot_value": 7696494,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AB%A0%E5%AD%90%E6%80%A1230%E4%B8%87%E6%8A%95%E8%B5%84%E5%8D%96%E5%87%BA3.05%E4%BA%BF"
       },
       "raw_titles": [
         "章子怡230万投资卖出3.05亿"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
+    },
+    {
+      "title": "包上恩翻拍蜘蛛侠名场面",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7692641,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8C%85%E4%B8%8A%E6%81%A9%E7%BF%BB%E6%8B%8D%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%90%8D%E5%9C%BA%E9%9D%A2"
+      },
+      "raw_titles": [
+        "包上恩翻拍蜘蛛侠名场面"
+      ],
+      "rank": 4,
+      "movie_rank": 2
     },
     {
       "title": "卢昱晓也参加模仿蜘蛛侠挑战了",
@@ -42,15 +78,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7712057,
+      "hot_value": 7678960,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8D%A2%E6%98%B1%E6%99%93%E4%B9%9F%E5%8F%82%E5%8A%A0%E6%A8%A1%E4%BB%BF%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%8C%91%E6%88%98%E4%BA%86"
       },
       "raw_titles": [
         "卢昱晓也参加模仿蜘蛛侠挑战了"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 5,
+      "movie_rank": 3
     },
     {
       "title": "沈腾说演龙餐馆一辈子眼泪流完了",
@@ -58,15 +94,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7663294,
+      "hot_value": 7637634,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E8%AF%B4%E6%BC%94%E9%BE%99%E9%A4%90%E9%A6%86%E4%B8%80%E8%BE%88%E5%AD%90%E7%9C%BC%E6%B3%AA%E6%B5%81%E5%AE%8C%E4%BA%86"
       },
       "raw_titles": [
         "沈腾说演龙餐馆一辈子眼泪流完了"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 6,
+      "movie_rank": 4
     },
     {
       "title": "万万没想到弹指就能摧毁太阳系",
@@ -74,15 +110,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7638884,
+      "hot_value": 7567528,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%87%E4%B8%87%E6%B2%A1%E6%83%B3%E5%88%B0%E5%BC%B9%E6%8C%87%E5%B0%B1%E8%83%BD%E6%91%A7%E6%AF%81%E5%A4%AA%E9%98%B3%E7%B3%BB"
       },
       "raw_titles": [
         "万万没想到弹指就能摧毁太阳系"
       ],
-      "rank": 5,
-      "sports_rank": 2
+      "rank": 7,
+      "sports_rank": 3
     },
     {
       "title": "火影AI二创居然这么会拍",
@@ -90,47 +126,98 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7637280,
+      "hot_value": 7517870,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1AI%E4%BA%8C%E5%88%9B%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E4%BC%9A%E6%8B%8D"
       },
       "raw_titles": [
         "火影AI二创居然这么会拍"
       ],
-      "rank": 6,
-      "movie_rank": 4
+      "rank": 8,
+      "movie_rank": 5
     },
     {
-      "title": "亚运礼服同源九牧王星耀系列",
+      "title": "为何需要另一种火箭回收路径",
       "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1822043,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E9%9C%80%E8%A6%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E8%B7%AF%E5%BE%84"
+      },
+      "raw_titles": [
+        "为何需要另一种火箭回收路径"
+      ],
+      "rank": 9,
+      "sports_rank": 4
+    },
+    {
+      "title": "中国重复使用火箭陆地回收成功",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 1235979,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6"
+      },
+      "raw_titles": [
+        "中国重复使用火箭陆地回收成功"
+      ],
+      "rank": 10,
+      "sports_rank": 5
+    },
+    {
+      "title": "巴萨正式官宣罗德里加盟",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 572935,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E8%90%A8%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%E7%BD%97%E5%BE%B7%E9%87%8C%E5%8A%A0%E7%9B%9F&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%90%A8%E5%AE%98%E5%AE%A3%E7%BD%97%E5%BE%B7%E9%87%8C%E5%8A%A0%E7%9B%9F"
+      },
+      "raw_titles": [
+        "巴萨正式官宣罗德里加盟"
+      ],
+      "rank": 11,
+      "sports_rank": 6
+    },
+    {
+      "title": "歌剧老师锐评披哥第一期",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 518465,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E7%AC%AC%E4%B8%80%E6%9C%9F"
+      },
+      "raw_titles": [
+        "歌剧老师锐评披哥第一期"
+      ],
+      "rank": 12,
+      "movie_rank": 6
+    },
+    {
+      "title": "章子怡套现3亿",
+      "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 544195,
+      "hot_value": 500304,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E7%A4%BC%E6%9C%8D%E5%90%8C%E6%BA%90%E4%B9%9D%E7%89%A7%E7%8E%8B%E6%98%9F%E8%80%80%E7%B3%BB%E5%88%97"
+        "微博": "https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%A5%97%E7%8E%B03%E4%BA%BF"
       },
       "raw_titles": [
-        "亚运礼服同源九牧王星耀系列"
+        "章子怡套现3亿"
       ],
-      "rank": 7,
-      "sports_rank": 3
-    },
-    {
-      "title": "重大突破！中国首次实现火箭陆地回收",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 450000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6&sa=fyb_news"
-      },
-      "raw_titles": [
-        "重大突破！中国首次实现火箭陆地回收"
-      ],
-      "rank": 8,
-      "sports_rank": 4
+      "rank": 13,
+      "movie_rank": 7
     },
     {
       "title": "NiKo被截胡的EWC巴黎Vlog",
@@ -138,15 +225,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 356895,
+      "hot_value": 490495,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=NiKo%E8%A2%AB%E6%88%AA%E8%83%A1%E7%9A%84EWC%E5%B7%B4%E9%BB%8EVlog"
       },
       "raw_titles": [
         "NiKo被截胡的EWC巴黎Vlog"
       ],
-      "rank": 9,
-      "sports_rank": 5
+      "rank": 14,
+      "sports_rank": 7
+    },
+    {
+      "title": "李现回沙溪古镇了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 476810,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E6%B2%99%E6%BA%AA%E5%8F%A4%E9%95%87%E4%BA%86"
+      },
+      "raw_titles": [
+        "李现回沙溪古镇了"
+      ],
+      "rank": 15,
+      "movie_rank": 8
+    },
+    {
+      "title": "迪丽热巴克拉恋人剧本照进现实",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 476667,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%8B%E6%8B%89%E6%81%8B%E4%BA%BA%E5%89%A7%E6%9C%AC%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E"
+      },
+      "raw_titles": [
+        "迪丽热巴克拉恋人剧本照进现实"
+      ],
+      "rank": 16,
+      "movie_rank": 9
+    },
+    {
+      "title": "蓝盈莹上浪姐确实赢麻了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 466980,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%E4%B8%8A%E6%B5%AA%E5%A7%90%E7%A1%AE%E5%AE%9E%E8%B5%A2%E9%BA%BB%E4%BA%86"
+      },
+      "raw_titles": [
+        "蓝盈莹上浪姐确实赢麻了"
+      ],
+      "rank": 17,
+      "movie_rank": 10
+    },
+    {
+      "title": "UP主自制成龙所有角色大合影",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 458377,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E6%88%90%E9%BE%99%E6%89%80%E6%9C%89%E8%A7%92%E8%89%B2%E5%A4%A7%E5%90%88%E5%BD%B1"
+      },
+      "raw_titles": [
+        "UP主自制成龙所有角色大合影"
+      ],
+      "rank": 18,
+      "movie_rank": 11
     },
     {
       "title": "宇树发布超人机器人",
@@ -154,15 +305,111 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 356861,
+      "hot_value": 452551,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA"
       },
       "raw_titles": [
         "宇树发布超人机器人"
       ],
-      "rank": 10,
-      "movie_rank": 5
+      "rank": 19,
+      "movie_rank": 12
+    },
+    {
+      "title": "女子在洗澡间装了张凌赫窗帘",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 446820,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B4%97%E6%BE%A1%E9%97%B4%E8%A3%85%E4%BA%86%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%AA%97%E5%B8%98"
+      },
+      "raw_titles": [
+        "女子在洗澡间装了张凌赫窗帘"
+      ],
+      "rank": 20,
+      "movie_rank": 13
+    },
+    {
+      "title": "火箭 重复使用",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 435114,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%81%AB%E7%AE%AD%20%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8"
+      },
+      "raw_titles": [
+        "火箭 重复使用"
+      ],
+      "rank": 21,
+      "sports_rank": 8
+    },
+    {
+      "title": "詹姆斯的实力到底有多强",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 418625,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%9A%84%E5%AE%9E%E5%8A%9B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%BC%BA"
+      },
+      "raw_titles": [
+        "詹姆斯的实力到底有多强"
+      ],
+      "rank": 22,
+      "sports_rank": 9
+    },
+    {
+      "title": "柯洁装弱智赢AI围棋",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 415538,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E8%A3%85%E5%BC%B1%E6%99%BA%E8%B5%A2AI%E5%9B%B4%E6%A3%8B"
+      },
+      "raw_titles": [
+        "柯洁装弱智赢AI围棋"
+      ],
+      "rank": 23,
+      "sports_rank": 10
+    },
+    {
+      "title": "刘亦菲携爱宠登芭莎九月封面",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 410328,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%90%BA%E7%88%B1%E5%AE%A0%E7%99%BB%E8%8A%AD%E8%8E%8E%E4%B9%9D%E6%9C%88%E5%B0%81%E9%9D%A2"
+      },
+      "raw_titles": [
+        "刘亦菲携爱宠登芭莎九月封面"
+      ],
+      "rank": 24,
+      "movie_rank": 14
+    },
+    {
+      "title": "自制AI电影出马仙镇东北",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 382342,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97"
+      },
+      "raw_titles": [
+        "自制AI电影出马仙镇东北"
+      ],
+      "rank": 25,
+      "movie_rank": 15
     },
     {
       "title": "章子怡到手3个亿 不是通过演戏",
@@ -177,232 +424,8 @@
       "raw_titles": [
         "章子怡到手3个亿 不是通过演戏"
       ],
-      "rank": 11,
-      "movie_rank": 6
-    },
-    {
-      "title": "UP主自制成龙所有角色大合影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 328277,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E6%88%90%E9%BE%99%E6%89%80%E6%9C%89%E8%A7%92%E8%89%B2%E5%A4%A7%E5%90%88%E5%BD%B1"
-      },
-      "raw_titles": [
-        "UP主自制成龙所有角色大合影"
-      ],
-      "rank": 12,
-      "movie_rank": 7
-    },
-    {
-      "title": "詹姆斯的实力到底有多强",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 309721,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%9A%84%E5%AE%9E%E5%8A%9B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%BC%BA"
-      },
-      "raw_titles": [
-        "詹姆斯的实力到底有多强"
-      ],
-      "rank": 13,
-      "sports_rank": 6
-    },
-    {
-      "title": "歌剧老师锐评披哥第一期",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 305746,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E7%AC%AC%E4%B8%80%E6%9C%9F"
-      },
-      "raw_titles": [
-        "歌剧老师锐评披哥第一期"
-      ],
-      "rank": 14,
-      "movie_rank": 8
-    },
-    {
-      "title": "李现回沙溪古镇了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 298931,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E6%B2%99%E6%BA%AA%E5%8F%A4%E9%95%87%E4%BA%86"
-      },
-      "raw_titles": [
-        "李现回沙溪古镇了"
-      ],
-      "rank": 15,
-      "movie_rank": 9
-    },
-    {
-      "title": "自制AI电影出马仙镇东北",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 294266,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97"
-      },
-      "raw_titles": [
-        "自制AI电影出马仙镇东北"
-      ],
-      "rank": 16,
-      "movie_rank": 10
-    },
-    {
-      "title": "解读周星驰与香港影人往事",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 259965,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%8E%E9%A6%99%E6%B8%AF%E5%BD%B1%E4%BA%BA%E5%BE%80%E4%BA%8B"
-      },
-      "raw_titles": [
-        "解读周星驰与香港影人往事"
-      ],
-      "rank": 17,
-      "movie_rank": 11
-    },
-    {
-      "title": "游泳警惕腺病毒 暂无特效药",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 243000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B8%B8%E6%B3%B3%E8%AD%A6%E6%83%95%E8%85%BA%E7%97%85%E6%AF%92+%E6%9A%82%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "游泳警惕腺病毒 暂无特效药"
-      ],
-      "rank": 18,
-      "sports_rank": 7
-    },
-    {
-      "title": "肖申克的救赎筹备史",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 224020,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E7%AD%B9%E5%A4%87%E5%8F%B2"
-      },
-      "raw_titles": [
-        "肖申克的救赎筹备史"
-      ],
-      "rank": 19,
-      "movie_rank": 12
-    },
-    {
-      "title": "周星驰回应为什么不重回幕前",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 216000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E9%87%8D%E5%9B%9E%E5%B9%95%E5%89%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "周星驰回应为什么不重回幕前"
-      ],
-      "rank": 20,
-      "movie_rank": 13
-    },
-    {
-      "title": "柯洁装弱智赢AI围棋",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 197173,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E8%A3%85%E5%BC%B1%E6%99%BA%E8%B5%A2AI%E5%9B%B4%E6%A3%8B"
-      },
-      "raw_titles": [
-        "柯洁装弱智赢AI围棋"
-      ],
-      "rank": 21,
-      "sports_rank": 8
-    },
-    {
-      "title": "迪丽热巴克拉恋人剧本照进现实",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 196677,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%8B%E6%8B%89%E6%81%8B%E4%BA%BA%E5%89%A7%E6%9C%AC%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E"
-      },
-      "raw_titles": [
-        "迪丽热巴克拉恋人剧本照进现实"
-      ],
-      "rank": 22,
-      "movie_rank": 14
-    },
-    {
-      "title": "刘亦菲携爱宠登芭莎九月封面",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 188514,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%90%BA%E7%88%B1%E5%AE%A0%E7%99%BB%E8%8A%AD%E8%8E%8E%E4%B9%9D%E6%9C%88%E5%B0%81%E9%9D%A2"
-      },
-      "raw_titles": [
-        "刘亦菲携爱宠登芭莎九月封面"
-      ],
-      "rank": 23,
-      "movie_rank": 15
-    },
-    {
-      "title": "女子在洗澡间装了张凌赫窗帘",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 176444,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B4%97%E6%BE%A1%E9%97%B4%E8%A3%85%E4%BA%86%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%AA%97%E5%B8%98"
-      },
-      "raw_titles": [
-        "女子在洗澡间装了张凌赫窗帘"
-      ],
-      "rank": 24,
+      "rank": 26,
       "movie_rank": 16
-    },
-    {
-      "title": "盘点难以超越的游戏神作",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 175864,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E9%9A%BE%E4%BB%A5%E8%B6%85%E8%B6%8A%E7%9A%84%E6%B8%B8%E6%88%8F%E7%A5%9E%E4%BD%9C"
-      },
-      "raw_titles": [
-        "盘点难以超越的游戏神作"
-      ],
-      "rank": 25,
-      "movie_rank": 17
     },
     {
       "title": "奥德赛为何西方封神中国遇冷",
@@ -410,161 +433,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 172402,
+      "hot_value": 344253,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E5%BE%B7%E8%B5%9B%E4%B8%BA%E4%BD%95%E8%A5%BF%E6%96%B9%E5%B0%81%E7%A5%9E%E4%B8%AD%E5%9B%BD%E9%81%87%E5%86%B7"
       },
       "raw_titles": [
         "奥德赛为何西方封神中国遇冷"
       ],
-      "rank": 26,
+      "rank": 27,
+      "movie_rank": 17
+    },
+    {
+      "title": "解读周星驰与香港影人往事",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 270137,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%8E%E9%A6%99%E6%B8%AF%E5%BD%B1%E4%BA%BA%E5%BE%80%E4%BA%8B"
+      },
+      "raw_titles": [
+        "解读周星驰与香港影人往事"
+      ],
+      "rank": 28,
       "movie_rank": 18
     },
     {
-      "title": "威廉姆斯与阿尔本续约",
-      "category": "体育",
+      "title": "肖申克的救赎筹备史",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 169447,
+      "hot_value": 258432,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF%E4%B8%8E%E9%98%BF%E5%B0%94%E6%9C%AC%E7%BB%AD%E7%BA%A6"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E7%AD%B9%E5%A4%87%E5%8F%B2"
       },
       "raw_titles": [
-        "威廉姆斯与阿尔本续约"
-      ],
-      "rank": 27,
-      "sports_rank": 9
-    },
-    {
-      "title": "瓜帅怒吼哈兰德场面曝光",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%93%9C%E5%B8%85%E6%80%92%E5%90%BC%E5%93%88%E5%85%B0%E5%BE%B7%E5%9C%BA%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news"
-      },
-      "raw_titles": [
-        "瓜帅怒吼哈兰德场面曝光"
-      ],
-      "rank": 28,
-      "sports_rank": 10
-    },
-    {
-      "title": "全红婵现身广东省运会跳水赛场观战",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%8E%B0%E8%BA%AB%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%BF%90%E4%BC%9A%E8%B7%B3%E6%B0%B4%E8%B5%9B%E5%9C%BA%E8%A7%82%E6%88%98&sa=fyb_news"
-      },
-      "raw_titles": [
-        "全红婵现身广东省运会跳水赛场观战"
+        "肖申克的救赎筹备史"
       ],
       "rank": 29,
-      "sports_rank": 11
-    }
-  ],
-  "sports": [
-    {
-      "title": "中超上海申花0:3北京国安",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8972729,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B10%3A3%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89"
-      },
-      "raw_titles": [
-        "中超上海申花0:3北京国安"
-      ],
-      "rank": 1,
-      "sports_rank": 1
+      "movie_rank": 19
     },
     {
-      "title": "万万没想到弹指就能摧毁太阳系",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7638884,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%87%E4%B8%87%E6%B2%A1%E6%83%B3%E5%88%B0%E5%BC%B9%E6%8C%87%E5%B0%B1%E8%83%BD%E6%91%A7%E6%AF%81%E5%A4%AA%E9%98%B3%E7%B3%BB"
-      },
-      "raw_titles": [
-        "万万没想到弹指就能摧毁太阳系"
-      ],
-      "rank": 5,
-      "sports_rank": 2
-    },
-    {
-      "title": "亚运礼服同源九牧王星耀系列",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 544195,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E7%A4%BC%E6%9C%8D%E5%90%8C%E6%BA%90%E4%B9%9D%E7%89%A7%E7%8E%8B%E6%98%9F%E8%80%80%E7%B3%BB%E5%88%97"
-      },
-      "raw_titles": [
-        "亚运礼服同源九牧王星耀系列"
-      ],
-      "rank": 7,
-      "sports_rank": 3
-    },
-    {
-      "title": "重大突破！中国首次实现火箭陆地回收",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 450000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6&sa=fyb_news"
-      },
-      "raw_titles": [
-        "重大突破！中国首次实现火箭陆地回收"
-      ],
-      "rank": 8,
-      "sports_rank": 4
-    },
-    {
-      "title": "NiKo被截胡的EWC巴黎Vlog",
-      "category": "体育",
+      "title": "RAY评披哥初舞台",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 356895,
+      "hot_value": 192108,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NiKo%E8%A2%AB%E6%88%AA%E8%83%A1%E7%9A%84EWC%E5%B7%B4%E9%BB%8EVlog"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E6%8A%AB%E5%93%A5%E5%88%9D%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
-        "NiKo被截胡的EWC巴黎Vlog"
+        "RAY评披哥初舞台"
       ],
-      "rank": 9,
-      "sports_rank": 5
-    },
-    {
-      "title": "詹姆斯的实力到底有多强",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 309721,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%9A%84%E5%AE%9E%E5%8A%9B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%BC%BA"
-      },
-      "raw_titles": [
-        "詹姆斯的实力到底有多强"
-      ],
-      "rank": 13,
-      "sports_rank": 6
+      "rank": 30,
+      "movie_rank": 20
     },
     {
       "title": "游泳警惕腺病毒 暂无特效药",
@@ -572,15 +497,200 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 153000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%B8%B8%E6%B3%B3%E8%AD%A6%E6%83%95%E8%85%BA%E7%97%85%E6%AF%92+%E6%9A%82%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news"
       },
       "raw_titles": [
         "游泳警惕腺病毒 暂无特效药"
       ],
-      "rank": 18,
+      "rank": 31,
+      "sports_rank": 11
+    },
+    {
+      "title": "魏大勋逛浙江博物馆看十二兽首",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 99000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E9%80%9B%E6%B5%99%E6%B1%9F%E5%8D%9A%E7%89%A9%E9%A6%86%E7%9C%8B%E5%8D%81%E4%BA%8C%E5%85%BD%E9%A6%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "魏大勋逛浙江博物馆看十二兽首"
+      ],
+      "rank": 32,
+      "movie_rank": 21
+    },
+    {
+      "title": "周星驰回应为什么不重回幕前",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E9%87%8D%E5%9B%9E%E5%B9%95%E5%89%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "周星驰回应为什么不重回幕前"
+      ],
+      "rank": 33,
+      "movie_rank": 22
+    }
+  ],
+  "sports": [
+    {
+      "title": "重大突破！中国首次实现火箭陆地回收",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 20272970,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6"
+      },
+      "raw_titles": [
+        "重大突破！中国首次实现火箭陆地回收"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "中超上海申花0:3北京国安",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8465942,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B10%3A3%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89"
+      },
+      "raw_titles": [
+        "中超上海申花0:3北京国安"
+      ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "万万没想到弹指就能摧毁太阳系",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7567528,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%87%E4%B8%87%E6%B2%A1%E6%83%B3%E5%88%B0%E5%BC%B9%E6%8C%87%E5%B0%B1%E8%83%BD%E6%91%A7%E6%AF%81%E5%A4%AA%E9%98%B3%E7%B3%BB"
+      },
+      "raw_titles": [
+        "万万没想到弹指就能摧毁太阳系"
+      ],
+      "rank": 7,
+      "sports_rank": 3
+    },
+    {
+      "title": "为何需要另一种火箭回收路径",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1822043,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E9%9C%80%E8%A6%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E8%B7%AF%E5%BE%84"
+      },
+      "raw_titles": [
+        "为何需要另一种火箭回收路径"
+      ],
+      "rank": 9,
+      "sports_rank": 4
+    },
+    {
+      "title": "中国重复使用火箭陆地回收成功",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 1235979,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6"
+      },
+      "raw_titles": [
+        "中国重复使用火箭陆地回收成功"
+      ],
+      "rank": 10,
+      "sports_rank": 5
+    },
+    {
+      "title": "巴萨正式官宣罗德里加盟",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 572935,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E8%90%A8%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%E7%BD%97%E5%BE%B7%E9%87%8C%E5%8A%A0%E7%9B%9F&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%90%A8%E5%AE%98%E5%AE%A3%E7%BD%97%E5%BE%B7%E9%87%8C%E5%8A%A0%E7%9B%9F"
+      },
+      "raw_titles": [
+        "巴萨正式官宣罗德里加盟"
+      ],
+      "rank": 11,
+      "sports_rank": 6
+    },
+    {
+      "title": "NiKo被截胡的EWC巴黎Vlog",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 490495,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NiKo%E8%A2%AB%E6%88%AA%E8%83%A1%E7%9A%84EWC%E5%B7%B4%E9%BB%8EVlog"
+      },
+      "raw_titles": [
+        "NiKo被截胡的EWC巴黎Vlog"
+      ],
+      "rank": 14,
       "sports_rank": 7
+    },
+    {
+      "title": "火箭 重复使用",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 435114,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%81%AB%E7%AE%AD%20%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8"
+      },
+      "raw_titles": [
+        "火箭 重复使用"
+      ],
+      "rank": 21,
+      "sports_rank": 8
+    },
+    {
+      "title": "詹姆斯的实力到底有多强",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 418625,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%9A%84%E5%AE%9E%E5%8A%9B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%BC%BA"
+      },
+      "raw_titles": [
+        "詹姆斯的实力到底有多强"
+      ],
+      "rank": 22,
+      "sports_rank": 9
     },
     {
       "title": "柯洁装弱智赢AI围棋",
@@ -588,62 +698,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 197173,
+      "hot_value": 415538,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E8%A3%85%E5%BC%B1%E6%99%BA%E8%B5%A2AI%E5%9B%B4%E6%A3%8B"
       },
       "raw_titles": [
         "柯洁装弱智赢AI围棋"
       ],
-      "rank": 21,
-      "sports_rank": 8
-    },
-    {
-      "title": "威廉姆斯与阿尔本续约",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 169447,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF%E4%B8%8E%E9%98%BF%E5%B0%94%E6%9C%AC%E7%BB%AD%E7%BA%A6"
-      },
-      "raw_titles": [
-        "威廉姆斯与阿尔本续约"
-      ],
-      "rank": 27,
-      "sports_rank": 9
-    },
-    {
-      "title": "瓜帅怒吼哈兰德场面曝光",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%93%9C%E5%B8%85%E6%80%92%E5%90%BC%E5%93%88%E5%85%B0%E5%BE%B7%E5%9C%BA%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news"
-      },
-      "raw_titles": [
-        "瓜帅怒吼哈兰德场面曝光"
-      ],
-      "rank": 28,
+      "rank": 23,
       "sports_rank": 10
     },
     {
-      "title": "全红婵现身广东省运会跳水赛场观战",
+      "title": "游泳警惕腺病毒 暂无特效药",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 9000,
+      "hot_value": 153000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%8E%B0%E8%BA%AB%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%BF%90%E4%BC%9A%E8%B7%B3%E6%B0%B4%E8%B5%9B%E5%9C%BA%E8%A7%82%E6%88%98&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%B8%B8%E6%B3%B3%E8%AD%A6%E6%83%95%E8%85%BA%E7%97%85%E6%AF%92+%E6%9A%82%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news"
       },
       "raw_titles": [
-        "全红婵现身广东省运会跳水赛场观战"
+        "游泳警惕腺病毒 暂无特效药"
       ],
-      "rank": 29,
+      "rank": 31,
       "sports_rank": 11
     }
   ],
@@ -654,15 +732,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7841520,
+      "hot_value": 7696494,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AB%A0%E5%AD%90%E6%80%A1230%E4%B8%87%E6%8A%95%E8%B5%84%E5%8D%96%E5%87%BA3.05%E4%BA%BF"
       },
       "raw_titles": [
         "章子怡230万投资卖出3.05亿"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
+    },
+    {
+      "title": "包上恩翻拍蜘蛛侠名场面",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7692641,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8C%85%E4%B8%8A%E6%81%A9%E7%BF%BB%E6%8B%8D%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%90%8D%E5%9C%BA%E9%9D%A2"
+      },
+      "raw_titles": [
+        "包上恩翻拍蜘蛛侠名场面"
+      ],
+      "rank": 4,
+      "movie_rank": 2
     },
     {
       "title": "卢昱晓也参加模仿蜘蛛侠挑战了",
@@ -670,15 +764,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7712057,
+      "hot_value": 7678960,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8D%A2%E6%98%B1%E6%99%93%E4%B9%9F%E5%8F%82%E5%8A%A0%E6%A8%A1%E4%BB%BF%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%8C%91%E6%88%98%E4%BA%86"
       },
       "raw_titles": [
         "卢昱晓也参加模仿蜘蛛侠挑战了"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 5,
+      "movie_rank": 3
     },
     {
       "title": "沈腾说演龙餐馆一辈子眼泪流完了",
@@ -686,15 +780,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7663294,
+      "hot_value": 7637634,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E8%AF%B4%E6%BC%94%E9%BE%99%E9%A4%90%E9%A6%86%E4%B8%80%E8%BE%88%E5%AD%90%E7%9C%BC%E6%B3%AA%E6%B5%81%E5%AE%8C%E4%BA%86"
       },
       "raw_titles": [
         "沈腾说演龙餐馆一辈子眼泪流完了"
       ],
-      "rank": 4,
-      "movie_rank": 3
+      "rank": 6,
+      "movie_rank": 4
     },
     {
       "title": "火影AI二创居然这么会拍",
@@ -702,15 +796,111 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7637280,
+      "hot_value": 7517870,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1AI%E4%BA%8C%E5%88%9B%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E4%BC%9A%E6%8B%8D"
       },
       "raw_titles": [
         "火影AI二创居然这么会拍"
       ],
-      "rank": 6,
-      "movie_rank": 4
+      "rank": 8,
+      "movie_rank": 5
+    },
+    {
+      "title": "歌剧老师锐评披哥第一期",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 518465,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E7%AC%AC%E4%B8%80%E6%9C%9F"
+      },
+      "raw_titles": [
+        "歌剧老师锐评披哥第一期"
+      ],
+      "rank": 12,
+      "movie_rank": 6
+    },
+    {
+      "title": "章子怡套现3亿",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 500304,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%A5%97%E7%8E%B03%E4%BA%BF"
+      },
+      "raw_titles": [
+        "章子怡套现3亿"
+      ],
+      "rank": 13,
+      "movie_rank": 7
+    },
+    {
+      "title": "李现回沙溪古镇了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 476810,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E6%B2%99%E6%BA%AA%E5%8F%A4%E9%95%87%E4%BA%86"
+      },
+      "raw_titles": [
+        "李现回沙溪古镇了"
+      ],
+      "rank": 15,
+      "movie_rank": 8
+    },
+    {
+      "title": "迪丽热巴克拉恋人剧本照进现实",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 476667,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%8B%E6%8B%89%E6%81%8B%E4%BA%BA%E5%89%A7%E6%9C%AC%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E"
+      },
+      "raw_titles": [
+        "迪丽热巴克拉恋人剧本照进现实"
+      ],
+      "rank": 16,
+      "movie_rank": 9
+    },
+    {
+      "title": "蓝盈莹上浪姐确实赢麻了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 466980,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%E4%B8%8A%E6%B5%AA%E5%A7%90%E7%A1%AE%E5%AE%9E%E8%B5%A2%E9%BA%BB%E4%BA%86"
+      },
+      "raw_titles": [
+        "蓝盈莹上浪姐确实赢麻了"
+      ],
+      "rank": 17,
+      "movie_rank": 10
+    },
+    {
+      "title": "UP主自制成龙所有角色大合影",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 458377,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E6%88%90%E9%BE%99%E6%89%80%E6%9C%89%E8%A7%92%E8%89%B2%E5%A4%A7%E5%90%88%E5%BD%B1"
+      },
+      "raw_titles": [
+        "UP主自制成龙所有角色大合影"
+      ],
+      "rank": 18,
+      "movie_rank": 11
     },
     {
       "title": "宇树发布超人机器人",
@@ -718,15 +908,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 356861,
+      "hot_value": 452551,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA"
       },
       "raw_titles": [
         "宇树发布超人机器人"
       ],
-      "rank": 10,
-      "movie_rank": 5
+      "rank": 19,
+      "movie_rank": 12
+    },
+    {
+      "title": "女子在洗澡间装了张凌赫窗帘",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 446820,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B4%97%E6%BE%A1%E9%97%B4%E8%A3%85%E4%BA%86%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%AA%97%E5%B8%98"
+      },
+      "raw_titles": [
+        "女子在洗澡间装了张凌赫窗帘"
+      ],
+      "rank": 20,
+      "movie_rank": 13
+    },
+    {
+      "title": "刘亦菲携爱宠登芭莎九月封面",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 410328,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%90%BA%E7%88%B1%E5%AE%A0%E7%99%BB%E8%8A%AD%E8%8E%8E%E4%B9%9D%E6%9C%88%E5%B0%81%E9%9D%A2"
+      },
+      "raw_titles": [
+        "刘亦菲携爱宠登芭莎九月封面"
+      ],
+      "rank": 24,
+      "movie_rank": 14
+    },
+    {
+      "title": "自制AI电影出马仙镇东北",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 382342,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97"
+      },
+      "raw_titles": [
+        "自制AI电影出马仙镇东北"
+      ],
+      "rank": 25,
+      "movie_rank": 15
     },
     {
       "title": "章子怡到手3个亿 不是通过演戏",
@@ -741,184 +979,8 @@
       "raw_titles": [
         "章子怡到手3个亿 不是通过演戏"
       ],
-      "rank": 11,
-      "movie_rank": 6
-    },
-    {
-      "title": "UP主自制成龙所有角色大合影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 328277,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E6%88%90%E9%BE%99%E6%89%80%E6%9C%89%E8%A7%92%E8%89%B2%E5%A4%A7%E5%90%88%E5%BD%B1"
-      },
-      "raw_titles": [
-        "UP主自制成龙所有角色大合影"
-      ],
-      "rank": 12,
-      "movie_rank": 7
-    },
-    {
-      "title": "歌剧老师锐评披哥第一期",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 305746,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E7%AC%AC%E4%B8%80%E6%9C%9F"
-      },
-      "raw_titles": [
-        "歌剧老师锐评披哥第一期"
-      ],
-      "rank": 14,
-      "movie_rank": 8
-    },
-    {
-      "title": "李现回沙溪古镇了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 298931,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E5%9B%9E%E6%B2%99%E6%BA%AA%E5%8F%A4%E9%95%87%E4%BA%86"
-      },
-      "raw_titles": [
-        "李现回沙溪古镇了"
-      ],
-      "rank": 15,
-      "movie_rank": 9
-    },
-    {
-      "title": "自制AI电影出马仙镇东北",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 294266,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97"
-      },
-      "raw_titles": [
-        "自制AI电影出马仙镇东北"
-      ],
-      "rank": 16,
-      "movie_rank": 10
-    },
-    {
-      "title": "解读周星驰与香港影人往事",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 259965,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%8E%E9%A6%99%E6%B8%AF%E5%BD%B1%E4%BA%BA%E5%BE%80%E4%BA%8B"
-      },
-      "raw_titles": [
-        "解读周星驰与香港影人往事"
-      ],
-      "rank": 17,
-      "movie_rank": 11
-    },
-    {
-      "title": "肖申克的救赎筹备史",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 224020,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E7%AD%B9%E5%A4%87%E5%8F%B2"
-      },
-      "raw_titles": [
-        "肖申克的救赎筹备史"
-      ],
-      "rank": 19,
-      "movie_rank": 12
-    },
-    {
-      "title": "周星驰回应为什么不重回幕前",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 216000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E9%87%8D%E5%9B%9E%E5%B9%95%E5%89%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "周星驰回应为什么不重回幕前"
-      ],
-      "rank": 20,
-      "movie_rank": 13
-    },
-    {
-      "title": "迪丽热巴克拉恋人剧本照进现实",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 196677,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%8B%E6%8B%89%E6%81%8B%E4%BA%BA%E5%89%A7%E6%9C%AC%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E"
-      },
-      "raw_titles": [
-        "迪丽热巴克拉恋人剧本照进现实"
-      ],
-      "rank": 22,
-      "movie_rank": 14
-    },
-    {
-      "title": "刘亦菲携爱宠登芭莎九月封面",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 188514,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%90%BA%E7%88%B1%E5%AE%A0%E7%99%BB%E8%8A%AD%E8%8E%8E%E4%B9%9D%E6%9C%88%E5%B0%81%E9%9D%A2"
-      },
-      "raw_titles": [
-        "刘亦菲携爱宠登芭莎九月封面"
-      ],
-      "rank": 23,
-      "movie_rank": 15
-    },
-    {
-      "title": "女子在洗澡间装了张凌赫窗帘",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 176444,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B4%97%E6%BE%A1%E9%97%B4%E8%A3%85%E4%BA%86%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%AA%97%E5%B8%98"
-      },
-      "raw_titles": [
-        "女子在洗澡间装了张凌赫窗帘"
-      ],
-      "rank": 24,
+      "rank": 26,
       "movie_rank": 16
-    },
-    {
-      "title": "盘点难以超越的游戏神作",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 175864,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E9%9A%BE%E4%BB%A5%E8%B6%85%E8%B6%8A%E7%9A%84%E6%B8%B8%E6%88%8F%E7%A5%9E%E4%BD%9C"
-      },
-      "raw_titles": [
-        "盘点难以超越的游戏神作"
-      ],
-      "rank": 25,
-      "movie_rank": 17
     },
     {
       "title": "奥德赛为何西方封神中国遇冷",
@@ -926,15 +988,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 172402,
+      "hot_value": 344253,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E5%BE%B7%E8%B5%9B%E4%B8%BA%E4%BD%95%E8%A5%BF%E6%96%B9%E5%B0%81%E7%A5%9E%E4%B8%AD%E5%9B%BD%E9%81%87%E5%86%B7"
       },
       "raw_titles": [
         "奥德赛为何西方封神中国遇冷"
       ],
-      "rank": 26,
+      "rank": 27,
+      "movie_rank": 17
+    },
+    {
+      "title": "解读周星驰与香港影人往事",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 270137,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%8E%E9%A6%99%E6%B8%AF%E5%BD%B1%E4%BA%BA%E5%BE%80%E4%BA%8B"
+      },
+      "raw_titles": [
+        "解读周星驰与香港影人往事"
+      ],
+      "rank": 28,
       "movie_rank": 18
+    },
+    {
+      "title": "肖申克的救赎筹备史",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 258432,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E7%AD%B9%E5%A4%87%E5%8F%B2"
+      },
+      "raw_titles": [
+        "肖申克的救赎筹备史"
+      ],
+      "rank": 29,
+      "movie_rank": 19
+    },
+    {
+      "title": "RAY评披哥初舞台",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 192108,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=RAY%E8%AF%84%E6%8A%AB%E5%93%A5%E5%88%9D%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "RAY评披哥初舞台"
+      ],
+      "rank": 30,
+      "movie_rank": 20
+    },
+    {
+      "title": "魏大勋逛浙江博物馆看十二兽首",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 99000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E9%80%9B%E6%B5%99%E6%B1%9F%E5%8D%9A%E7%89%A9%E9%A6%86%E7%9C%8B%E5%8D%81%E4%BA%8C%E5%85%BD%E9%A6%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "魏大勋逛浙江博物馆看十二兽首"
+      ],
+      "rank": 32,
+      "movie_rank": 21
+    },
+    {
+      "title": "周星驰回应为什么不重回幕前",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E9%87%8D%E5%9B%9E%E5%B9%95%E5%89%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "周星驰回应为什么不重回幕前"
+      ],
+      "rank": 33,
+      "movie_rank": 22
     }
   ]
 }
