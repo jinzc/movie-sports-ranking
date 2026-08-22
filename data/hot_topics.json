@@ -1,39 +1,23 @@
 {
-  "update_time": "2026-08-23 06:00:50",
+  "update_time": "2026-08-23 07:00:47",
   "total": 29,
   "sports_count": 14,
   "movie_count": 15,
   "all": [
-    {
-      "title": "李荣浩乌鲁木齐演唱会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9108329,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "李荣浩乌鲁木齐演唱会"
-      ],
-      "rank": 1,
-      "movie_rank": 1
-    },
     {
       "title": "伦纳德100:35击败白晶",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8919950,
+      "hot_value": 9133531,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7100%3A35%E5%87%BB%E8%B4%A5%E7%99%BD%E6%99%B6"
       },
       "raw_titles": [
         "伦纳德100:35击败白晶"
       ],
-      "rank": 2,
+      "rank": 1,
       "sports_rank": 1
     },
     {
@@ -43,7 +27,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 7963800,
+      "hot_value": 7800019,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E6%A8%AA%E6%89%AB%E4%BC%8A%E6%8B%89%E5%85%8B%E9%98%9F&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%3A0%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%8E%92"
@@ -51,7 +35,7 @@
       "raw_titles": [
         "中国女排3比0横扫伊拉克队"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 2
     },
     {
@@ -60,12 +44,28 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7754640,
+      "hot_value": 7734467,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA"
       },
       "raw_titles": [
         "薛之谦深圳演唱会现场"
+      ],
+      "rank": 3,
+      "movie_rank": 1
+    },
+    {
+      "title": "李荣浩乌鲁木齐演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7727662,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "李荣浩乌鲁木齐演唱会"
       ],
       "rank": 4,
       "movie_rank": 2
@@ -76,7 +76,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7674765,
+      "hot_value": 7702008,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -85,22 +85,6 @@
       ],
       "rank": 5,
       "movie_rank": 3
-    },
-    {
-      "title": "凡人修仙传黄龙山之战隐藏细节",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 432110,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E9%BB%84%E9%BE%99%E5%B1%B1%E4%B9%8B%E6%88%98%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82"
-      },
-      "raw_titles": [
-        "凡人修仙传黄龙山之战隐藏细节"
-      ],
-      "rank": 6,
-      "movie_rank": 4
     },
     {
       "title": "小沈阳投诉《披荆斩棘》导演组",
@@ -115,8 +99,8 @@
       "raw_titles": [
         "小沈阳投诉《披荆斩棘》导演组"
       ],
-      "rank": 7,
-      "movie_rank": 5
+      "rank": 6,
+      "movie_rank": 4
     },
     {
       "title": "机器人田径100米赛跑终点撞墙",
@@ -131,8 +115,24 @@
       "raw_titles": [
         "机器人田径100米赛跑终点撞墙"
       ],
-      "rank": 8,
+      "rank": 7,
       "sports_rank": 3
+    },
+    {
+      "title": "王传君的雷霆野人妆是自己设计的",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 252000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%9A%84%E9%9B%B7%E9%9C%86%E9%87%8E%E4%BA%BA%E5%A6%86%E6%98%AF%E8%87%AA%E5%B7%B1%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王传君的雷霆野人妆是自己设计的"
+      ],
+      "rank": 8,
+      "sports_rank": 4
     },
     {
       "title": "机器人和郑洁李昀锐打网球",
@@ -148,39 +148,7 @@
         "机器人和郑洁李昀锐打网球"
       ],
       "rank": 9,
-      "sports_rank": 4
-    },
-    {
-      "title": "王传君的雷霆野人妆是自己设计的",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 216000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%9A%84%E9%9B%B7%E9%9C%86%E9%87%8E%E4%BA%BA%E5%A6%86%E6%98%AF%E8%87%AA%E5%B7%B1%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王传君的雷霆野人妆是自己设计的"
-      ],
-      "rank": 10,
       "sports_rank": 5
-    },
-    {
-      "title": "《披哥》部落排名",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 207000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%8A%AB%E5%93%A5%E3%80%8B%E9%83%A8%E8%90%BD%E6%8E%92%E5%90%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《披哥》部落排名"
-      ],
-      "rank": 11,
-      "movie_rank": 6
     },
     {
       "title": "机器人vs奥运冠军丁宁",
@@ -195,40 +163,24 @@
       "raw_titles": [
         "机器人vs奥运冠军丁宁"
       ],
-      "rank": 12,
+      "rank": 10,
       "sports_rank": 6
     },
     {
-      "title": "曼联0比2客场不敌升班马赫尔城",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 171000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9B%BC%E8%81%940%E6%AF%942%E5%AE%A2%E5%9C%BA%E4%B8%8D%E6%95%8C%E5%8D%87%E7%8F%AD%E9%A9%AC%E8%B5%AB%E5%B0%94%E5%9F%8E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "曼联0比2客场不敌升班马赫尔城"
-      ],
-      "rank": 13,
-      "sports_rank": 7
-    },
-    {
-      "title": "曼联0-2赫尔城",
-      "category": "体育",
+      "title": "凡人修仙传黄龙山之战隐藏细节",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 163199,
+      "hot_value": 188895,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%940-2%E8%B5%AB%E5%B0%94%E5%9F%8E"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E9%BB%84%E9%BE%99%E5%B1%B1%E4%B9%8B%E6%88%98%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82"
       },
       "raw_titles": [
-        "曼联0-2赫尔城"
+        "凡人修仙传黄龙山之战隐藏细节"
       ],
-      "rank": 14,
-      "sports_rank": 8
+      "rank": 11,
+      "movie_rank": 5
     },
     {
       "title": "万字解析钢铁侠3",
@@ -236,15 +188,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 145810,
+      "hot_value": 171178,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E9%92%A2%E9%93%81%E4%BE%A03"
       },
       "raw_titles": [
         "万字解析钢铁侠3"
       ],
-      "rank": 15,
-      "movie_rank": 7
+      "rank": 12,
+      "movie_rank": 6
+    },
+    {
+      "title": "曼联0-2赫尔城",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 160996,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%940-2%E8%B5%AB%E5%B0%94%E5%9F%8E"
+      },
+      "raw_titles": [
+        "曼联0-2赫尔城"
+      ],
+      "rank": 13,
+      "sports_rank": 7
+    },
+    {
+      "title": "机器人任意球破门 复刻C罗庆祝动作",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 153000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8+%E5%A4%8D%E5%88%BBC%E7%BD%97%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "机器人任意球破门 复刻C罗庆祝动作"
+      ],
+      "rank": 14,
+      "sports_rank": 8
     },
     {
       "title": "原神过场动画死亡已在身边",
@@ -252,15 +236,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 126436,
+      "hot_value": 144454,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E6%AD%BB%E4%BA%A1%E5%B7%B2%E5%9C%A8%E8%BA%AB%E8%BE%B9"
       },
       "raw_titles": [
         "原神过场动画死亡已在身边"
       ],
-      "rank": 16,
-      "movie_rank": 8
+      "rank": 15,
+      "movie_rank": 7
     },
     {
       "title": "鸣潮剧情动画仙尘",
@@ -268,62 +252,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 124569,
+      "hot_value": 126163,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%89%A7%E6%83%85%E5%8A%A8%E7%94%BB%E4%BB%99%E5%B0%98"
       },
       "raw_titles": [
         "鸣潮剧情动画仙尘"
       ],
-      "rank": 17,
-      "movie_rank": 9
+      "rank": 16,
+      "movie_rank": 8
     },
     {
-      "title": "沈腾范丞丞胡先煦的新乐事来了",
+      "title": "王源一句话让几万人低头看手机",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 117478,
+      "hot_value": 118566,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%83%A1%E5%85%88%E7%85%A6%E7%9A%84%E6%96%B0%E4%B9%90%E4%BA%8B%E6%9D%A5%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E5%87%A0%E4%B8%87%E4%BA%BA%E4%BD%8E%E5%A4%B4%E7%9C%8B%E6%89%8B%E6%9C%BA"
       },
       "raw_titles": [
-        "沈腾范丞丞胡先煦的新乐事来了"
+        "王源一句话让几万人低头看手机"
       ],
-      "rank": 18,
-      "movie_rank": 10
+      "rank": 17,
+      "movie_rank": 9
     },
     {
-      "title": "歌剧老师锐评披哥初舞台",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 111854,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E5%88%9D%E8%88%9E%E5%8F%B0"
-      },
-      "raw_titles": [
-        "歌剧老师锐评披哥初舞台"
-      ],
-      "rank": 19,
-      "movie_rank": 11
-    },
-    {
-      "title": "曼联开门黑不敌赫尔城",
+      "title": "曼联0比2客场不敌升班马赫尔城",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 103373,
+      "hot_value": 117000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%BC%80%E9%97%A8%E9%BB%91%E4%B8%8D%E6%95%8C%E8%B5%AB%E5%B0%94%E5%9F%8E"
+        "百度": "https://m.baidu.com/s?word=%E6%9B%BC%E8%81%940%E6%AF%942%E5%AE%A2%E5%9C%BA%E4%B8%8D%E6%95%8C%E5%8D%87%E7%8F%AD%E9%A9%AC%E8%B5%AB%E5%B0%94%E5%9F%8E&sa=fyb_news"
       },
       "raw_titles": [
-        "曼联开门黑不敌赫尔城"
+        "曼联0比2客场不敌升班马赫尔城"
       ],
-      "rank": 20,
+      "rank": 18,
       "sports_rank": 9
     },
     {
@@ -332,63 +300,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 87545,
+      "hot_value": 108825,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E7%8E%8B%E5%90%8C%E6%AC%BE%E4%B8%96%E7%95%8C%E5%8D%81%E5%A4%A7%E9%A4%90%E5%8E%85"
       },
       "raw_titles": [
         "西班牙国王同款世界十大餐厅"
       ],
-      "rank": 21,
+      "rank": 19,
       "sports_rank": 10
     },
     {
-      "title": "F1荷兰冲刺赛战报",
+      "title": "C罗回归替补建功",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 87267,
+      "hot_value": 108525,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E8%8D%B7%E5%85%B0%E5%86%B2%E5%88%BA%E8%B5%9B%E6%88%98%E6%8A%A5"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%9B%9E%E5%BD%92%E6%9B%BF%E8%A1%A5%E5%BB%BA%E5%8A%9F"
       },
       "raw_titles": [
-        "F1荷兰冲刺赛战报"
+        "C罗回归替补建功"
       ],
-      "rank": 22,
+      "rank": 20,
       "sports_rank": 11
     },
     {
-      "title": "王源一句话让几万人低头看手机",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70066,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E5%87%A0%E4%B8%87%E4%BA%BA%E4%BD%8E%E5%A4%B4%E7%9C%8B%E6%89%8B%E6%9C%BA"
-      },
-      "raw_titles": [
-        "王源一句话让几万人低头看手机"
-      ],
-      "rank": 23,
-      "movie_rank": 12
-    },
-    {
-      "title": "机器人任意球破门 复刻C罗庆祝动作",
+      "title": "曼联开门黑不敌赫尔城",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 54000,
+      "hot_value": 100820,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8+%E5%A4%8D%E5%88%BBC%E7%BD%97%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%BC%80%E9%97%A8%E9%BB%91%E4%B8%8D%E6%95%8C%E8%B5%AB%E5%B0%94%E5%9F%8E"
       },
       "raw_titles": [
-        "机器人任意球破门 复刻C罗庆祝动作"
+        "曼联开门黑不敌赫尔城"
       ],
-      "rank": 24,
+      "rank": 21,
       "sports_rank": 12
+    },
+    {
+      "title": "歌剧老师锐评披哥初舞台",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 98345,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E5%88%9D%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "歌剧老师锐评披哥初舞台"
+      ],
+      "rank": 22,
+      "movie_rank": 10
     },
     {
       "title": "那英演唱会 肖战",
@@ -396,31 +364,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 36753,
+      "hot_value": 71590,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%82%96%E6%88%98"
       },
       "raw_titles": [
         "那英演唱会 肖战"
       ],
-      "rank": 25,
-      "movie_rank": 13
+      "rank": 23,
+      "movie_rank": 11
     },
     {
-      "title": "樊振东杜塞尔多夫首秀影院票抢空",
-      "category": "体育",
+      "title": "肖战完全王子",
+      "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 31636,
+      "hot_value": 56403,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB%E9%A6%96%E7%A7%80%E5%BD%B1%E9%99%A2%E7%A5%A8%E6%8A%A2%E7%A9%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%AE%8C%E5%85%A8%E7%8E%8B%E5%AD%90"
       },
       "raw_titles": [
-        "樊振东杜塞尔多夫首秀影院票抢空"
+        "肖战完全王子"
       ],
-      "rank": 26,
-      "sports_rank": 13
+      "rank": 24,
+      "movie_rank": 12
     },
     {
       "title": "王源淘了个相机捡大漏了",
@@ -428,15 +396,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 30918,
+      "hot_value": 55913,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%B7%98%E4%BA%86%E4%B8%AA%E7%9B%B8%E6%9C%BA%E6%8D%A1%E5%A4%A7%E6%BC%8F%E4%BA%86"
       },
       "raw_titles": [
         "王源淘了个相机捡大漏了"
       ],
-      "rank": 27,
+      "rank": 25,
+      "movie_rank": 13
+    },
+    {
+      "title": "华晨宇回应造型像壮壮妈",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 55879,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E9%80%A0%E5%9E%8B%E5%83%8F%E5%A3%AE%E5%A3%AE%E5%A6%88"
+      },
+      "raw_titles": [
+        "华晨宇回应造型像壮壮妈"
+      ],
+      "rank": 26,
       "movie_rank": 14
+    },
+    {
+      "title": "樊振东杜塞尔多夫首秀影院票抢空",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 55872,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB%E9%A6%96%E7%A7%80%E5%BD%B1%E9%99%A2%E7%A5%A8%E6%8A%A2%E7%A9%BA"
+      },
+      "raw_titles": [
+        "樊振东杜塞尔多夫首秀影院票抢空"
+      ],
+      "rank": 27,
+      "sports_rank": 13
     },
     {
       "title": "陈伟霆只评论了应昊茗收官文",
@@ -444,7 +444,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 30781,
+      "hot_value": 55864,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E5%8F%AA%E8%AF%84%E8%AE%BA%E4%BA%86%E5%BA%94%E6%98%8A%E8%8C%97%E6%94%B6%E5%AE%98%E6%96%87"
       },
@@ -460,7 +460,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 30645,
+      "hot_value": 55784,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E8%B6%85%E8%81%94%E8%B5%9B"
       },
@@ -478,14 +478,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8919950,
+      "hot_value": 9133531,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7100%3A35%E5%87%BB%E8%B4%A5%E7%99%BD%E6%99%B6"
       },
       "raw_titles": [
         "伦纳德100:35击败白晶"
       ],
-      "rank": 2,
+      "rank": 1,
       "sports_rank": 1
     },
     {
@@ -495,7 +495,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 7963800,
+      "hot_value": 7800019,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E6%A8%AA%E6%89%AB%E4%BC%8A%E6%8B%89%E5%85%8B%E9%98%9F&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%3A0%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%8E%92"
@@ -503,7 +503,7 @@
       "raw_titles": [
         "中国女排3比0横扫伊拉克队"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 2
     },
     {
@@ -519,8 +519,24 @@
       "raw_titles": [
         "机器人田径100米赛跑终点撞墙"
       ],
-      "rank": 8,
+      "rank": 7,
       "sports_rank": 3
+    },
+    {
+      "title": "王传君的雷霆野人妆是自己设计的",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 252000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%9A%84%E9%9B%B7%E9%9C%86%E9%87%8E%E4%BA%BA%E5%A6%86%E6%98%AF%E8%87%AA%E5%B7%B1%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王传君的雷霆野人妆是自己设计的"
+      ],
+      "rank": 8,
+      "sports_rank": 4
     },
     {
       "title": "机器人和郑洁李昀锐打网球",
@@ -536,22 +552,6 @@
         "机器人和郑洁李昀锐打网球"
       ],
       "rank": 9,
-      "sports_rank": 4
-    },
-    {
-      "title": "王传君的雷霆野人妆是自己设计的",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 216000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%9A%84%E9%9B%B7%E9%9C%86%E9%87%8E%E4%BA%BA%E5%A6%86%E6%98%AF%E8%87%AA%E5%B7%B1%E8%AE%BE%E8%AE%A1%E7%9A%84&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王传君的雷霆野人妆是自己设计的"
-      ],
-      "rank": 10,
       "sports_rank": 5
     },
     {
@@ -567,24 +567,8 @@
       "raw_titles": [
         "机器人vs奥运冠军丁宁"
       ],
-      "rank": 12,
+      "rank": 10,
       "sports_rank": 6
-    },
-    {
-      "title": "曼联0比2客场不敌升班马赫尔城",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 171000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9B%BC%E8%81%940%E6%AF%942%E5%AE%A2%E5%9C%BA%E4%B8%8D%E6%95%8C%E5%8D%87%E7%8F%AD%E9%A9%AC%E8%B5%AB%E5%B0%94%E5%9F%8E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "曼联0比2客场不敌升班马赫尔城"
-      ],
-      "rank": 13,
-      "sports_rank": 7
     },
     {
       "title": "曼联0-2赫尔城",
@@ -592,30 +576,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 163199,
+      "hot_value": 160996,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%940-2%E8%B5%AB%E5%B0%94%E5%9F%8E"
       },
       "raw_titles": [
         "曼联0-2赫尔城"
       ],
+      "rank": 13,
+      "sports_rank": 7
+    },
+    {
+      "title": "机器人任意球破门 复刻C罗庆祝动作",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 153000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8+%E5%A4%8D%E5%88%BBC%E7%BD%97%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "机器人任意球破门 复刻C罗庆祝动作"
+      ],
       "rank": 14,
       "sports_rank": 8
     },
     {
-      "title": "曼联开门黑不敌赫尔城",
+      "title": "曼联0比2客场不敌升班马赫尔城",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 103373,
+      "hot_value": 117000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%BC%80%E9%97%A8%E9%BB%91%E4%B8%8D%E6%95%8C%E8%B5%AB%E5%B0%94%E5%9F%8E"
+        "百度": "https://m.baidu.com/s?word=%E6%9B%BC%E8%81%940%E6%AF%942%E5%AE%A2%E5%9C%BA%E4%B8%8D%E6%95%8C%E5%8D%87%E7%8F%AD%E9%A9%AC%E8%B5%AB%E5%B0%94%E5%9F%8E&sa=fyb_news"
       },
       "raw_titles": [
-        "曼联开门黑不敌赫尔城"
+        "曼联0比2客场不敌升班马赫尔城"
       ],
-      "rank": 20,
+      "rank": 18,
       "sports_rank": 9
     },
     {
@@ -624,46 +624,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 87545,
+      "hot_value": 108825,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E7%8E%8B%E5%90%8C%E6%AC%BE%E4%B8%96%E7%95%8C%E5%8D%81%E5%A4%A7%E9%A4%90%E5%8E%85"
       },
       "raw_titles": [
         "西班牙国王同款世界十大餐厅"
       ],
-      "rank": 21,
+      "rank": 19,
       "sports_rank": 10
     },
     {
-      "title": "F1荷兰冲刺赛战报",
+      "title": "C罗回归替补建功",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 87267,
+      "hot_value": 108525,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E8%8D%B7%E5%85%B0%E5%86%B2%E5%88%BA%E8%B5%9B%E6%88%98%E6%8A%A5"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%9B%9E%E5%BD%92%E6%9B%BF%E8%A1%A5%E5%BB%BA%E5%8A%9F"
       },
       "raw_titles": [
-        "F1荷兰冲刺赛战报"
+        "C罗回归替补建功"
       ],
-      "rank": 22,
+      "rank": 20,
       "sports_rank": 11
     },
     {
-      "title": "机器人任意球破门 复刻C罗庆祝动作",
+      "title": "曼联开门黑不敌赫尔城",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 54000,
+      "hot_value": 100820,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8+%E5%A4%8D%E5%88%BBC%E7%BD%97%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%BC%80%E9%97%A8%E9%BB%91%E4%B8%8D%E6%95%8C%E8%B5%AB%E5%B0%94%E5%9F%8E"
       },
       "raw_titles": [
-        "机器人任意球破门 复刻C罗庆祝动作"
+        "曼联开门黑不敌赫尔城"
       ],
-      "rank": 24,
+      "rank": 21,
       "sports_rank": 12
     },
     {
@@ -672,14 +672,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 31636,
+      "hot_value": 55872,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB%E9%A6%96%E7%A7%80%E5%BD%B1%E9%99%A2%E7%A5%A8%E6%8A%A2%E7%A9%BA"
       },
       "raw_titles": [
         "樊振东杜塞尔多夫首秀影院票抢空"
       ],
-      "rank": 26,
+      "rank": 27,
       "sports_rank": 13
     },
     {
@@ -688,7 +688,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 30645,
+      "hot_value": 55784,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E8%B6%85%E8%81%94%E8%B5%9B"
       },
@@ -701,33 +701,33 @@
   ],
   "movies": [
     {
-      "title": "李荣浩乌鲁木齐演唱会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9108329,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "李荣浩乌鲁木齐演唱会"
-      ],
-      "rank": 1,
-      "movie_rank": 1
-    },
-    {
       "title": "薛之谦深圳演唱会现场",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7754640,
+      "hot_value": 7734467,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA"
       },
       "raw_titles": [
         "薛之谦深圳演唱会现场"
+      ],
+      "rank": 3,
+      "movie_rank": 1
+    },
+    {
+      "title": "李荣浩乌鲁木齐演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7727662,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "李荣浩乌鲁木齐演唱会"
       ],
       "rank": 4,
       "movie_rank": 2
@@ -738,7 +738,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7674765,
+      "hot_value": 7702008,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -747,22 +747,6 @@
       ],
       "rank": 5,
       "movie_rank": 3
-    },
-    {
-      "title": "凡人修仙传黄龙山之战隐藏细节",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 432110,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E9%BB%84%E9%BE%99%E5%B1%B1%E4%B9%8B%E6%88%98%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82"
-      },
-      "raw_titles": [
-        "凡人修仙传黄龙山之战隐藏细节"
-      ],
-      "rank": 6,
-      "movie_rank": 4
     },
     {
       "title": "小沈阳投诉《披荆斩棘》导演组",
@@ -777,24 +761,24 @@
       "raw_titles": [
         "小沈阳投诉《披荆斩棘》导演组"
       ],
-      "rank": 7,
-      "movie_rank": 5
+      "rank": 6,
+      "movie_rank": 4
     },
     {
-      "title": "《披哥》部落排名",
+      "title": "凡人修仙传黄龙山之战隐藏细节",
       "category": "影视",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 207000,
+      "hot_value": 188895,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%8A%AB%E5%93%A5%E3%80%8B%E9%83%A8%E8%90%BD%E6%8E%92%E5%90%8D&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E9%BB%84%E9%BE%99%E5%B1%B1%E4%B9%8B%E6%88%98%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82"
       },
       "raw_titles": [
-        "《披哥》部落排名"
+        "凡人修仙传黄龙山之战隐藏细节"
       ],
       "rank": 11,
-      "movie_rank": 6
+      "movie_rank": 5
     },
     {
       "title": "万字解析钢铁侠3",
@@ -802,15 +786,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 145810,
+      "hot_value": 171178,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E9%92%A2%E9%93%81%E4%BE%A03"
       },
       "raw_titles": [
         "万字解析钢铁侠3"
       ],
-      "rank": 15,
-      "movie_rank": 7
+      "rank": 12,
+      "movie_rank": 6
     },
     {
       "title": "原神过场动画死亡已在身边",
@@ -818,15 +802,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 126436,
+      "hot_value": 144454,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E6%AD%BB%E4%BA%A1%E5%B7%B2%E5%9C%A8%E8%BA%AB%E8%BE%B9"
       },
       "raw_titles": [
         "原神过场动画死亡已在身边"
       ],
-      "rank": 16,
-      "movie_rank": 8
+      "rank": 15,
+      "movie_rank": 7
     },
     {
       "title": "鸣潮剧情动画仙尘",
@@ -834,47 +818,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 124569,
+      "hot_value": 126163,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%89%A7%E6%83%85%E5%8A%A8%E7%94%BB%E4%BB%99%E5%B0%98"
       },
       "raw_titles": [
         "鸣潮剧情动画仙尘"
       ],
-      "rank": 17,
-      "movie_rank": 9
-    },
-    {
-      "title": "沈腾范丞丞胡先煦的新乐事来了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 117478,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%83%A1%E5%85%88%E7%85%A6%E7%9A%84%E6%96%B0%E4%B9%90%E4%BA%8B%E6%9D%A5%E4%BA%86"
-      },
-      "raw_titles": [
-        "沈腾范丞丞胡先煦的新乐事来了"
-      ],
-      "rank": 18,
-      "movie_rank": 10
-    },
-    {
-      "title": "歌剧老师锐评披哥初舞台",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 111854,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E5%88%9D%E8%88%9E%E5%8F%B0"
-      },
-      "raw_titles": [
-        "歌剧老师锐评披哥初舞台"
-      ],
-      "rank": 19,
-      "movie_rank": 11
+      "rank": 16,
+      "movie_rank": 8
     },
     {
       "title": "王源一句话让几万人低头看手机",
@@ -882,15 +834,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 70066,
+      "hot_value": 118566,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E5%87%A0%E4%B8%87%E4%BA%BA%E4%BD%8E%E5%A4%B4%E7%9C%8B%E6%89%8B%E6%9C%BA"
       },
       "raw_titles": [
         "王源一句话让几万人低头看手机"
       ],
-      "rank": 23,
-      "movie_rank": 12
+      "rank": 17,
+      "movie_rank": 9
+    },
+    {
+      "title": "歌剧老师锐评披哥初舞台",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 98345,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E5%88%9D%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "歌剧老师锐评披哥初舞台"
+      ],
+      "rank": 22,
+      "movie_rank": 10
     },
     {
       "title": "那英演唱会 肖战",
@@ -898,15 +866,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 36753,
+      "hot_value": 71590,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%82%96%E6%88%98"
       },
       "raw_titles": [
         "那英演唱会 肖战"
       ],
-      "rank": 25,
-      "movie_rank": 13
+      "rank": 23,
+      "movie_rank": 11
+    },
+    {
+      "title": "肖战完全王子",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 56403,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%AE%8C%E5%85%A8%E7%8E%8B%E5%AD%90"
+      },
+      "raw_titles": [
+        "肖战完全王子"
+      ],
+      "rank": 24,
+      "movie_rank": 12
     },
     {
       "title": "王源淘了个相机捡大漏了",
@@ -914,14 +898,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 30918,
+      "hot_value": 55913,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%B7%98%E4%BA%86%E4%B8%AA%E7%9B%B8%E6%9C%BA%E6%8D%A1%E5%A4%A7%E6%BC%8F%E4%BA%86"
       },
       "raw_titles": [
         "王源淘了个相机捡大漏了"
       ],
-      "rank": 27,
+      "rank": 25,
+      "movie_rank": 13
+    },
+    {
+      "title": "华晨宇回应造型像壮壮妈",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 55879,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%9B%9E%E5%BA%94%E9%80%A0%E5%9E%8B%E5%83%8F%E5%A3%AE%E5%A3%AE%E5%A6%88"
+      },
+      "raw_titles": [
+        "华晨宇回应造型像壮壮妈"
+      ],
+      "rank": 26,
       "movie_rank": 14
     },
     {
@@ -930,7 +930,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 30781,
+      "hot_value": 55864,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E5%8F%AA%E8%AF%84%E8%AE%BA%E4%BA%86%E5%BA%94%E6%98%8A%E8%8C%97%E6%94%B6%E5%AE%98%E6%96%87"
       },
