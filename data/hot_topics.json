@@ -1,9 +1,25 @@
 {
-  "update_time": "2026-08-23 15:00:46",
-  "total": 26,
-  "sports_count": 11,
-  "movie_count": 16,
+  "update_time": "2026-08-23 16:00:46",
+  "total": 25,
+  "sports_count": 10,
+  "movie_count": 15,
   "all": [
+    {
+      "title": "TYL总决赛迎战JDG",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 11096929,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/TYL%E6%80%BB%E5%86%B3%E8%B5%9B%E8%BF%8E%E6%88%98JDG"
+      },
+      "raw_titles": [
+        "TYL总决赛迎战JDG"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "胡麟鹏宣布退役",
       "category": "体育",
@@ -11,7 +27,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 9591068,
+      "hot_value": 9362700,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%83%A1%E9%BA%9F%E9%B9%8F%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E8%83%A1%E9%BA%9F%E9%B9%8F%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9"
@@ -19,40 +35,24 @@
       "raw_titles": [
         "胡麟鹏宣布退役"
       ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "TYL总决赛迎战JDG",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9238308,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/TYL%E6%80%BB%E5%86%B3%E8%B5%9B%E8%BF%8E%E6%88%98JDG"
-      },
-      "raw_titles": [
-        "TYL总决赛迎战JDG"
-      ],
       "rank": 2,
       "sports_rank": 2
     },
     {
-      "title": "李荣浩乌鲁木齐演唱会",
-      "category": "影视",
+      "title": "英超赫尔城2:0曼联",
+      "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9185378,
+      "hot_value": 9250729,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A"
+        "抖音": "https://www.douyin.com/search/%E8%8B%B1%E8%B6%85%E8%B5%AB%E5%B0%94%E5%9F%8E2%3A0%E6%9B%BC%E8%81%94"
       },
       "raw_titles": [
-        "李荣浩乌鲁木齐演唱会"
+        "英超赫尔城2:0曼联"
       ],
       "rank": 3,
-      "movie_rank": 1
+      "sports_rank": 3
     },
     {
       "title": "刘德华空降古天乐演唱会",
@@ -60,7 +60,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9151765,
+      "hot_value": 9133888,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%88%98%E5%BE%B7%E5%8D%8E%E7%A9%BA%E9%99%8D%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -68,7 +68,7 @@
         "刘德华空降古天乐演唱会"
       ],
       "rank": 4,
-      "movie_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "樊振东德甲新赛季首秀告捷",
@@ -76,7 +76,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9105317,
+      "hot_value": 9084675,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E6%96%B0%E8%B5%9B%E5%AD%A3%E9%A6%96%E7%A7%80%E5%91%8A%E6%8D%B7"
       },
@@ -84,7 +84,23 @@
         "樊振东德甲新赛季首秀告捷"
       ],
       "rank": 5,
-      "sports_rank": 3
+      "sports_rank": 4
+    },
+    {
+      "title": "李荣浩乌鲁木齐演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8221453,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "李荣浩乌鲁木齐演唱会"
+      ],
+      "rank": 6,
+      "movie_rank": 2
     },
     {
       "title": "邓紫棋重庆演唱会",
@@ -92,14 +108,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9038047,
+      "hot_value": 8055035,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "邓紫棋重庆演唱会"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 3
     },
     {
@@ -108,31 +124,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8130431,
+      "hot_value": 7908207,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A5%E5%A4%A7%E8%A7%89%E5%B1%B1%E4%BD%93%E9%AA%8C%E7%9C%9F%E4%BA%BA%E7%89%88QQ%E9%A3%9E%E8%BD%A6"
       },
       "raw_titles": [
         "来大觉山体验真人版QQ飞车"
       ],
-      "rank": 7,
-      "movie_rank": 4
-    },
-    {
-      "title": "韩维辰模仿蜘蛛侠帅到我了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7744491,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%9F%A9%E7%BB%B4%E8%BE%B0%E6%A8%A1%E4%BB%BF%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B8%85%E5%88%B0%E6%88%91%E4%BA%86"
-      },
-      "raw_titles": [
-        "韩维辰模仿蜘蛛侠帅到我了"
-      ],
       "rank": 8,
-      "movie_rank": 5
+      "movie_rank": 4
     },
     {
       "title": "埃斯皮替补登场绝杀西班牙人",
@@ -140,7 +140,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7728738,
+      "hot_value": 7750006,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%9F%83%E6%96%AF%E7%9A%AE%E6%9B%BF%E8%A1%A5%E7%99%BB%E5%9C%BA%E7%BB%9D%E6%9D%80%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA"
       },
@@ -148,7 +148,23 @@
         "埃斯皮替补登场绝杀西班牙人"
       ],
       "rank": 9,
-      "sports_rank": 4
+      "sports_rank": 5
+    },
+    {
+      "title": "韩维辰模仿蜘蛛侠帅到我了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7703708,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%9F%A9%E7%BB%B4%E8%BE%B0%E6%A8%A1%E4%BB%BF%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B8%85%E5%88%B0%E6%88%91%E4%BA%86"
+      },
+      "raw_titles": [
+        "韩维辰模仿蜘蛛侠帅到我了"
+      ],
+      "rank": 10,
+      "movie_rank": 5
     },
     {
       "title": "锐评披哥一公舞台从夯到拉",
@@ -156,191 +172,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7691718,
+      "hot_value": 7698933,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89"
       },
       "raw_titles": [
         "锐评披哥一公舞台从夯到拉"
       ],
-      "rank": 10,
+      "rank": 11,
       "movie_rank": 6
     },
     {
-      "title": "沈腾范丞丞胡先煦的新乐事来了",
+      "title": "UP主爆笑解说披哥6一公舞台",
       "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 933461,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%83%A1%E5%85%88%E7%85%A6%E7%9A%84%E6%96%B0%E4%B9%90%E4%BA%8B%E6%9D%A5%E4%BA%86"
-      },
-      "raw_titles": [
-        "沈腾范丞丞胡先煦的新乐事来了"
-      ],
-      "rank": 11,
-      "movie_rank": 7
-    },
-    {
-      "title": "恐怖版PVZ新僵尸太阳人",
-      "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 610396,
+      "hot_value": 1223031,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%81%90%E6%80%96%E7%89%88PVZ%E6%96%B0%E5%83%B5%E5%B0%B8%E5%A4%AA%E9%98%B3%E4%BA%BA"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%88%86%E7%AC%91%E8%A7%A3%E8%AF%B4%E6%8A%AB%E5%93%A56%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
-        "恐怖版PVZ新僵尸太阳人"
+        "UP主爆笑解说披哥6一公舞台"
       ],
       "rank": 12,
-      "sports_rank": 5
-    },
-    {
-      "title": "原神剧情PV冰中余烬",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 561135,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E5%86%B0%E4%B8%AD%E4%BD%99%E7%83%AC"
-      },
-      "raw_titles": [
-        "原神剧情PV冰中余烬"
-      ],
-      "rank": 13,
-      "movie_rank": 8
-    },
-    {
-      "title": "火影师徒杯神秘连招",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 528865,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E5%B8%88%E5%BE%92%E6%9D%AF%E7%A5%9E%E7%A7%98%E8%BF%9E%E6%8B%9B"
-      },
-      "raw_titles": [
-        "火影师徒杯神秘连招"
-      ],
-      "rank": 14,
-      "movie_rank": 9
-    },
-    {
-      "title": "凡人修仙传黄龙山之战隐藏细节",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 430984,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E9%BB%84%E9%BE%99%E5%B1%B1%E4%B9%8B%E6%88%98%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82"
-      },
-      "raw_titles": [
-        "凡人修仙传黄龙山之战隐藏细节"
-      ],
-      "rank": 15,
-      "movie_rank": 10
-    },
-    {
-      "title": "李昊炎巴萨U15首秀梅开二度",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 424147,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%B7%B4%E8%90%A8U15%E9%A6%96%E7%A7%80%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6"
-      },
-      "raw_titles": [
-        "李昊炎巴萨U15首秀梅开二度"
-      ],
-      "rank": 16,
-      "sports_rank": 6
-    },
-    {
-      "title": "西班牙人1-2皇马",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 421564,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA1-2%E7%9A%87%E9%A9%AC"
-      },
-      "raw_titles": [
-        "西班牙人1-2皇马"
-      ],
-      "rank": 17,
-      "sports_rank": 7
-    },
-    {
-      "title": "维斯塔潘带病作战",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 383680,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E5%B8%A6%E7%97%85%E4%BD%9C%E6%88%98"
-      },
-      "raw_titles": [
-        "维斯塔潘带病作战"
-      ],
-      "rank": 18,
-      "sports_rank": 8
-    },
-    {
-      "title": "肖战很少穿大头皮鞋",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 330944,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%BE%88%E5%B0%91%E7%A9%BF%E5%A4%A7%E5%A4%B4%E7%9A%AE%E9%9E%8B"
-      },
-      "raw_titles": [
-        "肖战很少穿大头皮鞋"
-      ],
-      "rank": 19,
-      "movie_rank": 11
-    },
-    {
-      "title": "万字解析钢铁侠3",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 314270,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E9%92%A2%E9%93%81%E4%BE%A03"
-      },
-      "raw_titles": [
-        "万字解析钢铁侠3"
-      ],
-      "rank": 20,
-      "movie_rank": 12
-    },
-    {
-      "title": "拜仁2-1多特",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 311112,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8B%9C%E4%BB%812-1%E5%A4%9A%E7%89%B9"
-      },
-      "raw_titles": [
-        "拜仁2-1多特"
-      ],
-      "rank": 21,
-      "sports_rank": 9
+      "movie_rank": 7
     },
     {
       "title": "温婉售卖高仿巴黎世家T恤Prada背心",
@@ -348,91 +204,234 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 295312,
+      "hot_value": 784101,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B8%A9%E5%A9%89%E5%94%AE%E5%8D%96%E9%AB%98%E4%BB%BF%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6T%E6%81%A4Prada%E8%83%8C%E5%BF%83"
       },
       "raw_titles": [
         "温婉售卖高仿巴黎世家T恤Prada背心"
       ],
-      "rank": 22,
+      "rank": 13,
+      "sports_rank": 6
+    },
+    {
+      "title": "原神剧情PV冰中余烬",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 715848,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E5%86%B0%E4%B8%AD%E4%BD%99%E7%83%AC"
+      },
+      "raw_titles": [
+        "原神剧情PV冰中余烬"
+      ],
+      "rank": 14,
+      "movie_rank": 8
+    },
+    {
+      "title": "Spirit与FUT谁能夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 627455,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Spirit%E4%B8%8EFUT%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "Spirit与FUT谁能夺冠"
+      ],
+      "rank": 15,
+      "sports_rank": 7
+    },
+    {
+      "title": "恐怖版PVZ新僵尸太阳人",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 467353,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%81%90%E6%80%96%E7%89%88PVZ%E6%96%B0%E5%83%B5%E5%B0%B8%E5%A4%AA%E9%98%B3%E4%BA%BA"
+      },
+      "raw_titles": [
+        "恐怖版PVZ新僵尸太阳人"
+      ],
+      "rank": 16,
+      "sports_rank": 8
+    },
+    {
+      "title": "西班牙人1-2皇马",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 463245,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA1-2%E7%9A%87%E9%A9%AC"
+      },
+      "raw_titles": [
+        "西班牙人1-2皇马"
+      ],
+      "rank": 17,
+      "sports_rank": 9
+    },
+    {
+      "title": "凡人修仙传黄龙山之战隐藏细节",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 418310,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E9%BB%84%E9%BE%99%E5%B1%B1%E4%B9%8B%E6%88%98%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82"
+      },
+      "raw_titles": [
+        "凡人修仙传黄龙山之战隐藏细节"
+      ],
+      "rank": 18,
+      "movie_rank": 9
+    },
+    {
+      "title": "Team Spirit晋级总决赛",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 377142,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Team%20Spirit%E6%99%8B%E7%BA%A7%E6%80%BB%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "Team Spirit晋级总决赛"
+      ],
+      "rank": 19,
       "sports_rank": 10
     },
     {
-      "title": "肖战工作室回复那英工作室",
+      "title": "肖战很少穿大头皮鞋",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 199539,
+      "hot_value": 361877,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%A4%8D%E9%82%A3%E8%8B%B1%E5%B7%A5%E4%BD%9C%E5%AE%A4"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%BE%88%E5%B0%91%E7%A9%BF%E5%A4%A7%E5%A4%B4%E7%9A%AE%E9%9E%8B"
       },
       "raw_titles": [
-        "肖战工作室回复那英工作室"
+        "肖战很少穿大头皮鞋"
+      ],
+      "rank": 20,
+      "movie_rank": 10
+    },
+    {
+      "title": "刘卓看那英肖战合唱看哭了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 124704,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%8D%93%E7%9C%8B%E9%82%A3%E8%8B%B1%E8%82%96%E6%88%98%E5%90%88%E5%94%B1%E7%9C%8B%E5%93%AD%E4%BA%86"
+      },
+      "raw_titles": [
+        "刘卓看那英肖战合唱看哭了"
+      ],
+      "rank": 21,
+      "movie_rank": 11
+    },
+    {
+      "title": "我的前半生删去原著罗子君女儿",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 123440,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%E5%88%A0%E5%8E%BB%E5%8E%9F%E8%91%97%E7%BD%97%E5%AD%90%E5%90%9B%E5%A5%B3%E5%84%BF"
+      },
+      "raw_titles": [
+        "我的前半生删去原著罗子君女儿"
+      ],
+      "rank": 22,
+      "movie_rank": 12
+    },
+    {
+      "title": "李现章若楠看汪苏泷演唱会",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 108000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E7%8E%B0%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%9C%8B%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news"
+      },
+      "raw_titles": [
+        "李现章若楠看汪苏泷演唱会"
       ],
       "rank": 23,
       "movie_rank": 13
     },
     {
-      "title": "刘昊然提醒李兰迪调整裙子",
+      "title": "《欢迎来龙餐馆》票房破15亿",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 193789,
+      "hot_value": 54000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E6%8F%90%E9%86%92%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%B0%83%E6%95%B4%E8%A3%99%E5%AD%90"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B415%E4%BA%BF&sa=fyb_news"
       },
       "raw_titles": [
-        "刘昊然提醒李兰迪调整裙子"
+        "《欢迎来龙餐馆》票房破15亿"
       ],
       "rank": 24,
       "movie_rank": 14
     },
     {
-      "title": "程莉莎看郭晓东披哥心疼到睡不着",
+      "title": "多部国产电影海外持续热映",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 146594,
+      "hot_value": 45000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%A8%8B%E8%8E%89%E8%8E%8E%E7%9C%8B%E9%83%AD%E6%99%93%E4%B8%9C%E6%8A%AB%E5%93%A5%E5%BF%83%E7%96%BC%E5%88%B0%E7%9D%A1%E4%B8%8D%E7%9D%80"
+        "百度": "https://m.baidu.com/s?word=%E5%A4%9A%E9%83%A8%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%BD%B1%E6%B5%B7%E5%A4%96%E6%8C%81%E7%BB%AD%E7%83%AD%E6%98%A0&sa=fyb_news"
       },
       "raw_titles": [
-        "程莉莎看郭晓东披哥心疼到睡不着"
+        "多部国产电影海外持续热映"
       ],
       "rank": 25,
       "movie_rank": 15
-    },
-    {
-      "title": "樊振东比赛直播成暑期档黑马",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 120707,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AF%94%E8%B5%9B%E7%9B%B4%E6%92%AD%E6%88%90%E6%9A%91%E6%9C%9F%E6%A1%A3%E9%BB%91%E9%A9%AC"
-      },
-      "raw_titles": [
-        "樊振东比赛直播成暑期档黑马"
-      ],
-      "rank": 26,
-      "sports_rank": 11,
-      "movie_rank": 16
     }
   ],
   "sports": [
     {
+      "title": "TYL总决赛迎战JDG",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 11096929,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/TYL%E6%80%BB%E5%86%B3%E8%B5%9B%E8%BF%8E%E6%88%98JDG"
+      },
+      "raw_titles": [
+        "TYL总决赛迎战JDG"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
       "title": "胡麟鹏宣布退役",
       "category": "体育",
       "sources": [
         "百度",
         "抖音"
       ],
-      "hot_value": 9591068,
+      "hot_value": 9362700,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%83%A1%E9%BA%9F%E9%B9%8F%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E8%83%A1%E9%BA%9F%E9%B9%8F%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9"
@@ -440,24 +439,24 @@
       "raw_titles": [
         "胡麟鹏宣布退役"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
-      "title": "TYL总决赛迎战JDG",
+      "title": "英超赫尔城2:0曼联",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9238308,
+      "hot_value": 9250729,
       "urls": {
-        "抖音": "https://www.douyin.com/search/TYL%E6%80%BB%E5%86%B3%E8%B5%9B%E8%BF%8E%E6%88%98JDG"
+        "抖音": "https://www.douyin.com/search/%E8%8B%B1%E8%B6%85%E8%B5%AB%E5%B0%94%E5%9F%8E2%3A0%E6%9B%BC%E8%81%94"
       },
       "raw_titles": [
-        "TYL总决赛迎战JDG"
+        "英超赫尔城2:0曼联"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "樊振东德甲新赛季首秀告捷",
@@ -465,7 +464,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9105317,
+      "hot_value": 9084675,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E6%96%B0%E8%B5%9B%E5%AD%A3%E9%A6%96%E7%A7%80%E5%91%8A%E6%8D%B7"
       },
@@ -473,7 +472,7 @@
         "樊振东德甲新赛季首秀告捷"
       ],
       "rank": 5,
-      "sports_rank": 3
+      "sports_rank": 4
     },
     {
       "title": "埃斯皮替补登场绝杀西班牙人",
@@ -481,7 +480,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7728738,
+      "hot_value": 7750006,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%9F%83%E6%96%AF%E7%9A%AE%E6%9B%BF%E8%A1%A5%E7%99%BB%E5%9C%BA%E7%BB%9D%E6%9D%80%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA"
       },
@@ -489,87 +488,7 @@
         "埃斯皮替补登场绝杀西班牙人"
       ],
       "rank": 9,
-      "sports_rank": 4
-    },
-    {
-      "title": "恐怖版PVZ新僵尸太阳人",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 610396,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%81%90%E6%80%96%E7%89%88PVZ%E6%96%B0%E5%83%B5%E5%B0%B8%E5%A4%AA%E9%98%B3%E4%BA%BA"
-      },
-      "raw_titles": [
-        "恐怖版PVZ新僵尸太阳人"
-      ],
-      "rank": 12,
       "sports_rank": 5
-    },
-    {
-      "title": "李昊炎巴萨U15首秀梅开二度",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 424147,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%98%8A%E7%82%8E%E5%B7%B4%E8%90%A8U15%E9%A6%96%E7%A7%80%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6"
-      },
-      "raw_titles": [
-        "李昊炎巴萨U15首秀梅开二度"
-      ],
-      "rank": 16,
-      "sports_rank": 6
-    },
-    {
-      "title": "西班牙人1-2皇马",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 421564,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA1-2%E7%9A%87%E9%A9%AC"
-      },
-      "raw_titles": [
-        "西班牙人1-2皇马"
-      ],
-      "rank": 17,
-      "sports_rank": 7
-    },
-    {
-      "title": "维斯塔潘带病作战",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 383680,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E5%B8%A6%E7%97%85%E4%BD%9C%E6%88%98"
-      },
-      "raw_titles": [
-        "维斯塔潘带病作战"
-      ],
-      "rank": 18,
-      "sports_rank": 8
-    },
-    {
-      "title": "拜仁2-1多特",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 311112,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8B%9C%E4%BB%812-1%E5%A4%9A%E7%89%B9"
-      },
-      "raw_titles": [
-        "拜仁2-1多特"
-      ],
-      "rank": 21,
-      "sports_rank": 9
     },
     {
       "title": "温婉售卖高仿巴黎世家T恤Prada背心",
@@ -577,58 +496,89 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 295312,
+      "hot_value": 784101,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B8%A9%E5%A9%89%E5%94%AE%E5%8D%96%E9%AB%98%E4%BB%BF%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6T%E6%81%A4Prada%E8%83%8C%E5%BF%83"
       },
       "raw_titles": [
         "温婉售卖高仿巴黎世家T恤Prada背心"
       ],
-      "rank": 22,
-      "sports_rank": 10
+      "rank": 13,
+      "sports_rank": 6
     },
     {
-      "title": "樊振东比赛直播成暑期档黑马",
-      "category": "综合",
+      "title": "Spirit与FUT谁能夺冠",
+      "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 120707,
+      "hot_value": 627455,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AF%94%E8%B5%9B%E7%9B%B4%E6%92%AD%E6%88%90%E6%9A%91%E6%9C%9F%E6%A1%A3%E9%BB%91%E9%A9%AC"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Spirit%E4%B8%8EFUT%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "樊振东比赛直播成暑期档黑马"
+        "Spirit与FUT谁能夺冠"
       ],
-      "rank": 26,
-      "sports_rank": 11,
-      "movie_rank": 16
+      "rank": 15,
+      "sports_rank": 7
+    },
+    {
+      "title": "恐怖版PVZ新僵尸太阳人",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 467353,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%81%90%E6%80%96%E7%89%88PVZ%E6%96%B0%E5%83%B5%E5%B0%B8%E5%A4%AA%E9%98%B3%E4%BA%BA"
+      },
+      "raw_titles": [
+        "恐怖版PVZ新僵尸太阳人"
+      ],
+      "rank": 16,
+      "sports_rank": 8
+    },
+    {
+      "title": "西班牙人1-2皇马",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 463245,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA1-2%E7%9A%87%E9%A9%AC"
+      },
+      "raw_titles": [
+        "西班牙人1-2皇马"
+      ],
+      "rank": 17,
+      "sports_rank": 9
+    },
+    {
+      "title": "Team Spirit晋级总决赛",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 377142,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Team%20Spirit%E6%99%8B%E7%BA%A7%E6%80%BB%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "Team Spirit晋级总决赛"
+      ],
+      "rank": 19,
+      "sports_rank": 10
     }
   ],
   "movies": [
-    {
-      "title": "李荣浩乌鲁木齐演唱会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9185378,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "李荣浩乌鲁木齐演唱会"
-      ],
-      "rank": 3,
-      "movie_rank": 1
-    },
     {
       "title": "刘德华空降古天乐演唱会",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9151765,
+      "hot_value": 9133888,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%88%98%E5%BE%B7%E5%8D%8E%E7%A9%BA%E9%99%8D%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -636,6 +586,22 @@
         "刘德华空降古天乐演唱会"
       ],
       "rank": 4,
+      "movie_rank": 1
+    },
+    {
+      "title": "李荣浩乌鲁木齐演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8221453,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "李荣浩乌鲁木齐演唱会"
+      ],
+      "rank": 6,
       "movie_rank": 2
     },
     {
@@ -644,14 +610,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9038047,
+      "hot_value": 8055035,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "邓紫棋重庆演唱会"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 3
     },
     {
@@ -660,14 +626,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8130431,
+      "hot_value": 7908207,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A5%E5%A4%A7%E8%A7%89%E5%B1%B1%E4%BD%93%E9%AA%8C%E7%9C%9F%E4%BA%BA%E7%89%88QQ%E9%A3%9E%E8%BD%A6"
       },
       "raw_titles": [
         "来大觉山体验真人版QQ飞车"
       ],
-      "rank": 7,
+      "rank": 8,
       "movie_rank": 4
     },
     {
@@ -676,14 +642,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7744491,
+      "hot_value": 7703708,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%9F%A9%E7%BB%B4%E8%BE%B0%E6%A8%A1%E4%BB%BF%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%B8%85%E5%88%B0%E6%88%91%E4%BA%86"
       },
       "raw_titles": [
         "韩维辰模仿蜘蛛侠帅到我了"
       ],
-      "rank": 8,
+      "rank": 10,
       "movie_rank": 5
     },
     {
@@ -692,30 +658,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7691718,
+      "hot_value": 7698933,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89"
       },
       "raw_titles": [
         "锐评披哥一公舞台从夯到拉"
       ],
-      "rank": 10,
+      "rank": 11,
       "movie_rank": 6
     },
     {
-      "title": "沈腾范丞丞胡先煦的新乐事来了",
+      "title": "UP主爆笑解说披哥6一公舞台",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 933461,
+      "hot_value": 1223031,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%83%A1%E5%85%88%E7%85%A6%E7%9A%84%E6%96%B0%E4%B9%90%E4%BA%8B%E6%9D%A5%E4%BA%86"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%88%86%E7%AC%91%E8%A7%A3%E8%AF%B4%E6%8A%AB%E5%93%A56%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
-        "沈腾范丞丞胡先煦的新乐事来了"
+        "UP主爆笑解说披哥6一公舞台"
       ],
-      "rank": 11,
+      "rank": 12,
       "movie_rank": 7
     },
     {
@@ -724,31 +690,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 561135,
+      "hot_value": 715848,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E5%86%B0%E4%B8%AD%E4%BD%99%E7%83%AC"
       },
       "raw_titles": [
         "原神剧情PV冰中余烬"
       ],
-      "rank": 13,
-      "movie_rank": 8
-    },
-    {
-      "title": "火影师徒杯神秘连招",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 528865,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E5%B8%88%E5%BE%92%E6%9D%AF%E7%A5%9E%E7%A7%98%E8%BF%9E%E6%8B%9B"
-      },
-      "raw_titles": [
-        "火影师徒杯神秘连招"
-      ],
       "rank": 14,
-      "movie_rank": 9
+      "movie_rank": 8
     },
     {
       "title": "凡人修仙传黄龙山之战隐藏细节",
@@ -756,15 +706,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 430984,
+      "hot_value": 418310,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E9%BB%84%E9%BE%99%E5%B1%B1%E4%B9%8B%E6%88%98%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82"
       },
       "raw_titles": [
         "凡人修仙传黄龙山之战隐藏细节"
       ],
-      "rank": 15,
-      "movie_rank": 10
+      "rank": 18,
+      "movie_rank": 9
     },
     {
       "title": "肖战很少穿大头皮鞋",
@@ -772,96 +722,95 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 330944,
+      "hot_value": 361877,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%BE%88%E5%B0%91%E7%A9%BF%E5%A4%A7%E5%A4%B4%E7%9A%AE%E9%9E%8B"
       },
       "raw_titles": [
         "肖战很少穿大头皮鞋"
       ],
-      "rank": 19,
-      "movie_rank": 11
-    },
-    {
-      "title": "万字解析钢铁侠3",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 314270,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E9%92%A2%E9%93%81%E4%BE%A03"
-      },
-      "raw_titles": [
-        "万字解析钢铁侠3"
-      ],
       "rank": 20,
-      "movie_rank": 12
+      "movie_rank": 10
     },
     {
-      "title": "肖战工作室回复那英工作室",
+      "title": "刘卓看那英肖战合唱看哭了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 199539,
+      "hot_value": 124704,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%A4%8D%E9%82%A3%E8%8B%B1%E5%B7%A5%E4%BD%9C%E5%AE%A4"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%8D%93%E7%9C%8B%E9%82%A3%E8%8B%B1%E8%82%96%E6%88%98%E5%90%88%E5%94%B1%E7%9C%8B%E5%93%AD%E4%BA%86"
       },
       "raw_titles": [
-        "肖战工作室回复那英工作室"
+        "刘卓看那英肖战合唱看哭了"
+      ],
+      "rank": 21,
+      "movie_rank": 11
+    },
+    {
+      "title": "我的前半生删去原著罗子君女儿",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 123440,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%E5%88%A0%E5%8E%BB%E5%8E%9F%E8%91%97%E7%BD%97%E5%AD%90%E5%90%9B%E5%A5%B3%E5%84%BF"
+      },
+      "raw_titles": [
+        "我的前半生删去原著罗子君女儿"
+      ],
+      "rank": 22,
+      "movie_rank": 12
+    },
+    {
+      "title": "李现章若楠看汪苏泷演唱会",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 108000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E7%8E%B0%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%9C%8B%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news"
+      },
+      "raw_titles": [
+        "李现章若楠看汪苏泷演唱会"
       ],
       "rank": 23,
       "movie_rank": 13
     },
     {
-      "title": "刘昊然提醒李兰迪调整裙子",
+      "title": "《欢迎来龙餐馆》票房破15亿",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 193789,
+      "hot_value": 54000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E6%8F%90%E9%86%92%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%B0%83%E6%95%B4%E8%A3%99%E5%AD%90"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B415%E4%BA%BF&sa=fyb_news"
       },
       "raw_titles": [
-        "刘昊然提醒李兰迪调整裙子"
+        "《欢迎来龙餐馆》票房破15亿"
       ],
       "rank": 24,
       "movie_rank": 14
     },
     {
-      "title": "程莉莎看郭晓东披哥心疼到睡不着",
+      "title": "多部国产电影海外持续热映",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 146594,
+      "hot_value": 45000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%A8%8B%E8%8E%89%E8%8E%8E%E7%9C%8B%E9%83%AD%E6%99%93%E4%B8%9C%E6%8A%AB%E5%93%A5%E5%BF%83%E7%96%BC%E5%88%B0%E7%9D%A1%E4%B8%8D%E7%9D%80"
+        "百度": "https://m.baidu.com/s?word=%E5%A4%9A%E9%83%A8%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%BD%B1%E6%B5%B7%E5%A4%96%E6%8C%81%E7%BB%AD%E7%83%AD%E6%98%A0&sa=fyb_news"
       },
       "raw_titles": [
-        "程莉莎看郭晓东披哥心疼到睡不着"
+        "多部国产电影海外持续热映"
       ],
       "rank": 25,
       "movie_rank": 15
-    },
-    {
-      "title": "樊振东比赛直播成暑期档黑马",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 120707,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AF%94%E8%B5%9B%E7%9B%B4%E6%92%AD%E6%88%90%E6%9A%91%E6%9C%9F%E6%A1%A3%E9%BB%91%E9%A9%AC"
-      },
-      "raw_titles": [
-        "樊振东比赛直播成暑期档黑马"
-      ],
-      "rank": 26,
-      "sports_rank": 11,
-      "movie_rank": 16
     }
   ]
 }
