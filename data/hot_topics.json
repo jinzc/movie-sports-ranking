@@ -1,40 +1,40 @@
 {
-  "update_time": "2026-08-28 15:00:51",
-  "total": 26,
-  "sports_count": 9,
-  "movie_count": 18,
+  "update_time": "2026-08-28 16:01:03",
+  "total": 20,
+  "sports_count": 6,
+  "movie_count": 15,
   "all": [
-    {
-      "title": "欧冠抽签结果出炉",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8599336,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89"
-      },
-      "raw_titles": [
-        "欧冠抽签结果出炉"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "学功夫练武术舞蹈挑战",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7706215,
+      "hot_value": 7726679,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AD%A6%E5%8A%9F%E5%A4%AB%E7%BB%83%E6%AD%A6%E6%9C%AF%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98"
       },
       "raw_titles": [
         "学功夫练武术舞蹈挑战"
       ],
-      "rank": 2,
+      "rank": 1,
       "movie_rank": 1
+    },
+    {
+      "title": "晚安姐姐综艺预告片来袭",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7724649,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%99%9A%E5%AE%89%E5%A7%90%E5%A7%90%E7%BB%BC%E8%89%BA%E9%A2%84%E5%91%8A%E7%89%87%E6%9D%A5%E8%A2%AD"
+      },
+      "raw_titles": [
+        "晚安姐姐综艺预告片来袭"
+      ],
+      "rank": 2,
+      "movie_rank": 2
     },
     {
       "title": "王者万象棋定档9月10日",
@@ -42,7 +42,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671608,
+      "hot_value": 7708322,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%8810%E6%97%A5"
       },
@@ -50,8 +50,8 @@
         "王者万象棋定档9月10日"
       ],
       "rank": 3,
-      "sports_rank": 2,
-      "movie_rank": 2
+      "sports_rank": 1,
+      "movie_rank": 3
     },
     {
       "title": "和平精英地铁逃生动画",
@@ -59,7 +59,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7646929,
+      "hot_value": 7652472,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%9C%B0%E9%93%81%E9%80%83%E7%94%9F%E5%8A%A8%E7%94%BB"
       },
@@ -67,22 +67,6 @@
         "和平精英地铁逃生动画"
       ],
       "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "第一堂审美课是国产动画教的",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7645126,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E5%A0%82%E5%AE%A1%E7%BE%8E%E8%AF%BE%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E6%95%99%E7%9A%84"
-      },
-      "raw_titles": [
-        "第一堂审美课是国产动画教的"
-      ],
-      "rank": 5,
       "movie_rank": 4
     },
     {
@@ -91,15 +75,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7629938,
+      "hot_value": 7651402,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%96%8A%E4%BD%A0%E6%9D%A5%E6%8A%95%E7%A5%A8"
       },
       "raw_titles": [
         "周杰伦喊你来投票"
       ],
-      "rank": 6,
+      "rank": 5,
       "movie_rank": 5
+    },
+    {
+      "title": "第一堂审美课是国产动画教的",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7648808,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E5%A0%82%E5%AE%A1%E7%BE%8E%E8%AF%BE%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E6%95%99%E7%9A%84"
+      },
+      "raw_titles": [
+        "第一堂审美课是国产动画教的"
+      ],
+      "rank": 6,
+      "movie_rank": 6
     },
     {
       "title": "雷霆姐妹花随机旅行之潮汕",
@@ -107,7 +107,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 911555,
+      "hot_value": 854160,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E9%9C%86%E5%A7%90%E5%A6%B9%E8%8A%B1%E9%9A%8F%E6%9C%BA%E6%97%85%E8%A1%8C%E4%B9%8B%E6%BD%AE%E6%B1%95"
       },
@@ -115,7 +115,7 @@
         "雷霆姐妹花随机旅行之潮汕"
       ],
       "rank": 7,
-      "sports_rank": 3
+      "sports_rank": 2
     },
     {
       "title": "我们的少年时代2剧集盘点",
@@ -123,7 +123,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 728015,
+      "hot_value": 665853,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E5%89%A7%E9%9B%86%E7%9B%98%E7%82%B9"
       },
@@ -131,54 +131,38 @@
         "我们的少年时代2剧集盘点"
       ],
       "rank": 8,
-      "movie_rank": 6
-    },
-    {
-      "title": "王俊凯蜂花品牌代言人",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 635698,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%9C%82%E8%8A%B1%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA"
-      },
-      "raw_titles": [
-        "王俊凯蜂花品牌代言人"
-      ],
-      "rank": 9,
       "movie_rank": 7
     },
     {
-      "title": "盘点披哥抓马名场面",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 629470,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E6%8A%AB%E5%93%A5%E6%8A%93%E9%A9%AC%E5%90%8D%E5%9C%BA%E9%9D%A2"
-      },
-      "raw_titles": [
-        "盘点披哥抓马名场面"
-      ],
-      "rank": 10,
-      "movie_rank": 8
-    },
-    {
-      "title": "罗马诺称阿森纳愿意1.5亿签下小蜘蛛",
+      "title": "欧冠抽签结束谁是大热门",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 579497,
+      "hot_value": 664015,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BD%97%E9%A9%AC%E8%AF%BA%E7%A7%B0%E9%98%BF%E6%A3%AE%E7%BA%B3%E6%84%BF%E6%84%8F1.5%E4%BA%BF%E7%AD%BE%E4%B8%8B%E5%B0%8F%E8%9C%98%E8%9B%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9D%9F%E8%B0%81%E6%98%AF%E5%A4%A7%E7%83%AD%E9%97%A8"
       },
       "raw_titles": [
-        "罗马诺称阿森纳愿意1.5亿签下小蜘蛛"
+        "欧冠抽签结束谁是大热门"
       ],
-      "rank": 11,
+      "rank": 9,
+      "sports_rank": 3
+    },
+    {
+      "title": "王者英雄在万象棋还能这样C",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 663384,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8B%B1%E9%9B%84%E5%9C%A8%E4%B8%87%E8%B1%A1%E6%A3%8B%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7C"
+      },
+      "raw_titles": [
+        "王者英雄在万象棋还能这样C"
+      ],
+      "rank": 10,
       "sports_rank": 4
     },
     {
@@ -187,31 +171,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 559260,
+      "hot_value": 566908,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E4%B8%AA%E4%BA%BA%E5%96%9C%E7%88%B1%E5%BA%A6%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
         "披哥一公个人喜爱度排名"
       ],
-      "rank": 12,
-      "movie_rank": 9
-    },
-    {
-      "title": "欧冠抽签结束谁是大热门",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 539830,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9D%9F%E8%B0%81%E6%98%AF%E5%A4%A7%E7%83%AD%E9%97%A8"
-      },
-      "raw_titles": [
-        "欧冠抽签结束谁是大热门"
-      ],
-      "rank": 13,
-      "sports_rank": 5
+      "rank": 11,
+      "movie_rank": 8
     },
     {
       "title": "古恩会下岗离开DCU吗",
@@ -219,47 +187,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 527085,
+      "hot_value": 531712,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8F%A4%E6%81%A9%E4%BC%9A%E4%B8%8B%E5%B2%97%E7%A6%BB%E5%BC%80DCU%E5%90%97"
       },
       "raw_titles": [
         "古恩会下岗离开DCU吗"
       ],
-      "rank": 14,
-      "movie_rank": 10
+      "rank": 12,
+      "movie_rank": 9
     },
     {
-      "title": "歌剧老师锐评披哥一公",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 480750,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC"
-      },
-      "raw_titles": [
-        "歌剧老师锐评披哥一公"
-      ],
-      "rank": 15,
-      "movie_rank": 11
-    },
-    {
-      "title": "王俊凯的修护力肽肽肽顶了",
+      "title": "惠英红的口碑",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 456406,
+      "hot_value": 519643,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%9A%84%E4%BF%AE%E6%8A%A4%E5%8A%9B%E8%82%BD%E8%82%BD%E8%82%BD%E9%A1%B6%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E7%9A%84%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
-        "王俊凯的修护力肽肽肽顶了"
+        "惠英红的口碑"
       ],
-      "rank": 16,
-      "movie_rank": 12
+      "rank": 13,
+      "movie_rank": 10
     },
     {
       "title": "张凌赫 惠英红数到三我们影院见",
@@ -267,15 +219,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 447855,
+      "hot_value": 515470,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%95%B0%E5%88%B0%E4%B8%89%E6%88%91%E4%BB%AC%E5%BD%B1%E9%99%A2%E8%A7%81"
       },
       "raw_titles": [
         "张凌赫 惠英红数到三我们影院见"
       ],
-      "rank": 17,
-      "movie_rank": 13
+      "rank": 14,
+      "movie_rank": 11
+    },
+    {
+      "title": "王俊凯疑似在中餐厅低血糖",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 506563,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%96%91%E4%BC%BC%E5%9C%A8%E4%B8%AD%E9%A4%90%E5%8E%85%E4%BD%8E%E8%A1%80%E7%B3%96"
+      },
+      "raw_titles": [
+        "王俊凯疑似在中餐厅低血糖"
+      ],
+      "rank": 15,
+      "movie_rank": 12
     },
     {
       "title": "王俊凯手抖到快夹不住饭了",
@@ -283,15 +251,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 443078,
+      "hot_value": 480395,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%89%8B%E6%8A%96%E5%88%B0%E5%BF%AB%E5%A4%B9%E4%B8%8D%E4%BD%8F%E9%A5%AD%E4%BA%86"
       },
       "raw_titles": [
         "王俊凯手抖到快夹不住饭了"
       ],
-      "rank": 18,
-      "movie_rank": 14
+      "rank": 16,
+      "movie_rank": 13
     },
     {
       "title": "朱一龙雕塑感神颜",
@@ -299,47 +267,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 432292,
+      "hot_value": 437322,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%9B%95%E5%A1%91%E6%84%9F%E7%A5%9E%E9%A2%9C"
       },
       "raw_titles": [
         "朱一龙雕塑感神颜"
       ],
-      "rank": 19,
-      "movie_rank": 15
-    },
-    {
-      "title": "微博签约首位电竞选手",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 428496,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%AD%BE%E7%BA%A6%E9%A6%96%E4%BD%8D%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B"
-      },
-      "raw_titles": [
-        "微博签约首位电竞选手"
-      ],
-      "rank": 20,
-      "sports_rank": 6
-    },
-    {
-      "title": "樊振东进4强需击败所有对手",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 422275,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BF%9B4%E5%BC%BA%E9%9C%80%E5%87%BB%E8%B4%A5%E6%89%80%E6%9C%89%E5%AF%B9%E6%89%8B"
-      },
-      "raw_titles": [
-        "樊振东进4强需击败所有对手"
-      ],
-      "rank": 21,
-      "sports_rank": 7
+      "rank": 17,
+      "movie_rank": 14
     },
     {
       "title": "挪威国王去世",
@@ -354,8 +290,8 @@
       "raw_titles": [
         "挪威国王去世"
       ],
-      "rank": 22,
-      "sports_rank": 8
+      "rank": 18,
+      "sports_rank": 5
     },
     {
       "title": "奥斯卡评委推荐《给阿嬷的情书》",
@@ -363,31 +299,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 108000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%A5%A5%E6%96%AF%E5%8D%A1%E8%AF%84%E5%A7%94%E6%8E%A8%E8%8D%90%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B&sa=fyb_news"
       },
       "raw_titles": [
         "奥斯卡评委推荐《给阿嬷的情书》"
       ],
-      "rank": 23,
-      "movie_rank": 16
-    },
-    {
-      "title": "《肖申克的救赎》今日上映",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 126000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《肖申克的救赎》今日上映"
-      ],
-      "rank": 24,
-      "movie_rank": 17
+      "rank": 19,
+      "movie_rank": 15
     },
     {
       "title": "中国足协官宣：国足约战世界杯球队",
@@ -395,57 +315,25 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 63000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%9B%BD%E8%B6%B3%E7%BA%A6%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%E7%90%83%E9%98%9F&sa=fyb_news"
       },
       "raw_titles": [
         "中国足协官宣：国足约战世界杯球队"
       ],
-      "rank": 25,
-      "sports_rank": 9
-    },
-    {
-      "title": "惠英红新片《数到三》上映",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 45000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%96%B0%E7%89%87%E3%80%8A%E6%95%B0%E5%88%B0%E4%B8%89%E3%80%8B%E4%B8%8A%E6%98%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "惠英红新片《数到三》上映"
-      ],
-      "rank": 26,
-      "movie_rank": 18
+      "rank": 20,
+      "sports_rank": 6
     }
   ],
   "sports": [
-    {
-      "title": "欧冠抽签结果出炉",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8599336,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89"
-      },
-      "raw_titles": [
-        "欧冠抽签结果出炉"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "王者万象棋定档9月10日",
       "category": "综合",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671608,
+      "hot_value": 7708322,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%8810%E6%97%A5"
       },
@@ -453,8 +341,8 @@
         "王者万象棋定档9月10日"
       ],
       "rank": 3,
-      "sports_rank": 2,
-      "movie_rank": 2
+      "sports_rank": 1,
+      "movie_rank": 3
     },
     {
       "title": "雷霆姐妹花随机旅行之潮汕",
@@ -462,7 +350,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 911555,
+      "hot_value": 854160,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E9%9C%86%E5%A7%90%E5%A6%B9%E8%8A%B1%E9%9A%8F%E6%9C%BA%E6%97%85%E8%A1%8C%E4%B9%8B%E6%BD%AE%E6%B1%95"
       },
@@ -470,23 +358,7 @@
         "雷霆姐妹花随机旅行之潮汕"
       ],
       "rank": 7,
-      "sports_rank": 3
-    },
-    {
-      "title": "罗马诺称阿森纳愿意1.5亿签下小蜘蛛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 579497,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BD%97%E9%A9%AC%E8%AF%BA%E7%A7%B0%E9%98%BF%E6%A3%AE%E7%BA%B3%E6%84%BF%E6%84%8F1.5%E4%BA%BF%E7%AD%BE%E4%B8%8B%E5%B0%8F%E8%9C%98%E8%9B%9B"
-      },
-      "raw_titles": [
-        "罗马诺称阿森纳愿意1.5亿签下小蜘蛛"
-      ],
-      "rank": 11,
-      "sports_rank": 4
+      "sports_rank": 2
     },
     {
       "title": "欧冠抽签结束谁是大热门",
@@ -494,47 +366,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 539830,
+      "hot_value": 664015,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9D%9F%E8%B0%81%E6%98%AF%E5%A4%A7%E7%83%AD%E9%97%A8"
       },
       "raw_titles": [
         "欧冠抽签结束谁是大热门"
       ],
-      "rank": 13,
-      "sports_rank": 5
+      "rank": 9,
+      "sports_rank": 3
     },
     {
-      "title": "微博签约首位电竞选手",
+      "title": "王者英雄在万象棋还能这样C",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 428496,
+      "hot_value": 663384,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%AD%BE%E7%BA%A6%E9%A6%96%E4%BD%8D%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8B%B1%E9%9B%84%E5%9C%A8%E4%B8%87%E8%B1%A1%E6%A3%8B%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7C"
       },
       "raw_titles": [
-        "微博签约首位电竞选手"
+        "王者英雄在万象棋还能这样C"
       ],
-      "rank": 20,
-      "sports_rank": 6
-    },
-    {
-      "title": "樊振东进4强需击败所有对手",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 422275,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BF%9B4%E5%BC%BA%E9%9C%80%E5%87%BB%E8%B4%A5%E6%89%80%E6%9C%89%E5%AF%B9%E6%89%8B"
-      },
-      "raw_titles": [
-        "樊振东进4强需击败所有对手"
-      ],
-      "rank": 21,
-      "sports_rank": 7
+      "rank": 10,
+      "sports_rank": 4
     },
     {
       "title": "挪威国王去世",
@@ -549,8 +405,8 @@
       "raw_titles": [
         "挪威国王去世"
       ],
-      "rank": 22,
-      "sports_rank": 8
+      "rank": 18,
+      "sports_rank": 5
     },
     {
       "title": "中国足协官宣：国足约战世界杯球队",
@@ -558,15 +414,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 63000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%9B%BD%E8%B6%B3%E7%BA%A6%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%E7%90%83%E9%98%9F&sa=fyb_news"
       },
       "raw_titles": [
         "中国足协官宣：国足约战世界杯球队"
       ],
-      "rank": 25,
-      "sports_rank": 9
+      "rank": 20,
+      "sports_rank": 6
     }
   ],
   "movies": [
@@ -576,15 +432,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7706215,
+      "hot_value": 7726679,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AD%A6%E5%8A%9F%E5%A4%AB%E7%BB%83%E6%AD%A6%E6%9C%AF%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98"
       },
       "raw_titles": [
         "学功夫练武术舞蹈挑战"
       ],
-      "rank": 2,
+      "rank": 1,
       "movie_rank": 1
+    },
+    {
+      "title": "晚安姐姐综艺预告片来袭",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7724649,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%99%9A%E5%AE%89%E5%A7%90%E5%A7%90%E7%BB%BC%E8%89%BA%E9%A2%84%E5%91%8A%E7%89%87%E6%9D%A5%E8%A2%AD"
+      },
+      "raw_titles": [
+        "晚安姐姐综艺预告片来袭"
+      ],
+      "rank": 2,
+      "movie_rank": 2
     },
     {
       "title": "王者万象棋定档9月10日",
@@ -592,7 +464,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671608,
+      "hot_value": 7708322,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%8810%E6%97%A5"
       },
@@ -600,8 +472,8 @@
         "王者万象棋定档9月10日"
       ],
       "rank": 3,
-      "sports_rank": 2,
-      "movie_rank": 2
+      "sports_rank": 1,
+      "movie_rank": 3
     },
     {
       "title": "和平精英地铁逃生动画",
@@ -609,7 +481,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7646929,
+      "hot_value": 7652472,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%9C%B0%E9%93%81%E9%80%83%E7%94%9F%E5%8A%A8%E7%94%BB"
       },
@@ -617,22 +489,6 @@
         "和平精英地铁逃生动画"
       ],
       "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "第一堂审美课是国产动画教的",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7645126,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E5%A0%82%E5%AE%A1%E7%BE%8E%E8%AF%BE%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E6%95%99%E7%9A%84"
-      },
-      "raw_titles": [
-        "第一堂审美课是国产动画教的"
-      ],
-      "rank": 5,
       "movie_rank": 4
     },
     {
@@ -641,15 +497,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7629938,
+      "hot_value": 7651402,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%96%8A%E4%BD%A0%E6%9D%A5%E6%8A%95%E7%A5%A8"
       },
       "raw_titles": [
         "周杰伦喊你来投票"
       ],
-      "rank": 6,
+      "rank": 5,
       "movie_rank": 5
+    },
+    {
+      "title": "第一堂审美课是国产动画教的",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7648808,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E5%A0%82%E5%AE%A1%E7%BE%8E%E8%AF%BE%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E6%95%99%E7%9A%84"
+      },
+      "raw_titles": [
+        "第一堂审美课是国产动画教的"
+      ],
+      "rank": 6,
+      "movie_rank": 6
     },
     {
       "title": "我们的少年时代2剧集盘点",
@@ -657,7 +529,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 728015,
+      "hot_value": 665853,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E5%89%A7%E9%9B%86%E7%9B%98%E7%82%B9"
       },
@@ -665,39 +537,7 @@
         "我们的少年时代2剧集盘点"
       ],
       "rank": 8,
-      "movie_rank": 6
-    },
-    {
-      "title": "王俊凯蜂花品牌代言人",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 635698,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%9C%82%E8%8A%B1%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA"
-      },
-      "raw_titles": [
-        "王俊凯蜂花品牌代言人"
-      ],
-      "rank": 9,
       "movie_rank": 7
-    },
-    {
-      "title": "盘点披哥抓马名场面",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 629470,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E6%8A%AB%E5%93%A5%E6%8A%93%E9%A9%AC%E5%90%8D%E5%9C%BA%E9%9D%A2"
-      },
-      "raw_titles": [
-        "盘点披哥抓马名场面"
-      ],
-      "rank": 10,
-      "movie_rank": 8
     },
     {
       "title": "披哥一公个人喜爱度排名",
@@ -705,15 +545,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 559260,
+      "hot_value": 566908,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E4%B8%AA%E4%BA%BA%E5%96%9C%E7%88%B1%E5%BA%A6%E6%8E%92%E5%90%8D"
       },
       "raw_titles": [
         "披哥一公个人喜爱度排名"
       ],
-      "rank": 12,
-      "movie_rank": 9
+      "rank": 11,
+      "movie_rank": 8
     },
     {
       "title": "古恩会下岗离开DCU吗",
@@ -721,47 +561,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 527085,
+      "hot_value": 531712,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8F%A4%E6%81%A9%E4%BC%9A%E4%B8%8B%E5%B2%97%E7%A6%BB%E5%BC%80DCU%E5%90%97"
       },
       "raw_titles": [
         "古恩会下岗离开DCU吗"
       ],
-      "rank": 14,
-      "movie_rank": 10
+      "rank": 12,
+      "movie_rank": 9
     },
     {
-      "title": "歌剧老师锐评披哥一公",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 480750,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC"
-      },
-      "raw_titles": [
-        "歌剧老师锐评披哥一公"
-      ],
-      "rank": 15,
-      "movie_rank": 11
-    },
-    {
-      "title": "王俊凯的修护力肽肽肽顶了",
+      "title": "惠英红的口碑",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 456406,
+      "hot_value": 519643,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%9A%84%E4%BF%AE%E6%8A%A4%E5%8A%9B%E8%82%BD%E8%82%BD%E8%82%BD%E9%A1%B6%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E7%9A%84%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
-        "王俊凯的修护力肽肽肽顶了"
+        "惠英红的口碑"
       ],
-      "rank": 16,
-      "movie_rank": 12
+      "rank": 13,
+      "movie_rank": 10
     },
     {
       "title": "张凌赫 惠英红数到三我们影院见",
@@ -769,15 +593,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 447855,
+      "hot_value": 515470,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%95%B0%E5%88%B0%E4%B8%89%E6%88%91%E4%BB%AC%E5%BD%B1%E9%99%A2%E8%A7%81"
       },
       "raw_titles": [
         "张凌赫 惠英红数到三我们影院见"
       ],
-      "rank": 17,
-      "movie_rank": 13
+      "rank": 14,
+      "movie_rank": 11
+    },
+    {
+      "title": "王俊凯疑似在中餐厅低血糖",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 506563,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%96%91%E4%BC%BC%E5%9C%A8%E4%B8%AD%E9%A4%90%E5%8E%85%E4%BD%8E%E8%A1%80%E7%B3%96"
+      },
+      "raw_titles": [
+        "王俊凯疑似在中餐厅低血糖"
+      ],
+      "rank": 15,
+      "movie_rank": 12
     },
     {
       "title": "王俊凯手抖到快夹不住饭了",
@@ -785,15 +625,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 443078,
+      "hot_value": 480395,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%89%8B%E6%8A%96%E5%88%B0%E5%BF%AB%E5%A4%B9%E4%B8%8D%E4%BD%8F%E9%A5%AD%E4%BA%86"
       },
       "raw_titles": [
         "王俊凯手抖到快夹不住饭了"
       ],
-      "rank": 18,
-      "movie_rank": 14
+      "rank": 16,
+      "movie_rank": 13
     },
     {
       "title": "朱一龙雕塑感神颜",
@@ -801,15 +641,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 432292,
+      "hot_value": 437322,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%9B%95%E5%A1%91%E6%84%9F%E7%A5%9E%E9%A2%9C"
       },
       "raw_titles": [
         "朱一龙雕塑感神颜"
       ],
-      "rank": 19,
-      "movie_rank": 15
+      "rank": 17,
+      "movie_rank": 14
     },
     {
       "title": "奥斯卡评委推荐《给阿嬷的情书》",
@@ -817,47 +657,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 108000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%A5%A5%E6%96%AF%E5%8D%A1%E8%AF%84%E5%A7%94%E6%8E%A8%E8%8D%90%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B&sa=fyb_news"
       },
       "raw_titles": [
         "奥斯卡评委推荐《给阿嬷的情书》"
       ],
-      "rank": 23,
-      "movie_rank": 16
-    },
-    {
-      "title": "《肖申克的救赎》今日上映",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 126000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《肖申克的救赎》今日上映"
-      ],
-      "rank": 24,
-      "movie_rank": 17
-    },
-    {
-      "title": "惠英红新片《数到三》上映",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 45000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%96%B0%E7%89%87%E3%80%8A%E6%95%B0%E5%88%B0%E4%B8%89%E3%80%8B%E4%B8%8A%E6%98%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "惠英红新片《数到三》上映"
-      ],
-      "rank": 26,
-      "movie_rank": 18
+      "rank": 19,
+      "movie_rank": 15
     }
   ]
 }
