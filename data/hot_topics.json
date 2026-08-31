@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-09-01 03:00:50",
-  "total": 26,
+  "update_time": "2026-09-01 04:01:04",
+  "total": 27,
   "sports_count": 15,
-  "movie_count": 11,
+  "movie_count": 12,
   "all": [
     {
       "title": "杨瀚森绝杀",
@@ -13,7 +13,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12952093,
+      "hot_value": 12455426,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80",
         "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80&sa=fyb_news",
@@ -32,7 +32,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8725734,
+      "hot_value": 9020207,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%964%E6%AF%941%E5%8D%A1%E6%89%8E%E7%A7%91%E5%A4%AB"
       },
@@ -48,7 +48,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8649338,
+      "hot_value": 7783995,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98"
       },
@@ -59,13 +59,29 @@
       "movie_rank": 1
     },
     {
+      "title": "空枪朱一龙歌声唱出强哥命运",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7688217,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%A9%BA%E6%9E%AA%E6%9C%B1%E4%B8%80%E9%BE%99%E6%AD%8C%E5%A3%B0%E5%94%B1%E5%87%BA%E5%BC%BA%E5%93%A5%E5%91%BD%E8%BF%90"
+      },
+      "raw_titles": [
+        "空枪朱一龙歌声唱出强哥命运"
+      ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
       "title": "郑钦文美网首轮",
       "category": "体育",
       "sources": [
         "微博",
         "百度"
       ],
-      "hot_value": 349376,
+      "hot_value": 327266,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E9%A6%96%E8%BD%AE",
         "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E9%A6%96%E8%BD%AE%E6%88%9816%E5%B2%81%E9%BB%91%E9%A9%AC&sa=fyb_news"
@@ -73,7 +89,7 @@
       "raw_titles": [
         "郑钦文美网首轮"
       ],
-      "rank": 4,
+      "rank": 5,
       "sports_rank": 3
     },
     {
@@ -82,31 +98,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 333000,
+      "hot_value": 315000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%88%91%E6%98%AFNBA%E7%90%83%E5%91%98%E4%BD%A0%E6%98%AF%E8%B0%81&sa=fyb_news"
       },
       "raw_titles": [
         "我是NBA球员你是谁"
       ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "武汉一高校新生有38位“奥运宝宝”",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 315000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E6%96%B0%E7%94%9F%E6%9C%8938%E4%BD%8D%E2%80%9C%E5%A5%A5%E8%BF%90%E5%AE%9D%E5%AE%9D%E2%80%9D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "武汉一高校新生有38位“奥运宝宝”"
-      ],
       "rank": 6,
-      "sports_rank": 5
+      "sports_rank": 4
     },
     {
       "title": "王俊杰怒夸杨瀚森：NBA超级高水平",
@@ -122,39 +122,39 @@
         "王俊杰怒夸杨瀚森：NBA超级高水平"
       ],
       "rank": 7,
+      "sports_rank": 5
+    },
+    {
+      "title": "武汉一高校新生有38位“奥运宝宝”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 288000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E6%96%B0%E7%94%9F%E6%9C%8938%E4%BD%8D%E2%80%9C%E5%A5%A5%E8%BF%90%E5%AE%9D%E5%AE%9D%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "武汉一高校新生有38位“奥运宝宝”"
+      ],
+      "rank": 8,
       "sports_rank": 6
     },
     {
-      "title": "一饭封神大厨私藏宝藏小店",
-      "category": "影视",
+      "title": "中国羽毛球协会副主席夏煊泽被查",
+      "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 255275,
+      "hot_value": 225000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5&sa=fyb_news"
       },
       "raw_titles": [
-        "一饭封神大厨私藏宝藏小店"
-      ],
-      "rank": 8,
-      "movie_rank": 2
-    },
-    {
-      "title": "UP主自制AI韩剧 漂亮的恶意",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 251655,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F"
-      },
-      "raw_titles": [
-        "UP主自制AI韩剧 漂亮的恶意"
+        "中国羽毛球协会副主席夏煊泽被查"
       ],
       "rank": 9,
-      "movie_rank": 3
+      "sports_rank": 7
     },
     {
       "title": "披哥一公舞台看点速览",
@@ -162,7 +162,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 247953,
+      "hot_value": 215340,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E7%9C%8B%E7%82%B9%E9%80%9F%E8%A7%88"
       },
@@ -170,7 +170,39 @@
         "披哥一公舞台看点速览"
       ],
       "rank": 10,
+      "movie_rank": 3
+    },
+    {
+      "title": "一饭封神大厨私藏宝藏小店",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 201928,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97"
+      },
+      "raw_titles": [
+        "一饭封神大厨私藏宝藏小店"
+      ],
+      "rank": 11,
       "movie_rank": 4
+    },
+    {
+      "title": "UP主自制AI韩剧 漂亮的恶意",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 186862,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F"
+      },
+      "raw_titles": [
+        "UP主自制AI韩剧 漂亮的恶意"
+      ],
+      "rank": 12,
+      "movie_rank": 5
     },
     {
       "title": "郑钦文2比1柳托娃",
@@ -179,47 +211,15 @@
         "微博",
         "微博"
       ],
-      "hot_value": 229012,
+      "hot_value": 186016,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%9F%B3%E6%89%98%E5%A8%83"
       },
       "raw_titles": [
         "郑钦文2比1柳托娃"
       ],
-      "rank": 11,
-      "sports_rank": 7
-    },
-    {
-      "title": "UP主手搓94分钟AI科幻电影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 225061,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "UP主手搓94分钟AI科幻电影"
-      ],
-      "rank": 12,
-      "movie_rank": 5
-    },
-    {
-      "title": "小片片解说釜山行导演新作",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 221843,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
-      },
-      "raw_titles": [
-        "小片片解说釜山行导演新作"
-      ],
       "rank": 13,
-      "movie_rank": 6
+      "sports_rank": 8
     },
     {
       "title": "2026年香港小姐获奖名单",
@@ -227,7 +227,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 162000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=2026%E5%B9%B4%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
       },
@@ -235,7 +235,71 @@
         "2026年香港小姐获奖名单"
       ],
       "rank": 14,
+      "movie_rank": 6
+    },
+    {
+      "title": "UP主手搓94分钟AI科幻电影",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 167059,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "UP主手搓94分钟AI科幻电影"
+      ],
+      "rank": 15,
       "movie_rank": 7
+    },
+    {
+      "title": "小片片解说釜山行导演新作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 165653,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
+      },
+      "raw_titles": [
+        "小片片解说釜山行导演新作"
+      ],
+      "rank": 16,
+      "movie_rank": 8
+    },
+    {
+      "title": "F1意大利站比赛看点",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 157548,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AB%99%E6%AF%94%E8%B5%9B%E7%9C%8B%E7%82%B9"
+      },
+      "raw_titles": [
+        "F1意大利站比赛看点"
+      ],
+      "rank": 17,
+      "sports_rank": 9
+    },
+    {
+      "title": "皇马4比0马拉加",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%9A%87%E9%A9%AC4%E6%AF%940%E9%A9%AC%E6%8B%89%E5%8A%A0&sa=fyb_news"
+      },
+      "raw_titles": [
+        "皇马4比0马拉加"
+      ],
+      "rank": 18,
+      "sports_rank": 10
     },
     {
       "title": "UP主动画幽差第二集",
@@ -243,31 +307,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 159204,
+      "hot_value": 136900,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
       },
       "raw_titles": [
         "UP主动画幽差第二集"
       ],
-      "rank": 15,
-      "movie_rank": 8
+      "rank": 19,
+      "movie_rank": 9
     },
     {
-      "title": "中国羽毛球协会副主席夏煊泽被查",
+      "title": "吴易昺闯入美网男单第二轮",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 153000,
+      "hot_value": 135000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E9%97%AF%E5%85%A5%E7%BE%8E%E7%BD%91%E7%94%B7%E5%8D%95%E7%AC%AC%E4%BA%8C%E8%BD%AE&sa=fyb_news"
       },
       "raw_titles": [
-        "中国羽毛球协会副主席夏煊泽被查"
+        "吴易昺闯入美网男单第二轮"
       ],
-      "rank": 16,
-      "sports_rank": 8
+      "rank": 20,
+      "sports_rank": 11
     },
     {
       "title": "沈腾回应关晓彤无米版徐福烩饭",
@@ -276,46 +340,14 @@
         "微博",
         "微博"
       ],
-      "hot_value": 147179,
+      "hot_value": 96517,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E8%AF%84%E8%AE%BA%E5%85%B3%E6%99%93%E5%BD%A4%E6%97%A0%E7%B1%B3%E7%89%88%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD"
       },
       "raw_titles": [
         "沈腾回应关晓彤无米版徐福烩饭"
       ],
-      "rank": 17,
-      "movie_rank": 9
-    },
-    {
-      "title": "F1意大利站比赛看点",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 134255,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AB%99%E6%AF%94%E8%B5%9B%E7%9C%8B%E7%82%B9"
-      },
-      "raw_titles": [
-        "F1意大利站比赛看点"
-      ],
-      "rank": 18,
-      "sports_rank": 9
-    },
-    {
-      "title": "梅艳芳哥哥：希望母亲与妹妹葬在一起",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 126000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E5%93%A5%E5%93%A5%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%AF%8D%E4%BA%B2%E4%B8%8E%E5%A6%B9%E5%A6%B9%E8%91%AC%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "梅艳芳哥哥：希望母亲与妹妹葬在一起"
-      ],
-      "rank": 19,
+      "rank": 21,
       "movie_rank": 10
     },
     {
@@ -324,79 +356,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 124666,
+      "hot_value": 89850,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3%E6%9A%97%E5%BD%B1%E8%9C%98%E8%9B%9B%E4%BE%A0"
       },
       "raw_titles": [
         "万字拆解暗影蜘蛛侠"
       ],
-      "rank": 20,
+      "rank": 22,
       "movie_rank": 11
     },
     {
-      "title": "吴易昺闯入美网男单第二轮",
-      "category": "体育",
+      "title": "梅艳芳哥哥：希望母亲与妹妹葬在一起",
+      "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 99000,
+      "hot_value": 63000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E9%97%AF%E5%85%A5%E7%BE%8E%E7%BD%91%E7%94%B7%E5%8D%95%E7%AC%AC%E4%BA%8C%E8%BD%AE&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E5%93%A5%E5%93%A5%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%AF%8D%E4%BA%B2%E4%B8%8E%E5%A6%B9%E5%A6%B9%E8%91%AC%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news"
       },
       "raw_titles": [
-        "吴易昺闯入美网男单第二轮"
-      ],
-      "rank": 21,
-      "sports_rank": 10
-    },
-    {
-      "title": "皇马4比0马拉加",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%9A%87%E9%A9%AC4%E6%AF%940%E9%A9%AC%E6%8B%89%E5%8A%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "皇马4比0马拉加"
-      ],
-      "rank": 22,
-      "sports_rank": 11
-    },
-    {
-      "title": "郑钦文预测胜率低于柳托娃",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70429,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%A2%84%E6%B5%8B%E8%83%9C%E7%8E%87%E4%BD%8E%E4%BA%8E%E6%9F%B3%E6%89%98%E5%A8%83"
-      },
-      "raw_titles": [
-        "郑钦文预测胜率低于柳托娃"
+        "梅艳芳哥哥：希望母亲与妹妹葬在一起"
       ],
       "rank": 23,
-      "sports_rank": 12
-    },
-    {
-      "title": "杨瀚森回应绝杀黎巴嫩男篮",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70254,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%9B%9E%E5%BA%94%E7%BB%9D%E6%9D%80%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE"
-      },
-      "raw_titles": [
-        "杨瀚森回应绝杀黎巴嫩男篮"
-      ],
-      "rank": 24,
-      "sports_rank": 13
+      "movie_rank": 12
     },
     {
       "title": "中国男篮绝杀黎巴嫩男篮",
@@ -404,14 +388,46 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 69844,
+      "hot_value": 48268,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%BB%9D%E6%9D%80%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE"
       },
       "raw_titles": [
         "中国男篮绝杀黎巴嫩男篮"
       ],
+      "rank": 24,
+      "sports_rank": 12
+    },
+    {
+      "title": "郑钦文预测胜率低于柳托娃",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 48257,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%A2%84%E6%B5%8B%E8%83%9C%E7%8E%87%E4%BD%8E%E4%BA%8E%E6%9F%B3%E6%89%98%E5%A8%83"
+      },
+      "raw_titles": [
+        "郑钦文预测胜率低于柳托娃"
+      ],
       "rank": 25,
+      "sports_rank": 13
+    },
+    {
+      "title": "杨瀚森回应绝杀黎巴嫩男篮",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 48253,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%9B%9E%E5%BA%94%E7%BB%9D%E6%9D%80%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE"
+      },
+      "raw_titles": [
+        "杨瀚森回应绝杀黎巴嫩男篮"
+      ],
+      "rank": 26,
       "sports_rank": 14
     },
     {
@@ -420,14 +436,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 69693,
+      "hot_value": 48125,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E6%89%93%E5%87%BANBA%E7%BA%A7%E7%AB%9E%E6%8A%80%E6%B0%B4%E5%B9%B3"
       },
       "raw_titles": [
         "杨瀚森打出NBA级竞技水平"
       ],
-      "rank": 26,
+      "rank": 27,
       "sports_rank": 15
     }
   ],
@@ -441,7 +457,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12952093,
+      "hot_value": 12455426,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80",
         "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80&sa=fyb_news",
@@ -460,7 +476,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8725734,
+      "hot_value": 9020207,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%964%E6%AF%941%E5%8D%A1%E6%89%8E%E7%A7%91%E5%A4%AB"
       },
@@ -477,7 +493,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 349376,
+      "hot_value": 327266,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E9%A6%96%E8%BD%AE",
         "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E9%A6%96%E8%BD%AE%E6%88%9816%E5%B2%81%E9%BB%91%E9%A9%AC&sa=fyb_news"
@@ -485,7 +501,7 @@
       "raw_titles": [
         "郑钦文美网首轮"
       ],
-      "rank": 4,
+      "rank": 5,
       "sports_rank": 3
     },
     {
@@ -494,31 +510,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 333000,
+      "hot_value": 315000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%88%91%E6%98%AFNBA%E7%90%83%E5%91%98%E4%BD%A0%E6%98%AF%E8%B0%81&sa=fyb_news"
       },
       "raw_titles": [
         "我是NBA球员你是谁"
       ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "武汉一高校新生有38位“奥运宝宝”",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 315000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E6%96%B0%E7%94%9F%E6%9C%8938%E4%BD%8D%E2%80%9C%E5%A5%A5%E8%BF%90%E5%AE%9D%E5%AE%9D%E2%80%9D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "武汉一高校新生有38位“奥运宝宝”"
-      ],
       "rank": 6,
-      "sports_rank": 5
+      "sports_rank": 4
     },
     {
       "title": "王俊杰怒夸杨瀚森：NBA超级高水平",
@@ -534,7 +534,39 @@
         "王俊杰怒夸杨瀚森：NBA超级高水平"
       ],
       "rank": 7,
+      "sports_rank": 5
+    },
+    {
+      "title": "武汉一高校新生有38位“奥运宝宝”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 288000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E6%96%B0%E7%94%9F%E6%9C%8938%E4%BD%8D%E2%80%9C%E5%A5%A5%E8%BF%90%E5%AE%9D%E5%AE%9D%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "武汉一高校新生有38位“奥运宝宝”"
+      ],
+      "rank": 8,
       "sports_rank": 6
+    },
+    {
+      "title": "中国羽毛球协会副主席夏煊泽被查",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 225000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "中国羽毛球协会副主席夏煊泽被查"
+      ],
+      "rank": 9,
+      "sports_rank": 7
     },
     {
       "title": "郑钦文2比1柳托娃",
@@ -543,30 +575,14 @@
         "微博",
         "微博"
       ],
-      "hot_value": 229012,
+      "hot_value": 186016,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%9F%B3%E6%89%98%E5%A8%83"
       },
       "raw_titles": [
         "郑钦文2比1柳托娃"
       ],
-      "rank": 11,
-      "sports_rank": 7
-    },
-    {
-      "title": "中国羽毛球协会副主席夏煊泽被查",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 153000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5&sa=fyb_news"
-      },
-      "raw_titles": [
-        "中国羽毛球协会副主席夏煊泽被查"
-      ],
-      "rank": 16,
+      "rank": 13,
       "sports_rank": 8
     },
     {
@@ -575,31 +591,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 134255,
+      "hot_value": 157548,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AB%99%E6%AF%94%E8%B5%9B%E7%9C%8B%E7%82%B9"
       },
       "raw_titles": [
         "F1意大利站比赛看点"
       ],
-      "rank": 18,
+      "rank": 17,
       "sports_rank": 9
-    },
-    {
-      "title": "吴易昺闯入美网男单第二轮",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 99000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E9%97%AF%E5%85%A5%E7%BE%8E%E7%BD%91%E7%94%B7%E5%8D%95%E7%AC%AC%E4%BA%8C%E8%BD%AE&sa=fyb_news"
-      },
-      "raw_titles": [
-        "吴易昺闯入美网男单第二轮"
-      ],
-      "rank": 21,
-      "sports_rank": 10
     },
     {
       "title": "皇马4比0马拉加",
@@ -607,47 +607,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%9A%87%E9%A9%AC4%E6%AF%940%E9%A9%AC%E6%8B%89%E5%8A%A0&sa=fyb_news"
       },
       "raw_titles": [
         "皇马4比0马拉加"
       ],
-      "rank": 22,
+      "rank": 18,
+      "sports_rank": 10
+    },
+    {
+      "title": "吴易昺闯入美网男单第二轮",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 135000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E9%97%AF%E5%85%A5%E7%BE%8E%E7%BD%91%E7%94%B7%E5%8D%95%E7%AC%AC%E4%BA%8C%E8%BD%AE&sa=fyb_news"
+      },
+      "raw_titles": [
+        "吴易昺闯入美网男单第二轮"
+      ],
+      "rank": 20,
       "sports_rank": 11
-    },
-    {
-      "title": "郑钦文预测胜率低于柳托娃",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70429,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%A2%84%E6%B5%8B%E8%83%9C%E7%8E%87%E4%BD%8E%E4%BA%8E%E6%9F%B3%E6%89%98%E5%A8%83"
-      },
-      "raw_titles": [
-        "郑钦文预测胜率低于柳托娃"
-      ],
-      "rank": 23,
-      "sports_rank": 12
-    },
-    {
-      "title": "杨瀚森回应绝杀黎巴嫩男篮",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70254,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%9B%9E%E5%BA%94%E7%BB%9D%E6%9D%80%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE"
-      },
-      "raw_titles": [
-        "杨瀚森回应绝杀黎巴嫩男篮"
-      ],
-      "rank": 24,
-      "sports_rank": 13
     },
     {
       "title": "中国男篮绝杀黎巴嫩男篮",
@@ -655,14 +639,46 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 69844,
+      "hot_value": 48268,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%BB%9D%E6%9D%80%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE"
       },
       "raw_titles": [
         "中国男篮绝杀黎巴嫩男篮"
       ],
+      "rank": 24,
+      "sports_rank": 12
+    },
+    {
+      "title": "郑钦文预测胜率低于柳托娃",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 48257,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%A2%84%E6%B5%8B%E8%83%9C%E7%8E%87%E4%BD%8E%E4%BA%8E%E6%9F%B3%E6%89%98%E5%A8%83"
+      },
+      "raw_titles": [
+        "郑钦文预测胜率低于柳托娃"
+      ],
       "rank": 25,
+      "sports_rank": 13
+    },
+    {
+      "title": "杨瀚森回应绝杀黎巴嫩男篮",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 48253,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%9B%9E%E5%BA%94%E7%BB%9D%E6%9D%80%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE"
+      },
+      "raw_titles": [
+        "杨瀚森回应绝杀黎巴嫩男篮"
+      ],
+      "rank": 26,
       "sports_rank": 14
     },
     {
@@ -671,14 +687,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 69693,
+      "hot_value": 48125,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E6%89%93%E5%87%BANBA%E7%BA%A7%E7%AB%9E%E6%8A%80%E6%B0%B4%E5%B9%B3"
       },
       "raw_titles": [
         "杨瀚森打出NBA级竞技水平"
       ],
-      "rank": 26,
+      "rank": 27,
       "sports_rank": 15
     }
   ],
@@ -689,7 +705,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8649338,
+      "hot_value": 7783995,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98"
       },
@@ -700,36 +716,20 @@
       "movie_rank": 1
     },
     {
-      "title": "一饭封神大厨私藏宝藏小店",
+      "title": "空枪朱一龙歌声唱出强哥命运",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 255275,
+      "hot_value": 7688217,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97"
+        "抖音": "https://www.douyin.com/search/%E7%A9%BA%E6%9E%AA%E6%9C%B1%E4%B8%80%E9%BE%99%E6%AD%8C%E5%A3%B0%E5%94%B1%E5%87%BA%E5%BC%BA%E5%93%A5%E5%91%BD%E8%BF%90"
       },
       "raw_titles": [
-        "一饭封神大厨私藏宝藏小店"
+        "空枪朱一龙歌声唱出强哥命运"
       ],
-      "rank": 8,
+      "rank": 4,
       "movie_rank": 2
-    },
-    {
-      "title": "UP主自制AI韩剧 漂亮的恶意",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 251655,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F"
-      },
-      "raw_titles": [
-        "UP主自制AI韩剧 漂亮的恶意"
-      ],
-      "rank": 9,
-      "movie_rank": 3
     },
     {
       "title": "披哥一公舞台看点速览",
@@ -737,7 +737,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 247953,
+      "hot_value": 215340,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E7%9C%8B%E7%82%B9%E9%80%9F%E8%A7%88"
       },
@@ -745,39 +745,39 @@
         "披哥一公舞台看点速览"
       ],
       "rank": 10,
+      "movie_rank": 3
+    },
+    {
+      "title": "一饭封神大厨私藏宝藏小店",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 201928,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97"
+      },
+      "raw_titles": [
+        "一饭封神大厨私藏宝藏小店"
+      ],
+      "rank": 11,
       "movie_rank": 4
     },
     {
-      "title": "UP主手搓94分钟AI科幻电影",
+      "title": "UP主自制AI韩剧 漂亮的恶意",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 225061,
+      "hot_value": 186862,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F"
       },
       "raw_titles": [
-        "UP主手搓94分钟AI科幻电影"
+        "UP主自制AI韩剧 漂亮的恶意"
       ],
       "rank": 12,
       "movie_rank": 5
-    },
-    {
-      "title": "小片片解说釜山行导演新作",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 221843,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
-      },
-      "raw_titles": [
-        "小片片解说釜山行导演新作"
-      ],
-      "rank": 13,
-      "movie_rank": 6
     },
     {
       "title": "2026年香港小姐获奖名单",
@@ -785,7 +785,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 162000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=2026%E5%B9%B4%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
       },
@@ -793,7 +793,39 @@
         "2026年香港小姐获奖名单"
       ],
       "rank": 14,
+      "movie_rank": 6
+    },
+    {
+      "title": "UP主手搓94分钟AI科幻电影",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 167059,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "UP主手搓94分钟AI科幻电影"
+      ],
+      "rank": 15,
       "movie_rank": 7
+    },
+    {
+      "title": "小片片解说釜山行导演新作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 165653,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
+      },
+      "raw_titles": [
+        "小片片解说釜山行导演新作"
+      ],
+      "rank": 16,
+      "movie_rank": 8
     },
     {
       "title": "UP主动画幽差第二集",
@@ -801,15 +833,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 159204,
+      "hot_value": 136900,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
       },
       "raw_titles": [
         "UP主动画幽差第二集"
       ],
-      "rank": 15,
-      "movie_rank": 8
+      "rank": 19,
+      "movie_rank": 9
     },
     {
       "title": "沈腾回应关晓彤无米版徐福烩饭",
@@ -818,30 +850,14 @@
         "微博",
         "微博"
       ],
-      "hot_value": 147179,
+      "hot_value": 96517,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E8%AF%84%E8%AE%BA%E5%85%B3%E6%99%93%E5%BD%A4%E6%97%A0%E7%B1%B3%E7%89%88%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD"
       },
       "raw_titles": [
         "沈腾回应关晓彤无米版徐福烩饭"
       ],
-      "rank": 17,
-      "movie_rank": 9
-    },
-    {
-      "title": "梅艳芳哥哥：希望母亲与妹妹葬在一起",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 126000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E5%93%A5%E5%93%A5%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%AF%8D%E4%BA%B2%E4%B8%8E%E5%A6%B9%E5%A6%B9%E8%91%AC%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "梅艳芳哥哥：希望母亲与妹妹葬在一起"
-      ],
-      "rank": 19,
+      "rank": 21,
       "movie_rank": 10
     },
     {
@@ -850,15 +866,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 124666,
+      "hot_value": 89850,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3%E6%9A%97%E5%BD%B1%E8%9C%98%E8%9B%9B%E4%BE%A0"
       },
       "raw_titles": [
         "万字拆解暗影蜘蛛侠"
       ],
-      "rank": 20,
+      "rank": 22,
       "movie_rank": 11
+    },
+    {
+      "title": "梅艳芳哥哥：希望母亲与妹妹葬在一起",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E5%93%A5%E5%93%A5%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%AF%8D%E4%BA%B2%E4%B8%8E%E5%A6%B9%E5%A6%B9%E8%91%AC%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "梅艳芳哥哥：希望母亲与妹妹葬在一起"
+      ],
+      "rank": 23,
+      "movie_rank": 12
     }
   ]
 }
