@@ -1,92 +1,44 @@
 {
-  "update_time": "2026-08-31 21:00:50",
+  "update_time": "2026-08-31 22:00:50",
   "total": 13,
-  "sports_count": 4,
-  "movie_count": 9,
+  "sports_count": 6,
+  "movie_count": 7,
   "all": [
     {
-      "title": "中国羽毛球协会副主席夏煊泽被查",
+      "title": "杨瀚森绝杀",
       "category": "体育",
       "sources": [
         "微博",
         "百度",
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 8335156,
+      "hot_value": 4808798,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E7%8E%8B%E4%BC%9F%E8%A2%AB%E6%9F%A5&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80",
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80"
       },
       "raw_titles": [
-        "中国羽毛球协会副主席夏煊泽被查"
+        "杨瀚森绝杀"
       ],
       "rank": 1,
       "sports_rank": 1
     },
     {
-      "title": "我们的少年时代2收官",
+      "title": "UP主自制AI韩剧 漂亮的恶意",
       "category": "影视",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7794562,
+      "hot_value": 1678404,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F"
       },
       "raw_titles": [
-        "我们的少年时代2收官"
+        "UP主自制AI韩剧 漂亮的恶意"
       ],
       "rank": 2,
       "movie_rank": 1
-    },
-    {
-      "title": "披哥一公舞台看点速览",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 669378,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E7%9C%8B%E7%82%B9%E9%80%9F%E8%A7%88"
-      },
-      "raw_titles": [
-        "披哥一公舞台看点速览"
-      ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "小片片解说釜山行导演新作",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 577334,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
-      },
-      "raw_titles": [
-        "小片片解说釜山行导演新作"
-      ],
-      "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "UP主手搓94分钟AI科幻电影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 569720,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "UP主手搓94分钟AI科幻电影"
-      ],
-      "rank": 5,
-      "movie_rank": 4
     },
     {
       "title": "UP主动画幽差第二集",
@@ -94,47 +46,127 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 555089,
+      "hot_value": 773726,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
       },
       "raw_titles": [
         "UP主动画幽差第二集"
       ],
-      "rank": 6,
-      "movie_rank": 5
+      "rank": 3,
+      "movie_rank": 2
     },
     {
-      "title": "假面骑士ZZZ",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453905,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
-      },
-      "raw_titles": [
-        "假面骑士ZZZ"
-      ],
-      "rank": 7,
-      "sports_rank": 2
-    },
-    {
-      "title": "UP主动画龙之使徒",
+      "title": "UP主手搓94分钟AI科幻电影",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 446842,
+      "hot_value": 691613,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E9%BE%99%E4%B9%8B%E4%BD%BF%E5%BE%92"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
       },
       "raw_titles": [
-        "UP主动画龙之使徒"
+        "UP主手搓94分钟AI科幻电影"
+      ],
+      "rank": 4,
+      "movie_rank": 3
+    },
+    {
+      "title": "海军哈尔滨舰退役",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 673741,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%86%9B%E5%93%88%E5%B0%94%E6%BB%A8%E8%88%B0%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "海军哈尔滨舰退役"
+      ],
+      "rank": 5,
+      "sports_rank": 2
+    },
+    {
+      "title": "披哥一公舞台看点速览",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 583489,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E7%9C%8B%E7%82%B9%E9%80%9F%E8%A7%88"
+      },
+      "raw_titles": [
+        "披哥一公舞台看点速览"
+      ],
+      "rank": 6,
+      "movie_rank": 4
+    },
+    {
+      "title": "一饭封神大厨私藏宝藏小店",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 580180,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97"
+      },
+      "raw_titles": [
+        "一饭封神大厨私藏宝藏小店"
+      ],
+      "rank": 7,
+      "movie_rank": 5
+    },
+    {
+      "title": "小片片解说釜山行导演新作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 527820,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
+      },
+      "raw_titles": [
+        "小片片解说釜山行导演新作"
       ],
       "rank": 8,
       "movie_rank": 6
+    },
+    {
+      "title": "利物浦签下巴尔科拉",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 495948,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%A9%E7%89%A9%E6%B5%A6%E7%AD%BE%E4%B8%8B%E5%B7%B4%E5%B0%94%E7%A7%91%E6%8B%89"
+      },
+      "raw_titles": [
+        "利物浦签下巴尔科拉"
+      ],
+      "rank": 9,
+      "sports_rank": 3
+    },
+    {
+      "title": "中国男篮绝杀黎巴嫩男篮",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 417866,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%BB%9D%E6%9D%80%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE"
+      },
+      "raw_titles": [
+        "中国男篮绝杀黎巴嫩男篮"
+      ],
+      "rank": 10,
+      "sports_rank": 4
     },
     {
       "title": "F1意大利站比赛看点",
@@ -142,117 +174,117 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 395583,
+      "hot_value": 398685,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AB%99%E6%AF%94%E8%B5%9B%E7%9C%8B%E7%82%B9"
       },
       "raw_titles": [
         "F1意大利站比赛看点"
       ],
-      "rank": 9,
-      "sports_rank": 3
-    },
-    {
-      "title": "田启文曝周星驰主动请老友吃饭",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 387000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%94%B0%E5%90%AF%E6%96%87%E6%9B%9D%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%BB%E5%8A%A8%E8%AF%B7%E8%80%81%E5%8F%8B%E5%90%83%E9%A5%AD&sa=fyb_news"
-      },
-      "raw_titles": [
-        "田启文曝周星驰主动请老友吃饭"
-      ],
-      "rank": 10,
-      "movie_rank": 7
-    },
-    {
-      "title": "TF四代新剧收官自拍",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 116113,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=TF%E5%9B%9B%E4%BB%A3%E6%96%B0%E5%89%A7%E6%94%B6%E5%AE%98%E8%87%AA%E6%8B%8D"
-      },
-      "raw_titles": [
-        "TF四代新剧收官自拍"
-      ],
       "rank": 11,
-      "movie_rank": 8
+      "sports_rank": 5
     },
     {
-      "title": "谁教范丞丞这样倒数的",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 116016,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%95%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%BF%99%E6%A0%B7%E5%80%92%E6%95%B0%E7%9A%84"
-      },
-      "raw_titles": [
-        "谁教范丞丞这样倒数的"
-      ],
-      "rank": 12,
-      "movie_rank": 9
-    },
-    {
-      "title": "张伟丽入选UFC名人堂",
+      "title": "杨瀚森连遭凶狠犯规",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 333000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%85%A5%E9%80%89UFC%E5%90%8D%E4%BA%BA%E5%A0%82&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%80%9A%E6%A3%AE%E8%BF%9E%E9%81%AD%E5%87%B6%E7%8B%A0%E7%8A%AF%E8%A7%84&sa=fyb_news"
       },
       "raw_titles": [
-        "张伟丽入选UFC名人堂"
+        "杨瀚森连遭凶狠犯规"
+      ],
+      "rank": 12,
+      "sports_rank": 6
+    },
+    {
+      "title": "巩俐被易烊千玺逗笑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 164305,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%A9%E4%BF%90%E8%A2%AB%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%80%97%E7%AC%91"
+      },
+      "raw_titles": [
+        "巩俐被易烊千玺逗笑"
       ],
       "rank": 13,
-      "sports_rank": 4
+      "movie_rank": 7
     }
   ],
   "sports": [
     {
-      "title": "中国羽毛球协会副主席夏煊泽被查",
+      "title": "杨瀚森绝杀",
       "category": "体育",
       "sources": [
         "微博",
         "百度",
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 8335156,
+      "hot_value": 4808798,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E7%8E%8B%E4%BC%9F%E8%A2%AB%E6%9F%A5&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80",
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80"
       },
       "raw_titles": [
-        "中国羽毛球协会副主席夏煊泽被查"
+        "杨瀚森绝杀"
       ],
       "rank": 1,
       "sports_rank": 1
     },
     {
-      "title": "假面骑士ZZZ",
+      "title": "海军哈尔滨舰退役",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 453905,
+      "hot_value": 673741,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%86%9B%E5%93%88%E5%B0%94%E6%BB%A8%E8%88%B0%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
-        "假面骑士ZZZ"
+        "海军哈尔滨舰退役"
       ],
-      "rank": 7,
+      "rank": 5,
       "sports_rank": 2
+    },
+    {
+      "title": "利物浦签下巴尔科拉",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 495948,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%A9%E7%89%A9%E6%B5%A6%E7%AD%BE%E4%B8%8B%E5%B7%B4%E5%B0%94%E7%A7%91%E6%8B%89"
+      },
+      "raw_titles": [
+        "利物浦签下巴尔科拉"
+      ],
+      "rank": 9,
+      "sports_rank": 3
+    },
+    {
+      "title": "中国男篮绝杀黎巴嫩男篮",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 417866,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%BB%9D%E6%9D%80%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE"
+      },
+      "raw_titles": [
+        "中国男篮绝杀黎巴嫩男篮"
+      ],
+      "rank": 10,
+      "sports_rank": 4
     },
     {
       "title": "F1意大利站比赛看点",
@@ -260,97 +292,49 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 395583,
+      "hot_value": 398685,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AB%99%E6%AF%94%E8%B5%9B%E7%9C%8B%E7%82%B9"
       },
       "raw_titles": [
         "F1意大利站比赛看点"
       ],
-      "rank": 9,
-      "sports_rank": 3
+      "rank": 11,
+      "sports_rank": 5
     },
     {
-      "title": "张伟丽入选UFC名人堂",
+      "title": "杨瀚森连遭凶狠犯规",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 333000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%85%A5%E9%80%89UFC%E5%90%8D%E4%BA%BA%E5%A0%82&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%80%9A%E6%A3%AE%E8%BF%9E%E9%81%AD%E5%87%B6%E7%8B%A0%E7%8A%AF%E8%A7%84&sa=fyb_news"
       },
       "raw_titles": [
-        "张伟丽入选UFC名人堂"
+        "杨瀚森连遭凶狠犯规"
       ],
-      "rank": 13,
-      "sports_rank": 4
+      "rank": 12,
+      "sports_rank": 6
     }
   ],
   "movies": [
     {
-      "title": "我们的少年时代2收官",
+      "title": "UP主自制AI韩剧 漂亮的恶意",
       "category": "影视",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7794562,
+      "hot_value": 1678404,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F"
       },
       "raw_titles": [
-        "我们的少年时代2收官"
+        "UP主自制AI韩剧 漂亮的恶意"
       ],
       "rank": 2,
       "movie_rank": 1
-    },
-    {
-      "title": "披哥一公舞台看点速览",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 669378,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E7%9C%8B%E7%82%B9%E9%80%9F%E8%A7%88"
-      },
-      "raw_titles": [
-        "披哥一公舞台看点速览"
-      ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "小片片解说釜山行导演新作",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 577334,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
-      },
-      "raw_titles": [
-        "小片片解说釜山行导演新作"
-      ],
-      "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "UP主手搓94分钟AI科幻电影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 569720,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "UP主手搓94分钟AI科幻电影"
-      ],
-      "rank": 5,
-      "movie_rank": 4
     },
     {
       "title": "UP主动画幽差第二集",
@@ -358,79 +342,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 555089,
+      "hot_value": 773726,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
       },
       "raw_titles": [
         "UP主动画幽差第二集"
       ],
-      "rank": 6,
-      "movie_rank": 5
+      "rank": 3,
+      "movie_rank": 2
     },
     {
-      "title": "UP主动画龙之使徒",
+      "title": "UP主手搓94分钟AI科幻电影",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 446842,
+      "hot_value": 691613,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E9%BE%99%E4%B9%8B%E4%BD%BF%E5%BE%92"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
       },
       "raw_titles": [
-        "UP主动画龙之使徒"
+        "UP主手搓94分钟AI科幻电影"
+      ],
+      "rank": 4,
+      "movie_rank": 3
+    },
+    {
+      "title": "披哥一公舞台看点速览",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 583489,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E7%9C%8B%E7%82%B9%E9%80%9F%E8%A7%88"
+      },
+      "raw_titles": [
+        "披哥一公舞台看点速览"
+      ],
+      "rank": 6,
+      "movie_rank": 4
+    },
+    {
+      "title": "一饭封神大厨私藏宝藏小店",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 580180,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97"
+      },
+      "raw_titles": [
+        "一饭封神大厨私藏宝藏小店"
+      ],
+      "rank": 7,
+      "movie_rank": 5
+    },
+    {
+      "title": "小片片解说釜山行导演新作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 527820,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
+      },
+      "raw_titles": [
+        "小片片解说釜山行导演新作"
       ],
       "rank": 8,
       "movie_rank": 6
     },
     {
-      "title": "田启文曝周星驰主动请老友吃饭",
+      "title": "巩俐被易烊千玺逗笑",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 387000,
+      "hot_value": 164305,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%94%B0%E5%90%AF%E6%96%87%E6%9B%9D%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%BB%E5%8A%A8%E8%AF%B7%E8%80%81%E5%8F%8B%E5%90%83%E9%A5%AD&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%A9%E4%BF%90%E8%A2%AB%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%80%97%E7%AC%91"
       },
       "raw_titles": [
-        "田启文曝周星驰主动请老友吃饭"
+        "巩俐被易烊千玺逗笑"
       ],
-      "rank": 10,
+      "rank": 13,
       "movie_rank": 7
-    },
-    {
-      "title": "TF四代新剧收官自拍",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 116113,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=TF%E5%9B%9B%E4%BB%A3%E6%96%B0%E5%89%A7%E6%94%B6%E5%AE%98%E8%87%AA%E6%8B%8D"
-      },
-      "raw_titles": [
-        "TF四代新剧收官自拍"
-      ],
-      "rank": 11,
-      "movie_rank": 8
-    },
-    {
-      "title": "谁教范丞丞这样倒数的",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 116016,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%95%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%BF%99%E6%A0%B7%E5%80%92%E6%95%B0%E7%9A%84"
-      },
-      "raw_titles": [
-        "谁教范丞丞这样倒数的"
-      ],
-      "rank": 12,
-      "movie_rank": 9
     }
   ]
 }
