@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-08-31 17:00:52",
+  "update_time": "2026-08-31 18:01:04",
   "total": 19,
-  "sports_count": 6,
-  "movie_count": 13,
+  "sports_count": 9,
+  "movie_count": 10,
   "all": [
     {
       "title": "我们的少年时代2收官",
@@ -10,7 +10,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7832869,
+      "hot_value": 8019359,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98"
       },
@@ -26,7 +26,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7706290,
+      "hot_value": 7731800,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%A9%BA%E6%9E%AA%E6%9C%B1%E4%B8%80%E9%BE%99%E6%AD%8C%E5%A3%B0%E5%94%B1%E5%87%BA%E5%BC%BA%E5%93%A5%E5%91%BD%E8%BF%90"
       },
@@ -41,12 +41,13 @@
       "category": "体育",
       "sources": [
         "微博",
+        "百度",
         "百度"
       ],
-      "hot_value": 895842,
+      "hot_value": 1897772,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E7%8E%8B%E4%BC%9F%E8%A2%AB%E6%9F%A5&sa=fyb_news"
       },
       "raw_titles": [
         "中国羽毛球协会副主席夏煊泽被查"
@@ -55,52 +56,36 @@
       "sports_rank": 1
     },
     {
-      "title": "UP主动画幽差第二集",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 427475,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
-      },
-      "raw_titles": [
-        "UP主动画幽差第二集"
-      ],
-      "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "“荷兰弟”登顶全球影史男演员票房榜",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E8%8D%B7%E5%85%B0%E5%BC%9F%E2%80%9D%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E7%94%B7%E6%BC%94%E5%91%98%E7%A5%A8%E6%88%BF%E6%A6%9C&sa=fyb_news"
-      },
-      "raw_titles": [
-        "“荷兰弟”登顶全球影史男演员票房榜"
-      ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "Spirit EWC夺冠Vlog",
+      "title": "F1意大利站前瞻",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 373479,
+      "hot_value": 501335,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Spirit%20EWC%E5%A4%BA%E5%86%A0Vlog"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AB%99%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
-        "Spirit EWC夺冠Vlog"
+        "F1意大利站前瞻"
       ],
-      "rank": 6,
+      "rank": 4,
       "sports_rank": 2
+    },
+    {
+      "title": "哈登为何选择降薪",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 464585,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E7%99%BB%E4%B8%BA%E4%BD%95%E9%80%89%E6%8B%A9%E9%99%8D%E8%96%AA"
+      },
+      "raw_titles": [
+        "哈登为何选择降薪"
+      ],
+      "rank": 5,
+      "sports_rank": 3
     },
     {
       "title": "凡人修仙传189集逐帧解析",
@@ -108,47 +93,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 373434,
+      "hot_value": 369409,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0189%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
         "凡人修仙传189集逐帧解析"
       ],
-      "rank": 7,
-      "movie_rank": 5
-    },
-    {
-      "title": "假面骑士ZZZ",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 337700,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
-      },
-      "raw_titles": [
-        "假面骑士ZZZ"
-      ],
-      "rank": 8,
-      "sports_rank": 3
-    },
-    {
-      "title": "皇马4-0马拉加",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 290875,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC4-0%E9%A9%AC%E6%8B%89%E5%8A%A0"
-      },
-      "raw_titles": [
-        "皇马4-0马拉加"
-      ],
-      "rank": 9,
-      "sports_rank": 4
+      "rank": 6,
+      "movie_rank": 3
     },
     {
       "title": "B费帽子戏法助曼联大胜",
@@ -156,15 +109,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 290763,
+      "hot_value": 360098,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=B%E8%B4%B9%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%E5%8A%A9%E6%9B%BC%E8%81%94%E5%A4%A7%E8%83%9C"
       },
       "raw_titles": [
         "B费帽子戏法助曼联大胜"
       ],
-      "rank": 10,
+      "rank": 7,
+      "sports_rank": 4
+    },
+    {
+      "title": "UP主动画幽差第二集",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 338533,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
+      },
+      "raw_titles": [
+        "UP主动画幽差第二集"
+      ],
+      "rank": 8,
+      "movie_rank": 4
+    },
+    {
+      "title": "郑钦文美网首轮战16岁黑马",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E9%A6%96%E8%BD%AE%E6%88%9816%E5%B2%81%E9%BB%91%E9%A9%AC&sa=fyb_news"
+      },
+      "raw_titles": [
+        "郑钦文美网首轮战16岁黑马"
+      ],
+      "rank": 9,
       "sports_rank": 5
+    },
+    {
+      "title": "爱在无尽夏不让拍路透了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 305056,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%9C%A8%E6%97%A0%E5%B0%BD%E5%A4%8F%E4%B8%8D%E8%AE%A9%E6%8B%8D%E8%B7%AF%E9%80%8F%E4%BA%86"
+      },
+      "raw_titles": [
+        "爱在无尽夏不让拍路透了"
+      ],
+      "rank": 10,
+      "movie_rank": 5
     },
     {
       "title": "田启文曝周星驰主动请老友吃饭",
@@ -183,20 +184,84 @@
       "movie_rank": 6
     },
     {
+      "title": "北京偶遇井柏然李荣浩逛街",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 230591,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%81%B6%E9%81%87%E4%BA%95%E6%9F%8F%E7%84%B6%E6%9D%8E%E8%8D%A3%E6%B5%A9%E9%80%9B%E8%A1%97"
+      },
+      "raw_titles": [
+        "北京偶遇井柏然李荣浩逛街"
+      ],
+      "rank": 12,
+      "movie_rank": 7
+    },
+    {
+      "title": "樊振东朱婷为何淡出国家队",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 230524,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9C%B1%E5%A9%B7%E4%B8%BA%E4%BD%95%E6%B7%A1%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F"
+      },
+      "raw_titles": [
+        "樊振东朱婷为何淡出国家队"
+      ],
+      "rank": 13,
+      "sports_rank": 6
+    },
+    {
+      "title": "9月机票价格跳水",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 225000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=9%E6%9C%88%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "9月机票价格跳水"
+      ],
+      "rank": 14,
+      "sports_rank": 7
+    },
+    {
       "title": "AI电视剧登陆湖南卫视黄金档",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 252000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=AI%E7%94%B5%E8%A7%86%E5%89%A7%E7%99%BB%E9%99%86%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E9%BB%84%E9%87%91%E6%A1%A3&sa=fyb_news"
       },
       "raw_titles": [
         "AI电视剧登陆湖南卫视黄金档"
       ],
-      "rank": 12,
-      "movie_rank": 7
+      "rank": 15,
+      "movie_rank": 8
+    },
+    {
+      "title": "“荷兰弟”登顶全球影史男演员票房榜",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E8%8D%B7%E5%85%B0%E5%BC%9F%E2%80%9D%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E7%94%B7%E6%BC%94%E5%91%98%E7%A5%A8%E6%88%BF%E6%A6%9C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "“荷兰弟”登顶全球影史男演员票房榜"
+      ],
+      "rank": 16,
+      "movie_rank": 9
     },
     {
       "title": "梅艳芳母亲3个子女均因患癌去世",
@@ -204,95 +269,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 126000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E6%AF%8D%E4%BA%B23%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9D%87%E5%9B%A0%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news"
       },
       "raw_titles": [
         "梅艳芳母亲3个子女均因患癌去世"
       ],
-      "rank": 13,
-      "movie_rank": 8
-    },
-    {
-      "title": "北京偶遇井柏然李荣浩逛街",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 210847,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%81%B6%E9%81%87%E4%BA%95%E6%9F%8F%E7%84%B6%E6%9D%8E%E8%8D%A3%E6%B5%A9%E9%80%9B%E8%A1%97"
-      },
-      "raw_titles": [
-        "北京偶遇井柏然李荣浩逛街"
-      ],
-      "rank": 14,
-      "movie_rank": 9
-    },
-    {
-      "title": "杨幂双马尾女高",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 189493,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%A5%B3%E9%AB%98"
-      },
-      "raw_titles": [
-        "杨幂双马尾女高"
-      ],
-      "rank": 15,
-      "movie_rank": 10
-    },
-    {
-      "title": "爱在无尽夏不让拍路透了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 168912,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%9C%A8%E6%97%A0%E5%B0%BD%E5%A4%8F%E4%B8%8D%E8%AE%A9%E6%8B%8D%E8%B7%AF%E9%80%8F%E4%BA%86"
-      },
-      "raw_titles": [
-        "爱在无尽夏不让拍路透了"
-      ],
-      "rank": 16,
-      "movie_rank": 11
-    },
-    {
-      "title": "A股收官之战",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 138888,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=A%E8%82%A1%E6%94%B6%E5%AE%98%E4%B9%8B%E6%88%98"
-      },
-      "raw_titles": [
-        "A股收官之战"
-      ],
       "rank": 17,
-      "movie_rank": 12
-    },
-    {
-      "title": "娜扎点烟镜头封神",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 135027,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%82%B9%E7%83%9F%E9%95%9C%E5%A4%B4%E5%B0%81%E7%A5%9E"
-      },
-      "raw_titles": [
-        "娜扎点烟镜头封神"
-      ],
-      "rank": 18,
-      "movie_rank": 13
+      "movie_rank": 10
     },
     {
       "title": "中方对挪威国王不幸逝世表示深切哀悼",
@@ -300,15 +285,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 27000,
+      "hot_value": 90000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%8C%AA%E5%A8%81%E5%9B%BD%E7%8E%8B%E4%B8%8D%E5%B9%B8%E9%80%9D%E4%B8%96%E8%A1%A8%E7%A4%BA%E6%B7%B1%E5%88%87%E5%93%80%E6%82%BC&sa=fyb_news"
       },
       "raw_titles": [
         "中方对挪威国王不幸逝世表示深切哀悼"
       ],
+      "rank": 18,
+      "sports_rank": 8
+    },
+    {
+      "title": "张伟丽入选UFC名人堂",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%85%A5%E9%80%89UFC%E5%90%8D%E4%BA%BA%E5%A0%82&sa=fyb_news"
+      },
+      "raw_titles": [
+        "张伟丽入选UFC名人堂"
+      ],
       "rank": 19,
-      "sports_rank": 6
+      "sports_rank": 9
     }
   ],
   "sports": [
@@ -317,12 +318,13 @@
       "category": "体育",
       "sources": [
         "微博",
+        "百度",
         "百度"
       ],
-      "hot_value": 895842,
+      "hot_value": 1897772,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5",
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E7%8E%8B%E4%BC%9F%E8%A2%AB%E6%9F%A5&sa=fyb_news"
       },
       "raw_titles": [
         "中国羽毛球协会副主席夏煊泽被查"
@@ -331,52 +333,36 @@
       "sports_rank": 1
     },
     {
-      "title": "Spirit EWC夺冠Vlog",
+      "title": "F1意大利站前瞻",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 373479,
+      "hot_value": 501335,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Spirit%20EWC%E5%A4%BA%E5%86%A0Vlog"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AB%99%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
-        "Spirit EWC夺冠Vlog"
+        "F1意大利站前瞻"
       ],
-      "rank": 6,
+      "rank": 4,
       "sports_rank": 2
     },
     {
-      "title": "假面骑士ZZZ",
+      "title": "哈登为何选择降薪",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 337700,
+      "hot_value": 464585,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E7%99%BB%E4%B8%BA%E4%BD%95%E9%80%89%E6%8B%A9%E9%99%8D%E8%96%AA"
       },
       "raw_titles": [
-        "假面骑士ZZZ"
+        "哈登为何选择降薪"
       ],
-      "rank": 8,
+      "rank": 5,
       "sports_rank": 3
-    },
-    {
-      "title": "皇马4-0马拉加",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 290875,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC4-0%E9%A9%AC%E6%8B%89%E5%8A%A0"
-      },
-      "raw_titles": [
-        "皇马4-0马拉加"
-      ],
-      "rank": 9,
-      "sports_rank": 4
     },
     {
       "title": "B费帽子戏法助曼联大胜",
@@ -384,15 +370,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 290763,
+      "hot_value": 360098,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=B%E8%B4%B9%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%E5%8A%A9%E6%9B%BC%E8%81%94%E5%A4%A7%E8%83%9C"
       },
       "raw_titles": [
         "B费帽子戏法助曼联大胜"
       ],
-      "rank": 10,
+      "rank": 7,
+      "sports_rank": 4
+    },
+    {
+      "title": "郑钦文美网首轮战16岁黑马",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E9%A6%96%E8%BD%AE%E6%88%9816%E5%B2%81%E9%BB%91%E9%A9%AC&sa=fyb_news"
+      },
+      "raw_titles": [
+        "郑钦文美网首轮战16岁黑马"
+      ],
+      "rank": 9,
       "sports_rank": 5
+    },
+    {
+      "title": "樊振东朱婷为何淡出国家队",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 230524,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9C%B1%E5%A9%B7%E4%B8%BA%E4%BD%95%E6%B7%A1%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F"
+      },
+      "raw_titles": [
+        "樊振东朱婷为何淡出国家队"
+      ],
+      "rank": 13,
+      "sports_rank": 6
+    },
+    {
+      "title": "9月机票价格跳水",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 225000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=9%E6%9C%88%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "9月机票价格跳水"
+      ],
+      "rank": 14,
+      "sports_rank": 7
     },
     {
       "title": "中方对挪威国王不幸逝世表示深切哀悼",
@@ -400,15 +434,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 27000,
+      "hot_value": 90000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%8C%AA%E5%A8%81%E5%9B%BD%E7%8E%8B%E4%B8%8D%E5%B9%B8%E9%80%9D%E4%B8%96%E8%A1%A8%E7%A4%BA%E6%B7%B1%E5%88%87%E5%93%80%E6%82%BC&sa=fyb_news"
       },
       "raw_titles": [
         "中方对挪威国王不幸逝世表示深切哀悼"
       ],
+      "rank": 18,
+      "sports_rank": 8
+    },
+    {
+      "title": "张伟丽入选UFC名人堂",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%85%A5%E9%80%89UFC%E5%90%8D%E4%BA%BA%E5%A0%82&sa=fyb_news"
+      },
+      "raw_titles": [
+        "张伟丽入选UFC名人堂"
+      ],
       "rank": 19,
-      "sports_rank": 6
+      "sports_rank": 9
     }
   ],
   "movies": [
@@ -418,7 +468,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7832869,
+      "hot_value": 8019359,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98"
       },
@@ -434,7 +484,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7706290,
+      "hot_value": 7731800,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%A9%BA%E6%9E%AA%E6%9C%B1%E4%B8%80%E9%BE%99%E6%AD%8C%E5%A3%B0%E5%94%B1%E5%87%BA%E5%BC%BA%E5%93%A5%E5%91%BD%E8%BF%90"
       },
@@ -445,51 +495,51 @@
       "movie_rank": 2
     },
     {
-      "title": "UP主动画幽差第二集",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 427475,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
-      },
-      "raw_titles": [
-        "UP主动画幽差第二集"
-      ],
-      "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "“荷兰弟”登顶全球影史男演员票房榜",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E8%8D%B7%E5%85%B0%E5%BC%9F%E2%80%9D%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E7%94%B7%E6%BC%94%E5%91%98%E7%A5%A8%E6%88%BF%E6%A6%9C&sa=fyb_news"
-      },
-      "raw_titles": [
-        "“荷兰弟”登顶全球影史男演员票房榜"
-      ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
       "title": "凡人修仙传189集逐帧解析",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 373434,
+      "hot_value": 369409,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0189%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
         "凡人修仙传189集逐帧解析"
       ],
-      "rank": 7,
+      "rank": 6,
+      "movie_rank": 3
+    },
+    {
+      "title": "UP主动画幽差第二集",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 338533,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
+      },
+      "raw_titles": [
+        "UP主动画幽差第二集"
+      ],
+      "rank": 8,
+      "movie_rank": 4
+    },
+    {
+      "title": "爱在无尽夏不让拍路透了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 305056,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%9C%A8%E6%97%A0%E5%B0%BD%E5%A4%8F%E4%B8%8D%E8%AE%A9%E6%8B%8D%E8%B7%AF%E9%80%8F%E4%BA%86"
+      },
+      "raw_titles": [
+        "爱在无尽夏不让拍路透了"
+      ],
+      "rank": 10,
       "movie_rank": 5
     },
     {
@@ -509,20 +559,52 @@
       "movie_rank": 6
     },
     {
+      "title": "北京偶遇井柏然李荣浩逛街",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 230591,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%81%B6%E9%81%87%E4%BA%95%E6%9F%8F%E7%84%B6%E6%9D%8E%E8%8D%A3%E6%B5%A9%E9%80%9B%E8%A1%97"
+      },
+      "raw_titles": [
+        "北京偶遇井柏然李荣浩逛街"
+      ],
+      "rank": 12,
+      "movie_rank": 7
+    },
+    {
       "title": "AI电视剧登陆湖南卫视黄金档",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 252000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=AI%E7%94%B5%E8%A7%86%E5%89%A7%E7%99%BB%E9%99%86%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E9%BB%84%E9%87%91%E6%A1%A3&sa=fyb_news"
       },
       "raw_titles": [
         "AI电视剧登陆湖南卫视黄金档"
       ],
-      "rank": 12,
-      "movie_rank": 7
+      "rank": 15,
+      "movie_rank": 8
+    },
+    {
+      "title": "“荷兰弟”登顶全球影史男演员票房榜",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E8%8D%B7%E5%85%B0%E5%BC%9F%E2%80%9D%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E7%94%B7%E6%BC%94%E5%91%98%E7%A5%A8%E6%88%BF%E6%A6%9C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "“荷兰弟”登顶全球影史男演员票房榜"
+      ],
+      "rank": 16,
+      "movie_rank": 9
     },
     {
       "title": "梅艳芳母亲3个子女均因患癌去世",
@@ -530,95 +612,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 126000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E6%AF%8D%E4%BA%B23%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9D%87%E5%9B%A0%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news"
       },
       "raw_titles": [
         "梅艳芳母亲3个子女均因患癌去世"
       ],
-      "rank": 13,
-      "movie_rank": 8
-    },
-    {
-      "title": "北京偶遇井柏然李荣浩逛街",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 210847,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%81%B6%E9%81%87%E4%BA%95%E6%9F%8F%E7%84%B6%E6%9D%8E%E8%8D%A3%E6%B5%A9%E9%80%9B%E8%A1%97"
-      },
-      "raw_titles": [
-        "北京偶遇井柏然李荣浩逛街"
-      ],
-      "rank": 14,
-      "movie_rank": 9
-    },
-    {
-      "title": "杨幂双马尾女高",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 189493,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%A5%B3%E9%AB%98"
-      },
-      "raw_titles": [
-        "杨幂双马尾女高"
-      ],
-      "rank": 15,
-      "movie_rank": 10
-    },
-    {
-      "title": "爱在无尽夏不让拍路透了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 168912,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%9C%A8%E6%97%A0%E5%B0%BD%E5%A4%8F%E4%B8%8D%E8%AE%A9%E6%8B%8D%E8%B7%AF%E9%80%8F%E4%BA%86"
-      },
-      "raw_titles": [
-        "爱在无尽夏不让拍路透了"
-      ],
-      "rank": 16,
-      "movie_rank": 11
-    },
-    {
-      "title": "A股收官之战",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 138888,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=A%E8%82%A1%E6%94%B6%E5%AE%98%E4%B9%8B%E6%88%98"
-      },
-      "raw_titles": [
-        "A股收官之战"
-      ],
       "rank": 17,
-      "movie_rank": 12
-    },
-    {
-      "title": "娜扎点烟镜头封神",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 135027,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%82%B9%E7%83%9F%E9%95%9C%E5%A4%B4%E5%B0%81%E7%A5%9E"
-      },
-      "raw_titles": [
-        "娜扎点烟镜头封神"
-      ],
-      "rank": 18,
-      "movie_rank": 13
+      "movie_rank": 10
     }
   ]
 }
