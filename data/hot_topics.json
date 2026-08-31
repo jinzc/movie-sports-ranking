@@ -1,6 +1,6 @@
 {
-  "update_time": "2026-08-31 10:00:47",
-  "total": 21,
+  "update_time": "2026-08-31 11:00:50",
+  "total": 22,
   "sports_count": 13,
   "movie_count": 10,
   "all": [
@@ -10,7 +10,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 12104021,
+      "hot_value": 12101139,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%922%3A3%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92"
       },
@@ -26,7 +26,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9021559,
+      "hot_value": 9066618,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9B%BC%E8%81%945%3A2%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%87%E5%8F%96%E8%B5%9B%E5%AD%A3%E9%A6%96%E8%83%9C"
       },
@@ -37,20 +37,38 @@
       "sports_rank": 2
     },
     {
+      "title": "皇马4:0马拉加",
+      "category": "体育",
+      "sources": [
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 8840016,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC4%3A0%E9%A9%AC%E6%8B%89%E5%8A%A0",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC4-0%E9%A9%AC%E6%8B%89%E5%8A%A0"
+      },
+      "raw_titles": [
+        "皇马4:0马拉加"
+      ],
+      "rank": 3,
+      "sports_rank": 3
+    },
+    {
       "title": "切尔西官宣签下马丁内斯",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7710612,
+      "hot_value": 7708242,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF%E5%AE%98%E5%AE%A3%E7%AD%BE%E4%B8%8B%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF"
       },
       "raw_titles": [
         "切尔西官宣签下马丁内斯"
       ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "文牧野称沈腾蒋奇明完全代入角色",
@@ -58,163 +76,33 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7696293,
+      "hot_value": 7687951,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%96%87%E7%89%A7%E9%87%8E%E7%A7%B0%E6%B2%88%E8%85%BE%E8%92%8B%E5%A5%87%E6%98%8E%E5%AE%8C%E5%85%A8%E4%BB%A3%E5%85%A5%E8%A7%92%E8%89%B2"
       },
       "raw_titles": [
         "文牧野称沈腾蒋奇明完全代入角色"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 1
     },
     {
-      "title": "女排 朱婷",
-      "category": "体育",
+      "title": "梅艳芳母亲3个子女均因患癌去世",
+      "category": "影视",
       "sources": [
         "微博",
         "百度"
       ],
-      "hot_value": 1568957,
+      "hot_value": 487680,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%8E%92%20%E6%9C%B1%E5%A9%B7",
-        "百度": "https://m.baidu.com/s?word=%E5%A5%B3%E6%8E%92+%E6%9C%B1%E5%A9%B7&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%89%B3%E8%8A%B3%E6%AF%8D%E4%BA%B23%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9D%87%E5%9B%A0%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96",
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E6%AF%8D%E4%BA%B23%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9D%87%E5%9B%A0%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news"
       },
       "raw_titles": [
-        "女排 朱婷"
-      ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "杨洋花少下沉口碑",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 616754,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E8%8A%B1%E5%B0%91%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91"
-      },
-      "raw_titles": [
-        "杨洋花少下沉口碑"
+        "梅艳芳母亲3个子女均因患癌去世"
       ],
       "rank": 6,
       "movie_rank": 2
-    },
-    {
-      "title": "B费帽子戏法助曼联大胜",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 559345,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=B%E8%B4%B9%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%E5%8A%A9%E6%9B%BC%E8%81%94%E5%A4%A7%E8%83%9C"
-      },
-      "raw_titles": [
-        "B费帽子戏法助曼联大胜"
-      ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "假面骑士ZZZ",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 466948,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
-      },
-      "raw_titles": [
-        "假面骑士ZZZ"
-      ],
-      "rank": 8,
-      "sports_rank": 6
-    },
-    {
-      "title": "皇马4-0马拉加",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 465205,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC4-0%E9%A9%AC%E6%8B%89%E5%8A%A0"
-      },
-      "raw_titles": [
-        "皇马4-0马拉加"
-      ],
-      "rank": 9,
-      "sports_rank": 7
-    },
-    {
-      "title": "乐高蝙蝠侠黑暗骑士之遗开发者专访",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 382928,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B9%90%E9%AB%98%E8%9D%99%E8%9D%A0%E4%BE%A0%E9%BB%91%E6%9A%97%E9%AA%91%E5%A3%AB%E4%B9%8B%E9%81%97%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%93%E8%AE%BF"
-      },
-      "raw_titles": [
-        "乐高蝙蝠侠黑暗骑士之遗开发者专访"
-      ],
-      "rank": 10,
-      "sports_rank": 8,
-      "movie_rank": 3
-    },
-    {
-      "title": "万字拆解暗影蜘蛛侠",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 381392,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3%E6%9A%97%E5%BD%B1%E8%9C%98%E8%9B%9B%E4%BE%A0"
-      },
-      "raw_titles": [
-        "万字拆解暗影蜘蛛侠"
-      ],
-      "rank": 11,
-      "movie_rank": 4
-    },
-    {
-      "title": "锐评假面骑士大结局",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 374676,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "锐评假面骑士大结局"
-      ],
-      "rank": 12,
-      "sports_rank": 9,
-      "movie_rank": 5
-    },
-    {
-      "title": "凡人修仙传189集逐帧解析",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 372279,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0189%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
-      },
-      "raw_titles": [
-        "凡人修仙传189集逐帧解析"
-      ],
-      "rank": 13,
-      "movie_rank": 6
     },
     {
       "title": "Spirit EWC夺冠Vlog",
@@ -222,49 +110,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 369186,
+      "hot_value": 471200,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=Spirit%20EWC%E5%A4%BA%E5%86%A0Vlog"
       },
       "raw_titles": [
         "Spirit EWC夺冠Vlog"
       ],
-      "rank": 14,
-      "sports_rank": 10
+      "rank": 7,
+      "sports_rank": 5
     },
     {
-      "title": "综艺节目遗留道具2年成海滩垃圾",
-      "category": "影视",
+      "title": "B费帽子戏法助曼联大胜",
+      "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 360000,
+      "hot_value": 413392,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E9%81%97%E7%95%99%E9%81%93%E5%85%B72%E5%B9%B4%E6%88%90%E6%B5%B7%E6%BB%A9%E5%9E%83%E5%9C%BE&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=B%E8%B4%B9%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%E5%8A%A9%E6%9B%BC%E8%81%94%E5%A4%A7%E8%83%9C"
       },
       "raw_titles": [
-        "综艺节目遗留道具2年成海滩垃圾"
+        "B费帽子戏法助曼联大胜"
       ],
-      "rank": 15,
-      "movie_rank": 7
+      "rank": 8,
+      "sports_rank": 6
     },
     {
-      "title": "爷爷去世前怕孙女饿提前包好饺子",
-      "category": "影视",
+      "title": "印第安纳步行者要改名了",
+      "category": "体育",
       "sources": [
-        "微博",
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 299776,
+      "hot_value": 413388,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E6%80%95%E5%AD%99%E5%A5%B3%E9%A5%BF%E6%8F%90%E5%89%8D%E5%8C%85%E5%A5%BD%E9%A5%BA%E5%AD%90",
-        "百度": "https://m.baidu.com/s?word=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E6%80%95%E5%AD%99%E5%A5%B3%E9%A5%BF%E6%8F%90%E5%89%8D%E5%8C%85%E5%A5%BD%E9%A5%BA%E5%AD%90&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%BA%B3%E6%AD%A5%E8%A1%8C%E8%80%85%E8%A6%81%E6%94%B9%E5%90%8D%E4%BA%86"
       },
       "raw_titles": [
-        "爷爷去世前怕孙女饿提前包好饺子"
+        "印第安纳步行者要改名了"
       ],
-      "rank": 16,
-      "movie_rank": 8
+      "rank": 9,
+      "sports_rank": 7
     },
     {
       "title": "泰国女排主帅称中国队百分百晋级奥运会",
@@ -273,7 +159,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 244378,
+      "hot_value": 362384,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%BB%E5%B8%85%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%99%BE%E5%88%86%E7%99%BE%E6%99%8B%E7%BA%A7%E5%A5%A5%E8%BF%90%E4%BC%9A",
         "百度": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%BB%E5%B8%85%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%98%9F100%25%E6%99%8B%E7%BA%A7%E5%A5%A5%E8%BF%90&sa=fyb_news"
@@ -281,56 +167,153 @@
       "raw_titles": [
         "泰国女排主帅称中国队百分百晋级奥运会"
       ],
-      "rank": 17,
-      "sports_rank": 11
+      "rank": 10,
+      "sports_rank": 8
     },
     {
-      "title": "梅艳芳母亲3个子女均因患癌去世",
+      "title": "杨洋花少下沉口碑",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 204339,
+      "hot_value": 345478,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%89%B3%E8%8A%B3%E6%AF%8D%E4%BA%B23%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9D%87%E5%9B%A0%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E8%8A%B1%E5%B0%91%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
-        "梅艳芳母亲3个子女均因患癌去世"
+        "杨洋花少下沉口碑"
       ],
-      "rank": 18,
-      "movie_rank": 9
+      "rank": 11,
+      "movie_rank": 3
     },
     {
-      "title": "吴敬平回应为樊振东说话",
+      "title": "假面骑士ZZZ",
       "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 329812,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
+      },
+      "raw_titles": [
+        "假面骑士ZZZ"
+      ],
+      "rank": 12,
+      "sports_rank": 9
+    },
+    {
+      "title": "万字拆解暗影蜘蛛侠",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 324800,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3%E6%9A%97%E5%BD%B1%E8%9C%98%E8%9B%9B%E4%BE%A0"
+      },
+      "raw_titles": [
+        "万字拆解暗影蜘蛛侠"
+      ],
+      "rank": 13,
+      "movie_rank": 4
+    },
+    {
+      "title": "中国人的含蓄在饺子面前露馅了",
+      "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 180966,
+      "hot_value": 324343,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E6%95%AC%E5%B9%B3%E5%9B%9E%E5%BA%94%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E8%AF%9D"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%90%AB%E8%93%84%E5%9C%A8%E9%A5%BA%E5%AD%90%E9%9D%A2%E5%89%8D%E9%9C%B2%E9%A6%85%E4%BA%86"
       },
       "raw_titles": [
-        "吴敬平回应为樊振东说话"
+        "中国人的含蓄在饺子面前露馅了"
       ],
-      "rank": 19,
-      "sports_rank": 12
+      "rank": 14,
+      "movie_rank": 5
     },
     {
-      "title": "2026年香港小姐获奖名单",
+      "title": "爷爷去世前怕孙女饿提前包好饺子",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 315000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=2026%E5%B9%B4%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E6%80%95%E5%AD%99%E5%A5%B3%E9%A5%BF%E6%8F%90%E5%89%8D%E5%8C%85%E5%A5%BD%E9%A5%BA%E5%AD%90&sa=fyb_news"
       },
       "raw_titles": [
-        "2026年香港小姐获奖名单"
+        "爷爷去世前怕孙女饿提前包好饺子"
       ],
-      "rank": 20,
-      "movie_rank": 10
+      "rank": 15,
+      "movie_rank": 6
+    },
+    {
+      "title": "网友偶遇了刘亦菲妈妈",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 304380,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E4%BA%86%E5%88%98%E4%BA%A6%E8%8F%B2%E5%A6%88%E5%A6%88"
+      },
+      "raw_titles": [
+        "网友偶遇了刘亦菲妈妈"
+      ],
+      "rank": 16,
+      "movie_rank": 7
+    },
+    {
+      "title": "综艺节目遗留道具2年成海滩垃圾",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 297000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E9%81%97%E7%95%99%E9%81%93%E5%85%B72%E5%B9%B4%E6%88%90%E6%B5%B7%E6%BB%A9%E5%9E%83%E5%9C%BE&sa=fyb_news"
+      },
+      "raw_titles": [
+        "综艺节目遗留道具2年成海滩垃圾"
+      ],
+      "rank": 17,
+      "movie_rank": 8
+    },
+    {
+      "title": "锐评假面骑士大结局",
+      "category": "综合",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 285320,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E5%A4%A7%E7%BB%93%E5%B1%80"
+      },
+      "raw_titles": [
+        "锐评假面骑士大结局"
+      ],
+      "rank": 18,
+      "sports_rank": 10,
+      "movie_rank": 9
+    },
+    {
+      "title": "中国女排2-3泰国无缘直通奥运",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 251263,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%922-3%E6%B3%B0%E5%9B%BD%E6%97%A0%E7%BC%98%E7%9B%B4%E9%80%9A%E5%A5%A5%E8%BF%90"
+      },
+      "raw_titles": [
+        "中国女排2-3泰国无缘直通奥运"
+      ],
+      "rank": 19,
+      "sports_rank": 11
     },
     {
       "title": "率泰国女排夺冠的主教练是冯坤老公",
@@ -338,15 +321,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 135000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%87%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%E7%9A%84%E4%B8%BB%E6%95%99%E7%BB%83%E6%98%AF%E5%86%AF%E5%9D%A4%E8%80%81%E5%85%AC&sa=fyb_news"
       },
       "raw_titles": [
         "率泰国女排夺冠的主教练是冯坤老公"
       ],
+      "rank": 20,
+      "sports_rank": 12
+    },
+    {
+      "title": "陈忠和为泰国女排夺冠颁奖",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 54000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%99%88%E5%BF%A0%E5%92%8C%E4%B8%BA%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%E9%A2%81%E5%A5%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "陈忠和为泰国女排夺冠颁奖"
+      ],
       "rank": 21,
       "sports_rank": 13
+    },
+    {
+      "title": "2026年香港小姐获奖名单",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=2026%E5%B9%B4%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
+      },
+      "raw_titles": [
+        "2026年香港小姐获奖名单"
+      ],
+      "rank": 22,
+      "movie_rank": 10
     }
   ],
   "sports": [
@@ -356,7 +371,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 12104021,
+      "hot_value": 12101139,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%922%3A3%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92"
       },
@@ -372,7 +387,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9021559,
+      "hot_value": 9066618,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9B%BC%E8%81%945%3A2%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%87%E5%8F%96%E8%B5%9B%E5%AD%A3%E9%A6%96%E8%83%9C"
       },
@@ -383,120 +398,38 @@
       "sports_rank": 2
     },
     {
+      "title": "皇马4:0马拉加",
+      "category": "体育",
+      "sources": [
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 8840016,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC4%3A0%E9%A9%AC%E6%8B%89%E5%8A%A0",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC4-0%E9%A9%AC%E6%8B%89%E5%8A%A0"
+      },
+      "raw_titles": [
+        "皇马4:0马拉加"
+      ],
+      "rank": 3,
+      "sports_rank": 3
+    },
+    {
       "title": "切尔西官宣签下马丁内斯",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7710612,
+      "hot_value": 7708242,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF%E5%AE%98%E5%AE%A3%E7%AD%BE%E4%B8%8B%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF"
       },
       "raw_titles": [
         "切尔西官宣签下马丁内斯"
       ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "女排 朱婷",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1568957,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%8E%92%20%E6%9C%B1%E5%A9%B7",
-        "百度": "https://m.baidu.com/s?word=%E5%A5%B3%E6%8E%92+%E6%9C%B1%E5%A9%B7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "女排 朱婷"
-      ],
-      "rank": 5,
+      "rank": 4,
       "sports_rank": 4
-    },
-    {
-      "title": "B费帽子戏法助曼联大胜",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 559345,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=B%E8%B4%B9%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%E5%8A%A9%E6%9B%BC%E8%81%94%E5%A4%A7%E8%83%9C"
-      },
-      "raw_titles": [
-        "B费帽子戏法助曼联大胜"
-      ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "假面骑士ZZZ",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 466948,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
-      },
-      "raw_titles": [
-        "假面骑士ZZZ"
-      ],
-      "rank": 8,
-      "sports_rank": 6
-    },
-    {
-      "title": "皇马4-0马拉加",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 465205,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC4-0%E9%A9%AC%E6%8B%89%E5%8A%A0"
-      },
-      "raw_titles": [
-        "皇马4-0马拉加"
-      ],
-      "rank": 9,
-      "sports_rank": 7
-    },
-    {
-      "title": "乐高蝙蝠侠黑暗骑士之遗开发者专访",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 382928,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B9%90%E9%AB%98%E8%9D%99%E8%9D%A0%E4%BE%A0%E9%BB%91%E6%9A%97%E9%AA%91%E5%A3%AB%E4%B9%8B%E9%81%97%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%93%E8%AE%BF"
-      },
-      "raw_titles": [
-        "乐高蝙蝠侠黑暗骑士之遗开发者专访"
-      ],
-      "rank": 10,
-      "sports_rank": 8,
-      "movie_rank": 3
-    },
-    {
-      "title": "锐评假面骑士大结局",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 374676,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "锐评假面骑士大结局"
-      ],
-      "rank": 12,
-      "sports_rank": 9,
-      "movie_rank": 5
     },
     {
       "title": "Spirit EWC夺冠Vlog",
@@ -504,15 +437,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 369186,
+      "hot_value": 471200,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=Spirit%20EWC%E5%A4%BA%E5%86%A0Vlog"
       },
       "raw_titles": [
         "Spirit EWC夺冠Vlog"
       ],
-      "rank": 14,
-      "sports_rank": 10
+      "rank": 7,
+      "sports_rank": 5
+    },
+    {
+      "title": "B费帽子戏法助曼联大胜",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 413392,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=B%E8%B4%B9%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%E5%8A%A9%E6%9B%BC%E8%81%94%E5%A4%A7%E8%83%9C"
+      },
+      "raw_titles": [
+        "B费帽子戏法助曼联大胜"
+      ],
+      "rank": 8,
+      "sports_rank": 6
+    },
+    {
+      "title": "印第安纳步行者要改名了",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 413388,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%BA%B3%E6%AD%A5%E8%A1%8C%E8%80%85%E8%A6%81%E6%94%B9%E5%90%8D%E4%BA%86"
+      },
+      "raw_titles": [
+        "印第安纳步行者要改名了"
+      ],
+      "rank": 9,
+      "sports_rank": 7
     },
     {
       "title": "泰国女排主帅称中国队百分百晋级奥运会",
@@ -521,7 +486,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 244378,
+      "hot_value": 362384,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%BB%E5%B8%85%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%99%BE%E5%88%86%E7%99%BE%E6%99%8B%E7%BA%A7%E5%A5%A5%E8%BF%90%E4%BC%9A",
         "百度": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%BB%E5%B8%85%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%98%9F100%25%E6%99%8B%E7%BA%A7%E5%A5%A5%E8%BF%90&sa=fyb_news"
@@ -529,24 +494,57 @@
       "raw_titles": [
         "泰国女排主帅称中国队百分百晋级奥运会"
       ],
-      "rank": 17,
-      "sports_rank": 11
+      "rank": 10,
+      "sports_rank": 8
     },
     {
-      "title": "吴敬平回应为樊振东说话",
+      "title": "假面骑士ZZZ",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 180966,
+      "hot_value": 329812,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E6%95%AC%E5%B9%B3%E5%9B%9E%E5%BA%94%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E8%AF%9D"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
       },
       "raw_titles": [
-        "吴敬平回应为樊振东说话"
+        "假面骑士ZZZ"
+      ],
+      "rank": 12,
+      "sports_rank": 9
+    },
+    {
+      "title": "锐评假面骑士大结局",
+      "category": "综合",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 285320,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E5%A4%A7%E7%BB%93%E5%B1%80"
+      },
+      "raw_titles": [
+        "锐评假面骑士大结局"
+      ],
+      "rank": 18,
+      "sports_rank": 10,
+      "movie_rank": 9
+    },
+    {
+      "title": "中国女排2-3泰国无缘直通奥运",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 251263,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%922-3%E6%B3%B0%E5%9B%BD%E6%97%A0%E7%BC%98%E7%9B%B4%E9%80%9A%E5%A5%A5%E8%BF%90"
+      },
+      "raw_titles": [
+        "中国女排2-3泰国无缘直通奥运"
       ],
       "rank": 19,
-      "sports_rank": 12
+      "sports_rank": 11
     },
     {
       "title": "率泰国女排夺冠的主教练是冯坤老公",
@@ -554,12 +552,28 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 135000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%87%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%E7%9A%84%E4%B8%BB%E6%95%99%E7%BB%83%E6%98%AF%E5%86%AF%E5%9D%A4%E8%80%81%E5%85%AC&sa=fyb_news"
       },
       "raw_titles": [
         "率泰国女排夺冠的主教练是冯坤老公"
+      ],
+      "rank": 20,
+      "sports_rank": 12
+    },
+    {
+      "title": "陈忠和为泰国女排夺冠颁奖",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 54000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%99%88%E5%BF%A0%E5%92%8C%E4%B8%BA%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%E9%A2%81%E5%A5%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "陈忠和为泰国女排夺冠颁奖"
       ],
       "rank": 21,
       "sports_rank": 13
@@ -572,15 +586,33 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7696293,
+      "hot_value": 7687951,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%96%87%E7%89%A7%E9%87%8E%E7%A7%B0%E6%B2%88%E8%85%BE%E8%92%8B%E5%A5%87%E6%98%8E%E5%AE%8C%E5%85%A8%E4%BB%A3%E5%85%A5%E8%A7%92%E8%89%B2"
       },
       "raw_titles": [
         "文牧野称沈腾蒋奇明完全代入角色"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 1
+    },
+    {
+      "title": "梅艳芳母亲3个子女均因患癌去世",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 487680,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%89%B3%E8%8A%B3%E6%AF%8D%E4%BA%B23%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9D%87%E5%9B%A0%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96",
+        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E6%AF%8D%E4%BA%B23%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9D%87%E5%9B%A0%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "梅艳芳母亲3个子女均因患癌去世"
+      ],
+      "rank": 6,
+      "movie_rank": 2
     },
     {
       "title": "杨洋花少下沉口碑",
@@ -588,31 +620,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 616754,
+      "hot_value": 345478,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E8%8A%B1%E5%B0%91%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "杨洋花少下沉口碑"
       ],
-      "rank": 6,
-      "movie_rank": 2
-    },
-    {
-      "title": "乐高蝙蝠侠黑暗骑士之遗开发者专访",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 382928,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B9%90%E9%AB%98%E8%9D%99%E8%9D%A0%E4%BE%A0%E9%BB%91%E6%9A%97%E9%AA%91%E5%A3%AB%E4%B9%8B%E9%81%97%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%93%E8%AE%BF"
-      },
-      "raw_titles": [
-        "乐高蝙蝠侠黑暗骑士之遗开发者专访"
-      ],
-      "rank": 10,
-      "sports_rank": 8,
+      "rank": 11,
       "movie_rank": 3
     },
     {
@@ -621,48 +636,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 381392,
+      "hot_value": 324800,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3%E6%9A%97%E5%BD%B1%E8%9C%98%E8%9B%9B%E4%BE%A0"
       },
       "raw_titles": [
         "万字拆解暗影蜘蛛侠"
       ],
-      "rank": 11,
+      "rank": 13,
       "movie_rank": 4
     },
     {
-      "title": "锐评假面骑士大结局",
-      "category": "综合",
+      "title": "中国人的含蓄在饺子面前露馅了",
+      "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 374676,
+      "hot_value": 324343,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E5%A4%A7%E7%BB%93%E5%B1%80"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%90%AB%E8%93%84%E5%9C%A8%E9%A5%BA%E5%AD%90%E9%9D%A2%E5%89%8D%E9%9C%B2%E9%A6%85%E4%BA%86"
       },
       "raw_titles": [
-        "锐评假面骑士大结局"
+        "中国人的含蓄在饺子面前露馅了"
       ],
-      "rank": 12,
-      "sports_rank": 9,
+      "rank": 14,
       "movie_rank": 5
     },
     {
-      "title": "凡人修仙传189集逐帧解析",
+      "title": "爷爷去世前怕孙女饿提前包好饺子",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 372279,
+      "hot_value": 315000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0189%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
+        "百度": "https://m.baidu.com/s?word=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E6%80%95%E5%AD%99%E5%A5%B3%E9%A5%BF%E6%8F%90%E5%89%8D%E5%8C%85%E5%A5%BD%E9%A5%BA%E5%AD%90&sa=fyb_news"
       },
       "raw_titles": [
-        "凡人修仙传189集逐帧解析"
+        "爷爷去世前怕孙女饿提前包好饺子"
       ],
-      "rank": 13,
+      "rank": 15,
       "movie_rank": 6
+    },
+    {
+      "title": "网友偶遇了刘亦菲妈妈",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 304380,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E4%BA%86%E5%88%98%E4%BA%A6%E8%8F%B2%E5%A6%88%E5%A6%88"
+      },
+      "raw_titles": [
+        "网友偶遇了刘亦菲妈妈"
+      ],
+      "rank": 16,
+      "movie_rank": 7
     },
     {
       "title": "综艺节目遗留道具2年成海滩垃圾",
@@ -670,48 +700,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 360000,
+      "hot_value": 297000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E9%81%97%E7%95%99%E9%81%93%E5%85%B72%E5%B9%B4%E6%88%90%E6%B5%B7%E6%BB%A9%E5%9E%83%E5%9C%BE&sa=fyb_news"
       },
       "raw_titles": [
         "综艺节目遗留道具2年成海滩垃圾"
       ],
-      "rank": 15,
-      "movie_rank": 7
-    },
-    {
-      "title": "爷爷去世前怕孙女饿提前包好饺子",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 299776,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E6%80%95%E5%AD%99%E5%A5%B3%E9%A5%BF%E6%8F%90%E5%89%8D%E5%8C%85%E5%A5%BD%E9%A5%BA%E5%AD%90",
-        "百度": "https://m.baidu.com/s?word=%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E6%80%95%E5%AD%99%E5%A5%B3%E9%A5%BF%E6%8F%90%E5%89%8D%E5%8C%85%E5%A5%BD%E9%A5%BA%E5%AD%90&sa=fyb_news"
-      },
-      "raw_titles": [
-        "爷爷去世前怕孙女饿提前包好饺子"
-      ],
-      "rank": 16,
+      "rank": 17,
       "movie_rank": 8
     },
     {
-      "title": "梅艳芳母亲3个子女均因患癌去世",
-      "category": "影视",
+      "title": "锐评假面骑士大结局",
+      "category": "综合",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 204339,
+      "hot_value": 285320,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%89%B3%E8%8A%B3%E6%AF%8D%E4%BA%B23%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9D%87%E5%9B%A0%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
-        "梅艳芳母亲3个子女均因患癌去世"
+        "锐评假面骑士大结局"
       ],
       "rank": 18,
+      "sports_rank": 10,
       "movie_rank": 9
     },
     {
@@ -720,14 +733,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 45000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=2026%E5%B9%B4%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
       },
       "raw_titles": [
         "2026年香港小姐获奖名单"
       ],
-      "rank": 20,
+      "rank": 22,
       "movie_rank": 10
     }
   ]
