@@ -1,7 +1,7 @@
 {
-  "update_time": "2026-09-01 08:00:57",
-  "total": 25,
-  "sports_count": 14,
+  "update_time": "2026-09-01 09:00:49",
+  "total": 23,
+  "sports_count": 12,
   "movie_count": 11,
   "all": [
     {
@@ -12,7 +12,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12729907,
+      "hot_value": 12369641,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80",
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80",
@@ -25,36 +25,20 @@
       "sports_rank": 1
     },
     {
-      "title": "丁俊晖4比1卡扎科夫",
+      "title": "英超阿斯顿维拉0:1阿森纳",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7674370,
+      "hot_value": 10567532,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%964%E6%AF%941%E5%8D%A1%E6%89%8E%E7%A7%91%E5%A4%AB"
+        "抖音": "https://www.douyin.com/search/%E8%8B%B1%E8%B6%85%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%890%3A1%E9%98%BF%E6%A3%AE%E7%BA%B3"
       },
       "raw_titles": [
-        "丁俊晖4比1卡扎科夫"
+        "英超阿斯顿维拉0:1阿森纳"
       ],
       "rank": 2,
       "sports_rank": 2
-    },
-    {
-      "title": "我们的少年时代2收官",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7657621,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98"
-      },
-      "raw_titles": [
-        "我们的少年时代2收官"
-      ],
-      "rank": 3,
-      "movie_rank": 1
     },
     {
       "title": "UP主自制AI韩剧 漂亮的恶意",
@@ -62,14 +46,80 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1277568,
+      "hot_value": 1430509,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F"
       },
       "raw_titles": [
         "UP主自制AI韩剧 漂亮的恶意"
       ],
+      "rank": 3,
+      "movie_rank": 1
+    },
+    {
+      "title": "郑钦文终结柳托娃9连胜",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 408632,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%BB%88%E7%BB%93%E6%9F%B3%E6%89%98%E5%A8%839%E8%BF%9E%E8%83%9C",
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E7%BB%88%E7%BB%93%E6%9F%B3%E6%89%98%E5%A8%839%E8%BF%9E%E8%83%9C+%E5%AF%B9%E6%89%8B%E8%A2%AB%E6%89%93%E5%93%AD&sa=fyb_news"
+      },
+      "raw_titles": [
+        "郑钦文终结柳托娃9连胜"
+      ],
       "rank": 4,
+      "sports_rank": 3
+    },
+    {
+      "title": "我是NBA球员你是谁",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 333000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%88%91%E6%98%AFNBA%E7%90%83%E5%91%98%E4%BD%A0%E6%98%AF%E8%B0%81&sa=fyb_news"
+      },
+      "raw_titles": [
+        "我是NBA球员你是谁"
+      ],
+      "rank": 5,
+      "sports_rank": 4
+    },
+    {
+      "title": "24年NBA状元的困局",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 309224,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=24%E5%B9%B4NBA%E7%8A%B6%E5%85%83%E7%9A%84%E5%9B%B0%E5%B1%80"
+      },
+      "raw_titles": [
+        "24年NBA状元的困局"
+      ],
+      "rank": 6,
+      "sports_rank": 5
+    },
+    {
+      "title": "小片片解说釜山行导演新作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 286457,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
+      },
+      "raw_titles": [
+        "小片片解说釜山行导演新作"
+      ],
+      "rank": 7,
       "movie_rank": 2
     },
     {
@@ -78,79 +128,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 804104,
+      "hot_value": 271215,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%941%E6%9F%B3%E6%89%98%E5%A8%83"
       },
       "raw_titles": [
         "郑钦文2比1柳托娃"
       ],
-      "rank": 5,
-      "sports_rank": 3
+      "rank": 8,
+      "sports_rank": 6
     },
     {
-      "title": "舞蹈新风暴封神瞬间",
+      "title": "黄磊回应不再参加向往的生活",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 556440,
+      "hot_value": 264241,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%88%9E%E8%B9%88%E6%96%B0%E9%A3%8E%E6%9A%B4%E5%B0%81%E7%A5%9E%E7%9E%AC%E9%97%B4"
+        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB"
       },
       "raw_titles": [
-        "舞蹈新风暴封神瞬间"
-      ],
-      "rank": 6,
-      "movie_rank": 3
-    },
-    {
-      "title": "郑钦文终结柳托娃9连胜",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 447240,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%BB%88%E7%BB%93%E6%9F%B3%E6%89%98%E5%A8%839%E8%BF%9E%E8%83%9C"
-      },
-      "raw_titles": [
-        "郑钦文终结柳托娃9连胜"
-      ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "郑钦文逆转柳托娃晋级美网次轮",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E9%80%86%E8%BD%AC%E6%9F%B3%E6%89%98%E5%A8%83%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E6%AC%A1%E8%BD%AE&sa=fyb_news"
-      },
-      "raw_titles": [
-        "郑钦文逆转柳托娃晋级美网次轮"
-      ],
-      "rank": 8,
-      "sports_rank": 5
-    },
-    {
-      "title": "我是NBA球员你是谁",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 351000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%88%91%E6%98%AFNBA%E7%90%83%E5%91%98%E4%BD%A0%E6%98%AF%E8%B0%81&sa=fyb_news"
-      },
-      "raw_titles": [
-        "我是NBA球员你是谁"
+        "黄磊回应不再参加向往的生活"
       ],
       "rank": 9,
-      "sports_rank": 6
+      "movie_rank": 3
     },
     {
       "title": "一饭封神大厨私藏宝藏小店",
@@ -158,7 +160,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 231356,
+      "hot_value": 258528,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97"
       },
@@ -174,7 +176,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 225690,
+      "hot_value": 253519,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
       },
@@ -185,85 +187,52 @@
       "movie_rank": 5
     },
     {
-      "title": "武汉一高校新生有38位“奥运宝宝”",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 216000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E6%96%B0%E7%94%9F%E6%9C%8938%E4%BD%8D%E2%80%9C%E5%A5%A5%E8%BF%90%E5%AE%9D%E5%AE%9D%E2%80%9D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "武汉一高校新生有38位“奥运宝宝”"
-      ],
-      "rank": 12,
-      "sports_rank": 7
-    },
-    {
       "title": "披哥一公舞台看点速览",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 211809,
+      "hot_value": 252444,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E7%9C%8B%E7%82%B9%E9%80%9F%E8%A7%88"
       },
       "raw_titles": [
         "披哥一公舞台看点速览"
       ],
-      "rank": 13,
+      "rank": 12,
       "movie_rank": 6
     },
     {
-      "title": "黄磊回应不再参加向往的生活",
-      "category": "影视",
+      "title": "国足新星周报",
+      "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 197739,
+      "hot_value": 227758,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E6%96%B0%E6%98%9F%E5%91%A8%E6%8A%A5"
       },
       "raw_titles": [
-        "黄磊回应不再参加向往的生活"
+        "国足新星周报"
       ],
-      "rank": 14,
-      "movie_rank": 7
+      "rank": 13,
+      "sports_rank": 7
     },
     {
-      "title": "小片片解说釜山行导演新作",
+      "title": "UP主动画幽差第二集",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 186876,
+      "hot_value": 212330,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
       },
       "raw_titles": [
-        "小片片解说釜山行导演新作"
+        "UP主动画幽差第二集"
       ],
-      "rank": 15,
-      "movie_rank": 8
-    },
-    {
-      "title": "沈腾评论关晓彤无米版徐福烩饭",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "微博"
-      ],
-      "hot_value": 165839,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E5%9B%9E%E5%BA%94%E5%85%B3%E6%99%93%E5%BD%A4%E6%97%A0%E7%B1%B3%E7%89%88%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD"
-      },
-      "raw_titles": [
-        "沈腾评论关晓彤无米版徐福烩饭"
-      ],
-      "rank": 16,
-      "movie_rank": 9
+      "rank": 14,
+      "movie_rank": 7
     },
     {
       "title": "柳托娃落泪郑钦文拥抱",
@@ -271,63 +240,49 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 125403,
+      "hot_value": 176588,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9F%B3%E6%89%98%E5%A8%83%E8%90%BD%E6%B3%AA%E9%83%91%E9%92%A6%E6%96%87%E6%8B%A5%E6%8A%B1"
       },
       "raw_titles": [
         "柳托娃落泪郑钦文拥抱"
       ],
-      "rank": 17,
+      "rank": 15,
       "sports_rank": 8
     },
     {
-      "title": "詹俊谈阿根廷队长宣布国家队退役",
-      "category": "体育",
+      "title": "沈腾评论关晓彤无米版徐福烩饭",
+      "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 120376,
+      "hot_value": 148480,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E4%BF%8A%E8%B0%88%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%95%BF%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E8%AF%84%E8%AE%BA%E5%85%B3%E6%99%93%E5%BD%A4%E6%97%A0%E7%B1%B3%E7%89%88%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD"
       },
       "raw_titles": [
-        "詹俊谈阿根廷队长宣布国家队退役"
+        "沈腾评论关晓彤无米版徐福烩饭"
       ],
-      "rank": 18,
-      "sports_rank": 9
+      "rank": 16,
+      "movie_rank": 8
     },
     {
-      "title": "假面骑士ZZZ",
+      "title": "机票价又跳水",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "百度"
       ],
-      "hot_value": 114455,
+      "hot_value": 145422,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9C%BA%E7%A5%A8%E4%BB%B7%E5%8F%88%E8%B7%B3%E6%B0%B4",
+        "百度": "https://m.baidu.com/s?word=9%E6%9C%88%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4&sa=fyb_news"
       },
       "raw_titles": [
-        "假面骑士ZZZ"
+        "机票价又跳水"
       ],
-      "rank": 19,
-      "sports_rank": 10
-    },
-    {
-      "title": "UP主动画龙之使徒",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 107876,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E9%BE%99%E4%B9%8B%E4%BD%BF%E5%BE%92"
-      },
-      "raw_titles": [
-        "UP主动画龙之使徒"
-      ],
-      "rank": 20,
-      "movie_rank": 10
+      "rank": 17,
+      "sports_rank": 9
     },
     {
       "title": "2028洛杉矶奥运会",
@@ -335,79 +290,95 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 102212,
+      "hot_value": 136431,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=2028%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A"
       },
       "raw_titles": [
         "2028洛杉矶奥运会"
       ],
+      "rank": 18,
+      "sports_rank": 10
+    },
+    {
+      "title": "张凌赫人比滑梯长",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 125582,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%BA%E6%AF%94%E6%BB%91%E6%A2%AF%E9%95%BF"
+      },
+      "raw_titles": [
+        "张凌赫人比滑梯长"
+      ],
+      "rank": 19,
+      "movie_rank": 9
+    },
+    {
+      "title": "医生幽默回应吃几个饺子就长胖",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 120140,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E5%B9%BD%E9%BB%98%E5%9B%9E%E5%BA%94%E5%90%83%E5%87%A0%E4%B8%AA%E9%A5%BA%E5%AD%90%E5%B0%B1%E9%95%BF%E8%83%96"
+      },
+      "raw_titles": [
+        "医生幽默回应吃几个饺子就长胖"
+      ],
+      "rank": 20,
+      "movie_rank": 10
+    },
+    {
+      "title": "武汉一高校新生有38位“奥运宝宝”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 117000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E6%96%B0%E7%94%9F%E6%9C%8938%E4%BD%8D%E2%80%9C%E5%A5%A5%E8%BF%90%E5%AE%9D%E5%AE%9D%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "武汉一高校新生有38位“奥运宝宝”"
+      ],
       "rank": 21,
       "sports_rank": 11
     },
     {
-      "title": "梅艳芳哥哥：希望母亲与妹妹葬在一起",
+      "title": "魏大勋赵今麦 hi6",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 90000,
+      "hot_value": 115000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E5%93%A5%E5%93%A5%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%AF%8D%E4%BA%B2%E4%B8%8E%E5%A6%B9%E5%A6%B9%E8%91%AC%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B5%B5%E4%BB%8A%E9%BA%A6%20hi6"
       },
       "raw_titles": [
-        "梅艳芳哥哥：希望母亲与妹妹葬在一起"
+        "魏大勋赵今麦 hi6"
       ],
       "rank": 22,
       "movie_rank": 11
     },
     {
-      "title": "阿森纳1比0客胜维拉",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 83621,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B31%E6%AF%940%E5%AE%A2%E8%83%9C%E7%BB%B4%E6%8B%89"
-      },
-      "raw_titles": [
-        "阿森纳1比0客胜维拉"
-      ],
-      "rank": 23,
-      "sports_rank": 12
-    },
-    {
-      "title": "中国羽毛球协会副主席夏煊泽被查",
+      "title": "郑钦文逆转柳托娃晋级美网次轮",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 72000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E9%80%86%E8%BD%AC%E6%9F%B3%E6%89%98%E5%A8%83%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E6%AC%A1%E8%BD%AE&sa=fyb_news"
       },
       "raw_titles": [
-        "中国羽毛球协会副主席夏煊泽被查"
+        "郑钦文逆转柳托娃晋级美网次轮"
       ],
-      "rank": 24,
-      "sports_rank": 13
-    },
-    {
-      "title": "王俊杰怒夸杨瀚森：NBA超级高水平",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 45000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BF%8A%E6%9D%B0%E6%80%92%E5%A4%B8%E6%9D%A8%E7%80%9A%E6%A3%AE%EF%BC%9ANBA%E8%B6%85%E7%BA%A7%E9%AB%98%E6%B0%B4%E5%B9%B3&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王俊杰怒夸杨瀚森：NBA超级高水平"
-      ],
-      "rank": 25,
-      "sports_rank": 14
+      "rank": 23,
+      "sports_rank": 12
     }
   ],
   "sports": [
@@ -419,7 +390,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12729907,
+      "hot_value": 12369641,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80",
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80",
@@ -432,68 +403,38 @@
       "sports_rank": 1
     },
     {
-      "title": "丁俊晖4比1卡扎科夫",
+      "title": "英超阿斯顿维拉0:1阿森纳",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7674370,
+      "hot_value": 10567532,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%964%E6%AF%941%E5%8D%A1%E6%89%8E%E7%A7%91%E5%A4%AB"
+        "抖音": "https://www.douyin.com/search/%E8%8B%B1%E8%B6%85%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%890%3A1%E9%98%BF%E6%A3%AE%E7%BA%B3"
       },
       "raw_titles": [
-        "丁俊晖4比1卡扎科夫"
+        "英超阿斯顿维拉0:1阿森纳"
       ],
       "rank": 2,
       "sports_rank": 2
     },
     {
-      "title": "郑钦文2比1柳托娃",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 804104,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%941%E6%9F%B3%E6%89%98%E5%A8%83"
-      },
-      "raw_titles": [
-        "郑钦文2比1柳托娃"
-      ],
-      "rank": 5,
-      "sports_rank": 3
-    },
-    {
       "title": "郑钦文终结柳托娃9连胜",
       "category": "体育",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 447240,
+      "hot_value": 408632,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%BB%88%E7%BB%93%E6%9F%B3%E6%89%98%E5%A8%839%E8%BF%9E%E8%83%9C"
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%BB%88%E7%BB%93%E6%9F%B3%E6%89%98%E5%A8%839%E8%BF%9E%E8%83%9C",
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E7%BB%88%E7%BB%93%E6%9F%B3%E6%89%98%E5%A8%839%E8%BF%9E%E8%83%9C+%E5%AF%B9%E6%89%8B%E8%A2%AB%E6%89%93%E5%93%AD&sa=fyb_news"
       },
       "raw_titles": [
         "郑钦文终结柳托娃9连胜"
       ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "郑钦文逆转柳托娃晋级美网次轮",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E9%80%86%E8%BD%AC%E6%9F%B3%E6%89%98%E5%A8%83%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E6%AC%A1%E8%BD%AE&sa=fyb_news"
-      },
-      "raw_titles": [
-        "郑钦文逆转柳托娃晋级美网次轮"
-      ],
-      "rank": 8,
-      "sports_rank": 5
+      "rank": 4,
+      "sports_rank": 3
     },
     {
       "title": "我是NBA球员你是谁",
@@ -501,30 +442,62 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 351000,
+      "hot_value": 333000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%88%91%E6%98%AFNBA%E7%90%83%E5%91%98%E4%BD%A0%E6%98%AF%E8%B0%81&sa=fyb_news"
       },
       "raw_titles": [
         "我是NBA球员你是谁"
       ],
-      "rank": 9,
+      "rank": 5,
+      "sports_rank": 4
+    },
+    {
+      "title": "24年NBA状元的困局",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 309224,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=24%E5%B9%B4NBA%E7%8A%B6%E5%85%83%E7%9A%84%E5%9B%B0%E5%B1%80"
+      },
+      "raw_titles": [
+        "24年NBA状元的困局"
+      ],
+      "rank": 6,
+      "sports_rank": 5
+    },
+    {
+      "title": "郑钦文2比1柳托娃",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 271215,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%941%E6%9F%B3%E6%89%98%E5%A8%83"
+      },
+      "raw_titles": [
+        "郑钦文2比1柳托娃"
+      ],
+      "rank": 8,
       "sports_rank": 6
     },
     {
-      "title": "武汉一高校新生有38位“奥运宝宝”",
+      "title": "国足新星周报",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 216000,
+      "hot_value": 227758,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E6%96%B0%E7%94%9F%E6%9C%8938%E4%BD%8D%E2%80%9C%E5%A5%A5%E8%BF%90%E5%AE%9D%E5%AE%9D%E2%80%9D&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E6%96%B0%E6%98%9F%E5%91%A8%E6%8A%A5"
       },
       "raw_titles": [
-        "武汉一高校新生有38位“奥运宝宝”"
+        "国足新星周报"
       ],
-      "rank": 12,
+      "rank": 13,
       "sports_rank": 7
     },
     {
@@ -533,47 +506,33 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 125403,
+      "hot_value": 176588,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9F%B3%E6%89%98%E5%A8%83%E8%90%BD%E6%B3%AA%E9%83%91%E9%92%A6%E6%96%87%E6%8B%A5%E6%8A%B1"
       },
       "raw_titles": [
         "柳托娃落泪郑钦文拥抱"
       ],
-      "rank": 17,
+      "rank": 15,
       "sports_rank": 8
     },
     {
-      "title": "詹俊谈阿根廷队长宣布国家队退役",
+      "title": "机票价又跳水",
       "category": "体育",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 120376,
+      "hot_value": 145422,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E4%BF%8A%E8%B0%88%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%95%BF%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9C%BA%E7%A5%A8%E4%BB%B7%E5%8F%88%E8%B7%B3%E6%B0%B4",
+        "百度": "https://m.baidu.com/s?word=9%E6%9C%88%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4&sa=fyb_news"
       },
       "raw_titles": [
-        "詹俊谈阿根廷队长宣布国家队退役"
+        "机票价又跳水"
       ],
-      "rank": 18,
+      "rank": 17,
       "sports_rank": 9
-    },
-    {
-      "title": "假面骑士ZZZ",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 114455,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABZZZ"
-      },
-      "raw_titles": [
-        "假面骑士ZZZ"
-      ],
-      "rank": 19,
-      "sports_rank": 10
     },
     {
       "title": "2028洛杉矶奥运会",
@@ -581,112 +540,96 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 102212,
+      "hot_value": 136431,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=2028%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A"
       },
       "raw_titles": [
         "2028洛杉矶奥运会"
       ],
+      "rank": 18,
+      "sports_rank": 10
+    },
+    {
+      "title": "武汉一高校新生有38位“奥运宝宝”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 117000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E6%96%B0%E7%94%9F%E6%9C%8938%E4%BD%8D%E2%80%9C%E5%A5%A5%E8%BF%90%E5%AE%9D%E5%AE%9D%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "武汉一高校新生有38位“奥运宝宝”"
+      ],
       "rank": 21,
       "sports_rank": 11
     },
     {
-      "title": "阿森纳1比0客胜维拉",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 83621,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B31%E6%AF%940%E5%AE%A2%E8%83%9C%E7%BB%B4%E6%8B%89"
-      },
-      "raw_titles": [
-        "阿森纳1比0客胜维拉"
-      ],
-      "rank": 23,
-      "sports_rank": 12
-    },
-    {
-      "title": "中国羽毛球协会副主席夏煊泽被查",
+      "title": "郑钦文逆转柳托娃晋级美网次轮",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 72000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E9%80%86%E8%BD%AC%E6%9F%B3%E6%89%98%E5%A8%83%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E6%AC%A1%E8%BD%AE&sa=fyb_news"
       },
       "raw_titles": [
-        "中国羽毛球协会副主席夏煊泽被查"
+        "郑钦文逆转柳托娃晋级美网次轮"
       ],
-      "rank": 24,
-      "sports_rank": 13
-    },
-    {
-      "title": "王俊杰怒夸杨瀚森：NBA超级高水平",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 45000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BF%8A%E6%9D%B0%E6%80%92%E5%A4%B8%E6%9D%A8%E7%80%9A%E6%A3%AE%EF%BC%9ANBA%E8%B6%85%E7%BA%A7%E9%AB%98%E6%B0%B4%E5%B9%B3&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王俊杰怒夸杨瀚森：NBA超级高水平"
-      ],
-      "rank": 25,
-      "sports_rank": 14
+      "rank": 23,
+      "sports_rank": 12
     }
   ],
   "movies": [
-    {
-      "title": "我们的少年时代2收官",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7657621,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98"
-      },
-      "raw_titles": [
-        "我们的少年时代2收官"
-      ],
-      "rank": 3,
-      "movie_rank": 1
-    },
     {
       "title": "UP主自制AI韩剧 漂亮的恶意",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1277568,
+      "hot_value": 1430509,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F"
       },
       "raw_titles": [
         "UP主自制AI韩剧 漂亮的恶意"
       ],
-      "rank": 4,
+      "rank": 3,
+      "movie_rank": 1
+    },
+    {
+      "title": "小片片解说釜山行导演新作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 286457,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
+      },
+      "raw_titles": [
+        "小片片解说釜山行导演新作"
+      ],
+      "rank": 7,
       "movie_rank": 2
     },
     {
-      "title": "舞蹈新风暴封神瞬间",
+      "title": "黄磊回应不再参加向往的生活",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 556440,
+      "hot_value": 264241,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%88%9E%E8%B9%88%E6%96%B0%E9%A3%8E%E6%9A%B4%E5%B0%81%E7%A5%9E%E7%9E%AC%E9%97%B4"
+        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB"
       },
       "raw_titles": [
-        "舞蹈新风暴封神瞬间"
+        "黄磊回应不再参加向往的生活"
       ],
-      "rank": 6,
+      "rank": 9,
       "movie_rank": 3
     },
     {
@@ -695,7 +638,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 231356,
+      "hot_value": 258528,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97"
       },
@@ -711,7 +654,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 225690,
+      "hot_value": 253519,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%9394%E5%88%86%E9%92%9FAI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1"
       },
@@ -727,93 +670,92 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 211809,
+      "hot_value": 252444,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E7%9C%8B%E7%82%B9%E9%80%9F%E8%A7%88"
       },
       "raw_titles": [
         "披哥一公舞台看点速览"
       ],
-      "rank": 13,
+      "rank": 12,
       "movie_rank": 6
     },
     {
-      "title": "黄磊回应不再参加向往的生活",
+      "title": "UP主动画幽差第二集",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 197739,
+      "hot_value": 212330,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E5%B9%BD%E5%B7%AE%E7%AC%AC%E4%BA%8C%E9%9B%86"
       },
       "raw_titles": [
-        "黄磊回应不再参加向往的生活"
+        "UP主动画幽差第二集"
       ],
       "rank": 14,
       "movie_rank": 7
     },
     {
-      "title": "小片片解说釜山行导演新作",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 186876,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C"
-      },
-      "raw_titles": [
-        "小片片解说釜山行导演新作"
-      ],
-      "rank": 15,
-      "movie_rank": 8
-    },
-    {
       "title": "沈腾评论关晓彤无米版徐福烩饭",
       "category": "影视",
       "sources": [
-        "微博",
         "微博"
       ],
-      "hot_value": 165839,
+      "hot_value": 148480,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E5%9B%9E%E5%BA%94%E5%85%B3%E6%99%93%E5%BD%A4%E6%97%A0%E7%B1%B3%E7%89%88%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E8%AF%84%E8%AE%BA%E5%85%B3%E6%99%93%E5%BD%A4%E6%97%A0%E7%B1%B3%E7%89%88%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD"
       },
       "raw_titles": [
         "沈腾评论关晓彤无米版徐福烩饭"
       ],
       "rank": 16,
+      "movie_rank": 8
+    },
+    {
+      "title": "张凌赫人比滑梯长",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 125582,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%BA%E6%AF%94%E6%BB%91%E6%A2%AF%E9%95%BF"
+      },
+      "raw_titles": [
+        "张凌赫人比滑梯长"
+      ],
+      "rank": 19,
       "movie_rank": 9
     },
     {
-      "title": "UP主动画龙之使徒",
+      "title": "医生幽默回应吃几个饺子就长胖",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 107876,
+      "hot_value": 120140,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8A%A8%E7%94%BB%E9%BE%99%E4%B9%8B%E4%BD%BF%E5%BE%92"
+        "微博": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E5%B9%BD%E9%BB%98%E5%9B%9E%E5%BA%94%E5%90%83%E5%87%A0%E4%B8%AA%E9%A5%BA%E5%AD%90%E5%B0%B1%E9%95%BF%E8%83%96"
       },
       "raw_titles": [
-        "UP主动画龙之使徒"
+        "医生幽默回应吃几个饺子就长胖"
       ],
       "rank": 20,
       "movie_rank": 10
     },
     {
-      "title": "梅艳芳哥哥：希望母亲与妹妹葬在一起",
+      "title": "魏大勋赵今麦 hi6",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 90000,
+      "hot_value": 115000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E5%93%A5%E5%93%A5%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%AF%8D%E4%BA%B2%E4%B8%8E%E5%A6%B9%E5%A6%B9%E8%91%AC%E5%9C%A8%E4%B8%80%E8%B5%B7&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B5%B5%E4%BB%8A%E9%BA%A6%20hi6"
       },
       "raw_titles": [
-        "梅艳芳哥哥：希望母亲与妹妹葬在一起"
+        "魏大勋赵今麦 hi6"
       ],
       "rank": 22,
       "movie_rank": 11
