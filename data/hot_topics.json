@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-09-03 09:00:48",
-  "total": 17,
-  "sports_count": 5,
-  "movie_count": 12,
+  "update_time": "2026-09-03 10:00:47",
+  "total": 20,
+  "sports_count": 9,
+  "movie_count": 11,
   "all": [
     {
       "title": "快船队被罚3000万美元",
@@ -13,7 +13,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 11506529,
+      "hot_value": 11161179,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BF%AB%E8%88%B9%E9%98%9F%E8%A2%AB%E7%BD%9A3000%E4%B8%87%E7%BE%8E%E5%85%83",
         "百度": "https://m.baidu.com/s?word=NBA%E5%BF%AB%E8%88%B9%E9%98%9F%E8%A2%AB%E7%BD%9A%E6%AC%BE3000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news",
@@ -27,19 +27,35 @@
       "sports_rank": 1
     },
     {
+      "title": "中国女篮世界杯名单出炉",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 9194001,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89"
+      },
+      "raw_titles": [
+        "中国女篮世界杯名单出炉"
+      ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
       "title": "专访台湾歌手吴克群",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7766761,
+      "hot_value": 7755706,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%93%E8%AE%BF%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E5%90%B4%E5%85%8B%E7%BE%A4"
       },
       "raw_titles": [
         "专访台湾歌手吴克群"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
     },
     {
@@ -48,31 +64,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7678029,
+      "hot_value": 7702830,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AD%A6%E5%8A%9F%E5%A4%AB%E7%BB%83%E6%AD%A6%E6%9C%AF"
       },
       "raw_titles": [
         "学功夫练武术"
       ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "一年一度的包书皮又开始了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7655145,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E7%9A%84%E5%8C%85%E4%B9%A6%E7%9A%AE%E5%8F%88%E5%BC%80%E5%A7%8B%E4%BA%86"
-      },
-      "raw_titles": [
-        "一年一度的包书皮又开始了"
-      ],
       "rank": 4,
-      "movie_rank": 3
+      "movie_rank": 2
     },
     {
       "title": "电视剧醒来大结局",
@@ -80,7 +80,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7653183,
+      "hot_value": 7651056,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%86%92%E6%9D%A5%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
@@ -88,183 +88,41 @@
         "电视剧醒来大结局"
       ],
       "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "中学生开学拉着全校一起拍综艺",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7645492,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E6%8B%89%E7%9D%80%E5%85%A8%E6%A0%A1%E4%B8%80%E8%B5%B7%E6%8B%8D%E7%BB%BC%E8%89%BA"
-      },
-      "raw_titles": [
-        "中学生开学拉着全校一起拍综艺"
-      ],
-      "rank": 6,
-      "movie_rank": 5
-    },
-    {
-      "title": "动画MV和平假面",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 243615,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BBMV%E5%92%8C%E5%B9%B3%E5%81%87%E9%9D%A2"
-      },
-      "raw_titles": [
-        "动画MV和平假面"
-      ],
-      "rank": 7,
-      "movie_rank": 6
-    },
-    {
-      "title": "UP主用20w颗拼豆手搓20s动画",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 243610,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A820w%E9%A2%97%E6%8B%BC%E8%B1%86%E6%89%8B%E6%90%9320s%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "UP主用20w颗拼豆手搓20s动画"
-      ],
-      "rank": 8,
-      "movie_rank": 7
-    },
-    {
-      "title": "纯手搓初音生贺定格动画",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 243608,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BA%AF%E6%89%8B%E6%90%93%E5%88%9D%E9%9F%B3%E7%94%9F%E8%B4%BA%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "纯手搓初音生贺定格动画"
-      ],
-      "rank": 9,
-      "movie_rank": 8
-    },
-    {
-      "title": "王迅时隔9年重回极限挑战录制地",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 242818,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%BF%85%E6%97%B6%E9%9A%949%E5%B9%B4%E9%87%8D%E5%9B%9E%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E5%BD%95%E5%88%B6%E5%9C%B0"
-      },
-      "raw_titles": [
-        "王迅时隔9年重回极限挑战录制地"
-      ],
-      "rank": 10,
-      "movie_rank": 9
-    },
-    {
-      "title": "李月汝护照遗失缺席世界杯",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 219764,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9C%88%E6%B1%9D%E6%8A%A4%E7%85%A7%E9%81%97%E5%A4%B1%E7%BC%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E6%9D%AF"
-      },
-      "raw_titles": [
-        "李月汝护照遗失缺席世界杯"
-      ],
-      "rank": 11,
-      "sports_rank": 2
+      "movie_rank": 3
     },
     {
       "title": "哈利波特",
       "category": "影视",
       "sources": [
-        "微博"
+        "微博",
+        "哔哩哔哩"
       ],
-      "hot_value": 189795,
+      "hot_value": 4819732,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9"
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%89%A7%E7%89%88%E6%96%B0%E9%A2%84%E5%91%8A"
       },
       "raw_titles": [
         "哈利波特"
       ],
-      "rank": 12,
-      "movie_rank": 10
+      "rank": 6,
+      "movie_rank": 4
     },
     {
-      "title": "王一博拍纪录片先聊了12小时",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 189528,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8B%8D%E7%BA%AA%E5%BD%95%E7%89%87%E5%85%88%E8%81%8A%E4%BA%8612%E5%B0%8F%E6%97%B6"
-      },
-      "raw_titles": [
-        "王一博拍纪录片先聊了12小时"
-      ],
-      "rank": 13,
-      "movie_rank": 11
-    },
-    {
-      "title": "姆巴佩 黑帮绑架目标",
+      "title": "LPL季后赛胜者组第二轮预测",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 180000,
+      "hot_value": 550658,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9+%E9%BB%91%E5%B8%AE%E7%BB%91%E6%9E%B6%E7%9B%AE%E6%A0%87&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%83%9C%E8%80%85%E7%BB%84%E7%AC%AC%E4%BA%8C%E8%BD%AE%E9%A2%84%E6%B5%8B"
       },
       "raw_titles": [
-        "姆巴佩 黑帮绑架目标"
+        "LPL季后赛胜者组第二轮预测"
       ],
-      "rank": 14,
+      "rank": 7,
       "sports_rank": 3
-    },
-    {
-      "title": "伦纳德不会禁赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 136387,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BC%A6%E7%BA%B3%E5%BE%B7%E4%B8%8D%E4%BC%9A%E7%A6%81%E8%B5%9B"
-      },
-      "raw_titles": [
-        "伦纳德不会禁赛"
-      ],
-      "rank": 15,
-      "sports_rank": 4
-    },
-    {
-      "title": "快船反对NBA调查结果",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 133596,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BF%AB%E8%88%B9%E5%8F%8D%E5%AF%B9NBA%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C"
-      },
-      "raw_titles": [
-        "快船反对NBA调查结果"
-      ],
-      "rank": 16,
-      "sports_rank": 5
     },
     {
       "title": "爆冷！中国选手布云朝克特淘汰霍达尔",
@@ -272,15 +130,209 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 99000,
+      "hot_value": 414000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%88%86%E5%86%B7%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%B8%83%E4%BA%91%E6%9C%9D%E5%85%8B%E7%89%B9%E6%B7%98%E6%B1%B0%E9%9C%8D%E8%BE%BE%E5%B0%94&sa=fyb_news"
       },
       "raw_titles": [
         "爆冷！中国选手布云朝克特淘汰霍达尔"
       ],
+      "rank": 8,
+      "movie_rank": 5
+    },
+    {
+      "title": "用徽章随机抽取NBA球员组队",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 280607,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%BE%BD%E7%AB%A0%E9%9A%8F%E6%9C%BA%E6%8A%BD%E5%8F%96NBA%E7%90%83%E5%91%98%E7%BB%84%E9%98%9F"
+      },
+      "raw_titles": [
+        "用徽章随机抽取NBA球员组队"
+      ],
+      "rank": 9,
+      "sports_rank": 4
+    },
+    {
+      "title": "动画MV和平假面",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 280599,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BBMV%E5%92%8C%E5%B9%B3%E5%81%87%E9%9D%A2"
+      },
+      "raw_titles": [
+        "动画MV和平假面"
+      ],
+      "rank": 10,
+      "movie_rank": 6
+    },
+    {
+      "title": "纯手搓初音生贺定格动画",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 280594,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BA%AF%E6%89%8B%E6%90%93%E5%88%9D%E9%9F%B3%E7%94%9F%E8%B4%BA%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB"
+      },
+      "raw_titles": [
+        "纯手搓初音生贺定格动画"
+      ],
+      "rank": 11,
+      "movie_rank": 7
+    },
+    {
+      "title": "吴易昺重返美网32强",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 279192,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%93%E6%98%BA%E9%87%8D%E8%BF%94%E7%BE%8E%E7%BD%9132%E5%BC%BA",
+        "百度": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E9%87%8D%E8%BF%94%E7%BE%8E%E7%BD%91%E7%94%B7%E5%8D%9532%E5%BC%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "吴易昺重返美网32强"
+      ],
+      "rank": 12,
+      "sports_rank": 5
+    },
+    {
+      "title": "王迅时隔9年重回极限挑战录制地",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 256360,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%BF%85%E6%97%B6%E9%9A%949%E5%B9%B4%E9%87%8D%E5%9B%9E%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E5%BD%95%E5%88%B6%E5%9C%B0"
+      },
+      "raw_titles": [
+        "王迅时隔9年重回极限挑战录制地"
+      ],
+      "rank": 13,
+      "movie_rank": 8
+    },
+    {
+      "title": "阿尔卡拉斯",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 220001,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF"
+      },
+      "raw_titles": [
+        "阿尔卡拉斯"
+      ],
+      "rank": 14,
+      "sports_rank": 6
+    },
+    {
+      "title": "姆巴佩 黑帮绑架目标",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 216000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9+%E9%BB%91%E5%B8%AE%E7%BB%91%E6%9E%B6%E7%9B%AE%E6%A0%87&sa=fyb_news"
+      },
+      "raw_titles": [
+        "姆巴佩 黑帮绑架目标"
+      ],
+      "rank": 15,
+      "sports_rank": 7
+    },
+    {
+      "title": "快船自掏5000万调查自己仍遭重罚",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 212541,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BF%AB%E8%88%B9%E8%87%AA%E6%8E%8F5000%E4%B8%87%E8%B0%83%E6%9F%A5%E8%87%AA%E5%B7%B1%E4%BB%8D%E9%81%AD%E9%87%8D%E7%BD%9A"
+      },
+      "raw_titles": [
+        "快船自掏5000万调查自己仍遭重罚"
+      ],
+      "rank": 16,
+      "sports_rank": 8
+    },
+    {
+      "title": "花少4杨幂刘敏涛房车对话",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 192974,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%914%E6%9D%A8%E5%B9%82%E5%88%98%E6%95%8F%E6%B6%9B%E6%88%BF%E8%BD%A6%E5%AF%B9%E8%AF%9D"
+      },
+      "raw_titles": [
+        "花少4杨幂刘敏涛房车对话"
+      ],
       "rank": 17,
-      "movie_rank": 12
+      "movie_rank": 9
+    },
+    {
+      "title": "UP主用20w颗拼豆手搓20s动画",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 180120,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A820w%E9%A2%97%E6%8B%BC%E8%B1%86%E6%89%8B%E6%90%9320s%E5%8A%A8%E7%94%BB"
+      },
+      "raw_titles": [
+        "UP主用20w颗拼豆手搓20s动画"
+      ],
+      "rank": 18,
+      "movie_rank": 10
+    },
+    {
+      "title": "李月汝护照遗失缺席世界杯",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 145817,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9C%88%E6%B1%9D%E6%8A%A4%E7%85%A7%E9%81%97%E5%A4%B1%E7%BC%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "李月汝护照遗失缺席世界杯"
+      ],
+      "rank": 19,
+      "sports_rank": 9
+    },
+    {
+      "title": "王一博拍纪录片先聊了12小时",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 143191,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8B%8D%E7%BA%AA%E5%BD%95%E7%89%87%E5%85%88%E8%81%8A%E4%BA%8612%E5%B0%8F%E6%97%B6"
+      },
+      "raw_titles": [
+        "王一博拍纪录片先聊了12小时"
+      ],
+      "rank": 20,
+      "movie_rank": 11
     }
   ],
   "sports": [
@@ -293,7 +345,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 11506529,
+      "hot_value": 11161179,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BF%AB%E8%88%B9%E9%98%9F%E8%A2%AB%E7%BD%9A3000%E4%B8%87%E7%BE%8E%E5%85%83",
         "百度": "https://m.baidu.com/s?word=NBA%E5%BF%AB%E8%88%B9%E9%98%9F%E8%A2%AB%E7%BD%9A%E6%AC%BE3000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news",
@@ -307,20 +359,86 @@
       "sports_rank": 1
     },
     {
-      "title": "李月汝护照遗失缺席世界杯",
+      "title": "中国女篮世界杯名单出炉",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 9194001,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89"
+      },
+      "raw_titles": [
+        "中国女篮世界杯名单出炉"
+      ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "LPL季后赛胜者组第二轮预测",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 550658,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%83%9C%E8%80%85%E7%BB%84%E7%AC%AC%E4%BA%8C%E8%BD%AE%E9%A2%84%E6%B5%8B"
+      },
+      "raw_titles": [
+        "LPL季后赛胜者组第二轮预测"
+      ],
+      "rank": 7,
+      "sports_rank": 3
+    },
+    {
+      "title": "用徽章随机抽取NBA球员组队",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 280607,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%BE%BD%E7%AB%A0%E9%9A%8F%E6%9C%BA%E6%8A%BD%E5%8F%96NBA%E7%90%83%E5%91%98%E7%BB%84%E9%98%9F"
+      },
+      "raw_titles": [
+        "用徽章随机抽取NBA球员组队"
+      ],
+      "rank": 9,
+      "sports_rank": 4
+    },
+    {
+      "title": "吴易昺重返美网32强",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 279192,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%93%E6%98%BA%E9%87%8D%E8%BF%94%E7%BE%8E%E7%BD%9132%E5%BC%BA",
+        "百度": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E9%87%8D%E8%BF%94%E7%BE%8E%E7%BD%91%E7%94%B7%E5%8D%9532%E5%BC%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "吴易昺重返美网32强"
+      ],
+      "rank": 12,
+      "sports_rank": 5
+    },
+    {
+      "title": "阿尔卡拉斯",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 219764,
+      "hot_value": 220001,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9C%88%E6%B1%9D%E6%8A%A4%E7%85%A7%E9%81%97%E5%A4%B1%E7%BC%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E6%9D%AF"
+        "微博": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF"
       },
       "raw_titles": [
-        "李月汝护照遗失缺席世界杯"
+        "阿尔卡拉斯"
       ],
-      "rank": 11,
-      "sports_rank": 2
+      "rank": 14,
+      "sports_rank": 6
     },
     {
       "title": "姆巴佩 黑帮绑架目标",
@@ -328,47 +446,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 216000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9+%E9%BB%91%E5%B8%AE%E7%BB%91%E6%9E%B6%E7%9B%AE%E6%A0%87&sa=fyb_news"
       },
       "raw_titles": [
         "姆巴佩 黑帮绑架目标"
       ],
-      "rank": 14,
-      "sports_rank": 3
-    },
-    {
-      "title": "伦纳德不会禁赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 136387,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BC%A6%E7%BA%B3%E5%BE%B7%E4%B8%8D%E4%BC%9A%E7%A6%81%E8%B5%9B"
-      },
-      "raw_titles": [
-        "伦纳德不会禁赛"
-      ],
       "rank": 15,
-      "sports_rank": 4
+      "sports_rank": 7
     },
     {
-      "title": "快船反对NBA调查结果",
+      "title": "快船自掏5000万调查自己仍遭重罚",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 133596,
+      "hot_value": 212541,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BF%AB%E8%88%B9%E5%8F%8D%E5%AF%B9NBA%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BF%AB%E8%88%B9%E8%87%AA%E6%8E%8F5000%E4%B8%87%E8%B0%83%E6%9F%A5%E8%87%AA%E5%B7%B1%E4%BB%8D%E9%81%AD%E9%87%8D%E7%BD%9A"
       },
       "raw_titles": [
-        "快船反对NBA调查结果"
+        "快船自掏5000万调查自己仍遭重罚"
       ],
       "rank": 16,
-      "sports_rank": 5
+      "sports_rank": 8
+    },
+    {
+      "title": "李月汝护照遗失缺席世界杯",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 145817,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9C%88%E6%B1%9D%E6%8A%A4%E7%85%A7%E9%81%97%E5%A4%B1%E7%BC%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E6%9D%AF"
+      },
+      "raw_titles": [
+        "李月汝护照遗失缺席世界杯"
+      ],
+      "rank": 19,
+      "sports_rank": 9
     }
   ],
   "movies": [
@@ -378,14 +496,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7766761,
+      "hot_value": 7755706,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%93%E8%AE%BF%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E5%90%B4%E5%85%8B%E7%BE%A4"
       },
       "raw_titles": [
         "专访台湾歌手吴克群"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
     },
     {
@@ -394,31 +512,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7678029,
+      "hot_value": 7702830,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AD%A6%E5%8A%9F%E5%A4%AB%E7%BB%83%E6%AD%A6%E6%9C%AF"
       },
       "raw_titles": [
         "学功夫练武术"
       ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "一年一度的包书皮又开始了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7655145,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E7%9A%84%E5%8C%85%E4%B9%A6%E7%9A%AE%E5%8F%88%E5%BC%80%E5%A7%8B%E4%BA%86"
-      },
-      "raw_titles": [
-        "一年一度的包书皮又开始了"
-      ],
       "rank": 4,
-      "movie_rank": 3
+      "movie_rank": 2
     },
     {
       "title": "电视剧醒来大结局",
@@ -426,7 +528,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7653183,
+      "hot_value": 7651056,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%86%92%E6%9D%A5%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
@@ -434,22 +536,40 @@
         "电视剧醒来大结局"
       ],
       "rank": 5,
+      "movie_rank": 3
+    },
+    {
+      "title": "哈利波特",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "哔哩哔哩"
+      ],
+      "hot_value": 4819732,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%89%A7%E7%89%88%E6%96%B0%E9%A2%84%E5%91%8A"
+      },
+      "raw_titles": [
+        "哈利波特"
+      ],
+      "rank": 6,
       "movie_rank": 4
     },
     {
-      "title": "中学生开学拉着全校一起拍综艺",
+      "title": "爆冷！中国选手布云朝克特淘汰霍达尔",
       "category": "影视",
       "sources": [
-        "抖音"
+        "百度"
       ],
-      "hot_value": 7645492,
+      "hot_value": 414000,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E6%8B%89%E7%9D%80%E5%85%A8%E6%A0%A1%E4%B8%80%E8%B5%B7%E6%8B%8D%E7%BB%BC%E8%89%BA"
+        "百度": "https://m.baidu.com/s?word=%E7%88%86%E5%86%B7%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%B8%83%E4%BA%91%E6%9C%9D%E5%85%8B%E7%89%B9%E6%B7%98%E6%B1%B0%E9%9C%8D%E8%BE%BE%E5%B0%94&sa=fyb_news"
       },
       "raw_titles": [
-        "中学生开学拉着全校一起拍综艺"
+        "爆冷！中国选手布云朝克特淘汰霍达尔"
       ],
-      "rank": 6,
+      "rank": 8,
       "movie_rank": 5
     },
     {
@@ -458,31 +578,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 243615,
+      "hot_value": 280599,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BBMV%E5%92%8C%E5%B9%B3%E5%81%87%E9%9D%A2"
       },
       "raw_titles": [
         "动画MV和平假面"
       ],
-      "rank": 7,
+      "rank": 10,
       "movie_rank": 6
-    },
-    {
-      "title": "UP主用20w颗拼豆手搓20s动画",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 243610,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A820w%E9%A2%97%E6%8B%BC%E8%B1%86%E6%89%8B%E6%90%9320s%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "UP主用20w颗拼豆手搓20s动画"
-      ],
-      "rank": 8,
-      "movie_rank": 7
     },
     {
       "title": "纯手搓初音生贺定格动画",
@@ -490,15 +594,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 243608,
+      "hot_value": 280594,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BA%AF%E6%89%8B%E6%90%93%E5%88%9D%E9%9F%B3%E7%94%9F%E8%B4%BA%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "纯手搓初音生贺定格动画"
       ],
-      "rank": 9,
-      "movie_rank": 8
+      "rank": 11,
+      "movie_rank": 7
     },
     {
       "title": "王迅时隔9年重回极限挑战录制地",
@@ -506,30 +610,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 242818,
+      "hot_value": 256360,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%BF%85%E6%97%B6%E9%9A%949%E5%B9%B4%E9%87%8D%E5%9B%9E%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E5%BD%95%E5%88%B6%E5%9C%B0"
       },
       "raw_titles": [
         "王迅时隔9年重回极限挑战录制地"
       ],
-      "rank": 10,
-      "movie_rank": 9
+      "rank": 13,
+      "movie_rank": 8
     },
     {
-      "title": "哈利波特",
+      "title": "花少4杨幂刘敏涛房车对话",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 189795,
+      "hot_value": 192974,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9"
+        "微博": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%914%E6%9D%A8%E5%B9%82%E5%88%98%E6%95%8F%E6%B6%9B%E6%88%BF%E8%BD%A6%E5%AF%B9%E8%AF%9D"
       },
       "raw_titles": [
-        "哈利波特"
+        "花少4杨幂刘敏涛房车对话"
       ],
-      "rank": 12,
+      "rank": 17,
+      "movie_rank": 9
+    },
+    {
+      "title": "UP主用20w颗拼豆手搓20s动画",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 180120,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A820w%E9%A2%97%E6%8B%BC%E8%B1%86%E6%89%8B%E6%90%9320s%E5%8A%A8%E7%94%BB"
+      },
+      "raw_titles": [
+        "UP主用20w颗拼豆手搓20s动画"
+      ],
+      "rank": 18,
       "movie_rank": 10
     },
     {
@@ -538,31 +658,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 189528,
+      "hot_value": 143191,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8B%8D%E7%BA%AA%E5%BD%95%E7%89%87%E5%85%88%E8%81%8A%E4%BA%8612%E5%B0%8F%E6%97%B6"
       },
       "raw_titles": [
         "王一博拍纪录片先聊了12小时"
       ],
-      "rank": 13,
+      "rank": 20,
       "movie_rank": 11
-    },
-    {
-      "title": "爆冷！中国选手布云朝克特淘汰霍达尔",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 99000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%88%86%E5%86%B7%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%B8%83%E4%BA%91%E6%9C%9D%E5%85%8B%E7%89%B9%E6%B7%98%E6%B1%B0%E9%9C%8D%E8%BE%BE%E5%B0%94&sa=fyb_news"
-      },
-      "raw_titles": [
-        "爆冷！中国选手布云朝克特淘汰霍达尔"
-      ],
-      "rank": 17,
-      "movie_rank": 12
     }
   ]
 }
