@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-09-03 15:00:54",
-  "total": 16,
-  "sports_count": 4,
-  "movie_count": 12,
+  "update_time": "2026-09-03 16:00:48",
+  "total": 17,
+  "sports_count": 3,
+  "movie_count": 14,
   "all": [
     {
       "title": "快船被罚5首轮和3000万美元",
@@ -10,7 +10,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7829614,
+      "hot_value": 7822159,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BF%AB%E8%88%B9%E8%A2%AB%E7%BD%9A5%E9%A6%96%E8%BD%AE%E5%92%8C3000%E4%B8%87%E7%BE%8E%E5%85%83"
       },
@@ -26,7 +26,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7740955,
+      "hot_value": 7750951,
       "urls": {
         "抖音": "https://www.douyin.com/search/omg%E5%8F%A0%E4%B8%AD%E5%8F%A0%E7%A9%BF%E6%90%AD%E6%BD%AE%E5%88%B0%E7%8A%AF%E8%A7%84"
       },
@@ -42,7 +42,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7675745,
+      "hot_value": 7723948,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%86%92%E6%9D%A5%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
@@ -53,21 +53,37 @@
       "movie_rank": 1
     },
     {
-      "title": "金鹰奖",
+      "title": "在海边看杀死比尔首映爽翻了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7632362,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%9C%A8%E6%B5%B7%E8%BE%B9%E7%9C%8B%E6%9D%80%E6%AD%BB%E6%AF%94%E5%B0%94%E9%A6%96%E6%98%A0%E7%88%BD%E7%BF%BB%E4%BA%86"
+      },
+      "raw_titles": [
+        "在海边看杀死比尔首映爽翻了"
+      ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "曝金鹰奖得奖人员",
       "category": "影视",
       "sources": [
         "微博",
         "微博"
       ],
-      "hot_value": 558835,
+      "hot_value": 473134,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%20%E4%BA%8E%E5%92%8C%E4%BC%9F"
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96"
       },
       "raw_titles": [
-        "金鹰奖"
+        "曝金鹰奖得奖人员"
       ],
-      "rank": 4,
-      "movie_rank": 2
+      "rank": 5,
+      "movie_rank": 3
     },
     {
       "title": "哈利波特剧版新预告",
@@ -75,95 +91,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 377094,
+      "hot_value": 394373,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%89%A7%E7%89%88%E6%96%B0%E9%A2%84%E5%91%8A"
       },
       "raw_titles": [
         "哈利波特剧版新预告"
       ],
-      "rank": 5,
-      "movie_rank": 3
-    },
-    {
-      "title": "自制AI剧集 长安异闻录",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 338320,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E5%89%A7%E9%9B%86%20%E9%95%BF%E5%AE%89%E5%BC%82%E9%97%BB%E5%BD%95"
-      },
-      "raw_titles": [
-        "自制AI剧集 长安异闻录"
-      ],
       "rank": 6,
       "movie_rank": 4
-    },
-    {
-      "title": "C罗周薪3000万元",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 314149,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%91%A8%E8%96%AA3000%E4%B8%87%E5%85%83"
-      },
-      "raw_titles": [
-        "C罗周薪3000万元"
-      ],
-      "rank": 7,
-      "sports_rank": 3
-    },
-    {
-      "title": "周冬雨上花少马思纯紧张",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 310691,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E4%B8%8A%E8%8A%B1%E5%B0%91%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%B4%A7%E5%BC%A0"
-      },
-      "raw_titles": [
-        "周冬雨上花少马思纯紧张"
-      ],
-      "rank": 8,
-      "movie_rank": 5
-    },
-    {
-      "title": "周星驰巅峰时期有多好笑",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 231306,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%B7%85%E5%B3%B0%E6%97%B6%E6%9C%9F%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91"
-      },
-      "raw_titles": [
-        "周星驰巅峰时期有多好笑"
-      ],
-      "rank": 9,
-      "movie_rank": 6
-    },
-    {
-      "title": "UP主用20w颗拼豆手搓20s动画",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 231298,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A820w%E9%A2%97%E6%8B%BC%E8%B1%86%E6%89%8B%E6%90%9320s%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "UP主用20w颗拼豆手搓20s动画"
-      ],
-      "rank": 10,
-      "movie_rank": 7
     },
     {
       "title": "纯手搓初音生贺定格动画",
@@ -171,15 +107,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 231294,
+      "hot_value": 374795,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BA%AF%E6%89%8B%E6%90%93%E5%88%9D%E9%9F%B3%E7%94%9F%E8%B4%BA%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "纯手搓初音生贺定格动画"
       ],
-      "rank": 11,
-      "movie_rank": 8
+      "rank": 7,
+      "movie_rank": 5
     },
     {
       "title": "动画MV和平假面",
@@ -187,31 +123,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 231293,
+      "hot_value": 374793,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BBMV%E5%92%8C%E5%B9%B3%E5%81%87%E9%9D%A2"
       },
       "raw_titles": [
         "动画MV和平假面"
       ],
-      "rank": 12,
-      "movie_rank": 9
+      "rank": 8,
+      "movie_rank": 6
     },
     {
-      "title": "新赛季英超各家豪门新援表现如何",
-      "category": "体育",
+      "title": "周星驰巅峰时期有多好笑",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 231292,
+      "hot_value": 325725,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%8B%B1%E8%B6%85%E5%90%84%E5%AE%B6%E8%B1%AA%E9%97%A8%E6%96%B0%E6%8F%B4%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%B7%85%E5%B3%B0%E6%97%B6%E6%9C%9F%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91"
       },
       "raw_titles": [
-        "新赛季英超各家豪门新援表现如何"
+        "周星驰巅峰时期有多好笑"
       ],
-      "rank": 13,
-      "sports_rank": 4
+      "rank": 9,
+      "movie_rank": 7
+    },
+    {
+      "title": "UP主用20w颗拼豆手搓20s动画",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 298225,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A820w%E9%A2%97%E6%8B%BC%E8%B1%86%E6%89%8B%E6%90%9320s%E5%8A%A8%E7%94%BB"
+      },
+      "raw_titles": [
+        "UP主用20w颗拼豆手搓20s动画"
+      ],
+      "rank": 10,
+      "movie_rank": 8
     },
     {
       "title": "王迅时隔9年重回极限挑战录制地",
@@ -219,15 +171,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 231286,
+      "hot_value": 277710,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%BF%85%E6%97%B6%E9%9A%949%E5%B9%B4%E9%87%8D%E5%9B%9E%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E5%BD%95%E5%88%B6%E5%9C%B0"
       },
       "raw_titles": [
         "王迅时隔9年重回极限挑战录制地"
       ],
-      "rank": 14,
+      "rank": 11,
+      "movie_rank": 9
+    },
+    {
+      "title": "自制AI剧集 长安异闻录",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 268585,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E5%89%A7%E9%9B%86%20%E9%95%BF%E5%AE%89%E5%BC%82%E9%97%BB%E5%BD%95"
+      },
+      "raw_titles": [
+        "自制AI剧集 长安异闻录"
+      ],
+      "rank": 12,
       "movie_rank": 10
+    },
+    {
+      "title": "北京电影学院26级新生报到现场",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 242042,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E7%94%B5%E5%BD%B1%E5%AD%A6%E9%99%A226%E7%BA%A7%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E7%8E%B0%E5%9C%BA"
+      },
+      "raw_titles": [
+        "北京电影学院26级新生报到现场"
+      ],
+      "rank": 13,
+      "movie_rank": 11
+    },
+    {
+      "title": "周冬雨上花少马思纯紧张",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 191475,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E4%B8%8A%E8%8A%B1%E5%B0%91%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%B4%A7%E5%BC%A0"
+      },
+      "raw_titles": [
+        "周冬雨上花少马思纯紧张"
+      ],
+      "rank": 14,
+      "movie_rank": 12
+    },
+    {
+      "title": "12年前的刘亦菲把我萌晕了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 190735,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=12%E5%B9%B4%E5%89%8D%E7%9A%84%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8A%8A%E6%88%91%E8%90%8C%E6%99%95%E4%BA%86"
+      },
+      "raw_titles": [
+        "12年前的刘亦菲把我萌晕了"
+      ],
+      "rank": 15,
+      "movie_rank": 13
     },
     {
       "title": "哈利波特也开学了",
@@ -235,31 +251,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 189000,
+      "hot_value": 162000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B9%9F%E5%BC%80%E5%AD%A6%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "哈利波特也开学了"
       ],
-      "rank": 15,
-      "movie_rank": 11
+      "rank": 16,
+      "movie_rank": 14
     },
     {
-      "title": "孩子写作业先问AI 家长怎么办",
-      "category": "影视",
+      "title": "C罗周薪3000万元",
+      "category": "体育",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 45000,
+      "hot_value": 143452,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E5%86%99%E4%BD%9C%E4%B8%9A%E5%85%88%E9%97%AEAI+%E5%AE%B6%E9%95%BF%E6%80%8E%E4%B9%88%E5%8A%9E&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%91%A8%E8%96%AA3000%E4%B8%87%E5%85%83"
       },
       "raw_titles": [
-        "孩子写作业先问AI 家长怎么办"
+        "C罗周薪3000万元"
       ],
-      "rank": 16,
-      "movie_rank": 12
+      "rank": 17,
+      "sports_rank": 3
     }
   ],
   "sports": [
@@ -269,7 +285,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7829614,
+      "hot_value": 7822159,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BF%AB%E8%88%B9%E8%A2%AB%E7%BD%9A5%E9%A6%96%E8%BD%AE%E5%92%8C3000%E4%B8%87%E7%BE%8E%E5%85%83"
       },
@@ -285,7 +301,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7740955,
+      "hot_value": 7750951,
       "urls": {
         "抖音": "https://www.douyin.com/search/omg%E5%8F%A0%E4%B8%AD%E5%8F%A0%E7%A9%BF%E6%90%AD%E6%BD%AE%E5%88%B0%E7%8A%AF%E8%A7%84"
       },
@@ -301,31 +317,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 314149,
+      "hot_value": 143452,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%91%A8%E8%96%AA3000%E4%B8%87%E5%85%83"
       },
       "raw_titles": [
         "C罗周薪3000万元"
       ],
-      "rank": 7,
+      "rank": 17,
       "sports_rank": 3
-    },
-    {
-      "title": "新赛季英超各家豪门新援表现如何",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 231292,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%8B%B1%E8%B6%85%E5%90%84%E5%AE%B6%E8%B1%AA%E9%97%A8%E6%96%B0%E6%8F%B4%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95"
-      },
-      "raw_titles": [
-        "新赛季英超各家豪门新援表现如何"
-      ],
-      "rank": 13,
-      "sports_rank": 4
     }
   ],
   "movies": [
@@ -335,7 +335,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7675745,
+      "hot_value": 7723948,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%86%92%E6%9D%A5%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
@@ -346,21 +346,37 @@
       "movie_rank": 1
     },
     {
-      "title": "金鹰奖",
+      "title": "在海边看杀死比尔首映爽翻了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7632362,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%9C%A8%E6%B5%B7%E8%BE%B9%E7%9C%8B%E6%9D%80%E6%AD%BB%E6%AF%94%E5%B0%94%E9%A6%96%E6%98%A0%E7%88%BD%E7%BF%BB%E4%BA%86"
+      },
+      "raw_titles": [
+        "在海边看杀死比尔首映爽翻了"
+      ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "曝金鹰奖得奖人员",
       "category": "影视",
       "sources": [
         "微博",
         "微博"
       ],
-      "hot_value": 558835,
+      "hot_value": 473134,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%20%E4%BA%8E%E5%92%8C%E4%BC%9F"
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96"
       },
       "raw_titles": [
-        "金鹰奖"
+        "曝金鹰奖得奖人员"
       ],
-      "rank": 4,
-      "movie_rank": 2
+      "rank": 5,
+      "movie_rank": 3
     },
     {
       "title": "哈利波特剧版新预告",
@@ -368,79 +384,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 377094,
+      "hot_value": 394373,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%89%A7%E7%89%88%E6%96%B0%E9%A2%84%E5%91%8A"
       },
       "raw_titles": [
         "哈利波特剧版新预告"
       ],
-      "rank": 5,
-      "movie_rank": 3
-    },
-    {
-      "title": "自制AI剧集 长安异闻录",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 338320,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E5%89%A7%E9%9B%86%20%E9%95%BF%E5%AE%89%E5%BC%82%E9%97%BB%E5%BD%95"
-      },
-      "raw_titles": [
-        "自制AI剧集 长安异闻录"
-      ],
       "rank": 6,
       "movie_rank": 4
-    },
-    {
-      "title": "周冬雨上花少马思纯紧张",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 310691,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E4%B8%8A%E8%8A%B1%E5%B0%91%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%B4%A7%E5%BC%A0"
-      },
-      "raw_titles": [
-        "周冬雨上花少马思纯紧张"
-      ],
-      "rank": 8,
-      "movie_rank": 5
-    },
-    {
-      "title": "周星驰巅峰时期有多好笑",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 231306,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%B7%85%E5%B3%B0%E6%97%B6%E6%9C%9F%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91"
-      },
-      "raw_titles": [
-        "周星驰巅峰时期有多好笑"
-      ],
-      "rank": 9,
-      "movie_rank": 6
-    },
-    {
-      "title": "UP主用20w颗拼豆手搓20s动画",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 231298,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A820w%E9%A2%97%E6%8B%BC%E8%B1%86%E6%89%8B%E6%90%9320s%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "UP主用20w颗拼豆手搓20s动画"
-      ],
-      "rank": 10,
-      "movie_rank": 7
     },
     {
       "title": "纯手搓初音生贺定格动画",
@@ -448,15 +400,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 231294,
+      "hot_value": 374795,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BA%AF%E6%89%8B%E6%90%93%E5%88%9D%E9%9F%B3%E7%94%9F%E8%B4%BA%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "纯手搓初音生贺定格动画"
       ],
-      "rank": 11,
-      "movie_rank": 8
+      "rank": 7,
+      "movie_rank": 5
     },
     {
       "title": "动画MV和平假面",
@@ -464,15 +416,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 231293,
+      "hot_value": 374793,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BBMV%E5%92%8C%E5%B9%B3%E5%81%87%E9%9D%A2"
       },
       "raw_titles": [
         "动画MV和平假面"
       ],
-      "rank": 12,
-      "movie_rank": 9
+      "rank": 8,
+      "movie_rank": 6
+    },
+    {
+      "title": "周星驰巅峰时期有多好笑",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 325725,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%B7%85%E5%B3%B0%E6%97%B6%E6%9C%9F%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91"
+      },
+      "raw_titles": [
+        "周星驰巅峰时期有多好笑"
+      ],
+      "rank": 9,
+      "movie_rank": 7
+    },
+    {
+      "title": "UP主用20w颗拼豆手搓20s动画",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 298225,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A820w%E9%A2%97%E6%8B%BC%E8%B1%86%E6%89%8B%E6%90%9320s%E5%8A%A8%E7%94%BB"
+      },
+      "raw_titles": [
+        "UP主用20w颗拼豆手搓20s动画"
+      ],
+      "rank": 10,
+      "movie_rank": 8
     },
     {
       "title": "王迅时隔9年重回极限挑战录制地",
@@ -480,15 +464,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 231286,
+      "hot_value": 277710,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%BF%85%E6%97%B6%E9%9A%949%E5%B9%B4%E9%87%8D%E5%9B%9E%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E5%BD%95%E5%88%B6%E5%9C%B0"
       },
       "raw_titles": [
         "王迅时隔9年重回极限挑战录制地"
       ],
-      "rank": 14,
+      "rank": 11,
+      "movie_rank": 9
+    },
+    {
+      "title": "自制AI剧集 长安异闻录",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 268585,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E5%89%A7%E9%9B%86%20%E9%95%BF%E5%AE%89%E5%BC%82%E9%97%BB%E5%BD%95"
+      },
+      "raw_titles": [
+        "自制AI剧集 长安异闻录"
+      ],
+      "rank": 12,
       "movie_rank": 10
+    },
+    {
+      "title": "北京电影学院26级新生报到现场",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 242042,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E7%94%B5%E5%BD%B1%E5%AD%A6%E9%99%A226%E7%BA%A7%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E7%8E%B0%E5%9C%BA"
+      },
+      "raw_titles": [
+        "北京电影学院26级新生报到现场"
+      ],
+      "rank": 13,
+      "movie_rank": 11
+    },
+    {
+      "title": "周冬雨上花少马思纯紧张",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 191475,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E4%B8%8A%E8%8A%B1%E5%B0%91%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%B4%A7%E5%BC%A0"
+      },
+      "raw_titles": [
+        "周冬雨上花少马思纯紧张"
+      ],
+      "rank": 14,
+      "movie_rank": 12
+    },
+    {
+      "title": "12年前的刘亦菲把我萌晕了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 190735,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=12%E5%B9%B4%E5%89%8D%E7%9A%84%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8A%8A%E6%88%91%E8%90%8C%E6%99%95%E4%BA%86"
+      },
+      "raw_titles": [
+        "12年前的刘亦菲把我萌晕了"
+      ],
+      "rank": 15,
+      "movie_rank": 13
     },
     {
       "title": "哈利波特也开学了",
@@ -496,31 +544,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 189000,
+      "hot_value": 162000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B9%9F%E5%BC%80%E5%AD%A6%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "哈利波特也开学了"
       ],
-      "rank": 15,
-      "movie_rank": 11
-    },
-    {
-      "title": "孩子写作业先问AI 家长怎么办",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 45000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E5%86%99%E4%BD%9C%E4%B8%9A%E5%85%88%E9%97%AEAI+%E5%AE%B6%E9%95%BF%E6%80%8E%E4%B9%88%E5%8A%9E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "孩子写作业先问AI 家长怎么办"
-      ],
       "rank": 16,
-      "movie_rank": 12
+      "movie_rank": 14
     }
   ]
 }
