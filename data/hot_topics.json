@@ -1,39 +1,57 @@
 {
-  "update_time": "2026-09-10 20:00:48",
-  "total": 19,
-  "sports_count": 11,
+  "update_time": "2026-09-10 21:00:52",
+  "total": 18,
+  "sports_count": 10,
   "movie_count": 8,
   "all": [
+    {
+      "title": "流浪地球望日首曝PV",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 11146218,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E6%9C%9B%E6%97%A5%E9%A6%96%E6%9B%9DPV"
+      },
+      "raw_titles": [
+        "流浪地球望日首曝PV"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "证监会：加快建设世界一流交易所",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10212823,
+      "hot_value": 10218724,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E4%BA%A4%E6%98%93%E6%89%80"
       },
       "raw_titles": [
         "证监会：加快建设世界一流交易所"
       ],
-      "rank": 1,
+      "rank": 2,
       "sports_rank": 1
     },
     {
-      "title": "NBA球队集体发文欢迎杜兰特",
+      "title": "王者万象棋新手攻略",
       "category": "体育",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 7723924,
+      "hot_value": 8312932,
       "urls": {
-        "抖音": "https://www.douyin.com/search/NBA%E7%90%83%E9%98%9F%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87%E6%AC%A2%E8%BF%8E%E6%9D%9C%E5%85%B0%E7%89%B9"
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E5%BF%85%E7%8E%A9%E9%98%B5%E5%AE%B9"
       },
       "raw_titles": [
-        "NBA球队集体发文欢迎杜兰特"
+        "王者万象棋新手攻略"
       ],
-      "rank": 2,
+      "rank": 3,
       "sports_rank": 2
     },
     {
@@ -42,14 +60,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7722223,
+      "hot_value": 7718202,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
       },
       "raw_titles": [
         "王者万象棋正式上线"
       ],
-      "rank": 3,
+      "rank": 4,
       "sports_rank": 3
     },
     {
@@ -58,30 +76,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7701698,
+      "hot_value": 7710565,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%8C%BA%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA"
       },
       "raw_titles": [
         "中国女篮挺进世界杯八强"
       ],
-      "rank": 4,
+      "rank": 5,
       "sports_rank": 4
     },
     {
-      "title": "王者万象棋新手攻略",
+      "title": "NBA球队集体发文欢迎杜兰特",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7696429,
+      "hot_value": 7695087,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5"
+        "抖音": "https://www.douyin.com/search/NBA%E7%90%83%E9%98%9F%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87%E6%AC%A2%E8%BF%8E%E6%9D%9C%E5%85%B0%E7%89%B9"
       },
       "raw_titles": [
-        "王者万象棋新手攻略"
+        "NBA球队集体发文欢迎杜兰特"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 5
     },
     {
@@ -90,15 +108,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7680789,
+      "hot_value": 7677576,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AB%A0%E6%98%8A%E4%B9%9F%E6%9D%A5%E5%AD%A6%E5%8A%9F%E5%A4%AB%E7%BB%83%E6%AD%A6%E6%9C%AF"
       },
       "raw_titles": [
         "章昊也来学功夫练武术"
       ],
-      "rank": 6,
-      "movie_rank": 1
+      "rank": 7,
+      "movie_rank": 2
     },
     {
       "title": "黄子韬陈泽一诺王者万象棋合体",
@@ -106,47 +124,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7631803,
+      "hot_value": 7623288,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E9%99%88%E6%B3%BD%E4%B8%80%E8%AF%BA%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%90%88%E4%BD%93"
       },
       "raw_titles": [
         "黄子韬陈泽一诺王者万象棋合体"
       ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "流浪地球望日首曝PV",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 7266748,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E6%9C%9B%E6%97%A5%E9%A6%96%E6%9B%9DPV"
-      },
-      "raw_titles": [
-        "流浪地球望日首曝PV"
-      ],
       "rank": 8,
-      "movie_rank": 2
-    },
-    {
-      "title": "王者万象棋六角笼争霸赛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 2030675,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%85%AD%E8%A7%92%E7%AC%BC%E4%BA%89%E9%9C%B8%E8%B5%9B"
-      },
-      "raw_titles": [
-        "王者万象棋六角笼争霸赛"
-      ],
-      "rank": 9,
-      "sports_rank": 7
+      "sports_rank": 6
     },
     {
       "title": "哔铲师徒杯S2总决赛",
@@ -154,12 +140,28 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1101518,
+      "hot_value": 809017,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%94%E9%93%B2%E5%B8%88%E5%BE%92%E6%9D%AFS2%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "哔铲师徒杯S2总决赛"
+      ],
+      "rank": 9,
+      "sports_rank": 7
+    },
+    {
+      "title": "流浪在万象棋手搓复活甲",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 808432,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%A8%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%89%8B%E6%90%93%E5%A4%8D%E6%B4%BB%E7%94%B2"
+      },
+      "raw_titles": [
+        "流浪在万象棋手搓复活甲"
       ],
       "rank": 10,
       "sports_rank": 8
@@ -170,7 +172,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1091698,
+      "hot_value": 770982,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F15%E5%91%A8%E5%B9%B4%E7%89%B9%E5%88%AB%E7%BB%BC%E8%89%BA"
       },
@@ -181,84 +183,52 @@
       "movie_rank": 3
     },
     {
-      "title": "王者万象棋到底好玩吗",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 912254,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%88%B0%E5%BA%95%E5%A5%BD%E7%8E%A9%E5%90%97"
-      },
-      "raw_titles": [
-        "王者万象棋到底好玩吗"
-      ],
-      "rank": 12,
-      "sports_rank": 9
-    },
-    {
-      "title": "法拉利F1单曲窝法的陀螺",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 772603,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B3%95%E6%8B%89%E5%88%A9F1%E5%8D%95%E6%9B%B2%E7%AA%9D%E6%B3%95%E7%9A%84%E9%99%80%E8%9E%BA"
-      },
-      "raw_titles": [
-        "法拉利F1单曲窝法的陀螺"
-      ],
-      "rank": 13,
-      "sports_rank": 10
-    },
-    {
-      "title": "流浪在万象棋手搓复活甲",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 761148,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%A8%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%89%8B%E6%90%93%E5%A4%8D%E6%B4%BB%E7%94%B2"
-      },
-      "raw_titles": [
-        "流浪在万象棋手搓复活甲"
-      ],
-      "rank": 14,
-      "sports_rank": 11
-    },
-    {
       "title": "披哥 人类四肢驯服大会",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 698935,
+      "hot_value": 726312,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%20%E4%BA%BA%E7%B1%BB%E5%9B%9B%E8%82%A2%E9%A9%AF%E6%9C%8D%E5%A4%A7%E4%BC%9A"
       },
       "raw_titles": [
         "披哥 人类四肢驯服大会"
       ],
-      "rank": 15,
+      "rank": 12,
       "movie_rank": 4
     },
     {
-      "title": "五月天阿信和甲亢哥同框",
-      "category": "影视",
+      "title": "王者万象棋到底好玩吗",
+      "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 234000,
+      "hot_value": 671342,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E5%92%8C%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%8C%E6%A1%86&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%88%B0%E5%BA%95%E5%A5%BD%E7%8E%A9%E5%90%97"
       },
       "raw_titles": [
-        "五月天阿信和甲亢哥同框"
+        "王者万象棋到底好玩吗"
       ],
-      "rank": 16,
-      "movie_rank": 5
+      "rank": 13,
+      "sports_rank": 9
+    },
+    {
+      "title": "本命英雄在王者万象棋太C了",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 599607,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9C%AC%E5%91%BD%E8%8B%B1%E9%9B%84%E5%9C%A8%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%A4%AAC%E4%BA%86"
+      },
+      "raw_titles": [
+        "本命英雄在王者万象棋太C了"
+      ],
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "姥姥姥爷其实还活着",
@@ -266,15 +236,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 194401,
+      "hot_value": 339643,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A7%A5%E5%A7%A5%E5%A7%A5%E7%88%B7%E5%85%B6%E5%AE%9E%E8%BF%98%E6%B4%BB%E7%9D%80"
       },
       "raw_titles": [
         "姥姥姥爷其实还活着"
       ],
-      "rank": 17,
+      "rank": 15,
+      "movie_rank": 5
+    },
+    {
+      "title": "肖战荣耀Magic9",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 271264,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%8D%A3%E8%80%80Magic9"
+      },
+      "raw_titles": [
+        "肖战荣耀Magic9"
+      ],
+      "rank": 16,
       "movie_rank": 6
+    },
+    {
+      "title": "五月天阿信和甲亢哥同框",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 207000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E5%92%8C%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%8C%E6%A1%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "五月天阿信和甲亢哥同框"
+      ],
+      "rank": 17,
+      "movie_rank": 7
     },
     {
       "title": "硬蹭《狂飙》卖酒 被判赔偿500万",
@@ -282,7 +284,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 189000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%A1%AC%E8%B9%AD%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%8D%96%E9%85%92+%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF500%E4%B8%87&sa=fyb_news"
       },
@@ -290,22 +292,6 @@
         "硬蹭《狂飙》卖酒 被判赔偿500万"
       ],
       "rank": 18,
-      "movie_rank": 7
-    },
-    {
-      "title": "林依晨叫邓为起床",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 154646,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E5%8F%AB%E9%82%93%E4%B8%BA%E8%B5%B7%E5%BA%8A"
-      },
-      "raw_titles": [
-        "林依晨叫邓为起床"
-      ],
-      "rank": 19,
       "movie_rank": 8
     }
   ],
@@ -316,30 +302,32 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10212823,
+      "hot_value": 10218724,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E4%BA%A4%E6%98%93%E6%89%80"
       },
       "raw_titles": [
         "证监会：加快建设世界一流交易所"
       ],
-      "rank": 1,
+      "rank": 2,
       "sports_rank": 1
     },
     {
-      "title": "NBA球队集体发文欢迎杜兰特",
+      "title": "王者万象棋新手攻略",
       "category": "体育",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 7723924,
+      "hot_value": 8312932,
       "urls": {
-        "抖音": "https://www.douyin.com/search/NBA%E7%90%83%E9%98%9F%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87%E6%AC%A2%E8%BF%8E%E6%9D%9C%E5%85%B0%E7%89%B9"
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E5%BF%85%E7%8E%A9%E9%98%B5%E5%AE%B9"
       },
       "raw_titles": [
-        "NBA球队集体发文欢迎杜兰特"
+        "王者万象棋新手攻略"
       ],
-      "rank": 2,
+      "rank": 3,
       "sports_rank": 2
     },
     {
@@ -348,14 +336,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7722223,
+      "hot_value": 7718202,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
       },
       "raw_titles": [
         "王者万象棋正式上线"
       ],
-      "rank": 3,
+      "rank": 4,
       "sports_rank": 3
     },
     {
@@ -364,30 +352,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7701698,
+      "hot_value": 7710565,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%8C%BA%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA"
       },
       "raw_titles": [
         "中国女篮挺进世界杯八强"
       ],
-      "rank": 4,
+      "rank": 5,
       "sports_rank": 4
     },
     {
-      "title": "王者万象棋新手攻略",
+      "title": "NBA球队集体发文欢迎杜兰特",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7696429,
+      "hot_value": 7695087,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5"
+        "抖音": "https://www.douyin.com/search/NBA%E7%90%83%E9%98%9F%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87%E6%AC%A2%E8%BF%8E%E6%9D%9C%E5%85%B0%E7%89%B9"
       },
       "raw_titles": [
-        "王者万象棋新手攻略"
+        "NBA球队集体发文欢迎杜兰特"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 5
     },
     {
@@ -396,31 +384,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7631803,
+      "hot_value": 7623288,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E9%99%88%E6%B3%BD%E4%B8%80%E8%AF%BA%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%90%88%E4%BD%93"
       },
       "raw_titles": [
         "黄子韬陈泽一诺王者万象棋合体"
       ],
-      "rank": 7,
+      "rank": 8,
       "sports_rank": 6
-    },
-    {
-      "title": "王者万象棋六角笼争霸赛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 2030675,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%85%AD%E8%A7%92%E7%AC%BC%E4%BA%89%E9%9C%B8%E8%B5%9B"
-      },
-      "raw_titles": [
-        "王者万象棋六角笼争霸赛"
-      ],
-      "rank": 9,
-      "sports_rank": 7
     },
     {
       "title": "哔铲师徒杯S2总决赛",
@@ -428,12 +400,28 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1101518,
+      "hot_value": 809017,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%94%E9%93%B2%E5%B8%88%E5%BE%92%E6%9D%AFS2%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "哔铲师徒杯S2总决赛"
+      ],
+      "rank": 9,
+      "sports_rank": 7
+    },
+    {
+      "title": "流浪在万象棋手搓复活甲",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 808432,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%A8%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%89%8B%E6%90%93%E5%A4%8D%E6%B4%BB%E7%94%B2"
+      },
+      "raw_titles": [
+        "流浪在万象棋手搓复活甲"
       ],
       "rank": 10,
       "sports_rank": 8
@@ -444,80 +432,64 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 912254,
+      "hot_value": 671342,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%88%B0%E5%BA%95%E5%A5%BD%E7%8E%A9%E5%90%97"
       },
       "raw_titles": [
         "王者万象棋到底好玩吗"
       ],
-      "rank": 12,
+      "rank": 13,
       "sports_rank": 9
     },
     {
-      "title": "法拉利F1单曲窝法的陀螺",
+      "title": "本命英雄在王者万象棋太C了",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 772603,
+      "hot_value": 599607,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B3%95%E6%8B%89%E5%88%A9F1%E5%8D%95%E6%9B%B2%E7%AA%9D%E6%B3%95%E7%9A%84%E9%99%80%E8%9E%BA"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9C%AC%E5%91%BD%E8%8B%B1%E9%9B%84%E5%9C%A8%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%A4%AAC%E4%BA%86"
       },
       "raw_titles": [
-        "法拉利F1单曲窝法的陀螺"
-      ],
-      "rank": 13,
-      "sports_rank": 10
-    },
-    {
-      "title": "流浪在万象棋手搓复活甲",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 761148,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%A8%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%89%8B%E6%90%93%E5%A4%8D%E6%B4%BB%E7%94%B2"
-      },
-      "raw_titles": [
-        "流浪在万象棋手搓复活甲"
+        "本命英雄在王者万象棋太C了"
       ],
       "rank": 14,
-      "sports_rank": 11
+      "sports_rank": 10
     }
   ],
   "movies": [
-    {
-      "title": "章昊也来学功夫练武术",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7680789,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%AB%A0%E6%98%8A%E4%B9%9F%E6%9D%A5%E5%AD%A6%E5%8A%9F%E5%A4%AB%E7%BB%83%E6%AD%A6%E6%9C%AF"
-      },
-      "raw_titles": [
-        "章昊也来学功夫练武术"
-      ],
-      "rank": 6,
-      "movie_rank": 1
-    },
     {
       "title": "流浪地球望日首曝PV",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 7266748,
+      "hot_value": 11146218,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E6%9C%9B%E6%97%A5%E9%A6%96%E6%9B%9DPV"
       },
       "raw_titles": [
         "流浪地球望日首曝PV"
       ],
-      "rank": 8,
+      "rank": 1,
+      "movie_rank": 1
+    },
+    {
+      "title": "章昊也来学功夫练武术",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7677576,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%AB%A0%E6%98%8A%E4%B9%9F%E6%9D%A5%E5%AD%A6%E5%8A%9F%E5%A4%AB%E7%BB%83%E6%AD%A6%E6%9C%AF"
+      },
+      "raw_titles": [
+        "章昊也来学功夫练武术"
+      ],
+      "rank": 7,
       "movie_rank": 2
     },
     {
@@ -526,7 +498,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1091698,
+      "hot_value": 770982,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F15%E5%91%A8%E5%B9%B4%E7%89%B9%E5%88%AB%E7%BB%BC%E8%89%BA"
       },
@@ -542,31 +514,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 698935,
+      "hot_value": 726312,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%20%E4%BA%BA%E7%B1%BB%E5%9B%9B%E8%82%A2%E9%A9%AF%E6%9C%8D%E5%A4%A7%E4%BC%9A"
       },
       "raw_titles": [
         "披哥 人类四肢驯服大会"
       ],
-      "rank": 15,
+      "rank": 12,
       "movie_rank": 4
-    },
-    {
-      "title": "五月天阿信和甲亢哥同框",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 234000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E5%92%8C%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%8C%E6%A1%86&sa=fyb_news"
-      },
-      "raw_titles": [
-        "五月天阿信和甲亢哥同框"
-      ],
-      "rank": 16,
-      "movie_rank": 5
     },
     {
       "title": "姥姥姥爷其实还活着",
@@ -574,15 +530,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 194401,
+      "hot_value": 339643,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A7%A5%E5%A7%A5%E5%A7%A5%E7%88%B7%E5%85%B6%E5%AE%9E%E8%BF%98%E6%B4%BB%E7%9D%80"
       },
       "raw_titles": [
         "姥姥姥爷其实还活着"
       ],
-      "rank": 17,
+      "rank": 15,
+      "movie_rank": 5
+    },
+    {
+      "title": "肖战荣耀Magic9",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 271264,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%8D%A3%E8%80%80Magic9"
+      },
+      "raw_titles": [
+        "肖战荣耀Magic9"
+      ],
+      "rank": 16,
       "movie_rank": 6
+    },
+    {
+      "title": "五月天阿信和甲亢哥同框",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 207000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E5%92%8C%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%8C%E6%A1%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "五月天阿信和甲亢哥同框"
+      ],
+      "rank": 17,
+      "movie_rank": 7
     },
     {
       "title": "硬蹭《狂飙》卖酒 被判赔偿500万",
@@ -590,7 +578,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 189000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%A1%AC%E8%B9%AD%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%8D%96%E9%85%92+%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF500%E4%B8%87&sa=fyb_news"
       },
@@ -598,22 +586,6 @@
         "硬蹭《狂飙》卖酒 被判赔偿500万"
       ],
       "rank": 18,
-      "movie_rank": 7
-    },
-    {
-      "title": "林依晨叫邓为起床",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 154646,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E5%8F%AB%E9%82%93%E4%B8%BA%E8%B5%B7%E5%BA%8A"
-      },
-      "raw_titles": [
-        "林依晨叫邓为起床"
-      ],
-      "rank": 19,
       "movie_rank": 8
     }
   ]
