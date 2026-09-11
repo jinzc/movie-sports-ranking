@@ -1,18 +1,20 @@
 {
-  "update_time": "2026-09-11 18:00:50",
-  "total": 24,
-  "sports_count": 9,
-  "movie_count": 15,
+  "update_time": "2026-09-11 19:00:51",
+  "total": 26,
+  "sports_count": 7,
+  "movie_count": 19,
   "all": [
     {
       "title": "莱巴金娜首进美网决赛",
       "category": "体育",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 11140693,
+      "hot_value": 10425018,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E9%A6%96%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B"
+        "抖音": "https://www.douyin.com/search/%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E9%A6%96%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E9%80%86%E8%BD%AC%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "莱巴金娜首进美网决赛"
@@ -21,20 +23,36 @@
       "sports_rank": 1
     },
     {
+      "title": "飞到我心上大结局",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7720831,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%A3%9E%E5%88%B0%E6%88%91%E5%BF%83%E4%B8%8A%E5%A4%A7%E7%BB%93%E5%B1%80"
+      },
+      "raw_titles": [
+        "飞到我心上大结局"
+      ],
+      "rank": 2,
+      "movie_rank": 1
+    },
+    {
       "title": "食神百厨大战收官后劲太大",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7763577,
+      "hot_value": 7683940,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A3%9F%E7%A5%9E%E7%99%BE%E5%8E%A8%E5%A4%A7%E6%88%98%E6%94%B6%E5%AE%98%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7"
       },
       "raw_titles": [
         "食神百厨大战收官后劲太大"
       ],
-      "rank": 2,
-      "movie_rank": 1
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "NBA球队集体发文欢迎杜兰特",
@@ -42,14 +60,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7710242,
+      "hot_value": 7682555,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA%E7%90%83%E9%98%9F%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87%E6%AC%A2%E8%BF%8E%E6%9D%9C%E5%85%B0%E7%89%B9"
       },
       "raw_titles": [
         "NBA球队集体发文欢迎杜兰特"
       ],
-      "rank": 3,
+      "rank": 4,
       "sports_rank": 2
     },
     {
@@ -58,15 +76,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7701131,
+      "hot_value": 7662483,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5"
       },
       "raw_titles": [
         "王者万象棋新手攻略"
       ],
-      "rank": 4,
+      "rank": 5,
       "sports_rank": 3
+    },
+    {
+      "title": "娃娃也要学功夫",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7649686,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%A8%83%E5%A8%83%E4%B9%9F%E8%A6%81%E5%AD%A6%E5%8A%9F%E5%A4%AB"
+      },
+      "raw_titles": [
+        "娃娃也要学功夫"
+      ],
+      "rank": 6,
+      "movie_rank": 3
     },
     {
       "title": "火影晓朱鼬幻术大师降临",
@@ -74,31 +108,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7681036,
+      "hot_value": 7642058,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%99%93%E6%9C%B1%E9%BC%AC%E5%B9%BB%E6%9C%AF%E5%A4%A7%E5%B8%88%E9%99%8D%E4%B8%B4"
       },
       "raw_titles": [
         "火影晓朱鼬幻术大师降临"
       ],
-      "rank": 5,
-      "movie_rank": 2
-    },
-    {
-      "title": "飞到我心上大结局",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7680660,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%A3%9E%E5%88%B0%E6%88%91%E5%BF%83%E4%B8%8A%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "飞到我心上大结局"
-      ],
-      "rank": 6,
-      "movie_rank": 3
+      "rank": 7,
+      "movie_rank": 4
     },
     {
       "title": "云雀叫天录定档",
@@ -106,31 +124,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7674973,
+      "hot_value": 7635158,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BA%91%E9%9B%80%E5%8F%AB%E5%A4%A9%E5%BD%95%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "云雀叫天录定档"
       ],
-      "rank": 7,
-      "movie_rank": 4
-    },
-    {
-      "title": "黄子韬陈泽一诺王者万象棋合体",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7653893,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E9%99%88%E6%B3%BD%E4%B8%80%E8%AF%BA%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%90%88%E4%BD%93"
-      },
-      "raw_titles": [
-        "黄子韬陈泽一诺王者万象棋合体"
-      ],
       "rank": 8,
-      "sports_rank": 4
+      "movie_rank": 5
     },
     {
       "title": "谁不想在迪士尼偶遇檀健次",
@@ -138,7 +140,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7652153,
+      "hot_value": 7633676,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B0%81%E4%B8%8D%E6%83%B3%E5%9C%A8%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%81%B6%E9%81%87%E6%AA%80%E5%81%A5%E6%AC%A1"
       },
@@ -146,7 +148,23 @@
         "谁不想在迪士尼偶遇檀健次"
       ],
       "rank": 9,
-      "movie_rank": 5
+      "movie_rank": 6
+    },
+    {
+      "title": "黄子韬陈泽一诺王者万象棋合体",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7631780,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E9%99%88%E6%B3%BD%E4%B8%80%E8%AF%BA%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%90%88%E4%BD%93"
+      },
+      "raw_titles": [
+        "黄子韬陈泽一诺王者万象棋合体"
+      ],
+      "rank": 10,
+      "sports_rank": 4
     },
     {
       "title": "周杰伦西西里MV",
@@ -154,31 +172,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1005636,
+      "hot_value": 794050,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A5%BF%E8%A5%BF%E9%87%8CMV"
       },
       "raw_titles": [
         "周杰伦西西里MV"
       ],
-      "rank": 10,
-      "movie_rank": 6
-    },
-    {
-      "title": "丁俊晖晋级英格兰公开赛8强",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 518974,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B8%E5%BC%BA"
-      },
-      "raw_titles": [
-        "丁俊晖晋级英格兰公开赛8强"
-      ],
       "rank": 11,
-      "sports_rank": 5
+      "movie_rank": 7
     },
     {
       "title": "第37届银河奖获奖名单揭晓",
@@ -186,7 +188,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 506846,
+      "hot_value": 709171,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93"
       },
@@ -194,7 +196,7 @@
         "第37届银河奖获奖名单揭晓"
       ],
       "rank": 12,
-      "movie_rank": 7
+      "movie_rank": 8
     },
     {
       "title": "用热血漫打开王者万象棋",
@@ -202,7 +204,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 471076,
+      "hot_value": 568909,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%A8%E7%83%AD%E8%A1%80%E6%BC%AB%E6%89%93%E5%BC%80%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B"
       },
@@ -210,103 +212,7 @@
         "用热血漫打开王者万象棋"
       ],
       "rank": 13,
-      "sports_rank": 6
-    },
-    {
-      "title": "拜仁5-0博德闪耀",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453316,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8B%9C%E4%BB%815-0%E5%8D%9A%E5%BE%B7%E9%97%AA%E8%80%80"
-      },
-      "raw_titles": [
-        "拜仁5-0博德闪耀"
-      ],
-      "rank": 14,
-      "sports_rank": 7
-    },
-    {
-      "title": "白敬亭谭松韵一个叫姐一个叫哥",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 405297,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%A7%90%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%93%A5"
-      },
-      "raw_titles": [
-        "白敬亭谭松韵一个叫姐一个叫哥"
-      ],
-      "rank": 15,
-      "movie_rank": 8
-    },
-    {
-      "title": "周冬雨走到哪儿都是素颜",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 389811,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%B5%B0%E5%88%B0%E5%93%AA%E5%84%BF%E9%83%BD%E6%98%AF%E7%B4%A0%E9%A2%9C"
-      },
-      "raw_titles": [
-        "周冬雨走到哪儿都是素颜"
-      ],
-      "rank": 16,
-      "movie_rank": 9
-    },
-    {
-      "title": "早春晴朗豆瓣6.7分",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 377608,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%B1%86%E7%93%A36.7%E5%88%86"
-      },
-      "raw_titles": [
-        "早春晴朗豆瓣6.7分"
-      ],
-      "rank": 17,
-      "movie_rank": 10
-    },
-    {
-      "title": "肖战孙菲菲 杂志",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 368094,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%AD%99%E8%8F%B2%E8%8F%B2%20%E6%9D%82%E5%BF%97"
-      },
-      "raw_titles": [
-        "肖战孙菲菲 杂志"
-      ],
-      "rank": 18,
-      "movie_rank": 11
-    },
-    {
-      "title": "范丞丞ins发抽烟照",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 363711,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9Eins%E5%8F%91%E6%8A%BD%E7%83%9F%E7%85%A7"
-      },
-      "raw_titles": [
-        "范丞丞ins发抽烟照"
-      ],
-      "rank": 19,
-      "movie_rank": 12
+      "sports_rank": 5
     },
     {
       "title": "Caps名人堂纪录片",
@@ -314,15 +220,175 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 349825,
+      "hot_value": 471567,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=Caps%E5%90%8D%E4%BA%BA%E5%A0%82%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
         "Caps名人堂纪录片"
       ],
-      "rank": 20,
+      "rank": 14,
+      "movie_rank": 9
+    },
+    {
+      "title": "拜仁5-0博德闪耀",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 419297,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8B%9C%E4%BB%815-0%E5%8D%9A%E5%BE%B7%E9%97%AA%E8%80%80"
+      },
+      "raw_titles": [
+        "拜仁5-0博德闪耀"
+      ],
+      "rank": 15,
+      "sports_rank": 6
+    },
+    {
+      "title": "早春晴朗豆瓣6.7分",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 353046,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%B1%86%E7%93%A36.7%E5%88%86"
+      },
+      "raw_titles": [
+        "早春晴朗豆瓣6.7分"
+      ],
+      "rank": 16,
+      "movie_rank": 10
+    },
+    {
+      "title": "偶遇倪妮考科目二",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 350477,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%81%B6%E9%81%87%E5%80%AA%E5%A6%AE%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C"
+      },
+      "raw_titles": [
+        "偶遇倪妮考科目二"
+      ],
+      "rank": 17,
+      "movie_rank": 11
+    },
+    {
+      "title": "台湾医生造谣迪士尼惹上地表最强法务",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 347931,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%8C%BB%E7%94%9F%E9%80%A0%E8%B0%A3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%83%B9%E4%B8%8A%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E6%B3%95%E5%8A%A1"
+      },
+      "raw_titles": [
+        "台湾医生造谣迪士尼惹上地表最强法务"
+      ],
+      "rank": 18,
+      "movie_rank": 12
+    },
+    {
+      "title": "邓为说我屁股已经爆炸了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 344626,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E8%AF%B4%E6%88%91%E5%B1%81%E8%82%A1%E5%B7%B2%E7%BB%8F%E7%88%86%E7%82%B8%E4%BA%86"
+      },
+      "raw_titles": [
+        "邓为说我屁股已经爆炸了"
+      ],
+      "rank": 19,
       "movie_rank": 13
+    },
+    {
+      "title": "周冬雨走到哪儿都是素颜",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 334229,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%B5%B0%E5%88%B0%E5%93%AA%E5%84%BF%E9%83%BD%E6%98%AF%E7%B4%A0%E9%A2%9C"
+      },
+      "raw_titles": [
+        "周冬雨走到哪儿都是素颜"
+      ],
+      "rank": 20,
+      "movie_rank": 14
+    },
+    {
+      "title": "白敬亭谭松韵一个叫姐一个叫哥",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 320189,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%A7%90%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%93%A5"
+      },
+      "raw_titles": [
+        "白敬亭谭松韵一个叫姐一个叫哥"
+      ],
+      "rank": 21,
+      "movie_rank": 15
+    },
+    {
+      "title": "范丞丞ins发抽烟照",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 311806,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9Eins%E5%8F%91%E6%8A%BD%E7%83%9F%E7%85%A7"
+      },
+      "raw_titles": [
+        "范丞丞ins发抽烟照"
+      ],
+      "rank": 22,
+      "movie_rank": 16
+    },
+    {
+      "title": "刘亦菲秀场耳环已经被买走了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 306990,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%A7%80%E5%9C%BA%E8%80%B3%E7%8E%AF%E5%B7%B2%E7%BB%8F%E8%A2%AB%E4%B9%B0%E8%B5%B0%E4%BA%86"
+      },
+      "raw_titles": [
+        "刘亦菲秀场耳环已经被买走了"
+      ],
+      "rank": 23,
+      "movie_rank": 17
+    },
+    {
+      "title": "肖战孙菲菲 杂志",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 305031,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%AD%99%E8%8F%B2%E8%8F%B2%20%E6%9D%82%E5%BF%97"
+      },
+      "raw_titles": [
+        "肖战孙菲菲 杂志"
+      ],
+      "rank": 24,
+      "movie_rank": 18
     },
     {
       "title": "募捐42元获奖励900元",
@@ -330,47 +396,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 288000,
+      "hot_value": 135000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%8B%9F%E6%8D%9042%E5%85%83%E8%8E%B7%E5%A5%96%E5%8A%B1900%E5%85%83&sa=fyb_news"
       },
       "raw_titles": [
         "募捐42元获奖励900元"
       ],
-      "rank": 21,
-      "movie_rank": 14
-    },
-    {
-      "title": "老师获奖8万当场分给全校学生",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%80%81%E5%B8%88%E8%8E%B7%E5%A5%968%E4%B8%87%E5%BD%93%E5%9C%BA%E5%88%86%E7%BB%99%E5%85%A8%E6%A0%A1%E5%AD%A6%E7%94%9F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "老师获奖8万当场分给全校学生"
-      ],
-      "rank": 22,
-      "movie_rank": 15
-    },
-    {
-      "title": "林依晨王星越5米高台跳水",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 54000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9E%97%E4%BE%9D%E6%99%A8%E7%8E%8B%E6%98%9F%E8%B6%8A5%E7%B1%B3%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4&sa=fyb_news"
-      },
-      "raw_titles": [
-        "林依晨王星越5米高台跳水"
-      ],
-      "rank": 23,
-      "sports_rank": 8
+      "rank": 25,
+      "movie_rank": 19
     },
     {
       "title": "亚运会首战 中国男篮大胜哈萨克斯坦",
@@ -378,15 +412,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A6%96%E6%88%98+%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%A4%A7%E8%83%9C%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news"
       },
       "raw_titles": [
         "亚运会首战 中国男篮大胜哈萨克斯坦"
       ],
-      "rank": 24,
-      "sports_rank": 9
+      "rank": 26,
+      "sports_rank": 7
     }
   ],
   "sports": [
@@ -394,11 +428,13 @@
       "title": "莱巴金娜首进美网决赛",
       "category": "体育",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 11140693,
+      "hot_value": 10425018,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E9%A6%96%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B"
+        "抖音": "https://www.douyin.com/search/%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E9%A6%96%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E9%80%86%E8%BD%AC%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "莱巴金娜首进美网决赛"
@@ -412,14 +448,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7710242,
+      "hot_value": 7682555,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA%E7%90%83%E9%98%9F%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87%E6%AC%A2%E8%BF%8E%E6%9D%9C%E5%85%B0%E7%89%B9"
       },
       "raw_titles": [
         "NBA球队集体发文欢迎杜兰特"
       ],
-      "rank": 3,
+      "rank": 4,
       "sports_rank": 2
     },
     {
@@ -428,14 +464,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7701131,
+      "hot_value": 7662483,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5"
       },
       "raw_titles": [
         "王者万象棋新手攻略"
       ],
-      "rank": 4,
+      "rank": 5,
       "sports_rank": 3
     },
     {
@@ -444,31 +480,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7653893,
+      "hot_value": 7631780,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E9%99%88%E6%B3%BD%E4%B8%80%E8%AF%BA%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%90%88%E4%BD%93"
       },
       "raw_titles": [
         "黄子韬陈泽一诺王者万象棋合体"
       ],
-      "rank": 8,
+      "rank": 10,
       "sports_rank": 4
-    },
-    {
-      "title": "丁俊晖晋级英格兰公开赛8强",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 518974,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B8%E5%BC%BA"
-      },
-      "raw_titles": [
-        "丁俊晖晋级英格兰公开赛8强"
-      ],
-      "rank": 11,
-      "sports_rank": 5
     },
     {
       "title": "用热血漫打开王者万象棋",
@@ -476,7 +496,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 471076,
+      "hot_value": 568909,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%A8%E7%83%AD%E8%A1%80%E6%BC%AB%E6%89%93%E5%BC%80%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B"
       },
@@ -484,7 +504,7 @@
         "用热血漫打开王者万象棋"
       ],
       "rank": 13,
-      "sports_rank": 6
+      "sports_rank": 5
     },
     {
       "title": "拜仁5-0博德闪耀",
@@ -492,31 +512,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 453316,
+      "hot_value": 419297,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8B%9C%E4%BB%815-0%E5%8D%9A%E5%BE%B7%E9%97%AA%E8%80%80"
       },
       "raw_titles": [
         "拜仁5-0博德闪耀"
       ],
-      "rank": 14,
-      "sports_rank": 7
-    },
-    {
-      "title": "林依晨王星越5米高台跳水",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 54000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9E%97%E4%BE%9D%E6%99%A8%E7%8E%8B%E6%98%9F%E8%B6%8A5%E7%B1%B3%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4&sa=fyb_news"
-      },
-      "raw_titles": [
-        "林依晨王星越5米高台跳水"
-      ],
-      "rank": 23,
-      "sports_rank": 8
+      "rank": 15,
+      "sports_rank": 6
     },
     {
       "title": "亚运会首战 中国男篮大胜哈萨克斯坦",
@@ -524,33 +528,65 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A6%96%E6%88%98+%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%A4%A7%E8%83%9C%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news"
       },
       "raw_titles": [
         "亚运会首战 中国男篮大胜哈萨克斯坦"
       ],
-      "rank": 24,
-      "sports_rank": 9
+      "rank": 26,
+      "sports_rank": 7
     }
   ],
   "movies": [
+    {
+      "title": "飞到我心上大结局",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7720831,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%A3%9E%E5%88%B0%E6%88%91%E5%BF%83%E4%B8%8A%E5%A4%A7%E7%BB%93%E5%B1%80"
+      },
+      "raw_titles": [
+        "飞到我心上大结局"
+      ],
+      "rank": 2,
+      "movie_rank": 1
+    },
     {
       "title": "食神百厨大战收官后劲太大",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7763577,
+      "hot_value": 7683940,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A3%9F%E7%A5%9E%E7%99%BE%E5%8E%A8%E5%A4%A7%E6%88%98%E6%94%B6%E5%AE%98%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7"
       },
       "raw_titles": [
         "食神百厨大战收官后劲太大"
       ],
-      "rank": 2,
-      "movie_rank": 1
+      "rank": 3,
+      "movie_rank": 2
+    },
+    {
+      "title": "娃娃也要学功夫",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7649686,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%A8%83%E5%A8%83%E4%B9%9F%E8%A6%81%E5%AD%A6%E5%8A%9F%E5%A4%AB"
+      },
+      "raw_titles": [
+        "娃娃也要学功夫"
+      ],
+      "rank": 6,
+      "movie_rank": 3
     },
     {
       "title": "火影晓朱鼬幻术大师降临",
@@ -558,31 +594,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7681036,
+      "hot_value": 7642058,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%99%93%E6%9C%B1%E9%BC%AC%E5%B9%BB%E6%9C%AF%E5%A4%A7%E5%B8%88%E9%99%8D%E4%B8%B4"
       },
       "raw_titles": [
         "火影晓朱鼬幻术大师降临"
       ],
-      "rank": 5,
-      "movie_rank": 2
-    },
-    {
-      "title": "飞到我心上大结局",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7680660,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%A3%9E%E5%88%B0%E6%88%91%E5%BF%83%E4%B8%8A%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "飞到我心上大结局"
-      ],
-      "rank": 6,
-      "movie_rank": 3
+      "rank": 7,
+      "movie_rank": 4
     },
     {
       "title": "云雀叫天录定档",
@@ -590,15 +610,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7674973,
+      "hot_value": 7635158,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BA%91%E9%9B%80%E5%8F%AB%E5%A4%A9%E5%BD%95%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "云雀叫天录定档"
       ],
-      "rank": 7,
-      "movie_rank": 4
+      "rank": 8,
+      "movie_rank": 5
     },
     {
       "title": "谁不想在迪士尼偶遇檀健次",
@@ -606,7 +626,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7652153,
+      "hot_value": 7633676,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B0%81%E4%B8%8D%E6%83%B3%E5%9C%A8%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%81%B6%E9%81%87%E6%AA%80%E5%81%A5%E6%AC%A1"
       },
@@ -614,7 +634,7 @@
         "谁不想在迪士尼偶遇檀健次"
       ],
       "rank": 9,
-      "movie_rank": 5
+      "movie_rank": 6
     },
     {
       "title": "周杰伦西西里MV",
@@ -622,15 +642,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1005636,
+      "hot_value": 794050,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A5%BF%E8%A5%BF%E9%87%8CMV"
       },
       "raw_titles": [
         "周杰伦西西里MV"
       ],
-      "rank": 10,
-      "movie_rank": 6
+      "rank": 11,
+      "movie_rank": 7
     },
     {
       "title": "第37届银河奖获奖名单揭晓",
@@ -638,7 +658,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 506846,
+      "hot_value": 709171,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93"
       },
@@ -646,38 +666,22 @@
         "第37届银河奖获奖名单揭晓"
       ],
       "rank": 12,
-      "movie_rank": 7
-    },
-    {
-      "title": "白敬亭谭松韵一个叫姐一个叫哥",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 405297,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%A7%90%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%93%A5"
-      },
-      "raw_titles": [
-        "白敬亭谭松韵一个叫姐一个叫哥"
-      ],
-      "rank": 15,
       "movie_rank": 8
     },
     {
-      "title": "周冬雨走到哪儿都是素颜",
+      "title": "Caps名人堂纪录片",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 389811,
+      "hot_value": 471567,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%B5%B0%E5%88%B0%E5%93%AA%E5%84%BF%E9%83%BD%E6%98%AF%E7%B4%A0%E9%A2%9C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Caps%E5%90%8D%E4%BA%BA%E5%A0%82%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
-        "周冬雨走到哪儿都是素颜"
+        "Caps名人堂纪录片"
       ],
-      "rank": 16,
+      "rank": 14,
       "movie_rank": 9
     },
     {
@@ -686,31 +690,95 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 377608,
+      "hot_value": 353046,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%B1%86%E7%93%A36.7%E5%88%86"
       },
       "raw_titles": [
         "早春晴朗豆瓣6.7分"
       ],
-      "rank": 17,
+      "rank": 16,
       "movie_rank": 10
     },
     {
-      "title": "肖战孙菲菲 杂志",
+      "title": "偶遇倪妮考科目二",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 368094,
+      "hot_value": 350477,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%AD%99%E8%8F%B2%E8%8F%B2%20%E6%9D%82%E5%BF%97"
+        "微博": "https://s.weibo.com/weibo?q=%E5%81%B6%E9%81%87%E5%80%AA%E5%A6%AE%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C"
       },
       "raw_titles": [
-        "肖战孙菲菲 杂志"
+        "偶遇倪妮考科目二"
+      ],
+      "rank": 17,
+      "movie_rank": 11
+    },
+    {
+      "title": "台湾医生造谣迪士尼惹上地表最强法务",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 347931,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%8C%BB%E7%94%9F%E9%80%A0%E8%B0%A3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%83%B9%E4%B8%8A%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E6%B3%95%E5%8A%A1"
+      },
+      "raw_titles": [
+        "台湾医生造谣迪士尼惹上地表最强法务"
       ],
       "rank": 18,
-      "movie_rank": 11
+      "movie_rank": 12
+    },
+    {
+      "title": "邓为说我屁股已经爆炸了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 344626,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E8%AF%B4%E6%88%91%E5%B1%81%E8%82%A1%E5%B7%B2%E7%BB%8F%E7%88%86%E7%82%B8%E4%BA%86"
+      },
+      "raw_titles": [
+        "邓为说我屁股已经爆炸了"
+      ],
+      "rank": 19,
+      "movie_rank": 13
+    },
+    {
+      "title": "周冬雨走到哪儿都是素颜",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 334229,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%B5%B0%E5%88%B0%E5%93%AA%E5%84%BF%E9%83%BD%E6%98%AF%E7%B4%A0%E9%A2%9C"
+      },
+      "raw_titles": [
+        "周冬雨走到哪儿都是素颜"
+      ],
+      "rank": 20,
+      "movie_rank": 14
+    },
+    {
+      "title": "白敬亭谭松韵一个叫姐一个叫哥",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 320189,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%A7%90%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%93%A5"
+      },
+      "raw_titles": [
+        "白敬亭谭松韵一个叫姐一个叫哥"
+      ],
+      "rank": 21,
+      "movie_rank": 15
     },
     {
       "title": "范丞丞ins发抽烟照",
@@ -718,31 +786,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 363711,
+      "hot_value": 311806,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9Eins%E5%8F%91%E6%8A%BD%E7%83%9F%E7%85%A7"
       },
       "raw_titles": [
         "范丞丞ins发抽烟照"
       ],
-      "rank": 19,
-      "movie_rank": 12
+      "rank": 22,
+      "movie_rank": 16
     },
     {
-      "title": "Caps名人堂纪录片",
+      "title": "刘亦菲秀场耳环已经被买走了",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 349825,
+      "hot_value": 306990,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Caps%E5%90%8D%E4%BA%BA%E5%A0%82%E7%BA%AA%E5%BD%95%E7%89%87"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%A7%80%E5%9C%BA%E8%80%B3%E7%8E%AF%E5%B7%B2%E7%BB%8F%E8%A2%AB%E4%B9%B0%E8%B5%B0%E4%BA%86"
       },
       "raw_titles": [
-        "Caps名人堂纪录片"
+        "刘亦菲秀场耳环已经被买走了"
       ],
-      "rank": 20,
-      "movie_rank": 13
+      "rank": 23,
+      "movie_rank": 17
+    },
+    {
+      "title": "肖战孙菲菲 杂志",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 305031,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%AD%99%E8%8F%B2%E8%8F%B2%20%E6%9D%82%E5%BF%97"
+      },
+      "raw_titles": [
+        "肖战孙菲菲 杂志"
+      ],
+      "rank": 24,
+      "movie_rank": 18
     },
     {
       "title": "募捐42元获奖励900元",
@@ -750,31 +834,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 288000,
+      "hot_value": 135000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%8B%9F%E6%8D%9042%E5%85%83%E8%8E%B7%E5%A5%96%E5%8A%B1900%E5%85%83&sa=fyb_news"
       },
       "raw_titles": [
         "募捐42元获奖励900元"
       ],
-      "rank": 21,
-      "movie_rank": 14
-    },
-    {
-      "title": "老师获奖8万当场分给全校学生",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%80%81%E5%B8%88%E8%8E%B7%E5%A5%968%E4%B8%87%E5%BD%93%E5%9C%BA%E5%88%86%E7%BB%99%E5%85%A8%E6%A0%A1%E5%AD%A6%E7%94%9F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "老师获奖8万当场分给全校学生"
-      ],
-      "rank": 22,
-      "movie_rank": 15
+      "rank": 25,
+      "movie_rank": 19
     }
   ]
 }
