@@ -1,40 +1,44 @@
 {
-  "update_time": "2026-09-12 03:00:54",
-  "total": 20,
-  "sports_count": 13,
-  "movie_count": 7,
+  "update_time": "2026-09-12 04:00:49",
+  "total": 18,
+  "sports_count": 12,
+  "movie_count": 6,
   "all": [
+    {
+      "title": "丁俊晖周跃龙晋级英格兰公开赛八强",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 7855224,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E5%91%A8%E8%B7%83%E9%BE%99%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%85%AB%E5%BC%BA&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B8%E5%BC%BA",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA"
+      },
+      "raw_titles": [
+        "丁俊晖周跃龙晋级英格兰公开赛八强"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "飞到我心上大结局",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7732662,
+      "hot_value": 7699003,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A3%9E%E5%88%B0%E6%88%91%E5%BF%83%E4%B8%8A%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "飞到我心上大结局"
       ],
-      "rank": 1,
-      "movie_rank": 1
-    },
-    {
-      "title": "娃娃也要学功夫",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7696757,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A8%83%E5%A8%83%E4%B9%9F%E8%A6%81%E5%AD%A6%E5%8A%9F%E5%A4%AB"
-      },
-      "raw_titles": [
-        "娃娃也要学功夫"
-      ],
       "rank": 2,
-      "movie_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "一文带你玩懂王者万象棋",
@@ -42,7 +46,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671263,
+      "hot_value": 7692380,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%80%E6%96%87%E5%B8%A6%E4%BD%A0%E7%8E%A9%E6%87%82%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B"
       },
@@ -50,22 +54,6 @@
         "一文带你玩懂王者万象棋"
       ],
       "rank": 3,
-      "sports_rank": 1
-    },
-    {
-      "title": "黄子韬在王者万象棋现场帅回来了",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7655910,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9C%A8%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E7%8E%B0%E5%9C%BA%E5%B8%85%E5%9B%9E%E6%9D%A5%E4%BA%86"
-      },
-      "raw_titles": [
-        "黄子韬在王者万象棋现场帅回来了"
-      ],
-      "rank": 4,
       "sports_rank": 2
     },
     {
@@ -74,15 +62,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7647161,
+      "hot_value": 7662259,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%99%93%E6%9C%B1%E9%BC%AC%E5%B9%BB%E6%9C%AF%E5%A4%A7%E5%B8%88%E9%99%8D%E4%B8%B4"
       },
       "raw_titles": [
         "火影晓朱鼬幻术大师降临"
       ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "黄子韬在王者万象棋现场帅回来了",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7661390,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9C%A8%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E7%8E%B0%E5%9C%BA%E5%B8%85%E5%9B%9E%E6%9D%A5%E4%BA%86"
+      },
+      "raw_titles": [
+        "黄子韬在王者万象棋现场帅回来了"
+      ],
       "rank": 5,
-      "movie_rank": 3
+      "sports_rank": 3
     },
     {
       "title": "coke王者万象棋cos太痞了",
@@ -90,7 +94,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7638167,
+      "hot_value": 7653643,
       "urls": {
         "抖音": "https://www.douyin.com/search/coke%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8Bcos%E5%A4%AA%E7%97%9E%E4%BA%86"
       },
@@ -98,7 +102,7 @@
         "coke王者万象棋cos太痞了"
       ],
       "rank": 6,
-      "sports_rank": 3
+      "sports_rank": 4
     },
     {
       "title": "云雀叫天录定档",
@@ -106,7 +110,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7630742,
+      "hot_value": 7646473,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BA%91%E9%9B%80%E5%8F%AB%E5%A4%A9%E5%BD%95%E5%AE%9A%E6%A1%A3"
       },
@@ -114,7 +118,7 @@
         "云雀叫天录定档"
       ],
       "rank": 7,
-      "movie_rank": 4
+      "movie_rank": 3
     },
     {
       "title": "丁俊晖战胜凯伦·威尔逊晋级四强",
@@ -130,7 +134,7 @@
         "丁俊晖战胜凯伦·威尔逊晋级四强"
       ],
       "rank": 8,
-      "sports_rank": 4
+      "sports_rank": 5
     },
     {
       "title": "深度解析东契奇生涯困境",
@@ -138,7 +142,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 305695,
+      "hot_value": 361448,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%9C%E5%A5%91%E5%A5%87%E7%94%9F%E6%B6%AF%E5%9B%B0%E5%A2%83"
       },
@@ -146,7 +150,7 @@
         "深度解析东契奇生涯困境"
       ],
       "rank": 9,
-      "sports_rank": 5
+      "sports_rank": 6
     },
     {
       "title": "皇马巴萨为何是国家德比",
@@ -154,7 +158,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 235818,
+      "hot_value": 164540,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%B7%B4%E8%90%A8%E4%B8%BA%E4%BD%95%E6%98%AF%E5%9B%BD%E5%AE%B6%E5%BE%B7%E6%AF%94"
       },
@@ -162,22 +166,6 @@
         "皇马巴萨为何是国家德比"
       ],
       "rank": 10,
-      "sports_rank": 6
-    },
-    {
-      "title": "三角洲夏季赛季后赛刺激赛制",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 196104,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A4%8F%E5%AD%A3%E8%B5%9B%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%88%BA%E6%BF%80%E8%B5%9B%E5%88%B6"
-      },
-      "raw_titles": [
-        "三角洲夏季赛季后赛刺激赛制"
-      ],
-      "rank": 11,
       "sports_rank": 7
     },
     {
@@ -186,15 +174,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 191919,
+      "hot_value": 150254,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93"
       },
       "raw_titles": [
         "第37届银河奖获奖名单揭晓"
       ],
-      "rank": 12,
-      "movie_rank": 5
+      "rank": 11,
+      "movie_rank": 4
     },
     {
       "title": "周杰伦西西里MV",
@@ -202,30 +190,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 179589,
+      "hot_value": 150247,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A5%BF%E8%A5%BF%E9%87%8CMV"
       },
       "raw_titles": [
         "周杰伦西西里MV"
       ],
-      "rank": 13,
-      "movie_rank": 6
+      "rank": 12,
+      "movie_rank": 5
     },
     {
-      "title": "万象棋香香扛着大狙来了",
+      "title": "三角洲夏季赛季后赛刺激赛制",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 166844,
+      "hot_value": 132823,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E8%B1%A1%E6%A3%8B%E9%A6%99%E9%A6%99%E6%89%9B%E7%9D%80%E5%A4%A7%E7%8B%99%E6%9D%A5%E4%BA%86"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A4%8F%E5%AD%A3%E8%B5%9B%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%88%BA%E6%BF%80%E8%B5%9B%E5%88%B6"
       },
       "raw_titles": [
-        "万象棋香香扛着大狙来了"
+        "三角洲夏季赛季后赛刺激赛制"
       ],
-      "rank": 14,
+      "rank": 13,
       "sports_rank": 8
     },
     {
@@ -234,31 +222,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 139093,
+      "hot_value": 96060,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E7%BB%99%E4%BD%A0%E8%AE%B2%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A0%82%E4%BD%93%E8%82%B2%E8%AF%BE"
       },
       "raw_titles": [
         "库里给你讲开学第一堂体育课"
       ],
-      "rank": 15,
+      "rank": 14,
       "sports_rank": 9
-    },
-    {
-      "title": "贵州蜘蛛侠横空出世",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 109225,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B4%B5%E5%B7%9E%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96"
-      },
-      "raw_titles": [
-        "贵州蜘蛛侠横空出世"
-      ],
-      "rank": 16,
-      "movie_rank": 7
     },
     {
       "title": "韦世豪禁赛影响国足热身赛",
@@ -266,14 +238,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 79261,
+      "hot_value": 58699,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%A6%81%E8%B5%9B%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B"
       },
       "raw_titles": [
         "韦世豪禁赛影响国足热身赛"
       ],
-      "rank": 17,
+      "rank": 15,
       "sports_rank": 10
     },
     {
@@ -282,57 +254,77 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 79003,
+      "hot_value": 50552,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=2026F1%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%A7%E5%A5%96%E8%B5%9B"
       },
       "raw_titles": [
         "2026F1西班牙大奖赛"
       ],
-      "rank": 18,
+      "rank": 16,
       "sports_rank": 11
     },
     {
-      "title": "丁俊晖晋级四强",
+      "title": "丁俊晖时隔17个月再进四强",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 78989,
+      "hot_value": 50388,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96%E6%97%B6%E9%9A%9417%E4%B8%AA%E6%9C%88%E5%86%8D%E8%BF%9B%E5%9B%9B%E5%BC%BA"
       },
       "raw_titles": [
-        "丁俊晖晋级四强"
+        "丁俊晖时隔17个月再进四强"
       ],
-      "rank": 19,
+      "rank": 17,
       "sports_rank": 12
     },
+    {
+      "title": "打歌2026王俊凯唱跳舞台",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 27000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%89%93%E6%AD%8C2026%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%94%B1%E8%B7%B3%E8%88%9E%E5%8F%B0&sa=fyb_news"
+      },
+      "raw_titles": [
+        "打歌2026王俊凯唱跳舞台"
+      ],
+      "rank": 18,
+      "movie_rank": 6
+    }
+  ],
+  "sports": [
     {
       "title": "丁俊晖周跃龙晋级英格兰公开赛八强",
       "category": "体育",
       "sources": [
-        "百度"
+        "百度",
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 63000,
+      "hot_value": 7855224,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E5%91%A8%E8%B7%83%E9%BE%99%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%85%AB%E5%BC%BA&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E5%91%A8%E8%B7%83%E9%BE%99%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%85%AB%E5%BC%BA&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B8%E5%BC%BA",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA"
       },
       "raw_titles": [
         "丁俊晖周跃龙晋级英格兰公开赛八强"
       ],
-      "rank": 20,
-      "sports_rank": 13
-    }
-  ],
-  "sports": [
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "一文带你玩懂王者万象棋",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671263,
+      "hot_value": 7692380,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%80%E6%96%87%E5%B8%A6%E4%BD%A0%E7%8E%A9%E6%87%82%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B"
       },
@@ -340,7 +332,7 @@
         "一文带你玩懂王者万象棋"
       ],
       "rank": 3,
-      "sports_rank": 1
+      "sports_rank": 2
     },
     {
       "title": "黄子韬在王者万象棋现场帅回来了",
@@ -348,15 +340,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7655910,
+      "hot_value": 7661390,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9C%A8%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E7%8E%B0%E5%9C%BA%E5%B8%85%E5%9B%9E%E6%9D%A5%E4%BA%86"
       },
       "raw_titles": [
         "黄子韬在王者万象棋现场帅回来了"
       ],
-      "rank": 4,
-      "sports_rank": 2
+      "rank": 5,
+      "sports_rank": 3
     },
     {
       "title": "coke王者万象棋cos太痞了",
@@ -364,7 +356,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7638167,
+      "hot_value": 7653643,
       "urls": {
         "抖音": "https://www.douyin.com/search/coke%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8Bcos%E5%A4%AA%E7%97%9E%E4%BA%86"
       },
@@ -372,7 +364,7 @@
         "coke王者万象棋cos太痞了"
       ],
       "rank": 6,
-      "sports_rank": 3
+      "sports_rank": 4
     },
     {
       "title": "丁俊晖战胜凯伦·威尔逊晋级四强",
@@ -388,7 +380,7 @@
         "丁俊晖战胜凯伦·威尔逊晋级四强"
       ],
       "rank": 8,
-      "sports_rank": 4
+      "sports_rank": 5
     },
     {
       "title": "深度解析东契奇生涯困境",
@@ -396,7 +388,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 305695,
+      "hot_value": 361448,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%9C%E5%A5%91%E5%A5%87%E7%94%9F%E6%B6%AF%E5%9B%B0%E5%A2%83"
       },
@@ -404,7 +396,7 @@
         "深度解析东契奇生涯困境"
       ],
       "rank": 9,
-      "sports_rank": 5
+      "sports_rank": 6
     },
     {
       "title": "皇马巴萨为何是国家德比",
@@ -412,7 +404,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 235818,
+      "hot_value": 164540,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%B7%B4%E8%90%A8%E4%B8%BA%E4%BD%95%E6%98%AF%E5%9B%BD%E5%AE%B6%E5%BE%B7%E6%AF%94"
       },
@@ -420,7 +412,7 @@
         "皇马巴萨为何是国家德比"
       ],
       "rank": 10,
-      "sports_rank": 6
+      "sports_rank": 7
     },
     {
       "title": "三角洲夏季赛季后赛刺激赛制",
@@ -428,30 +420,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 196104,
+      "hot_value": 132823,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A4%8F%E5%AD%A3%E8%B5%9B%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%88%BA%E6%BF%80%E8%B5%9B%E5%88%B6"
       },
       "raw_titles": [
         "三角洲夏季赛季后赛刺激赛制"
       ],
-      "rank": 11,
-      "sports_rank": 7
-    },
-    {
-      "title": "万象棋香香扛着大狙来了",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 166844,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E8%B1%A1%E6%A3%8B%E9%A6%99%E9%A6%99%E6%89%9B%E7%9D%80%E5%A4%A7%E7%8B%99%E6%9D%A5%E4%BA%86"
-      },
-      "raw_titles": [
-        "万象棋香香扛着大狙来了"
-      ],
-      "rank": 14,
+      "rank": 13,
       "sports_rank": 8
     },
     {
@@ -460,14 +436,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 139093,
+      "hot_value": 96060,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E7%BB%99%E4%BD%A0%E8%AE%B2%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A0%82%E4%BD%93%E8%82%B2%E8%AF%BE"
       },
       "raw_titles": [
         "库里给你讲开学第一堂体育课"
       ],
-      "rank": 15,
+      "rank": 14,
       "sports_rank": 9
     },
     {
@@ -476,14 +452,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 79261,
+      "hot_value": 58699,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%A6%81%E8%B5%9B%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B"
       },
       "raw_titles": [
         "韦世豪禁赛影响国足热身赛"
       ],
-      "rank": 17,
+      "rank": 15,
       "sports_rank": 10
     },
     {
@@ -492,47 +468,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 79003,
+      "hot_value": 50552,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=2026F1%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%A7%E5%A5%96%E8%B5%9B"
       },
       "raw_titles": [
         "2026F1西班牙大奖赛"
       ],
-      "rank": 18,
+      "rank": 16,
       "sports_rank": 11
     },
     {
-      "title": "丁俊晖晋级四强",
+      "title": "丁俊晖时隔17个月再进四强",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 78989,
+      "hot_value": 50388,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96%E6%97%B6%E9%9A%9417%E4%B8%AA%E6%9C%88%E5%86%8D%E8%BF%9B%E5%9B%9B%E5%BC%BA"
       },
       "raw_titles": [
-        "丁俊晖晋级四强"
+        "丁俊晖时隔17个月再进四强"
       ],
-      "rank": 19,
+      "rank": 17,
       "sports_rank": 12
-    },
-    {
-      "title": "丁俊晖周跃龙晋级英格兰公开赛八强",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 63000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E5%91%A8%E8%B7%83%E9%BE%99%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%85%AB%E5%BC%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "丁俊晖周跃龙晋级英格兰公开赛八强"
-      ],
-      "rank": 20,
-      "sports_rank": 13
     }
   ],
   "movies": [
@@ -542,31 +502,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7732662,
+      "hot_value": 7699003,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A3%9E%E5%88%B0%E6%88%91%E5%BF%83%E4%B8%8A%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "飞到我心上大结局"
       ],
-      "rank": 1,
-      "movie_rank": 1
-    },
-    {
-      "title": "娃娃也要学功夫",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7696757,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A8%83%E5%A8%83%E4%B9%9F%E8%A6%81%E5%AD%A6%E5%8A%9F%E5%A4%AB"
-      },
-      "raw_titles": [
-        "娃娃也要学功夫"
-      ],
       "rank": 2,
-      "movie_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "火影晓朱鼬幻术大师降临",
@@ -574,15 +518,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7647161,
+      "hot_value": 7662259,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%99%93%E6%9C%B1%E9%BC%AC%E5%B9%BB%E6%9C%AF%E5%A4%A7%E5%B8%88%E9%99%8D%E4%B8%B4"
       },
       "raw_titles": [
         "火影晓朱鼬幻术大师降临"
       ],
-      "rank": 5,
-      "movie_rank": 3
+      "rank": 4,
+      "movie_rank": 2
     },
     {
       "title": "云雀叫天录定档",
@@ -590,7 +534,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7630742,
+      "hot_value": 7646473,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BA%91%E9%9B%80%E5%8F%AB%E5%A4%A9%E5%BD%95%E5%AE%9A%E6%A1%A3"
       },
@@ -598,7 +542,7 @@
         "云雀叫天录定档"
       ],
       "rank": 7,
-      "movie_rank": 4
+      "movie_rank": 3
     },
     {
       "title": "第37届银河奖获奖名单揭晓",
@@ -606,15 +550,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 191919,
+      "hot_value": 150254,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93"
       },
       "raw_titles": [
         "第37届银河奖获奖名单揭晓"
       ],
-      "rank": 12,
-      "movie_rank": 5
+      "rank": 11,
+      "movie_rank": 4
     },
     {
       "title": "周杰伦西西里MV",
@@ -622,31 +566,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 179589,
+      "hot_value": 150247,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A5%BF%E8%A5%BF%E9%87%8CMV"
       },
       "raw_titles": [
         "周杰伦西西里MV"
       ],
-      "rank": 13,
-      "movie_rank": 6
+      "rank": 12,
+      "movie_rank": 5
     },
     {
-      "title": "贵州蜘蛛侠横空出世",
+      "title": "打歌2026王俊凯唱跳舞台",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 109225,
+      "hot_value": 27000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B4%B5%E5%B7%9E%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96"
+        "百度": "https://m.baidu.com/s?word=%E6%89%93%E6%AD%8C2026%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%94%B1%E8%B7%B3%E8%88%9E%E5%8F%B0&sa=fyb_news"
       },
       "raw_titles": [
-        "贵州蜘蛛侠横空出世"
+        "打歌2026王俊凯唱跳舞台"
       ],
-      "rank": 16,
-      "movie_rank": 7
+      "rank": 18,
+      "movie_rank": 6
     }
   ]
 }
