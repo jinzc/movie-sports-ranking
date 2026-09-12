@@ -1,39 +1,55 @@
 {
-  "update_time": "2026-09-12 15:01:02",
+  "update_time": "2026-09-12 16:00:47",
   "total": 30,
-  "sports_count": 10,
-  "movie_count": 20,
+  "sports_count": 9,
+  "movie_count": 21,
   "all": [
+    {
+      "title": "亚运会男篮中国对阵巴林",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 11313234,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E4%B8%AD%E5%9B%BD%E5%AF%B9%E9%98%B5%E5%B7%B4%E6%9E%97"
+      },
+      "raw_titles": [
+        "亚运会男篮中国对阵巴林"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "丁俊晖晋级英格兰公开赛四强",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10524059,
+      "hot_value": 10375165,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA"
       },
       "raw_titles": [
         "丁俊晖晋级英格兰公开赛四强"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
-      "title": "油车销量大跌加油站该怎么办",
+      "title": "周星驰出品短剧版食神开播",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7963786,
+      "hot_value": 7877090,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B2%B9%E8%BD%A6%E9%94%80%E9%87%8F%E5%A4%A7%E8%B7%8C%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E"
+        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E5%87%BA%E5%93%81%E7%9F%AD%E5%89%A7%E7%89%88%E9%A3%9F%E7%A5%9E%E5%BC%80%E6%92%AD"
       },
       "raw_titles": [
-        "油车销量大跌加油站该怎么办"
+        "周星驰出品短剧版食神开播"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
     },
     {
@@ -42,47 +58,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7824896,
+      "hot_value": 7837456,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%BA%E6%A3%A0%E6%9D%83%E8%B0%8B%E6%84%9F%E6%8B%BF%E6%8D%8F%E4%BA%86"
       },
       "raw_titles": [
         "张凌赫刺棠权谋感拿捏了"
       ],
-      "rank": 3,
+      "rank": 4,
       "movie_rank": 2
     },
     {
-      "title": "周星驰出品短剧版食神开播",
+      "title": "解锁AI韩剧生存模式",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7824406,
+      "hot_value": 7780623,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E5%87%BA%E5%93%81%E7%9F%AD%E5%89%A7%E7%89%88%E9%A3%9F%E7%A5%9E%E5%BC%80%E6%92%AD"
+        "抖音": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F"
       },
       "raw_titles": [
-        "周星驰出品短剧版食神开播"
-      ],
-      "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "兹维列夫击败卡恰诺夫进美网决赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7778878,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%85%B9%E7%BB%B4%E5%88%97%E5%A4%AB%E5%87%BB%E8%B4%A5%E5%8D%A1%E6%81%B0%E8%AF%BA%E5%A4%AB%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "兹维列夫击败卡恰诺夫进美网决赛"
+        "解锁AI韩剧生存模式"
       ],
       "rank": 5,
-      "sports_rank": 2
+      "movie_rank": 3
     },
     {
       "title": "张国荣诞辰70周年",
@@ -90,7 +90,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7745132,
+      "hot_value": 7754940,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%A0%E5%9B%BD%E8%8D%A3%E8%AF%9E%E8%BE%B070%E5%91%A8%E5%B9%B4"
       },
@@ -101,17 +101,17 @@
       "movie_rank": 4
     },
     {
-      "title": "解锁AI韩剧生存模式",
+      "title": "火影玩家全员模仿鼬式撩发",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742287,
+      "hot_value": 7722068,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F"
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E5%85%A8%E5%91%98%E6%A8%A1%E4%BB%BF%E9%BC%AC%E5%BC%8F%E6%92%A9%E5%8F%91"
       },
       "raw_titles": [
-        "解锁AI韩剧生存模式"
+        "火影玩家全员模仿鼬式撩发"
       ],
       "rank": 7,
       "movie_rank": 5
@@ -122,7 +122,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7730308,
+      "hot_value": 7720187,
       "urls": {
         "抖音": "https://www.douyin.com/search/coke%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8Bcos%E5%A4%AA%E7%97%9E%E4%BA%86"
       },
@@ -133,70 +133,36 @@
       "sports_rank": 3
     },
     {
+      "title": "张超王者万象棋cos独家花絮",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7713611,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E8%B6%85%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8Bcos%E7%8B%AC%E5%AE%B6%E8%8A%B1%E7%B5%AE"
+      },
+      "raw_titles": [
+        "张超王者万象棋cos独家花絮"
+      ],
+      "rank": 9,
+      "sports_rank": 4
+    },
+    {
       "title": "哈利波特剧版原著党买账吗",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 957649,
+      "hot_value": 830590,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%89%A7%E7%89%88%E5%8E%9F%E8%91%97%E5%85%9A%E4%B9%B0%E8%B4%A6%E5%90%97"
       },
       "raw_titles": [
         "哈利波特剧版原著党买账吗"
       ],
-      "rank": 9,
-      "movie_rank": 6
-    },
-    {
-      "title": "卡梦退役",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "哔哩哔哩"
-      ],
-      "hot_value": 806577,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9%E5%90%8E%E7%88%86%E6%94%B9%E7%A9%BF%E6%90%AD"
-      },
-      "raw_titles": [
-        "卡梦退役"
-      ],
       "rank": 10,
-      "sports_rank": 4
-    },
-    {
-      "title": "回顾花少5封神名场面",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 757553,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BE%E8%8A%B1%E5%B0%915%E5%B0%81%E7%A5%9E%E5%90%8D%E5%9C%BA%E9%9D%A2"
-      },
-      "raw_titles": [
-        "回顾花少5封神名场面"
-      ],
-      "rank": 11,
-      "movie_rank": 7
-    },
-    {
-      "title": "一组海报带你看金砖",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 729940,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%BB%84%E6%B5%B7%E6%8A%A5%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%87%91%E7%A0%96"
-      },
-      "raw_titles": [
-        "一组海报带你看金砖"
-      ],
-      "rank": 12,
-      "movie_rank": 8
+      "movie_rank": 6
     },
     {
       "title": "第37届银河奖获奖名单揭晓",
@@ -204,15 +170,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 701680,
+      "hot_value": 574564,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93"
       },
       "raw_titles": [
         "第37届银河奖获奖名单揭晓"
       ],
-      "rank": 13,
-      "movie_rank": 9
+      "rank": 11,
+      "movie_rank": 7
     },
     {
       "title": "深度解析东契奇生涯困境",
@@ -220,47 +186,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 414274,
+      "hot_value": 401069,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%9C%E5%A5%91%E5%A5%87%E7%94%9F%E6%B6%AF%E5%9B%B0%E5%A2%83"
       },
       "raw_titles": [
         "深度解析东契奇生涯困境"
       ],
-      "rank": 14,
+      "rank": 12,
       "sports_rank": 5
     },
     {
-      "title": "红海告急",
+      "title": "又一部国产神剧翻拍“翻车”",
       "category": "影视",
       "sources": [
         "百度"
       ],
       "hot_value": 396000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%BA%A2%E6%B5%B7%E5%91%8A%E6%80%A5&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E9%83%A8%E5%9B%BD%E4%BA%A7%E7%A5%9E%E5%89%A7%E7%BF%BB%E6%8B%8D%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "红海告急"
+        "又一部国产神剧翻拍“翻车”"
+      ],
+      "rank": 13,
+      "movie_rank": 8
+    },
+    {
+      "title": "回顾花少5封神名场面",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 384586,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BE%E8%8A%B1%E5%B0%915%E5%B0%81%E7%A5%9E%E5%90%8D%E5%9C%BA%E9%9D%A2"
+      },
+      "raw_titles": [
+        "回顾花少5封神名场面"
+      ],
+      "rank": 14,
+      "movie_rank": 9
+    },
+    {
+      "title": "张月浪姐四公直接离场的原因",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 323558,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%E7%9A%84%E5%8E%9F%E5%9B%A0"
+      },
+      "raw_titles": [
+        "张月浪姐四公直接离场的原因"
       ],
       "rank": 15,
       "movie_rank": 10
-    },
-    {
-      "title": "日本品牌选“918”跟辱华动漫搞联名",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 342000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E9%80%89%E2%80%9C918%E2%80%9D%E8%B7%9F%E8%BE%B1%E5%8D%8E%E5%8A%A8%E6%BC%AB%E6%90%9E%E8%81%94%E5%90%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "日本品牌选“918”跟辱华动漫搞联名"
-      ],
-      "rank": 16,
-      "movie_rank": 11
     },
     {
       "title": "郭富城两女儿成刘德华女儿校友",
@@ -275,21 +257,38 @@
       "raw_titles": [
         "郭富城两女儿成刘德华女儿校友"
       ],
+      "rank": 16,
+      "movie_rank": 11
+    },
+    {
+      "title": "张月首次回应浪姐四公单独离场",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9C%88%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E5%8D%95%E7%8B%AC%E7%A6%BB%E5%9C%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "张月首次回应浪姐四公单独离场"
+      ],
       "rank": 17,
       "movie_rank": 12
     },
     {
-      "title": "追梦回应杜兰特老1.5",
+      "title": "郎平 中国女排",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "微博"
       ],
-      "hot_value": 307126,
+      "hot_value": 301333,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%BD%E6%A2%A6%E5%9B%9E%E5%BA%94%E6%9D%9C%E5%85%B0%E7%89%B9%E8%80%811.5"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%20%E9%83%8E%E5%B9%B3"
       },
       "raw_titles": [
-        "追梦回应杜兰特老1.5"
+        "郎平 中国女排"
       ],
       "rank": 18,
       "sports_rank": 6
@@ -300,7 +299,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 280047,
+      "hot_value": 299451,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E6%9C%9B%E6%97%A5%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
       },
@@ -311,49 +310,49 @@
       "movie_rank": 13
     },
     {
-      "title": "皇马 姆巴佩",
+      "title": "追梦回应杜兰特老1.5",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 268212,
+      "hot_value": 261605,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%20%E5%A7%86%E5%B7%B4%E4%BD%A9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%BD%E6%A2%A6%E5%9B%9E%E5%BA%94%E6%9D%9C%E5%85%B0%E7%89%B9%E8%80%811.5"
       },
       "raw_titles": [
-        "皇马 姆巴佩"
+        "追梦回应杜兰特老1.5"
       ],
       "rank": 20,
       "sports_rank": 7
     },
     {
-      "title": "孙心然青少年网球成绩超越郑钦文",
+      "title": "卡梦退役后爆改穿搭",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 261000,
+      "hot_value": 184960,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B6%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BD%91%E7%90%83%E6%88%90%E7%BB%A9%E8%B6%85%E8%B6%8A%E9%83%91%E9%92%A6%E6%96%87&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9%E5%90%8E%E7%88%86%E6%94%B9%E7%A9%BF%E6%90%AD"
       },
       "raw_titles": [
-        "孙心然青少年网球成绩超越郑钦文"
+        "卡梦退役后爆改穿搭"
       ],
       "rank": 21,
       "sports_rank": 8
     },
     {
-      "title": "短剧版左耳女主是黎吧啦",
+      "title": "张凌赫卢昱晓同框对戏",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 226386,
+      "hot_value": 177114,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E7%89%88%E5%B7%A6%E8%80%B3%E5%A5%B3%E4%B8%BB%E6%98%AF%E9%BB%8E%E5%90%A7%E5%95%A6"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8D%A2%E6%98%B1%E6%99%93%E5%90%8C%E6%A1%86%E5%AF%B9%E6%88%8F"
       },
       "raw_titles": [
-        "短剧版左耳女主是黎吧啦"
+        "张凌赫卢昱晓同框对戏"
       ],
       "rank": 22,
       "movie_rank": 14
@@ -364,7 +363,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 219520,
+      "hot_value": 176925,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E4%B8%8A%E7%BA%BF%E5%9B%9E%E5%A4%8D%E7%A5%9D%E7%A6%8F"
       },
@@ -375,52 +374,36 @@
       "movie_rank": 15
     },
     {
-      "title": "郎平 中国女排",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 189724,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%8E%E5%B9%B3%20%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92"
-      },
-      "raw_titles": [
-        "郎平 中国女排"
-      ],
-      "rank": 24,
-      "sports_rank": 9
-    },
-    {
-      "title": "孙心然晋级美网青少年组女单决赛",
-      "category": "体育",
+      "title": "杨幂40岁生日玩梗说自己45岁",
+      "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 162000,
+      "hot_value": 153000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B6%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%84%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E5%B9%8240%E5%B2%81%E7%94%9F%E6%97%A5%E7%8E%A9%E6%A2%97%E8%AF%B4%E8%87%AA%E5%B7%B145%E5%B2%81&sa=fyb_news"
       },
       "raw_titles": [
-        "孙心然晋级美网青少年组女单决赛"
+        "杨幂40岁生日玩梗说自己45岁"
       ],
-      "rank": 25,
-      "sports_rank": 10
+      "rank": 24,
+      "movie_rank": 16
     },
     {
-      "title": "张月浪姐四公直接离场的原因",
-      "category": "影视",
+      "title": "皇马 姆巴佩",
+      "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 138585,
+      "hot_value": 136406,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%E7%9A%84%E5%8E%9F%E5%9B%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%20%E5%A7%86%E5%B7%B4%E4%BD%A9"
       },
       "raw_titles": [
-        "张月浪姐四公直接离场的原因"
+        "皇马 姆巴佩"
       ],
-      "rank": 26,
-      "movie_rank": 16
+      "rank": 25,
+      "sports_rank": 9
     },
     {
       "title": "张凌赫刚开机就请客刺棠剧组",
@@ -428,96 +411,112 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 134241,
+      "hot_value": 131555,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%9A%E5%BC%80%E6%9C%BA%E5%B0%B1%E8%AF%B7%E5%AE%A2%E5%88%BA%E6%A3%A0%E5%89%A7%E7%BB%84"
       },
       "raw_titles": [
         "张凌赫刚开机就请客刺棠剧组"
       ],
-      "rank": 27,
+      "rank": 26,
       "movie_rank": 17
     },
     {
-      "title": "张杰新站姐何蓝逗",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 130112,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%96%B0%E7%AB%99%E5%A7%90%E4%BD%95%E8%93%9D%E9%80%97"
-      },
-      "raw_titles": [
-        "张杰新站姐何蓝逗"
-      ],
-      "rank": 28,
-      "movie_rank": 18
-    },
-    {
-      "title": "卢昱晓张凌赫身高差",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 128434,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BA%AB%E9%AB%98%E5%B7%AE"
-      },
-      "raw_titles": [
-        "卢昱晓张凌赫身高差"
-      ],
-      "rank": 29,
-      "movie_rank": 19
-    },
-    {
-      "title": "杨幂40岁生日玩梗说自己45岁",
+      "title": "日本品牌选“918”跟辱华动漫搞联名",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 90000,
+      "hot_value": 126000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E5%B9%8240%E5%B2%81%E7%94%9F%E6%97%A5%E7%8E%A9%E6%A2%97%E8%AF%B4%E8%87%AA%E5%B7%B145%E5%B2%81&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E9%80%89%E2%80%9C918%E2%80%9D%E8%B7%9F%E8%BE%B1%E5%8D%8E%E5%8A%A8%E6%BC%AB%E6%90%9E%E8%81%94%E5%90%8D&sa=fyb_news"
       },
       "raw_titles": [
-        "杨幂40岁生日玩梗说自己45岁"
+        "日本品牌选“918”跟辱华动漫搞联名"
+      ],
+      "rank": 27,
+      "movie_rank": 18
+    },
+    {
+      "title": "卢昱晓开机vlog",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 115842,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E5%BC%80%E6%9C%BAvlog"
+      },
+      "raw_titles": [
+        "卢昱晓开机vlog"
+      ],
+      "rank": 28,
+      "movie_rank": 19
+    },
+    {
+      "title": "短剧版左耳女主是黎吧啦",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 111778,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E7%89%88%E5%B7%A6%E8%80%B3%E5%A5%B3%E4%B8%BB%E6%98%AF%E9%BB%8E%E5%90%A7%E5%95%A6"
+      },
+      "raw_titles": [
+        "短剧版左耳女主是黎吧啦"
+      ],
+      "rank": 29,
+      "movie_rank": 20
+    },
+    {
+      "title": "红海告急",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%BA%A2%E6%B5%B7%E5%91%8A%E6%80%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "红海告急"
       ],
       "rank": 30,
-      "movie_rank": 20
+      "movie_rank": 21
     }
   ],
   "sports": [
     {
+      "title": "亚运会男篮中国对阵巴林",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 11313234,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E4%B8%AD%E5%9B%BD%E5%AF%B9%E9%98%B5%E5%B7%B4%E6%9E%97"
+      },
+      "raw_titles": [
+        "亚运会男篮中国对阵巴林"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
       "title": "丁俊晖晋级英格兰公开赛四强",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10524059,
+      "hot_value": 10375165,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA"
       },
       "raw_titles": [
         "丁俊晖晋级英格兰公开赛四强"
       ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "兹维列夫击败卡恰诺夫进美网决赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7778878,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%85%B9%E7%BB%B4%E5%88%97%E5%A4%AB%E5%87%BB%E8%B4%A5%E5%8D%A1%E6%81%B0%E8%AF%BA%E5%A4%AB%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "兹维列夫击败卡恰诺夫进美网决赛"
-      ],
-      "rank": 5,
+      "rank": 2,
       "sports_rank": 2
     },
     {
@@ -526,7 +525,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7730308,
+      "hot_value": 7720187,
       "urls": {
         "抖音": "https://www.douyin.com/search/coke%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8Bcos%E5%A4%AA%E7%97%9E%E4%BA%86"
       },
@@ -537,21 +536,19 @@
       "sports_rank": 3
     },
     {
-      "title": "卡梦退役",
+      "title": "张超王者万象棋cos独家花絮",
       "category": "体育",
       "sources": [
-        "微博",
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 806577,
+      "hot_value": 7713611,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9%E5%90%8E%E7%88%86%E6%94%B9%E7%A9%BF%E6%90%AD"
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E8%B6%85%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8Bcos%E7%8B%AC%E5%AE%B6%E8%8A%B1%E7%B5%AE"
       },
       "raw_titles": [
-        "卡梦退役"
+        "张超王者万象棋cos独家花絮"
       ],
-      "rank": 10,
+      "rank": 9,
       "sports_rank": 4
     },
     {
@@ -560,15 +557,32 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 414274,
+      "hot_value": 401069,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%9C%E5%A5%91%E5%A5%87%E7%94%9F%E6%B6%AF%E5%9B%B0%E5%A2%83"
       },
       "raw_titles": [
         "深度解析东契奇生涯困境"
       ],
-      "rank": 14,
+      "rank": 12,
       "sports_rank": 5
+    },
+    {
+      "title": "郎平 中国女排",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 301333,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%20%E9%83%8E%E5%B9%B3"
+      },
+      "raw_titles": [
+        "郎平 中国女排"
+      ],
+      "rank": 18,
+      "sports_rank": 6
     },
     {
       "title": "追梦回应杜兰特老1.5",
@@ -576,15 +590,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 307126,
+      "hot_value": 261605,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%BF%BD%E6%A2%A6%E5%9B%9E%E5%BA%94%E6%9D%9C%E5%85%B0%E7%89%B9%E8%80%811.5"
       },
       "raw_titles": [
         "追梦回应杜兰特老1.5"
       ],
-      "rank": 18,
-      "sports_rank": 6
+      "rank": 20,
+      "sports_rank": 7
+    },
+    {
+      "title": "卡梦退役后爆改穿搭",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 184960,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9%E5%90%8E%E7%88%86%E6%94%B9%E7%A9%BF%E6%90%AD"
+      },
+      "raw_titles": [
+        "卡梦退役后爆改穿搭"
+      ],
+      "rank": 21,
+      "sports_rank": 8
     },
     {
       "title": "皇马 姆巴佩",
@@ -592,80 +622,32 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 268212,
+      "hot_value": 136406,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%20%E5%A7%86%E5%B7%B4%E4%BD%A9"
       },
       "raw_titles": [
         "皇马 姆巴佩"
       ],
-      "rank": 20,
-      "sports_rank": 7
-    },
-    {
-      "title": "孙心然青少年网球成绩超越郑钦文",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 261000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B6%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BD%91%E7%90%83%E6%88%90%E7%BB%A9%E8%B6%85%E8%B6%8A%E9%83%91%E9%92%A6%E6%96%87&sa=fyb_news"
-      },
-      "raw_titles": [
-        "孙心然青少年网球成绩超越郑钦文"
-      ],
-      "rank": 21,
-      "sports_rank": 8
-    },
-    {
-      "title": "郎平 中国女排",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 189724,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%8E%E5%B9%B3%20%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92"
-      },
-      "raw_titles": [
-        "郎平 中国女排"
-      ],
-      "rank": 24,
-      "sports_rank": 9
-    },
-    {
-      "title": "孙心然晋级美网青少年组女单决赛",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 162000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B6%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%84%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "孙心然晋级美网青少年组女单决赛"
-      ],
       "rank": 25,
-      "sports_rank": 10
+      "sports_rank": 9
     }
   ],
   "movies": [
     {
-      "title": "油车销量大跌加油站该怎么办",
+      "title": "周星驰出品短剧版食神开播",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7963786,
+      "hot_value": 7877090,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B2%B9%E8%BD%A6%E9%94%80%E9%87%8F%E5%A4%A7%E8%B7%8C%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E"
+        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E5%87%BA%E5%93%81%E7%9F%AD%E5%89%A7%E7%89%88%E9%A3%9F%E7%A5%9E%E5%BC%80%E6%92%AD"
       },
       "raw_titles": [
-        "油车销量大跌加油站该怎么办"
+        "周星驰出品短剧版食神开播"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
     },
     {
@@ -674,30 +656,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7824896,
+      "hot_value": 7837456,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%BA%E6%A3%A0%E6%9D%83%E8%B0%8B%E6%84%9F%E6%8B%BF%E6%8D%8F%E4%BA%86"
       },
       "raw_titles": [
         "张凌赫刺棠权谋感拿捏了"
       ],
-      "rank": 3,
+      "rank": 4,
       "movie_rank": 2
     },
     {
-      "title": "周星驰出品短剧版食神开播",
+      "title": "解锁AI韩剧生存模式",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7824406,
+      "hot_value": 7780623,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E5%87%BA%E5%93%81%E7%9F%AD%E5%89%A7%E7%89%88%E9%A3%9F%E7%A5%9E%E5%BC%80%E6%92%AD"
+        "抖音": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F"
       },
       "raw_titles": [
-        "周星驰出品短剧版食神开播"
+        "解锁AI韩剧生存模式"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 3
     },
     {
@@ -706,7 +688,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7745132,
+      "hot_value": 7754940,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%A0%E5%9B%BD%E8%8D%A3%E8%AF%9E%E8%BE%B070%E5%91%A8%E5%B9%B4"
       },
@@ -717,17 +699,17 @@
       "movie_rank": 4
     },
     {
-      "title": "解锁AI韩剧生存模式",
+      "title": "火影玩家全员模仿鼬式撩发",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742287,
+      "hot_value": 7722068,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F"
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E5%85%A8%E5%91%98%E6%A8%A1%E4%BB%BF%E9%BC%AC%E5%BC%8F%E6%92%A9%E5%8F%91"
       },
       "raw_titles": [
-        "解锁AI韩剧生存模式"
+        "火影玩家全员模仿鼬式撩发"
       ],
       "rank": 7,
       "movie_rank": 5
@@ -738,47 +720,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 957649,
+      "hot_value": 830590,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%89%A7%E7%89%88%E5%8E%9F%E8%91%97%E5%85%9A%E4%B9%B0%E8%B4%A6%E5%90%97"
       },
       "raw_titles": [
         "哈利波特剧版原著党买账吗"
       ],
-      "rank": 9,
+      "rank": 10,
       "movie_rank": 6
-    },
-    {
-      "title": "回顾花少5封神名场面",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 757553,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BE%E8%8A%B1%E5%B0%915%E5%B0%81%E7%A5%9E%E5%90%8D%E5%9C%BA%E9%9D%A2"
-      },
-      "raw_titles": [
-        "回顾花少5封神名场面"
-      ],
-      "rank": 11,
-      "movie_rank": 7
-    },
-    {
-      "title": "一组海报带你看金砖",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 729940,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%BB%84%E6%B5%B7%E6%8A%A5%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%87%91%E7%A0%96"
-      },
-      "raw_titles": [
-        "一组海报带你看金砖"
-      ],
-      "rank": 12,
-      "movie_rank": 8
     },
     {
       "title": "第37届银河奖获奖名单揭晓",
@@ -786,47 +736,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 701680,
+      "hot_value": 574564,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93"
       },
       "raw_titles": [
         "第37届银河奖获奖名单揭晓"
       ],
-      "rank": 13,
-      "movie_rank": 9
+      "rank": 11,
+      "movie_rank": 7
     },
     {
-      "title": "红海告急",
+      "title": "又一部国产神剧翻拍“翻车”",
       "category": "影视",
       "sources": [
         "百度"
       ],
       "hot_value": 396000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%BA%A2%E6%B5%B7%E5%91%8A%E6%80%A5&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E9%83%A8%E5%9B%BD%E4%BA%A7%E7%A5%9E%E5%89%A7%E7%BF%BB%E6%8B%8D%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "红海告急"
+        "又一部国产神剧翻拍“翻车”"
+      ],
+      "rank": 13,
+      "movie_rank": 8
+    },
+    {
+      "title": "回顾花少5封神名场面",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 384586,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BE%E8%8A%B1%E5%B0%915%E5%B0%81%E7%A5%9E%E5%90%8D%E5%9C%BA%E9%9D%A2"
+      },
+      "raw_titles": [
+        "回顾花少5封神名场面"
+      ],
+      "rank": 14,
+      "movie_rank": 9
+    },
+    {
+      "title": "张月浪姐四公直接离场的原因",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 323558,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%E7%9A%84%E5%8E%9F%E5%9B%A0"
+      },
+      "raw_titles": [
+        "张月浪姐四公直接离场的原因"
       ],
       "rank": 15,
       "movie_rank": 10
-    },
-    {
-      "title": "日本品牌选“918”跟辱华动漫搞联名",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 342000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E9%80%89%E2%80%9C918%E2%80%9D%E8%B7%9F%E8%BE%B1%E5%8D%8E%E5%8A%A8%E6%BC%AB%E6%90%9E%E8%81%94%E5%90%8D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "日本品牌选“918”跟辱华动漫搞联名"
-      ],
-      "rank": 16,
-      "movie_rank": 11
     },
     {
       "title": "郭富城两女儿成刘德华女儿校友",
@@ -841,6 +807,22 @@
       "raw_titles": [
         "郭富城两女儿成刘德华女儿校友"
       ],
+      "rank": 16,
+      "movie_rank": 11
+    },
+    {
+      "title": "张月首次回应浪姐四公单独离场",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9C%88%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E5%8D%95%E7%8B%AC%E7%A6%BB%E5%9C%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "张月首次回应浪姐四公单独离场"
+      ],
       "rank": 17,
       "movie_rank": 12
     },
@@ -850,7 +832,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 280047,
+      "hot_value": 299451,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E6%9C%9B%E6%97%A5%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
       },
@@ -861,17 +843,17 @@
       "movie_rank": 13
     },
     {
-      "title": "短剧版左耳女主是黎吧啦",
+      "title": "张凌赫卢昱晓同框对戏",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 226386,
+      "hot_value": 177114,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E7%89%88%E5%B7%A6%E8%80%B3%E5%A5%B3%E4%B8%BB%E6%98%AF%E9%BB%8E%E5%90%A7%E5%95%A6"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8D%A2%E6%98%B1%E6%99%93%E5%90%8C%E6%A1%86%E5%AF%B9%E6%88%8F"
       },
       "raw_titles": [
-        "短剧版左耳女主是黎吧啦"
+        "张凌赫卢昱晓同框对戏"
       ],
       "rank": 22,
       "movie_rank": 14
@@ -882,7 +864,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 219520,
+      "hot_value": 176925,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E4%B8%8A%E7%BA%BF%E5%9B%9E%E5%A4%8D%E7%A5%9D%E7%A6%8F"
       },
@@ -893,19 +875,19 @@
       "movie_rank": 15
     },
     {
-      "title": "张月浪姐四公直接离场的原因",
+      "title": "杨幂40岁生日玩梗说自己45岁",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 138585,
+      "hot_value": 153000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%E7%9A%84%E5%8E%9F%E5%9B%A0"
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E5%B9%8240%E5%B2%81%E7%94%9F%E6%97%A5%E7%8E%A9%E6%A2%97%E8%AF%B4%E8%87%AA%E5%B7%B145%E5%B2%81&sa=fyb_news"
       },
       "raw_titles": [
-        "张月浪姐四公直接离场的原因"
+        "杨幂40岁生日玩梗说自己45岁"
       ],
-      "rank": 26,
+      "rank": 24,
       "movie_rank": 16
     },
     {
@@ -914,63 +896,79 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 134241,
+      "hot_value": 131555,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%9A%E5%BC%80%E6%9C%BA%E5%B0%B1%E8%AF%B7%E5%AE%A2%E5%88%BA%E6%A3%A0%E5%89%A7%E7%BB%84"
       },
       "raw_titles": [
         "张凌赫刚开机就请客刺棠剧组"
       ],
-      "rank": 27,
+      "rank": 26,
       "movie_rank": 17
     },
     {
-      "title": "张杰新站姐何蓝逗",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 130112,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%96%B0%E7%AB%99%E5%A7%90%E4%BD%95%E8%93%9D%E9%80%97"
-      },
-      "raw_titles": [
-        "张杰新站姐何蓝逗"
-      ],
-      "rank": 28,
-      "movie_rank": 18
-    },
-    {
-      "title": "卢昱晓张凌赫身高差",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 128434,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BA%AB%E9%AB%98%E5%B7%AE"
-      },
-      "raw_titles": [
-        "卢昱晓张凌赫身高差"
-      ],
-      "rank": 29,
-      "movie_rank": 19
-    },
-    {
-      "title": "杨幂40岁生日玩梗说自己45岁",
+      "title": "日本品牌选“918”跟辱华动漫搞联名",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 90000,
+      "hot_value": 126000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E5%B9%8240%E5%B2%81%E7%94%9F%E6%97%A5%E7%8E%A9%E6%A2%97%E8%AF%B4%E8%87%AA%E5%B7%B145%E5%B2%81&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E9%80%89%E2%80%9C918%E2%80%9D%E8%B7%9F%E8%BE%B1%E5%8D%8E%E5%8A%A8%E6%BC%AB%E6%90%9E%E8%81%94%E5%90%8D&sa=fyb_news"
       },
       "raw_titles": [
-        "杨幂40岁生日玩梗说自己45岁"
+        "日本品牌选“918”跟辱华动漫搞联名"
+      ],
+      "rank": 27,
+      "movie_rank": 18
+    },
+    {
+      "title": "卢昱晓开机vlog",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 115842,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E5%BC%80%E6%9C%BAvlog"
+      },
+      "raw_titles": [
+        "卢昱晓开机vlog"
+      ],
+      "rank": 28,
+      "movie_rank": 19
+    },
+    {
+      "title": "短剧版左耳女主是黎吧啦",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 111778,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E7%89%88%E5%B7%A6%E8%80%B3%E5%A5%B3%E4%B8%BB%E6%98%AF%E9%BB%8E%E5%90%A7%E5%95%A6"
+      },
+      "raw_titles": [
+        "短剧版左耳女主是黎吧啦"
+      ],
+      "rank": 29,
+      "movie_rank": 20
+    },
+    {
+      "title": "红海告急",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%BA%A2%E6%B5%B7%E5%91%8A%E6%80%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "红海告急"
       ],
       "rank": 30,
-      "movie_rank": 20
+      "movie_rank": 21
     }
   ]
 }
