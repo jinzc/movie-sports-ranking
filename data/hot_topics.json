@@ -1,24 +1,78 @@
 {
-  "update_time": "2026-09-13 02:00:48",
-  "total": 33,
-  "sports_count": 17,
-  "movie_count": 16,
+  "update_time": "2026-09-13 03:00:51",
+  "total": 32,
+  "sports_count": 18,
+  "movie_count": 14,
   "all": [
+    {
+      "title": "孙心然美网青少年冠军",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 8305393,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%BF%83%E7%84%B6%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E5%86%A0%E5%86%9B",
+        "抖音": "https://www.douyin.com/search/%E5%AD%99%E5%BF%83%E7%84%B6%E9%97%AF%E5%85%A5%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "孙心然美网青少年冠军"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "中超津门虎1:0辽宁铁人",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9291624,
+      "hot_value": 8295161,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E6%B4%A5%E9%97%A8%E8%99%8E1%3A0%E8%BE%BD%E5%AE%81%E9%93%81%E4%BA%BA"
       },
       "raw_titles": [
         "中超津门虎1:0辽宁铁人"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "张杰杭州演唱会散场后亮起国之脊梁",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 7923302,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%A3%E5%9C%BA%E5%90%8E%E4%BA%AE%E8%B5%B7%E5%9B%BD%E4%B9%8B%E8%84%8A%E6%A2%81",
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "张杰杭州演唱会散场后亮起国之脊梁"
+      ],
+      "rank": 3,
+      "movie_rank": 1
+    },
+    {
+      "title": "丁俊晖止步英格兰公开赛四强",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 7918030,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E6%AD%A2%E6%AD%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA"
+      },
+      "raw_titles": [
+        "丁俊晖止步英格兰公开赛四强"
+      ],
+      "rank": 4,
+      "sports_rank": 3
     },
     {
       "title": "TTG夺冠",
@@ -27,7 +81,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8025334,
+      "hot_value": 7908817,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=TTG%E5%A4%BA%E5%86%A0",
         "抖音": "https://www.douyin.com/search/KPL%E5%A4%8F%E5%86%B3TTG%E5%A4%BA%E5%86%A0"
@@ -35,42 +89,8 @@
       "raw_titles": [
         "TTG夺冠"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "孙心然晋级美网青少年组女单决赛",
-      "category": "体育",
-      "sources": [
-        "百度",
-        "抖音"
-      ],
-      "hot_value": 7985121,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B6%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%84%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E5%AD%99%E5%BF%83%E7%84%B6%E9%97%AF%E5%85%A5%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "孙心然晋级美网青少年组女单决赛"
-      ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "张杰杭州演唱会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7831129,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "张杰杭州演唱会"
-      ],
-      "rank": 4,
-      "movie_rank": 1
+      "rank": 5,
+      "sports_rank": 4
     },
     {
       "title": "吃三四个饺子就长肉正常吗",
@@ -78,14 +98,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7819276,
+      "hot_value": 7822633,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%83%E4%B8%89%E5%9B%9B%E4%B8%AA%E9%A5%BA%E5%AD%90%E5%B0%B1%E9%95%BF%E8%82%89%E6%AD%A3%E5%B8%B8%E5%90%97"
       },
       "raw_titles": [
         "吃三四个饺子就长肉正常吗"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 2
     },
     {
@@ -94,14 +114,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7811520,
+      "hot_value": 7822472,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "邓紫棋深圳演唱会"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 3
     },
     {
@@ -110,44 +130,28 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7795559,
+      "hot_value": 7791270,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "说唱巅峰对决总决赛"
       ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "张超王者万象棋cos独家花絮",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7726052,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E8%B6%85%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8Bcos%E7%8B%AC%E5%AE%B6%E8%8A%B1%E7%B5%AE"
-      },
-      "raw_titles": [
-        "张超王者万象棋cos独家花絮"
-      ],
       "rank": 8,
       "sports_rank": 5
     },
     {
-      "title": "解锁AI韩剧生存模式",
+      "title": "张凌赫刺棠权谋感拿捏了",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7688050,
+      "hot_value": 7709328,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F"
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%BA%E6%A3%A0%E6%9D%83%E8%B0%8B%E6%84%9F%E6%8B%BF%E6%8D%8F%E4%BA%86"
       },
       "raw_titles": [
-        "解锁AI韩剧生存模式"
+        "张凌赫刺棠权谋感拿捏了"
       ],
       "rank": 9,
       "movie_rank": 4
@@ -158,7 +162,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7678013,
+      "hot_value": 7683292,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E5%85%A8%E5%91%98%E6%A8%A1%E4%BB%BF%E9%BC%AC%E5%BC%8F%E6%92%A9%E5%8F%91"
       },
@@ -169,20 +173,36 @@
       "movie_rank": 5
     },
     {
+      "title": "张超王者万象棋cos独家花絮",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7675534,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E8%B6%85%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8Bcos%E7%8B%AC%E5%AE%B6%E8%8A%B1%E7%B5%AE"
+      },
+      "raw_titles": [
+        "张超王者万象棋cos独家花絮"
+      ],
+      "rank": 11,
+      "sports_rank": 6
+    },
+    {
       "title": "吴彦祖进行赛车赛前训练",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7665793,
+      "hot_value": 7662852,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E8%A1%8C%E8%B5%9B%E8%BD%A6%E8%B5%9B%E5%89%8D%E8%AE%AD%E7%BB%83"
       },
       "raw_titles": [
         "吴彦祖进行赛车赛前训练"
       ],
-      "rank": 11,
-      "sports_rank": 6
+      "rank": 12,
+      "sports_rank": 7
     },
     {
       "title": "赵雷当爸爸了",
@@ -191,7 +211,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 500791,
+      "hot_value": 505014,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%B7%E5%BD%93%E7%88%B8%E7%88%B8%E4%BA%86",
         "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E9%9B%B7%E5%BD%93%E7%88%B8%E7%88%B8%E4%BA%86&sa=fyb_news"
@@ -199,55 +219,23 @@
       "raw_titles": [
         "赵雷当爸爸了"
       ],
-      "rank": 12,
+      "rank": 13,
       "movie_rank": 6
     },
     {
-      "title": "2026LPL总决赛发布会",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 382933,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026LPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8F%91%E5%B8%83%E4%BC%9A"
-      },
-      "raw_titles": [
-        "2026LPL总决赛发布会"
-      ],
-      "rank": 13,
-      "sports_rank": 7
-    },
-    {
-      "title": "卡梦退役后爆改穿搭",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 333274,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9%E5%90%8E%E7%88%86%E6%94%B9%E7%A9%BF%E6%90%AD"
-      },
-      "raw_titles": [
-        "卡梦退役后爆改穿搭"
-      ],
-      "rank": 14,
-      "sports_rank": 8
-    },
-    {
-      "title": "第37届银河奖获奖名单揭晓",
+      "title": "影史神作9月扎堆重新上映",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 318472,
+      "hot_value": 297000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93"
+        "百度": "https://m.baidu.com/s?word=%E5%BD%B1%E5%8F%B2%E7%A5%9E%E4%BD%9C9%E6%9C%88%E6%89%8E%E5%A0%86%E9%87%8D%E6%96%B0%E4%B8%8A%E6%98%A0&sa=fyb_news"
       },
       "raw_titles": [
-        "第37届银河奖获奖名单揭晓"
+        "影史神作9月扎堆重新上映"
       ],
-      "rank": 15,
+      "rank": 14,
       "movie_rank": 7
     },
     {
@@ -256,47 +244,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 237473,
+      "hot_value": 229282,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=AL%E6%99%8B%E7%BA%A72026%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "AL晋级2026全球总决赛"
       ],
-      "rank": 16,
-      "sports_rank": 9
+      "rank": 15,
+      "sports_rank": 8
     },
     {
-      "title": "凡人修仙传191集逐帧解析",
+      "title": "第37届银河奖获奖名单揭晓",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 237467,
+      "hot_value": 220747,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0191%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93"
       },
       "raw_titles": [
-        "凡人修仙传191集逐帧解析"
+        "第37届银河奖获奖名单揭晓"
       ],
-      "rank": 17,
+      "rank": 16,
       "movie_rank": 8
-    },
-    {
-      "title": "深度解析东契奇生涯困境",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 216447,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%9C%E5%A5%91%E5%A5%87%E7%94%9F%E6%B6%AF%E5%9B%B0%E5%A2%83"
-      },
-      "raw_titles": [
-        "深度解析东契奇生涯困境"
-      ],
-      "rank": 18,
-      "sports_rank": 10
     },
     {
       "title": "哈利波特剧版原著党买账吗",
@@ -304,15 +276,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 215143,
+      "hot_value": 178273,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%89%A7%E7%89%88%E5%8E%9F%E8%91%97%E5%85%9A%E4%B9%B0%E8%B4%A6%E5%90%97"
       },
       "raw_titles": [
         "哈利波特剧版原著党买账吗"
       ],
-      "rank": 19,
+      "rank": 17,
       "movie_rank": 9
+    },
+    {
+      "title": "凡人修仙传191集逐帧解析",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 178268,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0191%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
+      },
+      "raw_titles": [
+        "凡人修仙传191集逐帧解析"
+      ],
+      "rank": 18,
+      "movie_rank": 10
+    },
+    {
+      "title": "卡梦退役后爆改穿搭",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 178216,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9%E5%90%8E%E7%88%86%E6%94%B9%E7%A9%BF%E6%90%AD"
+      },
+      "raw_titles": [
+        "卡梦退役后爆改穿搭"
+      ],
+      "rank": 19,
+      "sports_rank": 9
+    },
+    {
+      "title": "2026LPL总决赛发布会",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 170234,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026LPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8F%91%E5%B8%83%E4%BC%9A"
+      },
+      "raw_titles": [
+        "2026LPL总决赛发布会"
+      ],
+      "rank": 20,
+      "sports_rank": 10
     },
     {
       "title": "小胖FMVP",
@@ -321,191 +341,15 @@
         "微博",
         "微博"
       ],
-      "hot_value": 204417,
+      "hot_value": 163109,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%B0%8F%E8%83%966%E5%86%A04FMVP"
       },
       "raw_titles": [
         "小胖FMVP"
       ],
-      "rank": 20,
-      "sports_rank": 11
-    },
-    {
-      "title": "丁俊晖止步英格兰公开赛四强",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 198000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E6%AD%A2%E6%AD%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "丁俊晖止步英格兰公开赛四强"
-      ],
       "rank": 21,
-      "sports_rank": 12
-    },
-    {
-      "title": "回顾花少5封神名场面",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 196916,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BE%E8%8A%B1%E5%B0%915%E5%B0%81%E7%A5%9E%E5%90%8D%E5%9C%BA%E9%9D%A2"
-      },
-      "raw_titles": [
-        "回顾花少5封神名场面"
-      ],
-      "rank": 22,
-      "movie_rank": 10
-    },
-    {
-      "title": "影史神作9月扎堆重新上映",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BD%B1%E5%8F%B2%E7%A5%9E%E4%BD%9C9%E6%9C%88%E6%89%8E%E5%A0%86%E9%87%8D%E6%96%B0%E4%B8%8A%E6%98%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "影史神作9月扎堆重新上映"
-      ],
-      "rank": 23,
-      "movie_rank": 11
-    },
-    {
-      "title": "菲律宾客船起火事故已致76人死亡",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 171000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%AE%A2%E8%88%B9%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B476%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "菲律宾客船起火事故已致76人死亡"
-      ],
-      "rank": 24,
-      "sports_rank": 13
-    },
-    {
-      "title": "迪丽热巴在斯维诗的镜头里好美",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 147049,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9C%A8%E6%96%AF%E7%BB%B4%E8%AF%97%E7%9A%84%E9%95%9C%E5%A4%B4%E9%87%8C%E5%A5%BD%E7%BE%8E"
-      },
-      "raw_titles": [
-        "迪丽热巴在斯维诗的镜头里好美"
-      ],
-      "rank": 25,
-      "movie_rank": 12
-    },
-    {
-      "title": "刘畊宏参加披哥掉粉近40万",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 132738,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%E5%8F%82%E5%8A%A0%E6%8A%AB%E5%93%A5%E6%8E%89%E7%B2%89%E8%BF%9140%E4%B8%87"
-      },
-      "raw_titles": [
-        "刘畊宏参加披哥掉粉近40万"
-      ],
-      "rank": 26,
-      "movie_rank": 13
-    },
-    {
-      "title": "付航回应脱口秀禁黄牛票入场",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 116481,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BB%98%E8%88%AA%E5%9B%9E%E5%BA%94%E8%84%B1%E5%8F%A3%E7%A7%80%E7%A6%81%E9%BB%84%E7%89%9B%E7%A5%A8%E5%85%A5%E5%9C%BA"
-      },
-      "raw_titles": [
-        "付航回应脱口秀禁黄牛票入场"
-      ],
-      "rank": 27,
-      "movie_rank": 14
-    },
-    {
-      "title": "切尔西2比2赫尔城",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 87698,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%87%E5%B0%94%E8%A5%BF2%E6%AF%942%E8%B5%AB%E5%B0%94%E5%9F%8E"
-      },
-      "raw_titles": [
-        "切尔西2比2赫尔城"
-      ],
-      "rank": 28,
-      "sports_rank": 14
-    },
-    {
-      "title": "AL挺进S16全球总决赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 81575,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=AL%E6%8C%BA%E8%BF%9BS16%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "AL挺进S16全球总决赛"
-      ],
-      "rank": 29,
-      "sports_rank": 15
-    },
-    {
-      "title": "赵雷1排1座留给母亲",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 81357,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%B71%E6%8E%921%E5%BA%A7%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2"
-      },
-      "raw_titles": [
-        "赵雷1排1座留给母亲"
-      ],
-      "rank": 30,
-      "movie_rank": 15
-    },
-    {
-      "title": "英超联赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 77733,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8B%B1%E8%B6%85%E8%81%94%E8%B5%9B"
-      },
-      "raw_titles": [
-        "英超联赛"
-      ],
-      "rank": 31,
-      "sports_rank": 16
+      "sports_rank": 11
     },
     {
       "title": "F1车手语音聊天太搞笑了",
@@ -513,14 +357,142 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 63000,
+      "hot_value": 162000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=F1%E8%BD%A6%E6%89%8B%E8%AF%AD%E9%9F%B3%E8%81%8A%E5%A4%A9%E5%A4%AA%E6%90%9E%E7%AC%91%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "F1车手语音聊天太搞笑了"
       ],
-      "rank": 32,
+      "rank": 22,
+      "sports_rank": 12
+    },
+    {
+      "title": "孙心然晋级美网青少年组女单决赛",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 153000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B6%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%84%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "孙心然晋级美网青少年组女单决赛"
+      ],
+      "rank": 23,
+      "sports_rank": 13
+    },
+    {
+      "title": "刘畊宏参加披哥掉粉近40万",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 131866,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%E5%8F%82%E5%8A%A0%E6%8A%AB%E5%93%A5%E6%8E%89%E7%B2%89%E8%BF%9140%E4%B8%87"
+      },
+      "raw_titles": [
+        "刘畊宏参加披哥掉粉近40万"
+      ],
+      "rank": 24,
+      "movie_rank": 11
+    },
+    {
+      "title": "付航回应脱口秀禁黄牛票入场",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 83467,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BB%98%E8%88%AA%E5%9B%9E%E5%BA%94%E8%84%B1%E5%8F%A3%E7%A7%80%E7%A6%81%E9%BB%84%E7%89%9B%E7%A5%A8%E5%85%A5%E5%9C%BA"
+      },
+      "raw_titles": [
+        "付航回应脱口秀禁黄牛票入场"
+      ],
+      "rank": 25,
+      "movie_rank": 12
+    },
+    {
+      "title": "赵雷1排1座留给母亲",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 83018,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%B71%E6%8E%921%E5%BA%A7%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2"
+      },
+      "raw_titles": [
+        "赵雷1排1座留给母亲"
+      ],
+      "rank": 26,
+      "movie_rank": 13
+    },
+    {
+      "title": "切尔西2比2赫尔城",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 82897,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%87%E5%B0%94%E8%A5%BF2%E6%AF%942%E8%B5%AB%E5%B0%94%E5%9F%8E"
+      },
+      "raw_titles": [
+        "切尔西2比2赫尔城"
+      ],
+      "rank": 27,
+      "sports_rank": 14
+    },
+    {
+      "title": "英超联赛",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 81722,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8B%B1%E8%B6%85%E8%81%94%E8%B5%9B"
+      },
+      "raw_titles": [
+        "英超联赛"
+      ],
+      "rank": 28,
+      "sports_rank": 15
+    },
+    {
+      "title": "利物浦vs富勒姆",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 78734,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%AF%8C%E5%8B%92%E5%A7%86"
+      },
+      "raw_titles": [
+        "利物浦vs富勒姆"
+      ],
+      "rank": 29,
+      "sports_rank": 16
+    },
+    {
+      "title": "菲律宾客船起火事故已致76人死亡",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 63000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%AE%A2%E8%88%B9%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B476%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
+      },
+      "raw_titles": [
+        "菲律宾客船起火事故已致76人死亡"
+      ],
+      "rank": 30,
       "sports_rank": 17
     },
     {
@@ -536,26 +508,78 @@
       "raw_titles": [
         "200部AI短剧才出1个爆款"
       ],
-      "rank": 33,
-      "movie_rank": 16
+      "rank": 31,
+      "movie_rank": 14
+    },
+    {
+      "title": "多元力量参与退役军人服务保障工作",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%A4%9A%E5%85%83%E5%8A%9B%E9%87%8F%E5%8F%82%E4%B8%8E%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E6%9C%8D%E5%8A%A1%E4%BF%9D%E9%9A%9C%E5%B7%A5%E4%BD%9C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "多元力量参与退役军人服务保障工作"
+      ],
+      "rank": 32,
+      "sports_rank": 18
     }
   ],
   "sports": [
     {
+      "title": "孙心然美网青少年冠军",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 8305393,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%BF%83%E7%84%B6%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E5%86%A0%E5%86%9B",
+        "抖音": "https://www.douyin.com/search/%E5%AD%99%E5%BF%83%E7%84%B6%E9%97%AF%E5%85%A5%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "孙心然美网青少年冠军"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
       "title": "中超津门虎1:0辽宁铁人",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9291624,
+      "hot_value": 8295161,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E6%B4%A5%E9%97%A8%E8%99%8E1%3A0%E8%BE%BD%E5%AE%81%E9%93%81%E4%BA%BA"
       },
       "raw_titles": [
         "中超津门虎1:0辽宁铁人"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "丁俊晖止步英格兰公开赛四强",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 7918030,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E6%AD%A2%E6%AD%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA"
+      },
+      "raw_titles": [
+        "丁俊晖止步英格兰公开赛四强"
+      ],
+      "rank": 4,
+      "sports_rank": 3
     },
     {
       "title": "TTG夺冠",
@@ -564,7 +588,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8025334,
+      "hot_value": 7908817,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=TTG%E5%A4%BA%E5%86%A0",
         "抖音": "https://www.douyin.com/search/KPL%E5%A4%8F%E5%86%B3TTG%E5%A4%BA%E5%86%A0"
@@ -572,26 +596,8 @@
       "raw_titles": [
         "TTG夺冠"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "孙心然晋级美网青少年组女单决赛",
-      "category": "体育",
-      "sources": [
-        "百度",
-        "抖音"
-      ],
-      "hot_value": 7985121,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B6%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%84%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E5%AD%99%E5%BF%83%E7%84%B6%E9%97%AF%E5%85%A5%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "孙心然晋级美网青少年组女单决赛"
-      ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 5,
+      "sports_rank": 4
     },
     {
       "title": "说唱巅峰对决总决赛",
@@ -599,15 +605,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7795559,
+      "hot_value": 7791270,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "说唱巅峰对决总决赛"
       ],
-      "rank": 7,
-      "sports_rank": 4
+      "rank": 8,
+      "sports_rank": 5
     },
     {
       "title": "张超王者万象棋cos独家花絮",
@@ -615,15 +621,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7726052,
+      "hot_value": 7675534,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%A0%E8%B6%85%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8Bcos%E7%8B%AC%E5%AE%B6%E8%8A%B1%E7%B5%AE"
       },
       "raw_titles": [
         "张超王者万象棋cos独家花絮"
       ],
-      "rank": 8,
-      "sports_rank": 5
+      "rank": 11,
+      "sports_rank": 6
     },
     {
       "title": "吴彦祖进行赛车赛前训练",
@@ -631,47 +637,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7665793,
+      "hot_value": 7662852,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E8%A1%8C%E8%B5%9B%E8%BD%A6%E8%B5%9B%E5%89%8D%E8%AE%AD%E7%BB%83"
       },
       "raw_titles": [
         "吴彦祖进行赛车赛前训练"
       ],
-      "rank": 11,
-      "sports_rank": 6
-    },
-    {
-      "title": "2026LPL总决赛发布会",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 382933,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026LPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8F%91%E5%B8%83%E4%BC%9A"
-      },
-      "raw_titles": [
-        "2026LPL总决赛发布会"
-      ],
-      "rank": 13,
+      "rank": 12,
       "sports_rank": 7
-    },
-    {
-      "title": "卡梦退役后爆改穿搭",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 333274,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9%E5%90%8E%E7%88%86%E6%94%B9%E7%A9%BF%E6%90%AD"
-      },
-      "raw_titles": [
-        "卡梦退役后爆改穿搭"
-      ],
-      "rank": 14,
-      "sports_rank": 8
     },
     {
       "title": "AL晋级2026全球总决赛",
@@ -679,30 +653,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 237473,
+      "hot_value": 229282,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=AL%E6%99%8B%E7%BA%A72026%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "AL晋级2026全球总决赛"
       ],
-      "rank": 16,
-      "sports_rank": 9
+      "rank": 15,
+      "sports_rank": 8
     },
     {
-      "title": "深度解析东契奇生涯困境",
+      "title": "卡梦退役后爆改穿搭",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 216447,
+      "hot_value": 178216,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%9C%E5%A5%91%E5%A5%87%E7%94%9F%E6%B6%AF%E5%9B%B0%E5%A2%83"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%A2%A6%E9%80%80%E5%BD%B9%E5%90%8E%E7%88%86%E6%94%B9%E7%A9%BF%E6%90%AD"
       },
       "raw_titles": [
-        "深度解析东契奇生涯困境"
+        "卡梦退役后爆改穿搭"
       ],
-      "rank": 18,
+      "rank": 19,
+      "sports_rank": 9
+    },
+    {
+      "title": "2026LPL总决赛发布会",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 170234,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=2026LPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8F%91%E5%B8%83%E4%BC%9A"
+      },
+      "raw_titles": [
+        "2026LPL总决赛发布会"
+      ],
+      "rank": 20,
       "sports_rank": 10
     },
     {
@@ -712,46 +702,46 @@
         "微博",
         "微博"
       ],
-      "hot_value": 204417,
+      "hot_value": 163109,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%B0%8F%E8%83%966%E5%86%A04FMVP"
       },
       "raw_titles": [
         "小胖FMVP"
       ],
-      "rank": 20,
+      "rank": 21,
       "sports_rank": 11
     },
     {
-      "title": "丁俊晖止步英格兰公开赛四强",
+      "title": "F1车手语音聊天太搞笑了",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 198000,
+      "hot_value": 162000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E6%AD%A2%E6%AD%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=F1%E8%BD%A6%E6%89%8B%E8%AF%AD%E9%9F%B3%E8%81%8A%E5%A4%A9%E5%A4%AA%E6%90%9E%E7%AC%91%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
-        "丁俊晖止步英格兰公开赛四强"
+        "F1车手语音聊天太搞笑了"
       ],
-      "rank": 21,
+      "rank": 22,
       "sports_rank": 12
     },
     {
-      "title": "菲律宾客船起火事故已致76人死亡",
+      "title": "孙心然晋级美网青少年组女单决赛",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 153000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%AE%A2%E8%88%B9%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B476%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B6%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%84%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "菲律宾客船起火事故已致76人死亡"
+        "孙心然晋级美网青少年组女单决赛"
       ],
-      "rank": 24,
+      "rank": 23,
       "sports_rank": 13
     },
     {
@@ -760,31 +750,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 87698,
+      "hot_value": 82897,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%88%87%E5%B0%94%E8%A5%BF2%E6%AF%942%E8%B5%AB%E5%B0%94%E5%9F%8E"
       },
       "raw_titles": [
         "切尔西2比2赫尔城"
       ],
-      "rank": 28,
+      "rank": 27,
       "sports_rank": 14
-    },
-    {
-      "title": "AL挺进S16全球总决赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 81575,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=AL%E6%8C%BA%E8%BF%9BS16%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "AL挺进S16全球总决赛"
-      ],
-      "rank": 29,
-      "sports_rank": 15
     },
     {
       "title": "英超联赛",
@@ -792,48 +766,82 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 77733,
+      "hot_value": 81722,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%8B%B1%E8%B6%85%E8%81%94%E8%B5%9B"
       },
       "raw_titles": [
         "英超联赛"
       ],
-      "rank": 31,
+      "rank": 28,
+      "sports_rank": 15
+    },
+    {
+      "title": "利物浦vs富勒姆",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 78734,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%AF%8C%E5%8B%92%E5%A7%86"
+      },
+      "raw_titles": [
+        "利物浦vs富勒姆"
+      ],
+      "rank": 29,
       "sports_rank": 16
     },
     {
-      "title": "F1车手语音聊天太搞笑了",
+      "title": "菲律宾客船起火事故已致76人死亡",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 63000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=F1%E8%BD%A6%E6%89%8B%E8%AF%AD%E9%9F%B3%E8%81%8A%E5%A4%A9%E5%A4%AA%E6%90%9E%E7%AC%91%E4%BA%86&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%AE%A2%E8%88%B9%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B476%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
       },
       "raw_titles": [
-        "F1车手语音聊天太搞笑了"
+        "菲律宾客船起火事故已致76人死亡"
+      ],
+      "rank": 30,
+      "sports_rank": 17
+    },
+    {
+      "title": "多元力量参与退役军人服务保障工作",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%A4%9A%E5%85%83%E5%8A%9B%E9%87%8F%E5%8F%82%E4%B8%8E%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E6%9C%8D%E5%8A%A1%E4%BF%9D%E9%9A%9C%E5%B7%A5%E4%BD%9C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "多元力量参与退役军人服务保障工作"
       ],
       "rank": 32,
-      "sports_rank": 17
+      "sports_rank": 18
     }
   ],
   "movies": [
     {
-      "title": "张杰杭州演唱会",
+      "title": "张杰杭州演唱会散场后亮起国之脊梁",
       "category": "影视",
       "sources": [
+        "微博",
         "抖音"
       ],
-      "hot_value": 7831129,
+      "hot_value": 7923302,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%A3%E5%9C%BA%E5%90%8E%E4%BA%AE%E8%B5%B7%E5%9B%BD%E4%B9%8B%E8%84%8A%E6%A2%81",
         "抖音": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
-        "张杰杭州演唱会"
+        "张杰杭州演唱会散场后亮起国之脊梁"
       ],
-      "rank": 4,
+      "rank": 3,
       "movie_rank": 1
     },
     {
@@ -842,14 +850,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7819276,
+      "hot_value": 7822633,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%83%E4%B8%89%E5%9B%9B%E4%B8%AA%E9%A5%BA%E5%AD%90%E5%B0%B1%E9%95%BF%E8%82%89%E6%AD%A3%E5%B8%B8%E5%90%97"
       },
       "raw_titles": [
         "吃三四个饺子就长肉正常吗"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 2
     },
     {
@@ -858,28 +866,28 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7811520,
+      "hot_value": 7822472,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "邓紫棋深圳演唱会"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 3
     },
     {
-      "title": "解锁AI韩剧生存模式",
+      "title": "张凌赫刺棠权谋感拿捏了",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7688050,
+      "hot_value": 7709328,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F"
+        "抖音": "https://www.douyin.com/search/%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%BA%E6%A3%A0%E6%9D%83%E8%B0%8B%E6%84%9F%E6%8B%BF%E6%8D%8F%E4%BA%86"
       },
       "raw_titles": [
-        "解锁AI韩剧生存模式"
+        "张凌赫刺棠权谋感拿捏了"
       ],
       "rank": 9,
       "movie_rank": 4
@@ -890,7 +898,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7678013,
+      "hot_value": 7683292,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E5%85%A8%E5%91%98%E6%A8%A1%E4%BB%BF%E9%BC%AC%E5%BC%8F%E6%92%A9%E5%8F%91"
       },
@@ -907,7 +915,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 500791,
+      "hot_value": 505014,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%B7%E5%BD%93%E7%88%B8%E7%88%B8%E4%BA%86",
         "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E9%9B%B7%E5%BD%93%E7%88%B8%E7%88%B8%E4%BA%86&sa=fyb_news"
@@ -915,8 +923,24 @@
       "raw_titles": [
         "赵雷当爸爸了"
       ],
-      "rank": 12,
+      "rank": 13,
       "movie_rank": 6
+    },
+    {
+      "title": "影史神作9月扎堆重新上映",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 297000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BD%B1%E5%8F%B2%E7%A5%9E%E4%BD%9C9%E6%9C%88%E6%89%8E%E5%A0%86%E9%87%8D%E6%96%B0%E4%B8%8A%E6%98%A0&sa=fyb_news"
+      },
+      "raw_titles": [
+        "影史神作9月扎堆重新上映"
+      ],
+      "rank": 14,
+      "movie_rank": 7
     },
     {
       "title": "第37届银河奖获奖名单揭晓",
@@ -924,30 +948,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 318472,
+      "hot_value": 220747,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93"
       },
       "raw_titles": [
         "第37届银河奖获奖名单揭晓"
       ],
-      "rank": 15,
-      "movie_rank": 7
-    },
-    {
-      "title": "凡人修仙传191集逐帧解析",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 237467,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0191%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
-      },
-      "raw_titles": [
-        "凡人修仙传191集逐帧解析"
-      ],
-      "rank": 17,
+      "rank": 16,
       "movie_rank": 8
     },
     {
@@ -956,63 +964,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 215143,
+      "hot_value": 178273,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%89%A7%E7%89%88%E5%8E%9F%E8%91%97%E5%85%9A%E4%B9%B0%E8%B4%A6%E5%90%97"
       },
       "raw_titles": [
         "哈利波特剧版原著党买账吗"
       ],
-      "rank": 19,
+      "rank": 17,
       "movie_rank": 9
     },
     {
-      "title": "回顾花少5封神名场面",
+      "title": "凡人修仙传191集逐帧解析",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 196916,
+      "hot_value": 178268,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BE%E8%8A%B1%E5%B0%915%E5%B0%81%E7%A5%9E%E5%90%8D%E5%9C%BA%E9%9D%A2"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0191%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90"
       },
       "raw_titles": [
-        "回顾花少5封神名场面"
+        "凡人修仙传191集逐帧解析"
       ],
-      "rank": 22,
+      "rank": 18,
       "movie_rank": 10
-    },
-    {
-      "title": "影史神作9月扎堆重新上映",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BD%B1%E5%8F%B2%E7%A5%9E%E4%BD%9C9%E6%9C%88%E6%89%8E%E5%A0%86%E9%87%8D%E6%96%B0%E4%B8%8A%E6%98%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "影史神作9月扎堆重新上映"
-      ],
-      "rank": 23,
-      "movie_rank": 11
-    },
-    {
-      "title": "迪丽热巴在斯维诗的镜头里好美",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 147049,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9C%A8%E6%96%AF%E7%BB%B4%E8%AF%97%E7%9A%84%E9%95%9C%E5%A4%B4%E9%87%8C%E5%A5%BD%E7%BE%8E"
-      },
-      "raw_titles": [
-        "迪丽热巴在斯维诗的镜头里好美"
-      ],
-      "rank": 25,
-      "movie_rank": 12
     },
     {
       "title": "刘畊宏参加披哥掉粉近40万",
@@ -1020,15 +996,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 132738,
+      "hot_value": 131866,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%E5%8F%82%E5%8A%A0%E6%8A%AB%E5%93%A5%E6%8E%89%E7%B2%89%E8%BF%9140%E4%B8%87"
       },
       "raw_titles": [
         "刘畊宏参加披哥掉粉近40万"
       ],
-      "rank": 26,
-      "movie_rank": 13
+      "rank": 24,
+      "movie_rank": 11
     },
     {
       "title": "付航回应脱口秀禁黄牛票入场",
@@ -1036,15 +1012,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 116481,
+      "hot_value": 83467,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BB%98%E8%88%AA%E5%9B%9E%E5%BA%94%E8%84%B1%E5%8F%A3%E7%A7%80%E7%A6%81%E9%BB%84%E7%89%9B%E7%A5%A8%E5%85%A5%E5%9C%BA"
       },
       "raw_titles": [
         "付航回应脱口秀禁黄牛票入场"
       ],
-      "rank": 27,
-      "movie_rank": 14
+      "rank": 25,
+      "movie_rank": 12
     },
     {
       "title": "赵雷1排1座留给母亲",
@@ -1052,15 +1028,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 81357,
+      "hot_value": 83018,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%B71%E6%8E%921%E5%BA%A7%E7%95%99%E7%BB%99%E6%AF%8D%E4%BA%B2"
       },
       "raw_titles": [
         "赵雷1排1座留给母亲"
       ],
-      "rank": 30,
-      "movie_rank": 15
+      "rank": 26,
+      "movie_rank": 13
     },
     {
       "title": "200部AI短剧才出1个爆款",
@@ -1075,8 +1051,8 @@
       "raw_titles": [
         "200部AI短剧才出1个爆款"
       ],
-      "rank": 33,
-      "movie_rank": 16
+      "rank": 31,
+      "movie_rank": 14
     }
   ]
 }
