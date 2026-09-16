@@ -1,39 +1,45 @@
 {
-  "update_time": "2026-09-16 17:00:50",
-  "total": 21,
-  "sports_count": 11,
-  "movie_count": 10,
+  "update_time": "2026-09-16 18:00:49",
+  "total": 22,
+  "sports_count": 8,
+  "movie_count": 14,
   "all": [
     {
-      "title": "赵家驹巨人之旅破纪录夺冠",
+      "title": "中国男篮晋级亚运会四强",
       "category": "体育",
       "sources": [
+        "微博",
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12134726,
+      "hot_value": 12874016,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E6%89%93%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%9B%E5%BC%BA",
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%B7%98%E6%B1%B0%E6%B2%99%E7%89%B9%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%904%E5%BC%BA",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%9B%E5%BC%BA"
       },
       "raw_titles": [
-        "赵家驹巨人之旅破纪录夺冠"
+        "中国男篮晋级亚运会四强"
       ],
       "rank": 1,
       "sports_rank": 1
     },
     {
-      "title": "中国男篮淘汰沙特晋级亚运4强",
+      "title": "创造历史 赵家驹巨人之旅夺冠",
       "category": "体育",
       "sources": [
-        "抖音"
+        "百度",
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 11601308,
+      "hot_value": 12180462,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%B7%98%E6%B1%B0%E6%B2%99%E7%89%B9%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%904%E5%BC%BA"
+        "百度": "https://m.baidu.com/s?word=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2+%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E5%A4%BA%E5%86%A0&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E6%89%93%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "中国男篮淘汰沙特晋级亚运4强"
+        "创造历史 赵家驹巨人之旅夺冠"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -44,7 +50,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10471986,
+      "hot_value": 9314716,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%A4%BA%E5%86%A0%E5%90%8E%E7%AC%AC%E4%B8%80%E6%9D%A1%E6%8A%96%E9%9F%B3"
       },
@@ -55,36 +61,36 @@
       "sports_rank": 3
     },
     {
+      "title": "王鹤棣方已取证报警",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 8969228,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B9%E5%B7%B2%E5%8F%96%E8%AF%81%E6%8A%A5%E8%AD%A6"
+      },
+      "raw_titles": [
+        "王鹤棣方已取证报警"
+      ],
+      "rank": 4,
+      "movie_rank": 1
+    },
+    {
       "title": "电影神探之痕迹定档",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7776814,
+      "hot_value": 7757817,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "电影神探之痕迹定档"
       ],
-      "rank": 4,
-      "movie_rank": 1
-    },
-    {
-      "title": "中国女排亚运会开门红",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7764818,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%A8%E7%BA%A2"
-      },
-      "raw_titles": [
-        "中国女排亚运会开门红"
-      ],
       "rank": 5,
-      "sports_rank": 4
+      "movie_rank": 2
     },
     {
       "title": "鸣潮动画短片寻心",
@@ -92,7 +98,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1224444,
+      "hot_value": 1641557,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%8A%A8%E7%94%BB%E7%9F%AD%E7%89%87%E5%AF%BB%E5%BF%83"
       },
@@ -100,23 +106,7 @@
         "鸣潮动画短片寻心"
       ],
       "rank": 6,
-      "movie_rank": 2
-    },
-    {
-      "title": "钟薛高复活售价跳水",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 925498,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%92%9F%E8%96%9B%E9%AB%98%E5%A4%8D%E6%B4%BB%E5%94%AE%E4%BB%B7%E8%B7%B3%E6%B0%B4"
-      },
-      "raw_titles": [
-        "钟薛高复活售价跳水"
-      ],
-      "rank": 7,
-      "sports_rank": 5
+      "movie_rank": 3
     },
     {
       "title": "我国火箭单次海上发射载荷重量创新高",
@@ -124,15 +114,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 603118,
+      "hot_value": 713444,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%8D%95%E6%AC%A1%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E8%BD%BD%E8%8D%B7%E9%87%8D%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98"
       },
       "raw_titles": [
         "我国火箭单次海上发射载荷重量创新高"
       ],
-      "rank": 8,
-      "sports_rank": 6
+      "rank": 7,
+      "sports_rank": 4
     },
     {
       "title": "直击中国代表团出征亚运会",
@@ -140,15 +130,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 602564,
+      "hot_value": 617683,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%87%BA%E5%BE%81%E4%BA%9A%E8%BF%90%E4%BC%9A"
       },
       "raw_titles": [
         "直击中国代表团出征亚运会"
       ],
-      "rank": 9,
-      "sports_rank": 7
+      "rank": 8,
+      "sports_rank": 5
     },
     {
       "title": "高校学生翻拍牛来真人版",
@@ -156,31 +146,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 469618,
+      "hot_value": 503765,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%BF%BB%E6%8B%8D%E7%89%9B%E6%9D%A5%E7%9C%9F%E4%BA%BA%E7%89%88"
       },
       "raw_titles": [
         "高校学生翻拍牛来真人版"
       ],
-      "rank": 10,
-      "movie_rank": 3
+      "rank": 9,
+      "movie_rank": 4
     },
     {
-      "title": "白客做梦都在打王者万象棋",
+      "title": "钟薛高复活售价跳水",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 502862,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%92%9F%E8%96%9B%E9%AB%98%E5%A4%8D%E6%B4%BB%E5%94%AE%E4%BB%B7%E8%B7%B3%E6%B0%B4"
+      },
+      "raw_titles": [
+        "钟薛高复活售价跳水"
+      ],
+      "rank": 10,
+      "sports_rank": 6
+    },
+    {
+      "title": "博主绒耳卷向王鹤棣道歉",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 489873,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E7%BB%92%E8%80%B3%E5%8D%B7%E5%90%91%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%81%93%E6%AD%89"
+      },
+      "raw_titles": [
+        "博主绒耳卷向王鹤棣道歉"
+      ],
+      "rank": 11,
+      "movie_rank": 5
+    },
+    {
+      "title": "F1 2027赛季赛历出炉",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 460774,
+      "hot_value": 473909,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%AE%A2%E5%81%9A%E6%A2%A6%E9%83%BD%E5%9C%A8%E6%89%93%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%202027%E8%B5%9B%E5%AD%A3%E8%B5%9B%E5%8E%86%E5%87%BA%E7%82%89"
       },
       "raw_titles": [
-        "白客做梦都在打王者万象棋"
+        "F1 2027赛季赛历出炉"
       ],
-      "rank": 11,
-      "sports_rank": 8
+      "rank": 12,
+      "sports_rank": 7
     },
     {
       "title": "易烊千玺最近到底经历了什么",
@@ -188,15 +210,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 386585,
+      "hot_value": 370178,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9C%80%E8%BF%91%E5%88%B0%E5%BA%95%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88"
       },
       "raw_titles": [
         "易烊千玺最近到底经历了什么"
       ],
-      "rank": 12,
-      "movie_rank": 4
+      "rank": 13,
+      "movie_rank": 6
+    },
+    {
+      "title": "胡塞武装如何影响红海权力格局",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 361328,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BA%A2%E6%B5%B7%E6%9D%83%E5%8A%9B%E6%A0%BC%E5%B1%80"
+      },
+      "raw_titles": [
+        "胡塞武装如何影响红海权力格局"
+      ],
+      "rank": 14,
+      "movie_rank": 7
     },
     {
       "title": "漫威金刚狼游戏评测",
@@ -204,63 +242,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 384019,
+      "hot_value": 324259,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B"
       },
       "raw_titles": [
         "漫威金刚狼游戏评测"
       ],
-      "rank": 13,
-      "movie_rank": 5
-    },
-    {
-      "title": "国台办回应五月天阿信立场争议",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 380922,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E7%AB%8B%E5%9C%BA%E4%BA%89%E8%AE%AE"
-      },
-      "raw_titles": [
-        "国台办回应五月天阿信立场争议"
-      ],
-      "rank": 14,
-      "movie_rank": 6
-    },
-    {
-      "title": "樊振东上海活动",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 349481,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8A%E6%B5%B7%E6%B4%BB%E5%8A%A8"
-      },
-      "raw_titles": [
-        "樊振东上海活动"
-      ],
       "rank": 15,
-      "sports_rank": 9
-    },
-    {
-      "title": "亚运会中国体育代表团抵达名古屋",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 279000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8A%B5%E8%BE%BE%E5%90%8D%E5%8F%A4%E5%B1%8B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "亚运会中国体育代表团抵达名古屋"
-      ],
-      "rank": 16,
-      "sports_rank": 10
+      "movie_rank": 8
     },
     {
       "title": "小沈阳一开口直接封神",
@@ -268,15 +258,63 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 270000,
+      "hot_value": 324000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%B0%8F%E6%B2%88%E9%98%B3%E4%B8%80%E5%BC%80%E5%8F%A3%E7%9B%B4%E6%8E%A5%E5%B0%81%E7%A5%9E&sa=fyb_news"
       },
       "raw_titles": [
         "小沈阳一开口直接封神"
       ],
+      "rank": 16,
+      "movie_rank": 9
+    },
+    {
+      "title": "王鹤棣方声明：有用户捏造聊天记录",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B9%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%9C%89%E7%94%A8%E6%88%B7%E6%8D%8F%E9%80%A0%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王鹤棣方声明：有用户捏造聊天记录"
+      ],
       "rank": 17,
-      "movie_rank": 7
+      "movie_rank": 10
+    },
+    {
+      "title": "国台办回应五月天阿信立场争议",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 255316,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E7%AB%8B%E5%9C%BA%E4%BA%89%E8%AE%AE"
+      },
+      "raw_titles": [
+        "国台办回应五月天阿信立场争议"
+      ],
+      "rank": 18,
+      "movie_rank": 11
+    },
+    {
+      "title": "倪妮付辛博 夜旅人",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 235012,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E4%BB%98%E8%BE%9B%E5%8D%9A%20%E5%A4%9C%E6%97%85%E4%BA%BA"
+      },
+      "raw_titles": [
+        "倪妮付辛博 夜旅人"
+      ],
+      "rank": 19,
+      "movie_rank": 12
     },
     {
       "title": "周星驰御用配角成功应聘景区NPC",
@@ -284,96 +322,86 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E8%A7%92%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
       },
       "raw_titles": [
         "周星驰御用配角成功应聘景区NPC"
       ],
-      "rank": 18,
-      "movie_rank": 8
+      "rank": 20,
+      "movie_rank": 13
     },
     {
-      "title": "影院不再只放电影",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 207000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BD%B1%E9%99%A2%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%94%BE%E7%94%B5%E5%BD%B1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "影院不再只放电影"
-      ],
-      "rank": 19,
-      "movie_rank": 9
-    },
-    {
-      "title": "酷酷的滕当导演了",
+      "title": "沈腾的网速还是太慢了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 171829,
+      "hot_value": 229935,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%85%B7%E9%85%B7%E7%9A%84%E6%BB%95%E5%BD%93%E5%AF%BC%E6%BC%94%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E7%9A%84%E7%BD%91%E9%80%9F%E8%BF%98%E6%98%AF%E5%A4%AA%E6%85%A2%E4%BA%86"
       },
       "raw_titles": [
-        "酷酷的滕当导演了"
+        "沈腾的网速还是太慢了"
       ],
-      "rank": 20,
-      "movie_rank": 10
+      "rank": 21,
+      "movie_rank": 14
     },
     {
-      "title": "世界最艰难越野跑中国选手夺冠",
+      "title": "中国女排亚运会开门红",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 63000,
+      "hot_value": 54000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9C%80%E8%89%B0%E9%9A%BE%E8%B6%8A%E9%87%8E%E8%B7%91%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%A8%E7%BA%A2&sa=fyb_news"
       },
       "raw_titles": [
-        "世界最艰难越野跑中国选手夺冠"
+        "中国女排亚运会开门红"
       ],
-      "rank": 21,
-      "sports_rank": 11
+      "rank": 22,
+      "sports_rank": 8
     }
   ],
   "sports": [
     {
-      "title": "赵家驹巨人之旅破纪录夺冠",
+      "title": "中国男篮晋级亚运会四强",
       "category": "体育",
       "sources": [
+        "微博",
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 12134726,
+      "hot_value": 12874016,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E6%89%93%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%9B%E5%BC%BA",
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%B7%98%E6%B1%B0%E6%B2%99%E7%89%B9%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%904%E5%BC%BA",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%9B%E5%BC%BA"
       },
       "raw_titles": [
-        "赵家驹巨人之旅破纪录夺冠"
+        "中国男篮晋级亚运会四强"
       ],
       "rank": 1,
       "sports_rank": 1
     },
     {
-      "title": "中国男篮淘汰沙特晋级亚运4强",
+      "title": "创造历史 赵家驹巨人之旅夺冠",
       "category": "体育",
       "sources": [
-        "抖音"
+        "百度",
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 11601308,
+      "hot_value": 12180462,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%B7%98%E6%B1%B0%E6%B2%99%E7%89%B9%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%904%E5%BC%BA"
+        "百度": "https://m.baidu.com/s?word=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2+%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E5%A4%BA%E5%86%A0&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E6%89%93%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "中国男篮淘汰沙特晋级亚运4强"
+        "创造历史 赵家驹巨人之旅夺冠"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -384,7 +412,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10471986,
+      "hot_value": 9314716,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%A4%BA%E5%86%A0%E5%90%8E%E7%AC%AC%E4%B8%80%E6%9D%A1%E6%8A%96%E9%9F%B3"
       },
@@ -395,52 +423,20 @@
       "sports_rank": 3
     },
     {
-      "title": "中国女排亚运会开门红",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7764818,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%A8%E7%BA%A2"
-      },
-      "raw_titles": [
-        "中国女排亚运会开门红"
-      ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "钟薛高复活售价跳水",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 925498,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%92%9F%E8%96%9B%E9%AB%98%E5%A4%8D%E6%B4%BB%E5%94%AE%E4%BB%B7%E8%B7%B3%E6%B0%B4"
-      },
-      "raw_titles": [
-        "钟薛高复活售价跳水"
-      ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
       "title": "我国火箭单次海上发射载荷重量创新高",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 603118,
+      "hot_value": 713444,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%8D%95%E6%AC%A1%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E8%BD%BD%E8%8D%B7%E9%87%8D%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98"
       },
       "raw_titles": [
         "我国火箭单次海上发射载荷重量创新高"
       ],
-      "rank": 8,
-      "sports_rank": 6
+      "rank": 7,
+      "sports_rank": 4
     },
     {
       "title": "直击中国代表团出征亚运会",
@@ -448,97 +444,97 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 602564,
+      "hot_value": 617683,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%87%BA%E5%BE%81%E4%BA%9A%E8%BF%90%E4%BC%9A"
       },
       "raw_titles": [
         "直击中国代表团出征亚运会"
       ],
-      "rank": 9,
-      "sports_rank": 7
+      "rank": 8,
+      "sports_rank": 5
     },
     {
-      "title": "白客做梦都在打王者万象棋",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 460774,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%AE%A2%E5%81%9A%E6%A2%A6%E9%83%BD%E5%9C%A8%E6%89%93%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B"
-      },
-      "raw_titles": [
-        "白客做梦都在打王者万象棋"
-      ],
-      "rank": 11,
-      "sports_rank": 8
-    },
-    {
-      "title": "樊振东上海活动",
+      "title": "钟薛高复活售价跳水",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 349481,
+      "hot_value": 502862,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8A%E6%B5%B7%E6%B4%BB%E5%8A%A8"
+        "微博": "https://s.weibo.com/weibo?q=%E9%92%9F%E8%96%9B%E9%AB%98%E5%A4%8D%E6%B4%BB%E5%94%AE%E4%BB%B7%E8%B7%B3%E6%B0%B4"
       },
       "raw_titles": [
-        "樊振东上海活动"
+        "钟薛高复活售价跳水"
       ],
-      "rank": 15,
-      "sports_rank": 9
+      "rank": 10,
+      "sports_rank": 6
     },
     {
-      "title": "亚运会中国体育代表团抵达名古屋",
+      "title": "F1 2027赛季赛历出炉",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 473909,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%202027%E8%B5%9B%E5%AD%A3%E8%B5%9B%E5%8E%86%E5%87%BA%E7%82%89"
+      },
+      "raw_titles": [
+        "F1 2027赛季赛历出炉"
+      ],
+      "rank": 12,
+      "sports_rank": 7
+    },
+    {
+      "title": "中国女排亚运会开门红",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 54000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8A%B5%E8%BE%BE%E5%90%8D%E5%8F%A4%E5%B1%8B&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%A8%E7%BA%A2&sa=fyb_news"
       },
       "raw_titles": [
-        "亚运会中国体育代表团抵达名古屋"
+        "中国女排亚运会开门红"
       ],
-      "rank": 16,
-      "sports_rank": 10
-    },
-    {
-      "title": "世界最艰难越野跑中国选手夺冠",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 63000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9C%80%E8%89%B0%E9%9A%BE%E8%B6%8A%E9%87%8E%E8%B7%91%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "世界最艰难越野跑中国选手夺冠"
-      ],
-      "rank": 21,
-      "sports_rank": 11
+      "rank": 22,
+      "sports_rank": 8
     }
   ],
   "movies": [
+    {
+      "title": "王鹤棣方已取证报警",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 8969228,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B9%E5%B7%B2%E5%8F%96%E8%AF%81%E6%8A%A5%E8%AD%A6"
+      },
+      "raw_titles": [
+        "王鹤棣方已取证报警"
+      ],
+      "rank": 4,
+      "movie_rank": 1
+    },
     {
       "title": "电影神探之痕迹定档",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7776814,
+      "hot_value": 7757817,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "电影神探之痕迹定档"
       ],
-      "rank": 4,
-      "movie_rank": 1
+      "rank": 5,
+      "movie_rank": 2
     },
     {
       "title": "鸣潮动画短片寻心",
@@ -546,7 +542,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1224444,
+      "hot_value": 1641557,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%8A%A8%E7%94%BB%E7%9F%AD%E7%89%87%E5%AF%BB%E5%BF%83"
       },
@@ -554,7 +550,7 @@
         "鸣潮动画短片寻心"
       ],
       "rank": 6,
-      "movie_rank": 2
+      "movie_rank": 3
     },
     {
       "title": "高校学生翻拍牛来真人版",
@@ -562,15 +558,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 469618,
+      "hot_value": 503765,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%BF%BB%E6%8B%8D%E7%89%9B%E6%9D%A5%E7%9C%9F%E4%BA%BA%E7%89%88"
       },
       "raw_titles": [
         "高校学生翻拍牛来真人版"
       ],
-      "rank": 10,
-      "movie_rank": 3
+      "rank": 9,
+      "movie_rank": 4
+    },
+    {
+      "title": "博主绒耳卷向王鹤棣道歉",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 489873,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E7%BB%92%E8%80%B3%E5%8D%B7%E5%90%91%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%81%93%E6%AD%89"
+      },
+      "raw_titles": [
+        "博主绒耳卷向王鹤棣道歉"
+      ],
+      "rank": 11,
+      "movie_rank": 5
     },
     {
       "title": "易烊千玺最近到底经历了什么",
@@ -578,15 +590,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 386585,
+      "hot_value": 370178,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9C%80%E8%BF%91%E5%88%B0%E5%BA%95%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88"
       },
       "raw_titles": [
         "易烊千玺最近到底经历了什么"
       ],
-      "rank": 12,
-      "movie_rank": 4
+      "rank": 13,
+      "movie_rank": 6
+    },
+    {
+      "title": "胡塞武装如何影响红海权力格局",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 361328,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BA%A2%E6%B5%B7%E6%9D%83%E5%8A%9B%E6%A0%BC%E5%B1%80"
+      },
+      "raw_titles": [
+        "胡塞武装如何影响红海权力格局"
+      ],
+      "rank": 14,
+      "movie_rank": 7
     },
     {
       "title": "漫威金刚狼游戏评测",
@@ -594,31 +622,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 384019,
+      "hot_value": 324259,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B"
       },
       "raw_titles": [
         "漫威金刚狼游戏评测"
       ],
-      "rank": 13,
-      "movie_rank": 5
-    },
-    {
-      "title": "国台办回应五月天阿信立场争议",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 380922,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E7%AB%8B%E5%9C%BA%E4%BA%89%E8%AE%AE"
-      },
-      "raw_titles": [
-        "国台办回应五月天阿信立场争议"
-      ],
-      "rank": 14,
-      "movie_rank": 6
+      "rank": 15,
+      "movie_rank": 8
     },
     {
       "title": "小沈阳一开口直接封神",
@@ -626,15 +638,63 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 270000,
+      "hot_value": 324000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%B0%8F%E6%B2%88%E9%98%B3%E4%B8%80%E5%BC%80%E5%8F%A3%E7%9B%B4%E6%8E%A5%E5%B0%81%E7%A5%9E&sa=fyb_news"
       },
       "raw_titles": [
         "小沈阳一开口直接封神"
       ],
+      "rank": 16,
+      "movie_rank": 9
+    },
+    {
+      "title": "王鹤棣方声明：有用户捏造聊天记录",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B9%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%9C%89%E7%94%A8%E6%88%B7%E6%8D%8F%E9%80%A0%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王鹤棣方声明：有用户捏造聊天记录"
+      ],
       "rank": 17,
-      "movie_rank": 7
+      "movie_rank": 10
+    },
+    {
+      "title": "国台办回应五月天阿信立场争议",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 255316,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E7%AB%8B%E5%9C%BA%E4%BA%89%E8%AE%AE"
+      },
+      "raw_titles": [
+        "国台办回应五月天阿信立场争议"
+      ],
+      "rank": 18,
+      "movie_rank": 11
+    },
+    {
+      "title": "倪妮付辛博 夜旅人",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 235012,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E4%BB%98%E8%BE%9B%E5%8D%9A%20%E5%A4%9C%E6%97%85%E4%BA%BA"
+      },
+      "raw_titles": [
+        "倪妮付辛博 夜旅人"
+      ],
+      "rank": 19,
+      "movie_rank": 12
     },
     {
       "title": "周星驰御用配角成功应聘景区NPC",
@@ -642,47 +702,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 234000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E8%A7%92%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
       },
       "raw_titles": [
         "周星驰御用配角成功应聘景区NPC"
       ],
-      "rank": 18,
-      "movie_rank": 8
+      "rank": 20,
+      "movie_rank": 13
     },
     {
-      "title": "影院不再只放电影",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 207000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BD%B1%E9%99%A2%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%94%BE%E7%94%B5%E5%BD%B1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "影院不再只放电影"
-      ],
-      "rank": 19,
-      "movie_rank": 9
-    },
-    {
-      "title": "酷酷的滕当导演了",
+      "title": "沈腾的网速还是太慢了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 171829,
+      "hot_value": 229935,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%85%B7%E9%85%B7%E7%9A%84%E6%BB%95%E5%BD%93%E5%AF%BC%E6%BC%94%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E7%9A%84%E7%BD%91%E9%80%9F%E8%BF%98%E6%98%AF%E5%A4%AA%E6%85%A2%E4%BA%86"
       },
       "raw_titles": [
-        "酷酷的滕当导演了"
+        "沈腾的网速还是太慢了"
       ],
-      "rank": 20,
-      "movie_rank": 10
+      "rank": 21,
+      "movie_rank": 14
     }
   ]
 }
