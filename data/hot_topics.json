@@ -1,56 +1,40 @@
 {
-  "update_time": "2026-09-16 10:00:48",
-  "total": 18,
-  "sports_count": 12,
-  "movie_count": 6,
+  "update_time": "2026-09-16 11:00:48",
+  "total": 25,
+  "sports_count": 17,
+  "movie_count": 9,
   "all": [
+    {
+      "title": "赵家驹巨人之旅破纪录夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 12106986,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "赵家驹巨人之旅破纪录夺冠"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "西甲埃尔切2:3皇家马德里",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 11954843,
+      "hot_value": 9400034,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A5%BF%E7%94%B2%E5%9F%83%E5%B0%94%E5%88%872%3A3%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C"
       },
       "raw_titles": [
         "西甲埃尔切2:3皇家马德里"
       ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "伊普斯维奇2:4阿森纳",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 10992289,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%872%3A4%E9%98%BF%E6%A3%AE%E7%BA%B3"
-      },
-      "raw_titles": [
-        "伊普斯维奇2:4阿森纳"
-      ],
       "rank": 2,
       "sports_rank": 2
-    },
-    {
-      "title": "电影生化危机爆发夜确认引进",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7665767,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B"
-      },
-      "raw_titles": [
-        "电影生化危机爆发夜确认引进"
-      ],
-      "rank": 3,
-      "movie_rank": 1
     },
     {
       "title": "国乒出征亚运会大合影",
@@ -58,97 +42,97 @@
       "sources": [
         "微博",
         "微博",
-        "百度"
+        "抖音"
       ],
-      "hot_value": 961856,
+      "hot_value": 8140342,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A",
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%87%BA%E5%BE%81%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A&sa=fyb_news"
+        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E4%BB%8A%E6%97%A5%E5%87%BA%E5%BE%81%E4%BA%9A%E8%BF%90%E4%BC%9A"
       },
       "raw_titles": [
         "国乒出征亚运会大合影"
       ],
-      "rank": 4,
+      "rank": 3,
       "sports_rank": 3
     },
     {
-      "title": "亚运会 王楚钦“一老带四新”",
-      "category": "体育",
+      "title": "电影生化危机爆发夜确认引进",
+      "category": "影视",
       "sources": [
-        "百度"
+        "抖音"
       ],
-      "hot_value": 423000,
+      "hot_value": 7728062,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A+%E7%8E%8B%E6%A5%9A%E9%92%A6%E2%80%9C%E4%B8%80%E8%80%81%E5%B8%A6%E5%9B%9B%E6%96%B0%E2%80%9D&sa=fyb_news"
+        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B"
       },
       "raw_titles": [
-        "亚运会 王楚钦“一老带四新”"
+        "电影生化危机爆发夜确认引进"
+      ],
+      "rank": 4,
+      "movie_rank": 1
+    },
+    {
+      "title": "伊普斯维奇2:4阿森纳",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7718832,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%872%3A4%E9%98%BF%E6%A3%AE%E7%BA%B3"
+      },
+      "raw_titles": [
+        "伊普斯维奇2:4阿森纳"
       ],
       "rank": 5,
       "sports_rank": 4
     },
     {
-      "title": "周星驰御用配角成功应聘景区NPC",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 405000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E8%A7%92%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
-      },
-      "raw_titles": [
-        "周星驰御用配角成功应聘景区NPC"
-      ],
-      "rank": 6,
-      "movie_rank": 2
-    },
-    {
-      "title": "央视拿下日本名古屋亚运会主转播权",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 378000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%8B%BF%E4%B8%8B%E6%97%A5%E6%9C%AC%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E8%BD%AC%E6%92%AD%E6%9D%83&sa=fyb_news"
-      },
-      "raw_titles": [
-        "央视拿下日本名古屋亚运会主转播权"
-      ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "谭松韵10年4部爆款剧",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 350367,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B510%E5%B9%B44%E9%83%A8%E7%88%86%E6%AC%BE%E5%89%A7"
-      },
-      "raw_titles": [
-        "谭松韵10年4部爆款剧"
-      ],
-      "rank": 8,
-      "movie_rank": 3
-    },
-    {
-      "title": "开学第一堂体育课对话库里",
+      "title": "王楚钦回应三战亚运",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 255008,
+      "hot_value": 1247724,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A0%82%E4%BD%93%E8%82%B2%E8%AF%BE%E5%AF%B9%E8%AF%9D%E5%BA%93%E9%87%8C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%94%E4%B8%89%E6%88%98%E4%BA%9A%E8%BF%90"
       },
       "raw_titles": [
-        "开学第一堂体育课对话库里"
+        "王楚钦回应三战亚运"
       ],
-      "rank": 9,
+      "rank": 6,
+      "sports_rank": 5
+    },
+    {
+      "title": "影院不再只放电影",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 441000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BD%B1%E9%99%A2%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%94%BE%E7%94%B5%E5%BD%B1&sa=fyb_news"
+      },
+      "raw_titles": [
+        "影院不再只放电影"
+      ],
+      "rank": 7,
+      "movie_rank": 2
+    },
+    {
+      "title": "我国火箭单次海上发射载荷重量创新高",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 353067,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%8D%95%E6%AC%A1%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E8%BD%BD%E8%8D%B7%E9%87%8D%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98"
+      },
+      "raw_titles": [
+        "我国火箭单次海上发射载荷重量创新高"
+      ],
+      "rank": 8,
       "sports_rank": 6
     },
     {
@@ -157,63 +141,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 254512,
+      "hot_value": 320530,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E8%8E%B7IGN6%E5%88%86"
       },
       "raw_titles": [
         "漫威金刚狼获IGN6分"
       ],
-      "rank": 10,
-      "movie_rank": 4
+      "rank": 9,
+      "movie_rank": 3
     },
     {
-      "title": "皇马客场3-2绝杀埃尔切",
+      "title": "马德里讨论F1赛道修改方案",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 246040,
+      "hot_value": 279984,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%A2%E5%9C%BA3-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%BE%B7%E9%87%8C%E8%AE%A8%E8%AE%BAF1%E8%B5%9B%E9%81%93%E4%BF%AE%E6%94%B9%E6%96%B9%E6%A1%88"
       },
       "raw_titles": [
-        "皇马客场3-2绝杀埃尔切"
+        "马德里讨论F1赛道修改方案"
       ],
-      "rank": 11,
+      "rank": 10,
       "sports_rank": 7
     },
     {
-      "title": "亚运会三大球前瞻",
+      "title": "孙颖莎 国乒",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 216673,
+      "hot_value": 279444,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%89%E5%A4%A7%E7%90%83%E5%89%8D%E7%9E%BB"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E5%9B%BD%E4%B9%92"
       },
       "raw_titles": [
-        "亚运会三大球前瞻"
+        "孙颖莎 国乒"
       ],
-      "rank": 12,
+      "rank": 11,
       "sports_rank": 8
     },
     {
-      "title": "范丞丞章若楠双向催更",
+      "title": "田曦薇魏大勋海报",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 155634,
+      "hot_value": 279058,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%8F%8C%E5%90%91%E5%82%AC%E6%9B%B4"
+        "微博": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%B5%B7%E6%8A%A5"
       },
       "raw_titles": [
-        "范丞丞章若楠双向催更"
+        "田曦薇魏大勋海报"
+      ],
+      "rank": 12,
+      "movie_rank": 4
+    },
+    {
+      "title": "电影神探之痕迹定档",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 274215,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%AE%9A%E6%A1%A3"
+      },
+      "raw_titles": [
+        "电影神探之痕迹定档"
       ],
       "rank": 13,
       "movie_rank": 5
+    },
+    {
+      "title": "周星驰御用配角成功应聘景区NPC",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E8%A7%92%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
+      },
+      "raw_titles": [
+        "周星驰御用配角成功应聘景区NPC"
+      ],
+      "rank": 14,
+      "movie_rank": 6
     },
     {
       "title": "英联杯利物浦3-1热刺",
@@ -221,31 +237,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 140013,
+      "hot_value": 234187,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%81%94%E6%9D%AF%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%83%AD%E5%88%BA"
       },
       "raw_titles": [
         "英联杯利物浦3-1热刺"
       ],
-      "rank": 14,
+      "rank": 15,
       "sports_rank": 9
     },
     {
-      "title": "LPL总决赛AL赛事语音",
+      "title": "皇马客场3-2绝杀埃尔切",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 140002,
+      "hot_value": 231625,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%E6%80%BB%E5%86%B3%E8%B5%9BAL%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%A2%E5%9C%BA3-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87"
       },
       "raw_titles": [
-        "LPL总决赛AL赛事语音"
+        "皇马客场3-2绝杀埃尔切"
       ],
-      "rank": 15,
+      "rank": 16,
       "sports_rank": 10
+    },
+    {
+      "title": "亚运会三大球前瞻",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 231360,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%89%E5%A4%A7%E7%90%83%E5%89%8D%E7%9E%BB"
+      },
+      "raw_titles": [
+        "亚运会三大球前瞻"
+      ],
+      "rank": 17,
+      "sports_rank": 11
     },
     {
       "title": "LCK季后赛全位置数据雷达图",
@@ -253,78 +285,159 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 139985,
+      "hot_value": 194363,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=LCK%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%85%A8%E4%BD%8D%E7%BD%AE%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE"
       },
       "raw_titles": [
         "LCK季后赛全位置数据雷达图"
       ],
-      "rank": 16,
-      "sports_rank": 11
+      "rank": 18,
+      "sports_rank": 12
     },
     {
-      "title": "漫威金刚狼游戏实况解说",
+      "title": "C罗球队亚冠0比4惨败",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 189974,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%90%83%E9%98%9F%E4%BA%9A%E5%86%A00%E6%AF%944%E6%83%A8%E8%B4%A5"
+      },
+      "raw_titles": [
+        "C罗球队亚冠0比4惨败"
+      ],
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "谭松韵10年4部爆款剧",
       "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 187583,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B510%E5%B9%B44%E9%83%A8%E7%88%86%E6%AC%BE%E5%89%A7"
+      },
+      "raw_titles": [
+        "谭松韵10年4部爆款剧"
+      ],
+      "rank": 20,
+      "movie_rank": 7
+    },
+    {
+      "title": "LPL总决赛AL赛事语音",
+      "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 139167,
+      "hot_value": 151628,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E8%A7%A3%E8%AF%B4"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%E6%80%BB%E5%86%B3%E8%B5%9BAL%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
       },
       "raw_titles": [
-        "漫威金刚狼游戏实况解说"
+        "LPL总决赛AL赛事语音"
       ],
-      "rank": 17,
-      "movie_rank": 6
+      "rank": 21,
+      "sports_rank": 14
     },
     {
-      "title": "阿森纳各赛事6连胜",
+      "title": "美国歌手遭枪杀车辆被打成马蜂窝",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 144479,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%AD%8C%E6%89%8B%E9%81%AD%E6%9E%AA%E6%9D%80%E8%BD%A6%E8%BE%86%E8%A2%AB%E6%89%93%E6%88%90%E9%A9%AC%E8%9C%82%E7%AA%9D"
+      },
+      "raw_titles": [
+        "美国歌手遭枪杀车辆被打成马蜂窝"
+      ],
+      "rank": 22,
+      "movie_rank": 8
+    },
+    {
+      "title": "外媒称姆巴佩登贝莱因争金球奖闹翻",
+      "category": "综合",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 137295,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%AA%92%E7%A7%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%9B%A0%E4%BA%89%E9%87%91%E7%90%83%E5%A5%96%E9%97%B9%E7%BF%BB"
+      },
+      "raw_titles": [
+        "外媒称姆巴佩登贝莱因争金球奖闹翻"
+      ],
+      "rank": 23,
+      "sports_rank": 15,
+      "movie_rank": 9
+    },
+    {
+      "title": "央视拿下日本名古屋亚运会主转播权",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 135000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%90%84%E8%B5%9B%E4%BA%8B6%E8%BF%9E%E8%83%9C&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%8B%BF%E4%B8%8B%E6%97%A5%E6%9C%AC%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E8%BD%AC%E6%92%AD%E6%9D%83&sa=fyb_news"
       },
       "raw_titles": [
-        "阿森纳各赛事6连胜"
+        "央视拿下日本名古屋亚运会主转播权"
       ],
-      "rank": 18,
-      "sports_rank": 12
+      "rank": 24,
+      "sports_rank": 16
+    },
+    {
+      "title": "亚运会 王楚钦“一老带四新”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A+%E7%8E%8B%E6%A5%9A%E9%92%A6%E2%80%9C%E4%B8%80%E8%80%81%E5%B8%A6%E5%9B%9B%E6%96%B0%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚运会 王楚钦“一老带四新”"
+      ],
+      "rank": 25,
+      "sports_rank": 17
     }
   ],
   "sports": [
+    {
+      "title": "赵家驹巨人之旅破纪录夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 12106986,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "赵家驹巨人之旅破纪录夺冠"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "西甲埃尔切2:3皇家马德里",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 11954843,
+      "hot_value": 9400034,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A5%BF%E7%94%B2%E5%9F%83%E5%B0%94%E5%88%872%3A3%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C"
       },
       "raw_titles": [
         "西甲埃尔切2:3皇家马德里"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "伊普斯维奇2:4阿森纳",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 10992289,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%872%3A4%E9%98%BF%E6%A3%AE%E7%BA%B3"
-      },
-      "raw_titles": [
-        "伊普斯维奇2:4阿森纳"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -335,97 +448,97 @@
       "sources": [
         "微博",
         "微博",
-        "百度"
+        "抖音"
       ],
-      "hot_value": 961856,
+      "hot_value": 8140342,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A",
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%87%BA%E5%BE%81%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A&sa=fyb_news"
+        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E4%BB%8A%E6%97%A5%E5%87%BA%E5%BE%81%E4%BA%9A%E8%BF%90%E4%BC%9A"
       },
       "raw_titles": [
         "国乒出征亚运会大合影"
       ],
-      "rank": 4,
+      "rank": 3,
       "sports_rank": 3
     },
     {
-      "title": "亚运会 王楚钦“一老带四新”",
+      "title": "伊普斯维奇2:4阿森纳",
       "category": "体育",
       "sources": [
-        "百度"
+        "抖音"
       ],
-      "hot_value": 423000,
+      "hot_value": 7718832,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A+%E7%8E%8B%E6%A5%9A%E9%92%A6%E2%80%9C%E4%B8%80%E8%80%81%E5%B8%A6%E5%9B%9B%E6%96%B0%E2%80%9D&sa=fyb_news"
+        "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%872%3A4%E9%98%BF%E6%A3%AE%E7%BA%B3"
       },
       "raw_titles": [
-        "亚运会 王楚钦“一老带四新”"
+        "伊普斯维奇2:4阿森纳"
       ],
       "rank": 5,
       "sports_rank": 4
     },
     {
-      "title": "央视拿下日本名古屋亚运会主转播权",
+      "title": "王楚钦回应三战亚运",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 378000,
+      "hot_value": 1247724,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%8B%BF%E4%B8%8B%E6%97%A5%E6%9C%AC%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E8%BD%AC%E6%92%AD%E6%9D%83&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%94%E4%B8%89%E6%88%98%E4%BA%9A%E8%BF%90"
       },
       "raw_titles": [
-        "央视拿下日本名古屋亚运会主转播权"
+        "王楚钦回应三战亚运"
       ],
-      "rank": 7,
+      "rank": 6,
       "sports_rank": 5
     },
     {
-      "title": "开学第一堂体育课对话库里",
+      "title": "我国火箭单次海上发射载荷重量创新高",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 255008,
+      "hot_value": 353067,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A0%82%E4%BD%93%E8%82%B2%E8%AF%BE%E5%AF%B9%E8%AF%9D%E5%BA%93%E9%87%8C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%8D%95%E6%AC%A1%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E8%BD%BD%E8%8D%B7%E9%87%8D%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98"
       },
       "raw_titles": [
-        "开学第一堂体育课对话库里"
+        "我国火箭单次海上发射载荷重量创新高"
       ],
-      "rank": 9,
+      "rank": 8,
       "sports_rank": 6
     },
     {
-      "title": "皇马客场3-2绝杀埃尔切",
+      "title": "马德里讨论F1赛道修改方案",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 246040,
+      "hot_value": 279984,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%A2%E5%9C%BA3-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%BE%B7%E9%87%8C%E8%AE%A8%E8%AE%BAF1%E8%B5%9B%E9%81%93%E4%BF%AE%E6%94%B9%E6%96%B9%E6%A1%88"
       },
       "raw_titles": [
-        "皇马客场3-2绝杀埃尔切"
+        "马德里讨论F1赛道修改方案"
       ],
-      "rank": 11,
+      "rank": 10,
       "sports_rank": 7
     },
     {
-      "title": "亚运会三大球前瞻",
+      "title": "孙颖莎 国乒",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 216673,
+      "hot_value": 279444,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%89%E5%A4%A7%E7%90%83%E5%89%8D%E7%9E%BB"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E5%9B%BD%E4%B9%92"
       },
       "raw_titles": [
-        "亚运会三大球前瞻"
+        "孙颖莎 国乒"
       ],
-      "rank": 12,
+      "rank": 11,
       "sports_rank": 8
     },
     {
@@ -434,31 +547,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 140013,
+      "hot_value": 234187,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%81%94%E6%9D%AF%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%83%AD%E5%88%BA"
       },
       "raw_titles": [
         "英联杯利物浦3-1热刺"
       ],
-      "rank": 14,
+      "rank": 15,
       "sports_rank": 9
     },
     {
-      "title": "LPL总决赛AL赛事语音",
+      "title": "皇马客场3-2绝杀埃尔切",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 140002,
+      "hot_value": 231625,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%E6%80%BB%E5%86%B3%E8%B5%9BAL%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%A2%E5%9C%BA3-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87"
       },
       "raw_titles": [
-        "LPL总决赛AL赛事语音"
+        "皇马客场3-2绝杀埃尔切"
       ],
-      "rank": 15,
+      "rank": 16,
       "sports_rank": 10
+    },
+    {
+      "title": "亚运会三大球前瞻",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 231360,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%89%E5%A4%A7%E7%90%83%E5%89%8D%E7%9E%BB"
+      },
+      "raw_titles": [
+        "亚运会三大球前瞻"
+      ],
+      "rank": 17,
+      "sports_rank": 11
     },
     {
       "title": "LCK季后赛全位置数据雷达图",
@@ -466,31 +595,96 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 139985,
+      "hot_value": 194363,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=LCK%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%85%A8%E4%BD%8D%E7%BD%AE%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE"
       },
       "raw_titles": [
         "LCK季后赛全位置数据雷达图"
       ],
-      "rank": 16,
-      "sports_rank": 11
+      "rank": 18,
+      "sports_rank": 12
     },
     {
-      "title": "阿森纳各赛事6连胜",
+      "title": "C罗球队亚冠0比4惨败",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 189974,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%90%83%E9%98%9F%E4%BA%9A%E5%86%A00%E6%AF%944%E6%83%A8%E8%B4%A5"
+      },
+      "raw_titles": [
+        "C罗球队亚冠0比4惨败"
+      ],
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "LPL总决赛AL赛事语音",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 151628,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%E6%80%BB%E5%86%B3%E8%B5%9BAL%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
+      },
+      "raw_titles": [
+        "LPL总决赛AL赛事语音"
+      ],
+      "rank": 21,
+      "sports_rank": 14
+    },
+    {
+      "title": "外媒称姆巴佩登贝莱因争金球奖闹翻",
+      "category": "综合",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 137295,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%AA%92%E7%A7%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%9B%A0%E4%BA%89%E9%87%91%E7%90%83%E5%A5%96%E9%97%B9%E7%BF%BB"
+      },
+      "raw_titles": [
+        "外媒称姆巴佩登贝莱因争金球奖闹翻"
+      ],
+      "rank": 23,
+      "sports_rank": 15,
+      "movie_rank": 9
+    },
+    {
+      "title": "央视拿下日本名古屋亚运会主转播权",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 135000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%90%84%E8%B5%9B%E4%BA%8B6%E8%BF%9E%E8%83%9C&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%8B%BF%E4%B8%8B%E6%97%A5%E6%9C%AC%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E8%BD%AC%E6%92%AD%E6%9D%83&sa=fyb_news"
       },
       "raw_titles": [
-        "阿森纳各赛事6连胜"
+        "央视拿下日本名古屋亚运会主转播权"
       ],
-      "rank": 18,
-      "sports_rank": 12
+      "rank": 24,
+      "sports_rank": 16
+    },
+    {
+      "title": "亚运会 王楚钦“一老带四新”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A+%E7%8E%8B%E6%A5%9A%E9%92%A6%E2%80%9C%E4%B8%80%E8%80%81%E5%B8%A6%E5%9B%9B%E6%96%B0%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚运会 王楚钦“一老带四新”"
+      ],
+      "rank": 25,
+      "sports_rank": 17
     }
   ],
   "movies": [
@@ -500,47 +694,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7665767,
+      "hot_value": 7728062,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B"
       },
       "raw_titles": [
         "电影生化危机爆发夜确认引进"
       ],
-      "rank": 3,
+      "rank": 4,
       "movie_rank": 1
     },
     {
-      "title": "周星驰御用配角成功应聘景区NPC",
+      "title": "影院不再只放电影",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 405000,
+      "hot_value": 441000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E8%A7%92%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%BD%B1%E9%99%A2%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%94%BE%E7%94%B5%E5%BD%B1&sa=fyb_news"
       },
       "raw_titles": [
-        "周星驰御用配角成功应聘景区NPC"
+        "影院不再只放电影"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 2
-    },
-    {
-      "title": "谭松韵10年4部爆款剧",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 350367,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B510%E5%B9%B44%E9%83%A8%E7%88%86%E6%AC%BE%E5%89%A7"
-      },
-      "raw_titles": [
-        "谭松韵10年4部爆款剧"
-      ],
-      "rank": 8,
-      "movie_rank": 3
     },
     {
       "title": "漫威金刚狼获IGN6分",
@@ -548,47 +726,112 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 254512,
+      "hot_value": 320530,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E8%8E%B7IGN6%E5%88%86"
       },
       "raw_titles": [
         "漫威金刚狼获IGN6分"
       ],
-      "rank": 10,
-      "movie_rank": 4
+      "rank": 9,
+      "movie_rank": 3
     },
     {
-      "title": "范丞丞章若楠双向催更",
+      "title": "田曦薇魏大勋海报",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 155634,
+      "hot_value": 279058,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%8F%8C%E5%90%91%E5%82%AC%E6%9B%B4"
+        "微博": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%B5%B7%E6%8A%A5"
       },
       "raw_titles": [
-        "范丞丞章若楠双向催更"
+        "田曦薇魏大勋海报"
+      ],
+      "rank": 12,
+      "movie_rank": 4
+    },
+    {
+      "title": "电影神探之痕迹定档",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 274215,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%AE%9A%E6%A1%A3"
+      },
+      "raw_titles": [
+        "电影神探之痕迹定档"
       ],
       "rank": 13,
       "movie_rank": 5
     },
     {
-      "title": "漫威金刚狼游戏实况解说",
+      "title": "周星驰御用配角成功应聘景区NPC",
       "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E8%A7%92%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
+      },
+      "raw_titles": [
+        "周星驰御用配角成功应聘景区NPC"
+      ],
+      "rank": 14,
+      "movie_rank": 6
+    },
+    {
+      "title": "谭松韵10年4部爆款剧",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 187583,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B510%E5%B9%B44%E9%83%A8%E7%88%86%E6%AC%BE%E5%89%A7"
+      },
+      "raw_titles": [
+        "谭松韵10年4部爆款剧"
+      ],
+      "rank": 20,
+      "movie_rank": 7
+    },
+    {
+      "title": "美国歌手遭枪杀车辆被打成马蜂窝",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 144479,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%AD%8C%E6%89%8B%E9%81%AD%E6%9E%AA%E6%9D%80%E8%BD%A6%E8%BE%86%E8%A2%AB%E6%89%93%E6%88%90%E9%A9%AC%E8%9C%82%E7%AA%9D"
+      },
+      "raw_titles": [
+        "美国歌手遭枪杀车辆被打成马蜂窝"
+      ],
+      "rank": 22,
+      "movie_rank": 8
+    },
+    {
+      "title": "外媒称姆巴佩登贝莱因争金球奖闹翻",
+      "category": "综合",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 139167,
+      "hot_value": 137295,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E8%A7%A3%E8%AF%B4"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%AA%92%E7%A7%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%9B%A0%E4%BA%89%E9%87%91%E7%90%83%E5%A5%96%E9%97%B9%E7%BF%BB"
       },
       "raw_titles": [
-        "漫威金刚狼游戏实况解说"
+        "外媒称姆巴佩登贝莱因争金球奖闹翻"
       ],
-      "rank": 17,
-      "movie_rank": 6
+      "rank": 23,
+      "sports_rank": 15,
+      "movie_rank": 9
     }
   ]
 }
