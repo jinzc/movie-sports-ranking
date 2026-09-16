@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-09-16 08:00:50",
-  "total": 13,
-  "sports_count": 6,
-  "movie_count": 8,
+  "update_time": "2026-09-16 09:00:55",
+  "total": 17,
+  "sports_count": 11,
+  "movie_count": 7,
   "all": [
     {
       "title": "伊普斯维奇2:4阿森纳",
@@ -10,7 +10,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10538943,
+      "hot_value": 11160032,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%872%3A4%E9%98%BF%E6%A3%AE%E7%BA%B3"
       },
@@ -21,17 +21,17 @@
       "sports_rank": 1
     },
     {
-      "title": "名古屋亚运会国乒参赛名单公布",
+      "title": "西甲埃尔切2:3皇家马德里",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8604713,
+      "hot_value": 10546613,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%BD%E4%B9%92%E5%8F%82%E8%B5%9B%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
+        "抖音": "https://www.douyin.com/search/%E8%A5%BF%E7%94%B2%E5%9F%83%E5%B0%94%E5%88%872%3A3%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C"
       },
       "raw_titles": [
-        "名古屋亚运会国乒参赛名单公布"
+        "西甲埃尔切2:3皇家马德里"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -42,7 +42,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7715519,
+      "hot_value": 7756181,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B"
       },
@@ -53,38 +53,94 @@
       "movie_rank": 1
     },
     {
+      "title": "王一博条纹裤黑衬衫腔调拉满",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7710372,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%A1%E7%BA%B9%E8%A3%A4%E9%BB%91%E8%A1%AC%E8%A1%AB%E8%85%94%E8%B0%83%E6%8B%89%E6%BB%A1"
+      },
+      "raw_titles": [
+        "王一博条纹裤黑衬衫腔调拉满"
+      ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "漫威金刚狼获IGN6分",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1382960,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E8%8E%B7IGN6%E5%88%86"
+      },
+      "raw_titles": [
+        "漫威金刚狼获IGN6分"
+      ],
+      "rank": 5,
+      "movie_rank": 3
+    },
+    {
+      "title": "亚运会",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博",
+        "百度",
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1328127,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%87%BA%E5%BE%81%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A4%A7%E5%90%88%E5%BD%B1",
+        "百度": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%8B%BF%E4%B8%8B%E6%97%A5%E6%9C%AC%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E8%BD%AC%E6%92%AD%E6%9D%83&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%89%E5%A4%A7%E7%90%83%E5%89%8D%E7%9E%BB"
+      },
+      "raw_titles": [
+        "亚运会"
+      ],
+      "rank": 6,
+      "sports_rank": 3
+    },
+    {
       "title": "皇马3比2绝杀埃尔切",
       "category": "体育",
       "sources": [
         "微博",
-        "百度"
+        "百度",
+        "哔哩哔哩"
       ],
-      "hot_value": 276041,
+      "hot_value": 601501,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC3%E6%AF%942%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87",
-        "百度": "https://m.baidu.com/s?word=%E7%9A%87%E9%A9%AC3%E6%AF%942%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%9A%87%E9%A9%AC3%E6%AF%942%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%A2%E5%9C%BA3-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87"
       },
       "raw_titles": [
         "皇马3比2绝杀埃尔切"
       ],
-      "rank": 4,
-      "sports_rank": 3
+      "rank": 7,
+      "sports_rank": 4
     },
     {
-      "title": "网传刘亦菲陈晓咸雪导演伊峥",
-      "category": "影视",
+      "title": "英联杯利物浦3-1热刺",
+      "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 188156,
+      "hot_value": 564745,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%88%98%E4%BA%A6%E8%8F%B2%E9%99%88%E6%99%93%E5%92%B8%E9%9B%AA%E5%AF%BC%E6%BC%94%E4%BC%8A%E5%B3%A5"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%81%94%E6%9D%AF%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%83%AD%E5%88%BA"
       },
       "raw_titles": [
-        "网传刘亦菲陈晓咸雪导演伊峥"
+        "英联杯利物浦3-1热刺"
       ],
-      "rank": 5,
-      "movie_rank": 2
+      "rank": 8,
+      "sports_rank": 5
     },
     {
       "title": "谭松韵10年4部爆款剧",
@@ -92,63 +148,63 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 173758,
+      "hot_value": 470565,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B510%E5%B9%B44%E9%83%A8%E7%88%86%E6%AC%BE%E5%89%A7"
       },
       "raw_titles": [
         "谭松韵10年4部爆款剧"
       ],
-      "rank": 6,
-      "movie_rank": 3
-    },
-    {
-      "title": "兰香如故爆款",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 124754,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%88%86%E6%AC%BE"
-      },
-      "raw_titles": [
-        "兰香如故爆款"
-      ],
-      "rank": 7,
+      "rank": 9,
       "movie_rank": 4
     },
     {
-      "title": "吴慷仁祝贺女友邵雨薇入围金钟视后",
-      "category": "影视",
+      "title": "开学第一堂体育课对话库里",
+      "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 118319,
+      "hot_value": 347432,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E6%85%B7%E4%BB%81%E7%A5%9D%E8%B4%BA%E5%A5%B3%E5%8F%8B%E9%82%B5%E9%9B%A8%E8%96%87%E5%85%A5%E5%9B%B4%E9%87%91%E9%92%9F%E8%A7%86%E5%90%8E"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A0%82%E4%BD%93%E8%82%B2%E8%AF%BE%E5%AF%B9%E8%AF%9D%E5%BA%93%E9%87%8C"
       },
       "raw_titles": [
-        "吴慷仁祝贺女友邵雨薇入围金钟视后"
+        "开学第一堂体育课对话库里"
       ],
-      "rank": 8,
-      "movie_rank": 5
+      "rank": 10,
+      "sports_rank": 6
     },
     {
-      "title": "范丞丞祝白敬亭战争和人拍摄顺利",
-      "category": "影视",
+      "title": "亚运赛场上的中国力量",
+      "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 70376,
+      "hot_value": 235810,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%A5%9D%E7%99%BD%E6%95%AC%E4%BA%AD%E6%88%98%E4%BA%89%E5%92%8C%E4%BA%BA%E6%8B%8D%E6%91%84%E9%A1%BA%E5%88%A9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F"
       },
       "raw_titles": [
-        "范丞丞祝白敬亭战争和人拍摄顺利"
+        "亚运赛场上的中国力量"
       ],
-      "rank": 9,
-      "movie_rank": 6
+      "rank": 11,
+      "sports_rank": 7
+    },
+    {
+      "title": "F1西班牙站正赛无线电复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 216534,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E8%A5%BF%E7%8F%AD%E7%89%99%E7%AB%99%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "F1西班牙站正赛无线电复盘"
+      ],
+      "rank": 12,
+      "sports_rank": 8
     },
     {
       "title": "外媒称姆巴佩登贝莱因争金球奖闹翻",
@@ -156,16 +212,32 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 66312,
+      "hot_value": 216531,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%AA%92%E7%A7%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%9B%A0%E4%BA%89%E9%87%91%E7%90%83%E5%A5%96%E9%97%B9%E7%BF%BB"
       },
       "raw_titles": [
         "外媒称姆巴佩登贝莱因争金球奖闹翻"
       ],
-      "rank": 10,
-      "sports_rank": 4,
-      "movie_rank": 7
+      "rank": 13,
+      "sports_rank": 9,
+      "movie_rank": 5
+    },
+    {
+      "title": "引力一号遥三运载火箭发射成功",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 216000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BC%95%E5%8A%9B%E4%B8%80%E5%8F%B7%E9%81%A5%E4%B8%89%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&sa=fyb_news"
+      },
+      "raw_titles": [
+        "引力一号遥三运载火箭发射成功"
+      ],
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "漫威金刚狼游戏实况解说",
@@ -173,15 +245,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 66280,
+      "hot_value": 215898,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E8%A7%A3%E8%AF%B4"
       },
       "raw_titles": [
         "漫威金刚狼游戏实况解说"
       ],
-      "rank": 11,
-      "movie_rank": 8
+      "rank": 15,
+      "movie_rank": 6
     },
     {
       "title": "LPL总决赛AL赛事语音",
@@ -189,31 +261,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 65997,
+      "hot_value": 214284,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%E6%80%BB%E5%86%B3%E8%B5%9BAL%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
       },
       "raw_titles": [
         "LPL总决赛AL赛事语音"
       ],
-      "rank": 12,
-      "sports_rank": 5
+      "rank": 16,
+      "sports_rank": 11
     },
     {
-      "title": "LCK季后赛全位置数据雷达图",
-      "category": "体育",
+      "title": "网传刘亦菲陈晓咸雪导演伊峥",
+      "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 61535,
+      "hot_value": 167941,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LCK%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%85%A8%E4%BD%8D%E7%BD%AE%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE"
+        "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%88%98%E4%BA%A6%E8%8F%B2%E9%99%88%E6%99%93%E5%92%B8%E9%9B%AA%E5%AF%BC%E6%BC%94%E4%BC%8A%E5%B3%A5"
       },
       "raw_titles": [
-        "LCK季后赛全位置数据雷达图"
+        "网传刘亦菲陈晓咸雪导演伊峥"
       ],
-      "rank": 13,
-      "sports_rank": 6
+      "rank": 17,
+      "movie_rank": 7
     }
   ],
   "sports": [
@@ -223,7 +295,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10538943,
+      "hot_value": 11160032,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%872%3A4%E9%98%BF%E6%A3%AE%E7%BA%B3"
       },
@@ -234,38 +306,126 @@
       "sports_rank": 1
     },
     {
-      "title": "名古屋亚运会国乒参赛名单公布",
+      "title": "西甲埃尔切2:3皇家马德里",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8604713,
+      "hot_value": 10546613,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%BD%E4%B9%92%E5%8F%82%E8%B5%9B%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
+        "抖音": "https://www.douyin.com/search/%E8%A5%BF%E7%94%B2%E5%9F%83%E5%B0%94%E5%88%872%3A3%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C"
       },
       "raw_titles": [
-        "名古屋亚运会国乒参赛名单公布"
+        "西甲埃尔切2:3皇家马德里"
       ],
       "rank": 2,
       "sports_rank": 2
+    },
+    {
+      "title": "亚运会",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博",
+        "百度",
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1328127,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%87%BA%E5%BE%81%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A4%A7%E5%90%88%E5%BD%B1",
+        "百度": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%8B%BF%E4%B8%8B%E6%97%A5%E6%9C%AC%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E8%BD%AC%E6%92%AD%E6%9D%83&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%89%E5%A4%A7%E7%90%83%E5%89%8D%E7%9E%BB"
+      },
+      "raw_titles": [
+        "亚运会"
+      ],
+      "rank": 6,
+      "sports_rank": 3
     },
     {
       "title": "皇马3比2绝杀埃尔切",
       "category": "体育",
       "sources": [
         "微博",
-        "百度"
+        "百度",
+        "哔哩哔哩"
       ],
-      "hot_value": 276041,
+      "hot_value": 601501,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC3%E6%AF%942%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87",
-        "百度": "https://m.baidu.com/s?word=%E7%9A%87%E9%A9%AC3%E6%AF%942%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%9A%87%E9%A9%AC3%E6%AF%942%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%A2%E5%9C%BA3-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%B0%94%E5%88%87"
       },
       "raw_titles": [
         "皇马3比2绝杀埃尔切"
       ],
-      "rank": 4,
-      "sports_rank": 3
+      "rank": 7,
+      "sports_rank": 4
+    },
+    {
+      "title": "英联杯利物浦3-1热刺",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 564745,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%81%94%E6%9D%AF%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%83%AD%E5%88%BA"
+      },
+      "raw_titles": [
+        "英联杯利物浦3-1热刺"
+      ],
+      "rank": 8,
+      "sports_rank": 5
+    },
+    {
+      "title": "开学第一堂体育课对话库里",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 347432,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A0%82%E4%BD%93%E8%82%B2%E8%AF%BE%E5%AF%B9%E8%AF%9D%E5%BA%93%E9%87%8C"
+      },
+      "raw_titles": [
+        "开学第一堂体育课对话库里"
+      ],
+      "rank": 10,
+      "sports_rank": 6
+    },
+    {
+      "title": "亚运赛场上的中国力量",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 235810,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F"
+      },
+      "raw_titles": [
+        "亚运赛场上的中国力量"
+      ],
+      "rank": 11,
+      "sports_rank": 7
+    },
+    {
+      "title": "F1西班牙站正赛无线电复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 216534,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E8%A5%BF%E7%8F%AD%E7%89%99%E7%AB%99%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "F1西班牙站正赛无线电复盘"
+      ],
+      "rank": 12,
+      "sports_rank": 8
     },
     {
       "title": "外媒称姆巴佩登贝莱因争金球奖闹翻",
@@ -273,16 +433,32 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 66312,
+      "hot_value": 216531,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%AA%92%E7%A7%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%9B%A0%E4%BA%89%E9%87%91%E7%90%83%E5%A5%96%E9%97%B9%E7%BF%BB"
       },
       "raw_titles": [
         "外媒称姆巴佩登贝莱因争金球奖闹翻"
       ],
-      "rank": 10,
-      "sports_rank": 4,
-      "movie_rank": 7
+      "rank": 13,
+      "sports_rank": 9,
+      "movie_rank": 5
+    },
+    {
+      "title": "引力一号遥三运载火箭发射成功",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 216000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BC%95%E5%8A%9B%E4%B8%80%E5%8F%B7%E9%81%A5%E4%B8%89%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&sa=fyb_news"
+      },
+      "raw_titles": [
+        "引力一号遥三运载火箭发射成功"
+      ],
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "LPL总决赛AL赛事语音",
@@ -290,31 +466,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 65997,
+      "hot_value": 214284,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%E6%80%BB%E5%86%B3%E8%B5%9BAL%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
       },
       "raw_titles": [
         "LPL总决赛AL赛事语音"
       ],
-      "rank": 12,
-      "sports_rank": 5
-    },
-    {
-      "title": "LCK季后赛全位置数据雷达图",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 61535,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LCK%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%85%A8%E4%BD%8D%E7%BD%AE%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE"
-      },
-      "raw_titles": [
-        "LCK季后赛全位置数据雷达图"
-      ],
-      "rank": 13,
-      "sports_rank": 6
+      "rank": 16,
+      "sports_rank": 11
     }
   ],
   "movies": [
@@ -324,7 +484,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7715519,
+      "hot_value": 7756181,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B"
       },
@@ -335,20 +495,36 @@
       "movie_rank": 1
     },
     {
-      "title": "网传刘亦菲陈晓咸雪导演伊峥",
+      "title": "王一博条纹裤黑衬衫腔调拉满",
       "category": "影视",
       "sources": [
-        "微博"
+        "抖音"
       ],
-      "hot_value": 188156,
+      "hot_value": 7710372,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%88%98%E4%BA%A6%E8%8F%B2%E9%99%88%E6%99%93%E5%92%B8%E9%9B%AA%E5%AF%BC%E6%BC%94%E4%BC%8A%E5%B3%A5"
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%A1%E7%BA%B9%E8%A3%A4%E9%BB%91%E8%A1%AC%E8%A1%AB%E8%85%94%E8%B0%83%E6%8B%89%E6%BB%A1"
       },
       "raw_titles": [
-        "网传刘亦菲陈晓咸雪导演伊峥"
+        "王一博条纹裤黑衬衫腔调拉满"
+      ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "漫威金刚狼获IGN6分",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1382960,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E8%8E%B7IGN6%E5%88%86"
+      },
+      "raw_titles": [
+        "漫威金刚狼获IGN6分"
       ],
       "rank": 5,
-      "movie_rank": 2
+      "movie_rank": 3
     },
     {
       "title": "谭松韵10年4部爆款剧",
@@ -356,63 +532,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 173758,
+      "hot_value": 470565,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B510%E5%B9%B44%E9%83%A8%E7%88%86%E6%AC%BE%E5%89%A7"
       },
       "raw_titles": [
         "谭松韵10年4部爆款剧"
       ],
-      "rank": 6,
-      "movie_rank": 3
-    },
-    {
-      "title": "兰香如故爆款",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 124754,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%88%86%E6%AC%BE"
-      },
-      "raw_titles": [
-        "兰香如故爆款"
-      ],
-      "rank": 7,
-      "movie_rank": 4
-    },
-    {
-      "title": "吴慷仁祝贺女友邵雨薇入围金钟视后",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 118319,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E6%85%B7%E4%BB%81%E7%A5%9D%E8%B4%BA%E5%A5%B3%E5%8F%8B%E9%82%B5%E9%9B%A8%E8%96%87%E5%85%A5%E5%9B%B4%E9%87%91%E9%92%9F%E8%A7%86%E5%90%8E"
-      },
-      "raw_titles": [
-        "吴慷仁祝贺女友邵雨薇入围金钟视后"
-      ],
-      "rank": 8,
-      "movie_rank": 5
-    },
-    {
-      "title": "范丞丞祝白敬亭战争和人拍摄顺利",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 70376,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%A5%9D%E7%99%BD%E6%95%AC%E4%BA%AD%E6%88%98%E4%BA%89%E5%92%8C%E4%BA%BA%E6%8B%8D%E6%91%84%E9%A1%BA%E5%88%A9"
-      },
-      "raw_titles": [
-        "范丞丞祝白敬亭战争和人拍摄顺利"
-      ],
       "rank": 9,
-      "movie_rank": 6
+      "movie_rank": 4
     },
     {
       "title": "外媒称姆巴佩登贝莱因争金球奖闹翻",
@@ -420,16 +548,16 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 66312,
+      "hot_value": 216531,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%AA%92%E7%A7%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%9B%A0%E4%BA%89%E9%87%91%E7%90%83%E5%A5%96%E9%97%B9%E7%BF%BB"
       },
       "raw_titles": [
         "外媒称姆巴佩登贝莱因争金球奖闹翻"
       ],
-      "rank": 10,
-      "sports_rank": 4,
-      "movie_rank": 7
+      "rank": 13,
+      "sports_rank": 9,
+      "movie_rank": 5
     },
     {
       "title": "漫威金刚狼游戏实况解说",
@@ -437,15 +565,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 66280,
+      "hot_value": 215898,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E8%A7%A3%E8%AF%B4"
       },
       "raw_titles": [
         "漫威金刚狼游戏实况解说"
       ],
-      "rank": 11,
-      "movie_rank": 8
+      "rank": 15,
+      "movie_rank": 6
+    },
+    {
+      "title": "网传刘亦菲陈晓咸雪导演伊峥",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 167941,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%88%98%E4%BA%A6%E8%8F%B2%E9%99%88%E6%99%93%E5%92%B8%E9%9B%AA%E5%AF%BC%E6%BC%94%E4%BC%8A%E5%B3%A5"
+      },
+      "raw_titles": [
+        "网传刘亦菲陈晓咸雪导演伊峥"
+      ],
+      "rank": 17,
+      "movie_rank": 7
     }
   ]
 }
