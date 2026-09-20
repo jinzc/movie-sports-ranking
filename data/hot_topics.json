@@ -1,24 +1,88 @@
 {
-  "update_time": "2026-09-20 17:00:45",
-  "total": 32,
-  "sports_count": 22,
-  "movie_count": 10,
+  "update_time": "2026-09-20 18:00:47",
+  "total": 29,
+  "sports_count": 20,
+  "movie_count": 9,
   "all": [
+    {
+      "title": "潘展乐男子100米自由泳卫冕夺金",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 13169550,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%BD%98%E5%B1%95%E4%B9%90%E7%94%B7%E5%AD%90100%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E5%8D%AB%E5%86%95%E5%A4%BA%E9%87%91&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%BD%98%E5%B1%95%E4%B9%90100%E7%B1%B3%E8%87%AA%E5%A4%BA%E5%86%A0",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BD%98%E5%B1%95%E4%B9%90100%E7%B1%B3%E8%87%AA%E5%8D%AB%E5%86%95"
+      },
+      "raw_titles": [
+        "潘展乐男子100米自由泳卫冕夺金"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "亚运会",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博",
+        "微博",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "抖音",
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 10890899,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A5%96%E7%89%8C%E6%A6%9C",
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%80%89%E6%89%8B%E9%A4%90%E4%BB%853%E5%9D%97%E9%B8%A1%E8%82%89&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9C%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8Fbelike",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "亚运会"
+      ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "中国男篮不敌伊朗无缘亚运铜牌",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 10477495,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C"
+      },
+      "raw_titles": [
+        "中国男篮不敌伊朗无缘亚运铜牌"
+      ],
+      "rank": 3,
+      "sports_rank": 3
+    },
     {
       "title": "中国队2026亚运首金",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10414286,
+      "hot_value": 9320039,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F2026%E4%BA%9A%E8%BF%90%E9%A6%96%E9%87%91"
       },
       "raw_titles": [
         "中国队2026亚运首金"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "创大偶遇火影萌黄太可爱了",
@@ -26,14 +90,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10357599,
+      "hot_value": 9278506,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%88%9B%E5%A4%A7%E5%81%B6%E9%81%87%E7%81%AB%E5%BD%B1%E8%90%8C%E9%BB%84%E5%A4%AA%E5%8F%AF%E7%88%B1%E4%BA%86"
       },
       "raw_titles": [
         "创大偶遇火影萌黄太可爱了"
       ],
-      "rank": 2,
+      "rank": 5,
       "movie_rank": 1
     },
     {
@@ -42,81 +106,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9261767,
+      "hot_value": 7832029,
       "urls": {
         "抖音": "https://www.douyin.com/search/UFC331%E7%BA%A6%E4%B9%A6%E4%BA%9A%E5%A4%BA%E8%9D%87%E9%87%8F%E7%BA%A7%E5%86%A0%E5%86%9B"
       },
       "raw_titles": [
         "UFC331约书亚夺蝇量级冠军"
       ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
-      "title": "我看亚运会开幕式belike",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9113590,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9C%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8Fbelike"
-      },
-      "raw_titles": [
-        "我看亚运会开幕式belike"
-      ],
-      "rank": 4,
-      "sports_rank": 3
-    },
-    {
-      "title": "布莱顿3:0完胜阿森纳",
-      "category": "体育",
-      "sources": [
-        "抖音",
-        "哔哩哔哩"
-      ],
-      "hot_value": 8331892,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%B8%83%E8%8E%B1%E9%A1%BF3%3A0%E5%AE%8C%E8%83%9C%E9%98%BF%E6%A3%AE%E7%BA%B3",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E8%8E%B1%E9%A1%BF%E5%AE%8C%E8%83%9C%E9%98%BF%E6%A3%AE%E7%BA%B3%E6%88%98%E6%9C%AF%E5%A4%8D%E7%9B%98"
-      },
-      "raw_titles": [
-        "布莱顿3:0完胜阿森纳"
-      ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "潘展乐晋级100米自由泳决赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7803327,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%BD%98%E5%B1%95%E4%B9%90%E6%99%8B%E7%BA%A7100%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "潘展乐晋级100米自由泳决赛"
-      ],
       "rank": 6,
       "sports_rank": 5
-    },
-    {
-      "title": "猛龙为洛瑞打造专属雕像",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7770298,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8C%9B%E9%BE%99%E4%B8%BA%E6%B4%9B%E7%91%9E%E6%89%93%E9%80%A0%E4%B8%93%E5%B1%9E%E9%9B%95%E5%83%8F"
-      },
-      "raw_titles": [
-        "猛龙为洛瑞打造专属雕像"
-      ],
-      "rank": 7,
-      "sports_rank": 6
     },
     {
       "title": "电影重生2定档",
@@ -124,15 +122,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7750118,
+      "hot_value": 7822443,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E9%87%8D%E7%94%9F2%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "电影重生2定档"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 2
+    },
+    {
+      "title": "布莱顿3:0完胜阿森纳",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7789397,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B8%83%E8%8E%B1%E9%A1%BF3%3A0%E5%AE%8C%E8%83%9C%E9%98%BF%E6%A3%AE%E7%BA%B3"
+      },
+      "raw_titles": [
+        "布莱顿3:0完胜阿森纳"
+      ],
+      "rank": 8,
+      "sports_rank": 6
     },
     {
       "title": "歌手许嵩官宣结婚",
@@ -140,7 +154,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7733281,
+      "hot_value": 7742527,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E8%AE%B8%E5%B5%A9%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A"
       },
@@ -156,7 +170,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7711732,
+      "hot_value": 7729016,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E6%80%9D%E8%AF%9A%E6%96%B0%E7%94%B5%E5%BD%B1%E9%98%B5%E5%AE%B9%E6%A2%A6%E5%9B%9E%E5%A3%AB%E5%85%B5%E7%AA%81%E5%87%BB"
       },
@@ -167,13 +181,45 @@
       "movie_rank": 4
     },
     {
+      "title": "潘展乐反超夺金",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 2969941,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90%E5%8F%8D%E8%B6%85%E5%A4%BA%E9%87%91"
+      },
+      "raw_titles": [
+        "潘展乐反超夺金"
+      ],
+      "rank": 11,
+      "sports_rank": 7
+    },
+    {
+      "title": "中国男篮亚运无缘奖牌",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1924455,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%9A%E8%BF%90%E6%97%A0%E7%BC%98%E5%A5%96%E7%89%8C"
+      },
+      "raw_titles": [
+        "中国男篮亚运无缘奖牌"
+      ],
+      "rank": 12,
+      "sports_rank": 8
+    },
+    {
       "title": "中国亚运男足0比0伊朗",
       "category": "体育",
       "sources": [
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 1347152,
+      "hot_value": 1606355,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B30%E6%AF%940%E4%BC%8A%E6%9C%97&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B30-0%E4%BC%8A%E6%9C%97"
@@ -181,43 +227,24 @@
       "raw_titles": [
         "中国亚运男足0比0伊朗"
       ],
-      "rank": 11,
-      "sports_rank": 7
-    },
-    {
-      "title": "名古屋亚运会漏算中国首金",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1079976,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A",
-        "百度": "https://m.baidu.com/s?word=%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%BC%8F%E7%AE%97%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%87%91&sa=fyb_news"
-      },
-      "raw_titles": [
-        "名古屋亚运会漏算中国首金"
-      ],
-      "rank": 12,
-      "sports_rank": 8
-    },
-    {
-      "title": "童心夺亚运武术女子全能金牌",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1074749,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AB%A5%E5%BF%83%E5%A4%BA%E4%BA%9A%E8%BF%90%E6%AD%A6%E6%9C%AF%E5%A5%B3%E5%AD%90%E5%85%A8%E8%83%BD%E9%87%91%E7%89%8C"
-      },
-      "raw_titles": [
-        "童心夺亚运武术女子全能金牌"
-      ],
       "rank": 13,
       "sports_rank": 9
+    },
+    {
+      "title": "起程NBA中国赛2026",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1451994,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B7%E7%A8%8BNBA%E4%B8%AD%E5%9B%BD%E8%B5%9B2026"
+      },
+      "raw_titles": [
+        "起程NBA中国赛2026"
+      ],
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "王曼昱丢首局孙颖莎摇头面露惋惜",
@@ -225,31 +252,49 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 733882,
+      "hot_value": 1014846,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%A2%E9%A6%96%E5%B1%80%E5%AD%99%E9%A2%96%E8%8E%8E%E6%91%87%E5%A4%B4%E9%9D%A2%E9%9C%B2%E6%83%8B%E6%83%9C"
       },
       "raw_titles": [
         "王曼昱丢首局孙颖莎摇头面露惋惜"
       ],
-      "rank": 14,
-      "sports_rank": 10
+      "rank": 15,
+      "sports_rank": 11
     },
     {
-      "title": "中国代表团亚运会第二金",
+      "title": "孙颖莎3比0朱雨玲",
       "category": "体育",
+      "sources": [
+        "微博",
+        "微博",
+        "微博"
+      ],
+      "hot_value": 966759,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9C%B1%E9%9B%A8%E7%8E%B2"
+      },
+      "raw_titles": [
+        "孙颖莎3比0朱雨玲"
+      ],
+      "rank": 16,
+      "sports_rank": 12
+    },
+    {
+      "title": "一次看完漫改职高校园新剧",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 580392,
+      "hot_value": 652333,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AC%AC%E4%BA%8C%E9%87%91"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%AE%8C%E6%BC%AB%E6%94%B9%E8%81%8C%E9%AB%98%E6%A0%A1%E5%9B%AD%E6%96%B0%E5%89%A7"
       },
       "raw_titles": [
-        "中国代表团亚运会第二金"
+        "一次看完漫改职高校园新剧"
       ],
-      "rank": 15,
-      "sports_rank": 11
+      "rank": 17,
+      "movie_rank": 5
     },
     {
       "title": "火影传说三忍大蛇丸全爆料",
@@ -257,47 +302,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 580389,
+      "hot_value": 652322,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E4%BC%A0%E8%AF%B4%E4%B8%89%E5%BF%8D%E5%A4%A7%E8%9B%87%E4%B8%B8%E5%85%A8%E7%88%86%E6%96%99"
       },
       "raw_titles": [
         "火影传说三忍大蛇丸全爆料"
       ],
-      "rank": 16,
-      "movie_rank": 5
-    },
-    {
-      "title": "亚运会韩国赛前错放朝鲜国歌",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 580379,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%9F%A9%E5%9B%BD%E8%B5%9B%E5%89%8D%E9%94%99%E6%94%BE%E6%9C%9D%E9%B2%9C%E5%9B%BD%E6%AD%8C"
-      },
-      "raw_titles": [
-        "亚运会韩国赛前错放朝鲜国歌"
-      ],
-      "rank": 17,
-      "sports_rank": 12
-    },
-    {
-      "title": "中国男篮为何会大比分溃败",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 574481,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%A4%A7%E6%AF%94%E5%88%86%E6%BA%83%E8%B4%A5"
-      },
-      "raw_titles": [
-        "中国男篮为何会大比分溃败"
-      ],
       "rank": 18,
-      "sports_rank": 13
+      "movie_rank": 6
     },
     {
       "title": "重温1990年北京亚运村美食",
@@ -305,7 +318,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 561888,
+      "hot_value": 652318,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%87%8D%E6%B8%A91990%E5%B9%B4%E5%8C%97%E4%BA%AC%E4%BA%9A%E8%BF%90%E6%9D%91%E7%BE%8E%E9%A3%9F"
       },
@@ -313,183 +326,135 @@
         "重温1990年北京亚运村美食"
       ],
       "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "中国男篮为何会大比分溃败",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 652316,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%A4%A7%E6%AF%94%E5%88%86%E6%BA%83%E8%B4%A5"
+      },
+      "raw_titles": [
+        "中国男篮为何会大比分溃败"
+      ],
+      "rank": 20,
       "sports_rank": 14
     },
     {
-      "title": "孙颖莎女团出战",
+      "title": "童心夺亚运武术女子全能金牌",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 507827,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AB%A5%E5%BF%83%E5%A4%BA%E4%BA%9A%E8%BF%90%E6%AD%A6%E6%9C%AF%E5%A5%B3%E5%AD%90%E5%85%A8%E8%83%BD%E9%87%91%E7%89%8C"
+      },
+      "raw_titles": [
+        "童心夺亚运武术女子全能金牌"
+      ],
+      "rank": 21,
+      "sports_rank": 15
+    },
+    {
+      "title": "孙颖莎亚运独得两分",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 454987,
+      "hot_value": 422754,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%B3%E5%9B%A2%E5%87%BA%E6%88%98"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%9A%E8%BF%90%E7%8B%AC%E5%BE%97%E4%B8%A4%E5%88%86"
       },
       "raw_titles": [
-        "孙颖莎女团出战"
-      ],
-      "rank": 20,
-      "sports_rank": 15
-    },
-    {
-      "title": "包贝尔导演的电影值得看吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 432527,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8C%85%E8%B4%9D%E5%B0%94%E5%AF%BC%E6%BC%94%E7%9A%84%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
-      },
-      "raw_titles": [
-        "包贝尔导演的电影值得看吗"
-      ],
-      "rank": 21,
-      "movie_rank": 6
-    },
-    {
-      "title": "于子迪女子200米蝶金牌 破亚运会纪录",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 423000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%8E%E5%AD%90%E8%BF%AA%E5%A5%B3%E5%AD%90200%E7%B1%B3%E8%9D%B6%E9%87%91%E7%89%8C+%E7%A0%B4%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95&sa=fyb_news"
-      },
-      "raw_titles": [
-        "于子迪女子200米蝶金牌 破亚运会纪录"
+        "孙颖莎亚运独得两分"
       ],
       "rank": 22,
       "sports_rank": 16
     },
     {
-      "title": "4岁女孩会三国语言：看动画片学的",
+      "title": "刘昊然选对了新爆款大众T6",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 414000,
+      "hot_value": 355961,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BC%9A%E4%B8%89%E5%9B%BD%E8%AF%AD%E8%A8%80%EF%BC%9A%E7%9C%8B%E5%8A%A8%E7%94%BB%E7%89%87%E5%AD%A6%E7%9A%84&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E9%80%89%E5%AF%B9%E4%BA%86%E6%96%B0%E7%88%86%E6%AC%BE%E5%A4%A7%E4%BC%97T6"
       },
       "raw_titles": [
-        "4岁女孩会三国语言：看动画片学的"
+        "刘昊然选对了新爆款大众T6"
       ],
       "rank": 23,
       "movie_rank": 7
     },
     {
-      "title": "新宝岛但NBA猛男版",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 407552,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%AE%9D%E5%B2%9B%E4%BD%86NBA%E7%8C%9B%E7%94%B7%E7%89%88"
-      },
-      "raw_titles": [
-        "新宝岛但NBA猛男版"
-      ],
-      "rank": 24,
-      "sports_rank": 17
-    },
-    {
-      "title": "孙颖莎vs梁安娜",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 301468,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%A2%81%E5%AE%89%E5%A8%9C"
-      },
-      "raw_titles": [
-        "孙颖莎vs梁安娜"
-      ],
-      "rank": 25,
-      "sports_rank": 18
-    },
-    {
-      "title": "王楚钦王曼昱身陷“死亡半区”",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 297000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%BA%AB%E9%99%B7%E2%80%9C%E6%AD%BB%E4%BA%A1%E5%8D%8A%E5%8C%BA%E2%80%9D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王楚钦王曼昱身陷“死亡半区”"
-      ],
-      "rank": 26,
-      "sports_rank": 19
-    },
-    {
-      "title": "孙颖莎将对阵朱雨玲梁安娜",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 277656,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E5%AF%B9%E9%98%B5%E6%9C%B1%E9%9B%A8%E7%8E%B2%E6%A2%81%E5%AE%89%E5%A8%9C"
-      },
-      "raw_titles": [
-        "孙颖莎将对阵朱雨玲梁安娜"
-      ],
-      "rank": 27,
-      "sports_rank": 20
-    },
-    {
-      "title": "王一博嘉人造型",
+      "title": "肖战去金山岭长城了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 277248,
+      "hot_value": 355091,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%98%89%E4%BA%BA%E9%80%A0%E5%9E%8B"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8E%BB%E9%87%91%E5%B1%B1%E5%B2%AD%E9%95%BF%E5%9F%8E%E4%BA%86"
       },
       "raw_titles": [
-        "王一博嘉人造型"
+        "肖战去金山岭长城了"
       ],
-      "rank": 28,
+      "rank": 24,
       "movie_rank": 8
     },
     {
-      "title": "郭涛儿子石头拍电影了",
-      "category": "影视",
+      "title": "潘展乐赢了0.04秒",
+      "category": "体育",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 225000,
+      "hot_value": 270237,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%AD%E6%B6%9B%E5%84%BF%E5%AD%90%E7%9F%B3%E5%A4%B4%E6%8B%8D%E7%94%B5%E5%BD%B1%E4%BA%86&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90%E8%B5%A2%E4%BA%860.04%E7%A7%92"
       },
       "raw_titles": [
-        "郭涛儿子石头拍电影了"
+        "潘展乐赢了0.04秒"
       ],
-      "rank": 29,
+      "rank": 25,
+      "sports_rank": 17
+    },
+    {
+      "title": "湾区升明月海报站位",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 236277,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E6%B5%B7%E6%8A%A5%E7%AB%99%E4%BD%8D"
+      },
+      "raw_titles": [
+        "湾区升明月海报站位"
+      ],
+      "rank": 26,
       "movie_rank": 9
     },
     {
-      "title": "亚运会吉祥物 诡异",
+      "title": "国乒女团3比1胜中国澳门 孙颖莎得2分",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 144000,
+      "hot_value": 189000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9+%E8%AF%A1%E5%BC%82&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A23%E6%AF%941%E8%83%9C%E4%B8%AD%E5%9B%BD%E6%BE%B3%E9%97%A8+%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BE%972%E5%88%86&sa=fyb_news"
       },
       "raw_titles": [
-        "亚运会吉祥物 诡异"
+        "国乒女团3比1胜中国澳门 孙颖莎得2分"
       ],
-      "rank": 30,
-      "sports_rank": 21
+      "rank": 27,
+      "sports_rank": 18
     },
     {
       "title": "孙颖莎3比0速胜梁安娜",
@@ -497,49 +462,113 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 108000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E9%80%9F%E8%83%9C%E6%A2%81%E5%AE%89%E5%A8%9C&sa=fyb_news"
       },
       "raw_titles": [
         "孙颖莎3比0速胜梁安娜"
       ],
-      "rank": 31,
-      "sports_rank": 22
+      "rank": 28,
+      "sports_rank": 19
     },
     {
-      "title": "张凌赫担任湾区升明月主持人",
-      "category": "影视",
+      "title": "王楚钦王曼昱身陷“死亡半区”",
+      "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 27000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8B%85%E4%BB%BB%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%BA%AB%E9%99%B7%E2%80%9C%E6%AD%BB%E4%BA%A1%E5%8D%8A%E5%8C%BA%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "张凌赫担任湾区升明月主持人"
+        "王楚钦王曼昱身陷“死亡半区”"
       ],
-      "rank": 32,
-      "movie_rank": 10
+      "rank": 29,
+      "sports_rank": 20
     }
   ],
   "sports": [
+    {
+      "title": "潘展乐男子100米自由泳卫冕夺金",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 13169550,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%BD%98%E5%B1%95%E4%B9%90%E7%94%B7%E5%AD%90100%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E5%8D%AB%E5%86%95%E5%A4%BA%E9%87%91&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%BD%98%E5%B1%95%E4%B9%90100%E7%B1%B3%E8%87%AA%E5%A4%BA%E5%86%A0",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%BD%98%E5%B1%95%E4%B9%90100%E7%B1%B3%E8%87%AA%E5%8D%AB%E5%86%95"
+      },
+      "raw_titles": [
+        "潘展乐男子100米自由泳卫冕夺金"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "亚运会",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博",
+        "微博",
+        "百度",
+        "百度",
+        "百度",
+        "百度",
+        "抖音",
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 10890899,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A5%96%E7%89%8C%E6%A6%9C",
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%80%89%E6%89%8B%E9%A4%90%E4%BB%853%E5%9D%97%E9%B8%A1%E8%82%89&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9C%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8Fbelike",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "亚运会"
+      ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "中国男篮不敌伊朗无缘亚运铜牌",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 10477495,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C"
+      },
+      "raw_titles": [
+        "中国男篮不敌伊朗无缘亚运铜牌"
+      ],
+      "rank": 3,
+      "sports_rank": 3
+    },
     {
       "title": "中国队2026亚运首金",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10414286,
+      "hot_value": 9320039,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F2026%E4%BA%9A%E8%BF%90%E9%A6%96%E9%87%91"
       },
       "raw_titles": [
         "中国队2026亚运首金"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "UFC331约书亚夺蝇量级冠军",
@@ -547,81 +576,63 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9261767,
+      "hot_value": 7832029,
       "urls": {
         "抖音": "https://www.douyin.com/search/UFC331%E7%BA%A6%E4%B9%A6%E4%BA%9A%E5%A4%BA%E8%9D%87%E9%87%8F%E7%BA%A7%E5%86%A0%E5%86%9B"
       },
       "raw_titles": [
         "UFC331约书亚夺蝇量级冠军"
       ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
-      "title": "我看亚运会开幕式belike",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9113590,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9C%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8Fbelike"
-      },
-      "raw_titles": [
-        "我看亚运会开幕式belike"
-      ],
-      "rank": 4,
-      "sports_rank": 3
+      "rank": 6,
+      "sports_rank": 5
     },
     {
       "title": "布莱顿3:0完胜阿森纳",
       "category": "体育",
       "sources": [
-        "抖音",
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 8331892,
+      "hot_value": 7789397,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%B8%83%E8%8E%B1%E9%A1%BF3%3A0%E5%AE%8C%E8%83%9C%E9%98%BF%E6%A3%AE%E7%BA%B3",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B8%83%E8%8E%B1%E9%A1%BF%E5%AE%8C%E8%83%9C%E9%98%BF%E6%A3%AE%E7%BA%B3%E6%88%98%E6%9C%AF%E5%A4%8D%E7%9B%98"
+        "抖音": "https://www.douyin.com/search/%E5%B8%83%E8%8E%B1%E9%A1%BF3%3A0%E5%AE%8C%E8%83%9C%E9%98%BF%E6%A3%AE%E7%BA%B3"
       },
       "raw_titles": [
         "布莱顿3:0完胜阿森纳"
       ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "潘展乐晋级100米自由泳决赛",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7803327,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%BD%98%E5%B1%95%E4%B9%90%E6%99%8B%E7%BA%A7100%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "潘展乐晋级100米自由泳决赛"
-      ],
-      "rank": 6,
-      "sports_rank": 5
-    },
-    {
-      "title": "猛龙为洛瑞打造专属雕像",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7770298,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8C%9B%E9%BE%99%E4%B8%BA%E6%B4%9B%E7%91%9E%E6%89%93%E9%80%A0%E4%B8%93%E5%B1%9E%E9%9B%95%E5%83%8F"
-      },
-      "raw_titles": [
-        "猛龙为洛瑞打造专属雕像"
-      ],
-      "rank": 7,
+      "rank": 8,
       "sports_rank": 6
+    },
+    {
+      "title": "潘展乐反超夺金",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 2969941,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90%E5%8F%8D%E8%B6%85%E5%A4%BA%E9%87%91"
+      },
+      "raw_titles": [
+        "潘展乐反超夺金"
+      ],
+      "rank": 11,
+      "sports_rank": 7
+    },
+    {
+      "title": "中国男篮亚运无缘奖牌",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1924455,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%9A%E8%BF%90%E6%97%A0%E7%BC%98%E5%A5%96%E7%89%8C"
+      },
+      "raw_titles": [
+        "中国男篮亚运无缘奖牌"
+      ],
+      "rank": 12,
+      "sports_rank": 8
     },
     {
       "title": "中国亚运男足0比0伊朗",
@@ -630,7 +641,7 @@
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 1347152,
+      "hot_value": 1606355,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B30%E6%AF%940%E4%BC%8A%E6%9C%97&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B30-0%E4%BC%8A%E6%9C%97"
@@ -638,43 +649,24 @@
       "raw_titles": [
         "中国亚运男足0比0伊朗"
       ],
-      "rank": 11,
-      "sports_rank": 7
-    },
-    {
-      "title": "名古屋亚运会漏算中国首金",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1079976,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A",
-        "百度": "https://m.baidu.com/s?word=%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%BC%8F%E7%AE%97%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%87%91&sa=fyb_news"
-      },
-      "raw_titles": [
-        "名古屋亚运会漏算中国首金"
-      ],
-      "rank": 12,
-      "sports_rank": 8
-    },
-    {
-      "title": "童心夺亚运武术女子全能金牌",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1074749,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AB%A5%E5%BF%83%E5%A4%BA%E4%BA%9A%E8%BF%90%E6%AD%A6%E6%9C%AF%E5%A5%B3%E5%AD%90%E5%85%A8%E8%83%BD%E9%87%91%E7%89%8C"
-      },
-      "raw_titles": [
-        "童心夺亚运武术女子全能金牌"
-      ],
       "rank": 13,
       "sports_rank": 9
+    },
+    {
+      "title": "起程NBA中国赛2026",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1451994,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B7%E7%A8%8BNBA%E4%B8%AD%E5%9B%BD%E8%B5%9B2026"
+      },
+      "raw_titles": [
+        "起程NBA中国赛2026"
+      ],
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "王曼昱丢首局孙颖莎摇头面露惋惜",
@@ -682,63 +674,33 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 733882,
+      "hot_value": 1014846,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%A2%E9%A6%96%E5%B1%80%E5%AD%99%E9%A2%96%E8%8E%8E%E6%91%87%E5%A4%B4%E9%9D%A2%E9%9C%B2%E6%83%8B%E6%83%9C"
       },
       "raw_titles": [
         "王曼昱丢首局孙颖莎摇头面露惋惜"
       ],
-      "rank": 14,
-      "sports_rank": 10
-    },
-    {
-      "title": "中国代表团亚运会第二金",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 580392,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AC%AC%E4%BA%8C%E9%87%91"
-      },
-      "raw_titles": [
-        "中国代表团亚运会第二金"
-      ],
       "rank": 15,
       "sports_rank": 11
     },
     {
-      "title": "亚运会韩国赛前错放朝鲜国歌",
+      "title": "孙颖莎3比0朱雨玲",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "微博",
+        "微博"
       ],
-      "hot_value": 580379,
+      "hot_value": 966759,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%9F%A9%E5%9B%BD%E8%B5%9B%E5%89%8D%E9%94%99%E6%94%BE%E6%9C%9D%E9%B2%9C%E5%9B%BD%E6%AD%8C"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9C%B1%E9%9B%A8%E7%8E%B2"
       },
       "raw_titles": [
-        "亚运会韩国赛前错放朝鲜国歌"
+        "孙颖莎3比0朱雨玲"
       ],
-      "rank": 17,
+      "rank": 16,
       "sports_rank": 12
-    },
-    {
-      "title": "中国男篮为何会大比分溃败",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 574481,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%A4%A7%E6%AF%94%E5%88%86%E6%BA%83%E8%B4%A5"
-      },
-      "raw_titles": [
-        "中国男篮为何会大比分溃败"
-      ],
-      "rank": 18,
-      "sports_rank": 13
     },
     {
       "title": "重温1990年北京亚运村美食",
@@ -746,7 +708,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 561888,
+      "hot_value": 652318,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%87%8D%E6%B8%A91990%E5%B9%B4%E5%8C%97%E4%BA%AC%E4%BA%9A%E8%BF%90%E6%9D%91%E7%BE%8E%E9%A3%9F"
       },
@@ -754,119 +716,87 @@
         "重温1990年北京亚运村美食"
       ],
       "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "中国男篮为何会大比分溃败",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 652316,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%A4%A7%E6%AF%94%E5%88%86%E6%BA%83%E8%B4%A5"
+      },
+      "raw_titles": [
+        "中国男篮为何会大比分溃败"
+      ],
+      "rank": 20,
       "sports_rank": 14
     },
     {
-      "title": "孙颖莎女团出战",
+      "title": "童心夺亚运武术女子全能金牌",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 507827,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AB%A5%E5%BF%83%E5%A4%BA%E4%BA%9A%E8%BF%90%E6%AD%A6%E6%9C%AF%E5%A5%B3%E5%AD%90%E5%85%A8%E8%83%BD%E9%87%91%E7%89%8C"
+      },
+      "raw_titles": [
+        "童心夺亚运武术女子全能金牌"
+      ],
+      "rank": 21,
+      "sports_rank": 15
+    },
+    {
+      "title": "孙颖莎亚运独得两分",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 454987,
+      "hot_value": 422754,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%B3%E5%9B%A2%E5%87%BA%E6%88%98"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%9A%E8%BF%90%E7%8B%AC%E5%BE%97%E4%B8%A4%E5%88%86"
       },
       "raw_titles": [
-        "孙颖莎女团出战"
-      ],
-      "rank": 20,
-      "sports_rank": 15
-    },
-    {
-      "title": "于子迪女子200米蝶金牌 破亚运会纪录",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 423000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%8E%E5%AD%90%E8%BF%AA%E5%A5%B3%E5%AD%90200%E7%B1%B3%E8%9D%B6%E9%87%91%E7%89%8C+%E7%A0%B4%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95&sa=fyb_news"
-      },
-      "raw_titles": [
-        "于子迪女子200米蝶金牌 破亚运会纪录"
+        "孙颖莎亚运独得两分"
       ],
       "rank": 22,
       "sports_rank": 16
     },
     {
-      "title": "新宝岛但NBA猛男版",
+      "title": "潘展乐赢了0.04秒",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 407552,
+      "hot_value": 270237,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%AE%9D%E5%B2%9B%E4%BD%86NBA%E7%8C%9B%E7%94%B7%E7%89%88"
+        "微博": "https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90%E8%B5%A2%E4%BA%860.04%E7%A7%92"
       },
       "raw_titles": [
-        "新宝岛但NBA猛男版"
+        "潘展乐赢了0.04秒"
       ],
-      "rank": 24,
+      "rank": 25,
       "sports_rank": 17
     },
     {
-      "title": "孙颖莎vs梁安娜",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 301468,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%A2%81%E5%AE%89%E5%A8%9C"
-      },
-      "raw_titles": [
-        "孙颖莎vs梁安娜"
-      ],
-      "rank": 25,
-      "sports_rank": 18
-    },
-    {
-      "title": "王楚钦王曼昱身陷“死亡半区”",
+      "title": "国乒女团3比1胜中国澳门 孙颖莎得2分",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 297000,
+      "hot_value": 189000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%BA%AB%E9%99%B7%E2%80%9C%E6%AD%BB%E4%BA%A1%E5%8D%8A%E5%8C%BA%E2%80%9D&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A23%E6%AF%941%E8%83%9C%E4%B8%AD%E5%9B%BD%E6%BE%B3%E9%97%A8+%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BE%972%E5%88%86&sa=fyb_news"
       },
       "raw_titles": [
-        "王楚钦王曼昱身陷“死亡半区”"
-      ],
-      "rank": 26,
-      "sports_rank": 19
-    },
-    {
-      "title": "孙颖莎将对阵朱雨玲梁安娜",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 277656,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E5%AF%B9%E9%98%B5%E6%9C%B1%E9%9B%A8%E7%8E%B2%E6%A2%81%E5%AE%89%E5%A8%9C"
-      },
-      "raw_titles": [
-        "孙颖莎将对阵朱雨玲梁安娜"
+        "国乒女团3比1胜中国澳门 孙颖莎得2分"
       ],
       "rank": 27,
-      "sports_rank": 20
-    },
-    {
-      "title": "亚运会吉祥物 诡异",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 144000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9+%E8%AF%A1%E5%BC%82&sa=fyb_news"
-      },
-      "raw_titles": [
-        "亚运会吉祥物 诡异"
-      ],
-      "rank": 30,
-      "sports_rank": 21
+      "sports_rank": 18
     },
     {
       "title": "孙颖莎3比0速胜梁安娜",
@@ -874,15 +804,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 108000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E9%80%9F%E8%83%9C%E6%A2%81%E5%AE%89%E5%A8%9C&sa=fyb_news"
       },
       "raw_titles": [
         "孙颖莎3比0速胜梁安娜"
       ],
-      "rank": 31,
-      "sports_rank": 22
+      "rank": 28,
+      "sports_rank": 19
+    },
+    {
+      "title": "王楚钦王曼昱身陷“死亡半区”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 27000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%BA%AB%E9%99%B7%E2%80%9C%E6%AD%BB%E4%BA%A1%E5%8D%8A%E5%8C%BA%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王楚钦王曼昱身陷“死亡半区”"
+      ],
+      "rank": 29,
+      "sports_rank": 20
     }
   ],
   "movies": [
@@ -892,14 +838,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10357599,
+      "hot_value": 9278506,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%88%9B%E5%A4%A7%E5%81%B6%E9%81%87%E7%81%AB%E5%BD%B1%E8%90%8C%E9%BB%84%E5%A4%AA%E5%8F%AF%E7%88%B1%E4%BA%86"
       },
       "raw_titles": [
         "创大偶遇火影萌黄太可爱了"
       ],
-      "rank": 2,
+      "rank": 5,
       "movie_rank": 1
     },
     {
@@ -908,14 +854,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7750118,
+      "hot_value": 7822443,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E9%87%8D%E7%94%9F2%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "电影重生2定档"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 2
     },
     {
@@ -924,7 +870,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7733281,
+      "hot_value": 7742527,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E8%AE%B8%E5%B5%A9%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A"
       },
@@ -940,7 +886,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7711732,
+      "hot_value": 7729016,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E6%80%9D%E8%AF%9A%E6%96%B0%E7%94%B5%E5%BD%B1%E9%98%B5%E5%AE%B9%E6%A2%A6%E5%9B%9E%E5%A3%AB%E5%85%B5%E7%AA%81%E5%87%BB"
       },
@@ -951,100 +897,84 @@
       "movie_rank": 4
     },
     {
+      "title": "一次看完漫改职高校园新剧",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 652333,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%AE%8C%E6%BC%AB%E6%94%B9%E8%81%8C%E9%AB%98%E6%A0%A1%E5%9B%AD%E6%96%B0%E5%89%A7"
+      },
+      "raw_titles": [
+        "一次看完漫改职高校园新剧"
+      ],
+      "rank": 17,
+      "movie_rank": 5
+    },
+    {
       "title": "火影传说三忍大蛇丸全爆料",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 580389,
+      "hot_value": 652322,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E4%BC%A0%E8%AF%B4%E4%B8%89%E5%BF%8D%E5%A4%A7%E8%9B%87%E4%B8%B8%E5%85%A8%E7%88%86%E6%96%99"
       },
       "raw_titles": [
         "火影传说三忍大蛇丸全爆料"
       ],
-      "rank": 16,
-      "movie_rank": 5
-    },
-    {
-      "title": "包贝尔导演的电影值得看吗",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 432527,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8C%85%E8%B4%9D%E5%B0%94%E5%AF%BC%E6%BC%94%E7%9A%84%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
-      },
-      "raw_titles": [
-        "包贝尔导演的电影值得看吗"
-      ],
-      "rank": 21,
+      "rank": 18,
       "movie_rank": 6
     },
     {
-      "title": "4岁女孩会三国语言：看动画片学的",
+      "title": "刘昊然选对了新爆款大众T6",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 414000,
+      "hot_value": 355961,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BC%9A%E4%B8%89%E5%9B%BD%E8%AF%AD%E8%A8%80%EF%BC%9A%E7%9C%8B%E5%8A%A8%E7%94%BB%E7%89%87%E5%AD%A6%E7%9A%84&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E9%80%89%E5%AF%B9%E4%BA%86%E6%96%B0%E7%88%86%E6%AC%BE%E5%A4%A7%E4%BC%97T6"
       },
       "raw_titles": [
-        "4岁女孩会三国语言：看动画片学的"
+        "刘昊然选对了新爆款大众T6"
       ],
       "rank": 23,
       "movie_rank": 7
     },
     {
-      "title": "王一博嘉人造型",
+      "title": "肖战去金山岭长城了",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 277248,
+      "hot_value": 355091,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%98%89%E4%BA%BA%E9%80%A0%E5%9E%8B"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8E%BB%E9%87%91%E5%B1%B1%E5%B2%AD%E9%95%BF%E5%9F%8E%E4%BA%86"
       },
       "raw_titles": [
-        "王一博嘉人造型"
+        "肖战去金山岭长城了"
       ],
-      "rank": 28,
+      "rank": 24,
       "movie_rank": 8
     },
     {
-      "title": "郭涛儿子石头拍电影了",
+      "title": "湾区升明月海报站位",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 225000,
+      "hot_value": 236277,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%AD%E6%B6%9B%E5%84%BF%E5%AD%90%E7%9F%B3%E5%A4%B4%E6%8B%8D%E7%94%B5%E5%BD%B1%E4%BA%86&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E6%B5%B7%E6%8A%A5%E7%AB%99%E4%BD%8D"
       },
       "raw_titles": [
-        "郭涛儿子石头拍电影了"
+        "湾区升明月海报站位"
       ],
-      "rank": 29,
+      "rank": 26,
       "movie_rank": 9
-    },
-    {
-      "title": "张凌赫担任湾区升明月主持人",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 27000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8B%85%E4%BB%BB%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E4%B8%BB%E6%8C%81%E4%BA%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "张凌赫担任湾区升明月主持人"
-      ],
-      "rank": 32,
-      "movie_rank": 10
     }
   ]
 }
