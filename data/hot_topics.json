@@ -1,40 +1,72 @@
 {
-  "update_time": "2026-09-28 05:00:53",
-  "total": 36,
+  "update_time": "2026-09-28 06:00:43",
+  "total": 37,
   "sports_count": 24,
-  "movie_count": 13,
+  "movie_count": 14,
   "all": [
+    {
+      "title": "陈圆将男子110米栏夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 12104372,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%9C%86%E5%B0%86%E7%94%B7%E5%AD%90110%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "陈圆将男子110米栏夺冠"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "国乒男双战胜日本夺冠",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 12103909,
+      "hot_value": 11485358,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "国乒男双战胜日本夺冠"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
-      "title": "陈妤颉22秒93夺亚运200米银牌",
+      "title": "迪士尼烟花和holymoly的适配度",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 10869642,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%83%9F%E8%8A%B1%E5%92%8Cholymoly%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6"
+      },
+      "raw_titles": [
+        "迪士尼烟花和holymoly的适配度"
+      ],
+      "rank": 3,
+      "movie_rank": 1
+    },
+    {
+      "title": "吴艳妮田径女子100米栏铜牌",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 11457769,
+      "hot_value": 10815572,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%8922%E7%A7%9293%E5%A4%BA%E4%BA%9A%E8%BF%90200%E7%B1%B3%E9%93%B6%E7%89%8C"
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E7%94%B0%E5%BE%84%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E9%93%9C%E7%89%8C"
       },
       "raw_titles": [
-        "陈妤颉22秒93夺亚运200米银牌"
+        "吴艳妮田径女子100米栏铜牌"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 4,
+      "sports_rank": 3
     },
     {
       "title": "国足0比3新西兰",
@@ -45,7 +77,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 10312848,
+      "hot_value": 10242779,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E6%96%B0%E8%A5%BF%E5%85%B0",
         "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B0%E6%AF%943%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news",
@@ -55,39 +87,23 @@
       "raw_titles": [
         "国足0比3新西兰"
       ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "吴艳妮田径女子100米栏铜牌",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9340786,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E7%94%B0%E5%BE%84%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E9%93%9C%E7%89%8C"
-      },
-      "raw_titles": [
-        "吴艳妮田径女子100米栏铜牌"
-      ],
-      "rank": 4,
+      "rank": 5,
       "sports_rank": 4
     },
     {
-      "title": "陈圆将男子110米栏夺冠",
+      "title": "陈妤颉22秒93夺亚运200米银牌",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9287735,
+      "hot_value": 9498529,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%9C%86%E5%B0%86%E7%94%B7%E5%AD%90110%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%8922%E7%A7%9293%E5%A4%BA%E4%BA%9A%E8%BF%90200%E7%B1%B3%E9%93%B6%E7%89%8C"
       },
       "raw_titles": [
-        "陈圆将男子110米栏夺冠"
+        "陈妤颉22秒93夺亚运200米银牌"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 5
     },
     {
@@ -95,14 +111,13 @@
       "category": "体育",
       "sources": [
         "微博",
-        "微博",
         "百度",
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 9275363,
+      "hot_value": 8954533,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B1%95%E6%9C%9B%E4%B8%8B%E4%B8%80%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A",
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A",
         "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%AE%9E%E7%8E%B0%E5%A5%B3%E5%8D%95%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E8%BF%9E%E5%86%A0&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E7%9F%B3%E5%AE%87%E5%A5%87%E7%A7%B0%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8E%E9%80%80%E5%BD%B9%E6%98%AF%E8%B0%A3%E8%A8%80",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8F%A4%E5%B1%8B%E7%89%B9%E8%89%B2%E7%BE%8E%E9%A3%9F"
@@ -110,24 +125,8 @@
       "raw_titles": [
         "亚运会"
       ],
-      "rank": 6,
-      "sports_rank": 6
-    },
-    {
-      "title": "迪士尼烟花和holymoly的适配度",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9202044,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%83%9F%E8%8A%B1%E5%92%8Cholymoly%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6"
-      },
-      "raw_titles": [
-        "迪士尼烟花和holymoly的适配度"
-      ],
       "rank": 7,
-      "movie_rank": 1
+      "sports_rank": 6
     },
     {
       "title": "选手大正柏林马拉松再创佳绩",
@@ -135,7 +134,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7688401,
+      "hot_value": 7677126,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%80%89%E6%89%8B%E5%A4%A7%E6%AD%A3%E6%9F%8F%E6%9E%97%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%86%8D%E5%88%9B%E4%BD%B3%E7%BB%A9"
       },
@@ -146,20 +145,36 @@
       "movie_rank": 2
     },
     {
+      "title": "王鹤棣一锹入秋",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7663231,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%80%E9%94%B9%E5%85%A5%E7%A7%8B"
+      },
+      "raw_titles": [
+        "王鹤棣一锹入秋"
+      ],
+      "rank": 9,
+      "movie_rank": 3
+    },
+    {
       "title": "我不是大师第九集封神",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7677056,
+      "hot_value": 7648675,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%B8%88%E7%AC%AC%E4%B9%9D%E9%9B%86%E5%B0%81%E7%A5%9E"
       },
       "raw_titles": [
         "我不是大师第九集封神"
       ],
-      "rank": 9,
-      "movie_rank": 3
+      "rank": 10,
+      "movie_rank": 4
     },
     {
       "title": "周深鸟巢再次唱响北京欢迎你",
@@ -167,15 +182,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7653668,
+      "hot_value": 7646455,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E9%B8%9F%E5%B7%A2%E5%86%8D%E6%AC%A1%E5%94%B1%E5%93%8D%E5%8C%97%E4%BA%AC%E6%AC%A2%E8%BF%8E%E4%BD%A0"
       },
       "raw_titles": [
         "周深鸟巢再次唱响北京欢迎你"
       ],
-      "rank": 10,
-      "movie_rank": 4
+      "rank": 11,
+      "movie_rank": 5
+    },
+    {
+      "title": "小沈阳沈春阳新电影重现白云黑土",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7627764,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B0%8F%E6%B2%88%E9%98%B3%E6%B2%88%E6%98%A5%E9%98%B3%E6%96%B0%E7%94%B5%E5%BD%B1%E9%87%8D%E7%8E%B0%E7%99%BD%E4%BA%91%E9%BB%91%E5%9C%9F"
+      },
+      "raw_titles": [
+        "小沈阳沈春阳新电影重现白云黑土"
+      ],
+      "rank": 12,
+      "movie_rank": 6
     },
     {
       "title": "王曼昱两夺亚运女单冠军",
@@ -184,7 +215,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 482108,
+      "hot_value": 483732,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%A4%E5%A4%BA%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
@@ -192,7 +223,7 @@
       "raw_titles": [
         "王曼昱两夺亚运女单冠军"
       ],
-      "rank": 11,
+      "rank": 13,
       "sports_rank": 7
     },
     {
@@ -201,31 +232,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 369000,
+      "hot_value": 342000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%941%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C&sa=fyb_news"
       },
       "raw_titles": [
         "孙颖莎4比1早田希娜"
       ],
-      "rank": 12,
+      "rank": 14,
       "sports_rank": 8
-    },
-    {
-      "title": "自由式小轮车亚运历史首金",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 306000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%87%AA%E7%94%B1%E5%BC%8F%E5%B0%8F%E8%BD%AE%E8%BD%A6%E4%BA%9A%E8%BF%90%E5%8E%86%E5%8F%B2%E9%A6%96%E9%87%91&sa=fyb_news"
-      },
-      "raw_titles": [
-        "自由式小轮车亚运历史首金"
-      ],
-      "rank": 13,
-      "sports_rank": 9
     },
     {
       "title": "金鹰奖",
@@ -234,7 +249,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 248116,
+      "hot_value": 258432,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96",
         "百度": "https://m.baidu.com/s?word=%E9%87%91%E9%B9%B0%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%E7%AB%A5%E5%B9%B4%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7&sa=fyb_news"
@@ -242,8 +257,24 @@
       "raw_titles": [
         "金鹰奖"
       ],
-      "rank": 14,
-      "movie_rank": 5
+      "rank": 15,
+      "movie_rank": 7
+    },
+    {
+      "title": "自由式小轮车亚运历史首金",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%87%AA%E7%94%B1%E5%BC%8F%E5%B0%8F%E8%BD%AE%E8%BD%A6%E4%BA%9A%E8%BF%90%E5%8E%86%E5%8F%B2%E9%A6%96%E9%87%91&sa=fyb_news"
+      },
+      "raw_titles": [
+        "自由式小轮车亚运历史首金"
+      ],
+      "rank": 16,
+      "sports_rank": 9
     },
     {
       "title": "严子怡破亚运纪录",
@@ -251,31 +282,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 207000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E4%BA%9A%E8%BF%90%E7%BA%AA%E5%BD%95&sa=fyb_news"
       },
       "raw_titles": [
         "严子怡破亚运纪录"
       ],
-      "rank": 15,
+      "rank": 17,
       "sports_rank": 10
-    },
-    {
-      "title": "弹丸论破但是真人版",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 132590,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E4%BD%86%E6%98%AF%E7%9C%9F%E4%BA%BA%E7%89%88"
-      },
-      "raw_titles": [
-        "弹丸论破但是真人版"
-      ],
-      "rank": 16,
-      "movie_rank": 6
     },
     {
       "title": "火影攻略神和动画神梦幻联动",
@@ -283,31 +298,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 102127,
+      "hot_value": 127411,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%94%BB%E7%95%A5%E7%A5%9E%E5%92%8C%E5%8A%A8%E7%94%BB%E7%A5%9E%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8"
       },
       "raw_titles": [
         "火影攻略神和动画神梦幻联动"
       ],
-      "rank": 17,
-      "movie_rank": 7
+      "rank": 18,
+      "movie_rank": 8
     },
     {
-      "title": "第五人格x韦唯为亚运助威",
-      "category": "体育",
+      "title": "弹丸论破但是真人版",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 99751,
+      "hot_value": 111594,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCx%E9%9F%A6%E5%94%AF%E4%B8%BA%E4%BA%9A%E8%BF%90%E5%8A%A9%E5%A8%81"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E4%BD%86%E6%98%AF%E7%9C%9F%E4%BA%BA%E7%89%88"
       },
       "raw_titles": [
-        "第五人格x韦唯为亚运助威"
+        "弹丸论破但是真人版"
       ],
-      "rank": 18,
-      "sports_rank": 11
+      "rank": 19,
+      "movie_rank": 9
     },
     {
       "title": "曼城115项违规有何影响",
@@ -315,47 +330,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 98170,
+      "hot_value": 83042,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E115%E9%A1%B9%E8%BF%9D%E8%A7%84%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D"
       },
       "raw_titles": [
         "曼城115项违规有何影响"
       ],
-      "rank": 19,
-      "sports_rank": 12
+      "rank": 20,
+      "sports_rank": 11
     },
     {
-      "title": "全球总决赛LPL能走多远",
+      "title": "第五人格x韦唯为亚运助威",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 96615,
+      "hot_value": 77024,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9BLPL%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCx%E9%9F%A6%E5%94%AF%E4%B8%BA%E4%BA%9A%E8%BF%90%E5%8A%A9%E5%A8%81"
       },
       "raw_titles": [
-        "全球总决赛LPL能走多远"
-      ],
-      "rank": 20,
-      "sports_rank": 13
-    },
-    {
-      "title": "张本智和爆冷出局",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 75503,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80"
-      },
-      "raw_titles": [
-        "张本智和爆冷出局"
+        "第五人格x韦唯为亚运助威"
       ],
       "rank": 21,
-      "movie_rank": 8
+      "sports_rank": 12
     },
     {
       "title": "兰香如故热度超过长相思",
@@ -363,7 +362,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 54610,
+      "hot_value": 70421,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E5%BA%A6%E8%B6%85%E8%BF%87%E9%95%BF%E7%9B%B8%E6%80%9D"
       },
@@ -371,22 +370,6 @@
         "兰香如故热度超过长相思"
       ],
       "rank": 22,
-      "movie_rank": 9
-    },
-    {
-      "title": "于和伟中乔体育品牌全球代言人",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 50105,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%8E%E5%92%8C%E4%BC%9F%E4%B8%AD%E4%B9%94%E4%BD%93%E8%82%B2%E5%93%81%E7%89%8C%E5%85%A8%E7%90%83%E4%BB%A3%E8%A8%80%E4%BA%BA"
-      },
-      "raw_titles": [
-        "于和伟中乔体育品牌全球代言人"
-      ],
-      "rank": 23,
       "movie_rank": 10
     },
     {
@@ -395,16 +378,48 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 49552,
+      "hot_value": 70041,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4%20%E5%A4%8D%E5%87%BA"
       },
       "raw_titles": [
         "王祖贤 复出"
       ],
-      "rank": 24,
-      "sports_rank": 14,
+      "rank": 23,
+      "sports_rank": 13,
       "movie_rank": 11
+    },
+    {
+      "title": "张本智和爆冷出局",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 62303,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80"
+      },
+      "raw_titles": [
+        "张本智和爆冷出局"
+      ],
+      "rank": 24,
+      "movie_rank": 12
+    },
+    {
+      "title": "全球总决赛LPL能走多远",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 61991,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9BLPL%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
+      },
+      "raw_titles": [
+        "全球总决赛LPL能走多远"
+      ],
+      "rank": 25,
+      "sports_rank": 14
     },
     {
       "title": "孙颖莎 难再战亚运",
@@ -412,14 +427,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 48915,
+      "hot_value": 55490,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E9%9A%BE%E5%86%8D%E6%88%98%E4%BA%9A%E8%BF%90"
       },
       "raw_titles": [
         "孙颖莎 难再战亚运"
       ],
-      "rank": 25,
+      "rank": 26,
       "sports_rank": 15
     },
     {
@@ -428,14 +443,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 48403,
+      "hot_value": 55413,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E9%A1%B9%E7%9B%AE%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90"
       },
       "raw_titles": [
         "电子竞技项目将退出亚运"
       ],
-      "rank": 26,
+      "rank": 27,
       "sports_rank": 16
     },
     {
@@ -444,14 +459,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 46896,
+      "hot_value": 55365,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E5%A5%B3%E5%8D%95%E4%BB%85%E5%BC%A0%E7%AB%8B%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95"
       },
       "raw_titles": [
         "亚运乒乓女单仅张立成功卫冕"
       ],
-      "rank": 27,
+      "rank": 28,
       "sports_rank": 17
     },
     {
@@ -460,14 +475,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 46739,
+      "hot_value": 55331,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B7%9F%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86"
       },
       "raw_titles": [
         "樊振东跟樊振东吵起来了"
       ],
-      "rank": 28,
+      "rank": 29,
       "sports_rank": 18
     },
     {
@@ -476,15 +491,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 46464,
+      "hot_value": 55287,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E5%86%A0%E5%B8%8C%E5%90%B4%E5%BD%A6%E7%A5%96%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%A2%AB%E6%8C%87%E5%9C%88%E9%92%B1"
       },
       "raw_titles": [
         "陈冠希吴彦祖王祖贤被指圈钱"
       ],
-      "rank": 29,
-      "movie_rank": 12
+      "rank": 30,
+      "movie_rank": 13
     },
     {
       "title": "肖战有3部待播剧",
@@ -492,15 +507,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 40292,
+      "hot_value": 55284,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%9C%893%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7"
       },
       "raw_titles": [
         "肖战有3部待播剧"
       ],
-      "rank": 30,
-      "movie_rank": 13
+      "rank": 31,
+      "movie_rank": 14
     },
     {
       "title": "樊振东3比1维东斯霍特",
@@ -508,14 +523,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 33277,
+      "hot_value": 39367,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%941%E7%BB%B4%E4%B8%9C%E6%96%AF%E9%9C%8D%E7%89%B9"
       },
       "raw_titles": [
         "樊振东3比1维东斯霍特"
       ],
-      "rank": 31,
+      "rank": 32,
       "sports_rank": 19
     },
     {
@@ -524,15 +539,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 32468,
+      "hot_value": 38340,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E5%85%BC3%E9%A1%B91%E9%87%912%E9%93%B6"
       },
       "raw_titles": [
         "孙颖莎回应兼3项1金2银"
       ],
-      "rank": 32,
+      "rank": 33,
       "sports_rank": 20
+    },
+    {
+      "title": "孙颖莎说没有遗憾",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 35022,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%B2%A1%E6%9C%89%E9%81%97%E6%86%BE"
+      },
+      "raw_titles": [
+        "孙颖莎说没有遗憾"
+      ],
+      "rank": 34,
+      "sports_rank": 21
     },
     {
       "title": "孙颖莎坦言训练不足",
@@ -540,46 +571,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 32129,
+      "hot_value": 33440,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9D%A6%E8%A8%80%E8%AE%AD%E7%BB%83%E4%B8%8D%E8%B6%B3"
       },
       "raw_titles": [
         "孙颖莎坦言训练不足"
       ],
-      "rank": 33,
-      "sports_rank": 21
-    },
-    {
-      "title": "孙颖莎 成长磨砺",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 32115,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E6%88%90%E9%95%BF%E7%A3%A8%E7%A0%BA"
-      },
-      "raw_titles": [
-        "孙颖莎 成长磨砺"
-      ],
-      "rank": 34,
+      "rank": 35,
       "sports_rank": 22
     },
     {
-      "title": "樊振东3比0格拉尔多",
+      "title": "周雨称王曼昱孙颖莎双方打得很好",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 32112,
+      "hot_value": 33417,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%940%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A"
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E9%9B%A8%E7%A7%B0%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8F%8C%E6%96%B9%E6%89%93%E5%BE%97%E5%BE%88%E5%A5%BD"
       },
       "raw_titles": [
-        "樊振东3比0格拉尔多"
+        "周雨称王曼昱孙颖莎双方打得很好"
       ],
-      "rank": 35,
+      "rank": 36,
       "sports_rank": 23
     },
     {
@@ -588,49 +603,65 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 9000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E5%A5%A5%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%98%9F%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%B4%A5%E5%A4%BA%E5%86%A0&sa=fyb_news"
       },
       "raw_titles": [
         "国际象棋奥赛 中国女队全程不败夺冠"
       ],
-      "rank": 36,
+      "rank": 37,
       "sports_rank": 24
     }
   ],
   "sports": [
+    {
+      "title": "陈圆将男子110米栏夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 12104372,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%9C%86%E5%B0%86%E7%94%B7%E5%AD%90110%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "陈圆将男子110米栏夺冠"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "国乒男双战胜日本夺冠",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 12103909,
+      "hot_value": 11485358,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "国乒男双战胜日本夺冠"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
-      "title": "陈妤颉22秒93夺亚运200米银牌",
+      "title": "吴艳妮田径女子100米栏铜牌",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 11457769,
+      "hot_value": 10815572,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%8922%E7%A7%9293%E5%A4%BA%E4%BA%9A%E8%BF%90200%E7%B1%B3%E9%93%B6%E7%89%8C"
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E7%94%B0%E5%BE%84%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E9%93%9C%E7%89%8C"
       },
       "raw_titles": [
-        "陈妤颉22秒93夺亚运200米银牌"
+        "吴艳妮田径女子100米栏铜牌"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 4,
+      "sports_rank": 3
     },
     {
       "title": "国足0比3新西兰",
@@ -641,7 +672,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 10312848,
+      "hot_value": 10242779,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E6%96%B0%E8%A5%BF%E5%85%B0",
         "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B0%E6%AF%943%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news",
@@ -651,39 +682,23 @@
       "raw_titles": [
         "国足0比3新西兰"
       ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "吴艳妮田径女子100米栏铜牌",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9340786,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E7%94%B0%E5%BE%84%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E9%93%9C%E7%89%8C"
-      },
-      "raw_titles": [
-        "吴艳妮田径女子100米栏铜牌"
-      ],
-      "rank": 4,
+      "rank": 5,
       "sports_rank": 4
     },
     {
-      "title": "陈圆将男子110米栏夺冠",
+      "title": "陈妤颉22秒93夺亚运200米银牌",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9287735,
+      "hot_value": 9498529,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%9C%86%E5%B0%86%E7%94%B7%E5%AD%90110%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%8922%E7%A7%9293%E5%A4%BA%E4%BA%9A%E8%BF%90200%E7%B1%B3%E9%93%B6%E7%89%8C"
       },
       "raw_titles": [
-        "陈圆将男子110米栏夺冠"
+        "陈妤颉22秒93夺亚运200米银牌"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 5
     },
     {
@@ -691,14 +706,13 @@
       "category": "体育",
       "sources": [
         "微博",
-        "微博",
         "百度",
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 9275363,
+      "hot_value": 8954533,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B1%95%E6%9C%9B%E4%B8%8B%E4%B8%80%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A",
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A",
         "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%AE%9E%E7%8E%B0%E5%A5%B3%E5%8D%95%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E8%BF%9E%E5%86%A0&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E7%9F%B3%E5%AE%87%E5%A5%87%E7%A7%B0%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8E%E9%80%80%E5%BD%B9%E6%98%AF%E8%B0%A3%E8%A8%80",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8F%A4%E5%B1%8B%E7%89%B9%E8%89%B2%E7%BE%8E%E9%A3%9F"
@@ -706,7 +720,7 @@
       "raw_titles": [
         "亚运会"
       ],
-      "rank": 6,
+      "rank": 7,
       "sports_rank": 6
     },
     {
@@ -716,7 +730,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 482108,
+      "hot_value": 483732,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%A4%E5%A4%BA%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
@@ -724,7 +738,7 @@
       "raw_titles": [
         "王曼昱两夺亚运女单冠军"
       ],
-      "rank": 11,
+      "rank": 13,
       "sports_rank": 7
     },
     {
@@ -733,14 +747,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 369000,
+      "hot_value": 342000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%941%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C&sa=fyb_news"
       },
       "raw_titles": [
         "孙颖莎4比1早田希娜"
       ],
-      "rank": 12,
+      "rank": 14,
       "sports_rank": 8
     },
     {
@@ -749,14 +763,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 306000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%87%AA%E7%94%B1%E5%BC%8F%E5%B0%8F%E8%BD%AE%E8%BD%A6%E4%BA%9A%E8%BF%90%E5%8E%86%E5%8F%B2%E9%A6%96%E9%87%91&sa=fyb_news"
       },
       "raw_titles": [
         "自由式小轮车亚运历史首金"
       ],
-      "rank": 13,
+      "rank": 16,
       "sports_rank": 9
     },
     {
@@ -765,31 +779,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 207000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E4%BA%9A%E8%BF%90%E7%BA%AA%E5%BD%95&sa=fyb_news"
       },
       "raw_titles": [
         "严子怡破亚运纪录"
       ],
-      "rank": 15,
+      "rank": 17,
       "sports_rank": 10
-    },
-    {
-      "title": "第五人格x韦唯为亚运助威",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 99751,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCx%E9%9F%A6%E5%94%AF%E4%B8%BA%E4%BA%9A%E8%BF%90%E5%8A%A9%E5%A8%81"
-      },
-      "raw_titles": [
-        "第五人格x韦唯为亚运助威"
-      ],
-      "rank": 18,
-      "sports_rank": 11
     },
     {
       "title": "曼城115项违规有何影响",
@@ -797,31 +795,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 98170,
+      "hot_value": 83042,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E115%E9%A1%B9%E8%BF%9D%E8%A7%84%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D"
       },
       "raw_titles": [
         "曼城115项违规有何影响"
       ],
-      "rank": 19,
-      "sports_rank": 12
+      "rank": 20,
+      "sports_rank": 11
     },
     {
-      "title": "全球总决赛LPL能走多远",
+      "title": "第五人格x韦唯为亚运助威",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 96615,
+      "hot_value": 77024,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9BLPL%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCx%E9%9F%A6%E5%94%AF%E4%B8%BA%E4%BA%9A%E8%BF%90%E5%8A%A9%E5%A8%81"
       },
       "raw_titles": [
-        "全球总决赛LPL能走多远"
+        "第五人格x韦唯为亚运助威"
       ],
-      "rank": 20,
-      "sports_rank": 13
+      "rank": 21,
+      "sports_rank": 12
     },
     {
       "title": "王祖贤 复出",
@@ -829,16 +827,32 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 49552,
+      "hot_value": 70041,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4%20%E5%A4%8D%E5%87%BA"
       },
       "raw_titles": [
         "王祖贤 复出"
       ],
-      "rank": 24,
-      "sports_rank": 14,
+      "rank": 23,
+      "sports_rank": 13,
       "movie_rank": 11
+    },
+    {
+      "title": "全球总决赛LPL能走多远",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 61991,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9BLPL%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
+      },
+      "raw_titles": [
+        "全球总决赛LPL能走多远"
+      ],
+      "rank": 25,
+      "sports_rank": 14
     },
     {
       "title": "孙颖莎 难再战亚运",
@@ -846,14 +860,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 48915,
+      "hot_value": 55490,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E9%9A%BE%E5%86%8D%E6%88%98%E4%BA%9A%E8%BF%90"
       },
       "raw_titles": [
         "孙颖莎 难再战亚运"
       ],
-      "rank": 25,
+      "rank": 26,
       "sports_rank": 15
     },
     {
@@ -862,14 +876,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 48403,
+      "hot_value": 55413,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E9%A1%B9%E7%9B%AE%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90"
       },
       "raw_titles": [
         "电子竞技项目将退出亚运"
       ],
-      "rank": 26,
+      "rank": 27,
       "sports_rank": 16
     },
     {
@@ -878,14 +892,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 46896,
+      "hot_value": 55365,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E5%A5%B3%E5%8D%95%E4%BB%85%E5%BC%A0%E7%AB%8B%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95"
       },
       "raw_titles": [
         "亚运乒乓女单仅张立成功卫冕"
       ],
-      "rank": 27,
+      "rank": 28,
       "sports_rank": 17
     },
     {
@@ -894,14 +908,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 46739,
+      "hot_value": 55331,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B7%9F%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86"
       },
       "raw_titles": [
         "樊振东跟樊振东吵起来了"
       ],
-      "rank": 28,
+      "rank": 29,
       "sports_rank": 18
     },
     {
@@ -910,14 +924,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 33277,
+      "hot_value": 39367,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%941%E7%BB%B4%E4%B8%9C%E6%96%AF%E9%9C%8D%E7%89%B9"
       },
       "raw_titles": [
         "樊振东3比1维东斯霍特"
       ],
-      "rank": 31,
+      "rank": 32,
       "sports_rank": 19
     },
     {
@@ -926,15 +940,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 32468,
+      "hot_value": 38340,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E5%85%BC3%E9%A1%B91%E9%87%912%E9%93%B6"
       },
       "raw_titles": [
         "孙颖莎回应兼3项1金2银"
       ],
-      "rank": 32,
+      "rank": 33,
       "sports_rank": 20
+    },
+    {
+      "title": "孙颖莎说没有遗憾",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 35022,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%B2%A1%E6%9C%89%E9%81%97%E6%86%BE"
+      },
+      "raw_titles": [
+        "孙颖莎说没有遗憾"
+      ],
+      "rank": 34,
+      "sports_rank": 21
     },
     {
       "title": "孙颖莎坦言训练不足",
@@ -942,46 +972,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 32129,
+      "hot_value": 33440,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9D%A6%E8%A8%80%E8%AE%AD%E7%BB%83%E4%B8%8D%E8%B6%B3"
       },
       "raw_titles": [
         "孙颖莎坦言训练不足"
       ],
-      "rank": 33,
-      "sports_rank": 21
-    },
-    {
-      "title": "孙颖莎 成长磨砺",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 32115,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E6%88%90%E9%95%BF%E7%A3%A8%E7%A0%BA"
-      },
-      "raw_titles": [
-        "孙颖莎 成长磨砺"
-      ],
-      "rank": 34,
+      "rank": 35,
       "sports_rank": 22
     },
     {
-      "title": "樊振东3比0格拉尔多",
+      "title": "周雨称王曼昱孙颖莎双方打得很好",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 32112,
+      "hot_value": 33417,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%940%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A"
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E9%9B%A8%E7%A7%B0%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8F%8C%E6%96%B9%E6%89%93%E5%BE%97%E5%BE%88%E5%A5%BD"
       },
       "raw_titles": [
-        "樊振东3比0格拉尔多"
+        "周雨称王曼昱孙颖莎双方打得很好"
       ],
-      "rank": 35,
+      "rank": 36,
       "sports_rank": 23
     },
     {
@@ -990,14 +1004,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 9000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E5%A5%A5%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%98%9F%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%B4%A5%E5%A4%BA%E5%86%A0&sa=fyb_news"
       },
       "raw_titles": [
         "国际象棋奥赛 中国女队全程不败夺冠"
       ],
-      "rank": 36,
+      "rank": 37,
       "sports_rank": 24
     }
   ],
@@ -1008,14 +1022,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9202044,
+      "hot_value": 10869642,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%83%9F%E8%8A%B1%E5%92%8Cholymoly%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6"
       },
       "raw_titles": [
         "迪士尼烟花和holymoly的适配度"
       ],
-      "rank": 7,
+      "rank": 3,
       "movie_rank": 1
     },
     {
@@ -1024,7 +1038,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7688401,
+      "hot_value": 7677126,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%80%89%E6%89%8B%E5%A4%A7%E6%AD%A3%E6%9F%8F%E6%9E%97%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%86%8D%E5%88%9B%E4%BD%B3%E7%BB%A9"
       },
@@ -1035,20 +1049,36 @@
       "movie_rank": 2
     },
     {
+      "title": "王鹤棣一锹入秋",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7663231,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%80%E9%94%B9%E5%85%A5%E7%A7%8B"
+      },
+      "raw_titles": [
+        "王鹤棣一锹入秋"
+      ],
+      "rank": 9,
+      "movie_rank": 3
+    },
+    {
       "title": "我不是大师第九集封神",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7677056,
+      "hot_value": 7648675,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%B8%88%E7%AC%AC%E4%B9%9D%E9%9B%86%E5%B0%81%E7%A5%9E"
       },
       "raw_titles": [
         "我不是大师第九集封神"
       ],
-      "rank": 9,
-      "movie_rank": 3
+      "rank": 10,
+      "movie_rank": 4
     },
     {
       "title": "周深鸟巢再次唱响北京欢迎你",
@@ -1056,15 +1086,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7653668,
+      "hot_value": 7646455,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E9%B8%9F%E5%B7%A2%E5%86%8D%E6%AC%A1%E5%94%B1%E5%93%8D%E5%8C%97%E4%BA%AC%E6%AC%A2%E8%BF%8E%E4%BD%A0"
       },
       "raw_titles": [
         "周深鸟巢再次唱响北京欢迎你"
       ],
-      "rank": 10,
-      "movie_rank": 4
+      "rank": 11,
+      "movie_rank": 5
+    },
+    {
+      "title": "小沈阳沈春阳新电影重现白云黑土",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7627764,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B0%8F%E6%B2%88%E9%98%B3%E6%B2%88%E6%98%A5%E9%98%B3%E6%96%B0%E7%94%B5%E5%BD%B1%E9%87%8D%E7%8E%B0%E7%99%BD%E4%BA%91%E9%BB%91%E5%9C%9F"
+      },
+      "raw_titles": [
+        "小沈阳沈春阳新电影重现白云黑土"
+      ],
+      "rank": 12,
+      "movie_rank": 6
     },
     {
       "title": "金鹰奖",
@@ -1073,7 +1119,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 248116,
+      "hot_value": 258432,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96",
         "百度": "https://m.baidu.com/s?word=%E9%87%91%E9%B9%B0%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%E7%AB%A5%E5%B9%B4%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7&sa=fyb_news"
@@ -1081,24 +1127,8 @@
       "raw_titles": [
         "金鹰奖"
       ],
-      "rank": 14,
-      "movie_rank": 5
-    },
-    {
-      "title": "弹丸论破但是真人版",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 132590,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E4%BD%86%E6%98%AF%E7%9C%9F%E4%BA%BA%E7%89%88"
-      },
-      "raw_titles": [
-        "弹丸论破但是真人版"
-      ],
-      "rank": 16,
-      "movie_rank": 6
+      "rank": 15,
+      "movie_rank": 7
     },
     {
       "title": "火影攻略神和动画神梦幻联动",
@@ -1106,31 +1136,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 102127,
+      "hot_value": 127411,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%94%BB%E7%95%A5%E7%A5%9E%E5%92%8C%E5%8A%A8%E7%94%BB%E7%A5%9E%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8"
       },
       "raw_titles": [
         "火影攻略神和动画神梦幻联动"
       ],
-      "rank": 17,
-      "movie_rank": 7
+      "rank": 18,
+      "movie_rank": 8
     },
     {
-      "title": "张本智和爆冷出局",
+      "title": "弹丸论破但是真人版",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 75503,
+      "hot_value": 111594,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E4%BD%86%E6%98%AF%E7%9C%9F%E4%BA%BA%E7%89%88"
       },
       "raw_titles": [
-        "张本智和爆冷出局"
+        "弹丸论破但是真人版"
       ],
-      "rank": 21,
-      "movie_rank": 8
+      "rank": 19,
+      "movie_rank": 9
     },
     {
       "title": "兰香如故热度超过长相思",
@@ -1138,7 +1168,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 54610,
+      "hot_value": 70421,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E5%BA%A6%E8%B6%85%E8%BF%87%E9%95%BF%E7%9B%B8%E6%80%9D"
       },
@@ -1146,22 +1176,6 @@
         "兰香如故热度超过长相思"
       ],
       "rank": 22,
-      "movie_rank": 9
-    },
-    {
-      "title": "于和伟中乔体育品牌全球代言人",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 50105,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BA%8E%E5%92%8C%E4%BC%9F%E4%B8%AD%E4%B9%94%E4%BD%93%E8%82%B2%E5%93%81%E7%89%8C%E5%85%A8%E7%90%83%E4%BB%A3%E8%A8%80%E4%BA%BA"
-      },
-      "raw_titles": [
-        "于和伟中乔体育品牌全球代言人"
-      ],
-      "rank": 23,
       "movie_rank": 10
     },
     {
@@ -1170,16 +1184,32 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 49552,
+      "hot_value": 70041,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4%20%E5%A4%8D%E5%87%BA"
       },
       "raw_titles": [
         "王祖贤 复出"
       ],
-      "rank": 24,
-      "sports_rank": 14,
+      "rank": 23,
+      "sports_rank": 13,
       "movie_rank": 11
+    },
+    {
+      "title": "张本智和爆冷出局",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 62303,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80"
+      },
+      "raw_titles": [
+        "张本智和爆冷出局"
+      ],
+      "rank": 24,
+      "movie_rank": 12
     },
     {
       "title": "陈冠希吴彦祖王祖贤被指圈钱",
@@ -1187,15 +1217,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 46464,
+      "hot_value": 55287,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E5%86%A0%E5%B8%8C%E5%90%B4%E5%BD%A6%E7%A5%96%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%A2%AB%E6%8C%87%E5%9C%88%E9%92%B1"
       },
       "raw_titles": [
         "陈冠希吴彦祖王祖贤被指圈钱"
       ],
-      "rank": 29,
-      "movie_rank": 12
+      "rank": 30,
+      "movie_rank": 13
     },
     {
       "title": "肖战有3部待播剧",
@@ -1203,15 +1233,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 40292,
+      "hot_value": 55284,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%9C%893%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7"
       },
       "raw_titles": [
         "肖战有3部待播剧"
       ],
-      "rank": 30,
-      "movie_rank": 13
+      "rank": 31,
+      "movie_rank": 14
     }
   ]
 }
