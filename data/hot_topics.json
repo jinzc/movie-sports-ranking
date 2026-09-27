@@ -1,39 +1,43 @@
 {
-  "update_time": "2026-09-27 22:01:03",
-  "total": 37,
-  "sports_count": 25,
-  "movie_count": 13,
+  "update_time": "2026-09-27 23:01:09",
+  "total": 35,
+  "sports_count": 23,
+  "movie_count": 14,
   "all": [
     {
-      "title": "王曼昱战胜孙颖莎夺冠",
+      "title": "国足0比3新西兰",
       "category": "体育",
       "sources": [
+        "微博",
+        "百度",
+        "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 42062271,
+      "hot_value": 17309716,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E6%96%B0%E8%A5%BF%E5%85%B0",
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B0%E6%AF%943%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%9C%BA0-3%E6%96%B0%E8%A5%BF%E5%85%B0"
       },
       "raw_titles": [
-        "王曼昱战胜孙颖莎夺冠"
+        "国足0比3新西兰"
       ],
       "rank": 1,
       "sports_rank": 1
     },
     {
-      "title": "王曼昱亚运女单冠军",
+      "title": "陈圆将男子110米栏夺冠",
       "category": "体育",
       "sources": [
-        "百度",
         "抖音"
       ],
-      "hot_value": 12214842,
+      "hot_value": 12150923,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0"
+        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%9C%86%E5%B0%86%E7%94%B7%E5%AD%90110%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "王曼昱亚运女单冠军"
+        "陈圆将男子110米栏夺冠"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -44,7 +48,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11610859,
+      "hot_value": 11040167,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E7%94%B0%E5%BE%84%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E9%93%9C%E7%89%8C"
       },
@@ -55,55 +59,36 @@
       "sports_rank": 3
     },
     {
-      "title": "陈妤颉22秒93夺亚运200米银牌",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 10917860,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%8922%E7%A7%9293%E5%A4%BA%E4%BA%9A%E8%BF%90200%E7%B1%B3%E9%93%B6%E7%89%8C"
-      },
-      "raw_titles": [
-        "陈妤颉22秒93夺亚运200米银牌"
-      ],
-      "rank": 4,
-      "sports_rank": 4
-    },
-    {
-      "title": "国足0比3新西兰",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "微博",
-        "抖音"
-      ],
-      "hot_value": 9794158,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E8%A5%BF%E5%85%B0",
-        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0"
-      },
-      "raw_titles": [
-        "国足0比3新西兰"
-      ],
-      "rank": 5,
-      "sports_rank": 5
-    },
-    {
       "title": "国乒男双战胜日本夺冠",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9438136,
+      "hot_value": 9871615,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "国乒男双战胜日本夺冠"
       ],
-      "rank": 6,
-      "sports_rank": 6
+      "rank": 4,
+      "sports_rank": 4
+    },
+    {
+      "title": "陈妤颉22秒93夺亚运200米银牌",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 9856000,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%8922%E7%A7%9293%E5%A4%BA%E4%BA%9A%E8%BF%90200%E7%B1%B3%E9%93%B6%E7%89%8C"
+      },
+      "raw_titles": [
+        "陈妤颉22秒93夺亚运200米银牌"
+      ],
+      "rank": 5,
+      "sports_rank": 5
     },
     {
       "title": "石宇奇称亚运会后退役是谣言",
@@ -111,15 +96,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9130146,
+      "hot_value": 9292915,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%9F%B3%E5%AE%87%E5%A5%87%E7%A7%B0%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8E%E9%80%80%E5%BD%B9%E6%98%AF%E8%B0%A3%E8%A8%80"
       },
       "raw_titles": [
         "石宇奇称亚运会后退役是谣言"
       ],
-      "rank": 7,
-      "sports_rank": 7
+      "rank": 6,
+      "sports_rank": 6
     },
     {
       "title": "迪士尼烟花和holymoly的适配度",
@@ -127,47 +112,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8693475,
+      "hot_value": 8902533,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%83%9F%E8%8A%B1%E5%92%8Cholymoly%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6"
       },
       "raw_titles": [
         "迪士尼烟花和holymoly的适配度"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 1
     },
     {
-      "title": "陈圆将男子110米栏夺冠",
+      "title": "黄友闻亚运会男子200米摘银",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8266804,
+      "hot_value": 8196481,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%9C%86%E5%B0%86%E7%94%B7%E5%AD%90110%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+        "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%8F%8B%E9%97%BB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E5%AD%90200%E7%B1%B3%E6%91%98%E9%93%B6"
       },
       "raw_titles": [
-        "陈圆将男子110米栏夺冠"
+        "黄友闻亚运会男子200米摘银"
       ],
-      "rank": 9,
-      "sports_rank": 8
-    },
-    {
-      "title": "选手大正柏林马拉松再创佳绩",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7714199,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%80%89%E6%89%8B%E5%A4%A7%E6%AD%A3%E6%9F%8F%E6%9E%97%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%86%8D%E5%88%9B%E4%BD%B3%E7%BB%A9"
-      },
-      "raw_titles": [
-        "选手大正柏林马拉松再创佳绩"
-      ],
-      "rank": 10,
-      "movie_rank": 2
+      "rank": 8,
+      "sports_rank": 7
     },
     {
       "title": "周深鸟巢再次唱响北京欢迎你",
@@ -175,15 +144,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7663290,
+      "hot_value": 7780370,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E9%B8%9F%E5%B7%A2%E5%86%8D%E6%AC%A1%E5%94%B1%E5%93%8D%E5%8C%97%E4%BA%AC%E6%AC%A2%E8%BF%8E%E4%BD%A0"
       },
       "raw_titles": [
         "周深鸟巢再次唱响北京欢迎你"
       ],
-      "rank": 11,
+      "rank": 9,
+      "movie_rank": 2
+    },
+    {
+      "title": "选手大正柏林马拉松再创佳绩",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7727354,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%80%89%E6%89%8B%E5%A4%A7%E6%AD%A3%E6%9F%8F%E6%9E%97%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%86%8D%E5%88%9B%E4%BD%B3%E7%BB%A9"
+      },
+      "raw_titles": [
+        "选手大正柏林马拉松再创佳绩"
+      ],
+      "rank": 10,
       "movie_rank": 3
+    },
+    {
+      "title": "杨舒予发文回顾亚运",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7655118,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E8%88%92%E4%BA%88%E5%8F%91%E6%96%87%E5%9B%9E%E9%A1%BE%E4%BA%9A%E8%BF%90"
+      },
+      "raw_titles": [
+        "杨舒予发文回顾亚运"
+      ],
+      "rank": 11,
+      "sports_rank": 8
     },
     {
       "title": "王鹤棣一锹入秋",
@@ -191,7 +192,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7645840,
+      "hot_value": 7636888,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%80%E9%94%B9%E5%85%A5%E7%A7%8B"
       },
@@ -202,53 +203,37 @@
       "movie_rank": 4
     },
     {
-      "title": "杨舒予发文回顾亚运",
+      "title": "樊振东3比0格拉尔多",
       "category": "体育",
       "sources": [
-        "抖音"
+        "微博"
       ],
-      "hot_value": 7638490,
+      "hot_value": 1054237,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E8%88%92%E4%BA%88%E5%8F%91%E6%96%87%E5%9B%9E%E9%A1%BE%E4%BA%9A%E8%BF%90"
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%940%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A"
       },
       "raw_titles": [
-        "杨舒予发文回顾亚运"
+        "樊振东3比0格拉尔多"
       ],
       "rank": 13,
       "sports_rank": 9
     },
     {
-      "title": "孙颖莎亚军",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1262351,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%9A%E5%86%9B"
-      },
-      "raw_titles": [
-        "孙颖莎亚军"
-      ],
-      "rank": 14,
-      "sports_rank": 10
-    },
-    {
-      "title": "樊振东3比0格拉尔多",
+      "title": "孙颖莎说我可能等不到下届亚运会了",
       "category": "体育",
       "sources": [
         "微博",
         "微博"
       ],
-      "hot_value": 1253758,
+      "hot_value": 1001270,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A"
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A"
       },
       "raw_titles": [
-        "樊振东3比0格拉尔多"
+        "孙颖莎说我可能等不到下届亚运会了"
       ],
-      "rank": 15,
-      "sports_rank": 11
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "严子怡破亚运会纪录",
@@ -257,7 +242,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 1114446,
+      "hot_value": 637842,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95",
         "百度": "https://m.baidu.com/s?word=%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E4%BA%9A%E8%BF%90%E7%BA%AA%E5%BD%95&sa=fyb_news"
@@ -265,24 +250,8 @@
       "raw_titles": [
         "严子怡破亚运会纪录"
       ],
-      "rank": 16,
-      "sports_rank": 12
-    },
-    {
-      "title": "第五人格x韦唯为亚运助威",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 839106,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCx%E9%9F%A6%E5%94%AF%E4%B8%BA%E4%BA%9A%E8%BF%90%E5%8A%A9%E5%A8%81"
-      },
-      "raw_titles": [
-        "第五人格x韦唯为亚运助威"
-      ],
-      "rank": 17,
-      "sports_rank": 13
+      "rank": 15,
+      "sports_rank": 11
     },
     {
       "title": "弹丸论破但是真人版",
@@ -290,95 +259,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 772814,
+      "hot_value": 574849,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E4%BD%86%E6%98%AF%E7%9C%9F%E4%BA%BA%E7%89%88"
       },
       "raw_titles": [
         "弹丸论破但是真人版"
       ],
-      "rank": 18,
+      "rank": 16,
       "movie_rank": 5
     },
     {
-      "title": "金鹰奖",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 707505,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96"
-      },
-      "raw_titles": [
-        "金鹰奖"
-      ],
-      "rank": 19,
-      "movie_rank": 6
-    },
-    {
-      "title": "火影攻略神和动画神梦幻联动",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 621443,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%94%BB%E7%95%A5%E7%A5%9E%E5%92%8C%E5%8A%A8%E7%94%BB%E7%A5%9E%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8"
-      },
-      "raw_titles": [
-        "火影攻略神和动画神梦幻联动"
-      ],
-      "rank": 20,
-      "movie_rank": 7
-    },
-    {
-      "title": "国产动画秋季导视上线",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 510585,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E7%A7%8B%E5%AD%A3%E5%AF%BC%E8%A7%86%E4%B8%8A%E7%BA%BF"
-      },
-      "raw_titles": [
-        "国产动画秋季导视上线"
-      ],
-      "rank": 21,
-      "movie_rank": 8
-    },
-    {
-      "title": "亚运会名古屋特色美食",
+      "title": "第五人格x韦唯为亚运助威",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 497298,
+      "hot_value": 574846,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8F%A4%E5%B1%8B%E7%89%B9%E8%89%B2%E7%BE%8E%E9%A3%9F"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCx%E9%9F%A6%E5%94%AF%E4%B8%BA%E4%BA%9A%E8%BF%90%E5%8A%A9%E5%A8%81"
       },
       "raw_titles": [
-        "亚运会名古屋特色美食"
+        "第五人格x韦唯为亚运助威"
       ],
-      "rank": 22,
-      "sports_rank": 14
-    },
-    {
-      "title": "全球总决赛LPL能走多远",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 461641,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9BLPL%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
-      },
-      "raw_titles": [
-        "全球总决赛LPL能走多远"
-      ],
-      "rank": 23,
-      "sports_rank": 15
+      "rank": 17,
+      "sports_rank": 12
     },
     {
       "title": "曼城115项违规有何影响",
@@ -386,128 +291,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 447032,
+      "hot_value": 527630,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E115%E9%A1%B9%E8%BF%9D%E8%A7%84%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D"
       },
       "raw_titles": [
         "曼城115项违规有何影响"
       ],
-      "rank": 24,
-      "sports_rank": 16
+      "rank": 18,
+      "sports_rank": 13
     },
     {
-      "title": "乒乓球德甲联赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 445039,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E5%BE%B7%E7%94%B2%E8%81%94%E8%B5%9B"
-      },
-      "raw_titles": [
-        "乒乓球德甲联赛"
-      ],
-      "rank": 25,
-      "sports_rank": 17
-    },
-    {
-      "title": "孙颖莎 体力透支",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 374997,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E4%BD%93%E5%8A%9B%E9%80%8F%E6%94%AF"
-      },
-      "raw_titles": [
-        "孙颖莎 体力透支"
-      ],
-      "rank": 26,
-      "sports_rank": 18
-    },
-    {
-      "title": "李克勤迟到 草根歌手救场连唱20首",
+      "title": "火影攻略神和动画神梦幻联动",
       "category": "影视",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 342000,
+      "hot_value": 520930,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%BF%9F%E5%88%B0+%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B%E6%95%91%E5%9C%BA%E8%BF%9E%E5%94%B120%E9%A6%96&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%94%BB%E7%95%A5%E7%A5%9E%E5%92%8C%E5%8A%A8%E7%94%BB%E7%A5%9E%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8"
       },
       "raw_titles": [
-        "李克勤迟到 草根歌手救场连唱20首"
+        "火影攻略神和动画神梦幻联动"
       ],
-      "rank": 27,
-      "movie_rank": 9
+      "rank": 19,
+      "movie_rank": 6
     },
     {
-      "title": "樊振东票房破361万",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 326141,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A5%A8%E6%88%BF%E7%A0%B4361%E4%B8%87"
-      },
-      "raw_titles": [
-        "樊振东票房破361万"
-      ],
-      "rank": 28,
-      "sports_rank": 19,
-      "movie_rank": 10
-    },
-    {
-      "title": "严子怡亚运金牌",
+      "title": "亚运会名古屋特色美食",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 322215,
+      "hot_value": 510524,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%A5%E5%AD%90%E6%80%A1%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8F%A4%E5%B1%8B%E7%89%B9%E8%89%B2%E7%BE%8E%E9%A3%9F"
       },
       "raw_titles": [
-        "严子怡亚运金牌"
+        "亚运会名古屋特色美食"
       ],
-      "rank": 29,
-      "sports_rank": 20
+      "rank": 20,
+      "sports_rank": 14
     },
     {
-      "title": "孙颖莎银牌",
+      "title": "国产动画秋季导视上线",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 476560,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E7%A7%8B%E5%AD%A3%E5%AF%BC%E8%A7%86%E4%B8%8A%E7%BA%BF"
+      },
+      "raw_titles": [
+        "国产动画秋季导视上线"
+      ],
+      "rank": 21,
+      "movie_rank": 7
+    },
+    {
+      "title": "王曼昱亚运女单冠军",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 315000,
+      "hot_value": 450000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%93%B6%E7%89%8C&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "孙颖莎银牌"
+        "王曼昱亚运女单冠军"
       ],
-      "rank": 30,
-      "sports_rank": 21
+      "rank": 22,
+      "sports_rank": 15
     },
     {
-      "title": "刘欢在歌手上唱了大S写给范晓萱的歌",
+      "title": "金鹰奖",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 307656,
+      "hot_value": 409781,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E5%9C%A8%E6%AD%8C%E6%89%8B%E4%B8%8A%E5%94%B1%E4%BA%86%E5%A4%A7S%E5%86%99%E7%BB%99%E8%8C%83%E6%99%93%E8%90%B1%E7%9A%84%E6%AD%8C"
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96"
       },
       "raw_titles": [
-        "刘欢在歌手上唱了大S写给范晓萱的歌"
+        "金鹰奖"
       ],
-      "rank": 31,
-      "movie_rank": 11
+      "rank": 23,
+      "movie_rank": 8
     },
     {
       "title": "边伯贤林俊杰合唱交换余生",
@@ -515,31 +387,161 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 301853,
+      "hot_value": 372405,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E5%94%B1%E4%BA%A4%E6%8D%A2%E4%BD%99%E7%94%9F"
       },
       "raw_titles": [
         "边伯贤林俊杰合唱交换余生"
       ],
-      "rank": 32,
+      "rank": 24,
+      "movie_rank": 9
+    },
+    {
+      "title": "李克勤迟到 草根歌手救场连唱20首",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 351000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%BF%9F%E5%88%B0+%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B%E6%95%91%E5%9C%BA%E8%BF%9E%E5%94%B120%E9%A6%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "李克勤迟到 草根歌手救场连唱20首"
+      ],
+      "rank": 25,
+      "movie_rank": 10
+    },
+    {
+      "title": "全球总决赛LPL能走多远",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 335670,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9BLPL%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
+      },
+      "raw_titles": [
+        "全球总决赛LPL能走多远"
+      ],
+      "rank": 26,
+      "sports_rank": 16
+    },
+    {
+      "title": "樊振东票房破361万",
+      "category": "综合",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 320047,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A5%A8%E6%88%BF%E7%A0%B4361%E4%B8%87"
+      },
+      "raw_titles": [
+        "樊振东票房破361万"
+      ],
+      "rank": 27,
+      "sports_rank": 17,
+      "movie_rank": 11
+    },
+    {
+      "title": "刘欢在歌手上唱了大S写给范晓萱的歌",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 281326,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E5%9C%A8%E6%AD%8C%E6%89%8B%E4%B8%8A%E5%94%B1%E4%BA%86%E5%A4%A7S%E5%86%99%E7%BB%99%E8%8C%83%E6%99%93%E8%90%B1%E7%9A%84%E6%AD%8C"
+      },
+      "raw_titles": [
+        "刘欢在歌手上唱了大S写给范晓萱的歌"
+      ],
+      "rank": 28,
       "movie_rank": 12
     },
     {
-      "title": "18岁严子怡破纪录夺冠",
+      "title": "张本智和爆冷出局",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 278969,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80"
+      },
+      "raw_titles": [
+        "张本智和爆冷出局"
+      ],
+      "rank": 29,
+      "movie_rank": 13
+    },
+    {
+      "title": "王曼昱说比赛前莎莎一直有伤病困扰",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 210294,
+      "hot_value": 272672,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=18%E5%B2%81%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E6%AF%94%E8%B5%9B%E5%89%8D%E8%8E%8E%E8%8E%8E%E4%B8%80%E7%9B%B4%E6%9C%89%E4%BC%A4%E7%97%85%E5%9B%B0%E6%89%B0"
       },
       "raw_titles": [
-        "18岁严子怡破纪录夺冠"
+        "王曼昱说比赛前莎莎一直有伤病困扰"
+      ],
+      "rank": 30,
+      "sports_rank": 18
+    },
+    {
+      "title": "孙颖莎说身体差不多到极限了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 243407,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E8%BA%AB%E4%BD%93%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%88%B0%E6%9E%81%E9%99%90%E4%BA%86"
+      },
+      "raw_titles": [
+        "孙颖莎说身体差不多到极限了"
+      ],
+      "rank": 31,
+      "sports_rank": 19
+    },
+    {
+      "title": "樊振东vs维东斯霍特",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 241427,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%BB%B4%E4%B8%9C%E6%96%AF%E9%9C%8D%E7%89%B9"
+      },
+      "raw_titles": [
+        "樊振东vs维东斯霍特"
+      ],
+      "rank": 32,
+      "sports_rank": 20
+    },
+    {
+      "title": "巴黎偶遇迪丽热巴拿着玩偶出街",
+      "category": "综合",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 226068,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8B%BF%E7%9D%80%E7%8E%A9%E5%81%B6%E5%87%BA%E8%A1%97"
+      },
+      "raw_titles": [
+        "巴黎偶遇迪丽热巴拿着玩偶出街"
       ],
       "rank": 33,
-      "sports_rank": 22
+      "sports_rank": 21,
+      "movie_rank": 14
     },
     {
       "title": "面对伊朗怪球手 王楚钦如何准备",
@@ -547,7 +549,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 117000,
+      "hot_value": 171000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%9D%A2%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%80%AA%E7%90%83%E6%89%8B+%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A6%82%E4%BD%95%E5%87%86%E5%A4%87&sa=fyb_news"
       },
@@ -555,88 +557,60 @@
         "面对伊朗怪球手 王楚钦如何准备"
       ],
       "rank": 34,
-      "sports_rank": 23
+      "sports_rank": 22
     },
     {
-      "title": "孙颖莎：我可能等不到下届亚运会了",
+      "title": "国乒实现女单亚运会八连冠",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 99000,
+      "hot_value": 45000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%EF%BC%9A%E6%88%91%E5%8F%AF%E8%83%BD%E7%AD%89%E4%B8%8D%E5%88%B0%E4%B8%8B%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BA%86&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%AE%9E%E7%8E%B0%E5%A5%B3%E5%8D%95%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E8%BF%9E%E5%86%A0&sa=fyb_news"
       },
       "raw_titles": [
-        "孙颖莎：我可能等不到下届亚运会了"
+        "国乒实现女单亚运会八连冠"
       ],
       "rank": 35,
-      "sports_rank": 24
-    },
-    {
-      "title": "首部AI院线电影定档",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 27000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%A6%96%E9%83%A8AI%E9%99%A2%E7%BA%BF%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3&sa=fyb_news"
-      },
-      "raw_titles": [
-        "首部AI院线电影定档"
-      ],
-      "rank": 36,
-      "movie_rank": 13
-    },
-    {
-      "title": "国际象棋奥赛 中国女队全程不败夺冠",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E5%A5%A5%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%98%9F%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%B4%A5%E5%A4%BA%E5%86%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "国际象棋奥赛 中国女队全程不败夺冠"
-      ],
-      "rank": 37,
-      "sports_rank": 25
+      "sports_rank": 23
     }
   ],
   "sports": [
     {
-      "title": "王曼昱战胜孙颖莎夺冠",
+      "title": "国足0比3新西兰",
       "category": "体育",
       "sources": [
+        "微博",
+        "百度",
+        "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 42062271,
+      "hot_value": 17309716,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E6%96%B0%E8%A5%BF%E5%85%B0",
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B0%E6%AF%943%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%9C%BA0-3%E6%96%B0%E8%A5%BF%E5%85%B0"
       },
       "raw_titles": [
-        "王曼昱战胜孙颖莎夺冠"
+        "国足0比3新西兰"
       ],
       "rank": 1,
       "sports_rank": 1
     },
     {
-      "title": "王曼昱亚运女单冠军",
+      "title": "陈圆将男子110米栏夺冠",
       "category": "体育",
       "sources": [
-        "百度",
         "抖音"
       ],
-      "hot_value": 12214842,
+      "hot_value": 12150923,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0"
+        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%9C%86%E5%B0%86%E7%94%B7%E5%AD%90110%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "王曼昱亚运女单冠军"
+        "陈圆将男子110米栏夺冠"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -647,7 +621,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11610859,
+      "hot_value": 11040167,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E7%94%B0%E5%BE%84%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E9%93%9C%E7%89%8C"
       },
@@ -658,55 +632,36 @@
       "sports_rank": 3
     },
     {
-      "title": "陈妤颉22秒93夺亚运200米银牌",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 10917860,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%8922%E7%A7%9293%E5%A4%BA%E4%BA%9A%E8%BF%90200%E7%B1%B3%E9%93%B6%E7%89%8C"
-      },
-      "raw_titles": [
-        "陈妤颉22秒93夺亚运200米银牌"
-      ],
-      "rank": 4,
-      "sports_rank": 4
-    },
-    {
-      "title": "国足0比3新西兰",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "微博",
-        "抖音"
-      ],
-      "hot_value": 9794158,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E8%A5%BF%E5%85%B0",
-        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0"
-      },
-      "raw_titles": [
-        "国足0比3新西兰"
-      ],
-      "rank": 5,
-      "sports_rank": 5
-    },
-    {
       "title": "国乒男双战胜日本夺冠",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9438136,
+      "hot_value": 9871615,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "国乒男双战胜日本夺冠"
       ],
-      "rank": 6,
-      "sports_rank": 6
+      "rank": 4,
+      "sports_rank": 4
+    },
+    {
+      "title": "陈妤颉22秒93夺亚运200米银牌",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 9856000,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%8922%E7%A7%9293%E5%A4%BA%E4%BA%9A%E8%BF%90200%E7%B1%B3%E9%93%B6%E7%89%8C"
+      },
+      "raw_titles": [
+        "陈妤颉22秒93夺亚运200米银牌"
+      ],
+      "rank": 5,
+      "sports_rank": 5
     },
     {
       "title": "石宇奇称亚运会后退役是谣言",
@@ -714,31 +669,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9130146,
+      "hot_value": 9292915,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%9F%B3%E5%AE%87%E5%A5%87%E7%A7%B0%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8E%E9%80%80%E5%BD%B9%E6%98%AF%E8%B0%A3%E8%A8%80"
       },
       "raw_titles": [
         "石宇奇称亚运会后退役是谣言"
       ],
-      "rank": 7,
-      "sports_rank": 7
+      "rank": 6,
+      "sports_rank": 6
     },
     {
-      "title": "陈圆将男子110米栏夺冠",
+      "title": "黄友闻亚运会男子200米摘银",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8266804,
+      "hot_value": 8196481,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%99%88%E5%9C%86%E5%B0%86%E7%94%B7%E5%AD%90110%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0"
+        "抖音": "https://www.douyin.com/search/%E9%BB%84%E5%8F%8B%E9%97%BB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E5%AD%90200%E7%B1%B3%E6%91%98%E9%93%B6"
       },
       "raw_titles": [
-        "陈圆将男子110米栏夺冠"
+        "黄友闻亚运会男子200米摘银"
       ],
-      "rank": 9,
-      "sports_rank": 8
+      "rank": 8,
+      "sports_rank": 7
     },
     {
       "title": "杨舒予发文回顾亚运",
@@ -746,48 +701,48 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7638490,
+      "hot_value": 7655118,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E8%88%92%E4%BA%88%E5%8F%91%E6%96%87%E5%9B%9E%E9%A1%BE%E4%BA%9A%E8%BF%90"
       },
       "raw_titles": [
         "杨舒予发文回顾亚运"
       ],
-      "rank": 13,
-      "sports_rank": 9
-    },
-    {
-      "title": "孙颖莎亚军",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1262351,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%9A%E5%86%9B"
-      },
-      "raw_titles": [
-        "孙颖莎亚军"
-      ],
-      "rank": 14,
-      "sports_rank": 10
+      "rank": 11,
+      "sports_rank": 8
     },
     {
       "title": "樊振东3比0格拉尔多",
       "category": "体育",
       "sources": [
-        "微博",
         "微博"
       ],
-      "hot_value": 1253758,
+      "hot_value": 1054237,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A"
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%940%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A"
       },
       "raw_titles": [
         "樊振东3比0格拉尔多"
       ],
-      "rank": 15,
-      "sports_rank": 11
+      "rank": 13,
+      "sports_rank": 9
+    },
+    {
+      "title": "孙颖莎说我可能等不到下届亚运会了",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 1001270,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A"
+      },
+      "raw_titles": [
+        "孙颖莎说我可能等不到下届亚运会了"
+      ],
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "严子怡破亚运会纪录",
@@ -796,7 +751,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 1114446,
+      "hot_value": 637842,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95",
         "百度": "https://m.baidu.com/s?word=%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E4%BA%9A%E8%BF%90%E7%BA%AA%E5%BD%95&sa=fyb_news"
@@ -804,8 +759,8 @@
       "raw_titles": [
         "严子怡破亚运会纪录"
       ],
-      "rank": 16,
-      "sports_rank": 12
+      "rank": 15,
+      "sports_rank": 11
     },
     {
       "title": "第五人格x韦唯为亚运助威",
@@ -813,7 +768,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 839106,
+      "hot_value": 574846,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCx%E9%9F%A6%E5%94%AF%E4%B8%BA%E4%BA%9A%E8%BF%90%E5%8A%A9%E5%A8%81"
       },
@@ -821,6 +776,22 @@
         "第五人格x韦唯为亚运助威"
       ],
       "rank": 17,
+      "sports_rank": 12
+    },
+    {
+      "title": "曼城115项违规有何影响",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 527630,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E115%E9%A1%B9%E8%BF%9D%E8%A7%84%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D"
+      },
+      "raw_titles": [
+        "曼城115项违规有何影响"
+      ],
+      "rank": 18,
       "sports_rank": 13
     },
     {
@@ -829,15 +800,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 497298,
+      "hot_value": 510524,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8F%A4%E5%B1%8B%E7%89%B9%E8%89%B2%E7%BE%8E%E9%A3%9F"
       },
       "raw_titles": [
         "亚运会名古屋特色美食"
       ],
-      "rank": 22,
+      "rank": 20,
       "sports_rank": 14
+    },
+    {
+      "title": "王曼昱亚运女单冠军",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 450000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王曼昱亚运女单冠军"
+      ],
+      "rank": 22,
+      "sports_rank": 15
     },
     {
       "title": "全球总决赛LPL能走多远",
@@ -845,63 +832,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 461641,
+      "hot_value": 335670,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9BLPL%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C"
       },
       "raw_titles": [
         "全球总决赛LPL能走多远"
       ],
-      "rank": 23,
-      "sports_rank": 15
-    },
-    {
-      "title": "曼城115项违规有何影响",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 447032,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E115%E9%A1%B9%E8%BF%9D%E8%A7%84%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D"
-      },
-      "raw_titles": [
-        "曼城115项违规有何影响"
-      ],
-      "rank": 24,
-      "sports_rank": 16
-    },
-    {
-      "title": "乒乓球德甲联赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 445039,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E5%BE%B7%E7%94%B2%E8%81%94%E8%B5%9B"
-      },
-      "raw_titles": [
-        "乒乓球德甲联赛"
-      ],
-      "rank": 25,
-      "sports_rank": 17
-    },
-    {
-      "title": "孙颖莎 体力透支",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 374997,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E4%BD%93%E5%8A%9B%E9%80%8F%E6%94%AF"
-      },
-      "raw_titles": [
-        "孙颖莎 体力透支"
-      ],
       "rank": 26,
-      "sports_rank": 18
+      "sports_rank": 16
     },
     {
       "title": "樊振东票房破361万",
@@ -909,64 +848,81 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 326141,
+      "hot_value": 320047,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A5%A8%E6%88%BF%E7%A0%B4361%E4%B8%87"
       },
       "raw_titles": [
         "樊振东票房破361万"
       ],
-      "rank": 28,
-      "sports_rank": 19,
-      "movie_rank": 10
+      "rank": 27,
+      "sports_rank": 17,
+      "movie_rank": 11
     },
     {
-      "title": "严子怡亚运金牌",
+      "title": "王曼昱说比赛前莎莎一直有伤病困扰",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 322215,
+      "hot_value": 272672,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%A5%E5%AD%90%E6%80%A1%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E6%AF%94%E8%B5%9B%E5%89%8D%E8%8E%8E%E8%8E%8E%E4%B8%80%E7%9B%B4%E6%9C%89%E4%BC%A4%E7%97%85%E5%9B%B0%E6%89%B0"
       },
       "raw_titles": [
-        "严子怡亚运金牌"
+        "王曼昱说比赛前莎莎一直有伤病困扰"
       ],
-      "rank": 29,
+      "rank": 30,
+      "sports_rank": 18
+    },
+    {
+      "title": "孙颖莎说身体差不多到极限了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 243407,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E8%BA%AB%E4%BD%93%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%88%B0%E6%9E%81%E9%99%90%E4%BA%86"
+      },
+      "raw_titles": [
+        "孙颖莎说身体差不多到极限了"
+      ],
+      "rank": 31,
+      "sports_rank": 19
+    },
+    {
+      "title": "樊振东vs维东斯霍特",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 241427,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%BB%B4%E4%B8%9C%E6%96%AF%E9%9C%8D%E7%89%B9"
+      },
+      "raw_titles": [
+        "樊振东vs维东斯霍特"
+      ],
+      "rank": 32,
       "sports_rank": 20
     },
     {
-      "title": "孙颖莎银牌",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 315000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%93%B6%E7%89%8C&sa=fyb_news"
-      },
-      "raw_titles": [
-        "孙颖莎银牌"
-      ],
-      "rank": 30,
-      "sports_rank": 21
-    },
-    {
-      "title": "18岁严子怡破纪录夺冠",
-      "category": "体育",
+      "title": "巴黎偶遇迪丽热巴拿着玩偶出街",
+      "category": "综合",
       "sources": [
         "微博"
       ],
-      "hot_value": 210294,
+      "hot_value": 226068,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=18%E5%B2%81%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8B%BF%E7%9D%80%E7%8E%A9%E5%81%B6%E5%87%BA%E8%A1%97"
       },
       "raw_titles": [
-        "18岁严子怡破纪录夺冠"
+        "巴黎偶遇迪丽热巴拿着玩偶出街"
       ],
       "rank": 33,
-      "sports_rank": 22
+      "sports_rank": 21,
+      "movie_rank": 14
     },
     {
       "title": "面对伊朗怪球手 王楚钦如何准备",
@@ -974,7 +930,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 117000,
+      "hot_value": 171000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%9D%A2%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%80%AA%E7%90%83%E6%89%8B+%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A6%82%E4%BD%95%E5%87%86%E5%A4%87&sa=fyb_news"
       },
@@ -982,39 +938,23 @@
         "面对伊朗怪球手 王楚钦如何准备"
       ],
       "rank": 34,
-      "sports_rank": 23
+      "sports_rank": 22
     },
     {
-      "title": "孙颖莎：我可能等不到下届亚运会了",
+      "title": "国乒实现女单亚运会八连冠",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 99000,
+      "hot_value": 45000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%EF%BC%9A%E6%88%91%E5%8F%AF%E8%83%BD%E7%AD%89%E4%B8%8D%E5%88%B0%E4%B8%8B%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BA%86&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%AE%9E%E7%8E%B0%E5%A5%B3%E5%8D%95%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E8%BF%9E%E5%86%A0&sa=fyb_news"
       },
       "raw_titles": [
-        "孙颖莎：我可能等不到下届亚运会了"
+        "国乒实现女单亚运会八连冠"
       ],
       "rank": 35,
-      "sports_rank": 24
-    },
-    {
-      "title": "国际象棋奥赛 中国女队全程不败夺冠",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E5%A5%A5%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%98%9F%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%B4%A5%E5%A4%BA%E5%86%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "国际象棋奥赛 中国女队全程不败夺冠"
-      ],
-      "rank": 37,
-      "sports_rank": 25
+      "sports_rank": 23
     }
   ],
   "movies": [
@@ -1024,31 +964,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8693475,
+      "hot_value": 8902533,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%83%9F%E8%8A%B1%E5%92%8Cholymoly%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6"
       },
       "raw_titles": [
         "迪士尼烟花和holymoly的适配度"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 1
-    },
-    {
-      "title": "选手大正柏林马拉松再创佳绩",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7714199,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%80%89%E6%89%8B%E5%A4%A7%E6%AD%A3%E6%9F%8F%E6%9E%97%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%86%8D%E5%88%9B%E4%BD%B3%E7%BB%A9"
-      },
-      "raw_titles": [
-        "选手大正柏林马拉松再创佳绩"
-      ],
-      "rank": 10,
-      "movie_rank": 2
     },
     {
       "title": "周深鸟巢再次唱响北京欢迎你",
@@ -1056,14 +980,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7663290,
+      "hot_value": 7780370,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E9%B8%9F%E5%B7%A2%E5%86%8D%E6%AC%A1%E5%94%B1%E5%93%8D%E5%8C%97%E4%BA%AC%E6%AC%A2%E8%BF%8E%E4%BD%A0"
       },
       "raw_titles": [
         "周深鸟巢再次唱响北京欢迎你"
       ],
-      "rank": 11,
+      "rank": 9,
+      "movie_rank": 2
+    },
+    {
+      "title": "选手大正柏林马拉松再创佳绩",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7727354,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%80%89%E6%89%8B%E5%A4%A7%E6%AD%A3%E6%9F%8F%E6%9E%97%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%86%8D%E5%88%9B%E4%BD%B3%E7%BB%A9"
+      },
+      "raw_titles": [
+        "选手大正柏林马拉松再创佳绩"
+      ],
+      "rank": 10,
       "movie_rank": 3
     },
     {
@@ -1072,7 +1012,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7645840,
+      "hot_value": 7636888,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%80%E9%94%B9%E5%85%A5%E7%A7%8B"
       },
@@ -1088,31 +1028,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 772814,
+      "hot_value": 574849,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E4%BD%86%E6%98%AF%E7%9C%9F%E4%BA%BA%E7%89%88"
       },
       "raw_titles": [
         "弹丸论破但是真人版"
       ],
-      "rank": 18,
+      "rank": 16,
       "movie_rank": 5
-    },
-    {
-      "title": "金鹰奖",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 707505,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96"
-      },
-      "raw_titles": [
-        "金鹰奖"
-      ],
-      "rank": 19,
-      "movie_rank": 6
     },
     {
       "title": "火影攻略神和动画神梦幻联动",
@@ -1120,15 +1044,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 621443,
+      "hot_value": 520930,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%94%BB%E7%95%A5%E7%A5%9E%E5%92%8C%E5%8A%A8%E7%94%BB%E7%A5%9E%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8"
       },
       "raw_titles": [
         "火影攻略神和动画神梦幻联动"
       ],
-      "rank": 20,
-      "movie_rank": 7
+      "rank": 19,
+      "movie_rank": 6
     },
     {
       "title": "国产动画秋季导视上线",
@@ -1136,7 +1060,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 510585,
+      "hot_value": 476560,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E7%A7%8B%E5%AD%A3%E5%AF%BC%E8%A7%86%E4%B8%8A%E7%BA%BF"
       },
@@ -1144,56 +1068,23 @@
         "国产动画秋季导视上线"
       ],
       "rank": 21,
+      "movie_rank": 7
+    },
+    {
+      "title": "金鹰奖",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 409781,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96"
+      },
+      "raw_titles": [
+        "金鹰奖"
+      ],
+      "rank": 23,
       "movie_rank": 8
-    },
-    {
-      "title": "李克勤迟到 草根歌手救场连唱20首",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 342000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%BF%9F%E5%88%B0+%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B%E6%95%91%E5%9C%BA%E8%BF%9E%E5%94%B120%E9%A6%96&sa=fyb_news"
-      },
-      "raw_titles": [
-        "李克勤迟到 草根歌手救场连唱20首"
-      ],
-      "rank": 27,
-      "movie_rank": 9
-    },
-    {
-      "title": "樊振东票房破361万",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 326141,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A5%A8%E6%88%BF%E7%A0%B4361%E4%B8%87"
-      },
-      "raw_titles": [
-        "樊振东票房破361万"
-      ],
-      "rank": 28,
-      "sports_rank": 19,
-      "movie_rank": 10
-    },
-    {
-      "title": "刘欢在歌手上唱了大S写给范晓萱的歌",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 307656,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E5%9C%A8%E6%AD%8C%E6%89%8B%E4%B8%8A%E5%94%B1%E4%BA%86%E5%A4%A7S%E5%86%99%E7%BB%99%E8%8C%83%E6%99%93%E8%90%B1%E7%9A%84%E6%AD%8C"
-      },
-      "raw_titles": [
-        "刘欢在歌手上唱了大S写给范晓萱的歌"
-      ],
-      "rank": 31,
-      "movie_rank": 11
     },
     {
       "title": "边伯贤林俊杰合唱交换余生",
@@ -1201,31 +1092,97 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 301853,
+      "hot_value": 372405,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E5%94%B1%E4%BA%A4%E6%8D%A2%E4%BD%99%E7%94%9F"
       },
       "raw_titles": [
         "边伯贤林俊杰合唱交换余生"
       ],
-      "rank": 32,
-      "movie_rank": 12
+      "rank": 24,
+      "movie_rank": 9
     },
     {
-      "title": "首部AI院线电影定档",
+      "title": "李克勤迟到 草根歌手救场连唱20首",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 27000,
+      "hot_value": 351000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%A6%96%E9%83%A8AI%E9%99%A2%E7%BA%BF%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%BF%9F%E5%88%B0+%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B%E6%95%91%E5%9C%BA%E8%BF%9E%E5%94%B120%E9%A6%96&sa=fyb_news"
       },
       "raw_titles": [
-        "首部AI院线电影定档"
+        "李克勤迟到 草根歌手救场连唱20首"
       ],
-      "rank": 36,
+      "rank": 25,
+      "movie_rank": 10
+    },
+    {
+      "title": "樊振东票房破361万",
+      "category": "综合",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 320047,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A5%A8%E6%88%BF%E7%A0%B4361%E4%B8%87"
+      },
+      "raw_titles": [
+        "樊振东票房破361万"
+      ],
+      "rank": 27,
+      "sports_rank": 17,
+      "movie_rank": 11
+    },
+    {
+      "title": "刘欢在歌手上唱了大S写给范晓萱的歌",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 281326,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E5%9C%A8%E6%AD%8C%E6%89%8B%E4%B8%8A%E5%94%B1%E4%BA%86%E5%A4%A7S%E5%86%99%E7%BB%99%E8%8C%83%E6%99%93%E8%90%B1%E7%9A%84%E6%AD%8C"
+      },
+      "raw_titles": [
+        "刘欢在歌手上唱了大S写给范晓萱的歌"
+      ],
+      "rank": 28,
+      "movie_rank": 12
+    },
+    {
+      "title": "张本智和爆冷出局",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 278969,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80"
+      },
+      "raw_titles": [
+        "张本智和爆冷出局"
+      ],
+      "rank": 29,
       "movie_rank": 13
+    },
+    {
+      "title": "巴黎偶遇迪丽热巴拿着玩偶出街",
+      "category": "综合",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 226068,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8B%BF%E7%9D%80%E7%8E%A9%E5%81%B6%E5%87%BA%E8%A1%97"
+      },
+      "raw_titles": [
+        "巴黎偶遇迪丽热巴拿着玩偶出街"
+      ],
+      "rank": 33,
+      "sports_rank": 21,
+      "movie_rank": 14
     }
   ]
 }
