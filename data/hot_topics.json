@@ -1,24 +1,58 @@
 {
-  "update_time": "2026-10-02 16:00:51",
+  "update_time": "2026-10-02 17:00:47",
   "total": 32,
-  "sports_count": 13,
-  "movie_count": 20,
+  "sports_count": 16,
+  "movie_count": 17,
   "all": [
     {
-      "title": "郑州金融岛把张杰演唱会续上了",
+      "title": "中国女足无缘亚运奖牌",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 11500834,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E5%A5%96%E7%89%8C",
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C"
+      },
+      "raw_titles": [
+        "中国女足无缘亚运奖牌"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
+      "title": "电影神探之痕迹破亿",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8093853,
+      "hot_value": 9051591,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%83%91%E5%B7%9E%E9%87%91%E8%9E%8D%E5%B2%9B%E6%8A%8A%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%AD%E4%B8%8A%E4%BA%86"
+        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E7%A0%B4%E4%BA%BF"
       },
       "raw_titles": [
-        "郑州金融岛把张杰演唱会续上了"
+        "电影神探之痕迹破亿"
       ],
-      "rank": 1,
+      "rank": 2,
       "movie_rank": 1
+    },
+    {
+      "title": "王俊凯拍戏遇上真刀太好笑",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8233088,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%8B%8D%E6%88%8F%E9%81%87%E4%B8%8A%E7%9C%9F%E5%88%80%E5%A4%AA%E5%A5%BD%E7%AC%91"
+      },
+      "raw_titles": [
+        "王俊凯拍戏遇上真刀太好笑"
+      ],
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "电影什么意思夫妇喜剧人团建",
@@ -26,31 +60,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7776655,
+      "hot_value": 7818075,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E5%96%9C%E5%89%A7%E4%BA%BA%E5%9B%A2%E5%BB%BA"
       },
       "raw_titles": [
         "电影什么意思夫妇喜剧人团建"
       ],
-      "rank": 2,
-      "movie_rank": 2
+      "rank": 4,
+      "movie_rank": 3
     },
     {
-      "title": "电影神探之痕迹观后感",
+      "title": "郑州金融岛把张杰演唱会续上了",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7727696,
+      "hot_value": 7731690,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E8%A7%82%E5%90%8E%E6%84%9F"
+        "抖音": "https://www.douyin.com/search/%E9%83%91%E5%B7%9E%E9%87%91%E8%9E%8D%E5%B2%9B%E6%8A%8A%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%AD%E4%B8%8A%E4%BA%86"
       },
       "raw_titles": [
-        "电影神探之痕迹观后感"
+        "郑州金融岛把张杰演唱会续上了"
       ],
-      "rank": 3,
-      "movie_rank": 3
+      "rank": 5,
+      "movie_rank": 4
     },
     {
       "title": "亚运LOL韩国夺金赛后数据",
@@ -59,129 +93,31 @@
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 1108584,
+      "hot_value": 978082,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90LOL%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%BE%97%E9%87%91%E7%89%8C"
       },
       "raw_titles": [
         "亚运LOL韩国夺金赛后数据"
       ],
-      "rank": 4,
-      "sports_rank": 1
-    },
-    {
-      "title": "电视剧喜剧之王定档",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 536527,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E5%AE%9A%E6%A1%A3",
-        "百度": "https://m.baidu.com/s?word=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E3%80%8B%E5%AE%9A%E6%A1%A3&sa=fyb_news"
-      },
-      "raw_titles": [
-        "电视剧喜剧之王定档"
-      ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "我军新装备似电影机甲",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453824,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%9B%E6%96%B0%E8%A3%85%E5%A4%87%E4%BC%BC%E7%94%B5%E5%BD%B1%E6%9C%BA%E7%94%B2"
-      },
-      "raw_titles": [
-        "我军新装备似电影机甲"
-      ],
       "rank": 6,
-      "movie_rank": 5
-    },
-    {
-      "title": "跟着亚运探秘日本最贵关东煮",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453823,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E7%9D%80%E4%BA%9A%E8%BF%90%E6%8E%A2%E7%A7%98%E6%97%A5%E6%9C%AC%E6%9C%80%E8%B4%B5%E5%85%B3%E4%B8%9C%E7%85%AE"
-      },
-      "raw_titles": [
-        "跟着亚运探秘日本最贵关东煮"
-      ],
-      "rank": 7,
       "sports_rank": 2
     },
     {
-      "title": "原神剧情PV燕归来",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453822,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E7%87%95%E5%BD%92%E6%9D%A5"
-      },
-      "raw_titles": [
-        "原神剧情PV燕归来"
-      ],
-      "rank": 8,
-      "movie_rank": 6
-    },
-    {
-      "title": "国庆档大片排雷指南",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453821,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%A1%A3%E5%A4%A7%E7%89%87%E6%8E%92%E9%9B%B7%E6%8C%87%E5%8D%97"
-      },
-      "raw_titles": [
-        "国庆档大片排雷指南"
-      ],
-      "rank": 9,
-      "movie_rank": 7
-    },
-    {
-      "title": "鬼叔黍做客央视开拓者",
+      "title": "F1巴林大奖赛一练集锦",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 453818,
+      "hot_value": 686570,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AC%BC%E5%8F%94%E9%BB%8D%E5%81%9A%E5%AE%A2%E5%A4%AE%E8%A7%86%E5%BC%80%E6%8B%93%E8%80%85"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%B7%B4%E6%9E%97%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%B8%80%E7%BB%83%E9%9B%86%E9%94%A6"
       },
       "raw_titles": [
-        "鬼叔黍做客央视开拓者"
+        "F1巴林大奖赛一练集锦"
       ],
-      "rank": 10,
+      "rank": 7,
       "sports_rank": 3
-    },
-    {
-      "title": "C罗为何要自宣离队",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453815,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F"
-      },
-      "raw_titles": [
-        "C罗为何要自宣离队"
-      ],
-      "rank": 11,
-      "sports_rank": 4
     },
     {
       "title": "曝杜伦以5年2亿续约活塞",
@@ -189,30 +125,158 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 450283,
+      "hot_value": 504250,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E6%9D%9C%E4%BC%A6%E4%BB%A55%E5%B9%B42%E4%BA%BF%E7%BB%AD%E7%BA%A6%E6%B4%BB%E5%A1%9E"
       },
       "raw_titles": [
         "曝杜伦以5年2亿续约活塞"
       ],
-      "rank": 12,
+      "rank": 8,
+      "sports_rank": 4
+    },
+    {
+      "title": "C罗为何要自宣离队",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 501598,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F"
+      },
+      "raw_titles": [
+        "C罗为何要自宣离队"
+      ],
+      "rank": 9,
       "sports_rank": 5
     },
     {
-      "title": "《第一炉香》 选角失败",
+      "title": "跟着亚运探秘日本最贵关东煮",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 501594,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E7%9D%80%E4%BA%9A%E8%BF%90%E6%8E%A2%E7%A7%98%E6%97%A5%E6%9C%AC%E6%9C%80%E8%B4%B5%E5%85%B3%E4%B8%9C%E7%85%AE"
+      },
+      "raw_titles": [
+        "跟着亚运探秘日本最贵关东煮"
+      ],
+      "rank": 10,
+      "sports_rank": 6
+    },
+    {
+      "title": "鬼叔黍做客央视开拓者",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 501593,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AC%BC%E5%8F%94%E9%BB%8D%E5%81%9A%E5%AE%A2%E5%A4%AE%E8%A7%86%E5%BC%80%E6%8B%93%E8%80%85"
+      },
+      "raw_titles": [
+        "鬼叔黍做客央视开拓者"
+      ],
+      "rank": 11,
+      "sports_rank": 7
+    },
+    {
+      "title": "国庆档大片排雷指南",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 501585,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%A1%A3%E5%A4%A7%E7%89%87%E6%8E%92%E9%9B%B7%E6%8C%87%E5%8D%97"
+      },
+      "raw_titles": [
+        "国庆档大片排雷指南"
+      ],
+      "rank": 12,
+      "movie_rank": 5
+    },
+    {
+      "title": "我军新装备似电影机甲",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 501578,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%9B%E6%96%B0%E8%A3%85%E5%A4%87%E4%BC%BC%E7%94%B5%E5%BD%B1%E6%9C%BA%E7%94%B2"
+      },
+      "raw_titles": [
+        "我军新装备似电影机甲"
+      ],
+      "rank": 13,
+      "movie_rank": 6
+    },
+    {
+      "title": "亚运会第五人格中国队赛后专访",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 491606,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B5%9B%E5%90%8E%E4%B8%93%E8%AE%BF"
+      },
+      "raw_titles": [
+        "亚运会第五人格中国队赛后专访"
+      ],
+      "rank": 14,
+      "sports_rank": 8
+    },
+    {
+      "title": "机票“跳水”",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 441000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9C%BA%E7%A5%A8%E2%80%9C%E8%B7%B3%E6%B0%B4%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "机票“跳水”"
+      ],
+      "rank": 15,
+      "sports_rank": 9
+    },
+    {
+      "title": "原神剧情PV燕归来",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 395062,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E7%87%95%E5%BD%92%E6%9D%A5"
+      },
+      "raw_titles": [
+        "原神剧情PV燕归来"
+      ],
+      "rank": 16,
+      "movie_rank": 7
+    },
+    {
+      "title": "电影《食神》演员怒斥周星驰",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 351000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E7%AC%AC%E4%B8%80%E7%82%89%E9%A6%99%E3%80%8B+%E9%80%89%E8%A7%92%E5%A4%B1%E8%B4%A5&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9F%E7%A5%9E%E3%80%8B%E6%BC%94%E5%91%98%E6%80%92%E6%96%A5%E5%91%A8%E6%98%9F%E9%A9%B0&sa=fyb_news"
       },
       "raw_titles": [
-        "《第一炉香》 选角失败"
+        "电影《食神》演员怒斥周星驰"
       ],
-      "rank": 13,
+      "rank": 17,
       "movie_rank": 8
     },
     {
@@ -221,95 +285,33 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 378000,
+      "hot_value": 324000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%A6%E9%9B%A82-0%E5%BC%A0%E5%B8%85%E8%8E%B7%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
       },
       "raw_titles": [
         "王曦雨2-0张帅获亚运网球女单冠军"
       ],
-      "rank": 14,
-      "sports_rank": 6
+      "rank": 18,
+      "sports_rank": 10
     },
     {
-      "title": "亚运会第五人格中国队赛后专访",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 367562,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B5%9B%E5%90%8E%E4%B8%93%E8%AE%BF"
-      },
-      "raw_titles": [
-        "亚运会第五人格中国队赛后专访"
-      ],
-      "rank": 15,
-      "sports_rank": 7
-    },
-    {
-      "title": "电影《食神》演员怒斥周星驰",
+      "title": "电视剧喜剧之王定档",
       "category": "影视",
       "sources": [
+        "微博",
         "百度"
       ],
-      "hot_value": 342000,
+      "hot_value": 306414,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9F%E7%A5%9E%E3%80%8B%E6%BC%94%E5%91%98%E6%80%92%E6%96%A5%E5%91%A8%E6%98%9F%E9%A9%B0&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E5%AE%9A%E6%A1%A3",
+        "百度": "https://m.baidu.com/s?word=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E3%80%8B%E5%AE%9A%E6%A1%A3&sa=fyb_news"
       },
       "raw_titles": [
-        "电影《食神》演员怒斥周星驰"
-      ],
-      "rank": 16,
-      "movie_rank": 9
-    },
-    {
-      "title": "邓为抱着林依晨玩水上滑滑梯",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 322442,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8A%B1%E7%9D%80%E6%9E%97%E4%BE%9D%E6%99%A8%E7%8E%A9%E6%B0%B4%E4%B8%8A%E6%BB%91%E6%BB%91%E6%A2%AF"
-      },
-      "raw_titles": [
-        "邓为抱着林依晨玩水上滑滑梯"
-      ],
-      "rank": 17,
-      "movie_rank": 10
-    },
-    {
-      "title": "三角洲皮门大结局",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 320903,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E7%9A%AE%E9%97%A8%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "三角洲皮门大结局"
-      ],
-      "rank": 18,
-      "movie_rank": 11
-    },
-    {
-      "title": "王者年度总决赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 301748,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "王者年度总决赛"
+        "电视剧喜剧之王定档"
       ],
       "rank": 19,
-      "sports_rank": 8
+      "movie_rank": 9
     },
     {
       "title": "张译马丽《神探之痕迹》 领跑",
@@ -325,87 +327,39 @@
         "张译马丽《神探之痕迹》 领跑"
       ],
       "rank": 20,
-      "movie_rank": 12
+      "movie_rank": 10
     },
     {
-      "title": "孙继海：国足踢法违背了基本原则",
-      "category": "体育",
+      "title": "邓为抱着林依晨玩水上滑滑梯",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 248327,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8A%B1%E7%9D%80%E6%9E%97%E4%BE%9D%E6%99%A8%E7%8E%A9%E6%B0%B4%E4%B8%8A%E6%BB%91%E6%BB%91%E6%A2%AF"
+      },
+      "raw_titles": [
+        "邓为抱着林依晨玩水上滑滑梯"
+      ],
+      "rank": 21,
+      "movie_rank": 11
+    },
+    {
+      "title": "国庆档票房前三",
+      "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 270000,
+      "hot_value": 198000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E7%BB%A7%E6%B5%B7%EF%BC%9A%E5%9B%BD%E8%B6%B3%E8%B8%A2%E6%B3%95%E8%BF%9D%E8%83%8C%E4%BA%86%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E5%89%8D%E4%B8%89&sa=fyb_news"
       },
       "raw_titles": [
-        "孙继海：国足踢法违背了基本原则"
-      ],
-      "rank": 21,
-      "sports_rank": 9
-    },
-    {
-      "title": "Zeus亚运会双金牌",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 255546,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=Zeus%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%8C%E9%87%91%E7%89%8C"
-      },
-      "raw_titles": [
-        "Zeus亚运会双金牌"
+        "国庆档票房前三"
       ],
       "rank": 22,
-      "sports_rank": 10
-    },
-    {
-      "title": "电视剧 集体单更",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 240273,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%20%E9%9B%86%E4%BD%93%E5%8D%95%E6%9B%B4"
-      },
-      "raw_titles": [
-        "电视剧 集体单更"
-      ],
-      "rank": 23,
-      "movie_rank": 13
-    },
-    {
-      "title": "曝C罗退队与迷你罗落选有关",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 236636,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E9%80%80%E9%98%9F%E4%B8%8E%E8%BF%B7%E4%BD%A0%E7%BD%97%E8%90%BD%E9%80%89%E6%9C%89%E5%85%B3"
-      },
-      "raw_titles": [
-        "曝C罗退队与迷你罗落选有关"
-      ],
-      "rank": 24,
-      "sports_rank": 11
-    },
-    {
-      "title": "WTT中国大满贯名单更新",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 234885,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%90%8D%E5%8D%95%E6%9B%B4%E6%96%B0"
-      },
-      "raw_titles": [
-        "WTT中国大满贯名单更新"
-      ],
-      "rank": 25,
-      "movie_rank": 14
+      "movie_rank": 12
     },
     {
       "title": "王源工作人员的伙食",
@@ -413,15 +367,63 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 223510,
+      "hot_value": 180316,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E4%BC%99%E9%A3%9F"
       },
       "raw_titles": [
         "王源工作人员的伙食"
       ],
-      "rank": 26,
+      "rank": 23,
+      "movie_rank": 13
+    },
+    {
+      "title": "《第一炉香》 选角失败",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 180000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E7%AC%AC%E4%B8%80%E7%82%89%E9%A6%99%E3%80%8B+%E9%80%89%E8%A7%92%E5%A4%B1%E8%B4%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《第一炉香》 选角失败"
+      ],
+      "rank": 24,
+      "movie_rank": 14
+    },
+    {
+      "title": "宋佳拿奖口碑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 174022,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BD%B3%E6%8B%BF%E5%A5%96%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "宋佳拿奖口碑"
+      ],
+      "rank": 25,
       "movie_rank": 15
+    },
+    {
+      "title": "Zeus亚运会双金牌",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 143513,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=Zeus%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%8C%E9%87%91%E7%89%8C"
+      },
+      "raw_titles": [
+        "Zeus亚运会双金牌"
+      ],
+      "rank": 26,
+      "sports_rank": 11
     },
     {
       "title": "王一博巴黎多角度随拍",
@@ -429,7 +431,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 203149,
+      "hot_value": 134563,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B4%E9%BB%8E%E5%A4%9A%E8%A7%92%E5%BA%A6%E9%9A%8F%E6%8B%8D"
       },
@@ -441,68 +443,52 @@
       "movie_rank": 16
     },
     {
+      "title": "孙颖莎王曼昱等抵达首钢园",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 128524,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%89%E6%8A%B5%E8%BE%BE%E9%A6%96%E9%92%A2%E5%9B%AD"
+      },
+      "raw_titles": [
+        "孙颖莎王曼昱等抵达首钢园"
+      ],
+      "rank": 28,
+      "sports_rank": 13
+    },
+    {
+      "title": "曝C罗退队与迷你罗落选有关",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 125109,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E9%80%80%E9%98%9F%E4%B8%8E%E8%BF%B7%E4%BD%A0%E7%BD%97%E8%90%BD%E9%80%89%E6%9C%89%E5%85%B3"
+      },
+      "raw_titles": [
+        "曝C罗退队与迷你罗落选有关"
+      ],
+      "rank": 29,
+      "sports_rank": 14
+    },
+    {
       "title": "演唱会突发屏幕故障 薛之谦紧急叫停",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 198000,
+      "hot_value": 117000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AA%81%E5%8F%91%E5%B1%8F%E5%B9%95%E6%95%85%E9%9A%9C+%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%B4%A7%E6%80%A5%E5%8F%AB%E5%81%9C&sa=fyb_news"
       },
       "raw_titles": [
         "演唱会突发屏幕故障 薛之谦紧急叫停"
       ],
-      "rank": 28,
-      "movie_rank": 17
-    },
-    {
-      "title": "赵今麦不敢接魏大勋的话",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 160225,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84%E8%AF%9D"
-      },
-      "raw_titles": [
-        "赵今麦不敢接魏大勋的话"
-      ],
-      "rank": 29,
-      "movie_rank": 18
-    },
-    {
-      "title": "《欢迎来龙餐馆》票房爆火能救儒意吗",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%A5%A8%E6%88%BF%E7%88%86%E7%81%AB%E8%83%BD%E6%95%91%E5%84%92%E6%84%8F%E5%90%97&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《欢迎来龙餐馆》票房爆火能救儒意吗"
-      ],
       "rank": 30,
-      "movie_rank": 19
-    },
-    {
-      "title": "张译回应“表演同质”质疑",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 63000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E8%AF%91%E5%9B%9E%E5%BA%94%E2%80%9C%E8%A1%A8%E6%BC%94%E5%90%8C%E8%B4%A8%E2%80%9D%E8%B4%A8%E7%96%91&sa=fyb_news"
-      },
-      "raw_titles": [
-        "张译回应“表演同质”质疑"
-      ],
-      "rank": 31,
-      "movie_rank": 20
+      "movie_rank": 17
     },
     {
       "title": "大姐连发7条社媒声援C罗",
@@ -510,82 +496,84 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 54000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E5%A7%90%E8%BF%9E%E5%8F%917%E6%9D%A1%E7%A4%BE%E5%AA%92%E5%A3%B0%E6%8F%B4C%E7%BD%97&sa=fyb_news"
       },
       "raw_titles": [
         "大姐连发7条社媒声援C罗"
       ],
+      "rank": 31,
+      "sports_rank": 15
+    },
+    {
+      "title": "孙继海：国足踢法违背了基本原则",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E7%BB%A7%E6%B5%B7%EF%BC%9A%E5%9B%BD%E8%B6%B3%E8%B8%A2%E6%B3%95%E8%BF%9D%E8%83%8C%E4%BA%86%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99&sa=fyb_news"
+      },
+      "raw_titles": [
+        "孙继海：国足踢法违背了基本原则"
+      ],
       "rank": 32,
-      "sports_rank": 13
+      "sports_rank": 16
     }
   ],
   "sports": [
     {
+      "title": "中国女足无缘亚运奖牌",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 11500834,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E5%A5%96%E7%89%8C",
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C"
+      },
+      "raw_titles": [
+        "中国女足无缘亚运奖牌"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
       "title": "亚运LOL韩国夺金赛后数据",
       "category": "体育",
       "sources": [
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 1108584,
+      "hot_value": 978082,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90LOL%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%BE%97%E9%87%91%E7%89%8C"
       },
       "raw_titles": [
         "亚运LOL韩国夺金赛后数据"
       ],
-      "rank": 4,
-      "sports_rank": 1
-    },
-    {
-      "title": "跟着亚运探秘日本最贵关东煮",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453823,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E7%9D%80%E4%BA%9A%E8%BF%90%E6%8E%A2%E7%A7%98%E6%97%A5%E6%9C%AC%E6%9C%80%E8%B4%B5%E5%85%B3%E4%B8%9C%E7%85%AE"
-      },
-      "raw_titles": [
-        "跟着亚运探秘日本最贵关东煮"
-      ],
-      "rank": 7,
+      "rank": 6,
       "sports_rank": 2
     },
     {
-      "title": "鬼叔黍做客央视开拓者",
+      "title": "F1巴林大奖赛一练集锦",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 453818,
+      "hot_value": 686570,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AC%BC%E5%8F%94%E9%BB%8D%E5%81%9A%E5%AE%A2%E5%A4%AE%E8%A7%86%E5%BC%80%E6%8B%93%E8%80%85"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%B7%B4%E6%9E%97%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%B8%80%E7%BB%83%E9%9B%86%E9%94%A6"
       },
       "raw_titles": [
-        "鬼叔黍做客央视开拓者"
+        "F1巴林大奖赛一练集锦"
       ],
-      "rank": 10,
+      "rank": 7,
       "sports_rank": 3
-    },
-    {
-      "title": "C罗为何要自宣离队",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453815,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F"
-      },
-      "raw_titles": [
-        "C罗为何要自宣离队"
-      ],
-      "rank": 11,
-      "sports_rank": 4
     },
     {
       "title": "曝杜伦以5年2亿续约活塞",
@@ -593,31 +581,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 450283,
+      "hot_value": 504250,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E6%9D%9C%E4%BC%A6%E4%BB%A55%E5%B9%B42%E4%BA%BF%E7%BB%AD%E7%BA%A6%E6%B4%BB%E5%A1%9E"
       },
       "raw_titles": [
         "曝杜伦以5年2亿续约活塞"
       ],
-      "rank": 12,
+      "rank": 8,
+      "sports_rank": 4
+    },
+    {
+      "title": "C罗为何要自宣离队",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 501598,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F"
+      },
+      "raw_titles": [
+        "C罗为何要自宣离队"
+      ],
+      "rank": 9,
       "sports_rank": 5
     },
     {
-      "title": "王曦雨2-0张帅获亚运网球女单冠军",
+      "title": "跟着亚运探秘日本最贵关东煮",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 378000,
+      "hot_value": 501594,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%A6%E9%9B%A82-0%E5%BC%A0%E5%B8%85%E8%8E%B7%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E7%9D%80%E4%BA%9A%E8%BF%90%E6%8E%A2%E7%A7%98%E6%97%A5%E6%9C%AC%E6%9C%80%E8%B4%B5%E5%85%B3%E4%B8%9C%E7%85%AE"
       },
       "raw_titles": [
-        "王曦雨2-0张帅获亚运网球女单冠军"
+        "跟着亚运探秘日本最贵关东煮"
       ],
-      "rank": 14,
+      "rank": 10,
       "sports_rank": 6
+    },
+    {
+      "title": "鬼叔黍做客央视开拓者",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 501593,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AC%BC%E5%8F%94%E9%BB%8D%E5%81%9A%E5%AE%A2%E5%A4%AE%E8%A7%86%E5%BC%80%E6%8B%93%E8%80%85"
+      },
+      "raw_titles": [
+        "鬼叔黍做客央视开拓者"
+      ],
+      "rank": 11,
+      "sports_rank": 7
     },
     {
       "title": "亚运会第五人格中国队赛后专访",
@@ -625,47 +645,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 367562,
+      "hot_value": 491606,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B5%9B%E5%90%8E%E4%B8%93%E8%AE%BF"
       },
       "raw_titles": [
         "亚运会第五人格中国队赛后专访"
       ],
-      "rank": 15,
-      "sports_rank": 7
-    },
-    {
-      "title": "王者年度总决赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 301748,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "王者年度总决赛"
-      ],
-      "rank": 19,
+      "rank": 14,
       "sports_rank": 8
     },
     {
-      "title": "孙继海：国足踢法违背了基本原则",
+      "title": "机票“跳水”",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 270000,
+      "hot_value": 441000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E7%BB%A7%E6%B5%B7%EF%BC%9A%E5%9B%BD%E8%B6%B3%E8%B8%A2%E6%B3%95%E8%BF%9D%E8%83%8C%E4%BA%86%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%9C%BA%E7%A5%A8%E2%80%9C%E8%B7%B3%E6%B0%B4%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "孙继海：国足踢法违背了基本原则"
+        "机票“跳水”"
       ],
-      "rank": 21,
+      "rank": 15,
       "sports_rank": 9
+    },
+    {
+      "title": "王曦雨2-0张帅获亚运网球女单冠军",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 324000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%A6%E9%9B%A82-0%E5%BC%A0%E5%B8%85%E8%8E%B7%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王曦雨2-0张帅获亚运网球女单冠军"
+      ],
+      "rank": 18,
+      "sports_rank": 10
     },
     {
       "title": "Zeus亚运会双金牌",
@@ -673,30 +693,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 255546,
+      "hot_value": 143513,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=Zeus%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%8C%E9%87%91%E7%89%8C"
       },
       "raw_titles": [
         "Zeus亚运会双金牌"
       ],
-      "rank": 22,
-      "sports_rank": 10
-    },
-    {
-      "title": "曝C罗退队与迷你罗落选有关",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 236636,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E9%80%80%E9%98%9F%E4%B8%8E%E8%BF%B7%E4%BD%A0%E7%BD%97%E8%90%BD%E9%80%89%E6%9C%89%E5%85%B3"
-      },
-      "raw_titles": [
-        "曝C罗退队与迷你罗落选有关"
-      ],
-      "rank": 24,
+      "rank": 26,
       "sports_rank": 11
     },
     {
@@ -705,7 +709,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 203149,
+      "hot_value": 134563,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B4%E9%BB%8E%E5%A4%9A%E8%A7%92%E5%BA%A6%E9%9A%8F%E6%8B%8D"
       },
@@ -717,38 +721,102 @@
       "movie_rank": 16
     },
     {
+      "title": "孙颖莎王曼昱等抵达首钢园",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 128524,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%89%E6%8A%B5%E8%BE%BE%E9%A6%96%E9%92%A2%E5%9B%AD"
+      },
+      "raw_titles": [
+        "孙颖莎王曼昱等抵达首钢园"
+      ],
+      "rank": 28,
+      "sports_rank": 13
+    },
+    {
+      "title": "曝C罗退队与迷你罗落选有关",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 125109,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E9%80%80%E9%98%9F%E4%B8%8E%E8%BF%B7%E4%BD%A0%E7%BD%97%E8%90%BD%E9%80%89%E6%9C%89%E5%85%B3"
+      },
+      "raw_titles": [
+        "曝C罗退队与迷你罗落选有关"
+      ],
+      "rank": 29,
+      "sports_rank": 14
+    },
+    {
       "title": "大姐连发7条社媒声援C罗",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 54000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E5%A7%90%E8%BF%9E%E5%8F%917%E6%9D%A1%E7%A4%BE%E5%AA%92%E5%A3%B0%E6%8F%B4C%E7%BD%97&sa=fyb_news"
       },
       "raw_titles": [
         "大姐连发7条社媒声援C罗"
       ],
+      "rank": 31,
+      "sports_rank": 15
+    },
+    {
+      "title": "孙继海：国足踢法违背了基本原则",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E7%BB%A7%E6%B5%B7%EF%BC%9A%E5%9B%BD%E8%B6%B3%E8%B8%A2%E6%B3%95%E8%BF%9D%E8%83%8C%E4%BA%86%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99&sa=fyb_news"
+      },
+      "raw_titles": [
+        "孙继海：国足踢法违背了基本原则"
+      ],
       "rank": 32,
-      "sports_rank": 13
+      "sports_rank": 16
     }
   ],
   "movies": [
     {
-      "title": "郑州金融岛把张杰演唱会续上了",
+      "title": "电影神探之痕迹破亿",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8093853,
+      "hot_value": 9051591,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%83%91%E5%B7%9E%E9%87%91%E8%9E%8D%E5%B2%9B%E6%8A%8A%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%AD%E4%B8%8A%E4%BA%86"
+        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E7%A0%B4%E4%BA%BF"
       },
       "raw_titles": [
-        "郑州金融岛把张杰演唱会续上了"
+        "电影神探之痕迹破亿"
       ],
-      "rank": 1,
+      "rank": 2,
       "movie_rank": 1
+    },
+    {
+      "title": "王俊凯拍戏遇上真刀太好笑",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8233088,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%8B%8D%E6%88%8F%E9%81%87%E4%B8%8A%E7%9C%9F%E5%88%80%E5%A4%AA%E5%A5%BD%E7%AC%91"
+      },
+      "raw_titles": [
+        "王俊凯拍戏遇上真刀太好笑"
+      ],
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "电影什么意思夫妇喜剧人团建",
@@ -756,31 +824,95 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7776655,
+      "hot_value": 7818075,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E5%96%9C%E5%89%A7%E4%BA%BA%E5%9B%A2%E5%BB%BA"
       },
       "raw_titles": [
         "电影什么意思夫妇喜剧人团建"
       ],
-      "rank": 2,
-      "movie_rank": 2
+      "rank": 4,
+      "movie_rank": 3
     },
     {
-      "title": "电影神探之痕迹观后感",
+      "title": "郑州金融岛把张杰演唱会续上了",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7727696,
+      "hot_value": 7731690,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E8%A7%82%E5%90%8E%E6%84%9F"
+        "抖音": "https://www.douyin.com/search/%E9%83%91%E5%B7%9E%E9%87%91%E8%9E%8D%E5%B2%9B%E6%8A%8A%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%AD%E4%B8%8A%E4%BA%86"
       },
       "raw_titles": [
-        "电影神探之痕迹观后感"
+        "郑州金融岛把张杰演唱会续上了"
       ],
-      "rank": 3,
-      "movie_rank": 3
+      "rank": 5,
+      "movie_rank": 4
+    },
+    {
+      "title": "国庆档大片排雷指南",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 501585,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%A1%A3%E5%A4%A7%E7%89%87%E6%8E%92%E9%9B%B7%E6%8C%87%E5%8D%97"
+      },
+      "raw_titles": [
+        "国庆档大片排雷指南"
+      ],
+      "rank": 12,
+      "movie_rank": 5
+    },
+    {
+      "title": "我军新装备似电影机甲",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 501578,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%9B%E6%96%B0%E8%A3%85%E5%A4%87%E4%BC%BC%E7%94%B5%E5%BD%B1%E6%9C%BA%E7%94%B2"
+      },
+      "raw_titles": [
+        "我军新装备似电影机甲"
+      ],
+      "rank": 13,
+      "movie_rank": 6
+    },
+    {
+      "title": "原神剧情PV燕归来",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 395062,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E7%87%95%E5%BD%92%E6%9D%A5"
+      },
+      "raw_titles": [
+        "原神剧情PV燕归来"
+      ],
+      "rank": 16,
+      "movie_rank": 7
+    },
+    {
+      "title": "电影《食神》演员怒斥周星驰",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 351000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9F%E7%A5%9E%E3%80%8B%E6%BC%94%E5%91%98%E6%80%92%E6%96%A5%E5%91%A8%E6%98%9F%E9%A9%B0&sa=fyb_news"
+      },
+      "raw_titles": [
+        "电影《食神》演员怒斥周星驰"
+      ],
+      "rank": 17,
+      "movie_rank": 8
     },
     {
       "title": "电视剧喜剧之王定档",
@@ -789,7 +921,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 536527,
+      "hot_value": 306414,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E5%AE%9A%E6%A1%A3",
         "百度": "https://m.baidu.com/s?word=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E3%80%8B%E5%AE%9A%E6%A1%A3&sa=fyb_news"
@@ -797,120 +929,8 @@
       "raw_titles": [
         "电视剧喜剧之王定档"
       ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "我军新装备似电影机甲",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453824,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%9B%E6%96%B0%E8%A3%85%E5%A4%87%E4%BC%BC%E7%94%B5%E5%BD%B1%E6%9C%BA%E7%94%B2"
-      },
-      "raw_titles": [
-        "我军新装备似电影机甲"
-      ],
-      "rank": 6,
-      "movie_rank": 5
-    },
-    {
-      "title": "原神剧情PV燕归来",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453822,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E7%87%95%E5%BD%92%E6%9D%A5"
-      },
-      "raw_titles": [
-        "原神剧情PV燕归来"
-      ],
-      "rank": 8,
-      "movie_rank": 6
-    },
-    {
-      "title": "国庆档大片排雷指南",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 453821,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%A1%A3%E5%A4%A7%E7%89%87%E6%8E%92%E9%9B%B7%E6%8C%87%E5%8D%97"
-      },
-      "raw_titles": [
-        "国庆档大片排雷指南"
-      ],
-      "rank": 9,
-      "movie_rank": 7
-    },
-    {
-      "title": "《第一炉香》 选角失败",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E7%AC%AC%E4%B8%80%E7%82%89%E9%A6%99%E3%80%8B+%E9%80%89%E8%A7%92%E5%A4%B1%E8%B4%A5&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《第一炉香》 选角失败"
-      ],
-      "rank": 13,
-      "movie_rank": 8
-    },
-    {
-      "title": "电影《食神》演员怒斥周星驰",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 342000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9F%E7%A5%9E%E3%80%8B%E6%BC%94%E5%91%98%E6%80%92%E6%96%A5%E5%91%A8%E6%98%9F%E9%A9%B0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "电影《食神》演员怒斥周星驰"
-      ],
-      "rank": 16,
+      "rank": 19,
       "movie_rank": 9
-    },
-    {
-      "title": "邓为抱着林依晨玩水上滑滑梯",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 322442,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8A%B1%E7%9D%80%E6%9E%97%E4%BE%9D%E6%99%A8%E7%8E%A9%E6%B0%B4%E4%B8%8A%E6%BB%91%E6%BB%91%E6%A2%AF"
-      },
-      "raw_titles": [
-        "邓为抱着林依晨玩水上滑滑梯"
-      ],
-      "rank": 17,
-      "movie_rank": 10
-    },
-    {
-      "title": "三角洲皮门大结局",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 320903,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E7%9A%AE%E9%97%A8%E5%A4%A7%E7%BB%93%E5%B1%80"
-      },
-      "raw_titles": [
-        "三角洲皮门大结局"
-      ],
-      "rank": 18,
-      "movie_rank": 11
     },
     {
       "title": "张译马丽《神探之痕迹》 领跑",
@@ -926,39 +946,39 @@
         "张译马丽《神探之痕迹》 领跑"
       ],
       "rank": 20,
+      "movie_rank": 10
+    },
+    {
+      "title": "邓为抱着林依晨玩水上滑滑梯",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 248327,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8A%B1%E7%9D%80%E6%9E%97%E4%BE%9D%E6%99%A8%E7%8E%A9%E6%B0%B4%E4%B8%8A%E6%BB%91%E6%BB%91%E6%A2%AF"
+      },
+      "raw_titles": [
+        "邓为抱着林依晨玩水上滑滑梯"
+      ],
+      "rank": 21,
+      "movie_rank": 11
+    },
+    {
+      "title": "国庆档票房前三",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 198000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E5%89%8D%E4%B8%89&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国庆档票房前三"
+      ],
+      "rank": 22,
       "movie_rank": 12
-    },
-    {
-      "title": "电视剧 集体单更",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 240273,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%20%E9%9B%86%E4%BD%93%E5%8D%95%E6%9B%B4"
-      },
-      "raw_titles": [
-        "电视剧 集体单更"
-      ],
-      "rank": 23,
-      "movie_rank": 13
-    },
-    {
-      "title": "WTT中国大满贯名单更新",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 234885,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%90%8D%E5%8D%95%E6%9B%B4%E6%96%B0"
-      },
-      "raw_titles": [
-        "WTT中国大满贯名单更新"
-      ],
-      "rank": 25,
-      "movie_rank": 14
     },
     {
       "title": "王源工作人员的伙食",
@@ -966,14 +986,46 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 223510,
+      "hot_value": 180316,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E4%BC%99%E9%A3%9F"
       },
       "raw_titles": [
         "王源工作人员的伙食"
       ],
-      "rank": 26,
+      "rank": 23,
+      "movie_rank": 13
+    },
+    {
+      "title": "《第一炉香》 选角失败",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 180000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E7%AC%AC%E4%B8%80%E7%82%89%E9%A6%99%E3%80%8B+%E9%80%89%E8%A7%92%E5%A4%B1%E8%B4%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《第一炉香》 选角失败"
+      ],
+      "rank": 24,
+      "movie_rank": 14
+    },
+    {
+      "title": "宋佳拿奖口碑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 174022,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BD%B3%E6%8B%BF%E5%A5%96%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "宋佳拿奖口碑"
+      ],
+      "rank": 25,
       "movie_rank": 15
     },
     {
@@ -982,7 +1034,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 203149,
+      "hot_value": 134563,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B4%E9%BB%8E%E5%A4%9A%E8%A7%92%E5%BA%A6%E9%9A%8F%E6%8B%8D"
       },
@@ -999,63 +1051,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 198000,
+      "hot_value": 117000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AA%81%E5%8F%91%E5%B1%8F%E5%B9%95%E6%95%85%E9%9A%9C+%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%B4%A7%E6%80%A5%E5%8F%AB%E5%81%9C&sa=fyb_news"
       },
       "raw_titles": [
         "演唱会突发屏幕故障 薛之谦紧急叫停"
       ],
-      "rank": 28,
-      "movie_rank": 17
-    },
-    {
-      "title": "赵今麦不敢接魏大勋的话",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 160225,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84%E8%AF%9D"
-      },
-      "raw_titles": [
-        "赵今麦不敢接魏大勋的话"
-      ],
-      "rank": 29,
-      "movie_rank": 18
-    },
-    {
-      "title": "《欢迎来龙餐馆》票房爆火能救儒意吗",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 72000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%A5%A8%E6%88%BF%E7%88%86%E7%81%AB%E8%83%BD%E6%95%91%E5%84%92%E6%84%8F%E5%90%97&sa=fyb_news"
-      },
-      "raw_titles": [
-        "《欢迎来龙餐馆》票房爆火能救儒意吗"
-      ],
       "rank": 30,
-      "movie_rank": 19
-    },
-    {
-      "title": "张译回应“表演同质”质疑",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 63000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E8%AF%91%E5%9B%9E%E5%BA%94%E2%80%9C%E8%A1%A8%E6%BC%94%E5%90%8C%E8%B4%A8%E2%80%9D%E8%B4%A8%E7%96%91&sa=fyb_news"
-      },
-      "raw_titles": [
-        "张译回应“表演同质”质疑"
-      ],
-      "rank": 31,
-      "movie_rank": 20
+      "movie_rank": 17
     }
   ]
 }
