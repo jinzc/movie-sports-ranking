@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-10-03 23:00:48",
-  "total": 30,
+  "update_time": "2026-10-04 00:00:54",
+  "total": 34,
   "sports_count": 21,
-  "movie_count": 9,
+  "movie_count": 13,
   "all": [
     {
       "title": "中国队169金89银83铜收官",
@@ -12,7 +12,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 13756707,
+      "hot_value": 13331747,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C%E6%94%B6%E5%AE%98",
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C%E6%94%B6%E5%AE%98",
@@ -30,7 +30,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11472254,
+      "hot_value": 11236518,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E8%8E%B7%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C"
       },
@@ -46,7 +46,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9037823,
+      "hot_value": 10442250,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E6%98%8A%E4%B8%A4%E6%89%91%E7%82%B9%E7%90%83"
       },
@@ -62,7 +62,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7745448,
+      "hot_value": 7820363,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%A1%A3%E8%A7%82%E5%BD%B1repo"
       },
@@ -73,20 +73,52 @@
       "movie_rank": 2
     },
     {
+      "title": "周杰伦青岛演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7784049,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%9D%92%E5%B2%9B%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "周杰伦青岛演唱会"
+      ],
+      "rank": 5,
+      "movie_rank": 3
+    },
+    {
       "title": "吴曦说亚运U23男足兑现了承诺",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7737439,
+      "hot_value": 7757594,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E6%9B%A6%E8%AF%B4%E4%BA%9A%E8%BF%90U23%E7%94%B7%E8%B6%B3%E5%85%91%E7%8E%B0%E4%BA%86%E6%89%BF%E8%AF%BA"
       },
       "raw_titles": [
         "吴曦说亚运U23男足兑现了承诺"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 3
+    },
+    {
+      "title": "登陆华晨宇火星乐园",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7732192,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%99%BB%E9%99%86%E5%8D%8E%E6%99%A8%E5%AE%87%E7%81%AB%E6%98%9F%E4%B9%90%E5%9B%AD"
+      },
+      "raw_titles": [
+        "登陆华晨宇火星乐园"
+      ],
+      "rank": 7,
+      "movie_rank": 4
     },
     {
       "title": "电影重生2暗黑尺度超出想象",
@@ -94,15 +126,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709996,
+      "hot_value": 7722857,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E9%87%8D%E7%94%9F2%E6%9A%97%E9%BB%91%E5%B0%BA%E5%BA%A6%E8%B6%85%E5%87%BA%E6%83%B3%E8%B1%A1"
       },
       "raw_titles": [
         "电影重生2暗黑尺度超出想象"
       ],
-      "rank": 6,
-      "movie_rank": 3
+      "rank": 8,
+      "movie_rank": 5
     },
     {
       "title": "孙千亮相巴黎时装周",
@@ -110,14 +142,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709946,
+      "hot_value": 7694552,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AD%99%E5%8D%83%E4%BA%AE%E7%9B%B8%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8"
       },
       "raw_titles": [
         "孙千亮相巴黎时装周"
       ],
-      "rank": 7,
+      "rank": 9,
       "sports_rank": 4
     },
     {
@@ -126,15 +158,95 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7672604,
+      "hot_value": 7686201,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E9%83%BD%E7%81%B5%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E7%9F%AD%E5%8F%91%E5%A5%BD%E5%A4%8D%E5%8F%A4%E6%91%A9%E7%99%BB"
       },
       "raw_titles": [
         "陈都灵巴黎时装周短发好复古摩登"
       ],
-      "rank": 8,
+      "rank": 10,
       "sports_rank": 5
+    },
+    {
+      "title": "日本亚运会出了哪些状况",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 943057,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%87%BA%E4%BA%86%E5%93%AA%E4%BA%9B%E7%8A%B6%E5%86%B5"
+      },
+      "raw_titles": [
+        "日本亚运会出了哪些状况"
+      ],
+      "rank": 11,
+      "sports_rank": 6
+    },
+    {
+      "title": "F1雪邦站杆位争夺可视化",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 892620,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E9%9B%AA%E9%82%A6%E7%AB%99%E6%9D%86%E4%BD%8D%E4%BA%89%E5%A4%BA%E5%8F%AF%E8%A7%86%E5%8C%96"
+      },
+      "raw_titles": [
+        "F1雪邦站杆位争夺可视化"
+      ],
+      "rank": 12,
+      "sports_rank": 7
+    },
+    {
+      "title": "F1雪邦站排位赛战报",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 891525,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E9%9B%AA%E9%82%A6%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5"
+      },
+      "raw_titles": [
+        "F1雪邦站排位赛战报"
+      ],
+      "rank": 13,
+      "sports_rank": 8
+    },
+    {
+      "title": "鸣潮过场动画心声心生",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 843984,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%BF%83%E5%A3%B0%E5%BF%83%E7%94%9F"
+      },
+      "raw_titles": [
+        "鸣潮过场动画心声心生"
+      ],
+      "rank": 14,
+      "movie_rank": 6
+    },
+    {
+      "title": "原神剧情PV燕归来",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 772353,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E7%87%95%E5%BD%92%E6%9D%A5"
+      },
+      "raw_titles": [
+        "原神剧情PV燕归来"
+      ],
+      "rank": 15,
+      "movie_rank": 7
     },
     {
       "title": "巴勒斯坦球员向国足道歉",
@@ -143,7 +255,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 1059922,
+      "hot_value": 768393,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
         "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89&sa=fyb_news"
@@ -151,200 +263,56 @@
       "raw_titles": [
         "巴勒斯坦球员向国足道歉"
       ],
-      "rank": 9,
-      "sports_rank": 6
-    },
-    {
-      "title": "F1雪邦站排位赛战报",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 919710,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E9%9B%AA%E9%82%A6%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5"
-      },
-      "raw_titles": [
-        "F1雪邦站排位赛战报"
-      ],
-      "rank": 10,
-      "sports_rank": 7
-    },
-    {
-      "title": "日本亚运会出了哪些状况",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 843168,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%87%BA%E4%BA%86%E5%93%AA%E4%BA%9B%E7%8A%B6%E5%86%B5"
-      },
-      "raw_titles": [
-        "日本亚运会出了哪些状况"
-      ],
-      "rank": 11,
-      "sports_rank": 8
-    },
-    {
-      "title": "亚运女子霹雳舞再夺金",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 807259,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%AD%90%E9%9C%B9%E9%9B%B3%E8%88%9E%E5%86%8D%E5%A4%BA%E9%87%91"
-      },
-      "raw_titles": [
-        "亚运女子霹雳舞再夺金"
-      ],
-      "rank": 12,
+      "rank": 16,
       "sports_rank": 9
     },
     {
-      "title": "鸣潮过场动画心声心生",
+      "title": "披哥Believer舞台太权威了",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 789489,
+      "hot_value": 730146,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%BF%83%E5%A3%B0%E5%BF%83%E7%94%9F"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5Believer%E8%88%9E%E5%8F%B0%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86"
       },
       "raw_titles": [
-        "鸣潮过场动画心声心生"
-      ],
-      "rank": 13,
-      "movie_rank": 4
-    },
-    {
-      "title": "原神剧情PV燕归来",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 764484,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E7%87%95%E5%BD%92%E6%9D%A5"
-      },
-      "raw_titles": [
-        "原神剧情PV燕归来"
-      ],
-      "rank": 14,
-      "movie_rank": 5
-    },
-    {
-      "title": "中国队创亚运境外参赛金牌新纪录",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 730128,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%88%9B%E4%BA%9A%E8%BF%90%E5%A2%83%E5%A4%96%E5%8F%82%E8%B5%9B%E9%87%91%E7%89%8C%E6%96%B0%E7%BA%AA%E5%BD%95"
-      },
-      "raw_titles": [
-        "中国队创亚运境外参赛金牌新纪录"
-      ],
-      "rank": 15,
-      "sports_rank": 10
-    },
-    {
-      "title": "亚运会国足夺铜牌",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 492280,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C"
-      },
-      "raw_titles": [
-        "亚运会国足夺铜牌"
-      ],
-      "rank": 16,
-      "sports_rank": 11
-    },
-    {
-      "title": "F1维斯塔潘雪邦夺杆车载",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 413505,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E9%9B%AA%E9%82%A6%E5%A4%BA%E6%9D%86%E8%BD%A6%E8%BD%BD"
-      },
-      "raw_titles": [
-        "F1维斯塔潘雪邦夺杆车载"
+        "披哥Believer舞台太权威了"
       ],
       "rank": 17,
-      "sports_rank": 12
+      "movie_rank": 8
     },
     {
-      "title": "内娱编剧写不好低学历女主了",
+      "title": "莱巴金娜中网爆冷出局",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 292788,
+      "hot_value": 558541,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%BC%96%E5%89%A7%E5%86%99%E4%B8%8D%E5%A5%BD%E4%BD%8E%E5%AD%A6%E5%8E%86%E5%A5%B3%E4%B8%BB%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E4%B8%AD%E7%BD%91%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80"
       },
       "raw_titles": [
-        "内娱编剧写不好低学历女主了"
+        "莱巴金娜中网爆冷出局"
       ],
       "rank": 18,
-      "movie_rank": 6
+      "movie_rank": 9
     },
     {
-      "title": "特鲁姆普vs吴宜泽",
+      "title": "6连鞭！吴宜泽6-1特鲁姆普进决赛",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 279000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AEvs%E5%90%B4%E5%AE%9C%E6%B3%BD&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=6%E8%BF%9E%E9%9E%AD%EF%BC%81%E5%90%B4%E5%AE%9C%E6%B3%BD6-1%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E8%BF%9B%E5%86%B3%E8%B5%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "特鲁姆普vs吴宜泽"
+        "6连鞭！吴宜泽6-1特鲁姆普进决赛"
       ],
       "rank": 19,
-      "sports_rank": 13
-    },
-    {
-      "title": "丁程鑫你搞砸了魏大勋的CP",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 237585,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E4%BD%A0%E6%90%9E%E7%A0%B8%E4%BA%86%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84CP"
-      },
-      "raw_titles": [
-        "丁程鑫你搞砸了魏大勋的CP"
-      ],
-      "rank": 20,
-      "movie_rank": 7
-    },
-    {
-      "title": "处于低谷的中国足球 有了一个好消息",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 234000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A4%84%E4%BA%8E%E4%BD%8E%E8%B0%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83+%E6%9C%89%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "处于低谷的中国足球 有了一个好消息"
-      ],
-      "rank": 21,
-      "sports_rank": 14
+      "sports_rank": 10
     },
     {
       "title": "国足0比5惨败却让小将接受采访",
@@ -352,15 +320,79 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 207000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E5%8D%B4%E8%AE%A9%E5%B0%8F%E5%B0%86%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF&sa=fyb_news"
       },
       "raw_titles": [
         "国足0比5惨败却让小将接受采访"
       ],
+      "rank": 20,
+      "sports_rank": 11
+    },
+    {
+      "title": "内娱编剧写不好低学历女主了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 205443,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%BC%96%E5%89%A7%E5%86%99%E4%B8%8D%E5%A5%BD%E4%BD%8E%E5%AD%A6%E5%8E%86%E5%A5%B3%E4%B8%BB%E4%BA%86"
+      },
+      "raw_titles": [
+        "内娱编剧写不好低学历女主了"
+      ],
+      "rank": 21,
+      "movie_rank": 10
+    },
+    {
+      "title": "处于低谷的中国足球 有了一个好消息",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 198000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%A4%84%E4%BA%8E%E4%BD%8E%E8%B0%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83+%E6%9C%89%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "处于低谷的中国足球 有了一个好消息"
+      ],
       "rank": 22,
-      "sports_rank": 15
+      "sports_rank": 12
+    },
+    {
+      "title": "丁程鑫你搞砸了魏大勋的CP",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 162165,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E4%BD%A0%E6%90%9E%E7%A0%B8%E4%BA%86%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84CP"
+      },
+      "raw_titles": [
+        "丁程鑫你搞砸了魏大勋的CP"
+      ],
+      "rank": 23,
+      "movie_rank": 11
+    },
+    {
+      "title": "中国队创亚运境外参赛金牌新纪录",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 158530,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%88%9B%E4%BA%9A%E8%BF%90%E5%A2%83%E5%A4%96%E5%8F%82%E8%B5%9B%E9%87%91%E7%89%8C%E6%96%B0%E7%BA%AA%E5%BD%95"
+      },
+      "raw_titles": [
+        "中国队创亚运境外参赛金牌新纪录"
+      ],
+      "rank": 24,
+      "sports_rank": 13
     },
     {
       "title": "王一博究竟看到了什么",
@@ -368,63 +400,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 188117,
+      "hot_value": 153329,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%B6%E7%AB%9F%E7%9C%8B%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88"
       },
       "raw_titles": [
         "王一博究竟看到了什么"
       ],
-      "rank": 23,
-      "movie_rank": 8
-    },
-    {
-      "title": "国足0比5输巴勒斯坦是能力问题吗",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 180000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B30%E6%AF%945%E8%BE%93%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%98%AF%E8%83%BD%E5%8A%9B%E9%97%AE%E9%A2%98%E5%90%97&sa=fyb_news"
-      },
-      "raw_titles": [
-        "国足0比5输巴勒斯坦是能力问题吗"
-      ],
-      "rank": 24,
-      "sports_rank": 16
-    },
-    {
-      "title": "国足夺铜牌 安东尼奥抱起李昊欢呼",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 171000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C+%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E6%8A%B1%E8%B5%B7%E6%9D%8E%E6%98%8A%E6%AC%A2%E5%91%BC&sa=fyb_news"
-      },
-      "raw_titles": [
-        "国足夺铜牌 安东尼奥抱起李昊欢呼"
-      ],
       "rank": 25,
-      "sports_rank": 17
-    },
-    {
-      "title": "郑钦文即时排名重返前50",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 161886,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%8D%B3%E6%97%B6%E6%8E%92%E5%90%8D%E9%87%8D%E8%BF%94%E5%89%8D50"
-      },
-      "raw_titles": [
-        "郑钦文即时排名重返前50"
-      ],
-      "rank": 26,
-      "sports_rank": 18
+      "movie_rank": 12
     },
     {
       "title": "亚运男子三大球成绩最好是男足",
@@ -432,31 +416,95 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 153000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E7%94%B7%E5%AD%90%E4%B8%89%E5%A4%A7%E7%90%83%E6%88%90%E7%BB%A9%E6%9C%80%E5%A5%BD%E6%98%AF%E7%94%B7%E8%B6%B3&sa=fyb_news"
       },
       "raw_titles": [
         "亚运男子三大球成绩最好是男足"
       ],
-      "rank": 27,
-      "sports_rank": 19
+      "rank": 26,
+      "sports_rank": 14
     },
     {
-      "title": "王一博下个组可以提上议程了",
+      "title": "亚运男足颁奖韩国国旗卡住遭嘘声",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 139389,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%E9%A2%81%E5%A5%96%E9%9F%A9%E5%9B%BD%E5%9B%BD%E6%97%97%E5%8D%A1%E4%BD%8F%E9%81%AD%E5%98%98%E5%A3%B0"
+      },
+      "raw_titles": [
+        "亚运男足颁奖韩国国旗卡住遭嘘声"
+      ],
+      "rank": 27,
+      "sports_rank": 15
+    },
+    {
+      "title": "飞天奖出席嘉宾阵容",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 146766,
+      "hot_value": 137636,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%8B%E4%B8%AA%E7%BB%84%E5%8F%AF%E4%BB%A5%E6%8F%90%E4%B8%8A%E8%AE%AE%E7%A8%8B%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E9%A3%9E%E5%A4%A9%E5%A5%96%E5%87%BA%E5%B8%AD%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9"
       },
       "raw_titles": [
-        "王一博下个组可以提上议程了"
+        "飞天奖出席嘉宾阵容"
       ],
       "rank": 28,
-      "movie_rank": 9
+      "movie_rank": 13
+    },
+    {
+      "title": "国足0比5输巴勒斯坦是能力问题吗",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 99000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B30%E6%AF%945%E8%BE%93%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%98%AF%E8%83%BD%E5%8A%9B%E9%97%AE%E9%A2%98%E5%90%97&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国足0比5输巴勒斯坦是能力问题吗"
+      ],
+      "rank": 29,
+      "sports_rank": 16
+    },
+    {
+      "title": "国足摘铜 赛后他们谈得最多的是这个",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 81000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E6%91%98%E9%93%9C+%E8%B5%9B%E5%90%8E%E4%BB%96%E4%BB%AC%E8%B0%88%E5%BE%97%E6%9C%80%E5%A4%9A%E7%9A%84%E6%98%AF%E8%BF%99%E4%B8%AA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国足摘铜 赛后他们谈得最多的是这个"
+      ],
+      "rank": 30,
+      "sports_rank": 17
+    },
+    {
+      "title": "亚运会男足颁奖礼韩国国旗没升上去",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E8%B6%B3%E9%A2%81%E5%A5%96%E7%A4%BC%E9%9F%A9%E5%9B%BD%E5%9B%BD%E6%97%97%E6%B2%A1%E5%8D%87%E4%B8%8A%E5%8E%BB&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚运会男足颁奖礼韩国国旗没升上去"
+      ],
+      "rank": 31,
+      "sports_rank": 18
     },
     {
       "title": "安东尼奥谈国足0比5惨败",
@@ -464,30 +512,46 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 81000,
+      "hot_value": 54000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E8%B0%88%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5&sa=fyb_news"
       },
       "raw_titles": [
         "安东尼奥谈国足0比5惨败"
       ],
-      "rank": 29,
-      "sports_rank": 20
+      "rank": 32,
+      "sports_rank": 19
     },
     {
-      "title": "“到了点球大战 谁能赢得了我们”",
+      "title": "国足夺铜牌 安东尼奥抱起李昊欢呼",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 27000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E5%88%B0%E4%BA%86%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98+%E8%B0%81%E8%83%BD%E8%B5%A2%E5%BE%97%E4%BA%86%E6%88%91%E4%BB%AC%E2%80%9D&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C+%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E6%8A%B1%E8%B5%B7%E6%9D%8E%E6%98%8A%E6%AC%A2%E5%91%BC&sa=fyb_news"
       },
       "raw_titles": [
-        "“到了点球大战 谁能赢得了我们”"
+        "国足夺铜牌 安东尼奥抱起李昊欢呼"
       ],
-      "rank": 30,
+      "rank": 33,
+      "sports_rank": 20
+    },
+    {
+      "title": "孙心然2比0布克沙 将对阵高芙",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B62%E6%AF%940%E5%B8%83%E5%85%8B%E6%B2%99+%E5%B0%86%E5%AF%B9%E9%98%B5%E9%AB%98%E8%8A%99&sa=fyb_news"
+      },
+      "raw_titles": [
+        "孙心然2比0布克沙 将对阵高芙"
+      ],
+      "rank": 34,
       "sports_rank": 21
     }
   ],
@@ -498,7 +562,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11472254,
+      "hot_value": 11236518,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E8%8E%B7%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C"
       },
@@ -514,7 +578,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9037823,
+      "hot_value": 10442250,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E6%98%8A%E4%B8%A4%E6%89%91%E7%82%B9%E7%90%83"
       },
@@ -530,14 +594,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7737439,
+      "hot_value": 7757594,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E6%9B%A6%E8%AF%B4%E4%BA%9A%E8%BF%90U23%E7%94%B7%E8%B6%B3%E5%85%91%E7%8E%B0%E4%BA%86%E6%89%BF%E8%AF%BA"
       },
       "raw_titles": [
         "吴曦说亚运U23男足兑现了承诺"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 3
     },
     {
@@ -546,14 +610,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709946,
+      "hot_value": 7694552,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AD%99%E5%8D%83%E4%BA%AE%E7%9B%B8%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8"
       },
       "raw_titles": [
         "孙千亮相巴黎时装周"
       ],
-      "rank": 7,
+      "rank": 9,
       "sports_rank": 4
     },
     {
@@ -562,15 +626,63 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7672604,
+      "hot_value": 7686201,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E9%83%BD%E7%81%B5%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E7%9F%AD%E5%8F%91%E5%A5%BD%E5%A4%8D%E5%8F%A4%E6%91%A9%E7%99%BB"
       },
       "raw_titles": [
         "陈都灵巴黎时装周短发好复古摩登"
       ],
-      "rank": 8,
+      "rank": 10,
       "sports_rank": 5
+    },
+    {
+      "title": "日本亚运会出了哪些状况",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 943057,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%87%BA%E4%BA%86%E5%93%AA%E4%BA%9B%E7%8A%B6%E5%86%B5"
+      },
+      "raw_titles": [
+        "日本亚运会出了哪些状况"
+      ],
+      "rank": 11,
+      "sports_rank": 6
+    },
+    {
+      "title": "F1雪邦站杆位争夺可视化",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 892620,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E9%9B%AA%E9%82%A6%E7%AB%99%E6%9D%86%E4%BD%8D%E4%BA%89%E5%A4%BA%E5%8F%AF%E8%A7%86%E5%8C%96"
+      },
+      "raw_titles": [
+        "F1雪邦站杆位争夺可视化"
+      ],
+      "rank": 12,
+      "sports_rank": 7
+    },
+    {
+      "title": "F1雪邦站排位赛战报",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 891525,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E9%9B%AA%E9%82%A6%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5"
+      },
+      "raw_titles": [
+        "F1雪邦站排位赛战报"
+      ],
+      "rank": 13,
+      "sports_rank": 8
     },
     {
       "title": "巴勒斯坦球员向国足道歉",
@@ -579,7 +691,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 1059922,
+      "hot_value": 768393,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
         "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89&sa=fyb_news"
@@ -587,136 +699,24 @@
       "raw_titles": [
         "巴勒斯坦球员向国足道歉"
       ],
-      "rank": 9,
-      "sports_rank": 6
-    },
-    {
-      "title": "F1雪邦站排位赛战报",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 919710,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E9%9B%AA%E9%82%A6%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5"
-      },
-      "raw_titles": [
-        "F1雪邦站排位赛战报"
-      ],
-      "rank": 10,
-      "sports_rank": 7
-    },
-    {
-      "title": "日本亚运会出了哪些状况",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 843168,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%87%BA%E4%BA%86%E5%93%AA%E4%BA%9B%E7%8A%B6%E5%86%B5"
-      },
-      "raw_titles": [
-        "日本亚运会出了哪些状况"
-      ],
-      "rank": 11,
-      "sports_rank": 8
-    },
-    {
-      "title": "亚运女子霹雳舞再夺金",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 807259,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%AD%90%E9%9C%B9%E9%9B%B3%E8%88%9E%E5%86%8D%E5%A4%BA%E9%87%91"
-      },
-      "raw_titles": [
-        "亚运女子霹雳舞再夺金"
-      ],
-      "rank": 12,
+      "rank": 16,
       "sports_rank": 9
     },
     {
-      "title": "中国队创亚运境外参赛金牌新纪录",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 730128,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%88%9B%E4%BA%9A%E8%BF%90%E5%A2%83%E5%A4%96%E5%8F%82%E8%B5%9B%E9%87%91%E7%89%8C%E6%96%B0%E7%BA%AA%E5%BD%95"
-      },
-      "raw_titles": [
-        "中国队创亚运境外参赛金牌新纪录"
-      ],
-      "rank": 15,
-      "sports_rank": 10
-    },
-    {
-      "title": "亚运会国足夺铜牌",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 492280,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C"
-      },
-      "raw_titles": [
-        "亚运会国足夺铜牌"
-      ],
-      "rank": 16,
-      "sports_rank": 11
-    },
-    {
-      "title": "F1维斯塔潘雪邦夺杆车载",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 413505,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E9%9B%AA%E9%82%A6%E5%A4%BA%E6%9D%86%E8%BD%A6%E8%BD%BD"
-      },
-      "raw_titles": [
-        "F1维斯塔潘雪邦夺杆车载"
-      ],
-      "rank": 17,
-      "sports_rank": 12
-    },
-    {
-      "title": "特鲁姆普vs吴宜泽",
+      "title": "6连鞭！吴宜泽6-1特鲁姆普进决赛",
       "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 279000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AEvs%E5%90%B4%E5%AE%9C%E6%B3%BD&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=6%E8%BF%9E%E9%9E%AD%EF%BC%81%E5%90%B4%E5%AE%9C%E6%B3%BD6-1%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE%E8%BF%9B%E5%86%B3%E8%B5%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "特鲁姆普vs吴宜泽"
+        "6连鞭！吴宜泽6-1特鲁姆普进决赛"
       ],
       "rank": 19,
-      "sports_rank": 13
-    },
-    {
-      "title": "处于低谷的中国足球 有了一个好消息",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 234000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A4%84%E4%BA%8E%E4%BD%8E%E8%B0%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83+%E6%9C%89%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "处于低谷的中国足球 有了一个好消息"
-      ],
-      "rank": 21,
-      "sports_rank": 14
+      "sports_rank": 10
     },
     {
       "title": "国足0比5惨败却让小将接受采访",
@@ -724,14 +724,78 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 207000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E5%8D%B4%E8%AE%A9%E5%B0%8F%E5%B0%86%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF&sa=fyb_news"
       },
       "raw_titles": [
         "国足0比5惨败却让小将接受采访"
       ],
+      "rank": 20,
+      "sports_rank": 11
+    },
+    {
+      "title": "处于低谷的中国足球 有了一个好消息",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 198000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%A4%84%E4%BA%8E%E4%BD%8E%E8%B0%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83+%E6%9C%89%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "处于低谷的中国足球 有了一个好消息"
+      ],
       "rank": 22,
+      "sports_rank": 12
+    },
+    {
+      "title": "中国队创亚运境外参赛金牌新纪录",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 158530,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%88%9B%E4%BA%9A%E8%BF%90%E5%A2%83%E5%A4%96%E5%8F%82%E8%B5%9B%E9%87%91%E7%89%8C%E6%96%B0%E7%BA%AA%E5%BD%95"
+      },
+      "raw_titles": [
+        "中国队创亚运境外参赛金牌新纪录"
+      ],
+      "rank": 24,
+      "sports_rank": 13
+    },
+    {
+      "title": "亚运男子三大球成绩最好是男足",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E7%94%B7%E5%AD%90%E4%B8%89%E5%A4%A7%E7%90%83%E6%88%90%E7%BB%A9%E6%9C%80%E5%A5%BD%E6%98%AF%E7%94%B7%E8%B6%B3&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚运男子三大球成绩最好是男足"
+      ],
+      "rank": 26,
+      "sports_rank": 14
+    },
+    {
+      "title": "亚运男足颁奖韩国国旗卡住遭嘘声",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 139389,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%E9%A2%81%E5%A5%96%E9%9F%A9%E5%9B%BD%E5%9B%BD%E6%97%97%E5%8D%A1%E4%BD%8F%E9%81%AD%E5%98%98%E5%A3%B0"
+      },
+      "raw_titles": [
+        "亚运男足颁奖韩国国旗卡住遭嘘声"
+      ],
+      "rank": 27,
       "sports_rank": 15
     },
     {
@@ -740,63 +804,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 99000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B30%E6%AF%945%E8%BE%93%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%98%AF%E8%83%BD%E5%8A%9B%E9%97%AE%E9%A2%98%E5%90%97&sa=fyb_news"
       },
       "raw_titles": [
         "国足0比5输巴勒斯坦是能力问题吗"
       ],
-      "rank": 24,
+      "rank": 29,
       "sports_rank": 16
     },
     {
-      "title": "国足夺铜牌 安东尼奥抱起李昊欢呼",
+      "title": "国足摘铜 赛后他们谈得最多的是这个",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 171000,
+      "hot_value": 81000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C+%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E6%8A%B1%E8%B5%B7%E6%9D%8E%E6%98%8A%E6%AC%A2%E5%91%BC&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E6%91%98%E9%93%9C+%E8%B5%9B%E5%90%8E%E4%BB%96%E4%BB%AC%E8%B0%88%E5%BE%97%E6%9C%80%E5%A4%9A%E7%9A%84%E6%98%AF%E8%BF%99%E4%B8%AA&sa=fyb_news"
       },
       "raw_titles": [
-        "国足夺铜牌 安东尼奥抱起李昊欢呼"
+        "国足摘铜 赛后他们谈得最多的是这个"
       ],
-      "rank": 25,
+      "rank": 30,
       "sports_rank": 17
     },
     {
-      "title": "郑钦文即时排名重返前50",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 161886,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%8D%B3%E6%97%B6%E6%8E%92%E5%90%8D%E9%87%8D%E8%BF%94%E5%89%8D50"
-      },
-      "raw_titles": [
-        "郑钦文即时排名重返前50"
-      ],
-      "rank": 26,
-      "sports_rank": 18
-    },
-    {
-      "title": "亚运男子三大球成绩最好是男足",
+      "title": "亚运会男足颁奖礼韩国国旗没升上去",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 153000,
+      "hot_value": 72000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E7%94%B7%E5%AD%90%E4%B8%89%E5%A4%A7%E7%90%83%E6%88%90%E7%BB%A9%E6%9C%80%E5%A5%BD%E6%98%AF%E7%94%B7%E8%B6%B3&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E8%B6%B3%E9%A2%81%E5%A5%96%E7%A4%BC%E9%9F%A9%E5%9B%BD%E5%9B%BD%E6%97%97%E6%B2%A1%E5%8D%87%E4%B8%8A%E5%8E%BB&sa=fyb_news"
       },
       "raw_titles": [
-        "亚运男子三大球成绩最好是男足"
+        "亚运会男足颁奖礼韩国国旗没升上去"
       ],
-      "rank": 27,
-      "sports_rank": 19
+      "rank": 31,
+      "sports_rank": 18
     },
     {
       "title": "安东尼奥谈国足0比5惨败",
@@ -804,30 +852,46 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 81000,
+      "hot_value": 54000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E8%B0%88%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5&sa=fyb_news"
       },
       "raw_titles": [
         "安东尼奥谈国足0比5惨败"
       ],
-      "rank": 29,
-      "sports_rank": 20
+      "rank": 32,
+      "sports_rank": 19
     },
     {
-      "title": "“到了点球大战 谁能赢得了我们”",
+      "title": "国足夺铜牌 安东尼奥抱起李昊欢呼",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 27000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E5%88%B0%E4%BA%86%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98+%E8%B0%81%E8%83%BD%E8%B5%A2%E5%BE%97%E4%BA%86%E6%88%91%E4%BB%AC%E2%80%9D&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C+%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E6%8A%B1%E8%B5%B7%E6%9D%8E%E6%98%8A%E6%AC%A2%E5%91%BC&sa=fyb_news"
       },
       "raw_titles": [
-        "“到了点球大战 谁能赢得了我们”"
+        "国足夺铜牌 安东尼奥抱起李昊欢呼"
       ],
-      "rank": 30,
+      "rank": 33,
+      "sports_rank": 20
+    },
+    {
+      "title": "孙心然2比0布克沙 将对阵高芙",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B62%E6%AF%940%E5%B8%83%E5%85%8B%E6%B2%99+%E5%B0%86%E5%AF%B9%E9%98%B5%E9%AB%98%E8%8A%99&sa=fyb_news"
+      },
+      "raw_titles": [
+        "孙心然2比0布克沙 将对阵高芙"
+      ],
+      "rank": 34,
       "sports_rank": 21
     }
   ],
@@ -840,7 +904,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 13756707,
+      "hot_value": 13331747,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C%E6%94%B6%E5%AE%98",
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C%E6%94%B6%E5%AE%98",
@@ -858,7 +922,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7745448,
+      "hot_value": 7820363,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%A1%A3%E8%A7%82%E5%BD%B1repo"
       },
@@ -869,20 +933,52 @@
       "movie_rank": 2
     },
     {
+      "title": "周杰伦青岛演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7784049,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%9D%92%E5%B2%9B%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "周杰伦青岛演唱会"
+      ],
+      "rank": 5,
+      "movie_rank": 3
+    },
+    {
+      "title": "登陆华晨宇火星乐园",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7732192,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%99%BB%E9%99%86%E5%8D%8E%E6%99%A8%E5%AE%87%E7%81%AB%E6%98%9F%E4%B9%90%E5%9B%AD"
+      },
+      "raw_titles": [
+        "登陆华晨宇火星乐园"
+      ],
+      "rank": 7,
+      "movie_rank": 4
+    },
+    {
       "title": "电影重生2暗黑尺度超出想象",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709996,
+      "hot_value": 7722857,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E9%87%8D%E7%94%9F2%E6%9A%97%E9%BB%91%E5%B0%BA%E5%BA%A6%E8%B6%85%E5%87%BA%E6%83%B3%E8%B1%A1"
       },
       "raw_titles": [
         "电影重生2暗黑尺度超出想象"
       ],
-      "rank": 6,
-      "movie_rank": 3
+      "rank": 8,
+      "movie_rank": 5
     },
     {
       "title": "鸣潮过场动画心声心生",
@@ -890,15 +986,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 789489,
+      "hot_value": 843984,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%BF%83%E5%A3%B0%E5%BF%83%E7%94%9F"
       },
       "raw_titles": [
         "鸣潮过场动画心声心生"
       ],
-      "rank": 13,
-      "movie_rank": 4
+      "rank": 14,
+      "movie_rank": 6
     },
     {
       "title": "原神剧情PV燕归来",
@@ -906,15 +1002,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 764484,
+      "hot_value": 772353,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E7%87%95%E5%BD%92%E6%9D%A5"
       },
       "raw_titles": [
         "原神剧情PV燕归来"
       ],
-      "rank": 14,
-      "movie_rank": 5
+      "rank": 15,
+      "movie_rank": 7
+    },
+    {
+      "title": "披哥Believer舞台太权威了",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 730146,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5Believer%E8%88%9E%E5%8F%B0%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86"
+      },
+      "raw_titles": [
+        "披哥Believer舞台太权威了"
+      ],
+      "rank": 17,
+      "movie_rank": 8
+    },
+    {
+      "title": "莱巴金娜中网爆冷出局",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 558541,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E4%B8%AD%E7%BD%91%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80"
+      },
+      "raw_titles": [
+        "莱巴金娜中网爆冷出局"
+      ],
+      "rank": 18,
+      "movie_rank": 9
     },
     {
       "title": "内娱编剧写不好低学历女主了",
@@ -922,15 +1050,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 292788,
+      "hot_value": 205443,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%BC%96%E5%89%A7%E5%86%99%E4%B8%8D%E5%A5%BD%E4%BD%8E%E5%AD%A6%E5%8E%86%E5%A5%B3%E4%B8%BB%E4%BA%86"
       },
       "raw_titles": [
         "内娱编剧写不好低学历女主了"
       ],
-      "rank": 18,
-      "movie_rank": 6
+      "rank": 21,
+      "movie_rank": 10
     },
     {
       "title": "丁程鑫你搞砸了魏大勋的CP",
@@ -938,15 +1066,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 237585,
+      "hot_value": 162165,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E4%BD%A0%E6%90%9E%E7%A0%B8%E4%BA%86%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84CP"
       },
       "raw_titles": [
         "丁程鑫你搞砸了魏大勋的CP"
       ],
-      "rank": 20,
-      "movie_rank": 7
+      "rank": 23,
+      "movie_rank": 11
     },
     {
       "title": "王一博究竟看到了什么",
@@ -954,31 +1082,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 188117,
+      "hot_value": 153329,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%B6%E7%AB%9F%E7%9C%8B%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88"
       },
       "raw_titles": [
         "王一博究竟看到了什么"
       ],
-      "rank": 23,
-      "movie_rank": 8
+      "rank": 25,
+      "movie_rank": 12
     },
     {
-      "title": "王一博下个组可以提上议程了",
+      "title": "飞天奖出席嘉宾阵容",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 146766,
+      "hot_value": 137636,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%8B%E4%B8%AA%E7%BB%84%E5%8F%AF%E4%BB%A5%E6%8F%90%E4%B8%8A%E8%AE%AE%E7%A8%8B%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E9%A3%9E%E5%A4%A9%E5%A5%96%E5%87%BA%E5%B8%AD%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9"
       },
       "raw_titles": [
-        "王一博下个组可以提上议程了"
+        "飞天奖出席嘉宾阵容"
       ],
       "rank": 28,
-      "movie_rank": 9
+      "movie_rank": 13
     }
   ]
 }
