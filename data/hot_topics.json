@@ -1,7 +1,7 @@
 {
-  "update_time": "2026-10-06 21:00:56",
-  "total": 22,
-  "sports_count": 8,
+  "update_time": "2026-10-06 22:01:00",
+  "total": 29,
+  "sports_count": 15,
   "movie_count": 14,
   "all": [
     {
@@ -9,14 +9,17 @@
       "category": "体育",
       "sources": [
         "微博",
+        "微博",
+        "微博",
+        "微博",
         "百度",
         "抖音"
       ],
-      "hot_value": 12942815,
+      "hot_value": 14510475,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6"
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E6%AC%A1%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E9%98%9F%E5%8F%B2%E9%A6%96%E8%B4%9F%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A1%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6"
       },
       "raw_titles": [
         "国足vs塔吉克斯坦"
@@ -30,7 +33,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7752480,
+      "hot_value": 7780674,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B8%B4%E6%B2%82%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -46,7 +49,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742417,
+      "hot_value": 7733878,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%89%A7%E7%89%88%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E5%BC%80%E6%92%AD"
       },
@@ -62,7 +65,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7712246,
+      "hot_value": 7731341,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%AE%B8%E6%B6%9B%E5%8F%AB%E9%98%B5%E5%88%87%E7%A3%8B%E6%9D%9C%E5%85%B0%E7%89%B9"
       },
@@ -78,7 +81,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7648583,
+      "hot_value": 7646534,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E5%AE%85%E5%AE%B6%E5%BF%85%E7%9C%8B%E7%BA%AA%E5%BD%95%E7%89%87%E5%88%86%E4%BA%AB"
       },
@@ -89,38 +92,54 @@
       "movie_rank": 3
     },
     {
-      "title": "德约科维奇中网七冠王",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 898588,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E4%B8%AD%E7%BD%91%E4%B8%83%E5%86%A0%E7%8E%8B",
-        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E4%B8%AD%E7%BD%91%E4%B8%83%E5%86%A0%E7%8E%8B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "德约科维奇中网七冠王"
-      ],
-      "rank": 6,
-      "sports_rank": 3
-    },
-    {
       "title": "原神过场动画生的印记",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 882615,
+      "hot_value": 954272,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E7%94%9F%E7%9A%84%E5%8D%B0%E8%AE%B0"
       },
       "raw_titles": [
         "原神过场动画生的印记"
       ],
-      "rank": 7,
+      "rank": 6,
       "movie_rank": 4
+    },
+    {
+      "title": "国足三连败",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 756744,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%B4%A5",
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%B4%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国足三连败"
+      ],
+      "rank": 7,
+      "sports_rank": 3
+    },
+    {
+      "title": "声生不息宝岛季",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 670802,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%AE%9D%E5%B2%9B%E5%AD%A3"
+      },
+      "raw_titles": [
+        "声生不息宝岛季"
+      ],
+      "rank": 8,
+      "movie_rank": 5
     },
     {
       "title": "歌剧老师锐评披哥四公舞台",
@@ -128,15 +147,33 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 757500,
+      "hot_value": 607355,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E5%9B%9B%E5%85%AC%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "歌剧老师锐评披哥四公舞台"
       ],
-      "rank": 8,
-      "movie_rank": 5
+      "rank": 9,
+      "movie_rank": 6
+    },
+    {
+      "title": "德约科维奇中网七冠王",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 555873,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E4%B8%AD%E7%BD%91%E4%B8%83%E5%86%A0%E7%8E%8B",
+        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E4%B8%AD%E7%BD%91%E4%B8%83%E5%86%A0%E7%8E%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "德约科维奇中网七冠王"
+      ],
+      "rank": 10,
+      "sports_rank": 4
     },
     {
       "title": "曝邓紫棋结婚",
@@ -145,7 +182,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 590477,
+      "hot_value": 497076,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%BB%93%E5%A9%9A",
         "百度": "https://m.baidu.com/s?word=%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%BB%93%E5%A9%9A&sa=fyb_news"
@@ -153,88 +190,8 @@
       "raw_titles": [
         "曝邓紫棋结婚"
       ],
-      "rank": 9,
-      "movie_rank": 6
-    },
-    {
-      "title": "国庆档电影排雷报告",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 481147,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%8E%92%E9%9B%B7%E6%8A%A5%E5%91%8A"
-      },
-      "raw_titles": [
-        "国庆档电影排雷报告"
-      ],
-      "rank": 10,
-      "movie_rank": 7
-    },
-    {
-      "title": "复盘雪邦赛道回归F1",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 454475,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E9%9B%AA%E9%82%A6%E8%B5%9B%E9%81%93%E5%9B%9E%E5%BD%92F1"
-      },
-      "raw_titles": [
-        "复盘雪邦赛道回归F1"
-      ],
       "rank": 11,
-      "sports_rank": 4
-    },
-    {
-      "title": "王曼昱晋级中国大满贯16强",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 387000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF16%E5%BC%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王曼昱晋级中国大满贯16强"
-      ],
-      "rank": 12,
-      "movie_rank": 8
-    },
-    {
-      "title": "周迅釜山电影节红毯状态",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 367087,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E7%BA%A2%E6%AF%AF%E7%8A%B6%E6%80%81"
-      },
-      "raw_titles": [
-        "周迅釜山电影节红毯状态"
-      ],
-      "rank": 13,
-      "movie_rank": 9
-    },
-    {
-      "title": "德约科维奇中网34胜0负",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 355545,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E4%B8%AD%E7%BD%9134%E8%83%9C0%E8%B4%9F"
-      },
-      "raw_titles": [
-        "德约科维奇中网34胜0负"
-      ],
-      "rank": 14,
-      "sports_rank": 5
+      "movie_rank": 7
     },
     {
       "title": "邓紫棋自由的你上线",
@@ -242,31 +199,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 334571,
+      "hot_value": 469592,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%82%93%E7%B4%AB%E6%A3%8B%E8%87%AA%E7%94%B1%E7%9A%84%E4%BD%A0%E4%B8%8A%E7%BA%BF"
       },
       "raw_titles": [
         "邓紫棋自由的你上线"
       ],
-      "rank": 15,
-      "movie_rank": 10
+      "rank": 12,
+      "movie_rank": 8
     },
     {
-      "title": "原神过场动画摩拉游戏",
+      "title": "国庆档电影排雷报告",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 310072,
+      "hot_value": 459075,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E6%91%A9%E6%8B%89%E6%B8%B8%E6%88%8F"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%8E%92%E9%9B%B7%E6%8A%A5%E5%91%8A"
       },
       "raw_titles": [
-        "原神过场动画摩拉游戏"
+        "国庆档电影排雷报告"
       ],
-      "rank": 16,
-      "movie_rank": 11
+      "rank": 13,
+      "movie_rank": 9
+    },
+    {
+      "title": "10人国足0比1不敌塔吉克斯坦",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 441000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=10%E4%BA%BA%E5%9B%BD%E8%B6%B30%E6%AF%941%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "10人国足0比1不敌塔吉克斯坦"
+      ],
+      "rank": 14,
+      "sports_rank": 5
+    },
+    {
+      "title": "韦世豪被红牌罚下",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 414000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%96%E8%B1%AA%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "韦世豪被红牌罚下"
+      ],
+      "rank": 15,
+      "sports_rank": 6
     },
     {
       "title": "陈思诚这次真进步了吗",
@@ -274,15 +263,95 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%99%88%E6%80%9D%E8%AF%9A%E8%BF%99%E6%AC%A1%E7%9C%9F%E8%BF%9B%E6%AD%A5%E4%BA%86%E5%90%97&sa=fyb_news"
       },
       "raw_titles": [
         "陈思诚这次真进步了吗"
       ],
+      "rank": 16,
+      "movie_rank": 10
+    },
+    {
+      "title": "德约科维奇中网34胜0负",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 359046,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E4%B8%AD%E7%BD%9134%E8%83%9C0%E8%B4%9F"
+      },
+      "raw_titles": [
+        "德约科维奇中网34胜0负"
+      ],
       "rank": 17,
+      "sports_rank": 7
+    },
+    {
+      "title": "周迅釜山电影节红毯状态",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 358817,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E7%BA%A2%E6%AF%AF%E7%8A%B6%E6%80%81"
+      },
+      "raw_titles": [
+        "周迅釜山电影节红毯状态"
+      ],
+      "rank": 18,
+      "movie_rank": 11
+    },
+    {
+      "title": "杰伦布朗76人首秀半场砍下22分",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 330422,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%9776%E4%BA%BA%E9%A6%96%E7%A7%80%E5%8D%8A%E5%9C%BA%E7%A0%8D%E4%B8%8B22%E5%88%86"
+      },
+      "raw_titles": [
+        "杰伦布朗76人首秀半场砍下22分"
+      ],
+      "rank": 19,
+      "sports_rank": 8
+    },
+    {
+      "title": "原神过场动画摩拉游戏",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 325368,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E6%91%A9%E6%8B%89%E6%B8%B8%E6%88%8F"
+      },
+      "raw_titles": [
+        "原神过场动画摩拉游戏"
+      ],
+      "rank": 20,
       "movie_rank": 12
+    },
+    {
+      "title": "F1马来西亚站正赛无线电复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 308180,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%AB%99%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "F1马来西亚站正赛无线电复盘"
+      ],
+      "rank": 21,
+      "sports_rank": 9
     },
     {
       "title": "曝邓紫棋男友是富三代",
@@ -290,47 +359,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 276043,
+      "hot_value": 303655,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%94%B7%E5%8F%8B%E6%98%AF%E5%AF%8C%E4%B8%89%E4%BB%A3"
       },
       "raw_titles": [
         "曝邓紫棋男友是富三代"
       ],
-      "rank": 18,
+      "rank": 22,
       "movie_rank": 13
     },
     {
-      "title": "声生不息宝岛季",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 243500,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%AE%9D%E5%B2%9B%E5%AD%A3"
-      },
-      "raw_titles": [
-        "声生不息宝岛季"
-      ],
-      "rank": 19,
-      "movie_rank": 14
-    },
-    {
-      "title": "德约中网冠军",
+      "title": "F1巴林站赛后报告",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 232153,
+      "hot_value": 286530,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E4%B8%AD%E7%BD%91%E5%86%A0%E5%86%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%B7%B4%E6%9E%97%E7%AB%99%E8%B5%9B%E5%90%8E%E6%8A%A5%E5%91%8A"
       },
       "raw_titles": [
-        "德约中网冠军"
+        "F1巴林站赛后报告"
       ],
-      "rank": 20,
-      "sports_rank": 6
+      "rank": 23,
+      "sports_rank": 10
     },
     {
       "title": "亚运会冠军李巧巧吐槽金牌已被磨坏",
@@ -338,31 +391,95 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 207000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%A0%E5%86%9B%E6%9D%8E%E5%B7%A7%E5%B7%A7%E5%90%90%E6%A7%BD%E9%87%91%E7%89%8C%E5%B7%B2%E8%A2%AB%E7%A3%A8%E5%9D%8F&sa=fyb_news"
       },
       "raw_titles": [
         "亚运会冠军李巧巧吐槽金牌已被磨坏"
       ],
-      "rank": 21,
-      "sports_rank": 7
+      "rank": 24,
+      "sports_rank": 11
     },
     {
-      "title": "郎平与德约科维奇和德米纳尔合影",
+      "title": "德约中网冠军",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 175948,
+      "hot_value": 188554,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%8E%E5%B9%B3%E4%B8%8E%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E5%92%8C%E5%BE%B7%E7%B1%B3%E7%BA%B3%E5%B0%94%E5%90%88%E5%BD%B1"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E4%B8%AD%E7%BD%91%E5%86%A0%E5%86%9B"
       },
       "raw_titles": [
-        "郎平与德约科维奇和德米纳尔合影"
+        "德约中网冠军"
       ],
-      "rank": 22,
-      "sports_rank": 8
+      "rank": 25,
+      "sports_rank": 12
+    },
+    {
+      "title": "国足 传球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 186292,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%20%E4%BC%A0%E7%90%83"
+      },
+      "raw_titles": [
+        "国足 传球"
+      ],
+      "rank": 26,
+      "sports_rank": 13
+    },
+    {
+      "title": "德约收获76.4万美元奖金",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 153584,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E6%94%B6%E8%8E%B776.4%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91"
+      },
+      "raw_titles": [
+        "德约收获76.4万美元奖金"
+      ],
+      "rank": 27,
+      "sports_rank": 14
+    },
+    {
+      "title": "德约夺冠后大秀中文",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E7%BA%A6%E5%A4%BA%E5%86%A0%E5%90%8E%E5%A4%A7%E7%A7%80%E4%B8%AD%E6%96%87&sa=fyb_news"
+      },
+      "raw_titles": [
+        "德约夺冠后大秀中文"
+      ],
+      "rank": 28,
+      "sports_rank": 15
+    },
+    {
+      "title": "王曼昱晋级中国大满贯16强",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF16%E5%BC%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王曼昱晋级中国大满贯16强"
+      ],
+      "rank": 29,
+      "movie_rank": 14
     }
   ],
   "sports": [
@@ -371,14 +488,17 @@
       "category": "体育",
       "sources": [
         "微博",
+        "微博",
+        "微博",
+        "微博",
         "百度",
         "抖音"
       ],
-      "hot_value": 12942815,
+      "hot_value": 14510475,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6"
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E6%AC%A1%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E9%98%9F%E5%8F%B2%E9%A6%96%E8%B4%9F%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A1%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6"
       },
       "raw_titles": [
         "国足vs塔吉克斯坦"
@@ -392,7 +512,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7712246,
+      "hot_value": 7731341,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%AE%B8%E6%B6%9B%E5%8F%AB%E9%98%B5%E5%88%87%E7%A3%8B%E6%9D%9C%E5%85%B0%E7%89%B9"
       },
@@ -403,13 +523,31 @@
       "sports_rank": 2
     },
     {
+      "title": "国足三连败",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 756744,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%B4%A5",
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%B4%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国足三连败"
+      ],
+      "rank": 7,
+      "sports_rank": 3
+    },
+    {
       "title": "德约科维奇中网七冠王",
       "category": "体育",
       "sources": [
         "微博",
         "百度"
       ],
-      "hot_value": 898588,
+      "hot_value": 555873,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E4%B8%AD%E7%BD%91%E4%B8%83%E5%86%A0%E7%8E%8B",
         "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E4%B8%AD%E7%BD%91%E4%B8%83%E5%86%A0%E7%8E%8B&sa=fyb_news"
@@ -417,24 +555,40 @@
       "raw_titles": [
         "德约科维奇中网七冠王"
       ],
-      "rank": 6,
-      "sports_rank": 3
+      "rank": 10,
+      "sports_rank": 4
     },
     {
-      "title": "复盘雪邦赛道回归F1",
+      "title": "10人国足0比1不敌塔吉克斯坦",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 454475,
+      "hot_value": 441000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E9%9B%AA%E9%82%A6%E8%B5%9B%E9%81%93%E5%9B%9E%E5%BD%92F1"
+        "百度": "https://m.baidu.com/s?word=10%E4%BA%BA%E5%9B%BD%E8%B6%B30%E6%AF%941%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news"
       },
       "raw_titles": [
-        "复盘雪邦赛道回归F1"
+        "10人国足0比1不敌塔吉克斯坦"
       ],
-      "rank": 11,
-      "sports_rank": 4
+      "rank": 14,
+      "sports_rank": 5
+    },
+    {
+      "title": "韦世豪被红牌罚下",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 414000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%96%E8%B1%AA%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "韦世豪被红牌罚下"
+      ],
+      "rank": 15,
+      "sports_rank": 6
     },
     {
       "title": "德约科维奇中网34胜0负",
@@ -442,31 +596,63 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 355545,
+      "hot_value": 359046,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E4%B8%AD%E7%BD%9134%E8%83%9C0%E8%B4%9F"
       },
       "raw_titles": [
         "德约科维奇中网34胜0负"
       ],
-      "rank": 14,
-      "sports_rank": 5
+      "rank": 17,
+      "sports_rank": 7
     },
     {
-      "title": "德约中网冠军",
+      "title": "杰伦布朗76人首秀半场砍下22分",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 232153,
+      "hot_value": 330422,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E4%B8%AD%E7%BD%91%E5%86%A0%E5%86%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%9776%E4%BA%BA%E9%A6%96%E7%A7%80%E5%8D%8A%E5%9C%BA%E7%A0%8D%E4%B8%8B22%E5%88%86"
       },
       "raw_titles": [
-        "德约中网冠军"
+        "杰伦布朗76人首秀半场砍下22分"
       ],
-      "rank": 20,
-      "sports_rank": 6
+      "rank": 19,
+      "sports_rank": 8
+    },
+    {
+      "title": "F1马来西亚站正赛无线电复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 308180,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%AB%99%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "F1马来西亚站正赛无线电复盘"
+      ],
+      "rank": 21,
+      "sports_rank": 9
+    },
+    {
+      "title": "F1巴林站赛后报告",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 286530,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%B7%B4%E6%9E%97%E7%AB%99%E8%B5%9B%E5%90%8E%E6%8A%A5%E5%91%8A"
+      },
+      "raw_titles": [
+        "F1巴林站赛后报告"
+      ],
+      "rank": 23,
+      "sports_rank": 10
     },
     {
       "title": "亚运会冠军李巧巧吐槽金牌已被磨坏",
@@ -474,31 +660,79 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 180000,
+      "hot_value": 207000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%A0%E5%86%9B%E6%9D%8E%E5%B7%A7%E5%B7%A7%E5%90%90%E6%A7%BD%E9%87%91%E7%89%8C%E5%B7%B2%E8%A2%AB%E7%A3%A8%E5%9D%8F&sa=fyb_news"
       },
       "raw_titles": [
         "亚运会冠军李巧巧吐槽金牌已被磨坏"
       ],
-      "rank": 21,
-      "sports_rank": 7
+      "rank": 24,
+      "sports_rank": 11
     },
     {
-      "title": "郎平与德约科维奇和德米纳尔合影",
+      "title": "德约中网冠军",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 175948,
+      "hot_value": 188554,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%8E%E5%B9%B3%E4%B8%8E%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E5%92%8C%E5%BE%B7%E7%B1%B3%E7%BA%B3%E5%B0%94%E5%90%88%E5%BD%B1"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E4%B8%AD%E7%BD%91%E5%86%A0%E5%86%9B"
       },
       "raw_titles": [
-        "郎平与德约科维奇和德米纳尔合影"
+        "德约中网冠军"
       ],
-      "rank": 22,
-      "sports_rank": 8
+      "rank": 25,
+      "sports_rank": 12
+    },
+    {
+      "title": "国足 传球",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 186292,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%20%E4%BC%A0%E7%90%83"
+      },
+      "raw_titles": [
+        "国足 传球"
+      ],
+      "rank": 26,
+      "sports_rank": 13
+    },
+    {
+      "title": "德约收获76.4万美元奖金",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 153584,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%BA%A6%E6%94%B6%E8%8E%B776.4%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91"
+      },
+      "raw_titles": [
+        "德约收获76.4万美元奖金"
+      ],
+      "rank": 27,
+      "sports_rank": 14
+    },
+    {
+      "title": "德约夺冠后大秀中文",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 72000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E7%BA%A6%E5%A4%BA%E5%86%A0%E5%90%8E%E5%A4%A7%E7%A7%80%E4%B8%AD%E6%96%87&sa=fyb_news"
+      },
+      "raw_titles": [
+        "德约夺冠后大秀中文"
+      ],
+      "rank": 28,
+      "sports_rank": 15
     }
   ],
   "movies": [
@@ -508,7 +742,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7752480,
+      "hot_value": 7780674,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B8%B4%E6%B2%82%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -524,7 +758,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742417,
+      "hot_value": 7733878,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%89%A7%E7%89%88%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E5%BC%80%E6%92%AD"
       },
@@ -540,7 +774,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7648583,
+      "hot_value": 7646534,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E5%AE%85%E5%AE%B6%E5%BF%85%E7%9C%8B%E7%BA%AA%E5%BD%95%E7%89%87%E5%88%86%E4%BA%AB"
       },
@@ -556,15 +790,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 882615,
+      "hot_value": 954272,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E7%94%9F%E7%9A%84%E5%8D%B0%E8%AE%B0"
       },
       "raw_titles": [
         "原神过场动画生的印记"
       ],
-      "rank": 7,
+      "rank": 6,
       "movie_rank": 4
+    },
+    {
+      "title": "声生不息宝岛季",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 670802,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%AE%9D%E5%B2%9B%E5%AD%A3"
+      },
+      "raw_titles": [
+        "声生不息宝岛季"
+      ],
+      "rank": 8,
+      "movie_rank": 5
     },
     {
       "title": "歌剧老师锐评披哥四公舞台",
@@ -572,15 +822,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 757500,
+      "hot_value": 607355,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E5%9B%9B%E5%85%AC%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "歌剧老师锐评披哥四公舞台"
       ],
-      "rank": 8,
-      "movie_rank": 5
+      "rank": 9,
+      "movie_rank": 6
     },
     {
       "title": "曝邓紫棋结婚",
@@ -589,7 +839,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 590477,
+      "hot_value": 497076,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%BB%93%E5%A9%9A",
         "百度": "https://m.baidu.com/s?word=%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%BB%93%E5%A9%9A&sa=fyb_news"
@@ -597,56 +847,8 @@
       "raw_titles": [
         "曝邓紫棋结婚"
       ],
-      "rank": 9,
-      "movie_rank": 6
-    },
-    {
-      "title": "国庆档电影排雷报告",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 481147,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%8E%92%E9%9B%B7%E6%8A%A5%E5%91%8A"
-      },
-      "raw_titles": [
-        "国庆档电影排雷报告"
-      ],
-      "rank": 10,
+      "rank": 11,
       "movie_rank": 7
-    },
-    {
-      "title": "王曼昱晋级中国大满贯16强",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 387000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF16%E5%BC%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王曼昱晋级中国大满贯16强"
-      ],
-      "rank": 12,
-      "movie_rank": 8
-    },
-    {
-      "title": "周迅釜山电影节红毯状态",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 367087,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E7%BA%A2%E6%AF%AF%E7%8A%B6%E6%80%81"
-      },
-      "raw_titles": [
-        "周迅釜山电影节红毯状态"
-      ],
-      "rank": 13,
-      "movie_rank": 9
     },
     {
       "title": "邓紫棋自由的你上线",
@@ -654,31 +856,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 334571,
+      "hot_value": 469592,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%82%93%E7%B4%AB%E6%A3%8B%E8%87%AA%E7%94%B1%E7%9A%84%E4%BD%A0%E4%B8%8A%E7%BA%BF"
       },
       "raw_titles": [
         "邓紫棋自由的你上线"
       ],
-      "rank": 15,
-      "movie_rank": 10
+      "rank": 12,
+      "movie_rank": 8
     },
     {
-      "title": "原神过场动画摩拉游戏",
+      "title": "国庆档电影排雷报告",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 310072,
+      "hot_value": 459075,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E6%91%A9%E6%8B%89%E6%B8%B8%E6%88%8F"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%8E%92%E9%9B%B7%E6%8A%A5%E5%91%8A"
       },
       "raw_titles": [
-        "原神过场动画摩拉游戏"
+        "国庆档电影排雷报告"
       ],
-      "rank": 16,
-      "movie_rank": 11
+      "rank": 13,
+      "movie_rank": 9
     },
     {
       "title": "陈思诚这次真进步了吗",
@@ -686,14 +888,46 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%99%88%E6%80%9D%E8%AF%9A%E8%BF%99%E6%AC%A1%E7%9C%9F%E8%BF%9B%E6%AD%A5%E4%BA%86%E5%90%97&sa=fyb_news"
       },
       "raw_titles": [
         "陈思诚这次真进步了吗"
       ],
-      "rank": 17,
+      "rank": 16,
+      "movie_rank": 10
+    },
+    {
+      "title": "周迅釜山电影节红毯状态",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 358817,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E7%BA%A2%E6%AF%AF%E7%8A%B6%E6%80%81"
+      },
+      "raw_titles": [
+        "周迅釜山电影节红毯状态"
+      ],
+      "rank": 18,
+      "movie_rank": 11
+    },
+    {
+      "title": "原神过场动画摩拉游戏",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 325368,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E6%91%A9%E6%8B%89%E6%B8%B8%E6%88%8F"
+      },
+      "raw_titles": [
+        "原神过场动画摩拉游戏"
+      ],
+      "rank": 20,
       "movie_rank": 12
     },
     {
@@ -702,30 +936,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 276043,
+      "hot_value": 303655,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%94%B7%E5%8F%8B%E6%98%AF%E5%AF%8C%E4%B8%89%E4%BB%A3"
       },
       "raw_titles": [
         "曝邓紫棋男友是富三代"
       ],
-      "rank": 18,
+      "rank": 22,
       "movie_rank": 13
     },
     {
-      "title": "声生不息宝岛季",
+      "title": "王曼昱晋级中国大满贯16强",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 243500,
+      "hot_value": 18000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%AE%9D%E5%B2%9B%E5%AD%A3"
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF16%E5%BC%BA&sa=fyb_news"
       },
       "raw_titles": [
-        "声生不息宝岛季"
+        "王曼昱晋级中国大满贯16强"
       ],
-      "rank": 19,
+      "rank": 29,
       "movie_rank": 14
     }
   ]
