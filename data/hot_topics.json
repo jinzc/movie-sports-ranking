@@ -1,24 +1,43 @@
 {
-  "update_time": "2026-10-07 19:00:45",
-  "total": 27,
-  "sports_count": 12,
-  "movie_count": 15,
+  "update_time": "2026-10-07 20:00:53",
+  "total": 31,
+  "sports_count": 14,
+  "movie_count": 17,
   "all": [
     {
-      "title": "郑钦文将战黑马查拉耶娃",
+      "title": "小团团杯总决赛开战",
       "category": "体育",
       "sources": [
+        "抖音",
         "抖音"
       ],
-      "hot_value": 9300193,
+      "hot_value": 19462143,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E5%B0%86%E6%88%98%E9%BB%91%E9%A9%AC%E6%9F%A5%E6%8B%89%E8%80%B6%E5%A8%83"
+        "抖音": "https://www.douyin.com/search/%E5%B0%8F%E5%9B%A2%E5%9B%A2%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
-        "郑钦文将战黑马查拉耶娃"
+        "小团团杯总决赛开战"
       ],
       "rank": 1,
       "sports_rank": 1
+    },
+    {
+      "title": "郑钦文vs查拉耶娃",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 11902152,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%9F%A5%E6%8B%89%E8%80%B6%E5%A8%83",
+        "抖音": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E5%AF%B9%E9%98%B5%E6%9F%A5%E6%8B%89%E8%80%B6%E5%A8%83"
+      },
+      "raw_titles": [
+        "郑钦文vs查拉耶娃"
+      ],
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "C罗长文回应退出训练风波",
@@ -26,15 +45,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9052751,
+      "hot_value": 8869030,
       "urls": {
         "抖音": "https://www.douyin.com/search/C%E7%BD%97%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E8%AE%AD%E7%BB%83%E9%A3%8E%E6%B3%A2"
       },
       "raw_titles": [
         "C罗长文回应退出训练风波"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "欢迎来龙餐馆代表内地角逐奥斯卡",
@@ -42,47 +61,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8313570,
+      "hot_value": 8809830,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E4%BB%A3%E8%A1%A8%E5%86%85%E5%9C%B0%E8%A7%92%E9%80%90%E5%A5%A5%E6%96%AF%E5%8D%A1"
       },
       "raw_titles": [
         "欢迎来龙餐馆代表内地角逐奥斯卡"
       ],
-      "rank": 3,
-      "movie_rank": 1
-    },
-    {
-      "title": "此处通往繁星定档",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7796240,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AD%A4%E5%A4%84%E9%80%9A%E5%BE%80%E7%B9%81%E6%98%9F%E5%AE%9A%E6%A1%A3"
-      },
-      "raw_titles": [
-        "此处通往繁星定档"
-      ],
       "rank": 4,
-      "movie_rank": 2
-    },
-    {
-      "title": "小团团杯总决赛名单公布",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7765000,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%B0%8F%E5%9B%A2%E5%9B%A2%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
-      },
-      "raw_titles": [
-        "小团团杯总决赛名单公布"
-      ],
-      "rank": 5,
-      "sports_rank": 3
+      "movie_rank": 1
     },
     {
       "title": "Holy Moly国庆作业MVP结算版",
@@ -90,14 +77,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7751635,
+      "hot_value": 8433557,
       "urls": {
         "抖音": "https://www.douyin.com/search/Holy%20Moly%E5%9B%BD%E5%BA%86%E4%BD%9C%E4%B8%9AMVP%E7%BB%93%E7%AE%97%E7%89%88"
       },
       "raw_titles": [
         "Holy Moly国庆作业MVP结算版"
       ],
-      "rank": 6,
+      "rank": 5,
       "sports_rank": 4
     },
     {
@@ -106,47 +93,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707337,
+      "hot_value": 7764137,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%A9%9A%E7%BA%B1%E8%88%9E%E5%8F%B0%E5%90%8D%E5%9C%BA%E9%9D%A2"
       },
       "raw_titles": [
         "邓紫棋婚纱舞台名场面"
       ],
-      "rank": 7,
-      "movie_rank": 3
-    },
-    {
-      "title": "从巴黎时装周看流行趋势",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7688782,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BB%8E%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E7%9C%8B%E6%B5%81%E8%A1%8C%E8%B6%8B%E5%8A%BF"
-      },
-      "raw_titles": [
-        "从巴黎时装周看流行趋势"
-      ],
-      "rank": 8,
-      "sports_rank": 5
-    },
-    {
-      "title": "剧版喜剧之王不愧喜人班子",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7682765,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%89%A7%E7%89%88%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E4%B8%8D%E6%84%A7%E5%96%9C%E4%BA%BA%E7%8F%AD%E5%AD%90"
-      },
-      "raw_titles": [
-        "剧版喜剧之王不愧喜人班子"
-      ],
-      "rank": 9,
-      "movie_rank": 4
+      "rank": 6,
+      "movie_rank": 2
     },
     {
       "title": "生化危机爆发夜票房口碑双爆",
@@ -154,14 +109,78 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7680948,
+      "hot_value": 7752513,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E7%A5%A8%E6%88%BF%E5%8F%A3%E7%A2%91%E5%8F%8C%E7%88%86"
       },
       "raw_titles": [
         "生化危机爆发夜票房口碑双爆"
       ],
+      "rank": 7,
+      "movie_rank": 3
+    },
+    {
+      "title": "是谁拿到了杜兰特的落地签",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7746793,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%98%AF%E8%B0%81%E6%8B%BF%E5%88%B0%E4%BA%86%E6%9D%9C%E5%85%B0%E7%89%B9%E7%9A%84%E8%90%BD%E5%9C%B0%E7%AD%BE"
+      },
+      "raw_titles": [
+        "是谁拿到了杜兰特的落地签"
+      ],
+      "rank": 8,
+      "sports_rank": 5
+    },
+    {
+      "title": "此处通往繁星定档",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7745010,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AD%A4%E5%A4%84%E9%80%9A%E5%BE%80%E7%B9%81%E6%98%9F%E5%AE%9A%E6%A1%A3"
+      },
+      "raw_titles": [
+        "此处通往繁星定档"
+      ],
+      "rank": 9,
+      "movie_rank": 4
+    },
+    {
+      "title": "从巴黎时装周看流行趋势",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7720048,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BB%8E%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E7%9C%8B%E6%B5%81%E8%A1%8C%E8%B6%8B%E5%8A%BF"
+      },
+      "raw_titles": [
+        "从巴黎时装周看流行趋势"
+      ],
       "rank": 10,
+      "sports_rank": 6
+    },
+    {
+      "title": "剧版喜剧之王不愧喜人班子",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7715651,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%89%A7%E7%89%88%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E4%B8%8D%E6%84%A7%E5%96%9C%E4%BA%BA%E7%8F%AD%E5%AD%90"
+      },
+      "raw_titles": [
+        "剧版喜剧之王不愧喜人班子"
+      ],
+      "rank": 11,
       "movie_rank": 5
     },
     {
@@ -170,31 +189,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7675613,
+      "hot_value": 7679268,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B8%B4%E6%B2%82%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "李荣浩临沂演唱会"
       ],
-      "rank": 11,
+      "rank": 12,
       "movie_rank": 6
     },
     {
-      "title": "许涛叫阵切磋杜兰特",
+      "title": "如何看待存储板块集体跳水",
       "category": "体育",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7653601,
+      "hot_value": 749621,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%AE%B8%E6%B6%9B%E5%8F%AB%E9%98%B5%E5%88%87%E7%A3%8B%E6%9D%9C%E5%85%B0%E7%89%B9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E8%B7%B3%E6%B0%B4"
       },
       "raw_titles": [
-        "许涛叫阵切磋杜兰特"
+        "如何看待存储板块集体跳水"
       ],
-      "rank": 12,
-      "sports_rank": 6
+      "rank": 13,
+      "sports_rank": 7
     },
     {
       "title": "王楚淇谈C罗长文回应退队",
@@ -202,47 +221,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1810210,
+      "hot_value": 749614,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E6%B7%87%E8%B0%88C%E7%BD%97%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E9%80%80%E9%98%9F"
       },
       "raw_titles": [
         "王楚淇谈C罗长文回应退队"
       ],
-      "rank": 13,
-      "sports_rank": 7
-    },
-    {
-      "title": "葡媒怒批C罗",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 929068,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E5%AA%92%E6%80%92%E6%89%B9C%E7%BD%97"
-      },
-      "raw_titles": [
-        "葡媒怒批C罗"
-      ],
       "rank": 14,
       "sports_rank": 8
-    },
-    {
-      "title": "F1新加坡站赛前指南",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 853216,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%AB%99%E8%B5%9B%E5%89%8D%E6%8C%87%E5%8D%97"
-      },
-      "raw_titles": [
-        "F1新加坡站赛前指南"
-      ],
-      "rank": 15,
-      "sports_rank": 9
     },
     {
       "title": "PVZ小动画硬币劫案",
@@ -250,63 +237,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 838770,
+      "hot_value": 749601,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=PVZ%E5%B0%8F%E5%8A%A8%E7%94%BB%E7%A1%AC%E5%B8%81%E5%8A%AB%E6%A1%88"
       },
       "raw_titles": [
         "PVZ小动画硬币劫案"
       ],
-      "rank": 16,
+      "rank": 15,
       "movie_rank": 7
-    },
-    {
-      "title": "赵丽颖谢娜关系",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 765064,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B0%A2%E5%A8%9C%E5%85%B3%E7%B3%BB"
-      },
-      "raw_titles": [
-        "赵丽颖谢娜关系"
-      ],
-      "rank": 17,
-      "movie_rank": 8
-    },
-    {
-      "title": "中国人在外国旅游的口碑",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 632319,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%96%E5%9B%BD%E6%97%85%E6%B8%B8%E7%9A%84%E5%8F%A3%E7%A2%91"
-      },
-      "raw_titles": [
-        "中国人在外国旅游的口碑"
-      ],
-      "rank": 18,
-      "movie_rank": 9
-    },
-    {
-      "title": "AI短片生化危机爆发夜前传",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 554873,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0"
-      },
-      "raw_titles": [
-        "AI短片生化危机爆发夜前传"
-      ],
-      "rank": 19,
-      "movie_rank": 10
     },
     {
       "title": "原神剧情PV往日",
@@ -314,111 +253,143 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 443370,
+      "hot_value": 677345,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E5%BE%80%E6%97%A5"
       },
       "raw_titles": [
         "原神剧情PV往日"
       ],
-      "rank": 20,
-      "movie_rank": 11
+      "rank": 16,
+      "movie_rank": 8
     },
     {
-      "title": "德约开玩笑说要拿中国护照",
-      "category": "体育",
+      "title": "AI短片生化危机爆发夜前传",
+      "category": "影视",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 387000,
+      "hot_value": 663525,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E7%BA%A6%E5%BC%80%E7%8E%A9%E7%AC%91%E8%AF%B4%E8%A6%81%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0"
       },
       "raw_titles": [
-        "德约开玩笑说要拿中国护照"
+        "AI短片生化危机爆发夜前传"
       ],
-      "rank": 21,
+      "rank": 17,
+      "movie_rank": 9
+    },
+    {
+      "title": "F1新加坡站赛前指南",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 612325,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%AB%99%E8%B5%9B%E5%89%8D%E6%8C%87%E5%8D%97"
+      },
+      "raw_titles": [
+        "F1新加坡站赛前指南"
+      ],
+      "rank": 18,
+      "sports_rank": 9
+    },
+    {
+      "title": "动物园老虎晒太阳被传死亡",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 564188,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%80%81%E8%99%8E%E6%99%92%E5%A4%AA%E9%98%B3%E8%A2%AB%E4%BC%A0%E6%AD%BB%E4%BA%A1"
+      },
+      "raw_titles": [
+        "动物园老虎晒太阳被传死亡"
+      ],
+      "rank": 19,
       "sports_rank": 10
     },
     {
-      "title": "王俊凯演唱会贵阳站官宣",
+      "title": "中国人在外国旅游的口碑",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 517065,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%96%E5%9B%BD%E6%97%85%E6%B8%B8%E7%9A%84%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "中国人在外国旅游的口碑"
+      ],
+      "rank": 20,
+      "movie_rank": 10
+    },
+    {
+      "title": "电影神探之痕迹值得看吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 487039,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
+      },
+      "raw_titles": [
+        "电影神探之痕迹值得看吗"
+      ],
+      "rank": 21,
+      "movie_rank": 11
+    },
+    {
+      "title": "赵丽颖谢娜关系",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 267276,
+      "hot_value": 410112,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B4%B5%E9%98%B3%E7%AB%99%E5%AE%98%E5%AE%A3"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B0%A2%E5%A8%9C%E5%85%B3%E7%B3%BB"
       },
       "raw_titles": [
-        "王俊凯演唱会贵阳站官宣"
+        "赵丽颖谢娜关系"
       ],
       "rank": 22,
       "movie_rank": 12
     },
     {
-      "title": "邓紫棋Mark时间线",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 197454,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8BMark%E6%97%B6%E9%97%B4%E7%BA%BF"
-      },
-      "raw_titles": [
-        "邓紫棋Mark时间线"
-      ],
-      "rank": 23,
-      "movie_rank": 13
-    },
-    {
-      "title": "赵丽颖现身谢娜话剧现场",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 189497,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%B0%E8%BA%AB%E8%B0%A2%E5%A8%9C%E8%AF%9D%E5%89%A7%E7%8E%B0%E5%9C%BA"
-      },
-      "raw_titles": [
-        "赵丽颖现身谢娜话剧现场"
-      ],
-      "rank": 24,
-      "movie_rank": 14
-    },
-    {
-      "title": "葡萄牙队友无人点赞C罗声明",
+      "title": "葡媒怒批C罗",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 150850,
+      "hot_value": 409471,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E5%8F%8B%E6%97%A0%E4%BA%BA%E7%82%B9%E8%B5%9EC%E7%BD%97%E5%A3%B0%E6%98%8E"
+        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E5%AA%92%E6%80%92%E6%89%B9C%E7%BD%97"
       },
       "raw_titles": [
-        "葡萄牙队友无人点赞C罗声明"
+        "葡媒怒批C罗"
       ],
-      "rank": 25,
+      "rank": 23,
       "sports_rank": 11
     },
     {
-      "title": "王俊凯当潮汐漫溢巡回演唱会",
-      "category": "影视",
+      "title": "郑钦文迎战本届最大黑马",
+      "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 125733,
+      "hot_value": 342000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BD%93%E6%BD%AE%E6%B1%90%E6%BC%AB%E6%BA%A2%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A"
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%8E%E6%88%98%E6%9C%AC%E5%B1%8A%E6%9C%80%E5%A4%A7%E9%BB%91%E9%A9%AC&sa=fyb_news"
       },
       "raw_titles": [
-        "王俊凯当潮汐漫溢巡回演唱会"
+        "郑钦文迎战本届最大黑马"
       ],
-      "rank": 26,
-      "movie_rank": 15
+      "rank": 24,
+      "sports_rank": 12
     },
     {
       "title": "机票价格跳水 多航线比高铁还便宜",
@@ -426,33 +397,148 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 108000,
+      "hot_value": 225000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4+%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%AF%94%E9%AB%98%E9%93%81%E8%BF%98%E4%BE%BF%E5%AE%9C&sa=fyb_news"
       },
       "raw_titles": [
         "机票价格跳水 多航线比高铁还便宜"
       ],
+      "rank": 25,
+      "sports_rank": 13
+    },
+    {
+      "title": "薛之谦 此生不穿别的球衣了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 208262,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%AD%A4%E7%94%9F%E4%B8%8D%E7%A9%BF%E5%88%AB%E7%9A%84%E7%90%83%E8%A1%A3%E4%BA%86"
+      },
+      "raw_titles": [
+        "薛之谦 此生不穿别的球衣了"
+      ],
+      "rank": 26,
+      "movie_rank": 13
+    },
+    {
+      "title": "原来2022年赵丽颖就约好去看谢娜话剧",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 182657,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A52022%E5%B9%B4%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B0%B1%E7%BA%A6%E5%A5%BD%E5%8E%BB%E7%9C%8B%E8%B0%A2%E5%A8%9C%E8%AF%9D%E5%89%A7"
+      },
+      "raw_titles": [
+        "原来2022年赵丽颖就约好去看谢娜话剧"
+      ],
       "rank": 27,
-      "sports_rank": 12
+      "movie_rank": 14
+    },
+    {
+      "title": "韩剧暧昧期好爽",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 164235,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E6%9A%A7%E6%98%A7%E6%9C%9F%E5%A5%BD%E7%88%BD"
+      },
+      "raw_titles": [
+        "韩剧暧昧期好爽"
+      ],
+      "rank": 28,
+      "movie_rank": 15
+    },
+    {
+      "title": "邓紫棋Mark时间线",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 149380,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8BMark%E6%97%B6%E9%97%B4%E7%BA%BF"
+      },
+      "raw_titles": [
+        "邓紫棋Mark时间线"
+      ],
+      "rank": 29,
+      "movie_rank": 16
+    },
+    {
+      "title": "王俊凯演唱会贵阳站官宣",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 134081,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B4%B5%E9%98%B3%E7%AB%99%E5%AE%98%E5%AE%A3"
+      },
+      "raw_titles": [
+        "王俊凯演唱会贵阳站官宣"
+      ],
+      "rank": 30,
+      "movie_rank": 17
+    },
+    {
+      "title": "德约开玩笑说要拿中国护照",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 108000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E7%BA%A6%E5%BC%80%E7%8E%A9%E7%AC%91%E8%AF%B4%E8%A6%81%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "德约开玩笑说要拿中国护照"
+      ],
+      "rank": 31,
+      "sports_rank": 14
     }
   ],
   "sports": [
     {
-      "title": "郑钦文将战黑马查拉耶娃",
+      "title": "小团团杯总决赛开战",
       "category": "体育",
       "sources": [
+        "抖音",
         "抖音"
       ],
-      "hot_value": 9300193,
+      "hot_value": 19462143,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E5%B0%86%E6%88%98%E9%BB%91%E9%A9%AC%E6%9F%A5%E6%8B%89%E8%80%B6%E5%A8%83"
+        "抖音": "https://www.douyin.com/search/%E5%B0%8F%E5%9B%A2%E5%9B%A2%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
-        "郑钦文将战黑马查拉耶娃"
+        "小团团杯总决赛开战"
       ],
       "rank": 1,
       "sports_rank": 1
+    },
+    {
+      "title": "郑钦文vs查拉耶娃",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 11902152,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%9F%A5%E6%8B%89%E8%80%B6%E5%A8%83",
+        "抖音": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E5%AF%B9%E9%98%B5%E6%9F%A5%E6%8B%89%E8%80%B6%E5%A8%83"
+      },
+      "raw_titles": [
+        "郑钦文vs查拉耶娃"
+      ],
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "C罗长文回应退出训练风波",
@@ -460,30 +546,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9052751,
+      "hot_value": 8869030,
       "urls": {
         "抖音": "https://www.douyin.com/search/C%E7%BD%97%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E8%AE%AD%E7%BB%83%E9%A3%8E%E6%B3%A2"
       },
       "raw_titles": [
         "C罗长文回应退出训练风波"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "小团团杯总决赛名单公布",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7765000,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%B0%8F%E5%9B%A2%E5%9B%A2%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
-      },
-      "raw_titles": [
-        "小团团杯总决赛名单公布"
-      ],
-      "rank": 5,
+      "rank": 3,
       "sports_rank": 3
     },
     {
@@ -492,15 +562,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7751635,
+      "hot_value": 8433557,
       "urls": {
         "抖音": "https://www.douyin.com/search/Holy%20Moly%E5%9B%BD%E5%BA%86%E4%BD%9C%E4%B8%9AMVP%E7%BB%93%E7%AE%97%E7%89%88"
       },
       "raw_titles": [
         "Holy Moly国庆作业MVP结算版"
       ],
-      "rank": 6,
+      "rank": 5,
       "sports_rank": 4
+    },
+    {
+      "title": "是谁拿到了杜兰特的落地签",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7746793,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%98%AF%E8%B0%81%E6%8B%BF%E5%88%B0%E4%BA%86%E6%9D%9C%E5%85%B0%E7%89%B9%E7%9A%84%E8%90%BD%E5%9C%B0%E7%AD%BE"
+      },
+      "raw_titles": [
+        "是谁拿到了杜兰特的落地签"
+      ],
+      "rank": 8,
+      "sports_rank": 5
     },
     {
       "title": "从巴黎时装周看流行趋势",
@@ -508,31 +594,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7688782,
+      "hot_value": 7720048,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BB%8E%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E7%9C%8B%E6%B5%81%E8%A1%8C%E8%B6%8B%E5%8A%BF"
       },
       "raw_titles": [
         "从巴黎时装周看流行趋势"
       ],
-      "rank": 8,
-      "sports_rank": 5
+      "rank": 10,
+      "sports_rank": 6
     },
     {
-      "title": "许涛叫阵切磋杜兰特",
+      "title": "如何看待存储板块集体跳水",
       "category": "体育",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7653601,
+      "hot_value": 749621,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%AE%B8%E6%B6%9B%E5%8F%AB%E9%98%B5%E5%88%87%E7%A3%8B%E6%9D%9C%E5%85%B0%E7%89%B9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E8%B7%B3%E6%B0%B4"
       },
       "raw_titles": [
-        "许涛叫阵切磋杜兰特"
+        "如何看待存储板块集体跳水"
       ],
-      "rank": 12,
-      "sports_rank": 6
+      "rank": 13,
+      "sports_rank": 7
     },
     {
       "title": "王楚淇谈C罗长文回应退队",
@@ -540,28 +626,12 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1810210,
+      "hot_value": 749614,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E6%B7%87%E8%B0%88C%E7%BD%97%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E9%80%80%E9%98%9F"
       },
       "raw_titles": [
         "王楚淇谈C罗长文回应退队"
-      ],
-      "rank": 13,
-      "sports_rank": 7
-    },
-    {
-      "title": "葡媒怒批C罗",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 929068,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E5%AA%92%E6%80%92%E6%89%B9C%E7%BD%97"
-      },
-      "raw_titles": [
-        "葡媒怒批C罗"
       ],
       "rank": 14,
       "sports_rank": 8
@@ -572,47 +642,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 853216,
+      "hot_value": 612325,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%AB%99%E8%B5%9B%E5%89%8D%E6%8C%87%E5%8D%97"
       },
       "raw_titles": [
         "F1新加坡站赛前指南"
       ],
-      "rank": 15,
+      "rank": 18,
       "sports_rank": 9
     },
     {
-      "title": "德约开玩笑说要拿中国护照",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 387000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E7%BA%A6%E5%BC%80%E7%8E%A9%E7%AC%91%E8%AF%B4%E8%A6%81%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "德约开玩笑说要拿中国护照"
-      ],
-      "rank": 21,
-      "sports_rank": 10
-    },
-    {
-      "title": "葡萄牙队友无人点赞C罗声明",
+      "title": "动物园老虎晒太阳被传死亡",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 150850,
+      "hot_value": 564188,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E5%8F%8B%E6%97%A0%E4%BA%BA%E7%82%B9%E8%B5%9EC%E7%BD%97%E5%A3%B0%E6%98%8E"
+        "微博": "https://s.weibo.com/weibo?q=%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%80%81%E8%99%8E%E6%99%92%E5%A4%AA%E9%98%B3%E8%A2%AB%E4%BC%A0%E6%AD%BB%E4%BA%A1"
       },
       "raw_titles": [
-        "葡萄牙队友无人点赞C罗声明"
+        "动物园老虎晒太阳被传死亡"
       ],
-      "rank": 25,
+      "rank": 19,
+      "sports_rank": 10
+    },
+    {
+      "title": "葡媒怒批C罗",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 409471,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E5%AA%92%E6%80%92%E6%89%B9C%E7%BD%97"
+      },
+      "raw_titles": [
+        "葡媒怒批C罗"
+      ],
+      "rank": 23,
       "sports_rank": 11
+    },
+    {
+      "title": "郑钦文迎战本届最大黑马",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 342000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%8E%E6%88%98%E6%9C%AC%E5%B1%8A%E6%9C%80%E5%A4%A7%E9%BB%91%E9%A9%AC&sa=fyb_news"
+      },
+      "raw_titles": [
+        "郑钦文迎战本届最大黑马"
+      ],
+      "rank": 24,
+      "sports_rank": 12
     },
     {
       "title": "机票价格跳水 多航线比高铁还便宜",
@@ -620,15 +706,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 108000,
+      "hot_value": 225000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4+%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%AF%94%E9%AB%98%E9%93%81%E8%BF%98%E4%BE%BF%E5%AE%9C&sa=fyb_news"
       },
       "raw_titles": [
         "机票价格跳水 多航线比高铁还便宜"
       ],
-      "rank": 27,
-      "sports_rank": 12
+      "rank": 25,
+      "sports_rank": 13
+    },
+    {
+      "title": "德约开玩笑说要拿中国护照",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 108000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%BE%B7%E7%BA%A6%E5%BC%80%E7%8E%A9%E7%AC%91%E8%AF%B4%E8%A6%81%E6%8B%BF%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "德约开玩笑说要拿中国护照"
+      ],
+      "rank": 31,
+      "sports_rank": 14
     }
   ],
   "movies": [
@@ -638,31 +740,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8313570,
+      "hot_value": 8809830,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E4%BB%A3%E8%A1%A8%E5%86%85%E5%9C%B0%E8%A7%92%E9%80%90%E5%A5%A5%E6%96%AF%E5%8D%A1"
       },
       "raw_titles": [
         "欢迎来龙餐馆代表内地角逐奥斯卡"
       ],
-      "rank": 3,
-      "movie_rank": 1
-    },
-    {
-      "title": "此处通往繁星定档",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7796240,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AD%A4%E5%A4%84%E9%80%9A%E5%BE%80%E7%B9%81%E6%98%9F%E5%AE%9A%E6%A1%A3"
-      },
-      "raw_titles": [
-        "此处通往繁星定档"
-      ],
       "rank": 4,
-      "movie_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "邓紫棋婚纱舞台名场面",
@@ -670,31 +756,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707337,
+      "hot_value": 7764137,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%A9%9A%E7%BA%B1%E8%88%9E%E5%8F%B0%E5%90%8D%E5%9C%BA%E9%9D%A2"
       },
       "raw_titles": [
         "邓紫棋婚纱舞台名场面"
       ],
-      "rank": 7,
-      "movie_rank": 3
-    },
-    {
-      "title": "剧版喜剧之王不愧喜人班子",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7682765,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%89%A7%E7%89%88%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E4%B8%8D%E6%84%A7%E5%96%9C%E4%BA%BA%E7%8F%AD%E5%AD%90"
-      },
-      "raw_titles": [
-        "剧版喜剧之王不愧喜人班子"
-      ],
-      "rank": 9,
-      "movie_rank": 4
+      "rank": 6,
+      "movie_rank": 2
     },
     {
       "title": "生化危机爆发夜票房口碑双爆",
@@ -702,14 +772,46 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7680948,
+      "hot_value": 7752513,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E7%A5%A8%E6%88%BF%E5%8F%A3%E7%A2%91%E5%8F%8C%E7%88%86"
       },
       "raw_titles": [
         "生化危机爆发夜票房口碑双爆"
       ],
-      "rank": 10,
+      "rank": 7,
+      "movie_rank": 3
+    },
+    {
+      "title": "此处通往繁星定档",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7745010,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%AD%A4%E5%A4%84%E9%80%9A%E5%BE%80%E7%B9%81%E6%98%9F%E5%AE%9A%E6%A1%A3"
+      },
+      "raw_titles": [
+        "此处通往繁星定档"
+      ],
+      "rank": 9,
+      "movie_rank": 4
+    },
+    {
+      "title": "剧版喜剧之王不愧喜人班子",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7715651,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%89%A7%E7%89%88%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E4%B8%8D%E6%84%A7%E5%96%9C%E4%BA%BA%E7%8F%AD%E5%AD%90"
+      },
+      "raw_titles": [
+        "剧版喜剧之王不愧喜人班子"
+      ],
+      "rank": 11,
       "movie_rank": 5
     },
     {
@@ -718,14 +820,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7675613,
+      "hot_value": 7679268,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B8%B4%E6%B2%82%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "李荣浩临沂演唱会"
       ],
-      "rank": 11,
+      "rank": 12,
       "movie_rank": 6
     },
     {
@@ -734,63 +836,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 838770,
+      "hot_value": 749601,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=PVZ%E5%B0%8F%E5%8A%A8%E7%94%BB%E7%A1%AC%E5%B8%81%E5%8A%AB%E6%A1%88"
       },
       "raw_titles": [
         "PVZ小动画硬币劫案"
       ],
-      "rank": 16,
+      "rank": 15,
       "movie_rank": 7
-    },
-    {
-      "title": "赵丽颖谢娜关系",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 765064,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B0%A2%E5%A8%9C%E5%85%B3%E7%B3%BB"
-      },
-      "raw_titles": [
-        "赵丽颖谢娜关系"
-      ],
-      "rank": 17,
-      "movie_rank": 8
-    },
-    {
-      "title": "中国人在外国旅游的口碑",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 632319,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%96%E5%9B%BD%E6%97%85%E6%B8%B8%E7%9A%84%E5%8F%A3%E7%A2%91"
-      },
-      "raw_titles": [
-        "中国人在外国旅游的口碑"
-      ],
-      "rank": 18,
-      "movie_rank": 9
-    },
-    {
-      "title": "AI短片生化危机爆发夜前传",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 554873,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0"
-      },
-      "raw_titles": [
-        "AI短片生化危机爆发夜前传"
-      ],
-      "rank": 19,
-      "movie_rank": 10
     },
     {
       "title": "原神剧情PV往日",
@@ -798,31 +852,127 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 443370,
+      "hot_value": 677345,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV%E5%BE%80%E6%97%A5"
       },
       "raw_titles": [
         "原神剧情PV往日"
       ],
+      "rank": 16,
+      "movie_rank": 8
+    },
+    {
+      "title": "AI短片生化危机爆发夜前传",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 663525,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0"
+      },
+      "raw_titles": [
+        "AI短片生化危机爆发夜前传"
+      ],
+      "rank": 17,
+      "movie_rank": 9
+    },
+    {
+      "title": "中国人在外国旅游的口碑",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 517065,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%96%E5%9B%BD%E6%97%85%E6%B8%B8%E7%9A%84%E5%8F%A3%E7%A2%91"
+      },
+      "raw_titles": [
+        "中国人在外国旅游的口碑"
+      ],
       "rank": 20,
+      "movie_rank": 10
+    },
+    {
+      "title": "电影神探之痕迹值得看吗",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 487039,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97"
+      },
+      "raw_titles": [
+        "电影神探之痕迹值得看吗"
+      ],
+      "rank": 21,
       "movie_rank": 11
     },
     {
-      "title": "王俊凯演唱会贵阳站官宣",
+      "title": "赵丽颖谢娜关系",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 267276,
+      "hot_value": 410112,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B4%B5%E9%98%B3%E7%AB%99%E5%AE%98%E5%AE%A3"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B0%A2%E5%A8%9C%E5%85%B3%E7%B3%BB"
       },
       "raw_titles": [
-        "王俊凯演唱会贵阳站官宣"
+        "赵丽颖谢娜关系"
       ],
       "rank": 22,
       "movie_rank": 12
+    },
+    {
+      "title": "薛之谦 此生不穿别的球衣了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 208262,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%AD%A4%E7%94%9F%E4%B8%8D%E7%A9%BF%E5%88%AB%E7%9A%84%E7%90%83%E8%A1%A3%E4%BA%86"
+      },
+      "raw_titles": [
+        "薛之谦 此生不穿别的球衣了"
+      ],
+      "rank": 26,
+      "movie_rank": 13
+    },
+    {
+      "title": "原来2022年赵丽颖就约好去看谢娜话剧",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 182657,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A52022%E5%B9%B4%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B0%B1%E7%BA%A6%E5%A5%BD%E5%8E%BB%E7%9C%8B%E8%B0%A2%E5%A8%9C%E8%AF%9D%E5%89%A7"
+      },
+      "raw_titles": [
+        "原来2022年赵丽颖就约好去看谢娜话剧"
+      ],
+      "rank": 27,
+      "movie_rank": 14
+    },
+    {
+      "title": "韩剧暧昧期好爽",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 164235,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E6%9A%A7%E6%98%A7%E6%9C%9F%E5%A5%BD%E7%88%BD"
+      },
+      "raw_titles": [
+        "韩剧暧昧期好爽"
+      ],
+      "rank": 28,
+      "movie_rank": 15
     },
     {
       "title": "邓紫棋Mark时间线",
@@ -830,47 +980,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 197454,
+      "hot_value": 149380,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8BMark%E6%97%B6%E9%97%B4%E7%BA%BF"
       },
       "raw_titles": [
         "邓紫棋Mark时间线"
       ],
-      "rank": 23,
-      "movie_rank": 13
+      "rank": 29,
+      "movie_rank": 16
     },
     {
-      "title": "赵丽颖现身谢娜话剧现场",
+      "title": "王俊凯演唱会贵阳站官宣",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 189497,
+      "hot_value": 134081,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%B0%E8%BA%AB%E8%B0%A2%E5%A8%9C%E8%AF%9D%E5%89%A7%E7%8E%B0%E5%9C%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B4%B5%E9%98%B3%E7%AB%99%E5%AE%98%E5%AE%A3"
       },
       "raw_titles": [
-        "赵丽颖现身谢娜话剧现场"
+        "王俊凯演唱会贵阳站官宣"
       ],
-      "rank": 24,
-      "movie_rank": 14
-    },
-    {
-      "title": "王俊凯当潮汐漫溢巡回演唱会",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 125733,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BD%93%E6%BD%AE%E6%B1%90%E6%BC%AB%E6%BA%A2%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A"
-      },
-      "raw_titles": [
-        "王俊凯当潮汐漫溢巡回演唱会"
-      ],
-      "rank": 26,
-      "movie_rank": 15
+      "rank": 30,
+      "movie_rank": 17
     }
   ]
 }
