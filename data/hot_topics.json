@@ -1,24 +1,58 @@
 {
-  "update_time": "2026-10-08 20:00:49",
-  "total": 17,
-  "sports_count": 8,
+  "update_time": "2026-10-08 21:00:51",
+  "total": 16,
+  "sports_count": 7,
   "movie_count": 9,
   "all": [
+    {
+      "title": "周星驰1港元卖掉影院业务",
+      "category": "影视",
+      "sources": [
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 7900371,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B01%E6%B8%AF%E5%85%83%E5%8D%96%E6%8E%89%E5%BD%B1%E9%99%A2%E4%B8%9A%E5%8A%A1&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B01%E6%B8%AF%E5%85%83%E8%BD%AC%E8%AE%A9%E5%86%85%E5%9C%B0%E5%BD%B1%E9%99%A2%E4%B8%9A%E5%8A%A1"
+      },
+      "raw_titles": [
+        "周星驰1港元卖掉影院业务"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "杨瀚森季前赛6分2板4助攻",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8234723,
+      "hot_value": 7788084,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AD%A3%E5%89%8D%E8%B5%9B6%E5%88%862%E6%9D%BF4%E5%8A%A9%E6%94%BB"
       },
       "raw_titles": [
         "杨瀚森季前赛6分2板4助攻"
       ],
-      "rank": 1,
+      "rank": 2,
       "sports_rank": 1
+    },
+    {
+      "title": "EGG大权小团团杯夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7738610,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/EGG%E5%A4%A7%E6%9D%83%E5%B0%8F%E5%9B%A2%E5%9B%A2%E6%9D%AF%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "EGG大权小团团杯夺冠"
+      ],
+      "rank": 3,
+      "sports_rank": 2
     },
     {
       "title": "全员进入骑士小猫时代",
@@ -26,47 +60,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7646404,
+      "hot_value": 7656861,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%85%A8%E5%91%98%E8%BF%9B%E5%85%A5%E9%AA%91%E5%A3%AB%E5%B0%8F%E7%8C%AB%E6%97%B6%E4%BB%A3"
       },
       "raw_titles": [
         "全员进入骑士小猫时代"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "是谁拿到了杜兰特的落地签",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7609018,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%98%AF%E8%B0%81%E6%8B%BF%E5%88%B0%E4%BA%86%E6%9D%9C%E5%85%B0%E7%89%B9%E7%9A%84%E8%90%BD%E5%9C%B0%E7%AD%BE"
-      },
-      "raw_titles": [
-        "是谁拿到了杜兰特的落地签"
-      ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "Holy Moly国庆作业MVP结算版",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7317221,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/Holy%20Moly%E5%9B%BD%E5%BA%86%E4%BD%9C%E4%B8%9AMVP%E7%BB%93%E7%AE%97%E7%89%88"
-      },
-      "raw_titles": [
-        "Holy Moly国庆作业MVP结算版"
-      ],
       "rank": 4,
-      "sports_rank": 4
+      "sports_rank": 3
     },
     {
       "title": "杜兰特徐静雨B站世纪会面",
@@ -74,7 +76,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2390641,
+      "hot_value": 973434,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B9%E5%BE%90%E9%9D%99%E9%9B%A8B%E7%AB%99%E4%B8%96%E7%BA%AA%E4%BC%9A%E9%9D%A2"
       },
@@ -82,7 +84,23 @@
         "杜兰特徐静雨B站世纪会面"
       ],
       "rank": 5,
-      "sports_rank": 5
+      "sports_rank": 4
+    },
+    {
+      "title": "我的三角洲固排要卖号怎么办",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 819778,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9B%BA%E6%8E%92%E8%A6%81%E5%8D%96%E5%8F%B7%E6%80%8E%E4%B9%88%E5%8A%9E"
+      },
+      "raw_titles": [
+        "我的三角洲固排要卖号怎么办"
+      ],
+      "rank": 6,
+      "movie_rank": 2
     },
     {
       "title": "赵丽颖 飞天奖",
@@ -90,63 +108,33 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 652604,
+      "hot_value": 645397,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%A3%9E%E5%A4%A9%E5%A5%96"
       },
       "raw_titles": [
         "赵丽颖 飞天奖"
       ],
-      "rank": 6,
-      "movie_rank": 1
-    },
-    {
-      "title": "生化危机电影怪物原型盘点",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 629290,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%94%B5%E5%BD%B1%E6%80%AA%E7%89%A9%E5%8E%9F%E5%9E%8B%E7%9B%98%E7%82%B9"
-      },
-      "raw_titles": [
-        "生化危机电影怪物原型盘点"
-      ],
       "rank": 7,
-      "movie_rank": 2
-    },
-    {
-      "title": "原神过场动画生与死的流速",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 601248,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E7%94%9F%E4%B8%8E%E6%AD%BB%E7%9A%84%E6%B5%81%E9%80%9F"
-      },
-      "raw_titles": [
-        "原神过场动画生与死的流速"
-      ],
-      "rank": 8,
       "movie_rank": 3
     },
     {
-      "title": "阿森纳与阿尔特塔完成续约",
+      "title": "墨西哥摔角手赛场上摔死75岁裁判",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "百度"
       ],
-      "hot_value": 533090,
+      "hot_value": 635673,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B3%E4%B8%8E%E9%98%BF%E5%B0%94%E7%89%B9%E5%A1%94%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6"
+        "微博": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%91%94%E8%A7%92%E6%89%8B%E8%B5%9B%E5%9C%BA%E4%B8%8A%E6%91%94%E6%AD%BB75%E5%B2%81%E8%A3%81%E5%88%A4",
+        "百度": "https://m.baidu.com/s?word=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%91%94%E8%A7%92%E6%89%8B%E8%B5%9B%E5%9C%BA%E4%B8%8A%E6%91%94%E6%AD%BB75%E5%B2%81%E8%A3%81%E5%88%A4&sa=fyb_news"
       },
       "raw_titles": [
-        "阿森纳与阿尔特塔完成续约"
+        "墨西哥摔角手赛场上摔死75岁裁判"
       ],
-      "rank": 9,
-      "sports_rank": 6
+      "rank": 8,
+      "sports_rank": 5
     },
     {
       "title": "AI手搓开心麻花版火影忍者",
@@ -154,15 +142,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 524321,
+      "hot_value": 613542,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85"
       },
       "raw_titles": [
         "AI手搓开心麻花版火影忍者"
       ],
-      "rank": 10,
+      "rank": 9,
       "movie_rank": 4
+    },
+    {
+      "title": "生化危机电影怪物原型盘点",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 519277,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%94%B5%E5%BD%B1%E6%80%AA%E7%89%A9%E5%8E%9F%E5%9E%8B%E7%9B%98%E7%82%B9"
+      },
+      "raw_titles": [
+        "生化危机电影怪物原型盘点"
+      ],
+      "rank": 10,
+      "movie_rank": 5
+    },
+    {
+      "title": "原神过场动画生与死的流速",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 494511,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E7%94%9F%E4%B8%8E%E6%AD%BB%E7%9A%84%E6%B5%81%E9%80%9F"
+      },
+      "raw_titles": [
+        "原神过场动画生与死的流速"
+      ],
+      "rank": 11,
+      "movie_rank": 6
+    },
+    {
+      "title": "阿森纳与阿尔特塔完成续约",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 485568,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B3%E4%B8%8E%E9%98%BF%E5%B0%94%E7%89%B9%E5%A1%94%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6"
+      },
+      "raw_titles": [
+        "阿森纳与阿尔特塔完成续约"
+      ],
+      "rank": 12,
+      "sports_rank": 6
     },
     {
       "title": "飞天奖 换奖杯",
@@ -170,15 +206,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 484605,
+      "hot_value": 368607,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%A3%9E%E5%A4%A9%E5%A5%96%20%E6%8D%A2%E5%A5%96%E6%9D%AF"
       },
       "raw_titles": [
         "飞天奖 换奖杯"
       ],
-      "rank": 11,
-      "movie_rank": 5
+      "rank": 13,
+      "movie_rank": 7
     },
     {
       "title": "白敬亭婉拒王楚然",
@@ -186,47 +222,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 425198,
+      "hot_value": 357017,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A9%89%E6%8B%92%E7%8E%8B%E6%A5%9A%E7%84%B6"
       },
       "raw_titles": [
         "白敬亭婉拒王楚然"
       ],
-      "rank": 12,
-      "movie_rank": 6
-    },
-    {
-      "title": "墨西哥摔角手赛场上摔死75岁裁判",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 422469,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%91%94%E8%A7%92%E6%89%8B%E8%B5%9B%E5%9C%BA%E4%B8%8A%E6%91%94%E6%AD%BB75%E5%B2%81%E8%A3%81%E5%88%A4"
-      },
-      "raw_titles": [
-        "墨西哥摔角手赛场上摔死75岁裁判"
-      ],
-      "rank": 13,
-      "sports_rank": 7
-    },
-    {
-      "title": "1港元卖业务 周星驰退出内地影院生意",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=1%E6%B8%AF%E5%85%83%E5%8D%96%E4%B8%9A%E5%8A%A1+%E5%91%A8%E6%98%9F%E9%A9%B0%E9%80%80%E5%87%BA%E5%86%85%E5%9C%B0%E5%BD%B1%E9%99%A2%E7%94%9F%E6%84%8F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "1港元卖业务 周星驰退出内地影院生意"
-      ],
       "rank": 14,
-      "movie_rank": 7
+      "movie_rank": 8
     },
     {
       "title": "国庆档票价回到2019 票房回到2014",
@@ -242,7 +246,7 @@
         "国庆档票价回到2019 票房回到2014"
       ],
       "rank": 15,
-      "movie_rank": 8
+      "movie_rank": 9
     },
     {
       "title": "巴黎内衣店可试穿内裤",
@@ -250,7 +254,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 251323,
+      "hot_value": 160523,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%86%85%E8%A1%A3%E5%BA%97%E5%8F%AF%E8%AF%95%E7%A9%BF%E5%86%85%E8%A3%A4"
       },
@@ -258,23 +262,7 @@
         "巴黎内衣店可试穿内裤"
       ],
       "rank": 16,
-      "sports_rank": 8
-    },
-    {
-      "title": "蒯曼爆冷止步16强",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 126000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%92%AF%E6%9B%BC%E7%88%86%E5%86%B7%E6%AD%A2%E6%AD%A516%E5%BC%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "蒯曼爆冷止步16强"
-      ],
-      "rank": 17,
-      "movie_rank": 9
+      "sports_rank": 7
     }
   ],
   "sports": [
@@ -284,15 +272,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8234723,
+      "hot_value": 7788084,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AD%A3%E5%89%8D%E8%B5%9B6%E5%88%862%E6%9D%BF4%E5%8A%A9%E6%94%BB"
       },
       "raw_titles": [
         "杨瀚森季前赛6分2板4助攻"
       ],
-      "rank": 1,
+      "rank": 2,
       "sports_rank": 1
+    },
+    {
+      "title": "EGG大权小团团杯夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7738610,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/EGG%E5%A4%A7%E6%9D%83%E5%B0%8F%E5%9B%A2%E5%9B%A2%E6%9D%AF%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "EGG大权小团团杯夺冠"
+      ],
+      "rank": 3,
+      "sports_rank": 2
     },
     {
       "title": "全员进入骑士小猫时代",
@@ -300,47 +304,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7646404,
+      "hot_value": 7656861,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%85%A8%E5%91%98%E8%BF%9B%E5%85%A5%E9%AA%91%E5%A3%AB%E5%B0%8F%E7%8C%AB%E6%97%B6%E4%BB%A3"
       },
       "raw_titles": [
         "全员进入骑士小猫时代"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "是谁拿到了杜兰特的落地签",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7609018,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%98%AF%E8%B0%81%E6%8B%BF%E5%88%B0%E4%BA%86%E6%9D%9C%E5%85%B0%E7%89%B9%E7%9A%84%E8%90%BD%E5%9C%B0%E7%AD%BE"
-      },
-      "raw_titles": [
-        "是谁拿到了杜兰特的落地签"
-      ],
-      "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "Holy Moly国庆作业MVP结算版",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7317221,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/Holy%20Moly%E5%9B%BD%E5%BA%86%E4%BD%9C%E4%B8%9AMVP%E7%BB%93%E7%AE%97%E7%89%88"
-      },
-      "raw_titles": [
-        "Holy Moly国庆作业MVP结算版"
-      ],
       "rank": 4,
-      "sports_rank": 4
+      "sports_rank": 3
     },
     {
       "title": "杜兰特徐静雨B站世纪会面",
@@ -348,7 +320,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2390641,
+      "hot_value": 973434,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B9%E5%BE%90%E9%9D%99%E9%9B%A8B%E7%AB%99%E4%B8%96%E7%BA%AA%E4%BC%9A%E9%9D%A2"
       },
@@ -356,6 +328,24 @@
         "杜兰特徐静雨B站世纪会面"
       ],
       "rank": 5,
+      "sports_rank": 4
+    },
+    {
+      "title": "墨西哥摔角手赛场上摔死75岁裁判",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 635673,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%91%94%E8%A7%92%E6%89%8B%E8%B5%9B%E5%9C%BA%E4%B8%8A%E6%91%94%E6%AD%BB75%E5%B2%81%E8%A3%81%E5%88%A4",
+        "百度": "https://m.baidu.com/s?word=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%91%94%E8%A7%92%E6%89%8B%E8%B5%9B%E5%9C%BA%E4%B8%8A%E6%91%94%E6%AD%BB75%E5%B2%81%E8%A3%81%E5%88%A4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "墨西哥摔角手赛场上摔死75岁裁判"
+      ],
+      "rank": 8,
       "sports_rank": 5
     },
     {
@@ -364,31 +354,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 533090,
+      "hot_value": 485568,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B3%E4%B8%8E%E9%98%BF%E5%B0%94%E7%89%B9%E5%A1%94%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6"
       },
       "raw_titles": [
         "阿森纳与阿尔特塔完成续约"
       ],
-      "rank": 9,
+      "rank": 12,
       "sports_rank": 6
-    },
-    {
-      "title": "墨西哥摔角手赛场上摔死75岁裁判",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 422469,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%91%94%E8%A7%92%E6%89%8B%E8%B5%9B%E5%9C%BA%E4%B8%8A%E6%91%94%E6%AD%BB75%E5%B2%81%E8%A3%81%E5%88%A4"
-      },
-      "raw_titles": [
-        "墨西哥摔角手赛场上摔死75岁裁判"
-      ],
-      "rank": 13,
-      "sports_rank": 7
     },
     {
       "title": "巴黎内衣店可试穿内裤",
@@ -396,7 +370,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 251323,
+      "hot_value": 160523,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%86%85%E8%A1%A3%E5%BA%97%E5%8F%AF%E8%AF%95%E7%A9%BF%E5%86%85%E8%A3%A4"
       },
@@ -404,56 +378,58 @@
         "巴黎内衣店可试穿内裤"
       ],
       "rank": 16,
-      "sports_rank": 8
+      "sports_rank": 7
     }
   ],
   "movies": [
+    {
+      "title": "周星驰1港元卖掉影院业务",
+      "category": "影视",
+      "sources": [
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 7900371,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B01%E6%B8%AF%E5%85%83%E5%8D%96%E6%8E%89%E5%BD%B1%E9%99%A2%E4%B8%9A%E5%8A%A1&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B01%E6%B8%AF%E5%85%83%E8%BD%AC%E8%AE%A9%E5%86%85%E5%9C%B0%E5%BD%B1%E9%99%A2%E4%B8%9A%E5%8A%A1"
+      },
+      "raw_titles": [
+        "周星驰1港元卖掉影院业务"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
+    {
+      "title": "我的三角洲固排要卖号怎么办",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 819778,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9B%BA%E6%8E%92%E8%A6%81%E5%8D%96%E5%8F%B7%E6%80%8E%E4%B9%88%E5%8A%9E"
+      },
+      "raw_titles": [
+        "我的三角洲固排要卖号怎么办"
+      ],
+      "rank": 6,
+      "movie_rank": 2
+    },
     {
       "title": "赵丽颖 飞天奖",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 652604,
+      "hot_value": 645397,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%A3%9E%E5%A4%A9%E5%A5%96"
       },
       "raw_titles": [
         "赵丽颖 飞天奖"
       ],
-      "rank": 6,
-      "movie_rank": 1
-    },
-    {
-      "title": "生化危机电影怪物原型盘点",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 629290,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%94%B5%E5%BD%B1%E6%80%AA%E7%89%A9%E5%8E%9F%E5%9E%8B%E7%9B%98%E7%82%B9"
-      },
-      "raw_titles": [
-        "生化危机电影怪物原型盘点"
-      ],
       "rank": 7,
-      "movie_rank": 2
-    },
-    {
-      "title": "原神过场动画生与死的流速",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 601248,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E7%94%9F%E4%B8%8E%E6%AD%BB%E7%9A%84%E6%B5%81%E9%80%9F"
-      },
-      "raw_titles": [
-        "原神过场动画生与死的流速"
-      ],
-      "rank": 8,
       "movie_rank": 3
     },
     {
@@ -462,15 +438,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 524321,
+      "hot_value": 613542,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85"
       },
       "raw_titles": [
         "AI手搓开心麻花版火影忍者"
       ],
-      "rank": 10,
+      "rank": 9,
       "movie_rank": 4
+    },
+    {
+      "title": "生化危机电影怪物原型盘点",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 519277,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%94%B5%E5%BD%B1%E6%80%AA%E7%89%A9%E5%8E%9F%E5%9E%8B%E7%9B%98%E7%82%B9"
+      },
+      "raw_titles": [
+        "生化危机电影怪物原型盘点"
+      ],
+      "rank": 10,
+      "movie_rank": 5
+    },
+    {
+      "title": "原神过场动画生与死的流速",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 494511,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E7%94%9F%E4%B8%8E%E6%AD%BB%E7%9A%84%E6%B5%81%E9%80%9F"
+      },
+      "raw_titles": [
+        "原神过场动画生与死的流速"
+      ],
+      "rank": 11,
+      "movie_rank": 6
     },
     {
       "title": "飞天奖 换奖杯",
@@ -478,15 +486,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 484605,
+      "hot_value": 368607,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%A3%9E%E5%A4%A9%E5%A5%96%20%E6%8D%A2%E5%A5%96%E6%9D%AF"
       },
       "raw_titles": [
         "飞天奖 换奖杯"
       ],
-      "rank": 11,
-      "movie_rank": 5
+      "rank": 13,
+      "movie_rank": 7
     },
     {
       "title": "白敬亭婉拒王楚然",
@@ -494,31 +502,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 425198,
+      "hot_value": 357017,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A9%89%E6%8B%92%E7%8E%8B%E6%A5%9A%E7%84%B6"
       },
       "raw_titles": [
         "白敬亭婉拒王楚然"
       ],
-      "rank": 12,
-      "movie_rank": 6
-    },
-    {
-      "title": "1港元卖业务 周星驰退出内地影院生意",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=1%E6%B8%AF%E5%85%83%E5%8D%96%E4%B8%9A%E5%8A%A1+%E5%91%A8%E6%98%9F%E9%A9%B0%E9%80%80%E5%87%BA%E5%86%85%E5%9C%B0%E5%BD%B1%E9%99%A2%E7%94%9F%E6%84%8F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "1港元卖业务 周星驰退出内地影院生意"
-      ],
       "rank": 14,
-      "movie_rank": 7
+      "movie_rank": 8
     },
     {
       "title": "国庆档票价回到2019 票房回到2014",
@@ -534,22 +526,6 @@
         "国庆档票价回到2019 票房回到2014"
       ],
       "rank": 15,
-      "movie_rank": 8
-    },
-    {
-      "title": "蒯曼爆冷止步16强",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 126000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%92%AF%E6%9B%BC%E7%88%86%E5%86%B7%E6%AD%A2%E6%AD%A516%E5%BC%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "蒯曼爆冷止步16强"
-      ],
-      "rank": 17,
       "movie_rank": 9
     }
   ]
