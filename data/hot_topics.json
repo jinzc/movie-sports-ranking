@@ -1,40 +1,40 @@
 {
-  "update_time": "2026-10-15 17:00:49",
-  "total": 15,
-  "sports_count": 5,
-  "movie_count": 10,
+  "update_time": "2026-10-15 18:00:51",
+  "total": 17,
+  "sports_count": 7,
+  "movie_count": 11,
   "all": [
-    {
-      "title": "皇马4:3逆转罗马",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8256758,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC4%3A3%E9%80%86%E8%BD%AC%E7%BD%97%E9%A9%AC"
-      },
-      "raw_titles": [
-        "皇马4:3逆转罗马"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "檀健次Drop狼爪舞挑战",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7690680,
+      "hot_value": 7270118,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1Drop%E7%8B%BC%E7%88%AA%E8%88%9E%E6%8C%91%E6%88%98"
       },
       "raw_titles": [
         "檀健次Drop狼爪舞挑战"
       ],
-      "rank": 2,
+      "rank": 1,
       "movie_rank": 1
+    },
+    {
+      "title": "巴黎终结曼城8连胜",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 669091,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E9%BB%8E%E7%BB%88%E7%BB%93%E6%9B%BC%E5%9F%8E8%E8%BF%9E%E8%83%9C"
+      },
+      "raw_titles": [
+        "巴黎终结曼城8连胜"
+      ],
+      "rank": 2,
+      "sports_rank": 1
     },
     {
       "title": "赵露思监制新剧讲了什么事",
@@ -42,7 +42,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 606434,
+      "hot_value": 650919,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9B%91%E5%88%B6%E6%96%B0%E5%89%A7%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E4%BA%8B"
       },
@@ -53,52 +53,20 @@
       "movie_rank": 2
     },
     {
-      "title": "9岁男孩的神级改编",
-      "category": "影视",
+      "title": "修斯被换下后皇马3球逆转",
+      "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 563381,
+      "hot_value": 518630,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=9%E5%B2%81%E7%94%B7%E5%AD%A9%E7%9A%84%E7%A5%9E%E7%BA%A7%E6%94%B9%E7%BC%96"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BF%AE%E6%96%AF%E8%A2%AB%E6%8D%A2%E4%B8%8B%E5%90%8E%E7%9A%87%E9%A9%AC3%E7%90%83%E9%80%86%E8%BD%AC"
       },
       "raw_titles": [
-        "9岁男孩的神级改编"
+        "修斯被换下后皇马3球逆转"
       ],
       "rank": 4,
-      "movie_rank": 3
-    },
-    {
-      "title": "巴黎终结曼城8连胜",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 551422,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E9%BB%8E%E7%BB%88%E7%BB%93%E6%9B%BC%E5%9F%8E8%E8%BF%9E%E8%83%9C"
-      },
-      "raw_titles": [
-        "巴黎终结曼城8连胜"
-      ],
-      "rank": 5,
       "sports_rank": 2
-    },
-    {
-      "title": "中国新能源车硬核实力横扫海外",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 432000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%E6%A8%AA%E6%89%AB%E6%B5%B7%E5%A4%96&sa=fyb_news"
-      },
-      "raw_titles": [
-        "中国新能源车硬核实力横扫海外"
-      ],
-      "rank": 6,
-      "sports_rank": 3
     },
     {
       "title": "用十三年去拍一部纪录片",
@@ -106,31 +74,162 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 384112,
+      "hot_value": 468768,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%8D%81%E4%B8%89%E5%B9%B4%E5%8E%BB%E6%8B%8D%E4%B8%80%E9%83%A8%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
         "用十三年去拍一部纪录片"
       ],
+      "rank": 5,
+      "movie_rank": 3
+    },
+    {
+      "title": "中国新能源车硬核实力横扫海外",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 432000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%E6%A8%AA%E6%89%AB%E6%B5%B7%E5%A4%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "中国新能源车硬核实力横扫海外"
+      ],
+      "rank": 6,
+      "sports_rank": 3
+    },
+    {
+      "title": "揭秘网球真实入门门槛",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 410206,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E7%BD%91%E7%90%83%E7%9C%9F%E5%AE%9E%E5%85%A5%E9%97%A8%E9%97%A8%E6%A7%9B"
+      },
+      "raw_titles": [
+        "揭秘网球真实入门门槛"
+      ],
       "rank": 7,
+      "sports_rank": 4
+    },
+    {
+      "title": "前NBA巨星斯塔德迈尔要当警察了",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 342000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%89%8DNBA%E5%B7%A8%E6%98%9F%E6%96%AF%E5%A1%94%E5%BE%B7%E8%BF%88%E5%B0%94%E8%A6%81%E5%BD%93%E8%AD%A6%E5%AF%9F%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "前NBA巨星斯塔德迈尔要当警察了"
+      ],
+      "rank": 8,
+      "sports_rank": 5
+    },
+    {
+      "title": "9岁男孩的神级改编",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 309130,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=9%E5%B2%81%E7%94%B7%E5%AD%A9%E7%9A%84%E7%A5%9E%E7%BA%A7%E6%94%B9%E7%BC%96"
+      },
+      "raw_titles": [
+        "9岁男孩的神级改编"
+      ],
+      "rank": 9,
       "movie_rank": 4
     },
     {
-      "title": "黄子韬早在综艺里暗示过有儿子",
+      "title": "泰国王后独自驾驶飞机去日本",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 308069,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%90%8E%E7%8B%AC%E8%87%AA%E9%A9%BE%E9%A9%B6%E9%A3%9E%E6%9C%BA%E5%8E%BB%E6%97%A5%E6%9C%AC",
+        "百度": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%90%8E%E7%8B%AC%E8%87%AA%E9%A9%BE%E9%A9%B6%E7%8E%8B%E5%AE%A4%E4%B8%93%E6%9C%BA%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC&sa=fyb_news"
+      },
+      "raw_titles": [
+        "泰国王后独自驾驶飞机去日本"
+      ],
+      "rank": 10,
+      "sports_rank": 6
+    },
+    {
+      "title": "大麦回应肖战演唱会“天价票”",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 279000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E9%BA%A6%E5%9B%9E%E5%BA%94%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E2%80%9C%E5%A4%A9%E4%BB%B7%E7%A5%A8%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "大麦回应肖战演唱会“天价票”"
+      ],
+      "rank": 11,
+      "movie_rank": 5
+    },
+    {
+      "title": "亚运网球冠军黄泽林与陈奕迅女儿分手",
+      "category": "综合",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 261000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%86%A0%E5%86%9B%E9%BB%84%E6%B3%BD%E6%9E%97%E4%B8%8E%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚运网球冠军黄泽林与陈奕迅女儿分手"
+      ],
+      "rank": 12,
+      "sports_rank": 7,
+      "movie_rank": 6
+    },
+    {
+      "title": "易烊千玺亮相天猫双11发布会",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 355272,
+      "hot_value": 228543,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E6%97%A9%E5%9C%A8%E7%BB%BC%E8%89%BA%E9%87%8C%E6%9A%97%E7%A4%BA%E8%BF%87%E6%9C%89%E5%84%BF%E5%AD%90"
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BA%AE%E7%9B%B8%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E5%8F%91%E5%B8%83%E4%BC%9A"
       },
       "raw_titles": [
-        "黄子韬早在综艺里暗示过有儿子"
+        "易烊千玺亮相天猫双11发布会"
       ],
-      "rank": 8,
-      "movie_rank": 5
+      "rank": 13,
+      "movie_rank": 7
+    },
+    {
+      "title": "张凌赫王楚然终于等到宣发期",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 227724,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E5%AE%A3%E5%8F%91%E6%9C%9F"
+      },
+      "raw_titles": [
+        "张凌赫王楚然终于等到宣发期"
+      ],
+      "rank": 14,
+      "movie_rank": 8
     },
     {
       "title": "内娱学历李健排第一",
@@ -138,47 +237,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 344795,
+      "hot_value": 227467,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%AD%A6%E5%8E%86%E6%9D%8E%E5%81%A5%E6%8E%92%E7%AC%AC%E4%B8%80"
       },
       "raw_titles": [
         "内娱学历李健排第一"
       ],
-      "rank": 9,
-      "movie_rank": 6
+      "rank": 15,
+      "movie_rank": 9
     },
     {
-      "title": "修斯被换下后皇马3球逆转",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 340750,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BF%AE%E6%96%AF%E8%A2%AB%E6%8D%A2%E4%B8%8B%E5%90%8E%E7%9A%87%E9%A9%AC3%E7%90%83%E9%80%86%E8%BD%AC"
-      },
-      "raw_titles": [
-        "修斯被换下后皇马3球逆转"
-      ],
-      "rank": 10,
-      "sports_rank": 4
-    },
-    {
-      "title": "肖战大麦演唱会想看人数历史总榜第4",
+      "title": "肖战站姐都没抢到票",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 339099,
+      "hot_value": 224266,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%A4%A7%E9%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%B3%E7%9C%8B%E4%BA%BA%E6%95%B0%E5%8E%86%E5%8F%B2%E6%80%BB%E6%A6%9C%E7%AC%AC4"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%AB%99%E5%A7%90%E9%83%BD%E6%B2%A1%E6%8A%A2%E5%88%B0%E7%A5%A8"
       },
       "raw_titles": [
-        "肖战大麦演唱会想看人数历史总榜第4"
+        "肖战站姐都没抢到票"
       ],
-      "rank": 11,
-      "movie_rank": 7
+      "rank": 16,
+      "movie_rank": 10
     },
     {
       "title": "肖战演唱会南京场设有9个vip区",
@@ -186,96 +269,48 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 275577,
+      "hot_value": 211120,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%97%E4%BA%AC%E5%9C%BA%E8%AE%BE%E6%9C%899%E4%B8%AAvip%E5%8C%BA"
       },
       "raw_titles": [
         "肖战演唱会南京场设有9个vip区"
       ],
-      "rank": 12,
-      "movie_rank": 8
-    },
-    {
-      "title": "黄泽林承认与陈奕迅女儿分手",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 168801,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%B3%BD%E6%9E%97%E6%89%BF%E8%AE%A4%E4%B8%8E%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B"
-      },
-      "raw_titles": [
-        "黄泽林承认与陈奕迅女儿分手"
-      ],
-      "rank": 13,
-      "movie_rank": 9
-    },
-    {
-      "title": "蛋白粉价格狂飙 有人竟用蟑螂粉平替",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 135000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%9B%8B%E7%99%BD%E7%B2%89%E4%BB%B7%E6%A0%BC%E7%8B%82%E9%A3%99+%E6%9C%89%E4%BA%BA%E7%AB%9F%E7%94%A8%E8%9F%91%E8%9E%82%E7%B2%89%E5%B9%B3%E6%9B%BF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "蛋白粉价格狂飙 有人竟用蟑螂粉平替"
-      ],
-      "rank": 14,
-      "movie_rank": 10
-    },
-    {
-      "title": "泰国王后独自驾驶飞机去日本",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 127968,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%90%8E%E7%8B%AC%E8%87%AA%E9%A9%BE%E9%A9%B6%E9%A3%9E%E6%9C%BA%E5%8E%BB%E6%97%A5%E6%9C%AC"
-      },
-      "raw_titles": [
-        "泰国王后独自驾驶飞机去日本"
-      ],
-      "rank": 15,
-      "sports_rank": 5
+      "rank": 17,
+      "movie_rank": 11
     }
   ],
   "sports": [
-    {
-      "title": "皇马4:3逆转罗马",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8256758,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC4%3A3%E9%80%86%E8%BD%AC%E7%BD%97%E9%A9%AC"
-      },
-      "raw_titles": [
-        "皇马4:3逆转罗马"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "巴黎终结曼城8连胜",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 551422,
+      "hot_value": 669091,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E9%BB%8E%E7%BB%88%E7%BB%93%E6%9B%BC%E5%9F%8E8%E8%BF%9E%E8%83%9C"
       },
       "raw_titles": [
         "巴黎终结曼城8连胜"
       ],
-      "rank": 5,
+      "rank": 2,
+      "sports_rank": 1
+    },
+    {
+      "title": "修斯被换下后皇马3球逆转",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 518630,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BF%AE%E6%96%AF%E8%A2%AB%E6%8D%A2%E4%B8%8B%E5%90%8E%E7%9A%87%E9%A9%AC3%E7%90%83%E9%80%86%E8%BD%AC"
+      },
+      "raw_titles": [
+        "修斯被换下后皇马3球逆转"
+      ],
+      "rank": 4,
       "sports_rank": 2
     },
     {
@@ -295,36 +330,71 @@
       "sports_rank": 3
     },
     {
-      "title": "修斯被换下后皇马3球逆转",
+      "title": "揭秘网球真实入门门槛",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 340750,
+      "hot_value": 410206,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BF%AE%E6%96%AF%E8%A2%AB%E6%8D%A2%E4%B8%8B%E5%90%8E%E7%9A%87%E9%A9%AC3%E7%90%83%E9%80%86%E8%BD%AC"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E7%BD%91%E7%90%83%E7%9C%9F%E5%AE%9E%E5%85%A5%E9%97%A8%E9%97%A8%E6%A7%9B"
       },
       "raw_titles": [
-        "修斯被换下后皇马3球逆转"
+        "揭秘网球真实入门门槛"
       ],
-      "rank": 10,
+      "rank": 7,
       "sports_rank": 4
+    },
+    {
+      "title": "前NBA巨星斯塔德迈尔要当警察了",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 342000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%89%8DNBA%E5%B7%A8%E6%98%9F%E6%96%AF%E5%A1%94%E5%BE%B7%E8%BF%88%E5%B0%94%E8%A6%81%E5%BD%93%E8%AD%A6%E5%AF%9F%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "前NBA巨星斯塔德迈尔要当警察了"
+      ],
+      "rank": 8,
+      "sports_rank": 5
     },
     {
       "title": "泰国王后独自驾驶飞机去日本",
       "category": "体育",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 127968,
+      "hot_value": 308069,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%90%8E%E7%8B%AC%E8%87%AA%E9%A9%BE%E9%A9%B6%E9%A3%9E%E6%9C%BA%E5%8E%BB%E6%97%A5%E6%9C%AC"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%90%8E%E7%8B%AC%E8%87%AA%E9%A9%BE%E9%A9%B6%E9%A3%9E%E6%9C%BA%E5%8E%BB%E6%97%A5%E6%9C%AC",
+        "百度": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%90%8E%E7%8B%AC%E8%87%AA%E9%A9%BE%E9%A9%B6%E7%8E%8B%E5%AE%A4%E4%B8%93%E6%9C%BA%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC&sa=fyb_news"
       },
       "raw_titles": [
         "泰国王后独自驾驶飞机去日本"
       ],
-      "rank": 15,
-      "sports_rank": 5
+      "rank": 10,
+      "sports_rank": 6
+    },
+    {
+      "title": "亚运网球冠军黄泽林与陈奕迅女儿分手",
+      "category": "综合",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 261000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%86%A0%E5%86%9B%E9%BB%84%E6%B3%BD%E6%9E%97%E4%B8%8E%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚运网球冠军黄泽林与陈奕迅女儿分手"
+      ],
+      "rank": 12,
+      "sports_rank": 7,
+      "movie_rank": 6
     }
   ],
   "movies": [
@@ -334,14 +404,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7690680,
+      "hot_value": 7270118,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1Drop%E7%8B%BC%E7%88%AA%E8%88%9E%E6%8C%91%E6%88%98"
       },
       "raw_titles": [
         "檀健次Drop狼爪舞挑战"
       ],
-      "rank": 2,
+      "rank": 1,
       "movie_rank": 1
     },
     {
@@ -350,7 +420,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 606434,
+      "hot_value": 650919,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9B%91%E5%88%B6%E6%96%B0%E5%89%A7%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E4%BA%8B"
       },
@@ -361,52 +431,101 @@
       "movie_rank": 2
     },
     {
-      "title": "9岁男孩的神级改编",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 563381,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=9%E5%B2%81%E7%94%B7%E5%AD%A9%E7%9A%84%E7%A5%9E%E7%BA%A7%E6%94%B9%E7%BC%96"
-      },
-      "raw_titles": [
-        "9岁男孩的神级改编"
-      ],
-      "rank": 4,
-      "movie_rank": 3
-    },
-    {
       "title": "用十三年去拍一部纪录片",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 384112,
+      "hot_value": 468768,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%8D%81%E4%B8%89%E5%B9%B4%E5%8E%BB%E6%8B%8D%E4%B8%80%E9%83%A8%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
         "用十三年去拍一部纪录片"
       ],
-      "rank": 7,
+      "rank": 5,
+      "movie_rank": 3
+    },
+    {
+      "title": "9岁男孩的神级改编",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 309130,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=9%E5%B2%81%E7%94%B7%E5%AD%A9%E7%9A%84%E7%A5%9E%E7%BA%A7%E6%94%B9%E7%BC%96"
+      },
+      "raw_titles": [
+        "9岁男孩的神级改编"
+      ],
+      "rank": 9,
       "movie_rank": 4
     },
     {
-      "title": "黄子韬早在综艺里暗示过有儿子",
+      "title": "大麦回应肖战演唱会“天价票”",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 279000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E9%BA%A6%E5%9B%9E%E5%BA%94%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E2%80%9C%E5%A4%A9%E4%BB%B7%E7%A5%A8%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "大麦回应肖战演唱会“天价票”"
+      ],
+      "rank": 11,
+      "movie_rank": 5
+    },
+    {
+      "title": "亚运网球冠军黄泽林与陈奕迅女儿分手",
+      "category": "综合",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 261000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%86%A0%E5%86%9B%E9%BB%84%E6%B3%BD%E6%9E%97%E4%B8%8E%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "亚运网球冠军黄泽林与陈奕迅女儿分手"
+      ],
+      "rank": 12,
+      "sports_rank": 7,
+      "movie_rank": 6
+    },
+    {
+      "title": "易烊千玺亮相天猫双11发布会",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 355272,
+      "hot_value": 228543,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E6%97%A9%E5%9C%A8%E7%BB%BC%E8%89%BA%E9%87%8C%E6%9A%97%E7%A4%BA%E8%BF%87%E6%9C%89%E5%84%BF%E5%AD%90"
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BA%AE%E7%9B%B8%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E5%8F%91%E5%B8%83%E4%BC%9A"
       },
       "raw_titles": [
-        "黄子韬早在综艺里暗示过有儿子"
+        "易烊千玺亮相天猫双11发布会"
       ],
-      "rank": 8,
-      "movie_rank": 5
+      "rank": 13,
+      "movie_rank": 7
+    },
+    {
+      "title": "张凌赫王楚然终于等到宣发期",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 227724,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E5%AE%A3%E5%8F%91%E6%9C%9F"
+      },
+      "raw_titles": [
+        "张凌赫王楚然终于等到宣发期"
+      ],
+      "rank": 14,
+      "movie_rank": 8
     },
     {
       "title": "内娱学历李健排第一",
@@ -414,31 +533,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 344795,
+      "hot_value": 227467,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%AD%A6%E5%8E%86%E6%9D%8E%E5%81%A5%E6%8E%92%E7%AC%AC%E4%B8%80"
       },
       "raw_titles": [
         "内娱学历李健排第一"
       ],
-      "rank": 9,
-      "movie_rank": 6
+      "rank": 15,
+      "movie_rank": 9
     },
     {
-      "title": "肖战大麦演唱会想看人数历史总榜第4",
+      "title": "肖战站姐都没抢到票",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 339099,
+      "hot_value": 224266,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%A4%A7%E9%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%B3%E7%9C%8B%E4%BA%BA%E6%95%B0%E5%8E%86%E5%8F%B2%E6%80%BB%E6%A6%9C%E7%AC%AC4"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%AB%99%E5%A7%90%E9%83%BD%E6%B2%A1%E6%8A%A2%E5%88%B0%E7%A5%A8"
       },
       "raw_titles": [
-        "肖战大麦演唱会想看人数历史总榜第4"
+        "肖战站姐都没抢到票"
       ],
-      "rank": 11,
-      "movie_rank": 7
+      "rank": 16,
+      "movie_rank": 10
     },
     {
       "title": "肖战演唱会南京场设有9个vip区",
@@ -446,47 +565,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 275577,
+      "hot_value": 211120,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%97%E4%BA%AC%E5%9C%BA%E8%AE%BE%E6%9C%899%E4%B8%AAvip%E5%8C%BA"
       },
       "raw_titles": [
         "肖战演唱会南京场设有9个vip区"
       ],
-      "rank": 12,
-      "movie_rank": 8
-    },
-    {
-      "title": "黄泽林承认与陈奕迅女儿分手",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 168801,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%B3%BD%E6%9E%97%E6%89%BF%E8%AE%A4%E4%B8%8E%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B"
-      },
-      "raw_titles": [
-        "黄泽林承认与陈奕迅女儿分手"
-      ],
-      "rank": 13,
-      "movie_rank": 9
-    },
-    {
-      "title": "蛋白粉价格狂飙 有人竟用蟑螂粉平替",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 135000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%9B%8B%E7%99%BD%E7%B2%89%E4%BB%B7%E6%A0%BC%E7%8B%82%E9%A3%99+%E6%9C%89%E4%BA%BA%E7%AB%9F%E7%94%A8%E8%9F%91%E8%9E%82%E7%B2%89%E5%B9%B3%E6%9B%BF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "蛋白粉价格狂飙 有人竟用蟑螂粉平替"
-      ],
-      "rank": 14,
-      "movie_rank": 10
+      "rank": 17,
+      "movie_rank": 11
     }
   ]
 }
