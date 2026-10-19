@@ -1,7 +1,7 @@
 {
-  "update_time": "2026-10-20 01:00:51",
-  "total": 23,
-  "sports_count": 7,
+  "update_time": "2026-10-20 02:00:52",
+  "total": 25,
+  "sports_count": 9,
   "movie_count": 16,
   "all": [
     {
@@ -11,7 +11,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8207306,
+      "hot_value": 7877328,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E%E6%88%96%E8%A2%AB%E6%89%A3%E5%88%86%E9%99%8D%E7%BA%A7",
         "抖音": "https://www.douyin.com/search/%E6%9B%BC%E5%9F%8E%E6%88%96%E8%A2%AB%E5%B7%A8%E9%A2%9D%E6%89%A3%E5%88%86%E7%A1%AE%E4%BF%9D%E9%99%8D%E7%BA%A7"
@@ -23,19 +23,35 @@
       "sports_rank": 1
     },
     {
+      "title": "中国队夺拜仁青年杯冠军",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7839922,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E6%8B%9C%E4%BB%81%E9%9D%92%E5%B9%B4%E6%9D%AF%E5%86%A0%E5%86%9B"
+      },
+      "raw_titles": [
+        "中国队夺拜仁青年杯冠军"
+      ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
       "title": "实测Deepseek v4.1动画效果",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7829065,
+      "hot_value": 7835117,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AE%9E%E6%B5%8BDeepseek%20v4.1%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C"
       },
       "raw_titles": [
         "实测Deepseek v4.1动画效果"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
     },
     {
@@ -44,14 +60,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7701484,
+      "hot_value": 7694734,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
         "第39届金鸡奖提名名单公布"
       ],
-      "rank": 3,
+      "rank": 4,
       "movie_rank": 2
     },
     {
@@ -60,47 +76,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7664434,
+      "hot_value": 7666992,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E7%9A%84%E8%85%BE%E5%91%B3%E9%9F%B3%E4%B9%90%E5%8F%88%E5%A2%9E%E5%8A%A0%E4%BA%86"
       },
       "raw_titles": [
         "沈腾的腾味音乐又增加了"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 3
     },
     {
-      "title": "薛之谦身着苗族银饰亮相演唱会",
+      "title": "邓紫棋李荣浩梦幻联动双厨狂喜",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7653297,
+      "hot_value": 7653672,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BA%AB%E7%9D%80%E8%8B%97%E6%97%8F%E9%93%B6%E9%A5%B0%E4%BA%AE%E7%9B%B8%E6%BC%94%E5%94%B1%E4%BC%9A"
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%E5%8F%8C%E5%8E%A8%E7%8B%82%E5%96%9C"
       },
       "raw_titles": [
-        "薛之谦身着苗族银饰亮相演唱会"
-      ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "UP主自制动画 科学修仙",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 700964,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99"
-      },
-      "raw_titles": [
-        "UP主自制动画 科学修仙"
+        "邓紫棋李荣浩梦幻联动双厨狂喜"
       ],
       "rank": 6,
-      "movie_rank": 5
+      "movie_rank": 4
     },
     {
       "title": "UP主和NBA球星比投篮",
@@ -108,7 +108,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 613920,
+      "hot_value": 444209,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8CNBA%E7%90%83%E6%98%9F%E6%AF%94%E6%8A%95%E7%AF%AE"
       },
@@ -116,103 +116,7 @@
         "UP主和NBA球星比投篮"
       ],
       "rank": 7,
-      "sports_rank": 2
-    },
-    {
-      "title": "真人版弹丸论破开庭",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 608476,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E7%89%88%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E5%BC%80%E5%BA%AD"
-      },
-      "raw_titles": [
-        "真人版弹丸论破开庭"
-      ],
-      "rank": 8,
-      "movie_rank": 6
-    },
-    {
-      "title": "小孩SCS总决赛卫冕之路",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 518772,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9SCS%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8D%AB%E5%86%95%E4%B9%8B%E8%B7%AF"
-      },
-      "raw_titles": [
-        "小孩SCS总决赛卫冕之路"
-      ],
-      "rank": 9,
       "sports_rank": 3
-    },
-    {
-      "title": "终末地过场动画但求本心",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 518762,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E4%BD%86%E6%B1%82%E6%9C%AC%E5%BF%83"
-      },
-      "raw_titles": [
-        "终末地过场动画但求本心"
-      ],
-      "rank": 10,
-      "movie_rank": 7
-    },
-    {
-      "title": "不用AI特效的中国功夫什么样",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 515459,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7"
-      },
-      "raw_titles": [
-        "不用AI特效的中国功夫什么样"
-      ],
-      "rank": 11,
-      "movie_rank": 8
-    },
-    {
-      "title": "UP主自制盲人无障碍电影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 481994,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "UP主自制盲人无障碍电影"
-      ],
-      "rank": 12,
-      "movie_rank": 9
-    },
-    {
-      "title": "雨哥后台采访五月天阿信",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 408590,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5%E5%90%8E%E5%8F%B0%E9%87%87%E8%AE%BF%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1"
-      },
-      "raw_titles": [
-        "雨哥后台采访五月天阿信"
-      ],
-      "rank": 13,
-      "movie_rank": 10
     },
     {
       "title": "救场李克勤走红草根歌手3周涨粉40万",
@@ -227,40 +131,72 @@
       "raw_titles": [
         "救场李克勤走红草根歌手3周涨粉40万"
       ],
-      "rank": 14,
-      "movie_rank": 11
+      "rank": 8,
+      "movie_rank": 5
     },
     {
-      "title": "AI微电影星河外卖员规则诡域",
+      "title": "UP主自制动画 科学修仙",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 390160,
+      "hot_value": 394338,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%98%9F%E6%B2%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A7%84%E5%88%99%E8%AF%A1%E5%9F%9F"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99"
       },
       "raw_titles": [
-        "AI微电影星河外卖员规则诡域"
+        "UP主自制动画 科学修仙"
       ],
-      "rank": 15,
-      "movie_rank": 12
+      "rank": 9,
+      "movie_rank": 6
     },
     {
-      "title": "王师傅西游拉萨篇收官",
+      "title": "真人版弹丸论破开庭",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 314967,
+      "hot_value": 388196,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%B8%88%E5%82%85%E8%A5%BF%E6%B8%B8%E6%8B%89%E8%90%A8%E7%AF%87%E6%94%B6%E5%AE%98"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E7%89%88%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E5%BC%80%E5%BA%AD"
       },
       "raw_titles": [
-        "王师傅西游拉萨篇收官"
+        "真人版弹丸论破开庭"
       ],
-      "rank": 16,
-      "movie_rank": 13
+      "rank": 10,
+      "movie_rank": 7
+    },
+    {
+      "title": "小孩SCS总决赛卫冕之路",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 384412,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9SCS%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8D%AB%E5%86%95%E4%B9%8B%E8%B7%AF"
+      },
+      "raw_titles": [
+        "小孩SCS总决赛卫冕之路"
+      ],
+      "rank": 11,
+      "sports_rank": 4
+    },
+    {
+      "title": "不用AI特效的中国功夫什么样",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 380365,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7"
+      },
+      "raw_titles": [
+        "不用AI特效的中国功夫什么样"
+      ],
+      "rank": 12,
+      "movie_rank": 8
     },
     {
       "title": "乒乓球名将王曼昱等3人拟记大功",
@@ -268,31 +204,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 297000,
+      "hot_value": 324000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B9%92%E4%B9%93%E7%90%83%E5%90%8D%E5%B0%86%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%893%E4%BA%BA%E6%8B%9F%E8%AE%B0%E5%A4%A7%E5%8A%9F&sa=fyb_news"
       },
       "raw_titles": [
         "乒乓球名将王曼昱等3人拟记大功"
       ],
-      "rank": 17,
-      "sports_rank": 4
-    },
-    {
-      "title": "浪姐 离婚玄学",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 261000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B5%AA%E5%A7%90+%E7%A6%BB%E5%A9%9A%E7%8E%84%E5%AD%A6&sa=fyb_news"
-      },
-      "raw_titles": [
-        "浪姐 离婚玄学"
-      ],
-      "rank": 18,
-      "movie_rank": 14
+      "rank": 13,
+      "sports_rank": 5
     },
     {
       "title": "巴黎骚乱街头有人cos美国队长",
@@ -300,15 +220,95 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 306000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E9%BB%8E%E9%AA%9A%E4%B9%B1%E8%A1%97%E5%A4%B4%E6%9C%89%E4%BA%BAcos%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF&sa=fyb_news"
       },
       "raw_titles": [
         "巴黎骚乱街头有人cos美国队长"
       ],
+      "rank": 14,
+      "sports_rank": 6
+    },
+    {
+      "title": "UP主自制盲人无障碍电影",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 276976,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "UP主自制盲人无障碍电影"
+      ],
+      "rank": 15,
+      "movie_rank": 9
+    },
+    {
+      "title": "终末地过场动画但求本心",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 276972,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E4%BD%86%E6%B1%82%E6%9C%AC%E5%BF%83"
+      },
+      "raw_titles": [
+        "终末地过场动画但求本心"
+      ],
+      "rank": 16,
+      "movie_rank": 10
+    },
+    {
+      "title": "AI微电影星河外卖员规则诡域",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 276963,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%98%9F%E6%B2%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A7%84%E5%88%99%E8%AF%A1%E5%9F%9F"
+      },
+      "raw_titles": [
+        "AI微电影星河外卖员规则诡域"
+      ],
+      "rank": 17,
+      "movie_rank": 11
+    },
+    {
+      "title": "雨哥后台采访五月天阿信",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 269820,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5%E5%90%8E%E5%8F%B0%E9%87%87%E8%AE%BF%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1"
+      },
+      "raw_titles": [
+        "雨哥后台采访五月天阿信"
+      ],
+      "rank": 18,
+      "movie_rank": 12
+    },
+    {
+      "title": "浪姐 离婚玄学",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 252000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%B5%AA%E5%A7%90+%E7%A6%BB%E5%A9%9A%E7%8E%84%E5%AD%A6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "浪姐 离婚玄学"
+      ],
       "rank": 19,
-      "sports_rank": 5
+      "movie_rank": 13
     },
     {
       "title": "国际乒联最新排名：男单王楚钦第5",
@@ -324,7 +324,23 @@
         "国际乒联最新排名：男单王楚钦第5"
       ],
       "rank": 20,
-      "sports_rank": 6
+      "sports_rank": 7
+    },
+    {
+      "title": "王师傅西游拉萨篇收官",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 204389,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%B8%88%E5%82%85%E8%A5%BF%E6%B8%B8%E6%8B%89%E8%90%A8%E7%AF%87%E6%94%B6%E5%AE%98"
+      },
+      "raw_titles": [
+        "王师傅西游拉萨篇收官"
+      ],
+      "rank": 21,
+      "movie_rank": 14
     },
     {
       "title": "孙颖莎拒应援河北卫视下场引导",
@@ -332,15 +348,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 125024,
+      "hot_value": 51741,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%92%E5%BA%94%E6%8F%B4%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86%E4%B8%8B%E5%9C%BA%E5%BC%95%E5%AF%BC"
       },
       "raw_titles": [
         "孙颖莎拒应援河北卫视下场引导"
       ],
-      "rank": 21,
-      "sports_rank": 7
+      "rank": 22,
+      "sports_rank": 8
     },
     {
       "title": "蒋龙感谢金鸡奖陈思诚",
@@ -348,14 +364,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 79437,
+      "hot_value": 51352,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%92%8B%E9%BE%99%E6%84%9F%E8%B0%A2%E9%87%91%E9%B8%A1%E5%A5%96%E9%99%88%E6%80%9D%E8%AF%9A"
       },
       "raw_titles": [
         "蒋龙感谢金鸡奖陈思诚"
       ],
-      "rank": 22,
+      "rank": 23,
       "movie_rank": 15
     },
     {
@@ -364,15 +380,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 27000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%92%B8%E8%92%B8%E6%97%A5%E4%B8%8A%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80+%E8%91%A3%E5%8C%97%E8%99%8E%E4%BD%93%E9%9D%A2%E6%94%B6%E5%B0%BE&sa=fyb_news"
       },
       "raw_titles": [
         "《蒸蒸日上》大结局 董北虎体面收尾"
       ],
-      "rank": 23,
+      "rank": 24,
       "movie_rank": 16
+    },
+    {
+      "title": "国乒四主力直通混团世界杯",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%9B%9B%E4%B8%BB%E5%8A%9B%E7%9B%B4%E9%80%9A%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国乒四主力直通混团世界杯"
+      ],
+      "rank": 25,
+      "sports_rank": 9
     }
   ],
   "sports": [
@@ -383,7 +415,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8207306,
+      "hot_value": 7877328,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E%E6%88%96%E8%A2%AB%E6%89%A3%E5%88%86%E9%99%8D%E7%BA%A7",
         "抖音": "https://www.douyin.com/search/%E6%9B%BC%E5%9F%8E%E6%88%96%E8%A2%AB%E5%B7%A8%E9%A2%9D%E6%89%A3%E5%88%86%E7%A1%AE%E4%BF%9D%E9%99%8D%E7%BA%A7"
@@ -395,12 +427,28 @@
       "sports_rank": 1
     },
     {
+      "title": "中国队夺拜仁青年杯冠军",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7839922,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E6%8B%9C%E4%BB%81%E9%9D%92%E5%B9%B4%E6%9D%AF%E5%86%A0%E5%86%9B"
+      },
+      "raw_titles": [
+        "中国队夺拜仁青年杯冠军"
+      ],
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
       "title": "UP主和NBA球星比投篮",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 613920,
+      "hot_value": 444209,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8CNBA%E7%90%83%E6%98%9F%E6%AF%94%E6%8A%95%E7%AF%AE"
       },
@@ -408,7 +456,7 @@
         "UP主和NBA球星比投篮"
       ],
       "rank": 7,
-      "sports_rank": 2
+      "sports_rank": 3
     },
     {
       "title": "小孩SCS总决赛卫冕之路",
@@ -416,15 +464,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 518772,
+      "hot_value": 384412,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9SCS%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8D%AB%E5%86%95%E4%B9%8B%E8%B7%AF"
       },
       "raw_titles": [
         "小孩SCS总决赛卫冕之路"
       ],
-      "rank": 9,
-      "sports_rank": 3
+      "rank": 11,
+      "sports_rank": 4
     },
     {
       "title": "乒乓球名将王曼昱等3人拟记大功",
@@ -432,15 +480,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 297000,
+      "hot_value": 324000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B9%92%E4%B9%93%E7%90%83%E5%90%8D%E5%B0%86%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%893%E4%BA%BA%E6%8B%9F%E8%AE%B0%E5%A4%A7%E5%8A%9F&sa=fyb_news"
       },
       "raw_titles": [
         "乒乓球名将王曼昱等3人拟记大功"
       ],
-      "rank": 17,
-      "sports_rank": 4
+      "rank": 13,
+      "sports_rank": 5
     },
     {
       "title": "巴黎骚乱街头有人cos美国队长",
@@ -448,15 +496,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 306000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%B7%B4%E9%BB%8E%E9%AA%9A%E4%B9%B1%E8%A1%97%E5%A4%B4%E6%9C%89%E4%BA%BAcos%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF&sa=fyb_news"
       },
       "raw_titles": [
         "巴黎骚乱街头有人cos美国队长"
       ],
-      "rank": 19,
-      "sports_rank": 5
+      "rank": 14,
+      "sports_rank": 6
     },
     {
       "title": "国际乒联最新排名：男单王楚钦第5",
@@ -472,7 +520,7 @@
         "国际乒联最新排名：男单王楚钦第5"
       ],
       "rank": 20,
-      "sports_rank": 6
+      "sports_rank": 7
     },
     {
       "title": "孙颖莎拒应援河北卫视下场引导",
@@ -480,15 +528,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 125024,
+      "hot_value": 51741,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%92%E5%BA%94%E6%8F%B4%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86%E4%B8%8B%E5%9C%BA%E5%BC%95%E5%AF%BC"
       },
       "raw_titles": [
         "孙颖莎拒应援河北卫视下场引导"
       ],
-      "rank": 21,
-      "sports_rank": 7
+      "rank": 22,
+      "sports_rank": 8
+    },
+    {
+      "title": "国乒四主力直通混团世界杯",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%9B%9B%E4%B8%BB%E5%8A%9B%E7%9B%B4%E9%80%9A%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国乒四主力直通混团世界杯"
+      ],
+      "rank": 25,
+      "sports_rank": 9
     }
   ],
   "movies": [
@@ -498,14 +562,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7829065,
+      "hot_value": 7835117,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AE%9E%E6%B5%8BDeepseek%20v4.1%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C"
       },
       "raw_titles": [
         "实测Deepseek v4.1动画效果"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
     },
     {
@@ -514,14 +578,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7701484,
+      "hot_value": 7694734,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
       "raw_titles": [
         "第39届金鸡奖提名名单公布"
       ],
-      "rank": 3,
+      "rank": 4,
       "movie_rank": 2
     },
     {
@@ -530,127 +594,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7664434,
+      "hot_value": 7666992,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E7%9A%84%E8%85%BE%E5%91%B3%E9%9F%B3%E4%B9%90%E5%8F%88%E5%A2%9E%E5%8A%A0%E4%BA%86"
       },
       "raw_titles": [
         "沈腾的腾味音乐又增加了"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 3
     },
     {
-      "title": "薛之谦身着苗族银饰亮相演唱会",
+      "title": "邓紫棋李荣浩梦幻联动双厨狂喜",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7653297,
+      "hot_value": 7653672,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BA%AB%E7%9D%80%E8%8B%97%E6%97%8F%E9%93%B6%E9%A5%B0%E4%BA%AE%E7%9B%B8%E6%BC%94%E5%94%B1%E4%BC%9A"
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%E5%8F%8C%E5%8E%A8%E7%8B%82%E5%96%9C"
       },
       "raw_titles": [
-        "薛之谦身着苗族银饰亮相演唱会"
-      ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "UP主自制动画 科学修仙",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 700964,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99"
-      },
-      "raw_titles": [
-        "UP主自制动画 科学修仙"
+        "邓紫棋李荣浩梦幻联动双厨狂喜"
       ],
       "rank": 6,
-      "movie_rank": 5
-    },
-    {
-      "title": "真人版弹丸论破开庭",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 608476,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E7%89%88%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E5%BC%80%E5%BA%AD"
-      },
-      "raw_titles": [
-        "真人版弹丸论破开庭"
-      ],
-      "rank": 8,
-      "movie_rank": 6
-    },
-    {
-      "title": "终末地过场动画但求本心",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 518762,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E4%BD%86%E6%B1%82%E6%9C%AC%E5%BF%83"
-      },
-      "raw_titles": [
-        "终末地过场动画但求本心"
-      ],
-      "rank": 10,
-      "movie_rank": 7
-    },
-    {
-      "title": "不用AI特效的中国功夫什么样",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 515459,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7"
-      },
-      "raw_titles": [
-        "不用AI特效的中国功夫什么样"
-      ],
-      "rank": 11,
-      "movie_rank": 8
-    },
-    {
-      "title": "UP主自制盲人无障碍电影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 481994,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "UP主自制盲人无障碍电影"
-      ],
-      "rank": 12,
-      "movie_rank": 9
-    },
-    {
-      "title": "雨哥后台采访五月天阿信",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 408590,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5%E5%90%8E%E5%8F%B0%E9%87%87%E8%AE%BF%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1"
-      },
-      "raw_titles": [
-        "雨哥后台采访五月天阿信"
-      ],
-      "rank": 13,
-      "movie_rank": 10
+      "movie_rank": 4
     },
     {
       "title": "救场李克勤走红草根歌手3周涨粉40万",
@@ -665,8 +633,88 @@
       "raw_titles": [
         "救场李克勤走红草根歌手3周涨粉40万"
       ],
-      "rank": 14,
-      "movie_rank": 11
+      "rank": 8,
+      "movie_rank": 5
+    },
+    {
+      "title": "UP主自制动画 科学修仙",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 394338,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99"
+      },
+      "raw_titles": [
+        "UP主自制动画 科学修仙"
+      ],
+      "rank": 9,
+      "movie_rank": 6
+    },
+    {
+      "title": "真人版弹丸论破开庭",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 388196,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E7%89%88%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E5%BC%80%E5%BA%AD"
+      },
+      "raw_titles": [
+        "真人版弹丸论破开庭"
+      ],
+      "rank": 10,
+      "movie_rank": 7
+    },
+    {
+      "title": "不用AI特效的中国功夫什么样",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 380365,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7"
+      },
+      "raw_titles": [
+        "不用AI特效的中国功夫什么样"
+      ],
+      "rank": 12,
+      "movie_rank": 8
+    },
+    {
+      "title": "UP主自制盲人无障碍电影",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 276976,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "UP主自制盲人无障碍电影"
+      ],
+      "rank": 15,
+      "movie_rank": 9
+    },
+    {
+      "title": "终末地过场动画但求本心",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 276972,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E4%BD%86%E6%B1%82%E6%9C%AC%E5%BF%83"
+      },
+      "raw_titles": [
+        "终末地过场动画但求本心"
+      ],
+      "rank": 16,
+      "movie_rank": 10
     },
     {
       "title": "AI微电影星河外卖员规则诡域",
@@ -674,31 +722,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 390160,
+      "hot_value": 276963,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%98%9F%E6%B2%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A7%84%E5%88%99%E8%AF%A1%E5%9F%9F"
       },
       "raw_titles": [
         "AI微电影星河外卖员规则诡域"
       ],
-      "rank": 15,
-      "movie_rank": 12
+      "rank": 17,
+      "movie_rank": 11
     },
     {
-      "title": "王师傅西游拉萨篇收官",
+      "title": "雨哥后台采访五月天阿信",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 314967,
+      "hot_value": 269820,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%B8%88%E5%82%85%E8%A5%BF%E6%B8%B8%E6%8B%89%E8%90%A8%E7%AF%87%E6%94%B6%E5%AE%98"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5%E5%90%8E%E5%8F%B0%E9%87%87%E8%AE%BF%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1"
       },
       "raw_titles": [
-        "王师傅西游拉萨篇收官"
+        "雨哥后台采访五月天阿信"
       ],
-      "rank": 16,
-      "movie_rank": 13
+      "rank": 18,
+      "movie_rank": 12
     },
     {
       "title": "浪姐 离婚玄学",
@@ -706,14 +754,30 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 261000,
+      "hot_value": 252000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%B5%AA%E5%A7%90+%E7%A6%BB%E5%A9%9A%E7%8E%84%E5%AD%A6&sa=fyb_news"
       },
       "raw_titles": [
         "浪姐 离婚玄学"
       ],
-      "rank": 18,
+      "rank": 19,
+      "movie_rank": 13
+    },
+    {
+      "title": "王师傅西游拉萨篇收官",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 204389,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%B8%88%E5%82%85%E8%A5%BF%E6%B8%B8%E6%8B%89%E8%90%A8%E7%AF%87%E6%94%B6%E5%AE%98"
+      },
+      "raw_titles": [
+        "王师傅西游拉萨篇收官"
+      ],
+      "rank": 21,
       "movie_rank": 14
     },
     {
@@ -722,14 +786,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 79437,
+      "hot_value": 51352,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%92%8B%E9%BE%99%E6%84%9F%E8%B0%A2%E9%87%91%E9%B8%A1%E5%A5%96%E9%99%88%E6%80%9D%E8%AF%9A"
       },
       "raw_titles": [
         "蒋龙感谢金鸡奖陈思诚"
       ],
-      "rank": 22,
+      "rank": 23,
       "movie_rank": 15
     },
     {
@@ -738,14 +802,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 27000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%92%B8%E8%92%B8%E6%97%A5%E4%B8%8A%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80+%E8%91%A3%E5%8C%97%E8%99%8E%E4%BD%93%E9%9D%A2%E6%94%B6%E5%B0%BE&sa=fyb_news"
       },
       "raw_titles": [
         "《蒸蒸日上》大结局 董北虎体面收尾"
       ],
-      "rank": 23,
+      "rank": 24,
       "movie_rank": 16
     }
   ]
