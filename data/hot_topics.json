@@ -1,72 +1,24 @@
 {
-  "update_time": "2026-10-19 10:00:47",
-  "total": 24,
-  "sports_count": 12,
-  "movie_count": 12,
+  "update_time": "2026-10-19 11:00:50",
+  "total": 23,
+  "sports_count": 9,
+  "movie_count": 14,
   "all": [
-    {
-      "title": "LOUD战胜VIT夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 10710259,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/LOUD%E6%88%98%E8%83%9CVIT%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "LOUD战胜VIT夺冠"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "这才是中国功夫的魅力",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10544423,
+      "hot_value": 10546183,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E7%9A%84%E9%AD%85%E5%8A%9B"
       },
       "raw_titles": [
         "这才是中国功夫的魅力"
       ],
-      "rank": 2,
+      "rank": 1,
       "movie_rank": 1
-    },
-    {
-      "title": "利兹联1:1曼联",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9305379,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%88%A9%E5%85%B9%E8%81%941%3A1%E6%9B%BC%E8%81%94"
-      },
-      "raw_titles": [
-        "利兹联1:1曼联"
-      ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
-      "title": "阿森纳客场1:0胜诺丁汉森林",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8877716,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%AE%A2%E5%9C%BA1%3A0%E8%83%9C%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97"
-      },
-      "raw_titles": [
-        "阿森纳客场1:0胜诺丁汉森林"
-      ],
-      "rank": 4,
-      "sports_rank": 3
     },
     {
       "title": "皇马4:1大胜塞维利亚",
@@ -75,7 +27,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 8300221,
+      "hot_value": 8233225,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC4%3A1%E5%A4%A7%E8%83%9C%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC4-1%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A"
@@ -83,8 +35,56 @@
       "raw_titles": [
         "皇马4:1大胜塞维利亚"
       ],
+      "rank": 2,
+      "sports_rank": 1
+    },
+    {
+      "title": "LOUD战胜VIT夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7886095,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/LOUD%E6%88%98%E8%83%9CVIT%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "LOUD战胜VIT夺冠"
+      ],
+      "rank": 3,
+      "sports_rank": 2
+    },
+    {
+      "title": "薛之谦身着苗族银饰亮相演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7709586,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BA%AB%E7%9D%80%E8%8B%97%E6%97%8F%E9%93%B6%E9%A5%B0%E4%BA%AE%E7%9B%B8%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "薛之谦身着苗族银饰亮相演唱会"
+      ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "利兹联1:1曼联",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7688608,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%88%A9%E5%85%B9%E8%81%941%3A1%E6%9B%BC%E8%81%94"
+      },
+      "raw_titles": [
+        "利兹联1:1曼联"
+      ],
       "rank": 5,
-      "sports_rank": 4
+      "sports_rank": 3
     },
     {
       "title": "32分钟杯总决赛",
@@ -92,7 +92,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7706289,
+      "hot_value": 7682439,
       "urls": {
         "抖音": "https://www.douyin.com/search/32%E5%88%86%E9%92%9F%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
@@ -100,6 +100,38 @@
         "32分钟杯总决赛"
       ],
       "rank": 6,
+      "sports_rank": 4
+    },
+    {
+      "title": "邓紫棋李荣浩梦幻联动双厨狂喜",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7674837,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%E5%8F%8C%E5%8E%A8%E7%8B%82%E5%96%9C"
+      },
+      "raw_titles": [
+        "邓紫棋李荣浩梦幻联动双厨狂喜"
+      ],
+      "rank": 7,
+      "movie_rank": 3
+    },
+    {
+      "title": "孙颖莎 不鼓励生日应援活动",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 3452565,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E4%B8%8D%E9%BC%93%E5%8A%B1%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4%E6%B4%BB%E5%8A%A8"
+      },
+      "raw_titles": [
+        "孙颖莎 不鼓励生日应援活动"
+      ],
+      "rank": 8,
       "sports_rank": 5
     },
     {
@@ -108,30 +140,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 808380,
+      "hot_value": 808641,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%BE%AE%E7%BA%AA%E5%BD%95%E7%89%87%E6%88%91%E6%83%B3%E8%AE%B0%E4%BD%8F%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97"
       },
       "raw_titles": [
         "新华社微纪录片我想记住你的名字"
       ],
-      "rank": 7,
-      "movie_rank": 2
+      "rank": 9,
+      "movie_rank": 4
     },
     {
-      "title": "NBA新赛季谁能冲出西部",
+      "title": "孙颖莎打明牌",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 637534,
+      "hot_value": 645173,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%B0%81%E8%83%BD%E5%86%B2%E5%87%BA%E8%A5%BF%E9%83%A8"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%89%93%E6%98%8E%E7%89%8C"
       },
       "raw_titles": [
-        "NBA新赛季谁能冲出西部"
+        "孙颖莎打明牌"
       ],
-      "rank": 8,
+      "rank": 10,
       "sports_rank": 6
     },
     {
@@ -140,44 +172,12 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 588586,
+      "hot_value": 488196,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7"
       },
       "raw_titles": [
         "不用AI特效的中国功夫什么样"
-      ],
-      "rank": 9,
-      "movie_rank": 3
-    },
-    {
-      "title": "AI微电影星河外卖员规则诡域",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 532677,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%98%9F%E6%B2%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A7%84%E5%88%99%E8%AF%A1%E5%9F%9F"
-      },
-      "raw_titles": [
-        "AI微电影星河外卖员规则诡域"
-      ],
-      "rank": 10,
-      "movie_rank": 4
-    },
-    {
-      "title": "雨哥后台采访五月天阿信",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 462670,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5%E5%90%8E%E5%8F%B0%E9%87%87%E8%AE%BF%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1"
-      },
-      "raw_titles": [
-        "雨哥后台采访五月天阿信"
       ],
       "rank": 11,
       "movie_rank": 5
@@ -188,7 +188,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 445463,
+      "hot_value": 488189,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
       },
@@ -199,36 +199,84 @@
       "movie_rank": 6
     },
     {
-      "title": "LPL LCK夺冠热门战队前瞻",
-      "category": "体育",
+      "title": "AI微电影星河外卖员规则诡域",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 412720,
+      "hot_value": 488186,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%20LCK%E5%A4%BA%E5%86%A0%E7%83%AD%E9%97%A8%E6%88%98%E9%98%9F%E5%89%8D%E7%9E%BB"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%98%9F%E6%B2%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A7%84%E5%88%99%E8%AF%A1%E5%9F%9F"
       },
       "raw_titles": [
-        "LPL LCK夺冠热门战队前瞻"
+        "AI微电影星河外卖员规则诡域"
       ],
       "rank": 13,
-      "sports_rank": 7
+      "movie_rank": 7
     },
     {
-      "title": "姆巴佩“双响” 皇马重返积分榜前三",
-      "category": "体育",
+      "title": "肖战巡演周边",
+      "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 396000,
+      "hot_value": 474250,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E5%8F%8C%E5%93%8D%E2%80%9D+%E7%9A%87%E9%A9%AC%E9%87%8D%E8%BF%94%E7%A7%AF%E5%88%86%E6%A6%9C%E5%89%8D%E4%B8%89&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B7%A1%E6%BC%94%E5%91%A8%E8%BE%B9"
       },
       "raw_titles": [
-        "姆巴佩“双响” 皇马重返积分榜前三"
+        "肖战巡演周边"
       ],
       "rank": 14,
-      "sports_rank": 8
+      "movie_rank": 8
+    },
+    {
+      "title": "肖战演唱会官周价格",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 459587,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%91%A8%E4%BB%B7%E6%A0%BC"
+      },
+      "raw_titles": [
+        "肖战演唱会官周价格"
+      ],
+      "rank": 15,
+      "movie_rank": 9
+    },
+    {
+      "title": "金鸡奖",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 442908,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96"
+      },
+      "raw_titles": [
+        "金鸡奖"
+      ],
+      "rank": 16,
+      "movie_rank": 10
+    },
+    {
+      "title": "雨哥后台采访五月天阿信",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 404745,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5%E5%90%8E%E5%8F%B0%E9%87%87%E8%AE%BF%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1"
+      },
+      "raw_titles": [
+        "雨哥后台采访五月天阿信"
+      ],
+      "rank": 17,
+      "movie_rank": 11
     },
     {
       "title": "曼联连续6场不胜",
@@ -236,15 +284,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 386285,
+      "hot_value": 397258,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E8%BF%9E%E7%BB%AD6%E5%9C%BA%E4%B8%8D%E8%83%9C"
       },
       "raw_titles": [
         "曼联连续6场不胜"
       ],
-      "rank": 15,
-      "sports_rank": 9
+      "rank": 18,
+      "sports_rank": 7
+    },
+    {
+      "title": "LPL LCK夺冠热门战队前瞻",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 364784,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%20LCK%E5%A4%BA%E5%86%A0%E7%83%AD%E9%97%A8%E6%88%98%E9%98%9F%E5%89%8D%E7%9E%BB"
+      },
+      "raw_titles": [
+        "LPL LCK夺冠热门战队前瞻"
+      ],
+      "rank": 19,
+      "sports_rank": 8
+    },
+    {
+      "title": "“肖战演唱会前排门票25万”系谣言",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 360000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E6%8E%92%E9%97%A8%E7%A5%A825%E4%B8%87%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "“肖战演唱会前排门票25万”系谣言"
+      ],
+      "rank": 20,
+      "movie_rank": 12
     },
     {
       "title": "雷佳音大变样",
@@ -252,47 +332,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 378000,
+      "hot_value": 351000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%A4%A7%E5%8F%98%E6%A0%B7&sa=fyb_news"
       },
       "raw_titles": [
         "雷佳音大变样"
       ],
-      "rank": 16,
-      "movie_rank": 7
+      "rank": 21,
+      "movie_rank": 13
     },
     {
-      "title": "热火新赛季前景如何",
+      "title": "长鑫科技开盘跳水",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 366130,
+      "hot_value": 315000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%81%AB%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95"
+        "百度": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E8%B7%B3%E6%B0%B4&sa=fyb_news"
       },
       "raw_titles": [
-        "热火新赛季前景如何"
+        "长鑫科技开盘跳水"
       ],
-      "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "UP主自制CG动画明日香",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 331628,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6CG%E5%8A%A8%E7%94%BB%E6%98%8E%E6%97%A5%E9%A6%99"
-      },
-      "raw_titles": [
-        "UP主自制CG动画明日香"
-      ],
-      "rank": 18,
-      "movie_rank": 8
+      "rank": 22,
+      "sports_rank": 9
     },
     {
       "title": "王一博被cue找传国玉玺",
@@ -300,146 +364,18 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 284563,
+      "hot_value": 225436,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A2%ABcue%E6%89%BE%E4%BC%A0%E5%9B%BD%E7%8E%89%E7%8E%BA"
       },
       "raw_titles": [
         "王一博被cue找传国玉玺"
       ],
-      "rank": 19,
-      "movie_rank": 9
-    },
-    {
-      "title": "NBA本月已有3人跟腱撕裂",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 256318,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=NBA%E6%9C%AC%E6%9C%88%E5%B7%B2%E6%9C%893%E4%BA%BA%E8%B7%9F%E8%85%B1%E6%92%95%E8%A3%82"
-      },
-      "raw_titles": [
-        "NBA本月已有3人跟腱撕裂"
-      ],
-      "rank": 20,
-      "sports_rank": 11
-    },
-    {
-      "title": "李现26岁才有第一部男主剧",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 227075,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B026%E5%B2%81%E6%89%8D%E6%9C%89%E7%AC%AC%E4%B8%80%E9%83%A8%E7%94%B7%E4%B8%BB%E5%89%A7"
-      },
-      "raw_titles": [
-        "李现26岁才有第一部男主剧"
-      ],
-      "rank": 21,
-      "movie_rank": 10
-    },
-    {
-      "title": "肖战能救爱奇艺吗",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 206537,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%83%BD%E6%95%91%E7%88%B1%E5%A5%87%E8%89%BA%E5%90%97"
-      },
-      "raw_titles": [
-        "肖战能救爱奇艺吗"
-      ],
-      "rank": 22,
-      "movie_rank": 11
-    },
-    {
-      "title": "全红婵长成大姑娘了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 197378,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%95%BF%E6%88%90%E5%A4%A7%E5%A7%91%E5%A8%98%E4%BA%86"
-      },
-      "raw_titles": [
-        "全红婵长成大姑娘了"
-      ],
       "rank": 23,
-      "sports_rank": 12
-    },
-    {
-      "title": "李现有四部待播作品",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 159267,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%9C%89%E5%9B%9B%E9%83%A8%E5%BE%85%E6%92%AD%E4%BD%9C%E5%93%81"
-      },
-      "raw_titles": [
-        "李现有四部待播作品"
-      ],
-      "rank": 24,
-      "movie_rank": 12
+      "movie_rank": 14
     }
   ],
   "sports": [
-    {
-      "title": "LOUD战胜VIT夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 10710259,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/LOUD%E6%88%98%E8%83%9CVIT%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "LOUD战胜VIT夺冠"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "利兹联1:1曼联",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9305379,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%88%A9%E5%85%B9%E8%81%941%3A1%E6%9B%BC%E8%81%94"
-      },
-      "raw_titles": [
-        "利兹联1:1曼联"
-      ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
-      "title": "阿森纳客场1:0胜诺丁汉森林",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8877716,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%AE%A2%E5%9C%BA1%3A0%E8%83%9C%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97"
-      },
-      "raw_titles": [
-        "阿森纳客场1:0胜诺丁汉森林"
-      ],
-      "rank": 4,
-      "sports_rank": 3
-    },
     {
       "title": "皇马4:1大胜塞维利亚",
       "category": "体育",
@@ -447,7 +383,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 8300221,
+      "hot_value": 8233225,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC4%3A1%E5%A4%A7%E8%83%9C%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC4-1%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A"
@@ -455,8 +391,40 @@
       "raw_titles": [
         "皇马4:1大胜塞维利亚"
       ],
+      "rank": 2,
+      "sports_rank": 1
+    },
+    {
+      "title": "LOUD战胜VIT夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7886095,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/LOUD%E6%88%98%E8%83%9CVIT%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "LOUD战胜VIT夺冠"
+      ],
+      "rank": 3,
+      "sports_rank": 2
+    },
+    {
+      "title": "利兹联1:1曼联",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7688608,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%88%A9%E5%85%B9%E8%81%941%3A1%E6%9B%BC%E8%81%94"
+      },
+      "raw_titles": [
+        "利兹联1:1曼联"
+      ],
       "rank": 5,
-      "sports_rank": 4
+      "sports_rank": 3
     },
     {
       "title": "32分钟杯总决赛",
@@ -464,7 +432,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7706289,
+      "hot_value": 7682439,
       "urls": {
         "抖音": "https://www.douyin.com/search/32%E5%88%86%E9%92%9F%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
@@ -472,55 +440,39 @@
         "32分钟杯总决赛"
       ],
       "rank": 6,
+      "sports_rank": 4
+    },
+    {
+      "title": "孙颖莎 不鼓励生日应援活动",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 3452565,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E4%B8%8D%E9%BC%93%E5%8A%B1%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4%E6%B4%BB%E5%8A%A8"
+      },
+      "raw_titles": [
+        "孙颖莎 不鼓励生日应援活动"
+      ],
+      "rank": 8,
       "sports_rank": 5
     },
     {
-      "title": "NBA新赛季谁能冲出西部",
+      "title": "孙颖莎打明牌",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 637534,
+      "hot_value": 645173,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%B0%81%E8%83%BD%E5%86%B2%E5%87%BA%E8%A5%BF%E9%83%A8"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%89%93%E6%98%8E%E7%89%8C"
       },
       "raw_titles": [
-        "NBA新赛季谁能冲出西部"
+        "孙颖莎打明牌"
       ],
-      "rank": 8,
+      "rank": 10,
       "sports_rank": 6
-    },
-    {
-      "title": "LPL LCK夺冠热门战队前瞻",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 412720,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%20LCK%E5%A4%BA%E5%86%A0%E7%83%AD%E9%97%A8%E6%88%98%E9%98%9F%E5%89%8D%E7%9E%BB"
-      },
-      "raw_titles": [
-        "LPL LCK夺冠热门战队前瞻"
-      ],
-      "rank": 13,
-      "sports_rank": 7
-    },
-    {
-      "title": "姆巴佩“双响” 皇马重返积分榜前三",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E5%8F%8C%E5%93%8D%E2%80%9D+%E7%9A%87%E9%A9%AC%E9%87%8D%E8%BF%94%E7%A7%AF%E5%88%86%E6%A6%9C%E5%89%8D%E4%B8%89&sa=fyb_news"
-      },
-      "raw_titles": [
-        "姆巴佩“双响” 皇马重返积分榜前三"
-      ],
-      "rank": 14,
-      "sports_rank": 8
     },
     {
       "title": "曼联连续6场不胜",
@@ -528,63 +480,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 386285,
+      "hot_value": 397258,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E8%BF%9E%E7%BB%AD6%E5%9C%BA%E4%B8%8D%E8%83%9C"
       },
       "raw_titles": [
         "曼联连续6场不胜"
       ],
-      "rank": 15,
-      "sports_rank": 9
+      "rank": 18,
+      "sports_rank": 7
     },
     {
-      "title": "热火新赛季前景如何",
+      "title": "LPL LCK夺冠热门战队前瞻",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 366130,
+      "hot_value": 364784,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%81%AB%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=LPL%20LCK%E5%A4%BA%E5%86%A0%E7%83%AD%E9%97%A8%E6%88%98%E9%98%9F%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
-        "热火新赛季前景如何"
+        "LPL LCK夺冠热门战队前瞻"
       ],
-      "rank": 17,
-      "sports_rank": 10
+      "rank": 19,
+      "sports_rank": 8
     },
     {
-      "title": "NBA本月已有3人跟腱撕裂",
+      "title": "长鑫科技开盘跳水",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 256318,
+      "hot_value": 315000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=NBA%E6%9C%AC%E6%9C%88%E5%B7%B2%E6%9C%893%E4%BA%BA%E8%B7%9F%E8%85%B1%E6%92%95%E8%A3%82"
+        "百度": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E8%B7%B3%E6%B0%B4&sa=fyb_news"
       },
       "raw_titles": [
-        "NBA本月已有3人跟腱撕裂"
+        "长鑫科技开盘跳水"
       ],
-      "rank": 20,
-      "sports_rank": 11
-    },
-    {
-      "title": "全红婵长成大姑娘了",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 197378,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%95%BF%E6%88%90%E5%A4%A7%E5%A7%91%E5%A8%98%E4%BA%86"
-      },
-      "raw_titles": [
-        "全红婵长成大姑娘了"
-      ],
-      "rank": 23,
-      "sports_rank": 12
+      "rank": 22,
+      "sports_rank": 9
     }
   ],
   "movies": [
@@ -594,15 +530,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10544423,
+      "hot_value": 10546183,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E7%9A%84%E9%AD%85%E5%8A%9B"
       },
       "raw_titles": [
         "这才是中国功夫的魅力"
       ],
-      "rank": 2,
+      "rank": 1,
       "movie_rank": 1
+    },
+    {
+      "title": "薛之谦身着苗族银饰亮相演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7709586,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%BA%AB%E7%9D%80%E8%8B%97%E6%97%8F%E9%93%B6%E9%A5%B0%E4%BA%AE%E7%9B%B8%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "薛之谦身着苗族银饰亮相演唱会"
+      ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "邓紫棋李荣浩梦幻联动双厨狂喜",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7674837,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%E5%8F%8C%E5%8E%A8%E7%8B%82%E5%96%9C"
+      },
+      "raw_titles": [
+        "邓紫棋李荣浩梦幻联动双厨狂喜"
+      ],
+      "rank": 7,
+      "movie_rank": 3
     },
     {
       "title": "新华社微纪录片我想记住你的名字",
@@ -610,15 +578,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 808380,
+      "hot_value": 808641,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%BE%AE%E7%BA%AA%E5%BD%95%E7%89%87%E6%88%91%E6%83%B3%E8%AE%B0%E4%BD%8F%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97"
       },
       "raw_titles": [
         "新华社微纪录片我想记住你的名字"
       ],
-      "rank": 7,
-      "movie_rank": 2
+      "rank": 9,
+      "movie_rank": 4
     },
     {
       "title": "不用AI特效的中国功夫什么样",
@@ -626,44 +594,12 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 588586,
+      "hot_value": 488196,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7"
       },
       "raw_titles": [
         "不用AI特效的中国功夫什么样"
-      ],
-      "rank": 9,
-      "movie_rank": 3
-    },
-    {
-      "title": "AI微电影星河外卖员规则诡域",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 532677,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%98%9F%E6%B2%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A7%84%E5%88%99%E8%AF%A1%E5%9F%9F"
-      },
-      "raw_titles": [
-        "AI微电影星河外卖员规则诡域"
-      ],
-      "rank": 10,
-      "movie_rank": 4
-    },
-    {
-      "title": "雨哥后台采访五月天阿信",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 462670,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5%E5%90%8E%E5%8F%B0%E9%87%87%E8%AE%BF%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1"
-      },
-      "raw_titles": [
-        "雨哥后台采访五月天阿信"
       ],
       "rank": 11,
       "movie_rank": 5
@@ -674,7 +610,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 445463,
+      "hot_value": 488189,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
       },
@@ -685,36 +621,116 @@
       "movie_rank": 6
     },
     {
+      "title": "AI微电影星河外卖员规则诡域",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 488186,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%98%9F%E6%B2%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A7%84%E5%88%99%E8%AF%A1%E5%9F%9F"
+      },
+      "raw_titles": [
+        "AI微电影星河外卖员规则诡域"
+      ],
+      "rank": 13,
+      "movie_rank": 7
+    },
+    {
+      "title": "肖战巡演周边",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 474250,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B7%A1%E6%BC%94%E5%91%A8%E8%BE%B9"
+      },
+      "raw_titles": [
+        "肖战巡演周边"
+      ],
+      "rank": 14,
+      "movie_rank": 8
+    },
+    {
+      "title": "肖战演唱会官周价格",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 459587,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%91%A8%E4%BB%B7%E6%A0%BC"
+      },
+      "raw_titles": [
+        "肖战演唱会官周价格"
+      ],
+      "rank": 15,
+      "movie_rank": 9
+    },
+    {
+      "title": "金鸡奖",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 442908,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96"
+      },
+      "raw_titles": [
+        "金鸡奖"
+      ],
+      "rank": 16,
+      "movie_rank": 10
+    },
+    {
+      "title": "雨哥后台采访五月天阿信",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 404745,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5%E5%90%8E%E5%8F%B0%E9%87%87%E8%AE%BF%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1"
+      },
+      "raw_titles": [
+        "雨哥后台采访五月天阿信"
+      ],
+      "rank": 17,
+      "movie_rank": 11
+    },
+    {
+      "title": "“肖战演唱会前排门票25万”系谣言",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 360000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E6%8E%92%E9%97%A8%E7%A5%A825%E4%B8%87%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "“肖战演唱会前排门票25万”系谣言"
+      ],
+      "rank": 20,
+      "movie_rank": 12
+    },
+    {
       "title": "雷佳音大变样",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 378000,
+      "hot_value": 351000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%A4%A7%E5%8F%98%E6%A0%B7&sa=fyb_news"
       },
       "raw_titles": [
         "雷佳音大变样"
       ],
-      "rank": 16,
-      "movie_rank": 7
-    },
-    {
-      "title": "UP主自制CG动画明日香",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 331628,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6CG%E5%8A%A8%E7%94%BB%E6%98%8E%E6%97%A5%E9%A6%99"
-      },
-      "raw_titles": [
-        "UP主自制CG动画明日香"
-      ],
-      "rank": 18,
-      "movie_rank": 8
+      "rank": 21,
+      "movie_rank": 13
     },
     {
       "title": "王一博被cue找传国玉玺",
@@ -722,63 +738,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 284563,
+      "hot_value": 225436,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A2%ABcue%E6%89%BE%E4%BC%A0%E5%9B%BD%E7%8E%89%E7%8E%BA"
       },
       "raw_titles": [
         "王一博被cue找传国玉玺"
       ],
-      "rank": 19,
-      "movie_rank": 9
-    },
-    {
-      "title": "李现26岁才有第一部男主剧",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 227075,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B026%E5%B2%81%E6%89%8D%E6%9C%89%E7%AC%AC%E4%B8%80%E9%83%A8%E7%94%B7%E4%B8%BB%E5%89%A7"
-      },
-      "raw_titles": [
-        "李现26岁才有第一部男主剧"
-      ],
-      "rank": 21,
-      "movie_rank": 10
-    },
-    {
-      "title": "肖战能救爱奇艺吗",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 206537,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%83%BD%E6%95%91%E7%88%B1%E5%A5%87%E8%89%BA%E5%90%97"
-      },
-      "raw_titles": [
-        "肖战能救爱奇艺吗"
-      ],
-      "rank": 22,
-      "movie_rank": 11
-    },
-    {
-      "title": "李现有四部待播作品",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 159267,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%9C%89%E5%9B%9B%E9%83%A8%E5%BE%85%E6%92%AD%E4%BD%9C%E5%93%81"
-      },
-      "raw_titles": [
-        "李现有四部待播作品"
-      ],
-      "rank": 24,
-      "movie_rank": 12
+      "rank": 23,
+      "movie_rank": 14
     }
   ]
 }
