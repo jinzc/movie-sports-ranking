@@ -1,21 +1,23 @@
 {
-  "update_time": "2026-10-21 07:00:48",
+  "update_time": "2026-10-21 08:00:52",
   "total": 23,
-  "sports_count": 13,
-  "movie_count": 10,
+  "sports_count": 12,
+  "movie_count": 11,
   "all": [
     {
-      "title": "吴艳妮说只要跑得动就不会退役",
+      "title": "巴黎圣日耳曼4比2巴萨",
       "category": "体育",
       "sources": [
+        "微博",
         "抖音"
       ],
-      "hot_value": 9226045,
+      "hot_value": 10185504,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E5%8F%AA%E8%A6%81%E8%B7%91%E5%BE%97%E5%8A%A8%E5%B0%B1%E4%B8%8D%E4%BC%9A%E9%80%80%E5%BD%B9"
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC4%E6%AF%942%E5%B7%B4%E8%90%A8",
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E4%3A2%E5%B7%B4%E8%90%A8"
       },
       "raw_titles": [
-        "吴艳妮说只要跑得动就不会退役"
+        "巴黎圣日耳曼4比2巴萨"
       ],
       "rank": 1,
       "sports_rank": 1
@@ -26,7 +28,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7744040,
+      "hot_value": 7756726,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%B0%8F%E5%92%AA%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96"
       },
@@ -37,36 +39,94 @@
       "movie_rank": 1
     },
     {
-      "title": "“第一次看电视剧记笔记”",
-      "category": "影视",
+      "title": "吴艳妮说只要跑得动就不会退役",
+      "category": "体育",
       "sources": [
-        "百度"
+        "抖音"
       ],
-      "hot_value": 414000,
+      "hot_value": 7676650,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E7%94%B5%E8%A7%86%E5%89%A7%E8%AE%B0%E7%AC%94%E8%AE%B0%E2%80%9D&sa=fyb_news"
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E5%8F%AA%E8%A6%81%E8%B7%91%E5%BE%97%E5%8A%A8%E5%B0%B1%E4%B8%8D%E4%BC%9A%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
-        "“第一次看电视剧记笔记”"
+        "吴艳妮说只要跑得动就不会退役"
       ],
       "rank": 3,
-      "movie_rank": 2
+      "sports_rank": 2
     },
     {
-      "title": "湖人正式裁掉克内克特",
+      "title": "NBA",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "百度",
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1388450,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=NBA",
+        "百度": "https://m.baidu.com/s?word=NBA&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8CNBA%E7%90%83%E6%98%9F%E6%AF%94%E6%8A%95%E7%AF%AE"
+      },
+      "raw_titles": [
+        "NBA"
+      ],
+      "rank": 4,
+      "sports_rank": 3
+    },
+    {
+      "title": "中国体操男队世锦赛铜牌",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 515950,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E7%94%B7%E9%98%9F%E4%B8%96%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C",
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2%E6%91%98%E5%BE%97%E4%BD%93%E6%93%8D%E4%B8%96%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "中国体操男队世锦赛铜牌"
+      ],
+      "rank": 5,
+      "sports_rank": 4
+    },
+    {
+      "title": "易梦玲巴黎被偷",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 472384,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%81%B7",
+        "百度": "https://m.baidu.com/s?word=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%A1%8C%E6%9D%8E%E8%A2%AB%E5%81%B7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "易梦玲巴黎被偷"
+      ],
+      "rank": 6,
+      "sports_rank": 5
+    },
+    {
+      "title": "大巴黎4-2！终结巴萨11连胜",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 396000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B9%96%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A3%81%E6%8E%89%E5%85%8B%E5%86%85%E5%85%8B%E7%89%B9&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E5%B7%B4%E9%BB%8E4-2%EF%BC%81%E7%BB%88%E7%BB%93%E5%B7%B4%E8%90%A811%E8%BF%9E%E8%83%9C&sa=fyb_news"
       },
       "raw_titles": [
-        "湖人正式裁掉克内克特"
+        "大巴黎4-2！终结巴萨11连胜"
       ],
-      "rank": 4,
-      "sports_rank": 2
+      "rank": 7,
+      "sports_rank": 6
     },
     {
       "title": "IG全球总决赛出征片",
@@ -74,95 +134,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 242516,
+      "hot_value": 336000,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=IG%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%87%BA%E5%BE%81%E7%89%87"
       },
       "raw_titles": [
         "IG全球总决赛出征片"
       ],
-      "rank": 5,
-      "sports_rank": 3
-    },
-    {
-      "title": "巴黎圣日耳曼4比2巴萨",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 239860,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC4%E6%AF%942%E5%B7%B4%E8%90%A8"
-      },
-      "raw_titles": [
-        "巴黎圣日耳曼4比2巴萨"
-      ],
-      "rank": 6,
-      "sports_rank": 4
-    },
-    {
-      "title": "NBA西部常规赛各队问题是什么",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 229626,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E8%A5%BF%E9%83%A8%E5%B8%B8%E8%A7%84%E8%B5%9B%E5%90%84%E9%98%9F%E9%97%AE%E9%A2%98%E6%98%AF%E4%BB%80%E4%B9%88"
-      },
-      "raw_titles": [
-        "NBA西部常规赛各队问题是什么"
-      ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "UP主拆解爆款AI代码动画",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 215185,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB"
-      },
-      "raw_titles": [
-        "UP主拆解爆款AI代码动画"
-      ],
       "rank": 8,
-      "movie_rank": 3
-    },
-    {
-      "title": "UP主自制盲人无障碍电影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 214850,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "UP主自制盲人无障碍电影"
-      ],
-      "rank": 9,
-      "movie_rank": 4
-    },
-    {
-      "title": "UP主自制动画 科学修仙",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 214300,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99"
-      },
-      "raw_titles": [
-        "UP主自制动画 科学修仙"
-      ],
-      "rank": 10,
-      "movie_rank": 5
+      "sports_rank": 7
     },
     {
       "title": "4万字拆解9分动画边缘行者",
@@ -170,15 +150,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 205625,
+      "hot_value": 324506,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=4%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A39%E5%88%86%E5%8A%A8%E7%94%BB%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85"
       },
       "raw_titles": [
         "4万字拆解9分动画边缘行者"
       ],
+      "rank": 9,
+      "movie_rank": 2
+    },
+    {
+      "title": "UP主自制动画 科学修仙",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 296785,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99"
+      },
+      "raw_titles": [
+        "UP主自制动画 科学修仙"
+      ],
+      "rank": 10,
+      "movie_rank": 3
+    },
+    {
+      "title": "UP主拆解爆款AI代码动画",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 294956,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB"
+      },
+      "raw_titles": [
+        "UP主拆解爆款AI代码动画"
+      ],
       "rank": 11,
-      "movie_rank": 6
+      "movie_rank": 4
+    },
+    {
+      "title": "塔图姆23中6",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 290361,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A1%94%E5%9B%BE%E5%A7%8623%E4%B8%AD6"
+      },
+      "raw_titles": [
+        "塔图姆23中6"
+      ],
+      "rank": 12,
+      "sports_rank": 8
+    },
+    {
+      "title": "保罗乔治7记三分贡献38分5断",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 279000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%BF%9D%E7%BD%97%E4%B9%94%E6%B2%BB7%E8%AE%B0%E4%B8%89%E5%88%86%E8%B4%A1%E7%8C%AE38%E5%88%865%E6%96%AD&sa=fyb_news"
+      },
+      "raw_titles": [
+        "保罗乔治7记三分贡献38分5断"
+      ],
+      "rank": 13,
+      "sports_rank": 9
+    },
+    {
+      "title": "UP主自制盲人无障碍电影",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 253290,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "UP主自制盲人无障碍电影"
+      ],
+      "rank": 14,
+      "movie_rank": 5
     },
     {
       "title": "真人版弹丸论破开庭",
@@ -186,31 +246,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 189515,
+      "hot_value": 248867,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E7%89%88%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E5%BC%80%E5%BA%AD"
       },
       "raw_titles": [
         "真人版弹丸论破开庭"
       ],
-      "rank": 12,
+      "rank": 15,
+      "movie_rank": 6
+    },
+    {
+      "title": "王一博是istp",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 238049,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AFistp"
+      },
+      "raw_titles": [
+        "王一博是istp"
+      ],
+      "rank": 16,
       "movie_rank": 7
     },
     {
-      "title": "UP主和NBA球星比投篮",
+      "title": "活塞22分逆转凯尔特人",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 182155,
+      "hot_value": 198089,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8CNBA%E7%90%83%E6%98%9F%E6%AF%94%E6%8A%95%E7%AF%AE"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B4%BB%E5%A1%9E22%E5%88%86%E9%80%86%E8%BD%AC%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA"
       },
       "raw_titles": [
-        "UP主和NBA球星比投篮"
+        "活塞22分逆转凯尔特人"
       ],
-      "rank": 13,
-      "sports_rank": 6
+      "rank": 17,
+      "sports_rank": 10
+    },
+    {
+      "title": "欧冠",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 157710,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0"
+      },
+      "raw_titles": [
+        "欧冠"
+      ],
+      "rank": 18,
+      "sports_rank": 11
     },
     {
       "title": "体操世锦赛男团决赛",
@@ -218,31 +310,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 110787,
+      "hot_value": 130988,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BD%93%E6%93%8D%E4%B8%96%E9%94%A6%E8%B5%9B%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "体操世锦赛男团决赛"
       ],
-      "rank": 14,
-      "sports_rank": 7
-    },
-    {
-      "title": "NBA东部常规赛排名预测",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 93632,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E4%B8%9C%E9%83%A8%E5%B8%B8%E8%A7%84%E8%B5%9B%E6%8E%92%E5%90%8D%E9%A2%84%E6%B5%8B"
-      },
-      "raw_titles": [
-        "NBA东部常规赛排名预测"
-      ],
-      "rank": 15,
-      "sports_rank": 8
+      "rank": 19,
+      "sports_rank": 12
     },
     {
       "title": "肖战演唱会二开无退票斩断囤票退路",
@@ -250,47 +326,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 92373,
+      "hot_value": 125343,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8C%E5%BC%80%E6%97%A0%E9%80%80%E7%A5%A8%E6%96%A9%E6%96%AD%E5%9B%A4%E7%A5%A8%E9%80%80%E8%B7%AF"
       },
       "raw_titles": [
         "肖战演唱会二开无退票斩断囤票退路"
       ],
-      "rank": 16,
+      "rank": 20,
       "movie_rank": 8
-    },
-    {
-      "title": "易梦玲巴黎被偷",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 83586,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%81%B7"
-      },
-      "raw_titles": [
-        "易梦玲巴黎被偷"
-      ],
-      "rank": 17,
-      "sports_rank": 9
-    },
-    {
-      "title": "常冰玉连救三赛点遭绝杀",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B8%B8%E5%86%B0%E7%8E%89%E8%BF%9E%E6%95%91%E4%B8%89%E8%B5%9B%E7%82%B9%E9%81%AD%E7%BB%9D%E6%9D%80&sa=fyb_news"
-      },
-      "raw_titles": [
-        "常冰玉连救三赛点遭绝杀"
-      ],
-      "rank": 18,
-      "sports_rank": 10
     },
     {
       "title": "肖战震惊成表情包了",
@@ -298,31 +342,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 45202,
+      "hot_value": 96438,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%9C%87%E6%83%8A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86"
       },
       "raw_titles": [
         "肖战震惊成表情包了"
       ],
-      "rank": 19,
+      "rank": 21,
       "movie_rank": 9
-    },
-    {
-      "title": "任嘉伦杭州出发NBA解说",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 39559,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%E6%9D%AD%E5%B7%9E%E5%87%BA%E5%8F%91NBA%E8%A7%A3%E8%AF%B4"
-      },
-      "raw_titles": [
-        "任嘉伦杭州出发NBA解说"
-      ],
-      "rank": 20,
-      "sports_rank": 11
     },
     {
       "title": "剧集告别信",
@@ -330,81 +358,141 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 35938,
+      "hot_value": 82779,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%89%A7%E9%9B%86%E5%91%8A%E5%88%AB%E4%BF%A1"
       },
       "raw_titles": [
         "剧集告别信"
       ],
-      "rank": 21,
+      "rank": 22,
       "movie_rank": 10
     },
     {
-      "title": "火箭军某旅“猎人”意志障碍训练现场",
-      "category": "体育",
+      "title": "“第一次看电视剧记笔记”",
+      "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 45000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%81%AB%E7%AE%AD%E5%86%9B%E6%9F%90%E6%97%85%E2%80%9C%E7%8C%8E%E4%BA%BA%E2%80%9D%E6%84%8F%E5%BF%97%E9%9A%9C%E7%A2%8D%E8%AE%AD%E7%BB%83%E7%8E%B0%E5%9C%BA&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E7%94%B5%E8%A7%86%E5%89%A7%E8%AE%B0%E7%AC%94%E8%AE%B0%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "火箭军某旅“猎人”意志障碍训练现场"
-      ],
-      "rank": 22,
-      "sports_rank": 12
-    },
-    {
-      "title": "CBA常规赛四川91比88战胜吉林",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=CBA%E5%B8%B8%E8%A7%84%E8%B5%9B%E5%9B%9B%E5%B7%9D91%E6%AF%9488%E6%88%98%E8%83%9C%E5%90%89%E6%9E%97&sa=fyb_news"
-      },
-      "raw_titles": [
-        "CBA常规赛四川91比88战胜吉林"
+        "“第一次看电视剧记笔记”"
       ],
       "rank": 23,
-      "sports_rank": 13
+      "movie_rank": 11
     }
   ],
   "sports": [
+    {
+      "title": "巴黎圣日耳曼4比2巴萨",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 10185504,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC4%E6%AF%942%E5%B7%B4%E8%90%A8",
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E4%3A2%E5%B7%B4%E8%90%A8"
+      },
+      "raw_titles": [
+        "巴黎圣日耳曼4比2巴萨"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "吴艳妮说只要跑得动就不会退役",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9226045,
+      "hot_value": 7676650,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E5%8F%AA%E8%A6%81%E8%B7%91%E5%BE%97%E5%8A%A8%E5%B0%B1%E4%B8%8D%E4%BC%9A%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
         "吴艳妮说只要跑得动就不会退役"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 3,
+      "sports_rank": 2
     },
     {
-      "title": "湖人正式裁掉克内克特",
+      "title": "NBA",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "百度",
+        "哔哩哔哩",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1388450,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=NBA",
+        "百度": "https://m.baidu.com/s?word=NBA&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8CNBA%E7%90%83%E6%98%9F%E6%AF%94%E6%8A%95%E7%AF%AE"
+      },
+      "raw_titles": [
+        "NBA"
+      ],
+      "rank": 4,
+      "sports_rank": 3
+    },
+    {
+      "title": "中国体操男队世锦赛铜牌",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 515950,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E7%94%B7%E9%98%9F%E4%B8%96%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C",
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2%E6%91%98%E5%BE%97%E4%BD%93%E6%93%8D%E4%B8%96%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C&sa=fyb_news"
+      },
+      "raw_titles": [
+        "中国体操男队世锦赛铜牌"
+      ],
+      "rank": 5,
+      "sports_rank": 4
+    },
+    {
+      "title": "易梦玲巴黎被偷",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 472384,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%81%B7",
+        "百度": "https://m.baidu.com/s?word=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%A1%8C%E6%9D%8E%E8%A2%AB%E5%81%B7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "易梦玲巴黎被偷"
+      ],
+      "rank": 6,
+      "sports_rank": 5
+    },
+    {
+      "title": "大巴黎4-2！终结巴萨11连胜",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 396000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B9%96%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A3%81%E6%8E%89%E5%85%8B%E5%86%85%E5%85%8B%E7%89%B9&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E5%B7%B4%E9%BB%8E4-2%EF%BC%81%E7%BB%88%E7%BB%93%E5%B7%B4%E8%90%A811%E8%BF%9E%E8%83%9C&sa=fyb_news"
       },
       "raw_titles": [
-        "湖人正式裁掉克内克特"
+        "大巴黎4-2！终结巴萨11连胜"
       ],
-      "rank": 4,
-      "sports_rank": 2
+      "rank": 7,
+      "sports_rank": 6
     },
     {
       "title": "IG全球总决赛出征片",
@@ -412,63 +500,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 242516,
+      "hot_value": 336000,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=IG%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%87%BA%E5%BE%81%E7%89%87"
       },
       "raw_titles": [
         "IG全球总决赛出征片"
       ],
-      "rank": 5,
-      "sports_rank": 3
+      "rank": 8,
+      "sports_rank": 7
     },
     {
-      "title": "巴黎圣日耳曼4比2巴萨",
+      "title": "塔图姆23中6",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 239860,
+      "hot_value": 290361,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC4%E6%AF%942%E5%B7%B4%E8%90%A8"
+        "微博": "https://s.weibo.com/weibo?q=%E5%A1%94%E5%9B%BE%E5%A7%8623%E4%B8%AD6"
       },
       "raw_titles": [
-        "巴黎圣日耳曼4比2巴萨"
+        "塔图姆23中6"
       ],
-      "rank": 6,
-      "sports_rank": 4
+      "rank": 12,
+      "sports_rank": 8
     },
     {
-      "title": "NBA西部常规赛各队问题是什么",
+      "title": "保罗乔治7记三分贡献38分5断",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 229626,
+      "hot_value": 279000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E8%A5%BF%E9%83%A8%E5%B8%B8%E8%A7%84%E8%B5%9B%E5%90%84%E9%98%9F%E9%97%AE%E9%A2%98%E6%98%AF%E4%BB%80%E4%B9%88"
+        "百度": "https://m.baidu.com/s?word=%E4%BF%9D%E7%BD%97%E4%B9%94%E6%B2%BB7%E8%AE%B0%E4%B8%89%E5%88%86%E8%B4%A1%E7%8C%AE38%E5%88%865%E6%96%AD&sa=fyb_news"
       },
       "raw_titles": [
-        "NBA西部常规赛各队问题是什么"
-      ],
-      "rank": 7,
-      "sports_rank": 5
-    },
-    {
-      "title": "UP主和NBA球星比投篮",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 182155,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8CNBA%E7%90%83%E6%98%9F%E6%AF%94%E6%8A%95%E7%AF%AE"
-      },
-      "raw_titles": [
-        "UP主和NBA球星比投篮"
+        "保罗乔治7记三分贡献38分5断"
       ],
       "rank": 13,
-      "sports_rank": 6
+      "sports_rank": 9
+    },
+    {
+      "title": "活塞22分逆转凯尔特人",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 198089,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B4%BB%E5%A1%9E22%E5%88%86%E9%80%86%E8%BD%AC%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA"
+      },
+      "raw_titles": [
+        "活塞22分逆转凯尔特人"
+      ],
+      "rank": 17,
+      "sports_rank": 10
+    },
+    {
+      "title": "欧冠",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 157710,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0"
+      },
+      "raw_titles": [
+        "欧冠"
+      ],
+      "rank": 18,
+      "sports_rank": 11
     },
     {
       "title": "体操世锦赛男团决赛",
@@ -476,111 +580,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 110787,
+      "hot_value": 130988,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E4%BD%93%E6%93%8D%E4%B8%96%E9%94%A6%E8%B5%9B%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "体操世锦赛男团决赛"
       ],
-      "rank": 14,
-      "sports_rank": 7
-    },
-    {
-      "title": "NBA东部常规赛排名预测",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 93632,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E4%B8%9C%E9%83%A8%E5%B8%B8%E8%A7%84%E8%B5%9B%E6%8E%92%E5%90%8D%E9%A2%84%E6%B5%8B"
-      },
-      "raw_titles": [
-        "NBA东部常规赛排名预测"
-      ],
-      "rank": 15,
-      "sports_rank": 8
-    },
-    {
-      "title": "易梦玲巴黎被偷",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 83586,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%81%B7"
-      },
-      "raw_titles": [
-        "易梦玲巴黎被偷"
-      ],
-      "rank": 17,
-      "sports_rank": 9
-    },
-    {
-      "title": "常冰玉连救三赛点遭绝杀",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B8%B8%E5%86%B0%E7%8E%89%E8%BF%9E%E6%95%91%E4%B8%89%E8%B5%9B%E7%82%B9%E9%81%AD%E7%BB%9D%E6%9D%80&sa=fyb_news"
-      },
-      "raw_titles": [
-        "常冰玉连救三赛点遭绝杀"
-      ],
-      "rank": 18,
-      "sports_rank": 10
-    },
-    {
-      "title": "任嘉伦杭州出发NBA解说",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 39559,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%E6%9D%AD%E5%B7%9E%E5%87%BA%E5%8F%91NBA%E8%A7%A3%E8%AF%B4"
-      },
-      "raw_titles": [
-        "任嘉伦杭州出发NBA解说"
-      ],
-      "rank": 20,
-      "sports_rank": 11
-    },
-    {
-      "title": "火箭军某旅“猎人”意志障碍训练现场",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 18000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%81%AB%E7%AE%AD%E5%86%9B%E6%9F%90%E6%97%85%E2%80%9C%E7%8C%8E%E4%BA%BA%E2%80%9D%E6%84%8F%E5%BF%97%E9%9A%9C%E7%A2%8D%E8%AE%AD%E7%BB%83%E7%8E%B0%E5%9C%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "火箭军某旅“猎人”意志障碍训练现场"
-      ],
-      "rank": 22,
+      "rank": 19,
       "sports_rank": 12
-    },
-    {
-      "title": "CBA常规赛四川91比88战胜吉林",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=CBA%E5%B8%B8%E8%A7%84%E8%B5%9B%E5%9B%9B%E5%B7%9D91%E6%AF%9488%E6%88%98%E8%83%9C%E5%90%89%E6%9E%97&sa=fyb_news"
-      },
-      "raw_titles": [
-        "CBA常规赛四川91比88战胜吉林"
-      ],
-      "rank": 23,
-      "sports_rank": 13
     }
   ],
   "movies": [
@@ -590,7 +598,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7744040,
+      "hot_value": 7756726,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%B0%8F%E5%92%AA%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96"
       },
@@ -601,52 +609,20 @@
       "movie_rank": 1
     },
     {
-      "title": "“第一次看电视剧记笔记”",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E7%94%B5%E8%A7%86%E5%89%A7%E8%AE%B0%E7%AC%94%E8%AE%B0%E2%80%9D&sa=fyb_news"
-      },
-      "raw_titles": [
-        "“第一次看电视剧记笔记”"
-      ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "UP主拆解爆款AI代码动画",
+      "title": "4万字拆解9分动画边缘行者",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 215185,
+      "hot_value": 324506,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=4%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A39%E5%88%86%E5%8A%A8%E7%94%BB%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85"
       },
       "raw_titles": [
-        "UP主拆解爆款AI代码动画"
-      ],
-      "rank": 8,
-      "movie_rank": 3
-    },
-    {
-      "title": "UP主自制盲人无障碍电影",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 214850,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "UP主自制盲人无障碍电影"
+        "4万字拆解9分动画边缘行者"
       ],
       "rank": 9,
-      "movie_rank": 4
+      "movie_rank": 2
     },
     {
       "title": "UP主自制动画 科学修仙",
@@ -654,7 +630,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 214300,
+      "hot_value": 296785,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99"
       },
@@ -662,23 +638,39 @@
         "UP主自制动画 科学修仙"
       ],
       "rank": 10,
-      "movie_rank": 5
+      "movie_rank": 3
     },
     {
-      "title": "4万字拆解9分动画边缘行者",
+      "title": "UP主拆解爆款AI代码动画",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 205625,
+      "hot_value": 294956,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=4%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A39%E5%88%86%E5%8A%A8%E7%94%BB%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
-        "4万字拆解9分动画边缘行者"
+        "UP主拆解爆款AI代码动画"
       ],
       "rank": 11,
-      "movie_rank": 6
+      "movie_rank": 4
+    },
+    {
+      "title": "UP主自制盲人无障碍电影",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 253290,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "UP主自制盲人无障碍电影"
+      ],
+      "rank": 14,
+      "movie_rank": 5
     },
     {
       "title": "真人版弹丸论破开庭",
@@ -686,14 +678,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 189515,
+      "hot_value": 248867,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E7%89%88%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E5%BC%80%E5%BA%AD"
       },
       "raw_titles": [
         "真人版弹丸论破开庭"
       ],
-      "rank": 12,
+      "rank": 15,
+      "movie_rank": 6
+    },
+    {
+      "title": "王一博是istp",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 238049,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AFistp"
+      },
+      "raw_titles": [
+        "王一博是istp"
+      ],
+      "rank": 16,
       "movie_rank": 7
     },
     {
@@ -702,14 +710,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 92373,
+      "hot_value": 125343,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8C%E5%BC%80%E6%97%A0%E9%80%80%E7%A5%A8%E6%96%A9%E6%96%AD%E5%9B%A4%E7%A5%A8%E9%80%80%E8%B7%AF"
       },
       "raw_titles": [
         "肖战演唱会二开无退票斩断囤票退路"
       ],
-      "rank": 16,
+      "rank": 20,
       "movie_rank": 8
     },
     {
@@ -718,14 +726,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 45202,
+      "hot_value": 96438,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%9C%87%E6%83%8A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86"
       },
       "raw_titles": [
         "肖战震惊成表情包了"
       ],
-      "rank": 19,
+      "rank": 21,
       "movie_rank": 9
     },
     {
@@ -734,15 +742,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 35938,
+      "hot_value": 82779,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%89%A7%E9%9B%86%E5%91%8A%E5%88%AB%E4%BF%A1"
       },
       "raw_titles": [
         "剧集告别信"
       ],
-      "rank": 21,
+      "rank": 22,
       "movie_rank": 10
+    },
+    {
+      "title": "“第一次看电视剧记笔记”",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E7%94%B5%E8%A7%86%E5%89%A7%E8%AE%B0%E7%AC%94%E8%AE%B0%E2%80%9D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "“第一次看电视剧记笔记”"
+      ],
+      "rank": 23,
+      "movie_rank": 11
     }
   ]
 }
