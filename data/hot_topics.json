@@ -1,18 +1,20 @@
 {
-  "update_time": "2026-10-21 11:00:49",
-  "total": 33,
-  "sports_count": 20,
-  "movie_count": 13,
+  "update_time": "2026-10-21 12:00:51",
+  "total": 32,
+  "sports_count": 16,
+  "movie_count": 16,
   "all": [
     {
       "title": "NBA揭幕战76人击败尼克斯",
       "category": "体育",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 11463745,
+      "hot_value": 12430874,
       "urls": {
-        "抖音": "https://www.douyin.com/search/NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF"
+        "抖音": "https://www.douyin.com/search/NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF"
       },
       "raw_titles": [
         "NBA揭幕战76人击败尼克斯"
@@ -27,7 +29,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 10324938,
+      "hot_value": 9735181,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E4%3A2%E5%B7%B4%E8%90%A8",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E9%BB%8E4-2%E5%B7%B4%E8%90%A8"
@@ -44,7 +46,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8317826,
+      "hot_value": 9065626,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA%E6%B4%BB%E5%A1%9E121%3A113%E9%80%86%E8%BD%AC%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA"
       },
@@ -60,7 +62,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7710107,
+      "hot_value": 7693406,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%B0%8F%E5%92%AA%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96"
       },
@@ -76,7 +78,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7647432,
+      "hot_value": 7662848,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E5%8F%AA%E8%A6%81%E8%B7%91%E5%BE%97%E5%8A%A8%E5%B0%B1%E4%B8%8D%E4%BC%9A%E9%80%80%E5%BD%B9"
       },
@@ -87,20 +89,17 @@
       "sports_rank": 4
     },
     {
-      "title": "樊振东发文抵制偷拍",
+      "title": "徐静雨说詹姆斯王者归来",
       "category": "体育",
       "sources": [
-        "微博",
-        "微博",
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 2495536,
+      "hot_value": 3678958,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6%E5%81%B7%E6%8B%8D",
-        "百度": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6%E5%81%B7%E6%8B%8D&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%B4%E8%A9%B9%E5%A7%86%E6%96%AF%E7%8E%8B%E8%80%85%E5%BD%92%E6%9D%A5"
       },
       "raw_titles": [
-        "樊振东发文抵制偷拍"
+        "徐静雨说詹姆斯王者归来"
       ],
       "rank": 6,
       "sports_rank": 5
@@ -111,7 +110,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 948544,
+      "hot_value": 899166,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8F%AF%E5%BF%83%E6%9F%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA"
       },
@@ -122,42 +121,20 @@
       "movie_rank": 2
     },
     {
-      "title": "詹姆斯76人生涯首分",
-      "category": "体育",
+      "title": "沙丘3国内定档",
+      "category": "影视",
       "sources": [
-        "微博",
-        "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 720422,
+      "hot_value": 845612,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86",
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B2%99%E4%B8%983%E5%9B%BD%E5%86%85%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
-        "詹姆斯76人生涯首分"
+        "沙丘3国内定档"
       ],
       "rank": 8,
-      "sports_rank": 6
-    },
-    {
-      "title": "C罗失点又失空门",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "哔哩哔哩"
-      ],
-      "hot_value": 696149,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A4%B1%E7%82%B9%E5%8F%88%E5%A4%B1%E7%A9%BA%E9%97%A8",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%A4%B1%E7%82%B9%E5%8F%88%E5%A4%B1%E7%A9%BA%E9%97%A8"
-      },
-      "raw_titles": [
-        "C罗失点又失空门"
-      ],
-      "rank": 9,
-      "sports_rank": 7
+      "movie_rank": 3
     },
     {
       "title": "巴萨11连胜如何遭巴黎终结",
@@ -165,47 +142,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 471920,
+      "hot_value": 652662,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%90%A811%E8%BF%9E%E8%83%9C%E5%A6%82%E4%BD%95%E9%81%AD%E5%B7%B4%E9%BB%8E%E7%BB%88%E7%BB%93"
       },
       "raw_titles": [
         "巴萨11连胜如何遭巴黎终结"
       ],
-      "rank": 10,
-      "sports_rank": 8
+      "rank": 9,
+      "sports_rank": 6
     },
     {
-      "title": "雷霆马刺大冲突",
+      "title": "IG全球总决赛出征片",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 468434,
+      "hot_value": 634546,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=IG%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%87%BA%E5%BE%81%E7%89%87"
       },
       "raw_titles": [
-        "雷霆马刺大冲突"
+        "IG全球总决赛出征片"
       ],
-      "rank": 11,
-      "sports_rank": 9
-    },
-    {
-      "title": "刘恺威曾谈对杨幂的第一印象",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 439789,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1"
-      },
-      "raw_titles": [
-        "刘恺威曾谈对杨幂的第一印象"
-      ],
-      "rank": 12,
-      "movie_rank": 3
+      "rank": 10,
+      "sports_rank": 7
     },
     {
       "title": "UP主拆解爆款AI代码动画",
@@ -213,14 +174,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 418042,
+      "hot_value": 613567,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "UP主拆解爆款AI代码动画"
       ],
-      "rank": 13,
+      "rank": 11,
       "movie_rank": 4
     },
     {
@@ -229,111 +190,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 418034,
+      "hot_value": 557777,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=4%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A39%E5%88%86%E5%8A%A8%E7%94%BB%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85"
       },
       "raw_titles": [
         "4万字拆解9分动画边缘行者"
       ],
-      "rank": 14,
+      "rank": 12,
       "movie_rank": 5
     },
     {
-      "title": "IG全球总决赛出征片",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 414408,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=IG%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%87%BA%E5%BE%81%E7%89%87"
-      },
-      "raw_titles": [
-        "IG全球总决赛出征片"
-      ],
-      "rank": 15,
-      "sports_rank": 10
-    },
-    {
-      "title": "詹姆斯致命封盖",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 396000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E8%87%B4%E5%91%BD%E5%B0%81%E7%9B%96&sa=fyb_news"
-      },
-      "raw_titles": [
-        "詹姆斯致命封盖"
-      ],
-      "rank": 16,
-      "sports_rank": 11
-    },
-    {
-      "title": "詹姆斯布朗复刻詹韦连线",
+      "title": "雷霆马刺大冲突",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 319766,
+      "hot_value": 553616,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B8%83%E6%9C%97%E5%A4%8D%E5%88%BB%E8%A9%B9%E9%9F%A6%E8%BF%9E%E7%BA%BF"
+        "微博": "https://s.weibo.com/weibo?q=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81"
       },
       "raw_titles": [
-        "詹姆斯布朗复刻詹韦连线"
+        "雷霆马刺大冲突"
       ],
-      "rank": 17,
-      "sports_rank": 12
+      "rank": 13,
+      "sports_rank": 8
     },
     {
-      "title": "国台办回应周杰伦被“台独”扣帽子",
+      "title": "GTA6预告片有哪些有趣的细节",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 484625,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=GTA6%E9%A2%84%E5%91%8A%E7%89%87%E6%9C%89%E5%93%AA%E4%BA%9B%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BB%86%E8%8A%82"
+      },
+      "raw_titles": [
+        "GTA6预告片有哪些有趣的细节"
+      ],
+      "rank": 14,
+      "movie_rank": 6
+    },
+    {
+      "title": "刘恺威曾谈对杨幂的第一印象",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 483420,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1"
+      },
+      "raw_titles": [
+        "刘恺威曾谈对杨幂的第一印象"
+      ],
+      "rank": 15,
+      "movie_rank": 7
+    },
+    {
+      "title": "樊振东直言分不清真球迷与流量党",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 471647,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9B%B4%E8%A8%80%E5%88%86%E4%B8%8D%E6%B8%85%E7%9C%9F%E7%90%83%E8%BF%B7%E4%B8%8E%E6%B5%81%E9%87%8F%E5%85%9A"
+      },
+      "raw_titles": [
+        "樊振东直言分不清真球迷与流量党"
+      ],
+      "rank": 16,
+      "sports_rank": 9
+    },
+    {
+      "title": "国台办点赞周杰伦",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 306000,
+      "hot_value": 450000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A2%AB%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E6%89%A3%E5%B8%BD%E5%AD%90&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E7%82%B9%E8%B5%9E%E5%91%A8%E6%9D%B0%E4%BC%A6&sa=fyb_news"
       },
       "raw_titles": [
-        "国台办回应周杰伦被“台独”扣帽子"
+        "国台办点赞周杰伦"
       ],
-      "rank": 18,
-      "movie_rank": 6
-    },
-    {
-      "title": "C罗255欧罚款是怎么算出来的",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 304557,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97255%E6%AC%A7%E7%BD%9A%E6%AC%BE%E6%98%AF%E6%80%8E%E4%B9%88%E7%AE%97%E5%87%BA%E6%9D%A5%E7%9A%84"
-      },
-      "raw_titles": [
-        "C罗255欧罚款是怎么算出来的"
-      ],
-      "rank": 19,
-      "sports_rank": 13
-    },
-    {
-      "title": "如何评价本届金鸡奖提名名单",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 292250,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9C%AC%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95"
-      },
-      "raw_titles": [
-        "如何评价本届金鸡奖提名名单"
-      ],
-      "rank": 20,
-      "movie_rank": 7
+      "rank": 17,
+      "movie_rank": 8
     },
     {
       "title": "马刺雷霆爆发大面积冲突",
@@ -341,15 +286,79 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 288000,
+      "hot_value": 414000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%A9%AC%E5%88%BA%E9%9B%B7%E9%9C%86%E7%88%86%E5%8F%91%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%86%B2%E7%AA%81&sa=fyb_news"
       },
       "raw_titles": [
         "马刺雷霆爆发大面积冲突"
       ],
+      "rank": 18,
+      "sports_rank": 10
+    },
+    {
+      "title": "肖战演唱会门票25万元？造谣者被拘",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 405000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A825%E4%B8%87%E5%85%83%EF%BC%9F%E9%80%A0%E8%B0%A3%E8%80%85%E8%A2%AB%E6%8B%98&sa=fyb_news"
+      },
+      "raw_titles": [
+        "肖战演唱会门票25万元？造谣者被拘"
+      ],
+      "rank": 19,
+      "movie_rank": 9
+    },
+    {
+      "title": "詹姆斯76人生涯首分",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 401529,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86"
+      },
+      "raw_titles": [
+        "詹姆斯76人生涯首分"
+      ],
+      "rank": 20,
+      "sports_rank": 11
+    },
+    {
+      "title": "律师谈肖战二开不退票",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 376445,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E8%82%96%E6%88%98%E4%BA%8C%E5%BC%80%E4%B8%8D%E9%80%80%E7%A5%A8"
+      },
+      "raw_titles": [
+        "律师谈肖战二开不退票"
+      ],
       "rank": 21,
-      "sports_rank": 14
+      "movie_rank": 10
+    },
+    {
+      "title": "国台办回应民进党当局拒绝张凌赫赴台",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 356793,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E6%8B%92%E7%BB%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0"
+      },
+      "raw_titles": [
+        "国台办回应民进党当局拒绝张凌赫赴台"
+      ],
+      "rank": 22,
+      "movie_rank": 11
     },
     {
       "title": "国台办回应张凌赫赴台交流被拒",
@@ -364,120 +373,8 @@
       "raw_titles": [
         "国台办回应张凌赫赴台交流被拒"
       ],
-      "rank": 22,
-      "movie_rank": 8
-    },
-    {
-      "title": "UP主自制动画 科学修仙",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 256415,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99"
-      },
-      "raw_titles": [
-        "UP主自制动画 科学修仙"
-      ],
       "rank": 23,
-      "movie_rank": 9
-    },
-    {
-      "title": "76人战胜尼克斯",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 244283,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=76%E4%BA%BA%E6%88%98%E8%83%9C%E5%B0%BC%E5%85%8B%E6%96%AF"
-      },
-      "raw_titles": [
-        "76人战胜尼克斯"
-      ],
-      "rank": 24,
-      "sports_rank": 15
-    },
-    {
-      "title": "易梦玲在巴黎行李被偷",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%A1%8C%E6%9D%8E%E8%A2%AB%E5%81%B7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "易梦玲在巴黎行李被偷"
-      ],
-      "rank": 25,
-      "sports_rank": 16
-    },
-    {
-      "title": "肖战刘铮亮和顾魏的区别",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 214214,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E5%92%8C%E9%A1%BE%E9%AD%8F%E7%9A%84%E5%8C%BA%E5%88%AB"
-      },
-      "raw_titles": [
-        "肖战刘铮亮和顾魏的区别"
-      ],
-      "rank": 26,
-      "movie_rank": 10
-    },
-    {
-      "title": "詹姆斯回击尼克斯球迷",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 181438,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%87%BB%E5%B0%BC%E5%85%8B%E6%96%AF%E7%90%83%E8%BF%B7"
-      },
-      "raw_titles": [
-        "詹姆斯回击尼克斯球迷"
-      ],
-      "rank": 27,
-      "sports_rank": 17
-    },
-    {
-      "title": "王一博是istp",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 172286,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AFistp"
-      },
-      "raw_titles": [
-        "王一博是istp"
-      ],
-      "rank": 28,
-      "movie_rank": 11
-    },
-    {
-      "title": "詹姆斯罚球遭尼克斯球迷嘘声针对",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 137988,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%BD%9A%E7%90%83%E9%81%AD%E5%B0%BC%E5%85%8B%E6%96%AF%E7%90%83%E8%BF%B7%E5%98%98%E5%A3%B0%E9%92%88%E5%AF%B9"
-      },
-      "raw_titles": [
-        "詹姆斯罚球遭尼克斯球迷嘘声针对"
-      ],
-      "rank": 29,
-      "sports_rank": 18
+      "movie_rank": 12
     },
     {
       "title": "网传时尚芭莎白鹿开毯杨幂压轴",
@@ -485,47 +382,127 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 137897,
+      "hot_value": 260021,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E7%99%BD%E9%B9%BF%E5%BC%80%E6%AF%AF%E6%9D%A8%E5%B9%82%E5%8E%8B%E8%BD%B4"
       },
       "raw_titles": [
         "网传时尚芭莎白鹿开毯杨幂压轴"
       ],
-      "rank": 30,
-      "movie_rank": 12
+      "rank": 24,
+      "movie_rank": 13
     },
     {
-      "title": "球迷为樊振东发声",
+      "title": "詹姆斯布朗复刻詹韦连线",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 137151,
+      "hot_value": 258215,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%90%83%E8%BF%B7%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E5%A3%B0"
+        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B8%83%E6%9C%97%E5%A4%8D%E5%88%BB%E8%A9%B9%E9%9F%A6%E8%BF%9E%E7%BA%BF"
       },
       "raw_titles": [
-        "球迷为樊振东发声"
+        "詹姆斯布朗复刻詹韦连线"
+      ],
+      "rank": 25,
+      "sports_rank": 12
+    },
+    {
+      "title": "肖战刘铮亮和顾魏的区别",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 204361,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E5%92%8C%E9%A1%BE%E9%AD%8F%E7%9A%84%E5%8C%BA%E5%88%AB"
+      },
+      "raw_titles": [
+        "肖战刘铮亮和顾魏的区别"
+      ],
+      "rank": 26,
+      "movie_rank": 14
+    },
+    {
+      "title": "76人战胜尼克斯",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 198966,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=76%E4%BA%BA%E6%88%98%E8%83%9C%E5%B0%BC%E5%85%8B%E6%96%AF"
+      },
+      "raw_titles": [
+        "76人战胜尼克斯"
+      ],
+      "rank": 27,
+      "sports_rank": 13
+    },
+    {
+      "title": "C罗失点又失空门",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 185447,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A4%B1%E7%82%B9%E5%8F%88%E5%A4%B1%E7%A9%BA%E9%97%A8"
+      },
+      "raw_titles": [
+        "C罗失点又失空门"
+      ],
+      "rank": 28,
+      "sports_rank": 14
+    },
+    {
+      "title": "易梦玲在巴黎行李被偷",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 153000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%A1%8C%E6%9D%8E%E8%A2%AB%E5%81%B7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "易梦玲在巴黎行李被偷"
+      ],
+      "rank": 29,
+      "sports_rank": 15
+    },
+    {
+      "title": "又一部获奖小说被质疑由AI代笔",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E9%83%A8%E8%8E%B7%E5%A5%96%E5%B0%8F%E8%AF%B4%E8%A2%AB%E8%B4%A8%E7%96%91%E7%94%B1AI%E4%BB%A3%E7%AC%94&sa=fyb_news"
+      },
+      "raw_titles": [
+        "又一部获奖小说被质疑由AI代笔"
+      ],
+      "rank": 30,
+      "movie_rank": 15
+    },
+    {
+      "title": "詹姆斯致命封盖",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 45000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E8%87%B4%E5%91%BD%E5%B0%81%E7%9B%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "詹姆斯致命封盖"
       ],
       "rank": 31,
-      "sports_rank": 19
-    },
-    {
-      "title": "詹姆斯第24季历史首人",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 125317,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%AC%AC24%E5%AD%A3%E5%8E%86%E5%8F%B2%E9%A6%96%E4%BA%BA"
-      },
-      "raw_titles": [
-        "詹姆斯第24季历史首人"
-      ],
-      "rank": 32,
-      "sports_rank": 20
+      "sports_rank": 16
     },
     {
       "title": "赵心童遭逆转爆冷无缘32强",
@@ -533,15 +510,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5%E9%81%AD%E9%80%86%E8%BD%AC%E7%88%86%E5%86%B7%E6%97%A0%E7%BC%9832%E5%BC%BA&sa=fyb_news"
       },
       "raw_titles": [
         "赵心童遭逆转爆冷无缘32强"
       ],
-      "rank": 33,
-      "movie_rank": 13
+      "rank": 32,
+      "movie_rank": 16
     }
   ],
   "sports": [
@@ -549,11 +526,13 @@
       "title": "NBA揭幕战76人击败尼克斯",
       "category": "体育",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 11463745,
+      "hot_value": 12430874,
       "urls": {
-        "抖音": "https://www.douyin.com/search/NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF"
+        "抖音": "https://www.douyin.com/search/NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF"
       },
       "raw_titles": [
         "NBA揭幕战76人击败尼克斯"
@@ -568,7 +547,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 10324938,
+      "hot_value": 9735181,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E4%3A2%E5%B7%B4%E8%90%A8",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E9%BB%8E4-2%E5%B7%B4%E8%90%A8"
@@ -585,7 +564,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8317826,
+      "hot_value": 9065626,
       "urls": {
         "抖音": "https://www.douyin.com/search/NBA%E6%B4%BB%E5%A1%9E121%3A113%E9%80%86%E8%BD%AC%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA"
       },
@@ -601,7 +580,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7647432,
+      "hot_value": 7662848,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E5%8F%AA%E8%A6%81%E8%B7%91%E5%BE%97%E5%8A%A8%E5%B0%B1%E4%B8%8D%E4%BC%9A%E9%80%80%E5%BD%B9"
       },
@@ -612,61 +591,20 @@
       "sports_rank": 4
     },
     {
-      "title": "樊振东发文抵制偷拍",
+      "title": "徐静雨说詹姆斯王者归来",
       "category": "体育",
       "sources": [
-        "微博",
-        "微博",
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 2495536,
+      "hot_value": 3678958,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6%E5%81%B7%E6%8B%8D",
-        "百度": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6%E5%81%B7%E6%8B%8D&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%B4%E8%A9%B9%E5%A7%86%E6%96%AF%E7%8E%8B%E8%80%85%E5%BD%92%E6%9D%A5"
       },
       "raw_titles": [
-        "樊振东发文抵制偷拍"
+        "徐静雨说詹姆斯王者归来"
       ],
       "rank": 6,
       "sports_rank": 5
-    },
-    {
-      "title": "詹姆斯76人生涯首分",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度",
-        "哔哩哔哩"
-      ],
-      "hot_value": 720422,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86",
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86"
-      },
-      "raw_titles": [
-        "詹姆斯76人生涯首分"
-      ],
-      "rank": 8,
-      "sports_rank": 6
-    },
-    {
-      "title": "C罗失点又失空门",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "哔哩哔哩"
-      ],
-      "hot_value": 696149,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A4%B1%E7%82%B9%E5%8F%88%E5%A4%B1%E7%A9%BA%E9%97%A8",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%A4%B1%E7%82%B9%E5%8F%88%E5%A4%B1%E7%A9%BA%E9%97%A8"
-      },
-      "raw_titles": [
-        "C罗失点又失空门"
-      ],
-      "rank": 9,
-      "sports_rank": 7
     },
     {
       "title": "巴萨11连胜如何遭巴黎终结",
@@ -674,31 +612,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 471920,
+      "hot_value": 652662,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%90%A811%E8%BF%9E%E8%83%9C%E5%A6%82%E4%BD%95%E9%81%AD%E5%B7%B4%E9%BB%8E%E7%BB%88%E7%BB%93"
       },
       "raw_titles": [
         "巴萨11连胜如何遭巴黎终结"
       ],
-      "rank": 10,
-      "sports_rank": 8
-    },
-    {
-      "title": "雷霆马刺大冲突",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 468434,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81"
-      },
-      "raw_titles": [
-        "雷霆马刺大冲突"
-      ],
-      "rank": 11,
-      "sports_rank": 9
+      "rank": 9,
+      "sports_rank": 6
     },
     {
       "title": "IG全球总决赛出征片",
@@ -706,30 +628,78 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 414408,
+      "hot_value": 634546,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=IG%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%87%BA%E5%BE%81%E7%89%87"
       },
       "raw_titles": [
         "IG全球总决赛出征片"
       ],
-      "rank": 15,
-      "sports_rank": 10
+      "rank": 10,
+      "sports_rank": 7
     },
     {
-      "title": "詹姆斯致命封盖",
+      "title": "雷霆马刺大冲突",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 553616,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81"
+      },
+      "raw_titles": [
+        "雷霆马刺大冲突"
+      ],
+      "rank": 13,
+      "sports_rank": 8
+    },
+    {
+      "title": "樊振东直言分不清真球迷与流量党",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 471647,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9B%B4%E8%A8%80%E5%88%86%E4%B8%8D%E6%B8%85%E7%9C%9F%E7%90%83%E8%BF%B7%E4%B8%8E%E6%B5%81%E9%87%8F%E5%85%9A"
+      },
+      "raw_titles": [
+        "樊振东直言分不清真球迷与流量党"
+      ],
+      "rank": 16,
+      "sports_rank": 9
+    },
+    {
+      "title": "马刺雷霆爆发大面积冲突",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 414000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E8%87%B4%E5%91%BD%E5%B0%81%E7%9B%96&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E9%A9%AC%E5%88%BA%E9%9B%B7%E9%9C%86%E7%88%86%E5%8F%91%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%86%B2%E7%AA%81&sa=fyb_news"
       },
       "raw_titles": [
-        "詹姆斯致命封盖"
+        "马刺雷霆爆发大面积冲突"
       ],
-      "rank": 16,
+      "rank": 18,
+      "sports_rank": 10
+    },
+    {
+      "title": "詹姆斯76人生涯首分",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 401529,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86"
+      },
+      "raw_titles": [
+        "詹姆斯76人生涯首分"
+      ],
+      "rank": 20,
       "sports_rank": 11
     },
     {
@@ -738,47 +708,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 319766,
+      "hot_value": 258215,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B8%83%E6%9C%97%E5%A4%8D%E5%88%BB%E8%A9%B9%E9%9F%A6%E8%BF%9E%E7%BA%BF"
       },
       "raw_titles": [
         "詹姆斯布朗复刻詹韦连线"
       ],
-      "rank": 17,
+      "rank": 25,
       "sports_rank": 12
-    },
-    {
-      "title": "C罗255欧罚款是怎么算出来的",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 304557,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97255%E6%AC%A7%E7%BD%9A%E6%AC%BE%E6%98%AF%E6%80%8E%E4%B9%88%E7%AE%97%E5%87%BA%E6%9D%A5%E7%9A%84"
-      },
-      "raw_titles": [
-        "C罗255欧罚款是怎么算出来的"
-      ],
-      "rank": 19,
-      "sports_rank": 13
-    },
-    {
-      "title": "马刺雷霆爆发大面积冲突",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 288000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%A9%AC%E5%88%BA%E9%9B%B7%E9%9C%86%E7%88%86%E5%8F%91%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%86%B2%E7%AA%81&sa=fyb_news"
-      },
-      "raw_titles": [
-        "马刺雷霆爆发大面积冲突"
-      ],
-      "rank": 21,
-      "sports_rank": 14
     },
     {
       "title": "76人战胜尼克斯",
@@ -786,15 +724,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 244283,
+      "hot_value": 198966,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=76%E4%BA%BA%E6%88%98%E8%83%9C%E5%B0%BC%E5%85%8B%E6%96%AF"
       },
       "raw_titles": [
         "76人战胜尼克斯"
       ],
-      "rank": 24,
-      "sports_rank": 15
+      "rank": 27,
+      "sports_rank": 13
+    },
+    {
+      "title": "C罗失点又失空门",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 185447,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A4%B1%E7%82%B9%E5%8F%88%E5%A4%B1%E7%A9%BA%E9%97%A8"
+      },
+      "raw_titles": [
+        "C罗失点又失空门"
+      ],
+      "rank": 28,
+      "sports_rank": 14
     },
     {
       "title": "易梦玲在巴黎行李被偷",
@@ -802,79 +756,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 225000,
+      "hot_value": 153000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%A1%8C%E6%9D%8E%E8%A2%AB%E5%81%B7&sa=fyb_news"
       },
       "raw_titles": [
         "易梦玲在巴黎行李被偷"
       ],
-      "rank": 25,
-      "sports_rank": 16
-    },
-    {
-      "title": "詹姆斯回击尼克斯球迷",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 181438,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9B%9E%E5%87%BB%E5%B0%BC%E5%85%8B%E6%96%AF%E7%90%83%E8%BF%B7"
-      },
-      "raw_titles": [
-        "詹姆斯回击尼克斯球迷"
-      ],
-      "rank": 27,
-      "sports_rank": 17
-    },
-    {
-      "title": "詹姆斯罚球遭尼克斯球迷嘘声针对",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 137988,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%BD%9A%E7%90%83%E9%81%AD%E5%B0%BC%E5%85%8B%E6%96%AF%E7%90%83%E8%BF%B7%E5%98%98%E5%A3%B0%E9%92%88%E5%AF%B9"
-      },
-      "raw_titles": [
-        "詹姆斯罚球遭尼克斯球迷嘘声针对"
-      ],
       "rank": 29,
-      "sports_rank": 18
+      "sports_rank": 15
     },
     {
-      "title": "球迷为樊振东发声",
+      "title": "詹姆斯致命封盖",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 137151,
+      "hot_value": 45000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%90%83%E8%BF%B7%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E5%A3%B0"
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E8%87%B4%E5%91%BD%E5%B0%81%E7%9B%96&sa=fyb_news"
       },
       "raw_titles": [
-        "球迷为樊振东发声"
+        "詹姆斯致命封盖"
       ],
       "rank": 31,
-      "sports_rank": 19
-    },
-    {
-      "title": "詹姆斯第24季历史首人",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 125317,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%AC%AC24%E5%AD%A3%E5%8E%86%E5%8F%B2%E9%A6%96%E4%BA%BA"
-      },
-      "raw_titles": [
-        "詹姆斯第24季历史首人"
-      ],
-      "rank": 32,
-      "sports_rank": 20
+      "sports_rank": 16
     }
   ],
   "movies": [
@@ -884,7 +790,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7710107,
+      "hot_value": 7693406,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%B0%8F%E5%92%AA%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96"
       },
@@ -900,7 +806,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 948544,
+      "hot_value": 899166,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8F%AF%E5%BF%83%E6%9F%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA"
       },
@@ -911,19 +817,19 @@
       "movie_rank": 2
     },
     {
-      "title": "刘恺威曾谈对杨幂的第一印象",
+      "title": "沙丘3国内定档",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 439789,
+      "hot_value": 845612,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B2%99%E4%B8%983%E5%9B%BD%E5%86%85%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
-        "刘恺威曾谈对杨幂的第一印象"
+        "沙丘3国内定档"
       ],
-      "rank": 12,
+      "rank": 8,
       "movie_rank": 3
     },
     {
@@ -932,14 +838,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 418042,
+      "hot_value": 613567,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "UP主拆解爆款AI代码动画"
       ],
-      "rank": 13,
+      "rank": 11,
       "movie_rank": 4
     },
     {
@@ -948,47 +854,111 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 418034,
+      "hot_value": 557777,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=4%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A39%E5%88%86%E5%8A%A8%E7%94%BB%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85"
       },
       "raw_titles": [
         "4万字拆解9分动画边缘行者"
       ],
-      "rank": 14,
+      "rank": 12,
       "movie_rank": 5
     },
     {
-      "title": "国台办回应周杰伦被“台独”扣帽子",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 306000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A2%AB%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E6%89%A3%E5%B8%BD%E5%AD%90&sa=fyb_news"
-      },
-      "raw_titles": [
-        "国台办回应周杰伦被“台独”扣帽子"
-      ],
-      "rank": 18,
-      "movie_rank": 6
-    },
-    {
-      "title": "如何评价本届金鸡奖提名名单",
+      "title": "GTA6预告片有哪些有趣的细节",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 292250,
+      "hot_value": 484625,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9C%AC%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=GTA6%E9%A2%84%E5%91%8A%E7%89%87%E6%9C%89%E5%93%AA%E4%BA%9B%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BB%86%E8%8A%82"
       },
       "raw_titles": [
-        "如何评价本届金鸡奖提名名单"
+        "GTA6预告片有哪些有趣的细节"
       ],
-      "rank": 20,
+      "rank": 14,
+      "movie_rank": 6
+    },
+    {
+      "title": "刘恺威曾谈对杨幂的第一印象",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 483420,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1"
+      },
+      "raw_titles": [
+        "刘恺威曾谈对杨幂的第一印象"
+      ],
+      "rank": 15,
       "movie_rank": 7
+    },
+    {
+      "title": "国台办点赞周杰伦",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 450000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E7%82%B9%E8%B5%9E%E5%91%A8%E6%9D%B0%E4%BC%A6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国台办点赞周杰伦"
+      ],
+      "rank": 17,
+      "movie_rank": 8
+    },
+    {
+      "title": "肖战演唱会门票25万元？造谣者被拘",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 405000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A825%E4%B8%87%E5%85%83%EF%BC%9F%E9%80%A0%E8%B0%A3%E8%80%85%E8%A2%AB%E6%8B%98&sa=fyb_news"
+      },
+      "raw_titles": [
+        "肖战演唱会门票25万元？造谣者被拘"
+      ],
+      "rank": 19,
+      "movie_rank": 9
+    },
+    {
+      "title": "律师谈肖战二开不退票",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 376445,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E8%82%96%E6%88%98%E4%BA%8C%E5%BC%80%E4%B8%8D%E9%80%80%E7%A5%A8"
+      },
+      "raw_titles": [
+        "律师谈肖战二开不退票"
+      ],
+      "rank": 21,
+      "movie_rank": 10
+    },
+    {
+      "title": "国台办回应民进党当局拒绝张凌赫赴台",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 356793,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E6%8B%92%E7%BB%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0"
+      },
+      "raw_titles": [
+        "国台办回应民进党当局拒绝张凌赫赴台"
+      ],
+      "rank": 22,
+      "movie_rank": 11
     },
     {
       "title": "国台办回应张凌赫赴台交流被拒",
@@ -1003,56 +973,8 @@
       "raw_titles": [
         "国台办回应张凌赫赴台交流被拒"
       ],
-      "rank": 22,
-      "movie_rank": 8
-    },
-    {
-      "title": "UP主自制动画 科学修仙",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 256415,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99"
-      },
-      "raw_titles": [
-        "UP主自制动画 科学修仙"
-      ],
       "rank": 23,
-      "movie_rank": 9
-    },
-    {
-      "title": "肖战刘铮亮和顾魏的区别",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 214214,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E5%92%8C%E9%A1%BE%E9%AD%8F%E7%9A%84%E5%8C%BA%E5%88%AB"
-      },
-      "raw_titles": [
-        "肖战刘铮亮和顾魏的区别"
-      ],
-      "rank": 26,
-      "movie_rank": 10
-    },
-    {
-      "title": "王一博是istp",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 172286,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AFistp"
-      },
-      "raw_titles": [
-        "王一博是istp"
-      ],
-      "rank": 28,
-      "movie_rank": 11
+      "movie_rank": 12
     },
     {
       "title": "网传时尚芭莎白鹿开毯杨幂压轴",
@@ -1060,15 +982,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 137897,
+      "hot_value": 260021,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E7%99%BD%E9%B9%BF%E5%BC%80%E6%AF%AF%E6%9D%A8%E5%B9%82%E5%8E%8B%E8%BD%B4"
       },
       "raw_titles": [
         "网传时尚芭莎白鹿开毯杨幂压轴"
       ],
+      "rank": 24,
+      "movie_rank": 13
+    },
+    {
+      "title": "肖战刘铮亮和顾魏的区别",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 204361,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E5%92%8C%E9%A1%BE%E9%AD%8F%E7%9A%84%E5%8C%BA%E5%88%AB"
+      },
+      "raw_titles": [
+        "肖战刘铮亮和顾魏的区别"
+      ],
+      "rank": 26,
+      "movie_rank": 14
+    },
+    {
+      "title": "又一部获奖小说被质疑由AI代笔",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 144000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E9%83%A8%E8%8E%B7%E5%A5%96%E5%B0%8F%E8%AF%B4%E8%A2%AB%E8%B4%A8%E7%96%91%E7%94%B1AI%E4%BB%A3%E7%AC%94&sa=fyb_news"
+      },
+      "raw_titles": [
+        "又一部获奖小说被质疑由AI代笔"
+      ],
       "rank": 30,
-      "movie_rank": 12
+      "movie_rank": 15
     },
     {
       "title": "赵心童遭逆转爆冷无缘32强",
@@ -1076,15 +1030,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 18000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5%E9%81%AD%E9%80%86%E8%BD%AC%E7%88%86%E5%86%B7%E6%97%A0%E7%BC%9832%E5%BC%BA&sa=fyb_news"
       },
       "raw_titles": [
         "赵心童遭逆转爆冷无缘32强"
       ],
-      "rank": 33,
-      "movie_rank": 13
+      "rank": 32,
+      "movie_rank": 16
     }
   ]
 }
