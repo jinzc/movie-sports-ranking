@@ -1,9 +1,25 @@
 {
-  "update_time": "2026-10-25 12:00:49",
-  "total": 21,
-  "sports_count": 6,
-  "movie_count": 15,
+  "update_time": "2026-10-25 13:00:50",
+  "total": 25,
+  "sports_count": 7,
+  "movie_count": 18,
   "all": [
+    {
+      "title": "火箭险胜老鹰豪取三连胜",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 12111843,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD%E9%99%A9%E8%83%9C%E8%80%81%E9%B9%B0%E8%B1%AA%E5%8F%96%E4%B8%89%E8%BF%9E%E8%83%9C"
+      },
+      "raw_titles": [
+        "火箭险胜老鹰豪取三连胜"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "切尔西0:2热刺",
       "category": "体育",
@@ -11,7 +27,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 9745641,
+      "hot_value": 9440532,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF0%3A2%E7%83%AD%E5%88%BA",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%BA%E5%88%87%E5%B0%94%E8%A5%BF0-2%E7%83%AD%E5%88%BA"
@@ -19,8 +35,8 @@
       "raw_titles": [
         "切尔西0:2热刺"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "李荣浩衡阳演唱会",
@@ -28,15 +44,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7838134,
+      "hot_value": 7801674,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%A1%A1%E9%98%B3%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "李荣浩衡阳演唱会"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
+    },
+    {
+      "title": "蔡徐坤新加坡演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7770477,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "蔡徐坤新加坡演唱会"
+      ],
+      "rank": 4,
+      "movie_rank": 2
     },
     {
       "title": "请查收迪丽热巴的神之6秒",
@@ -44,15 +76,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7735796,
+      "hot_value": 7728704,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E7%A5%9E%E4%B9%8B6%E7%A7%92"
       },
       "raw_titles": [
         "请查收迪丽热巴的神之6秒"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 5,
+      "movie_rank": 3
     },
     {
       "title": "王者万象棋棋盘变秀场",
@@ -60,30 +92,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7656629,
+      "hot_value": 7653237,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%A3%8B%E7%9B%98%E5%8F%98%E7%A7%80%E5%9C%BA"
       },
       "raw_titles": [
         "王者万象棋棋盘变秀场"
       ],
-      "rank": 4,
-      "sports_rank": 2
-    },
-    {
-      "title": "王一楠嫁金钗又横扫祠堂了",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7652750,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E4%B8%80%E6%A5%A0%E5%AB%81%E9%87%91%E9%92%97%E5%8F%88%E6%A8%AA%E6%89%AB%E7%A5%A0%E5%A0%82%E4%BA%86"
-      },
-      "raw_titles": [
-        "王一楠嫁金钗又横扫祠堂了"
-      ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 3
     },
     {
@@ -93,7 +109,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 5019100,
+      "hot_value": 5456664,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD"
@@ -101,24 +117,8 @@
       "raw_titles": [
         "日剧Vivant抹黑中国"
       ],
-      "rank": 6,
-      "movie_rank": 3
-    },
-    {
-      "title": "七旬大爷用手回收火箭",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1181341,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%83%E6%97%AC%E5%A4%A7%E7%88%B7%E7%94%A8%E6%89%8B%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD"
-      },
-      "raw_titles": [
-        "七旬大爷用手回收火箭"
-      ],
       "rank": 7,
-      "sports_rank": 4
+      "movie_rank": 4
     },
     {
       "title": "俄乌冲突大结局要来了吗",
@@ -126,7 +126,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1181328,
+      "hot_value": 1411355,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97"
       },
@@ -134,23 +134,23 @@
         "俄乌冲突大结局要来了吗"
       ],
       "rank": 8,
-      "movie_rank": 4
+      "movie_rank": 5
     },
     {
-      "title": "F1美国大奖赛安东内利夺杆",
+      "title": "七旬大爷用手回收火箭",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 988016,
+      "hot_value": 1381533,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%A5%96%E8%B5%9B%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E5%A4%BA%E6%9D%86"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%83%E6%97%AC%E5%A4%A7%E7%88%B7%E7%94%A8%E6%89%8B%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD"
       },
       "raw_titles": [
-        "F1美国大奖赛安东内利夺杆"
+        "七旬大爷用手回收火箭"
       ],
       "rank": 9,
-      "sports_rank": 5
+      "sports_rank": 4
     },
     {
       "title": "热火连败问题到底出在谁",
@@ -158,7 +158,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 770206,
+      "hot_value": 651835,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%81%AB%E8%BF%9E%E8%B4%A5%E9%97%AE%E9%A2%98%E5%88%B0%E5%BA%95%E5%87%BA%E5%9C%A8%E8%B0%81"
       },
@@ -166,25 +166,7 @@
         "热火连败问题到底出在谁"
       ],
       "rank": 10,
-      "sports_rank": 6
-    },
-    {
-      "title": "唐朝诡事录之蜀道开机了",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 664425,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%9C%80%E9%81%93%E5%BC%80%E6%9C%BA%E4%BA%86",
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%955%E3%80%8B%E5%BC%80%E6%9C%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "唐朝诡事录之蜀道开机了"
-      ],
-      "rank": 11,
-      "movie_rank": 5
+      "sports_rank": 5
     },
     {
       "title": "日剧把日军罪行嫁接给中国人",
@@ -193,7 +175,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 607627,
+      "hot_value": 604870,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7%E6%8A%8A%E6%97%A5%E5%86%9B%E7%BD%AA%E8%A1%8C%E5%AB%81%E6%8E%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA",
         "百度": "https://m.baidu.com/s?word=%E6%97%A5%E5%89%A7%E3%80%8AVivant%E3%80%8B%E6%8A%8A%E6%97%A5%E5%86%9B%E7%BD%AA%E8%A1%8C%E5%AB%81%E6%8E%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news"
@@ -201,24 +183,24 @@
       "raw_titles": [
         "日剧把日军罪行嫁接给中国人"
       ],
-      "rank": 12,
+      "rank": 11,
       "movie_rank": 6
     },
     {
-      "title": "热播日剧公开抹黑中国",
-      "category": "影视",
+      "title": "谷爱凌时隔10年再到苏州逛园林买旗袍",
+      "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 414000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%83%AD%E6%92%AD%E6%97%A5%E5%89%A7%E5%85%AC%E5%BC%80%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%97%B6%E9%9A%9410%E5%B9%B4%E5%86%8D%E5%88%B0%E8%8B%8F%E5%B7%9E%E9%80%9B%E5%9B%AD%E6%9E%97%E4%B9%B0%E6%97%97%E8%A2%8D&sa=fyb_news"
       },
       "raw_titles": [
-        "热播日剧公开抹黑中国"
+        "谷爱凌时隔10年再到苏州逛园林买旗袍"
       ],
-      "rank": 13,
-      "movie_rank": 7
+      "rank": 12,
+      "sports_rank": 6
     },
     {
       "title": "毛不易婚礼发言引网友争议",
@@ -226,31 +208,65 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 307824,
+      "hot_value": 380601,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
         "毛不易婚礼发言引网友争议"
       ],
-      "rank": 14,
-      "movie_rank": 8
+      "rank": 13,
+      "movie_rank": 7
     },
     {
-      "title": "品牌方回应肖战广告位只抢到12集",
+      "title": "迪丽热巴全平台爆出圈",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 286595,
+      "hot_value": 367772,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%81%E7%89%8C%E6%96%B9%E5%9B%9E%E5%BA%94%E8%82%96%E6%88%98%E5%B9%BF%E5%91%8A%E4%BD%8D%E5%8F%AA%E6%8A%A2%E5%88%B012%E9%9B%86"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%88%86%E5%87%BA%E5%9C%88"
       },
       "raw_titles": [
-        "品牌方回应肖战广告位只抢到12集"
+        "迪丽热巴全平台爆出圈"
+      ],
+      "rank": 14,
+      "movie_rank": 8
+    },
+    {
+      "title": "唐朝诡事录之蜀道开机了",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 262010,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%9C%80%E9%81%93%E5%BC%80%E6%9C%BA%E4%BA%86",
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%955%E3%80%8B%E5%BC%80%E6%9C%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "唐朝诡事录之蜀道开机了"
       ],
       "rank": 15,
       "movie_rank": 9
+    },
+    {
+      "title": "热播日剧公开抹黑中国",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 225000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%83%AD%E6%92%AD%E6%97%A5%E5%89%A7%E5%85%AC%E5%BC%80%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD&sa=fyb_news"
+      },
+      "raw_titles": [
+        "热播日剧公开抹黑中国"
+      ],
+      "rank": 16,
+      "movie_rank": 10
     },
     {
       "title": "新郎新娘回应毛不易婚礼发言",
@@ -258,28 +274,12 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 265156,
+      "hot_value": 204613,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%94%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80"
       },
       "raw_titles": [
         "新郎新娘回应毛不易婚礼发言"
-      ],
-      "rank": 16,
-      "movie_rank": 10
-    },
-    {
-      "title": "檀健次的四季灵感痛楼",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 259228,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E5%9B%9B%E5%AD%A3%E7%81%B5%E6%84%9F%E7%97%9B%E6%A5%BC"
-      },
-      "raw_titles": [
-        "檀健次的四季灵感痛楼"
       ],
       "rank": 17,
       "movie_rank": 11
@@ -290,7 +290,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 212392,
+      "hot_value": 203283,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E5%90%8C%E6%AC%BE%E7%B2%89%E5%BA%95%E6%96%AD%E8%B4%A7"
       },
@@ -299,6 +299,22 @@
       ],
       "rank": 18,
       "movie_rank": 12
+    },
+    {
+      "title": "品牌方回应肖战广告位只抢到12集",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 202053,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%81%E7%89%8C%E6%96%B9%E5%9B%9E%E5%BA%94%E8%82%96%E6%88%98%E5%B9%BF%E5%91%8A%E4%BD%8D%E5%8F%AA%E6%8A%A2%E5%88%B012%E9%9B%86"
+      },
+      "raw_titles": [
+        "品牌方回应肖战广告位只抢到12集"
+      ],
+      "rank": 19,
+      "movie_rank": 13
     },
     {
       "title": "首部拿到龙标AI电影上映 票房已40万",
@@ -313,24 +329,56 @@
       "raw_titles": [
         "首部拿到龙标AI电影上映 票房已40万"
       ],
-      "rank": 19,
-      "movie_rank": 13
+      "rank": 20,
+      "movie_rank": 14
     },
     {
-      "title": "迪丽热巴蝴蝶飞走是巧合",
+      "title": "陈奕迅女儿称分手后情绪低落",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 174656,
+      "hot_value": 177865,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E9%A3%9E%E8%B5%B0%E6%98%AF%E5%B7%A7%E5%90%88"
+        "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E7%A7%B0%E5%88%86%E6%89%8B%E5%90%8E%E6%83%85%E7%BB%AA%E4%BD%8E%E8%90%BD"
       },
       "raw_titles": [
-        "迪丽热巴蝴蝶飞走是巧合"
+        "陈奕迅女儿称分手后情绪低落"
       ],
-      "rank": 20,
-      "movie_rank": 14
+      "rank": 21,
+      "movie_rank": 15
+    },
+    {
+      "title": "76人三连胜开局",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 142252,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=76%E4%BA%BA%E4%B8%89%E8%BF%9E%E8%83%9C%E5%BC%80%E5%B1%80"
+      },
+      "raw_titles": [
+        "76人三连胜开局"
+      ],
+      "rank": 22,
+      "sports_rank": 7
+    },
+    {
+      "title": "檀健次的四季灵感痛楼",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 133342,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E5%9B%9B%E5%AD%A3%E7%81%B5%E6%84%9F%E7%97%9B%E6%A5%BC"
+      },
+      "raw_titles": [
+        "檀健次的四季灵感痛楼"
+      ],
+      "rank": 23,
+      "movie_rank": 16
     },
     {
       "title": "《嫁金钗》王一楠演技封神",
@@ -338,18 +386,50 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 108000,
+      "hot_value": 126000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E7%8E%8B%E4%B8%80%E6%A5%A0%E6%BC%94%E6%8A%80%E5%B0%81%E7%A5%9E&sa=fyb_news"
       },
       "raw_titles": [
         "《嫁金钗》王一楠演技封神"
       ],
-      "rank": 21,
-      "movie_rank": 15
+      "rank": 24,
+      "movie_rank": 17
+    },
+    {
+      "title": "东部战区发布台湾光复纪念日海报",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%B8%83%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%B5%B7%E6%8A%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "东部战区发布台湾光复纪念日海报"
+      ],
+      "rank": 25,
+      "movie_rank": 18
     }
   ],
   "sports": [
+    {
+      "title": "火箭险胜老鹰豪取三连胜",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 12111843,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD%E9%99%A9%E8%83%9C%E8%80%81%E9%B9%B0%E8%B1%AA%E5%8F%96%E4%B8%89%E8%BF%9E%E8%83%9C"
+      },
+      "raw_titles": [
+        "火箭险胜老鹰豪取三连胜"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "切尔西0:2热刺",
       "category": "体育",
@@ -357,7 +437,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 9745641,
+      "hot_value": 9440532,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF0%3A2%E7%83%AD%E5%88%BA",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%BA%E5%88%87%E5%B0%94%E8%A5%BF0-2%E7%83%AD%E5%88%BA"
@@ -365,8 +445,8 @@
       "raw_titles": [
         "切尔西0:2热刺"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "王者万象棋棋盘变秀场",
@@ -374,30 +454,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7656629,
+      "hot_value": 7653237,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%A3%8B%E7%9B%98%E5%8F%98%E7%A7%80%E5%9C%BA"
       },
       "raw_titles": [
         "王者万象棋棋盘变秀场"
       ],
-      "rank": 4,
-      "sports_rank": 2
-    },
-    {
-      "title": "王一楠嫁金钗又横扫祠堂了",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7652750,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8E%8B%E4%B8%80%E6%A5%A0%E5%AB%81%E9%87%91%E9%92%97%E5%8F%88%E6%A8%AA%E6%89%AB%E7%A5%A0%E5%A0%82%E4%BA%86"
-      },
-      "raw_titles": [
-        "王一楠嫁金钗又横扫祠堂了"
-      ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 3
     },
     {
@@ -406,31 +470,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1181341,
+      "hot_value": 1381533,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%83%E6%97%AC%E5%A4%A7%E7%88%B7%E7%94%A8%E6%89%8B%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD"
       },
       "raw_titles": [
         "七旬大爷用手回收火箭"
       ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "F1美国大奖赛安东内利夺杆",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 988016,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%A5%96%E8%B5%9B%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E5%A4%BA%E6%9D%86"
-      },
-      "raw_titles": [
-        "F1美国大奖赛安东内利夺杆"
-      ],
       "rank": 9,
-      "sports_rank": 5
+      "sports_rank": 4
     },
     {
       "title": "热火连败问题到底出在谁",
@@ -438,7 +486,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 770206,
+      "hot_value": 651835,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%81%AB%E8%BF%9E%E8%B4%A5%E9%97%AE%E9%A2%98%E5%88%B0%E5%BA%95%E5%87%BA%E5%9C%A8%E8%B0%81"
       },
@@ -446,7 +494,39 @@
         "热火连败问题到底出在谁"
       ],
       "rank": 10,
+      "sports_rank": 5
+    },
+    {
+      "title": "谷爱凌时隔10年再到苏州逛园林买旗袍",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 414000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%97%B6%E9%9A%9410%E5%B9%B4%E5%86%8D%E5%88%B0%E8%8B%8F%E5%B7%9E%E9%80%9B%E5%9B%AD%E6%9E%97%E4%B9%B0%E6%97%97%E8%A2%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "谷爱凌时隔10年再到苏州逛园林买旗袍"
+      ],
+      "rank": 12,
       "sports_rank": 6
+    },
+    {
+      "title": "76人三连胜开局",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 142252,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=76%E4%BA%BA%E4%B8%89%E8%BF%9E%E8%83%9C%E5%BC%80%E5%B1%80"
+      },
+      "raw_titles": [
+        "76人三连胜开局"
+      ],
+      "rank": 22,
+      "sports_rank": 7
     }
   ],
   "movies": [
@@ -456,15 +536,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7838134,
+      "hot_value": 7801674,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%A1%A1%E9%98%B3%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "李荣浩衡阳演唱会"
       ],
-      "rank": 2,
+      "rank": 3,
       "movie_rank": 1
+    },
+    {
+      "title": "蔡徐坤新加坡演唱会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7770477,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      "raw_titles": [
+        "蔡徐坤新加坡演唱会"
+      ],
+      "rank": 4,
+      "movie_rank": 2
     },
     {
       "title": "请查收迪丽热巴的神之6秒",
@@ -472,15 +568,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7735796,
+      "hot_value": 7728704,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E7%A5%9E%E4%B9%8B6%E7%A7%92"
       },
       "raw_titles": [
         "请查收迪丽热巴的神之6秒"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 5,
+      "movie_rank": 3
     },
     {
       "title": "日剧Vivant抹黑中国",
@@ -489,7 +585,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 5019100,
+      "hot_value": 5456664,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD"
@@ -497,8 +593,8 @@
       "raw_titles": [
         "日剧Vivant抹黑中国"
       ],
-      "rank": 6,
-      "movie_rank": 3
+      "rank": 7,
+      "movie_rank": 4
     },
     {
       "title": "俄乌冲突大结局要来了吗",
@@ -506,7 +602,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1181328,
+      "hot_value": 1411355,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97"
       },
@@ -514,24 +610,6 @@
         "俄乌冲突大结局要来了吗"
       ],
       "rank": 8,
-      "movie_rank": 4
-    },
-    {
-      "title": "唐朝诡事录之蜀道开机了",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 664425,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%9C%80%E9%81%93%E5%BC%80%E6%9C%BA%E4%BA%86",
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%955%E3%80%8B%E5%BC%80%E6%9C%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "唐朝诡事录之蜀道开机了"
-      ],
-      "rank": 11,
       "movie_rank": 5
     },
     {
@@ -541,7 +619,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 607627,
+      "hot_value": 604870,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7%E6%8A%8A%E6%97%A5%E5%86%9B%E7%BD%AA%E8%A1%8C%E5%AB%81%E6%8E%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA",
         "百度": "https://m.baidu.com/s?word=%E6%97%A5%E5%89%A7%E3%80%8AVivant%E3%80%8B%E6%8A%8A%E6%97%A5%E5%86%9B%E7%BD%AA%E8%A1%8C%E5%AB%81%E6%8E%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news"
@@ -549,24 +627,8 @@
       "raw_titles": [
         "日剧把日军罪行嫁接给中国人"
       ],
-      "rank": 12,
+      "rank": 11,
       "movie_rank": 6
-    },
-    {
-      "title": "热播日剧公开抹黑中国",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 414000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%83%AD%E6%92%AD%E6%97%A5%E5%89%A7%E5%85%AC%E5%BC%80%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD&sa=fyb_news"
-      },
-      "raw_titles": [
-        "热播日剧公开抹黑中国"
-      ],
-      "rank": 13,
-      "movie_rank": 7
     },
     {
       "title": "毛不易婚礼发言引网友争议",
@@ -574,31 +636,65 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 307824,
+      "hot_value": 380601,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
         "毛不易婚礼发言引网友争议"
       ],
-      "rank": 14,
-      "movie_rank": 8
+      "rank": 13,
+      "movie_rank": 7
     },
     {
-      "title": "品牌方回应肖战广告位只抢到12集",
+      "title": "迪丽热巴全平台爆出圈",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 286595,
+      "hot_value": 367772,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%93%81%E7%89%8C%E6%96%B9%E5%9B%9E%E5%BA%94%E8%82%96%E6%88%98%E5%B9%BF%E5%91%8A%E4%BD%8D%E5%8F%AA%E6%8A%A2%E5%88%B012%E9%9B%86"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%88%86%E5%87%BA%E5%9C%88"
       },
       "raw_titles": [
-        "品牌方回应肖战广告位只抢到12集"
+        "迪丽热巴全平台爆出圈"
+      ],
+      "rank": 14,
+      "movie_rank": 8
+    },
+    {
+      "title": "唐朝诡事录之蜀道开机了",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 262010,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%9C%80%E9%81%93%E5%BC%80%E6%9C%BA%E4%BA%86",
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%955%E3%80%8B%E5%BC%80%E6%9C%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "唐朝诡事录之蜀道开机了"
       ],
       "rank": 15,
       "movie_rank": 9
+    },
+    {
+      "title": "热播日剧公开抹黑中国",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 225000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%83%AD%E6%92%AD%E6%97%A5%E5%89%A7%E5%85%AC%E5%BC%80%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD&sa=fyb_news"
+      },
+      "raw_titles": [
+        "热播日剧公开抹黑中国"
+      ],
+      "rank": 16,
+      "movie_rank": 10
     },
     {
       "title": "新郎新娘回应毛不易婚礼发言",
@@ -606,28 +702,12 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 265156,
+      "hot_value": 204613,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%94%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80"
       },
       "raw_titles": [
         "新郎新娘回应毛不易婚礼发言"
-      ],
-      "rank": 16,
-      "movie_rank": 10
-    },
-    {
-      "title": "檀健次的四季灵感痛楼",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 259228,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E5%9B%9B%E5%AD%A3%E7%81%B5%E6%84%9F%E7%97%9B%E6%A5%BC"
-      },
-      "raw_titles": [
-        "檀健次的四季灵感痛楼"
       ],
       "rank": 17,
       "movie_rank": 11
@@ -638,7 +718,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 212392,
+      "hot_value": 203283,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E5%90%8C%E6%AC%BE%E7%B2%89%E5%BA%95%E6%96%AD%E8%B4%A7"
       },
@@ -647,6 +727,22 @@
       ],
       "rank": 18,
       "movie_rank": 12
+    },
+    {
+      "title": "品牌方回应肖战广告位只抢到12集",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 202053,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%81%E7%89%8C%E6%96%B9%E5%9B%9E%E5%BA%94%E8%82%96%E6%88%98%E5%B9%BF%E5%91%8A%E4%BD%8D%E5%8F%AA%E6%8A%A2%E5%88%B012%E9%9B%86"
+      },
+      "raw_titles": [
+        "品牌方回应肖战广告位只抢到12集"
+      ],
+      "rank": 19,
+      "movie_rank": 13
     },
     {
       "title": "首部拿到龙标AI电影上映 票房已40万",
@@ -661,24 +757,40 @@
       "raw_titles": [
         "首部拿到龙标AI电影上映 票房已40万"
       ],
-      "rank": 19,
-      "movie_rank": 13
+      "rank": 20,
+      "movie_rank": 14
     },
     {
-      "title": "迪丽热巴蝴蝶飞走是巧合",
+      "title": "陈奕迅女儿称分手后情绪低落",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 174656,
+      "hot_value": 177865,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E9%A3%9E%E8%B5%B0%E6%98%AF%E5%B7%A7%E5%90%88"
+        "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E7%A7%B0%E5%88%86%E6%89%8B%E5%90%8E%E6%83%85%E7%BB%AA%E4%BD%8E%E8%90%BD"
       },
       "raw_titles": [
-        "迪丽热巴蝴蝶飞走是巧合"
+        "陈奕迅女儿称分手后情绪低落"
       ],
-      "rank": 20,
-      "movie_rank": 14
+      "rank": 21,
+      "movie_rank": 15
+    },
+    {
+      "title": "檀健次的四季灵感痛楼",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 133342,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E5%9B%9B%E5%AD%A3%E7%81%B5%E6%84%9F%E7%97%9B%E6%A5%BC"
+      },
+      "raw_titles": [
+        "檀健次的四季灵感痛楼"
+      ],
+      "rank": 23,
+      "movie_rank": 16
     },
     {
       "title": "《嫁金钗》王一楠演技封神",
@@ -686,15 +798,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 108000,
+      "hot_value": 126000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E7%8E%8B%E4%B8%80%E6%A5%A0%E6%BC%94%E6%8A%80%E5%B0%81%E7%A5%9E&sa=fyb_news"
       },
       "raw_titles": [
         "《嫁金钗》王一楠演技封神"
       ],
-      "rank": 21,
-      "movie_rank": 15
+      "rank": 24,
+      "movie_rank": 17
+    },
+    {
+      "title": "东部战区发布台湾光复纪念日海报",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%B8%83%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%B5%B7%E6%8A%A5&sa=fyb_news"
+      },
+      "raw_titles": [
+        "东部战区发布台湾光复纪念日海报"
+      ],
+      "rank": 25,
+      "movie_rank": 18
     }
   ]
 }
