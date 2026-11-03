@@ -1,40 +1,62 @@
 {
-  "update_time": "2026-11-03 22:00:55",
-  "total": 25,
-  "sports_count": 9,
-  "movie_count": 16,
+  "update_time": "2026-11-03 23:00:55",
+  "total": 29,
+  "sports_count": 15,
+  "movie_count": 14,
   "all": [
+    {
+      "title": "CBA",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音",
+        "抖音"
+      ],
+      "hot_value": 15782038,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=CBA",
+        "抖音": "https://www.douyin.com/search/CBA%E5%B9%BF%E5%B7%9E93%3A100%E4%B8%8D%E6%95%8C%E8%BE%BD%E5%AE%81"
+      },
+      "raw_titles": [
+        "CBA"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "赵心童晋级斯诺克国锦赛八强",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10951944,
+      "hot_value": 10403096,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%99%8B%E7%BA%A7%E6%96%AF%E8%AF%BA%E5%85%8B%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%85%AB%E5%BC%BA"
       },
       "raw_titles": [
         "赵心童晋级斯诺克国锦赛八强"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
-      "title": "王楚钦3:0战胜林德",
+      "title": "王楚钦回应3比0林德",
       "category": "体育",
       "sources": [
+        "微博",
+        "微博",
         "抖音"
       ],
-      "hot_value": 9083264,
+      "hot_value": 9676780,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%9E%97%E5%BE%B7",
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A63%3A0%E6%88%98%E8%83%9C%E6%9E%97%E5%BE%B7"
       },
       "raw_titles": [
-        "王楚钦3:0战胜林德"
+        "王楚钦回应3比0林德"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "勇士逆转太阳",
@@ -42,15 +64,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8254194,
+      "hot_value": 8481375,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8B%87%E5%A3%AB%E9%80%86%E8%BD%AC%E5%A4%AA%E9%98%B3"
       },
       "raw_titles": [
         "勇士逆转太阳"
       ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "嫁金钗大结局信息量太大了",
@@ -58,14 +80,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7817438,
+      "hot_value": 7926126,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E5%A4%A7%E7%BB%93%E5%B1%80%E4%BF%A1%E6%81%AF%E9%87%8F%E5%A4%AA%E5%A4%A7%E4%BA%86"
       },
       "raw_titles": [
         "嫁金钗大结局信息量太大了"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 1
     },
     {
@@ -74,14 +96,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7773269,
+      "hot_value": 7756098,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E6%B3%BD%E5%8F%91%E5%B8%831103%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%BA%E4%BD%A0%E8%80%8C%E6%9D%A5"
       },
       "raw_titles": [
         "陈泽发布1103纪录片为你而来"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 2
     },
     {
@@ -90,64 +112,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7719841,
+      "hot_value": 7712616,
       "urls": {
         "抖音": "https://www.douyin.com/search/76%E4%BA%BA%E6%88%98%E8%83%9C%E5%85%AC%E7%89%9B%E8%8E%B7%E5%9B%9B%E8%BF%9E%E8%83%9C"
       },
       "raw_titles": [
         "76人战胜公牛获四连胜"
       ],
-      "rank": 6,
-      "sports_rank": 4
-    },
-    {
-      "title": "王楚钦vs林德",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "微博"
-      ],
-      "hot_value": 1251390,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%9E%97%E5%BE%B7"
-      },
-      "raw_titles": [
-        "王楚钦vs林德"
-      ],
       "rank": 7,
       "sports_rank": 5
     },
     {
-      "title": "盛李豪 洛杉矶奥运会",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 776263,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%9B%9B%E6%9D%8E%E8%B1%AA%20%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A"
-      },
-      "raw_titles": [
-        "盛李豪 洛杉矶奥运会"
-      ],
-      "rank": 8,
-      "sports_rank": 6
-    },
-    {
-      "title": "AI复刻超能勇士经典片头",
+      "title": "亚历山大砍43分",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 750920,
+      "hot_value": 2824989,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%8D%E5%88%BB%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E7%BB%8F%E5%85%B8%E7%89%87%E5%A4%B4"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E7%A0%8D43%E5%88%86"
       },
       "raw_titles": [
-        "AI复刻超能勇士经典片头"
+        "亚历山大砍43分"
       ],
-      "rank": 9,
-      "sports_rank": 7
+      "rank": 8,
+      "sports_rank": 6
     },
     {
       "title": "Leo级大会员吴磊入驻B站",
@@ -155,31 +144,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 737522,
+      "hot_value": 1068672,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=Leo%E7%BA%A7%E5%A4%A7%E4%BC%9A%E5%91%98%E5%90%B4%E7%A3%8A%E5%85%A5%E9%A9%BBB%E7%AB%99"
       },
       "raw_titles": [
         "Leo级大会员吴磊入驻B站"
       ],
-      "rank": 10,
+      "rank": 9,
       "movie_rank": 3
-    },
-    {
-      "title": "听说威尼斯闹蟹灾了",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 727284,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%90%AC%E8%AF%B4%E5%A8%81%E5%B0%BC%E6%96%AF%E9%97%B9%E8%9F%B9%E7%81%BE%E4%BA%86"
-      },
-      "raw_titles": [
-        "听说威尼斯闹蟹灾了"
-      ],
-      "rank": 11,
-      "movie_rank": 4
     },
     {
       "title": "高中生手绘600张动画演示数学",
@@ -187,15 +160,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 656227,
+      "hot_value": 715557,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%89%8B%E7%BB%98600%E5%BC%A0%E5%8A%A8%E7%94%BB%E6%BC%94%E7%A4%BA%E6%95%B0%E5%AD%A6"
       },
       "raw_titles": [
         "高中生手绘600张动画演示数学"
       ],
-      "rank": 12,
+      "rank": 10,
+      "movie_rank": 4
+    },
+    {
+      "title": "听说威尼斯闹蟹灾了",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 715553,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%90%AC%E8%AF%B4%E5%A8%81%E5%B0%BC%E6%96%AF%E9%97%B9%E8%9F%B9%E7%81%BE%E4%BA%86"
+      },
+      "raw_titles": [
+        "听说威尼斯闹蟹灾了"
+      ],
+      "rank": 11,
       "movie_rank": 5
+    },
+    {
+      "title": "AI复刻超能勇士经典片头",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 715539,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%8D%E5%88%BB%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E7%BB%8F%E5%85%B8%E7%89%87%E5%A4%B4"
+      },
+      "raw_titles": [
+        "AI复刻超能勇士经典片头"
+      ],
+      "rank": 12,
+      "sports_rank": 7
     },
     {
       "title": "把影之刃零剪成一部电影",
@@ -203,7 +208,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 601506,
+      "hot_value": 653193,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%89%AA%E6%88%90%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1"
       },
@@ -214,52 +219,84 @@
       "movie_rank": 6
     },
     {
+      "title": "嫁金钗烂尾了吗",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 495625,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E7%83%82%E5%B0%BE%E4%BA%86%E5%90%97"
+      },
+      "raw_titles": [
+        "嫁金钗烂尾了吗"
+      ],
+      "rank": 14,
+      "movie_rank": 7
+    },
+    {
+      "title": "哈利波特麻瓜吃瓜大会",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 489560,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%BA%BB%E7%93%9C%E5%90%83%E7%93%9C%E5%A4%A7%E4%BC%9A"
+      },
+      "raw_titles": [
+        "哈利波特麻瓜吃瓜大会"
+      ],
+      "rank": 15,
+      "movie_rank": 8
+    },
+    {
+      "title": "王楚钦赛后关心林德状况",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 443022,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B5%9B%E5%90%8E%E5%85%B3%E5%BF%83%E6%9E%97%E5%BE%B7%E7%8A%B6%E5%86%B5"
+      },
+      "raw_titles": [
+        "王楚钦赛后关心林德状况"
+      ],
+      "rank": 16,
+      "sports_rank": 8
+    },
+    {
+      "title": "盛李豪 洛杉矶奥运会",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 383052,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%9B%9B%E6%9D%8E%E8%B1%AA%20%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A"
+      },
+      "raw_titles": [
+        "盛李豪 洛杉矶奥运会"
+      ],
+      "rank": 17,
+      "sports_rank": 9
+    },
+    {
       "title": "王楚钦战胜林德 晋级16强",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 306000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%88%98%E8%83%9C%E6%9E%97%E5%BE%B7+%E6%99%8B%E7%BA%A716%E5%BC%BA&sa=fyb_news"
       },
       "raw_titles": [
         "王楚钦战胜林德 晋级16强"
       ],
-      "rank": 14,
-      "sports_rank": 8
-    },
-    {
-      "title": "吴磊的英式聚会",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 343759,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E7%9A%84%E8%8B%B1%E5%BC%8F%E8%81%9A%E4%BC%9A"
-      },
-      "raw_titles": [
-        "吴磊的英式聚会"
-      ],
-      "rank": 15,
-      "movie_rank": 7
-    },
-    {
-      "title": "肖战让姜妍少看点成功学吧",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 340313,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%AE%A9%E5%A7%9C%E5%A6%8D%E5%B0%91%E7%9C%8B%E7%82%B9%E6%88%90%E5%8A%9F%E5%AD%A6%E5%90%A7"
-      },
-      "raw_titles": [
-        "肖战让姜妍少看点成功学吧"
-      ],
-      "rank": 16,
-      "movie_rank": 8
+      "rank": 18,
+      "sports_rank": 10
     },
     {
       "title": "迪丽热巴 哈曼卡顿",
@@ -267,15 +304,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 337488,
+      "hot_value": 288918,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%93%88%E6%9B%BC%E5%8D%A1%E9%A1%BF"
       },
       "raw_titles": [
         "迪丽热巴 哈曼卡顿"
       ],
-      "rank": 17,
+      "rank": 19,
       "movie_rank": 9
+    },
+    {
+      "title": "林德有些球让王楚钦不舒服",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 262834,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9E%97%E5%BE%B7%E6%9C%89%E4%BA%9B%E7%90%83%E8%AE%A9%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8D%E8%88%92%E6%9C%8D"
+      },
+      "raw_titles": [
+        "林德有些球让王楚钦不舒服"
+      ],
+      "rank": 20,
+      "sports_rank": 11
+    },
+    {
+      "title": "杨幂是最爱上瑜伽课之人了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 253717,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%98%AF%E6%9C%80%E7%88%B1%E4%B8%8A%E7%91%9C%E4%BC%BD%E8%AF%BE%E4%B9%8B%E4%BA%BA%E4%BA%86"
+      },
+      "raw_titles": [
+        "杨幂是最爱上瑜伽课之人了"
+      ],
+      "rank": 21,
+      "movie_rank": 10
     },
     {
       "title": "浪琴否认赵丽颖到期",
@@ -283,63 +352,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 218791,
+      "hot_value": 231331,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E7%90%B4%E5%90%A6%E8%AE%A4%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%B0%E6%9C%9F"
       },
       "raw_titles": [
         "浪琴否认赵丽颖到期"
       ],
-      "rank": 18,
-      "movie_rank": 10
-    },
-    {
-      "title": "刘亦菲用港姐方式挥手",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 215914,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%94%A8%E6%B8%AF%E5%A7%90%E6%96%B9%E5%BC%8F%E6%8C%A5%E6%89%8B"
-      },
-      "raw_titles": [
-        "刘亦菲用港姐方式挥手"
-      ],
-      "rank": 19,
+      "rank": 22,
       "movie_rank": 11
     },
     {
-      "title": "许飞 声生不息",
+      "title": "肖战让姜妍少看点成功学吧",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 194708,
+      "hot_value": 222944,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%AE%A9%E5%A7%9C%E5%A6%8D%E5%B0%91%E7%9C%8B%E7%82%B9%E6%88%90%E5%8A%9F%E5%AD%A6%E5%90%A7"
       },
       "raw_titles": [
-        "许飞 声生不息"
+        "肖战让姜妍少看点成功学吧"
       ],
-      "rank": 20,
+      "rank": 23,
       "movie_rank": 12
     },
     {
-      "title": "成毅 广电精品大会",
-      "category": "影视",
+      "title": "王楚钦vs林德",
+      "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 191814,
+      "hot_value": 208217,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%20%E5%B9%BF%E7%94%B5%E7%B2%BE%E5%93%81%E5%A4%A7%E4%BC%9A"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E5%BE%B7"
       },
       "raw_titles": [
-        "成毅 广电精品大会"
+        "王楚钦vs林德"
       ],
-      "rank": 21,
-      "movie_rank": 13
+      "rank": 24,
+      "sports_rank": 12
     },
     {
       "title": "VOGUE主编谈迪丽热巴出圈",
@@ -347,47 +400,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 180842,
+      "hot_value": 194297,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=VOGUE%E4%B8%BB%E7%BC%96%E8%B0%88%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%87%BA%E5%9C%88"
       },
       "raw_titles": [
         "VOGUE主编谈迪丽热巴出圈"
       ],
-      "rank": 22,
-      "movie_rank": 14
+      "rank": 25,
+      "movie_rank": 13
     },
     {
-      "title": "迪士尼大裁员",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 153000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%A4%A7%E8%A3%81%E5%91%98&sa=fyb_news"
-      },
-      "raw_titles": [
-        "迪士尼大裁员"
-      ],
-      "rank": 23,
-      "movie_rank": 15
-    },
-    {
-      "title": "肖战加湿器",
+      "title": "刘亦菲用港姐方式挥手",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 143687,
+      "hot_value": 161497,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8A%A0%E6%B9%BF%E5%99%A8"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%94%A8%E6%B8%AF%E5%A7%90%E6%96%B9%E5%BC%8F%E6%8C%A5%E6%89%8B"
       },
       "raw_titles": [
-        "肖战加湿器"
+        "刘亦菲用港姐方式挥手"
       ],
-      "rank": 24,
-      "movie_rank": 16
+      "rank": 26,
+      "movie_rank": 14
+    },
+    {
+      "title": "西足协延期国王杯向离世球员致哀",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 108000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E8%B6%B3%E5%8D%8F%E5%BB%B6%E6%9C%9F%E5%9B%BD%E7%8E%8B%E6%9D%AF%E5%90%91%E7%A6%BB%E4%B8%96%E7%90%83%E5%91%98%E8%87%B4%E5%93%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西足协延期国王杯向离世球员致哀"
+      ],
+      "rank": 27,
+      "sports_rank": 13
     },
     {
       "title": "吧友用数据说话：郑钦文进化了",
@@ -402,42 +455,80 @@
       "raw_titles": [
         "吧友用数据说话：郑钦文进化了"
       ],
-      "rank": 25,
-      "sports_rank": 9
+      "rank": 28,
+      "sports_rank": 14
+    },
+    {
+      "title": "陈幸同横扫金娜英晋级",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 27000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%99%88%E5%B9%B8%E5%90%8C%E6%A8%AA%E6%89%AB%E9%87%91%E5%A8%9C%E8%8B%B1%E6%99%8B%E7%BA%A7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "陈幸同横扫金娜英晋级"
+      ],
+      "rank": 29,
+      "sports_rank": 15
     }
   ],
   "sports": [
+    {
+      "title": "CBA",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音",
+        "抖音"
+      ],
+      "hot_value": 15782038,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=CBA",
+        "抖音": "https://www.douyin.com/search/CBA%E5%B9%BF%E5%B7%9E93%3A100%E4%B8%8D%E6%95%8C%E8%BE%BD%E5%AE%81"
+      },
+      "raw_titles": [
+        "CBA"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "赵心童晋级斯诺克国锦赛八强",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10951944,
+      "hot_value": 10403096,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%99%8B%E7%BA%A7%E6%96%AF%E8%AF%BA%E5%85%8B%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%85%AB%E5%BC%BA"
       },
       "raw_titles": [
         "赵心童晋级斯诺克国锦赛八强"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
-      "title": "王楚钦3:0战胜林德",
+      "title": "王楚钦回应3比0林德",
       "category": "体育",
       "sources": [
+        "微博",
+        "微博",
         "抖音"
       ],
-      "hot_value": 9083264,
+      "hot_value": 9676780,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%9E%97%E5%BE%B7",
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A63%3A0%E6%88%98%E8%83%9C%E6%9E%97%E5%BE%B7"
       },
       "raw_titles": [
-        "王楚钦3:0战胜林德"
+        "王楚钦回应3比0林德"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "勇士逆转太阳",
@@ -445,15 +536,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8254194,
+      "hot_value": 8481375,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8B%87%E5%A3%AB%E9%80%86%E8%BD%AC%E5%A4%AA%E9%98%B3"
       },
       "raw_titles": [
         "勇士逆转太阳"
       ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "76人战胜公牛获四连胜",
@@ -461,45 +552,28 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7719841,
+      "hot_value": 7712616,
       "urls": {
         "抖音": "https://www.douyin.com/search/76%E4%BA%BA%E6%88%98%E8%83%9C%E5%85%AC%E7%89%9B%E8%8E%B7%E5%9B%9B%E8%BF%9E%E8%83%9C"
       },
       "raw_titles": [
         "76人战胜公牛获四连胜"
       ],
-      "rank": 6,
-      "sports_rank": 4
-    },
-    {
-      "title": "王楚钦vs林德",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "微博"
-      ],
-      "hot_value": 1251390,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%9E%97%E5%BE%B7"
-      },
-      "raw_titles": [
-        "王楚钦vs林德"
-      ],
       "rank": 7,
       "sports_rank": 5
     },
     {
-      "title": "盛李豪 洛杉矶奥运会",
+      "title": "亚历山大砍43分",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 776263,
+      "hot_value": 2824989,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%9B%9B%E6%9D%8E%E8%B1%AA%20%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E7%A0%8D43%E5%88%86"
       },
       "raw_titles": [
-        "盛李豪 洛杉矶奥运会"
+        "亚历山大砍43分"
       ],
       "rank": 8,
       "sports_rank": 6
@@ -510,15 +584,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 750920,
+      "hot_value": 715539,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%8D%E5%88%BB%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E7%BB%8F%E5%85%B8%E7%89%87%E5%A4%B4"
       },
       "raw_titles": [
         "AI复刻超能勇士经典片头"
       ],
-      "rank": 9,
+      "rank": 12,
       "sports_rank": 7
+    },
+    {
+      "title": "王楚钦赛后关心林德状况",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 443022,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B5%9B%E5%90%8E%E5%85%B3%E5%BF%83%E6%9E%97%E5%BE%B7%E7%8A%B6%E5%86%B5"
+      },
+      "raw_titles": [
+        "王楚钦赛后关心林德状况"
+      ],
+      "rank": 16,
+      "sports_rank": 8
+    },
+    {
+      "title": "盛李豪 洛杉矶奥运会",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 383052,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%9B%9B%E6%9D%8E%E8%B1%AA%20%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A"
+      },
+      "raw_titles": [
+        "盛李豪 洛杉矶奥运会"
+      ],
+      "rank": 17,
+      "sports_rank": 9
     },
     {
       "title": "王楚钦战胜林德 晋级16强",
@@ -526,15 +632,63 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 396000,
+      "hot_value": 306000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%88%98%E8%83%9C%E6%9E%97%E5%BE%B7+%E6%99%8B%E7%BA%A716%E5%BC%BA&sa=fyb_news"
       },
       "raw_titles": [
         "王楚钦战胜林德 晋级16强"
       ],
-      "rank": 14,
-      "sports_rank": 8
+      "rank": 18,
+      "sports_rank": 10
+    },
+    {
+      "title": "林德有些球让王楚钦不舒服",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 262834,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9E%97%E5%BE%B7%E6%9C%89%E4%BA%9B%E7%90%83%E8%AE%A9%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8D%E8%88%92%E6%9C%8D"
+      },
+      "raw_titles": [
+        "林德有些球让王楚钦不舒服"
+      ],
+      "rank": 20,
+      "sports_rank": 11
+    },
+    {
+      "title": "王楚钦vs林德",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 208217,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E5%BE%B7"
+      },
+      "raw_titles": [
+        "王楚钦vs林德"
+      ],
+      "rank": 24,
+      "sports_rank": 12
+    },
+    {
+      "title": "西足协延期国王杯向离世球员致哀",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 108000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A5%BF%E8%B6%B3%E5%8D%8F%E5%BB%B6%E6%9C%9F%E5%9B%BD%E7%8E%8B%E6%9D%AF%E5%90%91%E7%A6%BB%E4%B8%96%E7%90%83%E5%91%98%E8%87%B4%E5%93%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "西足协延期国王杯向离世球员致哀"
+      ],
+      "rank": 27,
+      "sports_rank": 13
     },
     {
       "title": "吧友用数据说话：郑钦文进化了",
@@ -549,8 +703,24 @@
       "raw_titles": [
         "吧友用数据说话：郑钦文进化了"
       ],
-      "rank": 25,
-      "sports_rank": 9
+      "rank": 28,
+      "sports_rank": 14
+    },
+    {
+      "title": "陈幸同横扫金娜英晋级",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 27000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%99%88%E5%B9%B8%E5%90%8C%E6%A8%AA%E6%89%AB%E9%87%91%E5%A8%9C%E8%8B%B1%E6%99%8B%E7%BA%A7&sa=fyb_news"
+      },
+      "raw_titles": [
+        "陈幸同横扫金娜英晋级"
+      ],
+      "rank": 29,
+      "sports_rank": 15
     }
   ],
   "movies": [
@@ -560,14 +730,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7817438,
+      "hot_value": 7926126,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E5%A4%A7%E7%BB%93%E5%B1%80%E4%BF%A1%E6%81%AF%E9%87%8F%E5%A4%AA%E5%A4%A7%E4%BA%86"
       },
       "raw_titles": [
         "嫁金钗大结局信息量太大了"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 1
     },
     {
@@ -576,14 +746,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7773269,
+      "hot_value": 7756098,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%99%88%E6%B3%BD%E5%8F%91%E5%B8%831103%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%BA%E4%BD%A0%E8%80%8C%E6%9D%A5"
       },
       "raw_titles": [
         "陈泽发布1103纪录片为你而来"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 2
     },
     {
@@ -592,31 +762,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 737522,
+      "hot_value": 1068672,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=Leo%E7%BA%A7%E5%A4%A7%E4%BC%9A%E5%91%98%E5%90%B4%E7%A3%8A%E5%85%A5%E9%A9%BBB%E7%AB%99"
       },
       "raw_titles": [
         "Leo级大会员吴磊入驻B站"
       ],
-      "rank": 10,
+      "rank": 9,
       "movie_rank": 3
-    },
-    {
-      "title": "听说威尼斯闹蟹灾了",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 727284,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%90%AC%E8%AF%B4%E5%A8%81%E5%B0%BC%E6%96%AF%E9%97%B9%E8%9F%B9%E7%81%BE%E4%BA%86"
-      },
-      "raw_titles": [
-        "听说威尼斯闹蟹灾了"
-      ],
-      "rank": 11,
-      "movie_rank": 4
     },
     {
       "title": "高中生手绘600张动画演示数学",
@@ -624,14 +778,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 656227,
+      "hot_value": 715557,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%89%8B%E7%BB%98600%E5%BC%A0%E5%8A%A8%E7%94%BB%E6%BC%94%E7%A4%BA%E6%95%B0%E5%AD%A6"
       },
       "raw_titles": [
         "高中生手绘600张动画演示数学"
       ],
-      "rank": 12,
+      "rank": 10,
+      "movie_rank": 4
+    },
+    {
+      "title": "听说威尼斯闹蟹灾了",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 715553,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%90%AC%E8%AF%B4%E5%A8%81%E5%B0%BC%E6%96%AF%E9%97%B9%E8%9F%B9%E7%81%BE%E4%BA%86"
+      },
+      "raw_titles": [
+        "听说威尼斯闹蟹灾了"
+      ],
+      "rank": 11,
       "movie_rank": 5
     },
     {
@@ -640,7 +810,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 601506,
+      "hot_value": 653193,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%89%AA%E6%88%90%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1"
       },
@@ -651,35 +821,35 @@
       "movie_rank": 6
     },
     {
-      "title": "吴磊的英式聚会",
+      "title": "嫁金钗烂尾了吗",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 343759,
+      "hot_value": 495625,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E7%9A%84%E8%8B%B1%E5%BC%8F%E8%81%9A%E4%BC%9A"
+        "微博": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E7%83%82%E5%B0%BE%E4%BA%86%E5%90%97"
       },
       "raw_titles": [
-        "吴磊的英式聚会"
+        "嫁金钗烂尾了吗"
       ],
-      "rank": 15,
+      "rank": 14,
       "movie_rank": 7
     },
     {
-      "title": "肖战让姜妍少看点成功学吧",
+      "title": "哈利波特麻瓜吃瓜大会",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 340313,
+      "hot_value": 489560,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%AE%A9%E5%A7%9C%E5%A6%8D%E5%B0%91%E7%9C%8B%E7%82%B9%E6%88%90%E5%8A%9F%E5%AD%A6%E5%90%A7"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%BA%BB%E7%93%9C%E5%90%83%E7%93%9C%E5%A4%A7%E4%BC%9A"
       },
       "raw_titles": [
-        "肖战让姜妍少看点成功学吧"
+        "哈利波特麻瓜吃瓜大会"
       ],
-      "rank": 16,
+      "rank": 15,
       "movie_rank": 8
     },
     {
@@ -688,15 +858,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 337488,
+      "hot_value": 288918,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%93%88%E6%9B%BC%E5%8D%A1%E9%A1%BF"
       },
       "raw_titles": [
         "迪丽热巴 哈曼卡顿"
       ],
-      "rank": 17,
+      "rank": 19,
       "movie_rank": 9
+    },
+    {
+      "title": "杨幂是最爱上瑜伽课之人了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 253717,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%98%AF%E6%9C%80%E7%88%B1%E4%B8%8A%E7%91%9C%E4%BC%BD%E8%AF%BE%E4%B9%8B%E4%BA%BA%E4%BA%86"
+      },
+      "raw_titles": [
+        "杨幂是最爱上瑜伽课之人了"
+      ],
+      "rank": 21,
+      "movie_rank": 10
     },
     {
       "title": "浪琴否认赵丽颖到期",
@@ -704,63 +890,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 218791,
+      "hot_value": 231331,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%B5%AA%E7%90%B4%E5%90%A6%E8%AE%A4%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%B0%E6%9C%9F"
       },
       "raw_titles": [
         "浪琴否认赵丽颖到期"
       ],
-      "rank": 18,
-      "movie_rank": 10
-    },
-    {
-      "title": "刘亦菲用港姐方式挥手",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 215914,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%94%A8%E6%B8%AF%E5%A7%90%E6%96%B9%E5%BC%8F%E6%8C%A5%E6%89%8B"
-      },
-      "raw_titles": [
-        "刘亦菲用港姐方式挥手"
-      ],
-      "rank": 19,
+      "rank": 22,
       "movie_rank": 11
     },
     {
-      "title": "许飞 声生不息",
+      "title": "肖战让姜妍少看点成功学吧",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 194708,
+      "hot_value": 222944,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%AE%A9%E5%A7%9C%E5%A6%8D%E5%B0%91%E7%9C%8B%E7%82%B9%E6%88%90%E5%8A%9F%E5%AD%A6%E5%90%A7"
       },
       "raw_titles": [
-        "许飞 声生不息"
+        "肖战让姜妍少看点成功学吧"
       ],
-      "rank": 20,
+      "rank": 23,
       "movie_rank": 12
-    },
-    {
-      "title": "成毅 广电精品大会",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 191814,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%20%E5%B9%BF%E7%94%B5%E7%B2%BE%E5%93%81%E5%A4%A7%E4%BC%9A"
-      },
-      "raw_titles": [
-        "成毅 广电精品大会"
-      ],
-      "rank": 21,
-      "movie_rank": 13
     },
     {
       "title": "VOGUE主编谈迪丽热巴出圈",
@@ -768,47 +922,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 180842,
+      "hot_value": 194297,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=VOGUE%E4%B8%BB%E7%BC%96%E8%B0%88%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%87%BA%E5%9C%88"
       },
       "raw_titles": [
         "VOGUE主编谈迪丽热巴出圈"
       ],
-      "rank": 22,
-      "movie_rank": 14
+      "rank": 25,
+      "movie_rank": 13
     },
     {
-      "title": "迪士尼大裁员",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 153000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%A4%A7%E8%A3%81%E5%91%98&sa=fyb_news"
-      },
-      "raw_titles": [
-        "迪士尼大裁员"
-      ],
-      "rank": 23,
-      "movie_rank": 15
-    },
-    {
-      "title": "肖战加湿器",
+      "title": "刘亦菲用港姐方式挥手",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 143687,
+      "hot_value": 161497,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8A%A0%E6%B9%BF%E5%99%A8"
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%94%A8%E6%B8%AF%E5%A7%90%E6%96%B9%E5%BC%8F%E6%8C%A5%E6%89%8B"
       },
       "raw_titles": [
-        "肖战加湿器"
+        "刘亦菲用港姐方式挥手"
       ],
-      "rank": 24,
-      "movie_rank": 16
+      "rank": 26,
+      "movie_rank": 14
     }
   ]
 }
