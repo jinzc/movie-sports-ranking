@@ -1,23 +1,42 @@
 {
-  "update_time": "2026-11-07 03:01:01",
+  "update_time": "2026-11-07 04:00:53",
   "total": 29,
-  "sports_count": 18,
+  "sports_count": 17,
   "movie_count": 12,
   "all": [
+    {
+      "title": "今天是太阳雨",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音",
+        "抖音"
+      ],
+      "hot_value": 16362612,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8",
+        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%B6%8A%E5%AF%B9%E6%8A%97%E8%B6%8A%E7%BE%8E%E5%91%B3"
+      },
+      "raw_titles": [
+        "今天是太阳雨"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "立冬和饺子最配了",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 11044751,
+      "hot_value": 11044175,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%92%8C%E9%A5%BA%E5%AD%90%E6%9C%80%E9%85%8D%E4%BA%86"
       },
       "raw_titles": [
         "立冬和饺子最配了"
       ],
-      "rank": 1,
+      "rank": 2,
       "movie_rank": 1
     },
     {
@@ -26,15 +45,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9149957,
+      "hot_value": 9154007,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BA%93%E9%87%8C%E5%8D%87%E8%87%B3%E5%8E%86%E5%8F%B2%E5%BE%97%E5%88%86%E6%A6%9C%E7%AC%AC17%E4%BD%8D"
       },
       "raw_titles": [
         "库里升至历史得分榜第17位"
       ],
-      "rank": 2,
-      "sports_rank": 1
+      "rank": 3,
+      "sports_rank": 2
     },
     {
       "title": "甲亢哥含泪弹琴致敬C罗",
@@ -42,15 +61,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9128306,
+      "hot_value": 9126583,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%AB%E6%B3%AA%E5%BC%B9%E7%90%B4%E8%87%B4%E6%95%ACC%E7%BD%97"
       },
       "raw_titles": [
         "甲亢哥含泪弹琴致敬C罗"
       ],
-      "rank": 3,
-      "sports_rank": 2
+      "rank": 4,
+      "sports_rank": 3
     },
     {
       "title": "贺炜发文致敬C罗国家队生涯",
@@ -58,47 +77,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8870085,
+      "hot_value": 8970529,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E5%8F%91%E6%96%87%E8%87%B4%E6%95%ACC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF"
       },
       "raw_titles": [
         "贺炜发文致敬C罗国家队生涯"
       ],
-      "rank": 4,
-      "sports_rank": 3
-    },
-    {
-      "title": "今天是太阳雨开播",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8798314,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%BC%80%E6%92%AD"
-      },
-      "raw_titles": [
-        "今天是太阳雨开播"
-      ],
       "rank": 5,
       "sports_rank": 4
     },
     {
-      "title": "今天是太阳雨越对抗越美味",
+      "title": "向C罗和我的青春说再见",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7943389,
+      "hot_value": 8180876,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%B6%8A%E5%AF%B9%E6%8A%97%E8%B6%8A%E7%BE%8E%E5%91%B3"
+        "抖音": "https://www.douyin.com/search/%E5%90%91C%E7%BD%97%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81"
       },
       "raw_titles": [
-        "今天是太阳雨越对抗越美味"
+        "向C罗和我的青春说再见"
       ],
       "rank": 6,
       "sports_rank": 5
+    },
+    {
+      "title": "C罗宣布从葡萄牙国家队退役",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8045576,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "C罗宣布从葡萄牙国家队退役"
+      ],
+      "rank": 7,
+      "sports_rank": 6
     },
     {
       "title": "黄渤自曝今年几乎没戏拍",
@@ -106,47 +125,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7824059,
+      "hot_value": 7817363,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%BB%84%E6%B8%A4%E8%87%AA%E6%9B%9D%E4%BB%8A%E5%B9%B4%E5%87%A0%E4%B9%8E%E6%B2%A1%E6%88%8F%E6%8B%8D"
       },
       "raw_titles": [
         "黄渤自曝今年几乎没戏拍"
       ],
-      "rank": 7,
+      "rank": 8,
       "movie_rank": 2
     },
     {
-      "title": "向C罗和我的青春说再见",
-      "category": "体育",
+      "title": "吴磊一天骑行100公里",
+      "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7744952,
+      "hot_value": 7742524,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%91C%E7%BD%97%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81"
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E4%B8%80%E5%A4%A9%E9%AA%91%E8%A1%8C100%E5%85%AC%E9%87%8C"
       },
       "raw_titles": [
-        "向C罗和我的青春说再见"
-      ],
-      "rank": 8,
-      "sports_rank": 6
-    },
-    {
-      "title": "C罗宣布从葡萄牙国家队退役",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7743387,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "C罗宣布从葡萄牙国家队退役"
+        "吴磊一天骑行100公里"
       ],
       "rank": 9,
-      "sports_rank": 7
+      "movie_rank": 3
     },
     {
       "title": "今年立冬吃超长长长饺子",
@@ -154,7 +157,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7721425,
+      "hot_value": 7713289,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AB%8B%E5%86%AC%E5%90%83%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90"
       },
@@ -162,7 +165,7 @@
         "今年立冬吃超长长长饺子"
       ],
       "rank": 10,
-      "movie_rank": 3
+      "movie_rank": 4
     },
     {
       "title": "1酱赛评BLG横扫DK挺进4强",
@@ -170,7 +173,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1314654,
+      "hot_value": 971265,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84BLG%E6%A8%AA%E6%89%ABDK%E6%8C%BA%E8%BF%9B4%E5%BC%BA"
       },
@@ -178,23 +181,7 @@
         "1酱赛评BLG横扫DK挺进4强"
       ],
       "rank": 11,
-      "sports_rank": 8
-    },
-    {
-      "title": "意甲联赛入驻B站",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 852170,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%84%8F%E7%94%B2%E8%81%94%E8%B5%9B%E5%85%A5%E9%A9%BBB%E7%AB%99"
-      },
-      "raw_titles": [
-        "意甲联赛入驻B站"
-      ],
-      "rank": 12,
-      "sports_rank": 9
+      "sports_rank": 7
     },
     {
       "title": "125台公交车退役电池卖了300万元",
@@ -209,8 +196,8 @@
       "raw_titles": [
         "125台公交车退役电池卖了300万元"
       ],
-      "rank": 13,
-      "sports_rank": 10
+      "rank": 12,
+      "sports_rank": 8
     },
     {
       "title": "谷爱凌谈不要过度美化吃苦",
@@ -225,104 +212,8 @@
       "raw_titles": [
         "谷爱凌谈不要过度美化吃苦"
       ],
-      "rank": 14,
-      "sports_rank": 11
-    },
-    {
-      "title": "如何看勇士狂胜热火20分",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 355228,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%8B%87%E5%A3%AB%E7%8B%82%E8%83%9C%E7%83%AD%E7%81%AB20%E5%88%86"
-      },
-      "raw_titles": [
-        "如何看勇士狂胜热火20分"
-      ],
-      "rank": 15,
-      "sports_rank": 12
-    },
-    {
-      "title": "森林狼火箭爆发冲突",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 297000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%A3%AE%E6%9E%97%E7%8B%BC%E7%81%AB%E7%AE%AD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81&sa=fyb_news"
-      },
-      "raw_titles": [
-        "森林狼火箭爆发冲突"
-      ],
-      "rank": 16,
-      "sports_rank": 13
-    },
-    {
-      "title": "温瑞博击穿王楚钦防线复盘",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 289780,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B8%A9%E7%91%9E%E5%8D%9A%E5%87%BB%E7%A9%BF%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%98%B2%E7%BA%BF%E5%A4%8D%E7%9B%98"
-      },
-      "raw_titles": [
-        "温瑞博击穿王楚钦防线复盘"
-      ],
-      "rank": 17,
-      "sports_rank": 14
-    },
-    {
-      "title": "Mrbeast挑战詹姆斯",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 253505,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Mrbeast%E6%8C%91%E6%88%98%E8%A9%B9%E5%A7%86%E6%96%AF"
-      },
-      "raw_titles": [
-        "Mrbeast挑战詹姆斯"
-      ],
-      "rank": 18,
-      "sports_rank": 15
-    },
-    {
-      "title": "王楚钦0比3不敌温瑞博 无缘8强",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 243000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A60%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B8%A9%E7%91%9E%E5%8D%9A+%E6%97%A0%E7%BC%988%E5%BC%BA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王楚钦0比3不敌温瑞博 无缘8强"
-      ],
-      "rank": 19,
-      "sports_rank": 16
-    },
-    {
-      "title": "周迅回应获釜山电影节影后",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E8%BF%85%E5%9B%9E%E5%BA%94%E8%8E%B7%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%90%8E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "周迅回应获釜山电影节影后"
-      ],
-      "rank": 20,
-      "movie_rank": 4
+      "rank": 13,
+      "sports_rank": 9
     },
     {
       "title": "金鸡奖开幕式",
@@ -330,15 +221,127 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 324000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news"
       },
       "raw_titles": [
         "金鸡奖开幕式"
       ],
-      "rank": 21,
+      "rank": 14,
       "movie_rank": 5
+    },
+    {
+      "title": "如何看勇士狂胜热火20分",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 292707,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%8B%87%E5%A3%AB%E7%8B%82%E8%83%9C%E7%83%AD%E7%81%AB20%E5%88%86"
+      },
+      "raw_titles": [
+        "如何看勇士狂胜热火20分"
+      ],
+      "rank": 15,
+      "sports_rank": 10
+    },
+    {
+      "title": "王楚钦0比3不敌温瑞博 无缘8强",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 288000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A60%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B8%A9%E7%91%9E%E5%8D%9A+%E6%97%A0%E7%BC%988%E5%BC%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王楚钦0比3不敌温瑞博 无缘8强"
+      ],
+      "rank": 16,
+      "sports_rank": 11
+    },
+    {
+      "title": "森林狼火箭爆发冲突",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 270000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%A3%AE%E6%9E%97%E7%8B%BC%E7%81%AB%E7%AE%AD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81&sa=fyb_news"
+      },
+      "raw_titles": [
+        "森林狼火箭爆发冲突"
+      ],
+      "rank": 17,
+      "sports_rank": 12
+    },
+    {
+      "title": "周迅回应获釜山电影节影后",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 234000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E8%BF%85%E5%9B%9E%E5%BA%94%E8%8E%B7%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%90%8E&sa=fyb_news"
+      },
+      "raw_titles": [
+        "周迅回应获釜山电影节影后"
+      ],
+      "rank": 18,
+      "movie_rank": 6
+    },
+    {
+      "title": "温瑞博击穿王楚钦防线复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 227310,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B8%A9%E7%91%9E%E5%8D%9A%E5%87%BB%E7%A9%BF%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%98%B2%E7%BA%BF%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "温瑞博击穿王楚钦防线复盘"
+      ],
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "Mrbeast挑战詹姆斯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 214274,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Mrbeast%E6%8C%91%E6%88%98%E8%A9%B9%E5%A7%86%E6%96%AF"
+      },
+      "raw_titles": [
+        "Mrbeast挑战詹姆斯"
+      ],
+      "rank": 20,
+      "sports_rank": 14
+    },
+    {
+      "title": "甲亢哥回应C罗退役",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 209827,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9B%9E%E5%BA%94C%E7%BD%97%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "甲亢哥回应C罗退役"
+      ],
+      "rank": 21,
+      "sports_rank": 15
     },
     {
       "title": "赵丽颖黄晓明点亮金鸡",
@@ -346,7 +349,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 81000,
+      "hot_value": 99000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%BB%84%E6%99%93%E6%98%8E%E7%82%B9%E4%BA%AE%E9%87%91%E9%B8%A1&sa=fyb_news"
       },
@@ -354,104 +357,7 @@
         "赵丽颖黄晓明点亮金鸡"
       ],
       "rank": 22,
-      "movie_rank": 6
-    },
-    {
-      "title": "赵丽颖周迅打招呼",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 74530,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%91%A8%E8%BF%85%E6%89%93%E6%8B%9B%E5%91%BC"
-      },
-      "raw_titles": [
-        "赵丽颖周迅打招呼"
-      ],
-      "rank": 23,
       "movie_rank": 7
-    },
-    {
-      "title": "张柏芝夸迪丽热巴很漂亮",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58594,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%A4%B8%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%88%E6%BC%82%E4%BA%AE"
-      },
-      "raw_titles": [
-        "张柏芝夸迪丽热巴很漂亮"
-      ],
-      "rank": 24,
-      "movie_rank": 8
-    },
-    {
-      "title": "格拉夫认领赵丽颖珠宝",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58543,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A0%BC%E6%8B%89%E5%A4%AB%E8%AE%A4%E9%A2%86%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8F%A0%E5%AE%9D"
-      },
-      "raw_titles": [
-        "格拉夫认领赵丽颖珠宝"
-      ],
-      "rank": 25,
-      "movie_rank": 9
-    },
-    {
-      "title": "陈情令选角时间线",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58493,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4%E9%80%89%E8%A7%92%E6%97%B6%E9%97%B4%E7%BA%BF"
-      },
-      "raw_titles": [
-        "陈情令选角时间线"
-      ],
-      "rank": 26,
-      "movie_rank": 10
-    },
-    {
-      "title": "F1巴西大奖赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58366,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=F1%E5%B7%B4%E8%A5%BF%E5%A4%A7%E5%A5%96%E8%B5%9B"
-      },
-      "raw_titles": [
-        "F1巴西大奖赛"
-      ],
-      "rank": 27,
-      "sports_rank": 17
-    },
-    {
-      "title": "张小斐 备战奥运",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58234,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%A4%87%E6%88%98%E5%A5%A5%E8%BF%90"
-      },
-      "raw_titles": [
-        "张小斐 备战奥运"
-      ],
-      "rank": 28,
-      "sports_rank": 18,
-      "movie_rank": 11
     },
     {
       "title": "赵丽颖王仁君拥抱",
@@ -459,12 +365,108 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 72000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%8B%E4%BB%81%E5%90%9B%E6%8B%A5%E6%8A%B1&sa=fyb_news"
       },
       "raw_titles": [
         "赵丽颖王仁君拥抱"
+      ],
+      "rank": 23,
+      "movie_rank": 8
+    },
+    {
+      "title": "WTA年终总决赛单人照公布",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 46411,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=WTA%E5%B9%B4%E7%BB%88%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8D%95%E4%BA%BA%E7%85%A7%E5%85%AC%E5%B8%83"
+      },
+      "raw_titles": [
+        "WTA年终总决赛单人照公布"
+      ],
+      "rank": 24,
+      "sports_rank": 16
+    },
+    {
+      "title": "赵丽颖周迅打招呼",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 42262,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%91%A8%E8%BF%85%E6%89%93%E6%8B%9B%E5%91%BC"
+      },
+      "raw_titles": [
+        "赵丽颖周迅打招呼"
+      ],
+      "rank": 25,
+      "movie_rank": 9
+    },
+    {
+      "title": "F1巴西大奖赛",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 35525,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=F1%E5%B7%B4%E8%A5%BF%E5%A4%A7%E5%A5%96%E8%B5%9B"
+      },
+      "raw_titles": [
+        "F1巴西大奖赛"
+      ],
+      "rank": 26,
+      "sports_rank": 17
+    },
+    {
+      "title": "格拉夫认领赵丽颖珠宝",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 35507,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A0%BC%E6%8B%89%E5%A4%AB%E8%AE%A4%E9%A2%86%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8F%A0%E5%AE%9D"
+      },
+      "raw_titles": [
+        "格拉夫认领赵丽颖珠宝"
+      ],
+      "rank": 27,
+      "movie_rank": 10
+    },
+    {
+      "title": "张柏芝夸迪丽热巴很漂亮",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 35462,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%A4%B8%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%88%E6%BC%82%E4%BA%AE"
+      },
+      "raw_titles": [
+        "张柏芝夸迪丽热巴很漂亮"
+      ],
+      "rank": 28,
+      "movie_rank": 11
+    },
+    {
+      "title": "陈情令选角时间线",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 35452,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4%E9%80%89%E8%A7%92%E6%97%B6%E9%97%B4%E7%BA%BF"
+      },
+      "raw_titles": [
+        "陈情令选角时间线"
       ],
       "rank": 29,
       "movie_rank": 12
@@ -472,20 +474,39 @@
   ],
   "sports": [
     {
+      "title": "今天是太阳雨",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音",
+        "抖音"
+      ],
+      "hot_value": 16362612,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8",
+        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%B6%8A%E5%AF%B9%E6%8A%97%E8%B6%8A%E7%BE%8E%E5%91%B3"
+      },
+      "raw_titles": [
+        "今天是太阳雨"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
       "title": "库里升至历史得分榜第17位",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9149957,
+      "hot_value": 9154007,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BA%93%E9%87%8C%E5%8D%87%E8%87%B3%E5%8E%86%E5%8F%B2%E5%BE%97%E5%88%86%E6%A6%9C%E7%AC%AC17%E4%BD%8D"
       },
       "raw_titles": [
         "库里升至历史得分榜第17位"
       ],
-      "rank": 2,
-      "sports_rank": 1
+      "rank": 3,
+      "sports_rank": 2
     },
     {
       "title": "甲亢哥含泪弹琴致敬C罗",
@@ -493,15 +514,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9128306,
+      "hot_value": 9126583,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%AB%E6%B3%AA%E5%BC%B9%E7%90%B4%E8%87%B4%E6%95%ACC%E7%BD%97"
       },
       "raw_titles": [
         "甲亢哥含泪弹琴致敬C罗"
       ],
-      "rank": 3,
-      "sports_rank": 2
+      "rank": 4,
+      "sports_rank": 3
     },
     {
       "title": "贺炜发文致敬C罗国家队生涯",
@@ -509,47 +530,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8870085,
+      "hot_value": 8970529,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E5%8F%91%E6%96%87%E8%87%B4%E6%95%ACC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF"
       },
       "raw_titles": [
         "贺炜发文致敬C罗国家队生涯"
       ],
-      "rank": 4,
-      "sports_rank": 3
-    },
-    {
-      "title": "今天是太阳雨开播",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 8798314,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%BC%80%E6%92%AD"
-      },
-      "raw_titles": [
-        "今天是太阳雨开播"
-      ],
       "rank": 5,
       "sports_rank": 4
-    },
-    {
-      "title": "今天是太阳雨越对抗越美味",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7943389,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%B6%8A%E5%AF%B9%E6%8A%97%E8%B6%8A%E7%BE%8E%E5%91%B3"
-      },
-      "raw_titles": [
-        "今天是太阳雨越对抗越美味"
-      ],
-      "rank": 6,
-      "sports_rank": 5
     },
     {
       "title": "向C罗和我的青春说再见",
@@ -557,15 +546,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7744952,
+      "hot_value": 8180876,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%91C%E7%BD%97%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81"
       },
       "raw_titles": [
         "向C罗和我的青春说再见"
       ],
-      "rank": 8,
-      "sports_rank": 6
+      "rank": 6,
+      "sports_rank": 5
     },
     {
       "title": "C罗宣布从葡萄牙国家队退役",
@@ -573,15 +562,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7743387,
+      "hot_value": 8045576,
       "urls": {
         "抖音": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
         "C罗宣布从葡萄牙国家队退役"
       ],
-      "rank": 9,
-      "sports_rank": 7
+      "rank": 7,
+      "sports_rank": 6
     },
     {
       "title": "1酱赛评BLG横扫DK挺进4强",
@@ -589,7 +578,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1314654,
+      "hot_value": 971265,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84BLG%E6%A8%AA%E6%89%ABDK%E6%8C%BA%E8%BF%9B4%E5%BC%BA"
       },
@@ -597,23 +586,7 @@
         "1酱赛评BLG横扫DK挺进4强"
       ],
       "rank": 11,
-      "sports_rank": 8
-    },
-    {
-      "title": "意甲联赛入驻B站",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 852170,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%84%8F%E7%94%B2%E8%81%94%E8%B5%9B%E5%85%A5%E9%A9%BBB%E7%AB%99"
-      },
-      "raw_titles": [
-        "意甲联赛入驻B站"
-      ],
-      "rank": 12,
-      "sports_rank": 9
+      "sports_rank": 7
     },
     {
       "title": "125台公交车退役电池卖了300万元",
@@ -628,8 +601,8 @@
       "raw_titles": [
         "125台公交车退役电池卖了300万元"
       ],
-      "rank": 13,
-      "sports_rank": 10
+      "rank": 12,
+      "sports_rank": 8
     },
     {
       "title": "谷爱凌谈不要过度美化吃苦",
@@ -644,8 +617,8 @@
       "raw_titles": [
         "谷爱凌谈不要过度美化吃苦"
       ],
-      "rank": 14,
-      "sports_rank": 11
+      "rank": 13,
+      "sports_rank": 9
     },
     {
       "title": "如何看勇士狂胜热火20分",
@@ -653,7 +626,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 355228,
+      "hot_value": 292707,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%8B%87%E5%A3%AB%E7%8B%82%E8%83%9C%E7%83%AD%E7%81%AB20%E5%88%86"
       },
@@ -661,55 +634,7 @@
         "如何看勇士狂胜热火20分"
       ],
       "rank": 15,
-      "sports_rank": 12
-    },
-    {
-      "title": "森林狼火箭爆发冲突",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 297000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%A3%AE%E6%9E%97%E7%8B%BC%E7%81%AB%E7%AE%AD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81&sa=fyb_news"
-      },
-      "raw_titles": [
-        "森林狼火箭爆发冲突"
-      ],
-      "rank": 16,
-      "sports_rank": 13
-    },
-    {
-      "title": "温瑞博击穿王楚钦防线复盘",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 289780,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B8%A9%E7%91%9E%E5%8D%9A%E5%87%BB%E7%A9%BF%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%98%B2%E7%BA%BF%E5%A4%8D%E7%9B%98"
-      },
-      "raw_titles": [
-        "温瑞博击穿王楚钦防线复盘"
-      ],
-      "rank": 17,
-      "sports_rank": 14
-    },
-    {
-      "title": "Mrbeast挑战詹姆斯",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 253505,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Mrbeast%E6%8C%91%E6%88%98%E8%A9%B9%E5%A7%86%E6%96%AF"
-      },
-      "raw_titles": [
-        "Mrbeast挑战詹姆斯"
-      ],
-      "rank": 18,
-      "sports_rank": 15
+      "sports_rank": 10
     },
     {
       "title": "王楚钦0比3不敌温瑞博 无缘8强",
@@ -717,14 +642,94 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 288000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A60%E6%AF%943%E4%B8%8D%E6%95%8C%E6%B8%A9%E7%91%9E%E5%8D%9A+%E6%97%A0%E7%BC%988%E5%BC%BA&sa=fyb_news"
       },
       "raw_titles": [
         "王楚钦0比3不敌温瑞博 无缘8强"
       ],
+      "rank": 16,
+      "sports_rank": 11
+    },
+    {
+      "title": "森林狼火箭爆发冲突",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 270000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%A3%AE%E6%9E%97%E7%8B%BC%E7%81%AB%E7%AE%AD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81&sa=fyb_news"
+      },
+      "raw_titles": [
+        "森林狼火箭爆发冲突"
+      ],
+      "rank": 17,
+      "sports_rank": 12
+    },
+    {
+      "title": "温瑞博击穿王楚钦防线复盘",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 227310,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B8%A9%E7%91%9E%E5%8D%9A%E5%87%BB%E7%A9%BF%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%98%B2%E7%BA%BF%E5%A4%8D%E7%9B%98"
+      },
+      "raw_titles": [
+        "温瑞博击穿王楚钦防线复盘"
+      ],
       "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "Mrbeast挑战詹姆斯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 214274,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Mrbeast%E6%8C%91%E6%88%98%E8%A9%B9%E5%A7%86%E6%96%AF"
+      },
+      "raw_titles": [
+        "Mrbeast挑战詹姆斯"
+      ],
+      "rank": 20,
+      "sports_rank": 14
+    },
+    {
+      "title": "甲亢哥回应C罗退役",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 209827,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9B%9E%E5%BA%94C%E7%BD%97%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "甲亢哥回应C罗退役"
+      ],
+      "rank": 21,
+      "sports_rank": 15
+    },
+    {
+      "title": "WTA年终总决赛单人照公布",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 46411,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=WTA%E5%B9%B4%E7%BB%88%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8D%95%E4%BA%BA%E7%85%A7%E5%85%AC%E5%B8%83"
+      },
+      "raw_titles": [
+        "WTA年终总决赛单人照公布"
+      ],
+      "rank": 24,
       "sports_rank": 16
     },
     {
@@ -733,32 +738,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 58366,
+      "hot_value": 35525,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=F1%E5%B7%B4%E8%A5%BF%E5%A4%A7%E5%A5%96%E8%B5%9B"
       },
       "raw_titles": [
         "F1巴西大奖赛"
       ],
-      "rank": 27,
+      "rank": 26,
       "sports_rank": 17
-    },
-    {
-      "title": "张小斐 备战奥运",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58234,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%A4%87%E6%88%98%E5%A5%A5%E8%BF%90"
-      },
-      "raw_titles": [
-        "张小斐 备战奥运"
-      ],
-      "rank": 28,
-      "sports_rank": 18,
-      "movie_rank": 11
     }
   ],
   "movies": [
@@ -768,14 +756,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11044751,
+      "hot_value": 11044175,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%92%8C%E9%A5%BA%E5%AD%90%E6%9C%80%E9%85%8D%E4%BA%86"
       },
       "raw_titles": [
         "立冬和饺子最配了"
       ],
-      "rank": 1,
+      "rank": 2,
       "movie_rank": 1
     },
     {
@@ -784,15 +772,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7824059,
+      "hot_value": 7817363,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%BB%84%E6%B8%A4%E8%87%AA%E6%9B%9D%E4%BB%8A%E5%B9%B4%E5%87%A0%E4%B9%8E%E6%B2%A1%E6%88%8F%E6%8B%8D"
       },
       "raw_titles": [
         "黄渤自曝今年几乎没戏拍"
       ],
-      "rank": 7,
+      "rank": 8,
       "movie_rank": 2
+    },
+    {
+      "title": "吴磊一天骑行100公里",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7742524,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E4%B8%80%E5%A4%A9%E9%AA%91%E8%A1%8C100%E5%85%AC%E9%87%8C"
+      },
+      "raw_titles": [
+        "吴磊一天骑行100公里"
+      ],
+      "rank": 9,
+      "movie_rank": 3
     },
     {
       "title": "今年立冬吃超长长长饺子",
@@ -800,7 +804,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7721425,
+      "hot_value": 7713289,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AB%8B%E5%86%AC%E5%90%83%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90"
       },
@@ -808,22 +812,6 @@
         "今年立冬吃超长长长饺子"
       ],
       "rank": 10,
-      "movie_rank": 3
-    },
-    {
-      "title": "周迅回应获釜山电影节影后",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E8%BF%85%E5%9B%9E%E5%BA%94%E8%8E%B7%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%90%8E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "周迅回应获釜山电影节影后"
-      ],
-      "rank": 20,
       "movie_rank": 4
     },
     {
@@ -832,15 +820,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 324000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news"
       },
       "raw_titles": [
         "金鸡奖开幕式"
       ],
-      "rank": 21,
+      "rank": 14,
       "movie_rank": 5
+    },
+    {
+      "title": "周迅回应获釜山电影节影后",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 234000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%91%A8%E8%BF%85%E5%9B%9E%E5%BA%94%E8%8E%B7%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%90%8E&sa=fyb_news"
+      },
+      "raw_titles": [
+        "周迅回应获釜山电影节影后"
+      ],
+      "rank": 18,
+      "movie_rank": 6
     },
     {
       "title": "赵丽颖黄晓明点亮金鸡",
@@ -848,7 +852,7 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 81000,
+      "hot_value": 99000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%BB%84%E6%99%93%E6%98%8E%E7%82%B9%E4%BA%AE%E9%87%91%E9%B8%A1&sa=fyb_news"
       },
@@ -856,88 +860,7 @@
         "赵丽颖黄晓明点亮金鸡"
       ],
       "rank": 22,
-      "movie_rank": 6
-    },
-    {
-      "title": "赵丽颖周迅打招呼",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 74530,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%91%A8%E8%BF%85%E6%89%93%E6%8B%9B%E5%91%BC"
-      },
-      "raw_titles": [
-        "赵丽颖周迅打招呼"
-      ],
-      "rank": 23,
       "movie_rank": 7
-    },
-    {
-      "title": "张柏芝夸迪丽热巴很漂亮",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58594,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%A4%B8%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%88%E6%BC%82%E4%BA%AE"
-      },
-      "raw_titles": [
-        "张柏芝夸迪丽热巴很漂亮"
-      ],
-      "rank": 24,
-      "movie_rank": 8
-    },
-    {
-      "title": "格拉夫认领赵丽颖珠宝",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58543,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A0%BC%E6%8B%89%E5%A4%AB%E8%AE%A4%E9%A2%86%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8F%A0%E5%AE%9D"
-      },
-      "raw_titles": [
-        "格拉夫认领赵丽颖珠宝"
-      ],
-      "rank": 25,
-      "movie_rank": 9
-    },
-    {
-      "title": "陈情令选角时间线",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58493,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4%E9%80%89%E8%A7%92%E6%97%B6%E9%97%B4%E7%BA%BF"
-      },
-      "raw_titles": [
-        "陈情令选角时间线"
-      ],
-      "rank": 26,
-      "movie_rank": 10
-    },
-    {
-      "title": "张小斐 备战奥运",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 58234,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%A4%87%E6%88%98%E5%A5%A5%E8%BF%90"
-      },
-      "raw_titles": [
-        "张小斐 备战奥运"
-      ],
-      "rank": 28,
-      "sports_rank": 18,
-      "movie_rank": 11
     },
     {
       "title": "赵丽颖王仁君拥抱",
@@ -945,12 +868,76 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 72000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%8B%E4%BB%81%E5%90%9B%E6%8B%A5%E6%8A%B1&sa=fyb_news"
       },
       "raw_titles": [
         "赵丽颖王仁君拥抱"
+      ],
+      "rank": 23,
+      "movie_rank": 8
+    },
+    {
+      "title": "赵丽颖周迅打招呼",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 42262,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%91%A8%E8%BF%85%E6%89%93%E6%8B%9B%E5%91%BC"
+      },
+      "raw_titles": [
+        "赵丽颖周迅打招呼"
+      ],
+      "rank": 25,
+      "movie_rank": 9
+    },
+    {
+      "title": "格拉夫认领赵丽颖珠宝",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 35507,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A0%BC%E6%8B%89%E5%A4%AB%E8%AE%A4%E9%A2%86%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8F%A0%E5%AE%9D"
+      },
+      "raw_titles": [
+        "格拉夫认领赵丽颖珠宝"
+      ],
+      "rank": 27,
+      "movie_rank": 10
+    },
+    {
+      "title": "张柏芝夸迪丽热巴很漂亮",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 35462,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%A4%B8%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%88%E6%BC%82%E4%BA%AE"
+      },
+      "raw_titles": [
+        "张柏芝夸迪丽热巴很漂亮"
+      ],
+      "rank": 28,
+      "movie_rank": 11
+    },
+    {
+      "title": "陈情令选角时间线",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 35452,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4%E9%80%89%E8%A7%92%E6%97%B6%E9%97%B4%E7%BA%BF"
+      },
+      "raw_titles": [
+        "陈情令选角时间线"
       ],
       "rank": 29,
       "movie_rank": 12
