@@ -1,40 +1,40 @@
 {
-  "update_time": "2026-11-07 22:00:55",
-  "total": 15,
-  "sports_count": 4,
-  "movie_count": 12,
+  "update_time": "2026-11-07 23:00:58",
+  "total": 16,
+  "sports_count": 7,
+  "movie_count": 10,
   "all": [
-    {
-      "title": "飞驰人生IG版",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 8086874,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9FIG%E7%89%88"
-      },
-      "raw_titles": [
-        "飞驰人生IG版"
-      ],
-      "rank": 1,
-      "movie_rank": 1
-    },
     {
       "title": "王源镇江演唱会",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7835343,
+      "hot_value": 7831463,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E9%95%87%E6%B1%9F%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "王源镇江演唱会"
       ],
+      "rank": 1,
+      "movie_rank": 1
+    },
+    {
+      "title": "今天是太阳雨越对抗越美味",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7770290,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%B6%8A%E5%AF%B9%E6%8A%97%E8%B6%8A%E7%BE%8E%E5%91%B3"
+      },
+      "raw_titles": [
+        "今天是太阳雨越对抗越美味"
+      ],
       "rank": 2,
-      "movie_rank": 2
+      "sports_rank": 1
     },
     {
       "title": "李荣浩嘉兴演唱会",
@@ -42,7 +42,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7833980,
+      "hot_value": 7728937,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%98%89%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -50,7 +50,71 @@
         "李荣浩嘉兴演唱会"
       ],
       "rank": 3,
+      "movie_rank": 2
+    },
+    {
+      "title": "S16半决赛单曲 太阳之子",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 7347243,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%8D%95%E6%9B%B2%20%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90"
+      },
+      "raw_titles": [
+        "S16半决赛单曲 太阳之子"
+      ],
+      "rank": 4,
+      "sports_rank": 2
+    },
+    {
+      "title": "飞驰人生IG版",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 6454244,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9FIG%E7%89%88"
+      },
+      "raw_titles": [
+        "飞驰人生IG版"
+      ],
+      "rank": 5,
       "movie_rank": 3
+    },
+    {
+      "title": "NBA新赛季伤病潮有多严重",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1378274,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E4%BC%A4%E7%97%85%E6%BD%AE%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D"
+      },
+      "raw_titles": [
+        "NBA新赛季伤病潮有多严重"
+      ],
+      "rank": 6,
+      "sports_rank": 3
+    },
+    {
+      "title": "热火的问题在于字母哥吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1088169,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%81%AB%E7%9A%84%E9%97%AE%E9%A2%98%E5%9C%A8%E4%BA%8E%E5%AD%97%E6%AF%8D%E5%93%A5%E5%90%97"
+      },
+      "raw_titles": [
+        "热火的问题在于字母哥吗"
+      ],
+      "rank": 7,
+      "sports_rank": 4
     },
     {
       "title": "汉斯季默是好莱坞配乐界的GOAT吗",
@@ -58,31 +122,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 973916,
+      "hot_value": 958283,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B1%89%E6%96%AF%E5%AD%A3%E9%BB%98%E6%98%AF%E5%A5%BD%E8%8E%B1%E5%9D%9E%E9%85%8D%E4%B9%90%E7%95%8C%E7%9A%84GOAT%E5%90%97"
       },
       "raw_titles": [
         "汉斯季默是好莱坞配乐界的GOAT吗"
       ],
-      "rank": 4,
+      "rank": 8,
       "movie_rank": 4
-    },
-    {
-      "title": "勇士该如何止损波尔津吉斯",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 955830,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8B%87%E5%A3%AB%E8%AF%A5%E5%A6%82%E4%BD%95%E6%AD%A2%E6%8D%9F%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF"
-      },
-      "raw_titles": [
-        "勇士该如何止损波尔津吉斯"
-      ],
-      "rank": 5,
-      "sports_rank": 1
     },
     {
       "title": "东契奇53分5篮板5助攻",
@@ -90,31 +138,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 786268,
+      "hot_value": 691825,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%A5%91%E5%A5%8753%E5%88%865%E7%AF%AE%E6%9D%BF5%E5%8A%A9%E6%94%BB"
       },
       "raw_titles": [
         "东契奇53分5篮板5助攻"
       ],
-      "rank": 6,
-      "sports_rank": 2
-    },
-    {
-      "title": "原来赵丽颖早起上班也会有班味",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 369000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%8E%9F%E6%9D%A5%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%97%A9%E8%B5%B7%E4%B8%8A%E7%8F%AD%E4%B9%9F%E4%BC%9A%E6%9C%89%E7%8F%AD%E5%91%B3&sa=fyb_news"
-      },
-      "raw_titles": [
-        "原来赵丽颖早起上班也会有班味"
-      ],
-      "rank": 7,
-      "movie_rank": 5
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "立冬吃超长长长长长长长长饺子",
@@ -122,15 +154,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 333000,
+      "hot_value": 405000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%AB%8B%E5%86%AC%E5%90%83%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90&sa=fyb_news"
       },
       "raw_titles": [
         "立冬吃超长长长长长长长长饺子"
       ],
-      "rank": 8,
+      "rank": 10,
+      "movie_rank": 5
+    },
+    {
+      "title": "原来赵丽颖早起上班也会有班味",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 396000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%8E%9F%E6%9D%A5%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%97%A9%E8%B5%B7%E4%B8%8A%E7%8F%AD%E4%B9%9F%E4%BC%9A%E6%9C%89%E7%8F%AD%E5%91%B3&sa=fyb_news"
+      },
+      "raw_titles": [
+        "原来赵丽颖早起上班也会有班味"
+      ],
+      "rank": 11,
       "movie_rank": 6
+    },
+    {
+      "title": "当地辟谣田径赛男子百米成绩9秒19",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 331662,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3%E7%94%B0%E5%BE%84%E8%B5%9B%E7%94%B7%E5%AD%90%E7%99%BE%E7%B1%B3%E6%88%90%E7%BB%A99%E7%A7%9219"
+      },
+      "raw_titles": [
+        "当地辟谣田径赛男子百米成绩9秒19"
+      ],
+      "rank": 12,
+      "sports_rank": 6
     },
     {
       "title": "赵丽颖也得变着法哄自己上班",
@@ -138,14 +202,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 309382,
+      "hot_value": 266339,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B9%9F%E5%BE%97%E5%8F%98%E7%9D%80%E6%B3%95%E5%93%84%E8%87%AA%E5%B7%B1%E4%B8%8A%E7%8F%AD"
       },
       "raw_titles": [
         "赵丽颖也得变着法哄自己上班"
       ],
-      "rank": 9,
+      "rank": 13,
       "movie_rank": 7
     },
     {
@@ -161,57 +225,9 @@
       "raw_titles": [
         "中超收官战即将打响"
       ],
-      "rank": 10,
-      "sports_rank": 3,
+      "rank": 14,
+      "sports_rank": 7,
       "movie_rank": 8
-    },
-    {
-      "title": "窦靖童进组王家卫美剧",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 180000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%AA%A6%E9%9D%96%E7%AB%A5%E8%BF%9B%E7%BB%84%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%BE%8E%E5%89%A7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "窦靖童进组王家卫美剧"
-      ],
-      "rank": 11,
-      "movie_rank": 9
-    },
-    {
-      "title": "小胖年总四连MVP",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 152428,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%B0%8F%E8%83%96%E5%B9%B4%E6%80%BB%E5%9B%9B%E8%BF%9EMVP"
-      },
-      "raw_titles": [
-        "小胖年总四连MVP"
-      ],
-      "rank": 12,
-      "sports_rank": 4
-    },
-    {
-      "title": "赵丽颖胖起来了",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 126000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%83%96%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news"
-      },
-      "raw_titles": [
-        "赵丽颖胖起来了"
-      ],
-      "rank": 13,
-      "movie_rank": 10
     },
     {
       "title": "贝克汉姆立冬日晒包饺子视频",
@@ -219,49 +235,97 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 99000,
+      "hot_value": 171000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%AB%8B%E5%86%AC%E6%97%A5%E6%99%92%E5%8C%85%E9%A5%BA%E5%AD%90%E8%A7%86%E9%A2%91&sa=fyb_news"
       },
       "raw_titles": [
         "贝克汉姆立冬日晒包饺子视频"
       ],
-      "rank": 14,
-      "movie_rank": 11
+      "rank": 15,
+      "movie_rank": 9
     },
     {
-      "title": "杨幂立冬晒饺子",
+      "title": "赵丽颖闫妮点评爱情题材电影",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 72000,
+      "hot_value": 168391,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E5%B9%82%E7%AB%8B%E5%86%AC%E6%99%92%E9%A5%BA%E5%AD%90&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%97%AB%E5%A6%AE%E7%82%B9%E8%AF%84%E7%88%B1%E6%83%85%E9%A2%98%E6%9D%90%E7%94%B5%E5%BD%B1"
       },
       "raw_titles": [
-        "杨幂立冬晒饺子"
+        "赵丽颖闫妮点评爱情题材电影"
       ],
-      "rank": 15,
-      "movie_rank": 12
+      "rank": 16,
+      "movie_rank": 10
     }
   ],
   "sports": [
     {
-      "title": "勇士该如何止损波尔津吉斯",
+      "title": "今天是太阳雨越对抗越美味",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7770290,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%B6%8A%E5%AF%B9%E6%8A%97%E8%B6%8A%E7%BE%8E%E5%91%B3"
+      },
+      "raw_titles": [
+        "今天是太阳雨越对抗越美味"
+      ],
+      "rank": 2,
+      "sports_rank": 1
+    },
+    {
+      "title": "S16半决赛单曲 太阳之子",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 955830,
+      "hot_value": 7347243,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8B%87%E5%A3%AB%E8%AF%A5%E5%A6%82%E4%BD%95%E6%AD%A2%E6%8D%9F%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%8D%95%E6%9B%B2%20%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90"
       },
       "raw_titles": [
-        "勇士该如何止损波尔津吉斯"
+        "S16半决赛单曲 太阳之子"
       ],
-      "rank": 5,
-      "sports_rank": 1
+      "rank": 4,
+      "sports_rank": 2
+    },
+    {
+      "title": "NBA新赛季伤病潮有多严重",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1378274,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E4%BC%A4%E7%97%85%E6%BD%AE%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D"
+      },
+      "raw_titles": [
+        "NBA新赛季伤病潮有多严重"
+      ],
+      "rank": 6,
+      "sports_rank": 3
+    },
+    {
+      "title": "热火的问题在于字母哥吗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1088169,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%81%AB%E7%9A%84%E9%97%AE%E9%A2%98%E5%9C%A8%E4%BA%8E%E5%AD%97%E6%AF%8D%E5%93%A5%E5%90%97"
+      },
+      "raw_titles": [
+        "热火的问题在于字母哥吗"
+      ],
+      "rank": 7,
+      "sports_rank": 4
     },
     {
       "title": "东契奇53分5篮板5助攻",
@@ -269,15 +333,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 786268,
+      "hot_value": 691825,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%A5%91%E5%A5%8753%E5%88%865%E7%AF%AE%E6%9D%BF5%E5%8A%A9%E6%94%BB"
       },
       "raw_titles": [
         "东契奇53分5篮板5助攻"
       ],
-      "rank": 6,
-      "sports_rank": 2
+      "rank": 9,
+      "sports_rank": 5
+    },
+    {
+      "title": "当地辟谣田径赛男子百米成绩9秒19",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 331662,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3%E7%94%B0%E5%BE%84%E8%B5%9B%E7%94%B7%E5%AD%90%E7%99%BE%E7%B1%B3%E6%88%90%E7%BB%A99%E7%A7%9219"
+      },
+      "raw_titles": [
+        "当地辟谣田径赛男子百米成绩9秒19"
+      ],
+      "rank": 12,
+      "sports_rank": 6
     },
     {
       "title": "中超收官战即将打响",
@@ -292,59 +372,27 @@
       "raw_titles": [
         "中超收官战即将打响"
       ],
-      "rank": 10,
-      "sports_rank": 3,
+      "rank": 14,
+      "sports_rank": 7,
       "movie_rank": 8
-    },
-    {
-      "title": "小胖年总四连MVP",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 152428,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%B0%8F%E8%83%96%E5%B9%B4%E6%80%BB%E5%9B%9B%E8%BF%9EMVP"
-      },
-      "raw_titles": [
-        "小胖年总四连MVP"
-      ],
-      "rank": 12,
-      "sports_rank": 4
     }
   ],
   "movies": [
-    {
-      "title": "飞驰人生IG版",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 8086874,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9FIG%E7%89%88"
-      },
-      "raw_titles": [
-        "飞驰人生IG版"
-      ],
-      "rank": 1,
-      "movie_rank": 1
-    },
     {
       "title": "王源镇江演唱会",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7835343,
+      "hot_value": 7831463,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E9%95%87%E6%B1%9F%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "王源镇江演唱会"
       ],
-      "rank": 2,
-      "movie_rank": 2
+      "rank": 1,
+      "movie_rank": 1
     },
     {
       "title": "李荣浩嘉兴演唱会",
@@ -352,7 +400,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7833980,
+      "hot_value": 7728937,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%98%89%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -360,6 +408,22 @@
         "李荣浩嘉兴演唱会"
       ],
       "rank": 3,
+      "movie_rank": 2
+    },
+    {
+      "title": "飞驰人生IG版",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 6454244,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9FIG%E7%89%88"
+      },
+      "raw_titles": [
+        "飞驰人生IG版"
+      ],
+      "rank": 5,
       "movie_rank": 3
     },
     {
@@ -368,31 +432,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 973916,
+      "hot_value": 958283,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B1%89%E6%96%AF%E5%AD%A3%E9%BB%98%E6%98%AF%E5%A5%BD%E8%8E%B1%E5%9D%9E%E9%85%8D%E4%B9%90%E7%95%8C%E7%9A%84GOAT%E5%90%97"
       },
       "raw_titles": [
         "汉斯季默是好莱坞配乐界的GOAT吗"
       ],
-      "rank": 4,
+      "rank": 8,
       "movie_rank": 4
-    },
-    {
-      "title": "原来赵丽颖早起上班也会有班味",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 369000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%8E%9F%E6%9D%A5%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%97%A9%E8%B5%B7%E4%B8%8A%E7%8F%AD%E4%B9%9F%E4%BC%9A%E6%9C%89%E7%8F%AD%E5%91%B3&sa=fyb_news"
-      },
-      "raw_titles": [
-        "原来赵丽颖早起上班也会有班味"
-      ],
-      "rank": 7,
-      "movie_rank": 5
     },
     {
       "title": "立冬吃超长长长长长长长长饺子",
@@ -400,14 +448,30 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 333000,
+      "hot_value": 405000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%AB%8B%E5%86%AC%E5%90%83%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90&sa=fyb_news"
       },
       "raw_titles": [
         "立冬吃超长长长长长长长长饺子"
       ],
-      "rank": 8,
+      "rank": 10,
+      "movie_rank": 5
+    },
+    {
+      "title": "原来赵丽颖早起上班也会有班味",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 396000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%8E%9F%E6%9D%A5%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%97%A9%E8%B5%B7%E4%B8%8A%E7%8F%AD%E4%B9%9F%E4%BC%9A%E6%9C%89%E7%8F%AD%E5%91%B3&sa=fyb_news"
+      },
+      "raw_titles": [
+        "原来赵丽颖早起上班也会有班味"
+      ],
+      "rank": 11,
       "movie_rank": 6
     },
     {
@@ -416,14 +480,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 309382,
+      "hot_value": 266339,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B9%9F%E5%BE%97%E5%8F%98%E7%9D%80%E6%B3%95%E5%93%84%E8%87%AA%E5%B7%B1%E4%B8%8A%E7%8F%AD"
       },
       "raw_titles": [
         "赵丽颖也得变着法哄自己上班"
       ],
-      "rank": 9,
+      "rank": 13,
       "movie_rank": 7
     },
     {
@@ -439,41 +503,9 @@
       "raw_titles": [
         "中超收官战即将打响"
       ],
-      "rank": 10,
-      "sports_rank": 3,
+      "rank": 14,
+      "sports_rank": 7,
       "movie_rank": 8
-    },
-    {
-      "title": "窦靖童进组王家卫美剧",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 180000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%AA%A6%E9%9D%96%E7%AB%A5%E8%BF%9B%E7%BB%84%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%BE%8E%E5%89%A7&sa=fyb_news"
-      },
-      "raw_titles": [
-        "窦靖童进组王家卫美剧"
-      ],
-      "rank": 11,
-      "movie_rank": 9
-    },
-    {
-      "title": "赵丽颖胖起来了",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 126000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%83%96%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news"
-      },
-      "raw_titles": [
-        "赵丽颖胖起来了"
-      ],
-      "rank": 13,
-      "movie_rank": 10
     },
     {
       "title": "贝克汉姆立冬日晒包饺子视频",
@@ -481,31 +513,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 99000,
+      "hot_value": 171000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%AB%8B%E5%86%AC%E6%97%A5%E6%99%92%E5%8C%85%E9%A5%BA%E5%AD%90%E8%A7%86%E9%A2%91&sa=fyb_news"
       },
       "raw_titles": [
         "贝克汉姆立冬日晒包饺子视频"
       ],
-      "rank": 14,
-      "movie_rank": 11
+      "rank": 15,
+      "movie_rank": 9
     },
     {
-      "title": "杨幂立冬晒饺子",
+      "title": "赵丽颖闫妮点评爱情题材电影",
       "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 72000,
+      "hot_value": 168391,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E5%B9%82%E7%AB%8B%E5%86%AC%E6%99%92%E9%A5%BA%E5%AD%90&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%97%AB%E5%A6%AE%E7%82%B9%E8%AF%84%E7%88%B1%E6%83%85%E9%A2%98%E6%9D%90%E7%94%B5%E5%BD%B1"
       },
       "raw_titles": [
-        "杨幂立冬晒饺子"
+        "赵丽颖闫妮点评爱情题材电影"
       ],
-      "rank": 15,
-      "movie_rank": 12
+      "rank": 16,
+      "movie_rank": 10
     }
   ]
 }
