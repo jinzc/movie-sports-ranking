@@ -1,37 +1,41 @@
 {
-  "update_time": "2026-11-08 15:00:53",
-  "total": 27,
-  "sports_count": 15,
-  "movie_count": 13,
+  "update_time": "2026-11-08 16:00:56",
+  "total": 25,
+  "sports_count": 14,
+  "movie_count": 12,
   "all": [
+    {
+      "title": "中超",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 12429499,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E8%B6%85",
+        "百度": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8B%E4%B8%AD%E8%B6%85%E6%94%B6%E5%AE%98%E6%88%98&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9Avs%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E"
+      },
+      "raw_titles": [
+        "中超"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "开拓者惨败马刺 杨瀚森首次两双",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 12071366,
+      "hot_value": 11611182,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85%E6%83%A8%E8%B4%A5%E9%A9%AC%E5%88%BA%20%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C"
       },
       "raw_titles": [
         "开拓者惨败马刺 杨瀚森首次两双"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "中超大连英博vs天津津门虎",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9564980,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9Avs%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E"
-      },
-      "raw_titles": [
-        "中超大连英博vs天津津门虎"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -42,7 +46,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7722085,
+      "hot_value": 7752750,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%84%E7%BA%A7%E5%9B%BD%E8%B6%B3%E9%9B%86%E8%AE%AD%E5%A4%A7%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
@@ -58,7 +62,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7679106,
+      "hot_value": 7688578,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E9%95%87%E6%B1%9F%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -69,6 +73,22 @@
       "movie_rank": 1
     },
     {
+      "title": "嫁金钗收官全员谢幕",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7615908,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E6%94%B6%E5%AE%98%E5%85%A8%E5%91%98%E8%B0%A2%E5%B9%95"
+      },
+      "raw_titles": [
+        "嫁金钗收官全员谢幕"
+      ],
+      "rank": 5,
+      "movie_rank": 2
+    },
+    {
       "title": "杨瀚森NBA生涯首次两双",
       "category": "体育",
       "sources": [
@@ -76,7 +96,7 @@
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 2194336,
+      "hot_value": 1886600,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AENBA%E7%94%9F%E6%B6%AF%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C",
         "百度": "https://m.baidu.com/s?word=12%E5%88%8610%E7%AF%AE%E6%9D%BF%EF%BC%81%E6%9D%A8%E7%80%9A%E6%A3%AENBA%E7%94%9F%E6%B6%AF%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C&sa=fyb_news",
@@ -85,40 +105,8 @@
       "raw_titles": [
         "杨瀚森NBA生涯首次两双"
       ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "TheShy希望Chovy夺冠",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1131468,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=TheShy%E5%B8%8C%E6%9C%9BChovy%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "TheShy希望Chovy夺冠"
-      ],
       "rank": 6,
-      "sports_rank": 5
-    },
-    {
-      "title": "库里轰41分勇士豪取7连胜",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 949420,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E8%BD%B041%E5%88%86%E5%8B%87%E5%A3%AB%E8%B1%AA%E5%8F%967%E8%BF%9E%E8%83%9C"
-      },
-      "raw_titles": [
-        "库里轰41分勇士豪取7连胜"
-      ],
-      "rank": 7,
-      "sports_rank": 6
+      "sports_rank": 4
     },
     {
       "title": "科隆Major夺冠纪录片上线",
@@ -126,128 +114,113 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 824717,
+      "hot_value": 999972,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%8A%E7%BA%BF"
       },
       "raw_titles": [
         "科隆Major夺冠纪录片上线"
       ],
-      "rank": 8,
-      "sports_rank": 7,
-      "movie_rank": 2
-    },
-    {
-      "title": "东契奇场均轰40.1分",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 770509,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%A5%91%E5%A5%87%E5%9C%BA%E5%9D%87%E8%BD%B040.1%E5%88%86"
-      },
-      "raw_titles": [
-        "东契奇场均轰40.1分"
-      ],
-      "rank": 9,
-      "sports_rank": 8
-    },
-    {
-      "title": "雷霆战胜奇才获四连胜",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 583330,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E9%9C%86%E6%88%98%E8%83%9C%E5%A5%87%E6%89%8D%E8%8E%B7%E5%9B%9B%E8%BF%9E%E8%83%9C"
-      },
-      "raw_titles": [
-        "雷霆战胜奇才获四连胜"
-      ],
-      "rank": 10,
-      "sports_rank": 9
-    },
-    {
-      "title": "Chopper正式退役",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 394800,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Chopper%E6%AD%A3%E5%BC%8F%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "Chopper正式退役"
-      ],
-      "rank": 11,
-      "sports_rank": 10
-    },
-    {
-      "title": "王一博2天获2次亚军",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 369000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%B8%80%E5%8D%9A2%E5%A4%A9%E8%8E%B72%E6%AC%A1%E4%BA%9A%E5%86%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王一博2天获2次亚军"
-      ],
-      "rank": 12,
+      "rank": 7,
+      "sports_rank": 5,
       "movie_rank": 3
     },
     {
-      "title": "太阳雨 猫的树牛大了",
+      "title": "库里轰41分勇士豪取7连胜",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 999475,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E8%BD%B041%E5%88%86%E5%8B%87%E5%A3%AB%E8%B1%AA%E5%8F%967%E8%BF%9E%E8%83%9C"
+      },
+      "raw_titles": [
+        "库里轰41分勇士豪取7连胜"
+      ],
+      "rank": 8,
+      "sports_rank": 6
+    },
+    {
+      "title": "王者农友杯总决赛",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 867498,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%86%9C%E5%8F%8B%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "王者农友杯总决赛"
+      ],
+      "rank": 9,
+      "sports_rank": 7
+    },
+    {
+      "title": "汪苏泷新专辑联名2纪录片预告",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 840513,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%96%B0%E4%B8%93%E8%BE%91%E8%81%94%E5%90%8D2%E7%BA%AA%E5%BD%95%E7%89%87%E9%A2%84%E5%91%8A"
+      },
+      "raw_titles": [
+        "汪苏泷新专辑联名2纪录片预告"
+      ],
+      "rank": 10,
+      "movie_rank": 4
+    },
+    {
+      "title": "荒野露营帐篷外传来狮子吼声",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 579296,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8D%92%E9%87%8E%E9%9C%B2%E8%90%A5%E5%B8%90%E7%AF%B7%E5%A4%96%E4%BC%A0%E6%9D%A5%E7%8B%AE%E5%AD%90%E5%90%BC%E5%A3%B0"
+      },
+      "raw_titles": [
+        "荒野露营帐篷外传来狮子吼声"
+      ],
+      "rank": 11,
+      "movie_rank": 5
+    },
+    {
+      "title": "易烊千玺同一时间卡点为王俊凯王源庆生",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 499375,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA"
+      },
+      "raw_titles": [
+        "易烊千玺同一时间卡点为王俊凯王源庆生"
+      ],
+      "rank": 12,
+      "movie_rank": 6
+    },
+    {
+      "title": "TheShy希望Chovy夺冠",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 364531,
+      "hot_value": 453732,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A4%AA%E9%98%B3%E9%9B%A8%20%E7%8C%AB%E7%9A%84%E6%A0%91%E7%89%9B%E5%A4%A7%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=TheShy%E5%B8%8C%E6%9C%9BChovy%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "太阳雨 猫的树牛大了"
+        "TheShy希望Chovy夺冠"
       ],
       "rank": 13,
-      "sports_rank": 11
-    },
-    {
-      "title": "花少8播放量综艺断层领先",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 362278,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%918%E6%92%AD%E6%94%BE%E9%87%8F%E7%BB%BC%E8%89%BA%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88"
-      },
-      "raw_titles": [
-        "花少8播放量综艺断层领先"
-      ],
-      "rank": 14,
-      "movie_rank": 4
-    },
-    {
-      "title": "曝迪丽热巴没买房常年住酒店",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 360581,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B2%A1%E4%B9%B0%E6%88%BF%E5%B8%B8%E5%B9%B4%E4%BD%8F%E9%85%92%E5%BA%97"
-      },
-      "raw_titles": [
-        "曝迪丽热巴没买房常年住酒店"
-      ],
-      "rank": 15,
-      "movie_rank": 5
+      "sports_rank": 8
     },
     {
       "title": "吴磊求拥抱被拒 大姐：不知道是明星",
@@ -255,31 +228,111 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 333000,
+      "hot_value": 369000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%90%B4%E7%A3%8A%E6%B1%82%E6%8B%A5%E6%8A%B1%E8%A2%AB%E6%8B%92+%E5%A4%A7%E5%A7%90%EF%BC%9A%E4%B8%8D%E7%9F%A5%E9%81%93%E6%98%AF%E6%98%8E%E6%98%9F&sa=fyb_news"
       },
       "raw_titles": [
         "吴磊求拥抱被拒 大姐：不知道是明星"
       ],
-      "rank": 16,
-      "movie_rank": 6
+      "rank": 14,
+      "movie_rank": 7
     },
     {
-      "title": "杨瀚森对位文班亚马",
+      "title": "曝迪丽热巴没买房常年住酒店",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 359051,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B2%A1%E4%B9%B0%E6%88%BF%E5%B8%B8%E5%B9%B4%E4%BD%8F%E9%85%92%E5%BA%97"
+      },
+      "raw_titles": [
+        "曝迪丽热巴没买房常年住酒店"
+      ],
+      "rank": 15,
+      "movie_rank": 8
+    },
+    {
+      "title": "王一博2天获2次亚军",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 252000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%B8%80%E5%8D%9A2%E5%A4%A9%E8%8E%B72%E6%AC%A1%E4%BA%9A%E5%86%9B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "王一博2天获2次亚军"
+      ],
+      "rank": 16,
+      "movie_rank": 9
+    },
+    {
+      "title": "花少8播放量综艺断层领先",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 237397,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%918%E6%92%AD%E6%94%BE%E9%87%8F%E7%BB%BC%E8%89%BA%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88"
+      },
+      "raw_titles": [
+        "花少8播放量综艺断层领先"
+      ],
+      "rank": 17,
+      "movie_rank": 10
+    },
+    {
+      "title": "沈腾为了收视率不择手段了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 237010,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E4%B8%BA%E4%BA%86%E6%94%B6%E8%A7%86%E7%8E%87%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5%E4%BA%86"
+      },
+      "raw_titles": [
+        "沈腾为了收视率不择手段了"
+      ],
+      "rank": 18,
+      "movie_rank": 11
+    },
+    {
+      "title": "太阳雨 猫的树牛大了",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 249734,
+      "hot_value": 235868,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AF%B9%E4%BD%8D%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC"
+        "微博": "https://s.weibo.com/weibo?q=%E5%A4%AA%E9%98%B3%E9%9B%A8%20%E7%8C%AB%E7%9A%84%E6%A0%91%E7%89%9B%E5%A4%A7%E4%BA%86"
       },
       "raw_titles": [
-        "杨瀚森对位文班亚马"
+        "太阳雨 猫的树牛大了"
       ],
-      "rank": 17,
-      "sports_rank": 12
+      "rank": 19,
+      "sports_rank": 9
+    },
+    {
+      "title": "杨瀚森NBA级大中锋",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 208356,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AENBA%E7%BA%A7%E5%A4%A7%E4%B8%AD%E9%94%8B"
+      },
+      "raw_titles": [
+        "杨瀚森NBA级大中锋"
+      ],
+      "rank": 20,
+      "sports_rank": 10
     },
     {
       "title": "NBA回应杨瀚森表现",
@@ -287,111 +340,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 213691,
+      "hot_value": 164236,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=NBA%E5%9B%9E%E5%BA%94%E6%9D%A8%E7%80%9A%E6%A3%AE%E8%A1%A8%E7%8E%B0"
       },
       "raw_titles": [
         "NBA回应杨瀚森表现"
       ],
-      "rank": 18,
-      "sports_rank": 13
+      "rank": 21,
+      "sports_rank": 11
     },
     {
-      "title": "迪丽热巴物欲超低的女明星",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 203254,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%89%A9%E6%AC%B2%E8%B6%85%E4%BD%8E%E7%9A%84%E5%A5%B3%E6%98%8E%E6%98%9F"
-      },
-      "raw_titles": [
-        "迪丽热巴物欲超低的女明星"
-      ],
-      "rank": 19,
-      "movie_rank": 7
-    },
-    {
-      "title": "易烊千玺",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 190635,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA"
-      },
-      "raw_titles": [
-        "易烊千玺"
-      ],
-      "rank": 20,
-      "movie_rank": 8
-    },
-    {
-      "title": "杨瀚森5分钟3分5篮板",
+      "title": "杨瀚森对位文班亚马",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 155586,
+      "hot_value": 141773,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE5%E5%88%86%E9%92%9F3%E5%88%865%E7%AF%AE%E6%9D%BF"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AF%B9%E4%BD%8D%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC"
       },
       "raw_titles": [
-        "杨瀚森5分钟3分5篮板"
-      ],
-      "rank": 21,
-      "sports_rank": 14
-    },
-    {
-      "title": "东北大爷大妈一边冬泳一边吃饺子",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 153000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%9C%E5%8C%97%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E4%B8%80%E8%BE%B9%E5%86%AC%E6%B3%B3%E4%B8%80%E8%BE%B9%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news"
-      },
-      "raw_titles": [
-        "东北大爷大妈一边冬泳一边吃饺子"
+        "杨瀚森对位文班亚马"
       ],
       "rank": 22,
-      "movie_rank": 9
-    },
-    {
-      "title": "中国球员NBA常规赛两双仅3人",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 149008,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98NBA%E5%B8%B8%E8%A7%84%E8%B5%9B%E4%B8%A4%E5%8F%8C%E4%BB%853%E4%BA%BA"
-      },
-      "raw_titles": [
-        "中国球员NBA常规赛两双仅3人"
-      ],
-      "rank": 23,
-      "sports_rank": 15
-    },
-    {
-      "title": "王一博打滑后连续超车",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 143840,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%93%E6%BB%91%E5%90%8E%E8%BF%9E%E7%BB%AD%E8%B6%85%E8%BD%A6"
-      },
-      "raw_titles": [
-        "王一博打滑后连续超车"
-      ],
-      "rank": 24,
-      "movie_rank": 10
+      "sports_rank": 12
     },
     {
       "title": "曝金鸡奖获奖名单",
@@ -399,78 +372,82 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 90000,
+      "hot_value": 135000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9B%9D%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
       },
       "raw_titles": [
         "曝金鸡奖获奖名单"
       ],
-      "rank": 25,
-      "movie_rank": 11
-    },
-    {
-      "title": "王力宏王心凌合唱《爱你》",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 54000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%88%E5%94%B1%E3%80%8A%E7%88%B1%E4%BD%A0%E3%80%8B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王力宏王心凌合唱《爱你》"
-      ],
-      "rank": 26,
+      "rank": 23,
       "movie_rank": 12
     },
     {
-      "title": "林忆莲又给年轻歌手上了一课",
-      "category": "影视",
+      "title": "今天是太阳雨",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 132821,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8"
+      },
+      "raw_titles": [
+        "今天是太阳雨"
+      ],
+      "rank": 24,
+      "sports_rank": 13
+    },
+    {
+      "title": "杨瀚森5分钟3分5篮板",
+      "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 36000,
+      "hot_value": 108000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9E%97%E5%BF%86%E8%8E%B2%E5%8F%88%E7%BB%99%E5%B9%B4%E8%BD%BB%E6%AD%8C%E6%89%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%80%9A%E6%A3%AE5%E5%88%86%E9%92%9F3%E5%88%865%E7%AF%AE%E6%9D%BF&sa=fyb_news"
       },
       "raw_titles": [
-        "林忆莲又给年轻歌手上了一课"
+        "杨瀚森5分钟3分5篮板"
       ],
-      "rank": 27,
-      "movie_rank": 13
+      "rank": 25,
+      "sports_rank": 14
     }
   ],
   "sports": [
+    {
+      "title": "中超",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 12429499,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E8%B6%85",
+        "百度": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8B%E4%B8%AD%E8%B6%85%E6%94%B6%E5%AE%98%E6%88%98&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9Avs%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E"
+      },
+      "raw_titles": [
+        "中超"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "开拓者惨败马刺 杨瀚森首次两双",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 12071366,
+      "hot_value": 11611182,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85%E6%83%A8%E8%B4%A5%E9%A9%AC%E5%88%BA%20%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C"
       },
       "raw_titles": [
         "开拓者惨败马刺 杨瀚森首次两双"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "中超大连英博vs天津津门虎",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9564980,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9Avs%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E"
-      },
-      "raw_titles": [
-        "中超大连英博vs天津津门虎"
       ],
       "rank": 2,
       "sports_rank": 2
@@ -481,7 +458,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7722085,
+      "hot_value": 7752750,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%84%E7%BA%A7%E5%9B%BD%E8%B6%B3%E9%9B%86%E8%AE%AD%E5%A4%A7%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
       },
@@ -499,7 +476,7 @@
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 2194336,
+      "hot_value": 1886600,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AENBA%E7%94%9F%E6%B6%AF%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C",
         "百度": "https://m.baidu.com/s?word=12%E5%88%8610%E7%AF%AE%E6%9D%BF%EF%BC%81%E6%9D%A8%E7%80%9A%E6%A3%AENBA%E7%94%9F%E6%B6%AF%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C&sa=fyb_news",
@@ -508,40 +485,8 @@
       "raw_titles": [
         "杨瀚森NBA生涯首次两双"
       ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "TheShy希望Chovy夺冠",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 1131468,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=TheShy%E5%B8%8C%E6%9C%9BChovy%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "TheShy希望Chovy夺冠"
-      ],
       "rank": 6,
-      "sports_rank": 5
-    },
-    {
-      "title": "库里轰41分勇士豪取7连胜",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 949420,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E8%BD%B041%E5%88%86%E5%8B%87%E5%A3%AB%E8%B1%AA%E5%8F%967%E8%BF%9E%E8%83%9C"
-      },
-      "raw_titles": [
-        "库里轰41分勇士豪取7连胜"
-      ],
-      "rank": 7,
-      "sports_rank": 6
+      "sports_rank": 4
     },
     {
       "title": "科隆Major夺冠纪录片上线",
@@ -549,64 +494,64 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 824717,
+      "hot_value": 999972,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%8A%E7%BA%BF"
       },
       "raw_titles": [
         "科隆Major夺冠纪录片上线"
       ],
-      "rank": 8,
-      "sports_rank": 7,
-      "movie_rank": 2
+      "rank": 7,
+      "sports_rank": 5,
+      "movie_rank": 3
     },
     {
-      "title": "东契奇场均轰40.1分",
+      "title": "库里轰41分勇士豪取7连胜",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 770509,
+      "hot_value": 999475,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%A5%91%E5%A5%87%E5%9C%BA%E5%9D%87%E8%BD%B040.1%E5%88%86"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E8%BD%B041%E5%88%86%E5%8B%87%E5%A3%AB%E8%B1%AA%E5%8F%967%E8%BF%9E%E8%83%9C"
       },
       "raw_titles": [
-        "东契奇场均轰40.1分"
+        "库里轰41分勇士豪取7连胜"
+      ],
+      "rank": 8,
+      "sports_rank": 6
+    },
+    {
+      "title": "王者农友杯总决赛",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 867498,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%86%9C%E5%8F%8B%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "王者农友杯总决赛"
       ],
       "rank": 9,
+      "sports_rank": 7
+    },
+    {
+      "title": "TheShy希望Chovy夺冠",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 453732,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=TheShy%E5%B8%8C%E6%9C%9BChovy%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "TheShy希望Chovy夺冠"
+      ],
+      "rank": 13,
       "sports_rank": 8
-    },
-    {
-      "title": "雷霆战胜奇才获四连胜",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 583330,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E9%9C%86%E6%88%98%E8%83%9C%E5%A5%87%E6%89%8D%E8%8E%B7%E5%9B%9B%E8%BF%9E%E8%83%9C"
-      },
-      "raw_titles": [
-        "雷霆战胜奇才获四连胜"
-      ],
-      "rank": 10,
-      "sports_rank": 9
-    },
-    {
-      "title": "Chopper正式退役",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 394800,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=Chopper%E6%AD%A3%E5%BC%8F%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "Chopper正式退役"
-      ],
-      "rank": 11,
-      "sports_rank": 10
     },
     {
       "title": "太阳雨 猫的树牛大了",
@@ -614,14 +559,46 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 364531,
+      "hot_value": 235868,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%A4%AA%E9%98%B3%E9%9B%A8%20%E7%8C%AB%E7%9A%84%E6%A0%91%E7%89%9B%E5%A4%A7%E4%BA%86"
       },
       "raw_titles": [
         "太阳雨 猫的树牛大了"
       ],
-      "rank": 13,
+      "rank": 19,
+      "sports_rank": 9
+    },
+    {
+      "title": "杨瀚森NBA级大中锋",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 208356,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AENBA%E7%BA%A7%E5%A4%A7%E4%B8%AD%E9%94%8B"
+      },
+      "raw_titles": [
+        "杨瀚森NBA级大中锋"
+      ],
+      "rank": 20,
+      "sports_rank": 10
+    },
+    {
+      "title": "NBA回应杨瀚森表现",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 164236,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=NBA%E5%9B%9E%E5%BA%94%E6%9D%A8%E7%80%9A%E6%A3%AE%E8%A1%A8%E7%8E%B0"
+      },
+      "raw_titles": [
+        "NBA回应杨瀚森表现"
+      ],
+      "rank": 21,
       "sports_rank": 11
     },
     {
@@ -630,63 +607,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 249734,
+      "hot_value": 141773,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AF%B9%E4%BD%8D%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC"
       },
       "raw_titles": [
         "杨瀚森对位文班亚马"
       ],
-      "rank": 17,
+      "rank": 22,
       "sports_rank": 12
     },
     {
-      "title": "NBA回应杨瀚森表现",
+      "title": "今天是太阳雨",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 213691,
+      "hot_value": 132821,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=NBA%E5%9B%9E%E5%BA%94%E6%9D%A8%E7%80%9A%E6%A3%AE%E8%A1%A8%E7%8E%B0"
+        "微博": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8"
       },
       "raw_titles": [
-        "NBA回应杨瀚森表现"
+        "今天是太阳雨"
       ],
-      "rank": 18,
+      "rank": 24,
       "sports_rank": 13
     },
     {
       "title": "杨瀚森5分钟3分5篮板",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 155586,
+      "hot_value": 108000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE5%E5%88%86%E9%92%9F3%E5%88%865%E7%AF%AE%E6%9D%BF"
+        "百度": "https://m.baidu.com/s?word=%E6%9D%A8%E7%80%9A%E6%A3%AE5%E5%88%86%E9%92%9F3%E5%88%865%E7%AF%AE%E6%9D%BF&sa=fyb_news"
       },
       "raw_titles": [
         "杨瀚森5分钟3分5篮板"
       ],
-      "rank": 21,
+      "rank": 25,
       "sports_rank": 14
-    },
-    {
-      "title": "中国球员NBA常规赛两双仅3人",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 149008,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98NBA%E5%B8%B8%E8%A7%84%E8%B5%9B%E4%B8%A4%E5%8F%8C%E4%BB%853%E4%BA%BA"
-      },
-      "raw_titles": [
-        "中国球员NBA常规赛两双仅3人"
-      ],
-      "rank": 23,
-      "sports_rank": 15
     }
   ],
   "movies": [
@@ -696,7 +657,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7679106,
+      "hot_value": 7688578,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E9%95%87%E6%B1%9F%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
@@ -707,69 +668,86 @@
       "movie_rank": 1
     },
     {
+      "title": "嫁金钗收官全员谢幕",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7615908,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E6%94%B6%E5%AE%98%E5%85%A8%E5%91%98%E8%B0%A2%E5%B9%95"
+      },
+      "raw_titles": [
+        "嫁金钗收官全员谢幕"
+      ],
+      "rank": 5,
+      "movie_rank": 2
+    },
+    {
       "title": "科隆Major夺冠纪录片上线",
       "category": "综合",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 824717,
+      "hot_value": 999972,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%8A%E7%BA%BF"
       },
       "raw_titles": [
         "科隆Major夺冠纪录片上线"
       ],
-      "rank": 8,
-      "sports_rank": 7,
-      "movie_rank": 2
-    },
-    {
-      "title": "王一博2天获2次亚军",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 369000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%B8%80%E5%8D%9A2%E5%A4%A9%E8%8E%B72%E6%AC%A1%E4%BA%9A%E5%86%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王一博2天获2次亚军"
-      ],
-      "rank": 12,
+      "rank": 7,
+      "sports_rank": 5,
       "movie_rank": 3
     },
     {
-      "title": "花少8播放量综艺断层领先",
+      "title": "汪苏泷新专辑联名2纪录片预告",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 362278,
+      "hot_value": 840513,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%918%E6%92%AD%E6%94%BE%E9%87%8F%E7%BB%BC%E8%89%BA%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%96%B0%E4%B8%93%E8%BE%91%E8%81%94%E5%90%8D2%E7%BA%AA%E5%BD%95%E7%89%87%E9%A2%84%E5%91%8A"
       },
       "raw_titles": [
-        "花少8播放量综艺断层领先"
+        "汪苏泷新专辑联名2纪录片预告"
       ],
-      "rank": 14,
+      "rank": 10,
       "movie_rank": 4
     },
     {
-      "title": "曝迪丽热巴没买房常年住酒店",
+      "title": "荒野露营帐篷外传来狮子吼声",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 360581,
+      "hot_value": 579296,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B2%A1%E4%B9%B0%E6%88%BF%E5%B8%B8%E5%B9%B4%E4%BD%8F%E9%85%92%E5%BA%97"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8D%92%E9%87%8E%E9%9C%B2%E8%90%A5%E5%B8%90%E7%AF%B7%E5%A4%96%E4%BC%A0%E6%9D%A5%E7%8B%AE%E5%AD%90%E5%90%BC%E5%A3%B0"
       },
       "raw_titles": [
-        "曝迪丽热巴没买房常年住酒店"
+        "荒野露营帐篷外传来狮子吼声"
       ],
-      "rank": 15,
+      "rank": 11,
       "movie_rank": 5
+    },
+    {
+      "title": "易烊千玺同一时间卡点为王俊凯王源庆生",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 499375,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA"
+      },
+      "raw_titles": [
+        "易烊千玺同一时间卡点为王俊凯王源庆生"
+      ],
+      "rank": 12,
+      "movie_rank": 6
     },
     {
       "title": "吴磊求拥抱被拒 大姐：不知道是明星",
@@ -777,79 +755,79 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 333000,
+      "hot_value": 369000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%90%B4%E7%A3%8A%E6%B1%82%E6%8B%A5%E6%8A%B1%E8%A2%AB%E6%8B%92+%E5%A4%A7%E5%A7%90%EF%BC%9A%E4%B8%8D%E7%9F%A5%E9%81%93%E6%98%AF%E6%98%8E%E6%98%9F&sa=fyb_news"
       },
       "raw_titles": [
         "吴磊求拥抱被拒 大姐：不知道是明星"
       ],
-      "rank": 16,
-      "movie_rank": 6
-    },
-    {
-      "title": "迪丽热巴物欲超低的女明星",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 203254,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%89%A9%E6%AC%B2%E8%B6%85%E4%BD%8E%E7%9A%84%E5%A5%B3%E6%98%8E%E6%98%9F"
-      },
-      "raw_titles": [
-        "迪丽热巴物欲超低的女明星"
-      ],
-      "rank": 19,
+      "rank": 14,
       "movie_rank": 7
     },
     {
-      "title": "易烊千玺",
+      "title": "曝迪丽热巴没买房常年住酒店",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 190635,
+      "hot_value": 359051,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B2%A1%E4%B9%B0%E6%88%BF%E5%B8%B8%E5%B9%B4%E4%BD%8F%E9%85%92%E5%BA%97"
       },
       "raw_titles": [
-        "易烊千玺"
+        "曝迪丽热巴没买房常年住酒店"
       ],
-      "rank": 20,
+      "rank": 15,
       "movie_rank": 8
     },
     {
-      "title": "东北大爷大妈一边冬泳一边吃饺子",
+      "title": "王一博2天获2次亚军",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 153000,
+      "hot_value": 252000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%9C%E5%8C%97%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E4%B8%80%E8%BE%B9%E5%86%AC%E6%B3%B3%E4%B8%80%E8%BE%B9%E5%90%83%E9%A5%BA%E5%AD%90&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E4%B8%80%E5%8D%9A2%E5%A4%A9%E8%8E%B72%E6%AC%A1%E4%BA%9A%E5%86%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "东北大爷大妈一边冬泳一边吃饺子"
+        "王一博2天获2次亚军"
       ],
-      "rank": 22,
+      "rank": 16,
       "movie_rank": 9
     },
     {
-      "title": "王一博打滑后连续超车",
+      "title": "花少8播放量综艺断层领先",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 143840,
+      "hot_value": 237397,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%93%E6%BB%91%E5%90%8E%E8%BF%9E%E7%BB%AD%E8%B6%85%E8%BD%A6"
+        "微博": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%918%E6%92%AD%E6%94%BE%E9%87%8F%E7%BB%BC%E8%89%BA%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88"
       },
       "raw_titles": [
-        "王一博打滑后连续超车"
+        "花少8播放量综艺断层领先"
       ],
-      "rank": 24,
+      "rank": 17,
       "movie_rank": 10
+    },
+    {
+      "title": "沈腾为了收视率不择手段了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 237010,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E4%B8%BA%E4%BA%86%E6%94%B6%E8%A7%86%E7%8E%87%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5%E4%BA%86"
+      },
+      "raw_titles": [
+        "沈腾为了收视率不择手段了"
+      ],
+      "rank": 18,
+      "movie_rank": 11
     },
     {
       "title": "曝金鸡奖获奖名单",
@@ -857,47 +835,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 90000,
+      "hot_value": 135000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%9B%9D%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
       },
       "raw_titles": [
         "曝金鸡奖获奖名单"
       ],
-      "rank": 25,
-      "movie_rank": 11
-    },
-    {
-      "title": "王力宏王心凌合唱《爱你》",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 54000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%88%E5%94%B1%E3%80%8A%E7%88%B1%E4%BD%A0%E3%80%8B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "王力宏王心凌合唱《爱你》"
-      ],
-      "rank": 26,
+      "rank": 23,
       "movie_rank": 12
-    },
-    {
-      "title": "林忆莲又给年轻歌手上了一课",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%9E%97%E5%BF%86%E8%8E%B2%E5%8F%88%E7%BB%99%E5%B9%B4%E8%BD%BB%E6%AD%8C%E6%89%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE&sa=fyb_news"
-      },
-      "raw_titles": [
-        "林忆莲又给年轻歌手上了一课"
-      ],
-      "rank": 27,
-      "movie_rank": 13
     }
   ]
 }
