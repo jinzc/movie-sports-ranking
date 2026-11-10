@@ -1,62 +1,66 @@
 {
-  "update_time": "2026-11-10 20:00:59",
-  "total": 28,
-  "sports_count": 13,
-  "movie_count": 15,
+  "update_time": "2026-11-10 21:01:00",
+  "total": 38,
+  "sports_count": 12,
+  "movie_count": 26,
   "all": [
-    {
-      "title": "金鸡奖",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "抖音",
-        "抖音",
-        "哔哩哔哩"
-      ],
-      "hot_value": 24473234,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E6%9F%AF%E6%B7%B3%E9%99%88%E6%B7%BB%E7%A5%A5%E9%87%91%E9%B8%A1%E5%A5%96%E7%BA%A2%E6%AF%AF",
-        "百度": "https://m.baidu.com/s?word=%E5%85%B0%E8%A5%BF%E9%9B%85%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E6%9A%A8%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC"
-      },
-      "raw_titles": [
-        "金鸡奖"
-      ],
-      "rank": 1,
-      "movie_rank": 1
-    },
     {
       "title": "中国乒协公布混团世界杯名单",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 10925931,
+      "hot_value": 10975456,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%B9%92%E5%8D%8F%E5%85%AC%E5%B8%83%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95"
       },
       "raw_titles": [
         "中国乒协公布混团世界杯名单"
       ],
-      "rank": 2,
+      "rank": 1,
       "sports_rank": 1
+    },
+    {
+      "title": "金鸡奖颁奖典礼",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度",
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 10269034,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC",
+        "百度": "https://m.baidu.com/s?word=%E9%87%91%E9%B8%A1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%E6%9A%A8%E9%97%AD%E5%B9%95%E5%BC%8F",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E6%9A%A8%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC"
+      },
+      "raw_titles": [
+        "金鸡奖颁奖典礼"
+      ],
+      "rank": 2,
+      "movie_rank": 1
+    },
+    {
+      "title": "兰西雅金鸡奖最佳女配角",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 8886850,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%85%B0%E8%A5%BF%E9%9B%85%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92",
+        "百度": "https://m.baidu.com/s?word=%E5%85%B0%E8%A5%BF%E9%9B%85%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%85%B0%E8%A5%BF%E9%9B%85%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92"
+      },
+      "raw_titles": [
+        "兰西雅金鸡奖最佳女配角"
+      ],
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "超长长长长长长饺子吃了不烧心",
@@ -64,15 +68,36 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8617792,
+      "hot_value": 8829601,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90%E5%90%83%E4%BA%86%E4%B8%8D%E7%83%A7%E5%BF%83"
       },
       "raw_titles": [
         "超长长长长长长饺子吃了不烧心"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 4,
+      "movie_rank": 3
+    },
+    {
+      "title": "金鸡奖红毯",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 8555100,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E7%BA%A2%E6%AF%AF",
+        "百度": "https://m.baidu.com/s?word=72%E5%B2%81%E8%B5%B5%E9%9B%85%E8%8A%9D%E4%BA%AE%E7%9B%B8%E9%87%91%E9%B8%A1%E5%A5%96%E7%BA%A2%E6%AF%AF&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF"
+      },
+      "raw_titles": [
+        "金鸡奖红毯"
+      ],
+      "rank": 5,
+      "movie_rank": 4
     },
     {
       "title": "2026中国足球职业联赛颁奖典礼",
@@ -80,14 +105,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7830466,
+      "hot_value": 8385881,
       "urls": {
         "抖音": "https://www.douyin.com/search/2026%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E8%81%8C%E4%B8%9A%E8%81%94%E8%B5%9B%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC"
       },
       "raw_titles": [
         "2026中国足球职业联赛颁奖典礼"
       ],
-      "rank": 4,
+      "rank": 6,
       "sports_rank": 2
     },
     {
@@ -96,14 +121,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7827825,
+      "hot_value": 7832651,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8B%87%E5%A3%AB51%E5%88%86%E5%A4%A7%E8%83%9C%E9%B9%88%E9%B9%95%E8%B1%AA%E5%8F%968%E8%BF%9E%E8%83%9C"
       },
       "raw_titles": [
         "勇士51分大胜鹈鹕豪取8连胜"
       ],
-      "rank": 5,
+      "rank": 7,
       "sports_rank": 3
     },
     {
@@ -112,79 +137,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7679444,
+      "hot_value": 7707087,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%83%AD%E8%A1%80%E7%95%AA%E5%86%AC%E6%97%A5%E8%A7%A3%E5%86%BB%E4%BA%86"
       },
       "raw_titles": [
         "火影热血番冬日解冻了"
       ],
-      "rank": 6,
-      "movie_rank": 3
-    },
-    {
-      "title": "火箭110:100掘金",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7656905,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD110%3A100%E6%8E%98%E9%87%91"
-      },
-      "raw_titles": [
-        "火箭110:100掘金"
-      ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "嫁金钗收官",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7650561,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E6%94%B6%E5%AE%98"
-      },
-      "raw_titles": [
-        "嫁金钗收官"
-      ],
       "rank": 8,
-      "movie_rank": 4
-    },
-    {
-      "title": "杨幂刘诗诗倪妮等同框秀肌肉",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7649889,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%80%AA%E5%A6%AE%E7%AD%89%E5%90%8C%E6%A1%86%E7%A7%80%E8%82%8C%E8%82%89"
-      },
-      "raw_titles": [
-        "杨幂刘诗诗倪妮等同框秀肌肉"
-      ],
-      "rank": 9,
       "movie_rank": 5
     },
     {
-      "title": "120秒带你走进一场太阳雨",
-      "category": "体育",
+      "title": "朱一龙出席第39届金鸡奖",
+      "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7648970,
+      "hot_value": 7698093,
       "urls": {
-        "抖音": "https://www.douyin.com/search/120%E7%A7%92%E5%B8%A6%E4%BD%A0%E8%B5%B0%E8%BF%9B%E4%B8%80%E5%9C%BA%E5%A4%AA%E9%98%B3%E9%9B%A8"
+        "抖音": "https://www.douyin.com/search/%E6%9C%B1%E4%B8%80%E9%BE%99%E5%87%BA%E5%B8%AD%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96"
       },
       "raw_titles": [
-        "120秒带你走进一场太阳雨"
+        "朱一龙出席第39届金鸡奖"
       ],
-      "rank": 10,
-      "sports_rank": 5
+      "rank": 9,
+      "movie_rank": 6
     },
     {
       "title": "W年度盛典白敬亭扯井柏然配饰",
@@ -192,31 +169,258 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7646118,
+      "hot_value": 7672593,
       "urls": {
         "抖音": "https://www.douyin.com/search/W%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E9%85%8D%E9%A5%B0"
       },
       "raw_titles": [
         "W年度盛典白敬亭扯井柏然配饰"
       ],
-      "rank": 11,
-      "movie_rank": 6
+      "rank": 10,
+      "movie_rank": 7
     },
     {
-      "title": "电视剧谷雨主创交流会",
+      "title": "嫁金钗收官",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7640770,
+      "hot_value": 7666891,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E8%B0%B7%E9%9B%A8%E4%B8%BB%E5%88%9B%E4%BA%A4%E6%B5%81%E4%BC%9A"
+        "抖音": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E6%94%B6%E5%AE%98"
       },
       "raw_titles": [
-        "电视剧谷雨主创交流会"
+        "嫁金钗收官"
+      ],
+      "rank": 11,
+      "movie_rank": 8
+    },
+    {
+      "title": "120秒带你走进一场太阳雨",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7660135,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/120%E7%A7%92%E5%B8%A6%E4%BD%A0%E8%B5%B0%E8%BF%9B%E4%B8%80%E5%9C%BA%E5%A4%AA%E9%98%B3%E9%9B%A8"
+      },
+      "raw_titles": [
+        "120秒带你走进一场太阳雨"
       ],
       "rank": 12,
-      "movie_rank": 7
+      "sports_rank": 4
+    },
+    {
+      "title": "杨幂刘诗诗倪妮等同框秀肌肉",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7659724,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%80%AA%E5%A6%AE%E7%AD%89%E5%90%8C%E6%A1%86%E7%A7%80%E8%82%8C%E8%82%89"
+      },
+      "raw_titles": [
+        "杨幂刘诗诗倪妮等同框秀肌肉"
+      ],
+      "rank": 13,
+      "movie_rank": 9
+    },
+    {
+      "title": "现在就出发昆明路透",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7658192,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%E6%98%86%E6%98%8E%E8%B7%AF%E9%80%8F"
+      },
+      "raw_titles": [
+        "现在就出发昆明路透"
+      ],
+      "rank": 14,
+      "movie_rank": 10
+    },
+    {
+      "title": "金鸡奖获奖名单",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 3605205,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96"
+      },
+      "raw_titles": [
+        "金鸡奖获奖名单"
+      ],
+      "rank": 15,
+      "movie_rank": 11
+    },
+    {
+      "title": "易烊千玺金鸡奖坐第一排",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1012510,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%A5%96%E5%9D%90%E7%AC%AC%E4%B8%80%E6%8E%92"
+      },
+      "raw_titles": [
+        "易烊千玺金鸡奖坐第一排"
+      ],
+      "rank": 16,
+      "movie_rank": 12
+    },
+    {
+      "title": "金鸡奖节目单",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 601061,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8A%82%E7%9B%AE%E5%8D%95",
+        "百度": "https://m.baidu.com/s?word=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8A%82%E7%9B%AE%E5%8D%95&sa=fyb_news"
+      },
+      "raw_titles": [
+        "金鸡奖节目单"
+      ],
+      "rank": 17,
+      "movie_rank": 13
+    },
+    {
+      "title": "火柴人VS动画师",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 600524,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%9F%B4%E4%BA%BAVS%E5%8A%A8%E7%94%BB%E5%B8%88"
+      },
+      "raw_titles": [
+        "火柴人VS动画师"
+      ],
+      "rank": 18,
+      "movie_rank": 14
+    },
+    {
+      "title": "AI科幻电影 孤鲸",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 600519,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%20%E5%AD%A4%E9%B2%B8"
+      },
+      "raw_titles": [
+        "AI科幻电影 孤鲸"
+      ],
+      "rank": 19,
+      "movie_rank": 15
+    },
+    {
+      "title": "王力宏王心凌首次同台合唱爱你",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 600477,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1%E7%88%B1%E4%BD%A0"
+      },
+      "raw_titles": [
+        "王力宏王心凌首次同台合唱爱你"
+      ],
+      "rank": 20,
+      "movie_rank": 16
+    },
+    {
+      "title": "火影主播推理局爆料永夜扉间",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 526751,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E4%B8%BB%E6%92%AD%E6%8E%A8%E7%90%86%E5%B1%80%E7%88%86%E6%96%99%E6%B0%B8%E5%A4%9C%E6%89%89%E9%97%B4"
+      },
+      "raw_titles": [
+        "火影主播推理局爆料永夜扉间"
+      ],
+      "rank": 21,
+      "movie_rank": 17
+    },
+    {
+      "title": "文班亚马40分11篮板",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 526744,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC40%E5%88%8611%E7%AF%AE%E6%9D%BF"
+      },
+      "raw_titles": [
+        "文班亚马40分11篮板"
+      ],
+      "rank": 22,
+      "sports_rank": 5
+    },
+    {
+      "title": "文班三分线外起步上篮",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 526112,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%B8%89%E5%88%86%E7%BA%BF%E5%A4%96%E8%B5%B7%E6%AD%A5%E4%B8%8A%E7%AF%AE"
+      },
+      "raw_titles": [
+        "文班三分线外起步上篮"
+      ],
+      "rank": 23,
+      "sports_rank": 6
+    },
+    {
+      "title": "王传君安利鲁豫参加浪姐",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 487640,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%AE%89%E5%88%A9%E9%B2%81%E8%B1%AB%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90"
+      },
+      "raw_titles": [
+        "王传君安利鲁豫参加浪姐"
+      ],
+      "rank": 24,
+      "movie_rank": 18
+    },
+    {
+      "title": "三家国产AI预测BLG夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 443637,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "三家国产AI预测BLG夺冠"
+      ],
+      "rank": 25,
+      "sports_rank": 7
     },
     {
       "title": "韩网倒戈力挺BLG夺冠",
@@ -225,7 +429,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 989712,
+      "hot_value": 438927,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E5%80%92%E6%88%88%E5%8A%9B%E6%8C%BABLG%E5%A4%BA%E5%86%A0",
         "百度": "https://m.baidu.com/s?word=%E9%9F%A9%E7%BD%91%E5%80%92%E6%88%88%E5%8A%9B%E6%8C%BABLG%E5%A4%BA%E5%86%A0&sa=fyb_news"
@@ -233,8 +437,8 @@
       "raw_titles": [
         "韩网倒戈力挺BLG夺冠"
       ],
-      "rank": 13,
-      "sports_rank": 6
+      "rank": 26,
+      "sports_rank": 8
     },
     {
       "title": "F1圣保罗站赛后报告",
@@ -242,191 +446,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 937288,
+      "hot_value": 386815,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%9C%A3%E4%BF%9D%E7%BD%97%E7%AB%99%E8%B5%9B%E5%90%8E%E6%8A%A5%E5%91%8A"
       },
       "raw_titles": [
         "F1圣保罗站赛后报告"
       ],
-      "rank": 14,
-      "sports_rank": 7
-    },
-    {
-      "title": "王力宏王心凌首次同台合唱爱你",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 514155,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1%E7%88%B1%E4%BD%A0"
-      },
-      "raw_titles": [
-        "王力宏王心凌首次同台合唱爱你"
-      ],
-      "rank": 15,
-      "movie_rank": 8
-    },
-    {
-      "title": "三家国产AI预测BLG夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 514152,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "三家国产AI预测BLG夺冠"
-      ],
-      "rank": 16,
-      "sports_rank": 8
-    },
-    {
-      "title": "AI科幻电影 孤鲸",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 514148,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%20%E5%AD%A4%E9%B2%B8"
-      },
-      "raw_titles": [
-        "AI科幻电影 孤鲸"
-      ],
-      "rank": 17,
-      "movie_rank": 9
-    },
-    {
-      "title": "火柴人VS动画师",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 514147,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%9F%B4%E4%BA%BAVS%E5%8A%A8%E7%94%BB%E5%B8%88"
-      },
-      "raw_titles": [
-        "火柴人VS动画师"
-      ],
-      "rank": 18,
-      "movie_rank": 10
-    },
-    {
-      "title": "文班亚马40分11篮板",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 514144,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC40%E5%88%8611%E7%AF%AE%E6%9D%BF"
-      },
-      "raw_titles": [
-        "文班亚马40分11篮板"
-      ],
-      "rank": 19,
+      "rank": 27,
       "sports_rank": 9
     },
     {
-      "title": "文班三分线外起步上篮",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 509156,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%B8%89%E5%88%86%E7%BA%BF%E5%A4%96%E8%B5%B7%E6%AD%A5%E4%B8%8A%E7%AF%AE"
-      },
-      "raw_titles": [
-        "文班三分线外起步上篮"
-      ],
-      "rank": 20,
-      "sports_rank": 10
-    },
-    {
-      "title": "火影主播推理局爆料永夜扉间",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 494393,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E4%B8%BB%E6%92%AD%E6%8E%A8%E7%90%86%E5%B1%80%E7%88%86%E6%96%99%E6%B0%B8%E5%A4%9C%E6%89%89%E9%97%B4"
-      },
-      "raw_titles": [
-        "火影主播推理局爆料永夜扉间"
-      ],
-      "rank": 21,
-      "movie_rank": 11
-    },
-    {
-      "title": "王传君安利鲁豫参加浪姐",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 474512,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%AE%89%E5%88%A9%E9%B2%81%E8%B1%AB%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90"
-      },
-      "raw_titles": [
-        "王传君安利鲁豫参加浪姐"
-      ],
-      "rank": 22,
-      "movie_rank": 12
-    },
-    {
-      "title": "S16总决赛胜负预测",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 391856,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E8%83%9C%E8%B4%9F%E9%A2%84%E6%B5%8B"
-      },
-      "raw_titles": [
-        "S16总决赛胜负预测"
-      ],
-      "rank": 23,
-      "sports_rank": 11
-    },
-    {
-      "title": "大学生自学猴戏14年通过德云社面试",
+      "title": "《浪浪山小妖怪》获金鸡奖最佳动画片奖",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 297000,
+      "hot_value": 369000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%AA%E5%AD%A6%E7%8C%B4%E6%88%8F14%E5%B9%B4%E9%80%9A%E8%BF%87%E5%BE%B7%E4%BA%91%E7%A4%BE%E9%9D%A2%E8%AF%95&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%E3%80%8B%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E7%89%87%E5%A5%96&sa=fyb_news"
       },
       "raw_titles": [
-        "大学生自学猴戏14年通过德云社面试"
+        "《浪浪山小妖怪》获金鸡奖最佳动画片奖"
       ],
-      "rank": 24,
-      "movie_rank": 13
+      "rank": 28,
+      "movie_rank": 19
     },
     {
-      "title": "杨紫玉兰花开君再来预告片",
+      "title": "金鸡奖内场座位图",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 237632,
+      "hot_value": 349924,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%8E%89%E5%85%B0%E8%8A%B1%E5%BC%80%E5%90%9B%E5%86%8D%E6%9D%A5%E9%A2%84%E5%91%8A%E7%89%87"
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E5%86%85%E5%9C%BA%E5%BA%A7%E4%BD%8D%E5%9B%BE"
       },
       "raw_titles": [
-        "杨紫玉兰花开君再来预告片"
+        "金鸡奖内场座位图"
       ],
-      "rank": 25,
-      "movie_rank": 14
+      "rank": 29,
+      "movie_rank": 20
+    },
+    {
+      "title": "吾守尔·赛来获金鸡奖最佳男配角",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 333000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%90%BE%E5%AE%88%E5%B0%94%C2%B7%E8%B5%9B%E6%9D%A5%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92&sa=fyb_news"
+      },
+      "raw_titles": [
+        "吾守尔·赛来获金鸡奖最佳男配角"
+      ],
+      "rank": 30,
+      "movie_rank": 21
+    },
+    {
+      "title": "如果许飞唱的是原版歌词那将是绝杀",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 293824,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E8%AE%B8%E9%A3%9E%E5%94%B1%E7%9A%84%E6%98%AF%E5%8E%9F%E7%89%88%E6%AD%8C%E8%AF%8D%E9%82%A3%E5%B0%86%E6%98%AF%E7%BB%9D%E6%9D%80"
+      },
+      "raw_titles": [
+        "如果许飞唱的是原版歌词那将是绝杀"
+      ],
+      "rank": 31,
+      "sports_rank": 10
     },
     {
       "title": "李思潼吴磊坐第一排",
@@ -434,15 +526,95 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 210117,
+      "hot_value": 266372,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%BD%BC%E5%90%B4%E7%A3%8A%E5%9D%90%E7%AC%AC%E4%B8%80%E6%8E%92"
       },
       "raw_titles": [
         "李思潼吴磊坐第一排"
       ],
-      "rank": 26,
-      "movie_rank": 15
+      "rank": 32,
+      "movie_rank": 22
+    },
+    {
+      "title": "波切蒂诺 曼联",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 250411,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%20%E6%9B%BC%E8%81%94"
+      },
+      "raw_titles": [
+        "波切蒂诺 曼联"
+      ],
+      "rank": 33,
+      "sports_rank": 11
+    },
+    {
+      "title": "檀健次走红毯像赶去超市抢大米",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B5%B0%E7%BA%A2%E6%AF%AF%E5%83%8F%E8%B5%B6%E5%8E%BB%E8%B6%85%E5%B8%82%E6%8A%A2%E5%A4%A7%E7%B1%B3&sa=fyb_news"
+      },
+      "raw_titles": [
+        "檀健次走红毯像赶去超市抢大米"
+      ],
+      "rank": 34,
+      "movie_rank": 23
+    },
+    {
+      "title": "厦门文旅回应金鸡奖文案争议",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 238667,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8E%A6%E9%97%A8%E6%96%87%E6%97%85%E5%9B%9E%E5%BA%94%E9%87%91%E9%B8%A1%E5%A5%96%E6%96%87%E6%A1%88%E4%BA%89%E8%AE%AE"
+      },
+      "raw_titles": [
+        "厦门文旅回应金鸡奖文案争议"
+      ],
+      "rank": 35,
+      "movie_rank": 24
+    },
+    {
+      "title": "关晓彤担任金鸡奖主持",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 207000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%85%B3%E6%99%93%E5%BD%A4%E6%8B%85%E4%BB%BB%E9%87%91%E9%B8%A1%E5%A5%96%E4%B8%BB%E6%8C%81&sa=fyb_news"
+      },
+      "raw_titles": [
+        "关晓彤担任金鸡奖主持"
+      ],
+      "rank": 36,
+      "movie_rank": 25
+    },
+    {
+      "title": "刘昊然：金鸡奖能干的活都干了",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 180000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%88%98%E6%98%8A%E7%84%B6%EF%BC%9A%E9%87%91%E9%B8%A1%E5%A5%96%E8%83%BD%E5%B9%B2%E7%9A%84%E6%B4%BB%E9%83%BD%E5%B9%B2%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "刘昊然：金鸡奖能干的活都干了"
+      ],
+      "rank": 37,
+      "movie_rank": 26
     },
     {
       "title": "樊振东十六字寄语BLG",
@@ -450,31 +622,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8D%81%E5%85%AD%E5%AD%97%E5%AF%84%E8%AF%ADBLG&sa=fyb_news"
       },
       "raw_titles": [
         "樊振东十六字寄语BLG"
       ],
-      "rank": 27,
+      "rank": 38,
       "sports_rank": 12
-    },
-    {
-      "title": "中足联：中超本土球员年薪上限500万元",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 27000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E8%B6%B3%E8%81%94%EF%BC%9A%E4%B8%AD%E8%B6%85%E6%9C%AC%E5%9C%9F%E7%90%83%E5%91%98%E5%B9%B4%E8%96%AA%E4%B8%8A%E9%99%90500%E4%B8%87%E5%85%83&sa=fyb_news"
-      },
-      "raw_titles": [
-        "中足联：中超本土球员年薪上限500万元"
-      ],
-      "rank": 28,
-      "sports_rank": 13
     }
   ],
   "sports": [
@@ -484,14 +640,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10925931,
+      "hot_value": 10975456,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%B9%92%E5%8D%8F%E5%85%AC%E5%B8%83%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95"
       },
       "raw_titles": [
         "中国乒协公布混团世界杯名单"
       ],
-      "rank": 2,
+      "rank": 1,
       "sports_rank": 1
     },
     {
@@ -500,14 +656,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7830466,
+      "hot_value": 8385881,
       "urls": {
         "抖音": "https://www.douyin.com/search/2026%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E8%81%8C%E4%B8%9A%E8%81%94%E8%B5%9B%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC"
       },
       "raw_titles": [
         "2026中国足球职业联赛颁奖典礼"
       ],
-      "rank": 4,
+      "rank": 6,
       "sports_rank": 2
     },
     {
@@ -516,31 +672,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7827825,
+      "hot_value": 7832651,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8B%87%E5%A3%AB51%E5%88%86%E5%A4%A7%E8%83%9C%E9%B9%88%E9%B9%95%E8%B1%AA%E5%8F%968%E8%BF%9E%E8%83%9C"
       },
       "raw_titles": [
         "勇士51分大胜鹈鹕豪取8连胜"
       ],
-      "rank": 5,
-      "sports_rank": 3
-    },
-    {
-      "title": "火箭110:100掘金",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7656905,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD110%3A100%E6%8E%98%E9%87%91"
-      },
-      "raw_titles": [
-        "火箭110:100掘金"
-      ],
       "rank": 7,
-      "sports_rank": 4
+      "sports_rank": 3
     },
     {
       "title": "120秒带你走进一场太阳雨",
@@ -548,15 +688,63 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7648970,
+      "hot_value": 7660135,
       "urls": {
         "抖音": "https://www.douyin.com/search/120%E7%A7%92%E5%B8%A6%E4%BD%A0%E8%B5%B0%E8%BF%9B%E4%B8%80%E5%9C%BA%E5%A4%AA%E9%98%B3%E9%9B%A8"
       },
       "raw_titles": [
         "120秒带你走进一场太阳雨"
       ],
-      "rank": 10,
+      "rank": 12,
+      "sports_rank": 4
+    },
+    {
+      "title": "文班亚马40分11篮板",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 526744,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC40%E5%88%8611%E7%AF%AE%E6%9D%BF"
+      },
+      "raw_titles": [
+        "文班亚马40分11篮板"
+      ],
+      "rank": 22,
       "sports_rank": 5
+    },
+    {
+      "title": "文班三分线外起步上篮",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 526112,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%B8%89%E5%88%86%E7%BA%BF%E5%A4%96%E8%B5%B7%E6%AD%A5%E4%B8%8A%E7%AF%AE"
+      },
+      "raw_titles": [
+        "文班三分线外起步上篮"
+      ],
+      "rank": 23,
+      "sports_rank": 6
+    },
+    {
+      "title": "三家国产AI预测BLG夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 443637,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "三家国产AI预测BLG夺冠"
+      ],
+      "rank": 25,
+      "sports_rank": 7
     },
     {
       "title": "韩网倒戈力挺BLG夺冠",
@@ -565,7 +753,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 989712,
+      "hot_value": 438927,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E5%80%92%E6%88%88%E5%8A%9B%E6%8C%BABLG%E5%A4%BA%E5%86%A0",
         "百度": "https://m.baidu.com/s?word=%E9%9F%A9%E7%BD%91%E5%80%92%E6%88%88%E5%8A%9B%E6%8C%BABLG%E5%A4%BA%E5%86%A0&sa=fyb_news"
@@ -573,8 +761,8 @@
       "raw_titles": [
         "韩网倒戈力挺BLG夺冠"
       ],
-      "rank": 13,
-      "sports_rank": 6
+      "rank": 26,
+      "sports_rank": 8
     },
     {
       "title": "F1圣保罗站赛后报告",
@@ -582,78 +770,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 937288,
+      "hot_value": 386815,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=F1%E5%9C%A3%E4%BF%9D%E7%BD%97%E7%AB%99%E8%B5%9B%E5%90%8E%E6%8A%A5%E5%91%8A"
       },
       "raw_titles": [
         "F1圣保罗站赛后报告"
       ],
-      "rank": 14,
-      "sports_rank": 7
-    },
-    {
-      "title": "三家国产AI预测BLG夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 514152,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "三家国产AI预测BLG夺冠"
-      ],
-      "rank": 16,
-      "sports_rank": 8
-    },
-    {
-      "title": "文班亚马40分11篮板",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 514144,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC40%E5%88%8611%E7%AF%AE%E6%9D%BF"
-      },
-      "raw_titles": [
-        "文班亚马40分11篮板"
-      ],
-      "rank": 19,
+      "rank": 27,
       "sports_rank": 9
     },
     {
-      "title": "文班三分线外起步上篮",
+      "title": "如果许飞唱的是原版歌词那将是绝杀",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 509156,
+      "hot_value": 293824,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%B8%89%E5%88%86%E7%BA%BF%E5%A4%96%E8%B5%B7%E6%AD%A5%E4%B8%8A%E7%AF%AE"
+        "微博": "https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E8%AE%B8%E9%A3%9E%E5%94%B1%E7%9A%84%E6%98%AF%E5%8E%9F%E7%89%88%E6%AD%8C%E8%AF%8D%E9%82%A3%E5%B0%86%E6%98%AF%E7%BB%9D%E6%9D%80"
       },
       "raw_titles": [
-        "文班三分线外起步上篮"
+        "如果许飞唱的是原版歌词那将是绝杀"
       ],
-      "rank": 20,
+      "rank": 31,
       "sports_rank": 10
     },
     {
-      "title": "S16总决赛胜负预测",
+      "title": "波切蒂诺 曼联",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 391856,
+      "hot_value": 250411,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E8%83%9C%E8%B4%9F%E9%A2%84%E6%B5%8B"
+        "微博": "https://s.weibo.com/weibo?q=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%20%E6%9B%BC%E8%81%94"
       },
       "raw_titles": [
-        "S16总决赛胜负预测"
+        "波切蒂诺 曼联"
       ],
-      "rank": 23,
+      "rank": 33,
       "sports_rank": 11
     },
     {
@@ -662,71 +818,59 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8D%81%E5%85%AD%E5%AD%97%E5%AF%84%E8%AF%ADBLG&sa=fyb_news"
       },
       "raw_titles": [
         "樊振东十六字寄语BLG"
       ],
-      "rank": 27,
+      "rank": 38,
       "sports_rank": 12
-    },
-    {
-      "title": "中足联：中超本土球员年薪上限500万元",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 27000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E8%B6%B3%E8%81%94%EF%BC%9A%E4%B8%AD%E8%B6%85%E6%9C%AC%E5%9C%9F%E7%90%83%E5%91%98%E5%B9%B4%E8%96%AA%E4%B8%8A%E9%99%90500%E4%B8%87%E5%85%83&sa=fyb_news"
-      },
-      "raw_titles": [
-        "中足联：中超本土球员年薪上限500万元"
-      ],
-      "rank": 28,
-      "sports_rank": 13
     }
   ],
   "movies": [
     {
-      "title": "金鸡奖",
+      "title": "金鸡奖颁奖典礼",
       "category": "影视",
       "sources": [
         "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
-        "微博",
         "百度",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "百度",
-        "抖音",
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 24473234,
+      "hot_value": 10269034,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E6%9F%AF%E6%B7%B3%E9%99%88%E6%B7%BB%E7%A5%A5%E9%87%91%E9%B8%A1%E5%A5%96%E7%BA%A2%E6%AF%AF",
-        "百度": "https://m.baidu.com/s?word=%E5%85%B0%E8%A5%BF%E9%9B%85%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92&sa=fyb_news",
-        "抖音": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF",
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC",
+        "百度": "https://m.baidu.com/s?word=%E9%87%91%E9%B8%A1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%E6%9A%A8%E9%97%AD%E5%B9%95%E5%BC%8F",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E6%9A%A8%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC"
       },
       "raw_titles": [
-        "金鸡奖"
+        "金鸡奖颁奖典礼"
       ],
-      "rank": 1,
+      "rank": 2,
       "movie_rank": 1
+    },
+    {
+      "title": "兰西雅金鸡奖最佳女配角",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 8886850,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%85%B0%E8%A5%BF%E9%9B%85%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92",
+        "百度": "https://m.baidu.com/s?word=%E5%85%B0%E8%A5%BF%E9%9B%85%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E5%85%B0%E8%A5%BF%E9%9B%85%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92"
+      },
+      "raw_titles": [
+        "兰西雅金鸡奖最佳女配角"
+      ],
+      "rank": 3,
+      "movie_rank": 2
     },
     {
       "title": "超长长长长长长饺子吃了不烧心",
@@ -734,15 +878,36 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8617792,
+      "hot_value": 8829601,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90%E5%90%83%E4%BA%86%E4%B8%8D%E7%83%A7%E5%BF%83"
       },
       "raw_titles": [
         "超长长长长长长饺子吃了不烧心"
       ],
-      "rank": 3,
-      "movie_rank": 2
+      "rank": 4,
+      "movie_rank": 3
+    },
+    {
+      "title": "金鸡奖红毯",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度",
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 8555100,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E7%BA%A2%E6%AF%AF",
+        "百度": "https://m.baidu.com/s?word=72%E5%B2%81%E8%B5%B5%E9%9B%85%E8%8A%9D%E4%BA%AE%E7%9B%B8%E9%87%91%E9%B8%A1%E5%A5%96%E7%BA%A2%E6%AF%AF&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF"
+      },
+      "raw_titles": [
+        "金鸡奖红毯"
+      ],
+      "rank": 5,
+      "movie_rank": 4
     },
     {
       "title": "火影热血番冬日解冻了",
@@ -750,47 +915,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7679444,
+      "hot_value": 7707087,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%83%AD%E8%A1%80%E7%95%AA%E5%86%AC%E6%97%A5%E8%A7%A3%E5%86%BB%E4%BA%86"
       },
       "raw_titles": [
         "火影热血番冬日解冻了"
       ],
-      "rank": 6,
-      "movie_rank": 3
-    },
-    {
-      "title": "嫁金钗收官",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7650561,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E6%94%B6%E5%AE%98"
-      },
-      "raw_titles": [
-        "嫁金钗收官"
-      ],
       "rank": 8,
-      "movie_rank": 4
+      "movie_rank": 5
     },
     {
-      "title": "杨幂刘诗诗倪妮等同框秀肌肉",
+      "title": "朱一龙出席第39届金鸡奖",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7649889,
+      "hot_value": 7698093,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%80%AA%E5%A6%AE%E7%AD%89%E5%90%8C%E6%A1%86%E7%A7%80%E8%82%8C%E8%82%89"
+        "抖音": "https://www.douyin.com/search/%E6%9C%B1%E4%B8%80%E9%BE%99%E5%87%BA%E5%B8%AD%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96"
       },
       "raw_titles": [
-        "杨幂刘诗诗倪妮等同框秀肌肉"
+        "朱一龙出席第39届金鸡奖"
       ],
       "rank": 9,
-      "movie_rank": 5
+      "movie_rank": 6
     },
     {
       "title": "W年度盛典白敬亭扯井柏然配饰",
@@ -798,63 +947,114 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7646118,
+      "hot_value": 7672593,
       "urls": {
         "抖音": "https://www.douyin.com/search/W%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E9%85%8D%E9%A5%B0"
       },
       "raw_titles": [
         "W年度盛典白敬亭扯井柏然配饰"
       ],
-      "rank": 11,
-      "movie_rank": 6
+      "rank": 10,
+      "movie_rank": 7
     },
     {
-      "title": "电视剧谷雨主创交流会",
+      "title": "嫁金钗收官",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7640770,
+      "hot_value": 7666891,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E8%B0%B7%E9%9B%A8%E4%B8%BB%E5%88%9B%E4%BA%A4%E6%B5%81%E4%BC%9A"
+        "抖音": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E6%94%B6%E5%AE%98"
       },
       "raw_titles": [
-        "电视剧谷雨主创交流会"
+        "嫁金钗收官"
       ],
-      "rank": 12,
-      "movie_rank": 7
-    },
-    {
-      "title": "王力宏王心凌首次同台合唱爱你",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 514155,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1%E7%88%B1%E4%BD%A0"
-      },
-      "raw_titles": [
-        "王力宏王心凌首次同台合唱爱你"
-      ],
-      "rank": 15,
+      "rank": 11,
       "movie_rank": 8
     },
     {
-      "title": "AI科幻电影 孤鲸",
+      "title": "杨幂刘诗诗倪妮等同框秀肌肉",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 514148,
+      "hot_value": 7659724,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%20%E5%AD%A4%E9%B2%B8"
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%80%AA%E5%A6%AE%E7%AD%89%E5%90%8C%E6%A1%86%E7%A7%80%E8%82%8C%E8%82%89"
       },
       "raw_titles": [
-        "AI科幻电影 孤鲸"
+        "杨幂刘诗诗倪妮等同框秀肌肉"
+      ],
+      "rank": 13,
+      "movie_rank": 9
+    },
+    {
+      "title": "现在就出发昆明路透",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7658192,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%E6%98%86%E6%98%8E%E8%B7%AF%E9%80%8F"
+      },
+      "raw_titles": [
+        "现在就出发昆明路透"
+      ],
+      "rank": 14,
+      "movie_rank": 10
+    },
+    {
+      "title": "金鸡奖获奖名单",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "微博"
+      ],
+      "hot_value": 3605205,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96"
+      },
+      "raw_titles": [
+        "金鸡奖获奖名单"
+      ],
+      "rank": 15,
+      "movie_rank": 11
+    },
+    {
+      "title": "易烊千玺金鸡奖坐第一排",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 1012510,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%A5%96%E5%9D%90%E7%AC%AC%E4%B8%80%E6%8E%92"
+      },
+      "raw_titles": [
+        "易烊千玺金鸡奖坐第一排"
+      ],
+      "rank": 16,
+      "movie_rank": 12
+    },
+    {
+      "title": "金鸡奖节目单",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 601061,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8A%82%E7%9B%AE%E5%8D%95",
+        "百度": "https://m.baidu.com/s?word=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8A%82%E7%9B%AE%E5%8D%95&sa=fyb_news"
+      },
+      "raw_titles": [
+        "金鸡奖节目单"
       ],
       "rank": 17,
-      "movie_rank": 9
+      "movie_rank": 13
     },
     {
       "title": "火柴人VS动画师",
@@ -862,7 +1062,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 514147,
+      "hot_value": 600524,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%9F%B4%E4%BA%BAVS%E5%8A%A8%E7%94%BB%E5%B8%88"
       },
@@ -870,7 +1070,39 @@
         "火柴人VS动画师"
       ],
       "rank": 18,
-      "movie_rank": 10
+      "movie_rank": 14
+    },
+    {
+      "title": "AI科幻电影 孤鲸",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 600519,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%20%E5%AD%A4%E9%B2%B8"
+      },
+      "raw_titles": [
+        "AI科幻电影 孤鲸"
+      ],
+      "rank": 19,
+      "movie_rank": 15
+    },
+    {
+      "title": "王力宏王心凌首次同台合唱爱你",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 600477,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1%E7%88%B1%E4%BD%A0"
+      },
+      "raw_titles": [
+        "王力宏王心凌首次同台合唱爱你"
+      ],
+      "rank": 20,
+      "movie_rank": 16
     },
     {
       "title": "火影主播推理局爆料永夜扉间",
@@ -878,7 +1110,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 494393,
+      "hot_value": 526751,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E4%B8%BB%E6%92%AD%E6%8E%A8%E7%90%86%E5%B1%80%E7%88%86%E6%96%99%E6%B0%B8%E5%A4%9C%E6%89%89%E9%97%B4"
       },
@@ -886,7 +1118,7 @@
         "火影主播推理局爆料永夜扉间"
       ],
       "rank": 21,
-      "movie_rank": 11
+      "movie_rank": 17
     },
     {
       "title": "王传君安利鲁豫参加浪姐",
@@ -894,47 +1126,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 474512,
+      "hot_value": 487640,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%AE%89%E5%88%A9%E9%B2%81%E8%B1%AB%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90"
       },
       "raw_titles": [
         "王传君安利鲁豫参加浪姐"
       ],
-      "rank": 22,
-      "movie_rank": 12
+      "rank": 24,
+      "movie_rank": 18
     },
     {
-      "title": "大学生自学猴戏14年通过德云社面试",
+      "title": "《浪浪山小妖怪》获金鸡奖最佳动画片奖",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 297000,
+      "hot_value": 369000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%AA%E5%AD%A6%E7%8C%B4%E6%88%8F14%E5%B9%B4%E9%80%9A%E8%BF%87%E5%BE%B7%E4%BA%91%E7%A4%BE%E9%9D%A2%E8%AF%95&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%E3%80%8B%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E7%89%87%E5%A5%96&sa=fyb_news"
       },
       "raw_titles": [
-        "大学生自学猴戏14年通过德云社面试"
+        "《浪浪山小妖怪》获金鸡奖最佳动画片奖"
       ],
-      "rank": 24,
-      "movie_rank": 13
+      "rank": 28,
+      "movie_rank": 19
     },
     {
-      "title": "杨紫玉兰花开君再来预告片",
+      "title": "金鸡奖内场座位图",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 237632,
+      "hot_value": 349924,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%8E%89%E5%85%B0%E8%8A%B1%E5%BC%80%E5%90%9B%E5%86%8D%E6%9D%A5%E9%A2%84%E5%91%8A%E7%89%87"
+        "微博": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E5%86%85%E5%9C%BA%E5%BA%A7%E4%BD%8D%E5%9B%BE"
       },
       "raw_titles": [
-        "杨紫玉兰花开君再来预告片"
+        "金鸡奖内场座位图"
       ],
-      "rank": 25,
-      "movie_rank": 14
+      "rank": 29,
+      "movie_rank": 20
+    },
+    {
+      "title": "吾守尔·赛来获金鸡奖最佳男配角",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 333000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%90%BE%E5%AE%88%E5%B0%94%C2%B7%E8%B5%9B%E6%9D%A5%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92&sa=fyb_news"
+      },
+      "raw_titles": [
+        "吾守尔·赛来获金鸡奖最佳男配角"
+      ],
+      "rank": 30,
+      "movie_rank": 21
     },
     {
       "title": "李思潼吴磊坐第一排",
@@ -942,15 +1190,79 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 210117,
+      "hot_value": 266372,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%BD%BC%E5%90%B4%E7%A3%8A%E5%9D%90%E7%AC%AC%E4%B8%80%E6%8E%92"
       },
       "raw_titles": [
         "李思潼吴磊坐第一排"
       ],
-      "rank": 26,
-      "movie_rank": 15
+      "rank": 32,
+      "movie_rank": 22
+    },
+    {
+      "title": "檀健次走红毯像赶去超市抢大米",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 243000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B5%B0%E7%BA%A2%E6%AF%AF%E5%83%8F%E8%B5%B6%E5%8E%BB%E8%B6%85%E5%B8%82%E6%8A%A2%E5%A4%A7%E7%B1%B3&sa=fyb_news"
+      },
+      "raw_titles": [
+        "檀健次走红毯像赶去超市抢大米"
+      ],
+      "rank": 34,
+      "movie_rank": 23
+    },
+    {
+      "title": "厦门文旅回应金鸡奖文案争议",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 238667,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8E%A6%E9%97%A8%E6%96%87%E6%97%85%E5%9B%9E%E5%BA%94%E9%87%91%E9%B8%A1%E5%A5%96%E6%96%87%E6%A1%88%E4%BA%89%E8%AE%AE"
+      },
+      "raw_titles": [
+        "厦门文旅回应金鸡奖文案争议"
+      ],
+      "rank": 35,
+      "movie_rank": 24
+    },
+    {
+      "title": "关晓彤担任金鸡奖主持",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 207000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%85%B3%E6%99%93%E5%BD%A4%E6%8B%85%E4%BB%BB%E9%87%91%E9%B8%A1%E5%A5%96%E4%B8%BB%E6%8C%81&sa=fyb_news"
+      },
+      "raw_titles": [
+        "关晓彤担任金鸡奖主持"
+      ],
+      "rank": 36,
+      "movie_rank": 25
+    },
+    {
+      "title": "刘昊然：金鸡奖能干的活都干了",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 180000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%88%98%E6%98%8A%E7%84%B6%EF%BC%9A%E9%87%91%E9%B8%A1%E5%A5%96%E8%83%BD%E5%B9%B2%E7%9A%84%E6%B4%BB%E9%83%BD%E5%B9%B2%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "刘昊然：金鸡奖能干的活都干了"
+      ],
+      "rank": 37,
+      "movie_rank": 26
     }
   ]
 }
