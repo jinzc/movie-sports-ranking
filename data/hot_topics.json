@@ -1,56 +1,40 @@
 {
-  "update_time": "2026-11-10 14:00:55",
-  "total": 29,
-  "sports_count": 15,
-  "movie_count": 14,
+  "update_time": "2026-11-10 15:01:01",
+  "total": 33,
+  "sports_count": 18,
+  "movie_count": 15,
   "all": [
+    {
+      "title": "勇士51分大胜鹈鹕豪取8连胜",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 12115622,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8B%87%E5%A3%AB51%E5%88%86%E5%A4%A7%E8%83%9C%E9%B9%88%E9%B9%95%E8%B1%AA%E5%8F%968%E8%BF%9E%E8%83%9C"
+      },
+      "raw_titles": [
+        "勇士51分大胜鹈鹕豪取8连胜"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "湖人124:114老鹰",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 11476338,
+      "hot_value": 10367078,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B9%96%E4%BA%BA124%3A114%E8%80%81%E9%B9%B0"
       },
       "raw_titles": [
         "湖人124:114老鹰"
       ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "独行侠125:122步行者",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9180517,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8B%AC%E8%A1%8C%E4%BE%A0125%3A122%E6%AD%A5%E8%A1%8C%E8%80%85"
-      },
-      "raw_titles": [
-        "独行侠125:122步行者"
-      ],
       "rank": 2,
       "sports_rank": 2
-    },
-    {
-      "title": "奇才不敌活塞 浓眉空砍44分",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9169497,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A5%87%E6%89%8D%E4%B8%8D%E6%95%8C%E6%B4%BB%E5%A1%9E%20%E6%B5%93%E7%9C%89%E7%A9%BA%E7%A0%8D44%E5%88%86"
-      },
-      "raw_titles": [
-        "奇才不敌活塞 浓眉空砍44分"
-      ],
-      "rank": 3,
-      "sports_rank": 3
     },
     {
       "title": "马刺122:96太阳",
@@ -58,15 +42,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9002905,
+      "hot_value": 10325222,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%88%BA122%3A96%E5%A4%AA%E9%98%B3"
       },
       "raw_titles": [
         "马刺122:96太阳"
       ],
-      "rank": 4,
-      "sports_rank": 4
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "中国乒协公布混团世界杯名单",
@@ -74,14 +58,46 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8560582,
+      "hot_value": 9049213,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%B9%92%E5%8D%8F%E5%85%AC%E5%B8%83%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95"
       },
       "raw_titles": [
         "中国乒协公布混团世界杯名单"
       ],
+      "rank": 4,
+      "sports_rank": 4
+    },
+    {
+      "title": "我们的三生三世微电影",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8693318,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E5%BE%AE%E7%94%B5%E5%BD%B1"
+      },
+      "raw_titles": [
+        "我们的三生三世微电影"
+      ],
       "rank": 5,
+      "movie_rank": 1
+    },
+    {
+      "title": "独行侠125:122步行者",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7768559,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8B%AC%E8%A1%8C%E4%BE%A0125%3A122%E6%AD%A5%E8%A1%8C%E8%80%85"
+      },
+      "raw_titles": [
+        "独行侠125:122步行者"
+      ],
+      "rank": 6,
       "sports_rank": 5
     },
     {
@@ -90,31 +106,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7744412,
+      "hot_value": 7756742,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD110%3A100%E6%8E%98%E9%87%91"
       },
       "raw_titles": [
         "火箭110:100掘金"
       ],
-      "rank": 6,
-      "sports_rank": 6
-    },
-    {
-      "title": "杨幂刘诗诗倪妮等同框秀肌肉",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7716063,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%80%AA%E5%A6%AE%E7%AD%89%E5%90%8C%E6%A1%86%E7%A7%80%E8%82%8C%E8%82%89"
-      },
-      "raw_titles": [
-        "杨幂刘诗诗倪妮等同框秀肌肉"
-      ],
       "rank": 7,
-      "movie_rank": 1
+      "sports_rank": 6
     },
     {
       "title": "W年度盛典白敬亭扯井柏然配饰",
@@ -122,7 +122,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7714761,
+      "hot_value": 7720980,
       "urls": {
         "抖音": "https://www.douyin.com/search/W%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E9%85%8D%E9%A5%B0"
       },
@@ -133,20 +133,52 @@
       "movie_rank": 2
     },
     {
+      "title": "杨幂刘诗诗倪妮等同框秀肌肉",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7714936,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%80%AA%E5%A6%AE%E7%AD%89%E5%90%8C%E6%A1%86%E7%A7%80%E8%82%8C%E8%82%89"
+      },
+      "raw_titles": [
+        "杨幂刘诗诗倪妮等同框秀肌肉"
+      ],
+      "rank": 9,
+      "movie_rank": 3
+    },
+    {
       "title": "金鸡奖提名者表彰仪式",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7699943,
+      "hot_value": 7691848,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E8%80%85%E8%A1%A8%E5%BD%B0%E4%BB%AA%E5%BC%8F"
       },
       "raw_titles": [
         "金鸡奖提名者表彰仪式"
       ],
-      "rank": 9,
-      "movie_rank": 3
+      "rank": 10,
+      "movie_rank": 4
+    },
+    {
+      "title": "今天是太阳雨一家人整整齐齐",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7650657,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E4%B8%80%E5%AE%B6%E4%BA%BA%E6%95%B4%E6%95%B4%E9%BD%90%E9%BD%90"
+      },
+      "raw_titles": [
+        "今天是太阳雨一家人整整齐齐"
+      ],
+      "rank": 11,
+      "sports_rank": 7
     },
     {
       "title": "吴磊金鸡舞台祝妈妈生日快乐",
@@ -154,44 +186,12 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7665181,
+      "hot_value": 7646258,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E9%87%91%E9%B8%A1%E8%88%9E%E5%8F%B0%E7%A5%9D%E5%A6%88%E5%A6%88%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
       },
       "raw_titles": [
         "吴磊金鸡舞台祝妈妈生日快乐"
-      ],
-      "rank": 10,
-      "movie_rank": 4
-    },
-    {
-      "title": "今天是太阳雨迎来暧昧期",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7663170,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%BF%8E%E6%9D%A5%E6%9A%A7%E6%98%A7%E6%9C%9F"
-      },
-      "raw_titles": [
-        "今天是太阳雨迎来暧昧期"
-      ],
-      "rank": 11,
-      "sports_rank": 7
-    },
-    {
-      "title": "我们的三生三世微电影",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7660459,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E5%BE%AE%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "我们的三生三世微电影"
       ],
       "rank": 12,
       "movie_rank": 5
@@ -202,7 +202,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7658087,
+      "hot_value": 7645682,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E8%B0%B7%E9%9B%A8%E4%B8%BB%E5%88%9B%E4%BA%A4%E6%B5%81%E4%BC%9A"
       },
@@ -213,13 +213,45 @@
       "movie_rank": 6
     },
     {
+      "title": "今天是太阳雨迎来暧昧期",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7639989,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%BF%8E%E6%9D%A5%E6%9A%A7%E6%98%A7%E6%9C%9F"
+      },
+      "raw_titles": [
+        "今天是太阳雨迎来暧昧期"
+      ],
+      "rank": 14,
+      "sports_rank": 8
+    },
+    {
+      "title": "今天是太阳雨抖音追剧团",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7636260,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%8A%96%E9%9F%B3%E8%BF%BD%E5%89%A7%E5%9B%A2"
+      },
+      "raw_titles": [
+        "今天是太阳雨抖音追剧团"
+      ],
+      "rank": 15,
+      "sports_rank": 9
+    },
+    {
       "title": "文班三分线上篮",
       "category": "体育",
       "sources": [
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 768101,
+      "hot_value": 675150,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%B8%89%E5%88%86%E7%BA%BF%E4%B8%8A%E7%AF%AE",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%B8%89%E5%88%86%E7%BA%BF%E5%A4%96%E8%B5%B7%E6%AD%A5%E4%B8%8A%E7%AF%AE"
@@ -227,122 +259,24 @@
       "raw_titles": [
         "文班三分线上篮"
       ],
-      "rank": 14,
-      "sports_rank": 8
-    },
-    {
-      "title": "郑钦文说不能跟奔驰logo合影",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 716691,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E4%B8%8D%E8%83%BD%E8%B7%9F%E5%A5%94%E9%A9%B0logo%E5%90%88%E5%BD%B1",
-        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%EF%BC%9A%E6%88%91%E4%B8%8D%E8%83%BD%E5%92%8C%E5%A5%94%E9%A9%B0%E5%90%88%E5%BD%B1&sa=fyb_news"
-      },
-      "raw_titles": [
-        "郑钦文说不能跟奔驰logo合影"
-      ],
-      "rank": 15,
-      "sports_rank": 9
-    },
-    {
-      "title": "文班亚马40分11篮板",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 623347,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC40%E5%88%8611%E7%AF%AE%E6%9D%BF"
-      },
-      "raw_titles": [
-        "文班亚马40分11篮板"
-      ],
       "rank": 16,
       "sports_rank": 10
     },
     {
-      "title": "杜兰特23分率队拿下掘金",
+      "title": "弗拉格欧文合砍78分助独行侠险胜",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 539372,
+      "hot_value": 655070,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B923%E5%88%86%E7%8E%87%E9%98%9F%E6%8B%BF%E4%B8%8B%E6%8E%98%E9%87%91"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%97%E6%8B%89%E6%A0%BC%E6%AC%A7%E6%96%87%E5%90%88%E7%A0%8D78%E5%88%86%E5%8A%A9%E7%8B%AC%E8%A1%8C%E4%BE%A0%E9%99%A9%E8%83%9C"
       },
       "raw_titles": [
-        "杜兰特23分率队拿下掘金"
+        "弗拉格欧文合砍78分助独行侠险胜"
       ],
       "rank": 17,
       "sports_rank": 11
-    },
-    {
-      "title": "王传君安利鲁豫参加浪姐",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 513518,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%AE%89%E5%88%A9%E9%B2%81%E8%B1%AB%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90"
-      },
-      "raw_titles": [
-        "王传君安利鲁豫参加浪姐"
-      ],
-      "rank": 18,
-      "movie_rank": 7
-    },
-    {
-      "title": "火柴人VS动画师",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 454190,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%9F%B4%E4%BA%BAVS%E5%8A%A8%E7%94%BB%E5%B8%88"
-      },
-      "raw_titles": [
-        "火柴人VS动画师"
-      ],
-      "rank": 19,
-      "movie_rank": 8
-    },
-    {
-      "title": "我是井柏然也冷 我是白敬亭也热",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 356256,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E4%B9%9F%E5%86%B7%20%E6%88%91%E6%98%AF%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B9%9F%E7%83%AD"
-      },
-      "raw_titles": [
-        "我是井柏然也冷 我是白敬亭也热"
-      ],
-      "rank": 20,
-      "movie_rank": 9
-    },
-    {
-      "title": "BLG回应樊振东",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 351436,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=BLG%E5%9B%9E%E5%BA%94%E6%A8%8A%E6%8C%AF%E4%B8%9C"
-      },
-      "raw_titles": [
-        "BLG回应樊振东"
-      ],
-      "rank": 21,
-      "sports_rank": 12
     },
     {
       "title": "AI科幻电影 孤鲸",
@@ -350,47 +284,143 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 343798,
+      "hot_value": 524366,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%20%E5%AD%A4%E9%B2%B8"
       },
       "raw_titles": [
         "AI科幻电影 孤鲸"
       ],
-      "rank": 22,
-      "movie_rank": 10
+      "rank": 18,
+      "movie_rank": 7
     },
     {
-      "title": "三家国产AI预测BLG夺冠",
+      "title": "王力宏王心凌首次同台合唱爱你",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 523881,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1%E7%88%B1%E4%BD%A0"
+      },
+      "raw_titles": [
+        "王力宏王心凌首次同台合唱爱你"
+      ],
+      "rank": 19,
+      "movie_rank": 8
+    },
+    {
+      "title": "郑钦文：我不能和奔驰合影",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 396000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%EF%BC%9A%E6%88%91%E4%B8%8D%E8%83%BD%E5%92%8C%E5%A5%94%E9%A9%B0%E5%90%88%E5%BD%B1&sa=fyb_news"
+      },
+      "raw_titles": [
+        "郑钦文：我不能和奔驰合影"
+      ],
+      "rank": 20,
+      "sports_rank": 12
+    },
+    {
+      "title": "文班亚马40分11篮板",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 288583,
+      "hot_value": 373145,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC40%E5%88%8611%E7%AF%AE%E6%9D%BF"
       },
       "raw_titles": [
-        "三家国产AI预测BLG夺冠"
+        "文班亚马40分11篮板"
       ],
-      "rank": 23,
+      "rank": 21,
       "sports_rank": 13
     },
     {
-      "title": "张凌赫是真升咖了",
+      "title": "杜兰特23分率队拿下掘金",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 358634,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B923%E5%88%86%E7%8E%87%E9%98%9F%E6%8B%BF%E4%B8%8B%E6%8E%98%E9%87%91"
+      },
+      "raw_titles": [
+        "杜兰特23分率队拿下掘金"
+      ],
+      "rank": 22,
+      "sports_rank": 14
+    },
+    {
+      "title": "王传君安利鲁豫参加浪姐",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 358628,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%AE%89%E5%88%A9%E9%B2%81%E8%B1%AB%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90"
+      },
+      "raw_titles": [
+        "王传君安利鲁豫参加浪姐"
+      ],
+      "rank": 23,
+      "movie_rank": 9
+    },
+    {
+      "title": "火柴人VS动画师",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 358618,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%9F%B4%E4%BA%BAVS%E5%8A%A8%E7%94%BB%E5%B8%88"
+      },
+      "raw_titles": [
+        "火柴人VS动画师"
+      ],
+      "rank": 24,
+      "movie_rank": 10
+    },
+    {
+      "title": "我是井柏然也冷 我是白敬亭也热",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 284177,
+      "hot_value": 353785,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%98%AF%E7%9C%9F%E5%8D%87%E5%92%96%E4%BA%86"
+        "微博": "https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E4%B9%9F%E5%86%B7%20%E6%88%91%E6%98%AF%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B9%9F%E7%83%AD"
       },
       "raw_titles": [
-        "张凌赫是真升咖了"
+        "我是井柏然也冷 我是白敬亭也热"
       ],
-      "rank": 24,
+      "rank": 25,
       "movie_rank": 11
+    },
+    {
+      "title": "BLG回应樊振东",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 341796,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=BLG%E5%9B%9E%E5%BA%94%E6%A8%8A%E6%8C%AF%E4%B8%9C"
+      },
+      "raw_titles": [
+        "BLG回应樊振东"
+      ],
+      "rank": 26,
+      "sports_rank": 15
     },
     {
       "title": "闫桉嫁金钗收官千字长文",
@@ -398,47 +428,79 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 279176,
+      "hot_value": 306988,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%97%AB%E6%A1%89%E5%AB%81%E9%87%91%E9%92%97%E6%94%B6%E5%AE%98%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87"
       },
       "raw_titles": [
         "闫桉嫁金钗收官千字长文"
       ],
-      "rank": 25,
+      "rank": 27,
       "movie_rank": 12
     },
     {
-      "title": "樊振东回应BLG晋级S16决赛",
+      "title": "S16总决赛胜负预测",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 228019,
+      "hot_value": 295931,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94BLG%E6%99%8B%E7%BA%A7S16%E5%86%B3%E8%B5%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E8%83%9C%E8%B4%9F%E9%A2%84%E6%B5%8B"
       },
       "raw_titles": [
-        "樊振东回应BLG晋级S16决赛"
+        "S16总决赛胜负预测"
       ],
-      "rank": 26,
-      "sports_rank": 14
+      "rank": 28,
+      "sports_rank": 16
     },
     {
-      "title": "白小纯王子璇几句话的功夫就对视了12次",
+      "title": "和肖战一起实现净水自由",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 212609,
+      "hot_value": 227252,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%8E%8B%E5%AD%90%E7%92%87%E5%87%A0%E5%8F%A5%E8%AF%9D%E7%9A%84%E5%8A%9F%E5%A4%AB%E5%B0%B1%E5%AF%B9%E8%A7%86%E4%BA%8612%E6%AC%A1"
+        "微博": "https://s.weibo.com/weibo?q=%E5%92%8C%E8%82%96%E6%88%98%E4%B8%80%E8%B5%B7%E5%AE%9E%E7%8E%B0%E5%87%80%E6%B0%B4%E8%87%AA%E7%94%B1"
       },
       "raw_titles": [
-        "白小纯王子璇几句话的功夫就对视了12次"
+        "和肖战一起实现净水自由"
       ],
-      "rank": 27,
+      "rank": 29,
       "movie_rank": 13
+    },
+    {
+      "title": "张凌赫是真升咖了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 159391,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%98%AF%E7%9C%9F%E5%8D%87%E5%92%96%E4%BA%86"
+      },
+      "raw_titles": [
+        "张凌赫是真升咖了"
+      ],
+      "rank": 30,
+      "movie_rank": 14
+    },
+    {
+      "title": "勇士8连胜",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 149717,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%8B%87%E5%A3%AB8%E8%BF%9E%E8%83%9C"
+      },
+      "raw_titles": [
+        "勇士8连胜"
+      ],
+      "rank": 31,
+      "sports_rank": 17
     },
     {
       "title": "RTX50系列显卡价格跳水",
@@ -446,81 +508,65 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 191738,
+      "hot_value": 148114,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=RTX50%E7%B3%BB%E5%88%97%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4"
       },
       "raw_titles": [
         "RTX50系列显卡价格跳水"
       ],
-      "rank": 28,
-      "sports_rank": 15
+      "rank": 32,
+      "sports_rank": 18
     },
     {
-      "title": "张艺谋《英雄》纪录被《哥斯拉》新片打破",
+      "title": "病毒吧吧主 “人民的喜羊羊”",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 144000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E8%89%BA%E8%B0%8B%E3%80%8A%E8%8B%B1%E9%9B%84%E3%80%8B%E7%BA%AA%E5%BD%95%E8%A2%AB%E3%80%8A%E5%93%A5%E6%96%AF%E6%8B%89%E3%80%8B%E6%96%B0%E7%89%87%E6%89%93%E7%A0%B4&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%97%85%E6%AF%92%E5%90%A7%E5%90%A7%E4%B8%BB+%E2%80%9C%E4%BA%BA%E6%B0%91%E7%9A%84%E5%96%9C%E7%BE%8A%E7%BE%8A%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "张艺谋《英雄》纪录被《哥斯拉》新片打破"
+        "病毒吧吧主 “人民的喜羊羊”"
       ],
-      "rank": 29,
-      "movie_rank": 14
+      "rank": 33,
+      "movie_rank": 15
     }
   ],
   "sports": [
     {
+      "title": "勇士51分大胜鹈鹕豪取8连胜",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 12115622,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%8B%87%E5%A3%AB51%E5%88%86%E5%A4%A7%E8%83%9C%E9%B9%88%E9%B9%95%E8%B1%AA%E5%8F%968%E8%BF%9E%E8%83%9C"
+      },
+      "raw_titles": [
+        "勇士51分大胜鹈鹕豪取8连胜"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
       "title": "湖人124:114老鹰",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 11476338,
+      "hot_value": 10367078,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%B9%96%E4%BA%BA124%3A114%E8%80%81%E9%B9%B0"
       },
       "raw_titles": [
         "湖人124:114老鹰"
       ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "独行侠125:122步行者",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9180517,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%8B%AC%E8%A1%8C%E4%BE%A0125%3A122%E6%AD%A5%E8%A1%8C%E8%80%85"
-      },
-      "raw_titles": [
-        "独行侠125:122步行者"
-      ],
       "rank": 2,
       "sports_rank": 2
-    },
-    {
-      "title": "奇才不敌活塞 浓眉空砍44分",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9169497,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%A5%87%E6%89%8D%E4%B8%8D%E6%95%8C%E6%B4%BB%E5%A1%9E%20%E6%B5%93%E7%9C%89%E7%A9%BA%E7%A0%8D44%E5%88%86"
-      },
-      "raw_titles": [
-        "奇才不敌活塞 浓眉空砍44分"
-      ],
-      "rank": 3,
-      "sports_rank": 3
     },
     {
       "title": "马刺122:96太阳",
@@ -528,15 +574,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9002905,
+      "hot_value": 10325222,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%88%BA122%3A96%E5%A4%AA%E9%98%B3"
       },
       "raw_titles": [
         "马刺122:96太阳"
       ],
-      "rank": 4,
-      "sports_rank": 4
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "中国乒协公布混团世界杯名单",
@@ -544,14 +590,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8560582,
+      "hot_value": 9049213,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%B9%92%E5%8D%8F%E5%85%AC%E5%B8%83%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95"
       },
       "raw_titles": [
         "中国乒协公布混团世界杯名单"
       ],
-      "rank": 5,
+      "rank": 4,
+      "sports_rank": 4
+    },
+    {
+      "title": "独行侠125:122步行者",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7768559,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%8B%AC%E8%A1%8C%E4%BE%A0125%3A122%E6%AD%A5%E8%A1%8C%E8%80%85"
+      },
+      "raw_titles": [
+        "独行侠125:122步行者"
+      ],
+      "rank": 6,
       "sports_rank": 5
     },
     {
@@ -560,15 +622,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7744412,
+      "hot_value": 7756742,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD110%3A100%E6%8E%98%E9%87%91"
       },
       "raw_titles": [
         "火箭110:100掘金"
       ],
-      "rank": 6,
+      "rank": 7,
       "sports_rank": 6
+    },
+    {
+      "title": "今天是太阳雨一家人整整齐齐",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7650657,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E4%B8%80%E5%AE%B6%E4%BA%BA%E6%95%B4%E6%95%B4%E9%BD%90%E9%BD%90"
+      },
+      "raw_titles": [
+        "今天是太阳雨一家人整整齐齐"
+      ],
+      "rank": 11,
+      "sports_rank": 7
     },
     {
       "title": "今天是太阳雨迎来暧昧期",
@@ -576,15 +654,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7663170,
+      "hot_value": 7639989,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%BF%8E%E6%9D%A5%E6%9A%A7%E6%98%A7%E6%9C%9F"
       },
       "raw_titles": [
         "今天是太阳雨迎来暧昧期"
       ],
-      "rank": 11,
-      "sports_rank": 7
+      "rank": 14,
+      "sports_rank": 8
+    },
+    {
+      "title": "今天是太阳雨抖音追剧团",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7636260,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%8A%96%E9%9F%B3%E8%BF%BD%E5%89%A7%E5%9B%A2"
+      },
+      "raw_titles": [
+        "今天是太阳雨抖音追剧团"
+      ],
+      "rank": 15,
+      "sports_rank": 9
     },
     {
       "title": "文班三分线上篮",
@@ -593,7 +687,7 @@
         "微博",
         "哔哩哔哩"
       ],
-      "hot_value": 768101,
+      "hot_value": 675150,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%B8%89%E5%88%86%E7%BA%BF%E4%B8%8A%E7%AF%AE",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%B8%89%E5%88%86%E7%BA%BF%E5%A4%96%E8%B5%B7%E6%AD%A5%E4%B8%8A%E7%AF%AE"
@@ -601,26 +695,40 @@
       "raw_titles": [
         "文班三分线上篮"
       ],
-      "rank": 14,
-      "sports_rank": 8
+      "rank": 16,
+      "sports_rank": 10
     },
     {
-      "title": "郑钦文说不能跟奔驰logo合影",
+      "title": "弗拉格欧文合砍78分助独行侠险胜",
       "category": "体育",
       "sources": [
-        "微博",
+        "哔哩哔哩"
+      ],
+      "hot_value": 655070,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%97%E6%8B%89%E6%A0%BC%E6%AC%A7%E6%96%87%E5%90%88%E7%A0%8D78%E5%88%86%E5%8A%A9%E7%8B%AC%E8%A1%8C%E4%BE%A0%E9%99%A9%E8%83%9C"
+      },
+      "raw_titles": [
+        "弗拉格欧文合砍78分助独行侠险胜"
+      ],
+      "rank": 17,
+      "sports_rank": 11
+    },
+    {
+      "title": "郑钦文：我不能和奔驰合影",
+      "category": "体育",
+      "sources": [
         "百度"
       ],
-      "hot_value": 716691,
+      "hot_value": 396000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E4%B8%8D%E8%83%BD%E8%B7%9F%E5%A5%94%E9%A9%B0logo%E5%90%88%E5%BD%B1",
         "百度": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%EF%BC%9A%E6%88%91%E4%B8%8D%E8%83%BD%E5%92%8C%E5%A5%94%E9%A9%B0%E5%90%88%E5%BD%B1&sa=fyb_news"
       },
       "raw_titles": [
-        "郑钦文说不能跟奔驰logo合影"
+        "郑钦文：我不能和奔驰合影"
       ],
-      "rank": 15,
-      "sports_rank": 9
+      "rank": 20,
+      "sports_rank": 12
     },
     {
       "title": "文班亚马40分11篮板",
@@ -628,15 +736,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 623347,
+      "hot_value": 373145,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC40%E5%88%8611%E7%AF%AE%E6%9D%BF"
       },
       "raw_titles": [
         "文班亚马40分11篮板"
       ],
-      "rank": 16,
-      "sports_rank": 10
+      "rank": 21,
+      "sports_rank": 13
     },
     {
       "title": "杜兰特23分率队拿下掘金",
@@ -644,15 +752,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 539372,
+      "hot_value": 358634,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B923%E5%88%86%E7%8E%87%E9%98%9F%E6%8B%BF%E4%B8%8B%E6%8E%98%E9%87%91"
       },
       "raw_titles": [
         "杜兰特23分率队拿下掘金"
       ],
-      "rank": 17,
-      "sports_rank": 11
+      "rank": 22,
+      "sports_rank": 14
     },
     {
       "title": "BLG回应樊振东",
@@ -660,47 +768,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 351436,
+      "hot_value": 341796,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=BLG%E5%9B%9E%E5%BA%94%E6%A8%8A%E6%8C%AF%E4%B8%9C"
       },
       "raw_titles": [
         "BLG回应樊振东"
       ],
-      "rank": 21,
-      "sports_rank": 12
+      "rank": 26,
+      "sports_rank": 15
     },
     {
-      "title": "三家国产AI预测BLG夺冠",
+      "title": "S16总决赛胜负预测",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 288583,
+      "hot_value": 295931,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%AE%B6%E5%9B%BD%E4%BA%A7AI%E9%A2%84%E6%B5%8BBLG%E5%A4%BA%E5%86%A0"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E8%83%9C%E8%B4%9F%E9%A2%84%E6%B5%8B"
       },
       "raw_titles": [
-        "三家国产AI预测BLG夺冠"
+        "S16总决赛胜负预测"
       ],
-      "rank": 23,
-      "sports_rank": 13
+      "rank": 28,
+      "sports_rank": 16
     },
     {
-      "title": "樊振东回应BLG晋级S16决赛",
+      "title": "勇士8连胜",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 228019,
+      "hot_value": 149717,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94BLG%E6%99%8B%E7%BA%A7S16%E5%86%B3%E8%B5%9B"
+        "微博": "https://s.weibo.com/weibo?q=%E5%8B%87%E5%A3%AB8%E8%BF%9E%E8%83%9C"
       },
       "raw_titles": [
-        "樊振东回应BLG晋级S16决赛"
+        "勇士8连胜"
       ],
-      "rank": 26,
-      "sports_rank": 14
+      "rank": 31,
+      "sports_rank": 17
     },
     {
       "title": "RTX50系列显卡价格跳水",
@@ -708,32 +816,32 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 191738,
+      "hot_value": 148114,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=RTX50%E7%B3%BB%E5%88%97%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4"
       },
       "raw_titles": [
         "RTX50系列显卡价格跳水"
       ],
-      "rank": 28,
-      "sports_rank": 15
+      "rank": 32,
+      "sports_rank": 18
     }
   ],
   "movies": [
     {
-      "title": "杨幂刘诗诗倪妮等同框秀肌肉",
+      "title": "我们的三生三世微电影",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7716063,
+      "hot_value": 8693318,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%80%AA%E5%A6%AE%E7%AD%89%E5%90%8C%E6%A1%86%E7%A7%80%E8%82%8C%E8%82%89"
+        "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E5%BE%AE%E7%94%B5%E5%BD%B1"
       },
       "raw_titles": [
-        "杨幂刘诗诗倪妮等同框秀肌肉"
+        "我们的三生三世微电影"
       ],
-      "rank": 7,
+      "rank": 5,
       "movie_rank": 1
     },
     {
@@ -742,7 +850,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7714761,
+      "hot_value": 7720980,
       "urls": {
         "抖音": "https://www.douyin.com/search/W%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E9%85%8D%E9%A5%B0"
       },
@@ -753,20 +861,36 @@
       "movie_rank": 2
     },
     {
+      "title": "杨幂刘诗诗倪妮等同框秀肌肉",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7714936,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%80%AA%E5%A6%AE%E7%AD%89%E5%90%8C%E6%A1%86%E7%A7%80%E8%82%8C%E8%82%89"
+      },
+      "raw_titles": [
+        "杨幂刘诗诗倪妮等同框秀肌肉"
+      ],
+      "rank": 9,
+      "movie_rank": 3
+    },
+    {
       "title": "金鸡奖提名者表彰仪式",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7699943,
+      "hot_value": 7691848,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E8%80%85%E8%A1%A8%E5%BD%B0%E4%BB%AA%E5%BC%8F"
       },
       "raw_titles": [
         "金鸡奖提名者表彰仪式"
       ],
-      "rank": 9,
-      "movie_rank": 3
+      "rank": 10,
+      "movie_rank": 4
     },
     {
       "title": "吴磊金鸡舞台祝妈妈生日快乐",
@@ -774,28 +898,12 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7665181,
+      "hot_value": 7646258,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E9%87%91%E9%B8%A1%E8%88%9E%E5%8F%B0%E7%A5%9D%E5%A6%88%E5%A6%88%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
       },
       "raw_titles": [
         "吴磊金鸡舞台祝妈妈生日快乐"
-      ],
-      "rank": 10,
-      "movie_rank": 4
-    },
-    {
-      "title": "我们的三生三世微电影",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7660459,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E5%BE%AE%E7%94%B5%E5%BD%B1"
-      },
-      "raw_titles": [
-        "我们的三生三世微电影"
       ],
       "rank": 12,
       "movie_rank": 5
@@ -806,7 +914,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7658087,
+      "hot_value": 7645682,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E8%B0%B7%E9%9B%A8%E4%B8%BB%E5%88%9B%E4%BA%A4%E6%B5%81%E4%BC%9A"
       },
@@ -817,20 +925,52 @@
       "movie_rank": 6
     },
     {
+      "title": "AI科幻电影 孤鲸",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 524366,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%20%E5%AD%A4%E9%B2%B8"
+      },
+      "raw_titles": [
+        "AI科幻电影 孤鲸"
+      ],
+      "rank": 18,
+      "movie_rank": 7
+    },
+    {
+      "title": "王力宏王心凌首次同台合唱爱你",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 523881,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1%E7%88%B1%E4%BD%A0"
+      },
+      "raw_titles": [
+        "王力宏王心凌首次同台合唱爱你"
+      ],
+      "rank": 19,
+      "movie_rank": 8
+    },
+    {
       "title": "王传君安利鲁豫参加浪姐",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 513518,
+      "hot_value": 358628,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%AE%89%E5%88%A9%E9%B2%81%E8%B1%AB%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90"
       },
       "raw_titles": [
         "王传君安利鲁豫参加浪姐"
       ],
-      "rank": 18,
-      "movie_rank": 7
+      "rank": 23,
+      "movie_rank": 9
     },
     {
       "title": "火柴人VS动画师",
@@ -838,15 +978,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 454190,
+      "hot_value": 358618,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%9F%B4%E4%BA%BAVS%E5%8A%A8%E7%94%BB%E5%B8%88"
       },
       "raw_titles": [
         "火柴人VS动画师"
       ],
-      "rank": 19,
-      "movie_rank": 8
+      "rank": 24,
+      "movie_rank": 10
     },
     {
       "title": "我是井柏然也冷 我是白敬亭也热",
@@ -854,46 +994,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 356256,
+      "hot_value": 353785,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E4%B9%9F%E5%86%B7%20%E6%88%91%E6%98%AF%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B9%9F%E7%83%AD"
       },
       "raw_titles": [
         "我是井柏然也冷 我是白敬亭也热"
       ],
-      "rank": 20,
-      "movie_rank": 9
-    },
-    {
-      "title": "AI科幻电影 孤鲸",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 343798,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%20%E5%AD%A4%E9%B2%B8"
-      },
-      "raw_titles": [
-        "AI科幻电影 孤鲸"
-      ],
-      "rank": 22,
-      "movie_rank": 10
-    },
-    {
-      "title": "张凌赫是真升咖了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 284177,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%98%AF%E7%9C%9F%E5%8D%87%E5%92%96%E4%BA%86"
-      },
-      "raw_titles": [
-        "张凌赫是真升咖了"
-      ],
-      "rank": 24,
+      "rank": 25,
       "movie_rank": 11
     },
     {
@@ -902,47 +1010,63 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 279176,
+      "hot_value": 306988,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%97%AB%E6%A1%89%E5%AB%81%E9%87%91%E9%92%97%E6%94%B6%E5%AE%98%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87"
       },
       "raw_titles": [
         "闫桉嫁金钗收官千字长文"
       ],
-      "rank": 25,
+      "rank": 27,
       "movie_rank": 12
     },
     {
-      "title": "白小纯王子璇几句话的功夫就对视了12次",
+      "title": "和肖战一起实现净水自由",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 212609,
+      "hot_value": 227252,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%8E%8B%E5%AD%90%E7%92%87%E5%87%A0%E5%8F%A5%E8%AF%9D%E7%9A%84%E5%8A%9F%E5%A4%AB%E5%B0%B1%E5%AF%B9%E8%A7%86%E4%BA%8612%E6%AC%A1"
+        "微博": "https://s.weibo.com/weibo?q=%E5%92%8C%E8%82%96%E6%88%98%E4%B8%80%E8%B5%B7%E5%AE%9E%E7%8E%B0%E5%87%80%E6%B0%B4%E8%87%AA%E7%94%B1"
       },
       "raw_titles": [
-        "白小纯王子璇几句话的功夫就对视了12次"
+        "和肖战一起实现净水自由"
       ],
-      "rank": 27,
+      "rank": 29,
       "movie_rank": 13
     },
     {
-      "title": "张艺谋《英雄》纪录被《哥斯拉》新片打破",
+      "title": "张凌赫是真升咖了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 159391,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%98%AF%E7%9C%9F%E5%8D%87%E5%92%96%E4%BA%86"
+      },
+      "raw_titles": [
+        "张凌赫是真升咖了"
+      ],
+      "rank": 30,
+      "movie_rank": 14
+    },
+    {
+      "title": "病毒吧吧主 “人民的喜羊羊”",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 144000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BC%A0%E8%89%BA%E8%B0%8B%E3%80%8A%E8%8B%B1%E9%9B%84%E3%80%8B%E7%BA%AA%E5%BD%95%E8%A2%AB%E3%80%8A%E5%93%A5%E6%96%AF%E6%8B%89%E3%80%8B%E6%96%B0%E7%89%87%E6%89%93%E7%A0%B4&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E7%97%85%E6%AF%92%E5%90%A7%E5%90%A7%E4%B8%BB+%E2%80%9C%E4%BA%BA%E6%B0%91%E7%9A%84%E5%96%9C%E7%BE%8A%E7%BE%8A%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
-        "张艺谋《英雄》纪录被《哥斯拉》新片打破"
+        "病毒吧吧主 “人民的喜羊羊”"
       ],
-      "rank": 29,
-      "movie_rank": 14
+      "rank": 33,
+      "movie_rank": 15
     }
   ]
 }
