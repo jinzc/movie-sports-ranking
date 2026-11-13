@@ -1,56 +1,24 @@
 {
-  "update_time": "2026-11-14 00:01:07",
-  "total": 18,
-  "sports_count": 10,
+  "update_time": "2026-11-14 01:01:00",
+  "total": 15,
+  "sports_count": 7,
   "movie_count": 8,
   "all": [
-    {
-      "title": "76人战胜猛龙",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7773601,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/76%E4%BA%BA%E6%88%98%E8%83%9C%E7%8C%9B%E9%BE%99"
-      },
-      "raw_titles": [
-        "76人战胜猛龙"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "昊天武道会扬州线下总决赛开战",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7739006,
+      "hot_value": 7741375,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A%E6%89%AC%E5%B7%9E%E7%BA%BF%E4%B8%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BC%80%E6%88%98"
       },
       "raw_titles": [
         "昊天武道会扬州线下总决赛开战"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "吴磊更新了47张骑行日记",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7707397,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E6%9B%B4%E6%96%B0%E4%BA%8647%E5%BC%A0%E9%AA%91%E8%A1%8C%E6%97%A5%E8%AE%B0"
-      },
-      "raw_titles": [
-        "吴磊更新了47张骑行日记"
-      ],
-      "rank": 3,
-      "movie_rank": 1
+      "rank": 1,
+      "sports_rank": 1
     },
     {
       "title": "和范丞丞一起看昊天武道会",
@@ -58,14 +26,30 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7702967,
+      "hot_value": 7674278,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%92%8C%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A"
       },
       "raw_titles": [
         "和范丞丞一起看昊天武道会"
       ],
-      "rank": 4,
+      "rank": 2,
+      "movie_rank": 1
+    },
+    {
+      "title": "吴磊更新了47张骑行日记",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7659488,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E6%9B%B4%E6%96%B0%E4%BA%8647%E5%BC%A0%E9%AA%91%E8%A1%8C%E6%97%A5%E8%AE%B0"
+      },
+      "raw_titles": [
+        "吴磊更新了47张骑行日记"
+      ],
+      "rank": 3,
       "movie_rank": 2
     },
     {
@@ -74,14 +58,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7680611,
+      "hot_value": 7655128,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%81%87%E6%9C%9F"
       },
       "raw_titles": [
         "申请加入杨紫的假期"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 3
     },
     {
@@ -90,68 +74,50 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7639445,
+      "hot_value": 7620452,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%9C%8B%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%8A%B1%E7%B5%AE%E5%97%91%E7%96%AF%E4%BA%86"
       },
       "raw_titles": [
         "看今天是太阳雨花絮嗑疯了"
       ],
+      "rank": 5,
+      "sports_rank": 2
+    },
+    {
+      "title": "曼联官宣波切蒂诺出任主教练",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1975020,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E5%87%BA%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E6%8B%85%E4%BB%BB%E6%9B%BC%E8%81%94%E4%B8%BB%E6%95%99%E7%BB%83"
+      },
+      "raw_titles": [
+        "曼联官宣波切蒂诺出任主教练"
+      ],
       "rank": 6,
       "sports_rank": 3
     },
     {
-      "title": "波切蒂诺担任曼联主教练",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 2554206,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E6%8B%85%E4%BB%BB%E6%9B%BC%E8%81%94%E4%B8%BB%E6%95%99%E7%BB%83"
-      },
-      "raw_titles": [
-        "波切蒂诺担任曼联主教练"
-      ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "原神过场动画雷与永恒",
+      "title": "原神过场动画岩与契约",
       "category": "影视",
       "sources": [
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 2040436,
+      "hot_value": 1406162,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%B2%A9%E4%B8%8E%E5%A5%91%E7%BA%A6"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E9%9B%B7%E4%B8%8E%E6%B0%B8%E6%81%92"
       },
       "raw_titles": [
-        "原神过场动画雷与永恒"
+        "原神过场动画岩与契约"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 4
-    },
-    {
-      "title": "葡萄牙全队将穿7号球服致敬C罗",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度",
-        "哔哩哔哩"
-      ],
-      "hot_value": 1981530,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E6%9C%8D%E8%87%B4%E6%95%ACC%E7%BD%97",
-        "百度": "https://m.baidu.com/s?word=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E8%A1%A3%E8%87%B4%E6%95%ACC%E7%BD%97&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E6%9C%8D%E8%87%B4%E6%95%ACC%E7%BD%97"
-      },
-      "raw_titles": [
-        "葡萄牙全队将穿7号球服致敬C罗"
-      ],
-      "rank": 9,
-      "sports_rank": 5
     },
     {
       "title": "NBA新赛季表现不佳的球员",
@@ -159,31 +125,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1177755,
+      "hot_value": 834827,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%A1%A8%E7%8E%B0%E4%B8%8D%E4%BD%B3%E7%9A%84%E7%90%83%E5%91%98"
       },
       "raw_titles": [
         "NBA新赛季表现不佳的球员"
       ],
-      "rank": 10,
-      "sports_rank": 6
-    },
-    {
-      "title": "S16总决赛冠军争夺前瞻",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1060052,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B%E4%BA%89%E5%A4%BA%E5%89%8D%E7%9E%BB"
-      },
-      "raw_titles": [
-        "S16总决赛冠军争夺前瞻"
-      ],
-      "rank": 11,
-      "sports_rank": 7
+      "rank": 8,
+      "sports_rank": 4
     },
     {
       "title": "代入GEN视角看S16总决赛",
@@ -191,15 +141,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1060046,
+      "hot_value": 745281,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%85%A5GEN%E8%A7%86%E8%A7%92%E7%9C%8BS16%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "代入GEN视角看S16总决赛"
       ],
-      "rank": 12,
-      "sports_rank": 8
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "曝Zeus和T1签约3年打到Faker退役",
@@ -208,7 +158,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 616798,
+      "hot_value": 514402,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DZeus%E5%92%8CT1%E7%AD%BE%E7%BA%A63%E5%B9%B4%E6%89%93%E5%88%B0Faker%E9%80%80%E5%BD%B9",
         "百度": "https://m.baidu.com/s?word=%E6%9B%9DZeus%E5%92%8CT1%E7%AD%BE%E7%BA%A63%E5%B9%B4%E6%89%93%E5%88%B0Faker%E9%80%80%E5%BD%B9&sa=fyb_news"
@@ -216,40 +166,42 @@
       "raw_titles": [
         "曝Zeus和T1签约3年打到Faker退役"
       ],
-      "rank": 13,
-      "sports_rank": 9
+      "rank": 10,
+      "sports_rank": 6
     },
     {
-      "title": "王晶回应麻将女王票房",
+      "title": "春日宴回应番位争议",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 343230,
+      "hot_value": 374923,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%99%B6%E5%9B%9E%E5%BA%94%E9%BA%BB%E5%B0%86%E5%A5%B3%E7%8E%8B%E7%A5%A8%E6%88%BF"
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%97%A5%E5%AE%B4%E5%9B%9E%E5%BA%94%E7%95%AA%E4%BD%8D%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
-        "王晶回应麻将女王票房"
+        "春日宴回应番位争议"
       ],
-      "rank": 14,
+      "rank": 11,
       "movie_rank": 5
     },
     {
-      "title": "肖战我不是肖战",
-      "category": "影视",
+      "title": "葡萄牙全队将穿7号球服致敬C罗",
+      "category": "体育",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 324292,
+      "hot_value": 345495,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%88%91%E4%B8%8D%E6%98%AF%E8%82%96%E6%88%98"
+        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E6%9C%8D%E8%87%B4%E6%95%ACC%E7%BD%97",
+        "百度": "https://m.baidu.com/s?word=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E8%A1%A3%E8%87%B4%E6%95%ACC%E7%BD%97&sa=fyb_news"
       },
       "raw_titles": [
-        "肖战我不是肖战"
+        "葡萄牙全队将穿7号球服致敬C罗"
       ],
-      "rank": 15,
-      "movie_rank": 6
+      "rank": 12,
+      "sports_rank": 7
     },
     {
       "title": "英伟达高开低走 迅速转跌",
@@ -264,74 +216,58 @@
       "raw_titles": [
         "英伟达高开低走 迅速转跌"
       ],
-      "rank": 16,
-      "movie_rank": 7
+      "rank": 13,
+      "movie_rank": 6
     },
     {
-      "title": "范丞丞我有点晕腿",
+      "title": "肖战我不是肖战",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 232855,
+      "hot_value": 239158,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%88%91%E6%9C%89%E7%82%B9%E6%99%95%E8%85%BF"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%88%91%E4%B8%8D%E6%98%AF%E8%82%96%E6%88%98"
       },
       "raw_titles": [
-        "范丞丞我有点晕腿"
+        "肖战我不是肖战"
       ],
-      "rank": 17,
-      "movie_rank": 8
+      "rank": 14,
+      "movie_rank": 7
     },
     {
-      "title": "阻止董路团队参赛？中国足协澄清",
-      "category": "体育",
+      "title": "王晶回应麻将女王票房",
+      "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 63000,
+      "hot_value": 212699,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%98%BB%E6%AD%A2%E8%91%A3%E8%B7%AF%E5%9B%A2%E9%98%9F%E5%8F%82%E8%B5%9B%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E6%BE%84%E6%B8%85&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%99%B6%E5%9B%9E%E5%BA%94%E9%BA%BB%E5%B0%86%E5%A5%B3%E7%8E%8B%E7%A5%A8%E6%88%BF"
       },
       "raw_titles": [
-        "阻止董路团队参赛？中国足协澄清"
+        "王晶回应麻将女王票房"
       ],
-      "rank": 18,
-      "sports_rank": 10
+      "rank": 15,
+      "movie_rank": 8
     }
   ],
   "sports": [
     {
-      "title": "76人战胜猛龙",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7773601,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/76%E4%BA%BA%E6%88%98%E8%83%9C%E7%8C%9B%E9%BE%99"
-      },
-      "raw_titles": [
-        "76人战胜猛龙"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
       "title": "昊天武道会扬州线下总决赛开战",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7739006,
+      "hot_value": 7741375,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A%E6%89%AC%E5%B7%9E%E7%BA%BF%E4%B8%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BC%80%E6%88%98"
       },
       "raw_titles": [
         "昊天武道会扬州线下总决赛开战"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 1,
+      "sports_rank": 1
     },
     {
       "title": "看今天是太阳雨花絮嗑疯了",
@@ -339,51 +275,33 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7639445,
+      "hot_value": 7620452,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%9C%8B%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%8A%B1%E7%B5%AE%E5%97%91%E7%96%AF%E4%BA%86"
       },
       "raw_titles": [
         "看今天是太阳雨花絮嗑疯了"
       ],
-      "rank": 6,
-      "sports_rank": 3
+      "rank": 5,
+      "sports_rank": 2
     },
     {
-      "title": "波切蒂诺担任曼联主教练",
+      "title": "曼联官宣波切蒂诺出任主教练",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 2554206,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E6%8B%85%E4%BB%BB%E6%9B%BC%E8%81%94%E4%B8%BB%E6%95%99%E7%BB%83"
-      },
-      "raw_titles": [
-        "波切蒂诺担任曼联主教练"
-      ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "葡萄牙全队将穿7号球服致敬C罗",
-      "category": "体育",
-      "sources": [
-        "微博",
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 1981530,
+      "hot_value": 1975020,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E6%9C%8D%E8%87%B4%E6%95%ACC%E7%BD%97",
-        "百度": "https://m.baidu.com/s?word=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E8%A1%A3%E8%87%B4%E6%95%ACC%E7%BD%97&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E6%9C%8D%E8%87%B4%E6%95%ACC%E7%BD%97"
+        "百度": "https://m.baidu.com/s?word=%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E5%87%BA%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E6%8B%85%E4%BB%BB%E6%9B%BC%E8%81%94%E4%B8%BB%E6%95%99%E7%BB%83"
       },
       "raw_titles": [
-        "葡萄牙全队将穿7号球服致敬C罗"
+        "曼联官宣波切蒂诺出任主教练"
       ],
-      "rank": 9,
-      "sports_rank": 5
+      "rank": 6,
+      "sports_rank": 3
     },
     {
       "title": "NBA新赛季表现不佳的球员",
@@ -391,31 +309,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1177755,
+      "hot_value": 834827,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%A1%A8%E7%8E%B0%E4%B8%8D%E4%BD%B3%E7%9A%84%E7%90%83%E5%91%98"
       },
       "raw_titles": [
         "NBA新赛季表现不佳的球员"
       ],
-      "rank": 10,
-      "sports_rank": 6
-    },
-    {
-      "title": "S16总决赛冠军争夺前瞻",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1060052,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B%E4%BA%89%E5%A4%BA%E5%89%8D%E7%9E%BB"
-      },
-      "raw_titles": [
-        "S16总决赛冠军争夺前瞻"
-      ],
-      "rank": 11,
-      "sports_rank": 7
+      "rank": 8,
+      "sports_rank": 4
     },
     {
       "title": "代入GEN视角看S16总决赛",
@@ -423,15 +325,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1060046,
+      "hot_value": 745281,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%85%A5GEN%E8%A7%86%E8%A7%92%E7%9C%8BS16%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "代入GEN视角看S16总决赛"
       ],
-      "rank": 12,
-      "sports_rank": 8
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "曝Zeus和T1签约3年打到Faker退役",
@@ -440,7 +342,7 @@
         "微博",
         "百度"
       ],
-      "hot_value": 616798,
+      "hot_value": 514402,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DZeus%E5%92%8CT1%E7%AD%BE%E7%BA%A63%E5%B9%B4%E6%89%93%E5%88%B0Faker%E9%80%80%E5%BD%B9",
         "百度": "https://m.baidu.com/s?word=%E6%9B%9DZeus%E5%92%8CT1%E7%AD%BE%E7%BA%A63%E5%B9%B4%E6%89%93%E5%88%B0Faker%E9%80%80%E5%BD%B9&sa=fyb_news"
@@ -448,34 +350,52 @@
       "raw_titles": [
         "曝Zeus和T1签约3年打到Faker退役"
       ],
-      "rank": 13,
-      "sports_rank": 9
+      "rank": 10,
+      "sports_rank": 6
     },
     {
-      "title": "阻止董路团队参赛？中国足协澄清",
+      "title": "葡萄牙全队将穿7号球服致敬C罗",
       "category": "体育",
       "sources": [
+        "微博",
         "百度"
       ],
-      "hot_value": 63000,
+      "hot_value": 345495,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%98%BB%E6%AD%A2%E8%91%A3%E8%B7%AF%E5%9B%A2%E9%98%9F%E5%8F%82%E8%B5%9B%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E6%BE%84%E6%B8%85&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E6%9C%8D%E8%87%B4%E6%95%ACC%E7%BD%97",
+        "百度": "https://m.baidu.com/s?word=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E8%A1%A3%E8%87%B4%E6%95%ACC%E7%BD%97&sa=fyb_news"
       },
       "raw_titles": [
-        "阻止董路团队参赛？中国足协澄清"
+        "葡萄牙全队将穿7号球服致敬C罗"
       ],
-      "rank": 18,
-      "sports_rank": 10
+      "rank": 12,
+      "sports_rank": 7
     }
   ],
   "movies": [
+    {
+      "title": "和范丞丞一起看昊天武道会",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7674278,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%92%8C%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A"
+      },
+      "raw_titles": [
+        "和范丞丞一起看昊天武道会"
+      ],
+      "rank": 2,
+      "movie_rank": 1
+    },
     {
       "title": "吴磊更新了47张骑行日记",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7707397,
+      "hot_value": 7659488,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E6%9B%B4%E6%96%B0%E4%BA%8647%E5%BC%A0%E9%AA%91%E8%A1%8C%E6%97%A5%E8%AE%B0"
       },
@@ -483,22 +403,6 @@
         "吴磊更新了47张骑行日记"
       ],
       "rank": 3,
-      "movie_rank": 1
-    },
-    {
-      "title": "和范丞丞一起看昊天武道会",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7702967,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%92%8C%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A"
-      },
-      "raw_titles": [
-        "和范丞丞一起看昊天武道会"
-      ],
-      "rank": 4,
       "movie_rank": 2
     },
     {
@@ -507,64 +411,48 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7680611,
+      "hot_value": 7655128,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%81%87%E6%9C%9F"
       },
       "raw_titles": [
         "申请加入杨紫的假期"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 3
     },
     {
-      "title": "原神过场动画雷与永恒",
+      "title": "原神过场动画岩与契约",
       "category": "影视",
       "sources": [
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 2040436,
+      "hot_value": 1406162,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%B2%A9%E4%B8%8E%E5%A5%91%E7%BA%A6"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E9%9B%B7%E4%B8%8E%E6%B0%B8%E6%81%92"
       },
       "raw_titles": [
-        "原神过场动画雷与永恒"
+        "原神过场动画岩与契约"
       ],
-      "rank": 8,
+      "rank": 7,
       "movie_rank": 4
     },
     {
-      "title": "王晶回应麻将女王票房",
+      "title": "春日宴回应番位争议",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 343230,
+      "hot_value": 374923,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%99%B6%E5%9B%9E%E5%BA%94%E9%BA%BB%E5%B0%86%E5%A5%B3%E7%8E%8B%E7%A5%A8%E6%88%BF"
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%97%A5%E5%AE%B4%E5%9B%9E%E5%BA%94%E7%95%AA%E4%BD%8D%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
-        "王晶回应麻将女王票房"
+        "春日宴回应番位争议"
       ],
-      "rank": 14,
+      "rank": 11,
       "movie_rank": 5
-    },
-    {
-      "title": "肖战我不是肖战",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 324292,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%88%91%E4%B8%8D%E6%98%AF%E8%82%96%E6%88%98"
-      },
-      "raw_titles": [
-        "肖战我不是肖战"
-      ],
-      "rank": 15,
-      "movie_rank": 6
     },
     {
       "title": "英伟达高开低走 迅速转跌",
@@ -579,23 +467,39 @@
       "raw_titles": [
         "英伟达高开低走 迅速转跌"
       ],
-      "rank": 16,
-      "movie_rank": 7
+      "rank": 13,
+      "movie_rank": 6
     },
     {
-      "title": "范丞丞我有点晕腿",
+      "title": "肖战我不是肖战",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 232855,
+      "hot_value": 239158,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%88%91%E6%9C%89%E7%82%B9%E6%99%95%E8%85%BF"
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%88%91%E4%B8%8D%E6%98%AF%E8%82%96%E6%88%98"
       },
       "raw_titles": [
-        "范丞丞我有点晕腿"
+        "肖战我不是肖战"
       ],
-      "rank": 17,
+      "rank": 14,
+      "movie_rank": 7
+    },
+    {
+      "title": "王晶回应麻将女王票房",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 212699,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%99%B6%E5%9B%9E%E5%BA%94%E9%BA%BB%E5%B0%86%E5%A5%B3%E7%8E%8B%E7%A5%A8%E6%88%BF"
+      },
+      "raw_titles": [
+        "王晶回应麻将女王票房"
+      ],
+      "rank": 15,
       "movie_rank": 8
     }
   ]
