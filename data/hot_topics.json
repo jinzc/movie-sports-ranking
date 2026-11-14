@@ -1,58 +1,42 @@
 {
-  "update_time": "2026-11-15 00:00:59",
-  "total": 32,
-  "sports_count": 19,
-  "movie_count": 15,
+  "update_time": "2026-11-15 01:00:55",
+  "total": 27,
+  "sports_count": 18,
+  "movie_count": 11,
   "all": [
+    {
+      "title": "国足2:0马来西亚",
+      "category": "体育",
+      "sources": [
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 12234681,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32%3A0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A"
+      },
+      "raw_titles": [
+        "国足2:0马来西亚"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "WB年总夺冠圆梦凤凰山",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 15930418,
+      "hot_value": 9088789,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=WB%E5%B9%B4%E6%80%BB%E5%A4%BA%E5%86%A0%E5%9C%86%E6%A2%A6%E5%87%A4%E5%87%B0%E5%B1%B1"
       },
       "raw_titles": [
         "WB年总夺冠圆梦凤凰山"
       ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "国足2:0马来西亚",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 12118633,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32%3A0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A"
-      },
-      "raw_titles": [
-        "国足2:0马来西亚"
-      ],
       "rank": 2,
       "sports_rank": 2
-    },
-    {
-      "title": "KPL年度总决赛现场直击",
-      "category": "体育",
-      "sources": [
-        "抖音",
-        "哔哩哔哩"
-      ],
-      "hot_value": 8671332,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9BTOP5"
-      },
-      "raw_titles": [
-        "KPL年度总决赛现场直击"
-      ],
-      "rank": 3,
-      "sports_rank": 3
     },
     {
       "title": "犯规致对手身亡门将被禁赛12场",
@@ -60,15 +44,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7743148,
+      "hot_value": 7756658,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8A%AF%E8%A7%84%E8%87%B4%E5%AF%B9%E6%89%8B%E8%BA%AB%E4%BA%A1%E9%97%A8%E5%B0%86%E8%A2%AB%E7%A6%81%E8%B5%9B12%E5%9C%BA"
       },
       "raw_titles": [
         "犯规致对手身亡门将被禁赛12场"
       ],
+      "rank": 3,
+      "sports_rank": 3
+    },
+    {
+      "title": "KPL年度总决赛现场直击",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7731609,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB"
+      },
+      "raw_titles": [
+        "KPL年度总决赛现场直击"
+      ],
       "rank": 4,
       "sports_rank": 4
+    },
+    {
+      "title": "火影决斗场天降大魔方",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7689269,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E5%86%B3%E6%96%97%E5%9C%BA%E5%A4%A9%E9%99%8D%E5%A4%A7%E9%AD%94%E6%96%B9"
+      },
+      "raw_titles": [
+        "火影决斗场天降大魔方"
+      ],
+      "rank": 5,
+      "movie_rank": 1
     },
     {
       "title": "华晨宇第100场演唱会",
@@ -76,15 +92,35 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7691667,
+      "hot_value": 7679215,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8D%8E%E6%99%A8%E5%AE%87%E7%AC%AC100%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "华晨宇第100场演唱会"
       ],
-      "rank": 5,
-      "movie_rank": 1
+      "rank": 6,
+      "movie_rank": 2
+    },
+    {
+      "title": "梓墨FMVP",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 2610081,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP",
+        "百度": "https://m.baidu.com/s?word=%E6%A2%93%E5%A2%A8FMVP&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%93%E5%A2%A8FMVP%E7%9A%AE%E8%82%A4%E7%BB%99%E5%88%B0%E5%8F%B8%E7%A9%BA%E9%9C%87"
+      },
+      "raw_titles": [
+        "梓墨FMVP"
+      ],
+      "rank": 7,
+      "sports_rank": 5
     },
     {
       "title": "梓墨获2026KPL年总FMVP",
@@ -92,15 +128,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 3222023,
+      "hot_value": 2572788,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%93%E5%A2%A8%E8%8E%B72026KPL%E5%B9%B4%E6%80%BBFMVP"
       },
       "raw_titles": [
         "梓墨获2026KPL年总FMVP"
       ],
-      "rank": 6,
-      "sports_rank": 5
+      "rank": 8,
+      "sports_rank": 6
     },
     {
       "title": "S16总决赛",
@@ -110,7 +146,7 @@
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 1918716,
+      "hot_value": 1335825,
       "urls": {
         "百度": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E9%A2%84%E7%83%AD%E7%89%87"
@@ -118,62 +154,8 @@
       "raw_titles": [
         "S16总决赛"
       ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "国足马来西亚爆发冲突",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "哔哩哔哩"
-      ],
-      "hot_value": 1640366,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81"
-      },
-      "raw_titles": [
-        "国足马来西亚爆发冲突"
-      ],
-      "rank": 8,
-      "sports_rank": 7
-    },
-    {
-      "title": "WB夺冠",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1593525,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0",
-        "百度": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%86%A0%E7%9E%AC%E9%97%B4&sa=fyb_news"
-      },
-      "raw_titles": [
-        "WB夺冠"
-      ],
       "rank": 9,
-      "sports_rank": 8
-    },
-    {
-      "title": "梓墨FMVP",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1269231,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP",
-        "百度": "https://m.baidu.com/s?word=%E6%A2%93%E5%A2%A8FMVP&sa=fyb_news"
-      },
-      "raw_titles": [
-        "梓墨FMVP"
-      ],
-      "rank": 10,
-      "sports_rank": 9
+      "sports_rank": 7
     },
     {
       "title": "三王公测定档CG",
@@ -181,15 +163,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 933232,
+      "hot_value": 609766,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E7%8E%8B%E5%85%AC%E6%B5%8B%E5%AE%9A%E6%A1%A3CG"
       },
       "raw_titles": [
         "三王公测定档CG"
       ],
-      "rank": 11,
-      "movie_rank": 2
+      "rank": 10,
+      "movie_rank": 3
     },
     {
       "title": "原神剧情PV",
@@ -197,31 +179,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 808452,
+      "hot_value": 534847,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV"
       },
       "raw_titles": [
         "原神剧情PV"
       ],
-      "rank": 12,
-      "movie_rank": 3
-    },
-    {
-      "title": "米勒预测BLG对战GEN比分",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 753236,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E6%88%98GEN%E6%AF%94%E5%88%86"
-      },
-      "raw_titles": [
-        "米勒预测BLG对战GEN比分"
-      ],
-      "rank": 13,
-      "sports_rank": 10
+      "rank": 11,
+      "movie_rank": 4
     },
     {
       "title": "鸣潮剧情动画",
@@ -229,31 +195,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 621233,
+      "hot_value": 504355,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%89%A7%E6%83%85%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "鸣潮剧情动画"
       ],
-      "rank": 14,
-      "movie_rank": 4
-    },
-    {
-      "title": "周深KPL总决赛开场秀太燃了",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 612383,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1KPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BC%80%E5%9C%BA%E7%A7%80%E5%A4%AA%E7%87%83%E4%BA%86"
-      },
-      "raw_titles": [
-        "周深KPL总决赛开场秀太燃了"
-      ],
-      "rank": 15,
-      "sports_rank": 11,
+      "rank": 12,
       "movie_rank": 5
     },
     {
@@ -269,40 +218,42 @@
       "raw_titles": [
         "终结三连败！国足2比0战胜马来西亚"
       ],
-      "rank": 16,
-      "sports_rank": 12
+      "rank": 13,
+      "sports_rank": 8
     },
     {
-      "title": "国足开场点球被VAR取消",
+      "title": "国足马来西亚冲突后续",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 326445,
+      "hot_value": 366526,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%80%E5%9C%BA%E7%82%B9%E7%90%83%E8%A2%ABVAR%E5%8F%96%E6%B6%88"
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%86%B2%E7%AA%81%E5%90%8E%E7%BB%AD"
       },
       "raw_titles": [
-        "国足开场点球被VAR取消"
+        "国足马来西亚冲突后续"
       ],
-      "rank": 17,
-      "sports_rank": 13
+      "rank": 14,
+      "sports_rank": 9
     },
     {
-      "title": "迪丽热巴迪奥短片的配音",
-      "category": "影视",
+      "title": "WB夺冠",
+      "category": "体育",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 326125,
+      "hot_value": 306325,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%AA%E5%A5%A5%E7%9F%AD%E7%89%87%E7%9A%84%E9%85%8D%E9%9F%B3"
+        "微博": "https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0",
+        "百度": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%86%A0%E7%9E%AC%E9%97%B4&sa=fyb_news"
       },
       "raw_titles": [
-        "迪丽热巴迪奥短片的配音"
+        "WB夺冠"
       ],
-      "rank": 18,
-      "movie_rank": 6
+      "rank": 15,
+      "sports_rank": 10
     },
     {
       "title": "国足张玉宁踢到对手 不是点球",
@@ -310,47 +261,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 321699,
+      "hot_value": 273105,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%A0%E7%8E%89%E5%AE%81%E8%B8%A2%E5%88%B0%E5%AF%B9%E6%89%8B%20%E4%B8%8D%E6%98%AF%E7%82%B9%E7%90%83"
       },
       "raw_titles": [
         "国足张玉宁踢到对手 不是点球"
       ],
-      "rank": 19,
-      "sports_rank": 14
-    },
-    {
-      "title": "张杰唱性情了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 297494,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E5%94%B1%E6%80%A7%E6%83%85%E4%BA%86"
-      },
-      "raw_titles": [
-        "张杰唱性情了"
-      ],
-      "rank": 20,
-      "movie_rank": 7
-    },
-    {
-      "title": "日本男足3比2绝杀巴西",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 279000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%94%B7%E8%B6%B33%E6%AF%942%E7%BB%9D%E6%9D%80%E5%B7%B4%E8%A5%BF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "日本男足3比2绝杀巴西"
-      ],
-      "rank": 21,
-      "sports_rank": 15
+      "rank": 16,
+      "sports_rank": 11
     },
     {
       "title": "S16全球总决赛影院线下场一票难求",
@@ -365,41 +284,9 @@
       "raw_titles": [
         "S16全球总决赛影院线下场一票难求"
       ],
-      "rank": 22,
-      "sports_rank": 16,
-      "movie_rank": 8
-    },
-    {
-      "title": "赵本山唱《慌啥子嘛》",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 261000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "赵本山唱《慌啥子嘛》"
-      ],
-      "rank": 23,
-      "movie_rank": 9
-    },
-    {
-      "title": "应急管理部通报：举报人获奖金30万",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E9%80%9A%E6%8A%A5%EF%BC%9A%E4%B8%BE%E6%8A%A5%E4%BA%BA%E8%8E%B7%E5%A5%96%E9%87%9130%E4%B8%87&sa=fyb_news"
-      },
-      "raw_titles": [
-        "应急管理部通报：举报人获奖金30万"
-      ],
-      "rank": 24,
-      "movie_rank": 10
+      "rank": 17,
+      "sports_rank": 12,
+      "movie_rank": 6
     },
     {
       "title": "王晶回应《麻将女王》票房",
@@ -407,111 +294,79 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 261000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%99%B6%E5%9B%9E%E5%BA%94%E3%80%8A%E9%BA%BB%E5%B0%86%E5%A5%B3%E7%8E%8B%E3%80%8B%E7%A5%A8%E6%88%BF&sa=fyb_news"
       },
       "raw_titles": [
         "王晶回应《麻将女王》票房"
       ],
-      "rank": 25,
-      "movie_rank": 11
+      "rank": 18,
+      "movie_rank": 7
     },
     {
-      "title": "《谷雨》导演：查了所有演员税务才开机",
-      "category": "影视",
+      "title": "日本男足3比2绝杀巴西",
+      "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 207000,
+      "hot_value": 252000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%B0%B7%E9%9B%A8%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%9F%A5%E4%BA%86%E6%89%80%E6%9C%89%E6%BC%94%E5%91%98%E7%A8%8E%E5%8A%A1%E6%89%8D%E5%BC%80%E6%9C%BA&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%94%B7%E8%B6%B33%E6%AF%942%E7%BB%9D%E6%9D%80%E5%B7%B4%E8%A5%BF&sa=fyb_news"
       },
       "raw_titles": [
-        "《谷雨》导演：查了所有演员税务才开机"
+        "日本男足3比2绝杀巴西"
       ],
-      "rank": 26,
-      "movie_rank": 12
+      "rank": 19,
+      "sports_rank": 13
     },
     {
-      "title": "cpb向檀健次道歉",
-      "category": "影视",
+      "title": "国足开场点球被VAR取消",
+      "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 190203,
+      "hot_value": 211391,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=cpb%E5%90%91%E6%AA%80%E5%81%A5%E6%AC%A1%E9%81%93%E6%AD%89"
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%80%E5%9C%BA%E7%82%B9%E7%90%83%E8%A2%ABVAR%E5%8F%96%E6%B6%88"
       },
       "raw_titles": [
-        "cpb向檀健次道歉"
+        "国足开场点球被VAR取消"
       ],
-      "rank": 27,
-      "movie_rank": 13
+      "rank": 20,
+      "sports_rank": 14
     },
     {
-      "title": "魔术师刘谦向警方赠锦旗",
-      "category": "体育",
+      "title": "赵本山唱《慌啥子嘛》",
+      "category": "影视",
       "sources": [
         "百度"
       ],
       "hot_value": 189000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%AD%94%E6%9C%AF%E5%B8%88%E5%88%98%E8%B0%A6%E5%90%91%E8%AD%A6%E6%96%B9%E8%B5%A0%E9%94%A6%E6%97%97&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B&sa=fyb_news"
       },
       "raw_titles": [
-        "魔术师刘谦向警方赠锦旗"
+        "赵本山唱《慌啥子嘛》"
       ],
-      "rank": 28,
-      "sports_rank": 17
+      "rank": 21,
+      "movie_rank": 8
     },
     {
-      "title": "文吉儿拿过金鸡奖",
+      "title": "迪丽热巴迪奥短片的配音",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 181645,
+      "hot_value": 166601,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E6%8B%BF%E8%BF%87%E9%87%91%E9%B8%A1%E5%A5%96"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%AA%E5%A5%A5%E7%9F%AD%E7%89%87%E7%9A%84%E9%85%8D%E9%9F%B3"
       },
       "raw_titles": [
-        "文吉儿拿过金鸡奖"
+        "迪丽热巴迪奥短片的配音"
       ],
-      "rank": 29,
-      "movie_rank": 14
-    },
-    {
-      "title": "宁忠岩世界杯再夺金",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 90000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AE%81%E5%BF%A0%E5%B2%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%8D%E5%A4%BA%E9%87%91&sa=fyb_news"
-      },
-      "raw_titles": [
-        "宁忠岩世界杯再夺金"
-      ],
-      "rank": 30,
-      "sports_rank": 18
-    },
-    {
-      "title": "U19国足战平塔吉克斯坦",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 45000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=U19%E5%9B%BD%E8%B6%B3%E6%88%98%E5%B9%B3%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news"
-      },
-      "raw_titles": [
-        "U19国足战平塔吉克斯坦"
-      ],
-      "rank": 31,
-      "sports_rank": 19
+      "rank": 22,
+      "movie_rank": 9
     },
     {
       "title": "导演：作品没做好不能赖短剧和AI",
@@ -519,67 +374,116 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%AF%BC%E6%BC%94%EF%BC%9A%E4%BD%9C%E5%93%81%E6%B2%A1%E5%81%9A%E5%A5%BD%E4%B8%8D%E8%83%BD%E8%B5%96%E7%9F%AD%E5%89%A7%E5%92%8CAI&sa=fyb_news"
       },
       "raw_titles": [
         "导演：作品没做好不能赖短剧和AI"
       ],
-      "rank": 32,
-      "movie_rank": 15
+      "rank": 23,
+      "movie_rank": 10
+    },
+    {
+      "title": "太阳雨男主生日bug",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 130145,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A4%AA%E9%98%B3%E9%9B%A8%E7%94%B7%E4%B8%BB%E7%94%9F%E6%97%A5bug"
+      },
+      "raw_titles": [
+        "太阳雨男主生日bug"
+      ],
+      "rank": 24,
+      "sports_rank": 15
+    },
+    {
+      "title": "U19国足战平塔吉克斯坦",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 117000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=U19%E5%9B%BD%E8%B6%B3%E6%88%98%E5%B9%B3%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "U19国足战平塔吉克斯坦"
+      ],
+      "rank": 25,
+      "sports_rank": 16
+    },
+    {
+      "title": "宁忠岩世界杯再夺金",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 99000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AE%81%E5%BF%A0%E5%B2%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%8D%E5%A4%BA%E9%87%91&sa=fyb_news"
+      },
+      "raw_titles": [
+        "宁忠岩世界杯再夺金"
+      ],
+      "rank": 26,
+      "sports_rank": 17
+    },
+    {
+      "title": "KPL总决赛周深开场高音绝了",
+      "category": "综合",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=KPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%91%A8%E6%B7%B1%E5%BC%80%E5%9C%BA%E9%AB%98%E9%9F%B3%E7%BB%9D%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "KPL总决赛周深开场高音绝了"
+      ],
+      "rank": 27,
+      "sports_rank": 18,
+      "movie_rank": 11
     }
   ],
   "sports": [
     {
+      "title": "国足2:0马来西亚",
+      "category": "体育",
+      "sources": [
+        "抖音",
+        "哔哩哔哩"
+      ],
+      "hot_value": 12234681,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32%3A0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A"
+      },
+      "raw_titles": [
+        "国足2:0马来西亚"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
       "title": "WB年总夺冠圆梦凤凰山",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 15930418,
+      "hot_value": 9088789,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=WB%E5%B9%B4%E6%80%BB%E5%A4%BA%E5%86%A0%E5%9C%86%E6%A2%A6%E5%87%A4%E5%87%B0%E5%B1%B1"
       },
       "raw_titles": [
         "WB年总夺冠圆梦凤凰山"
       ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "国足2:0马来西亚",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 12118633,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32%3A0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A"
-      },
-      "raw_titles": [
-        "国足2:0马来西亚"
-      ],
       "rank": 2,
       "sports_rank": 2
-    },
-    {
-      "title": "KPL年度总决赛现场直击",
-      "category": "体育",
-      "sources": [
-        "抖音",
-        "哔哩哔哩"
-      ],
-      "hot_value": 8671332,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9BTOP5"
-      },
-      "raw_titles": [
-        "KPL年度总决赛现场直击"
-      ],
-      "rank": 3,
-      "sports_rank": 3
     },
     {
       "title": "犯规致对手身亡门将被禁赛12场",
@@ -587,15 +491,51 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7743148,
+      "hot_value": 7756658,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%8A%AF%E8%A7%84%E8%87%B4%E5%AF%B9%E6%89%8B%E8%BA%AB%E4%BA%A1%E9%97%A8%E5%B0%86%E8%A2%AB%E7%A6%81%E8%B5%9B12%E5%9C%BA"
       },
       "raw_titles": [
         "犯规致对手身亡门将被禁赛12场"
       ],
+      "rank": 3,
+      "sports_rank": 3
+    },
+    {
+      "title": "KPL年度总决赛现场直击",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7731609,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB"
+      },
+      "raw_titles": [
+        "KPL年度总决赛现场直击"
+      ],
       "rank": 4,
       "sports_rank": 4
+    },
+    {
+      "title": "梓墨FMVP",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 2610081,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP",
+        "百度": "https://m.baidu.com/s?word=%E6%A2%93%E5%A2%A8FMVP&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%93%E5%A2%A8FMVP%E7%9A%AE%E8%82%A4%E7%BB%99%E5%88%B0%E5%8F%B8%E7%A9%BA%E9%9C%87"
+      },
+      "raw_titles": [
+        "梓墨FMVP"
+      ],
+      "rank": 7,
+      "sports_rank": 5
     },
     {
       "title": "梓墨获2026KPL年总FMVP",
@@ -603,15 +543,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 3222023,
+      "hot_value": 2572788,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A2%93%E5%A2%A8%E8%8E%B72026KPL%E5%B9%B4%E6%80%BBFMVP"
       },
       "raw_titles": [
         "梓墨获2026KPL年总FMVP"
       ],
-      "rank": 6,
-      "sports_rank": 5
+      "rank": 8,
+      "sports_rank": 6
     },
     {
       "title": "S16总决赛",
@@ -621,7 +561,7 @@
         "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 1918716,
+      "hot_value": 1335825,
       "urls": {
         "百度": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E9%A2%84%E7%83%AD%E7%89%87"
@@ -629,95 +569,8 @@
       "raw_titles": [
         "S16总决赛"
       ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "国足马来西亚爆发冲突",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "哔哩哔哩"
-      ],
-      "hot_value": 1640366,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81"
-      },
-      "raw_titles": [
-        "国足马来西亚爆发冲突"
-      ],
-      "rank": 8,
-      "sports_rank": 7
-    },
-    {
-      "title": "WB夺冠",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1593525,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0",
-        "百度": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%86%A0%E7%9E%AC%E9%97%B4&sa=fyb_news"
-      },
-      "raw_titles": [
-        "WB夺冠"
-      ],
       "rank": 9,
-      "sports_rank": 8
-    },
-    {
-      "title": "梓墨FMVP",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 1269231,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP",
-        "百度": "https://m.baidu.com/s?word=%E6%A2%93%E5%A2%A8FMVP&sa=fyb_news"
-      },
-      "raw_titles": [
-        "梓墨FMVP"
-      ],
-      "rank": 10,
-      "sports_rank": 9
-    },
-    {
-      "title": "米勒预测BLG对战GEN比分",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 753236,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E6%88%98GEN%E6%AF%94%E5%88%86"
-      },
-      "raw_titles": [
-        "米勒预测BLG对战GEN比分"
-      ],
-      "rank": 13,
-      "sports_rank": 10
-    },
-    {
-      "title": "周深KPL总决赛开场秀太燃了",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 612383,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1KPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BC%80%E5%9C%BA%E7%A7%80%E5%A4%AA%E7%87%83%E4%BA%86"
-      },
-      "raw_titles": [
-        "周深KPL总决赛开场秀太燃了"
-      ],
-      "rank": 15,
-      "sports_rank": 11,
-      "movie_rank": 5
+      "sports_rank": 7
     },
     {
       "title": "终结三连败！国足2比0战胜马来西亚",
@@ -732,24 +585,42 @@
       "raw_titles": [
         "终结三连败！国足2比0战胜马来西亚"
       ],
-      "rank": 16,
-      "sports_rank": 12
+      "rank": 13,
+      "sports_rank": 8
     },
     {
-      "title": "国足开场点球被VAR取消",
+      "title": "国足马来西亚冲突后续",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 326445,
+      "hot_value": 366526,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%80%E5%9C%BA%E7%82%B9%E7%90%83%E8%A2%ABVAR%E5%8F%96%E6%B6%88"
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%86%B2%E7%AA%81%E5%90%8E%E7%BB%AD"
       },
       "raw_titles": [
-        "国足开场点球被VAR取消"
+        "国足马来西亚冲突后续"
       ],
-      "rank": 17,
-      "sports_rank": 13
+      "rank": 14,
+      "sports_rank": 9
+    },
+    {
+      "title": "WB夺冠",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 306325,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0",
+        "百度": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%86%A0%E7%9E%AC%E9%97%B4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "WB夺冠"
+      ],
+      "rank": 15,
+      "sports_rank": 10
     },
     {
       "title": "国足张玉宁踢到对手 不是点球",
@@ -757,15 +628,32 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 321699,
+      "hot_value": 273105,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%A0%E7%8E%89%E5%AE%81%E8%B8%A2%E5%88%B0%E5%AF%B9%E6%89%8B%20%E4%B8%8D%E6%98%AF%E7%82%B9%E7%90%83"
       },
       "raw_titles": [
         "国足张玉宁踢到对手 不是点球"
       ],
-      "rank": 19,
-      "sports_rank": 14
+      "rank": 16,
+      "sports_rank": 11
+    },
+    {
+      "title": "S16全球总决赛影院线下场一票难求",
+      "category": "综合",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 270000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=S16%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BD%B1%E9%99%A2%E7%BA%BF%E4%B8%8B%E5%9C%BA%E4%B8%80%E7%A5%A8%E9%9A%BE%E6%B1%82&sa=fyb_news"
+      },
+      "raw_titles": [
+        "S16全球总决赛影院线下场一票难求"
+      ],
+      "rank": 17,
+      "sports_rank": 12,
+      "movie_rank": 6
     },
     {
       "title": "日本男足3比2绝杀巴西",
@@ -773,64 +661,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 279000,
+      "hot_value": 252000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%94%B7%E8%B6%B33%E6%AF%942%E7%BB%9D%E6%9D%80%E5%B7%B4%E8%A5%BF&sa=fyb_news"
       },
       "raw_titles": [
         "日本男足3比2绝杀巴西"
       ],
-      "rank": 21,
+      "rank": 19,
+      "sports_rank": 13
+    },
+    {
+      "title": "国足开场点球被VAR取消",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 211391,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%80%E5%9C%BA%E7%82%B9%E7%90%83%E8%A2%ABVAR%E5%8F%96%E6%B6%88"
+      },
+      "raw_titles": [
+        "国足开场点球被VAR取消"
+      ],
+      "rank": 20,
+      "sports_rank": 14
+    },
+    {
+      "title": "太阳雨男主生日bug",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 130145,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%A4%AA%E9%98%B3%E9%9B%A8%E7%94%B7%E4%B8%BB%E7%94%9F%E6%97%A5bug"
+      },
+      "raw_titles": [
+        "太阳雨男主生日bug"
+      ],
+      "rank": 24,
       "sports_rank": 15
-    },
-    {
-      "title": "S16全球总决赛影院线下场一票难求",
-      "category": "综合",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 270000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=S16%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BD%B1%E9%99%A2%E7%BA%BF%E4%B8%8B%E5%9C%BA%E4%B8%80%E7%A5%A8%E9%9A%BE%E6%B1%82&sa=fyb_news"
-      },
-      "raw_titles": [
-        "S16全球总决赛影院线下场一票难求"
-      ],
-      "rank": 22,
-      "sports_rank": 16,
-      "movie_rank": 8
-    },
-    {
-      "title": "魔术师刘谦向警方赠锦旗",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%AD%94%E6%9C%AF%E5%B8%88%E5%88%98%E8%B0%A6%E5%90%91%E8%AD%A6%E6%96%B9%E8%B5%A0%E9%94%A6%E6%97%97&sa=fyb_news"
-      },
-      "raw_titles": [
-        "魔术师刘谦向警方赠锦旗"
-      ],
-      "rank": 28,
-      "sports_rank": 17
-    },
-    {
-      "title": "宁忠岩世界杯再夺金",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 90000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AE%81%E5%BF%A0%E5%B2%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%8D%E5%A4%BA%E9%87%91&sa=fyb_news"
-      },
-      "raw_titles": [
-        "宁忠岩世界杯再夺金"
-      ],
-      "rank": 30,
-      "sports_rank": 18
     },
     {
       "title": "U19国足战平塔吉克斯坦",
@@ -838,33 +709,82 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 45000,
+      "hot_value": 117000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=U19%E5%9B%BD%E8%B6%B3%E6%88%98%E5%B9%B3%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6&sa=fyb_news"
       },
       "raw_titles": [
         "U19国足战平塔吉克斯坦"
       ],
-      "rank": 31,
-      "sports_rank": 19
+      "rank": 25,
+      "sports_rank": 16
+    },
+    {
+      "title": "宁忠岩世界杯再夺金",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 99000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AE%81%E5%BF%A0%E5%B2%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%8D%E5%A4%BA%E9%87%91&sa=fyb_news"
+      },
+      "raw_titles": [
+        "宁忠岩世界杯再夺金"
+      ],
+      "rank": 26,
+      "sports_rank": 17
+    },
+    {
+      "title": "KPL总决赛周深开场高音绝了",
+      "category": "综合",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=KPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%91%A8%E6%B7%B1%E5%BC%80%E5%9C%BA%E9%AB%98%E9%9F%B3%E7%BB%9D%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "KPL总决赛周深开场高音绝了"
+      ],
+      "rank": 27,
+      "sports_rank": 18,
+      "movie_rank": 11
     }
   ],
   "movies": [
+    {
+      "title": "火影决斗场天降大魔方",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7689269,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E5%86%B3%E6%96%97%E5%9C%BA%E5%A4%A9%E9%99%8D%E5%A4%A7%E9%AD%94%E6%96%B9"
+      },
+      "raw_titles": [
+        "火影决斗场天降大魔方"
+      ],
+      "rank": 5,
+      "movie_rank": 1
+    },
     {
       "title": "华晨宇第100场演唱会",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7691667,
+      "hot_value": 7679215,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8D%8E%E6%99%A8%E5%AE%87%E7%AC%AC100%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "华晨宇第100场演唱会"
       ],
-      "rank": 5,
-      "movie_rank": 1
+      "rank": 6,
+      "movie_rank": 2
     },
     {
       "title": "三王公测定档CG",
@@ -872,15 +792,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 933232,
+      "hot_value": 609766,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E7%8E%8B%E5%85%AC%E6%B5%8B%E5%AE%9A%E6%A1%A3CG"
       },
       "raw_titles": [
         "三王公测定档CG"
       ],
-      "rank": 11,
-      "movie_rank": 2
+      "rank": 10,
+      "movie_rank": 3
     },
     {
       "title": "原神剧情PV",
@@ -888,15 +808,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 808452,
+      "hot_value": 534847,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV"
       },
       "raw_titles": [
         "原神剧情PV"
       ],
-      "rank": 12,
-      "movie_rank": 3
+      "rank": 11,
+      "movie_rank": 4
     },
     {
       "title": "鸣潮剧情动画",
@@ -904,64 +824,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 621233,
+      "hot_value": 504355,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%89%A7%E6%83%85%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "鸣潮剧情动画"
       ],
-      "rank": 14,
-      "movie_rank": 4
-    },
-    {
-      "title": "周深KPL总决赛开场秀太燃了",
-      "category": "综合",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 612383,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1KPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BC%80%E5%9C%BA%E7%A7%80%E5%A4%AA%E7%87%83%E4%BA%86"
-      },
-      "raw_titles": [
-        "周深KPL总决赛开场秀太燃了"
-      ],
-      "rank": 15,
-      "sports_rank": 11,
+      "rank": 12,
       "movie_rank": 5
-    },
-    {
-      "title": "迪丽热巴迪奥短片的配音",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 326125,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%AA%E5%A5%A5%E7%9F%AD%E7%89%87%E7%9A%84%E9%85%8D%E9%9F%B3"
-      },
-      "raw_titles": [
-        "迪丽热巴迪奥短片的配音"
-      ],
-      "rank": 18,
-      "movie_rank": 6
-    },
-    {
-      "title": "张杰唱性情了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 297494,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E5%94%B1%E6%80%A7%E6%83%85%E4%BA%86"
-      },
-      "raw_titles": [
-        "张杰唱性情了"
-      ],
-      "rank": 20,
-      "movie_rank": 7
     },
     {
       "title": "S16全球总决赛影院线下场一票难求",
@@ -976,41 +847,9 @@
       "raw_titles": [
         "S16全球总决赛影院线下场一票难求"
       ],
-      "rank": 22,
-      "sports_rank": 16,
-      "movie_rank": 8
-    },
-    {
-      "title": "赵本山唱《慌啥子嘛》",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 261000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "赵本山唱《慌啥子嘛》"
-      ],
-      "rank": 23,
-      "movie_rank": 9
-    },
-    {
-      "title": "应急管理部通报：举报人获奖金30万",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 225000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E9%80%9A%E6%8A%A5%EF%BC%9A%E4%B8%BE%E6%8A%A5%E4%BA%BA%E8%8E%B7%E5%A5%96%E9%87%9130%E4%B8%87&sa=fyb_news"
-      },
-      "raw_titles": [
-        "应急管理部通报：举报人获奖金30万"
-      ],
-      "rank": 24,
-      "movie_rank": 10
+      "rank": 17,
+      "sports_rank": 12,
+      "movie_rank": 6
     },
     {
       "title": "王晶回应《麻将女王》票房",
@@ -1018,63 +857,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 216000,
+      "hot_value": 261000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E7%8E%8B%E6%99%B6%E5%9B%9E%E5%BA%94%E3%80%8A%E9%BA%BB%E5%B0%86%E5%A5%B3%E7%8E%8B%E3%80%8B%E7%A5%A8%E6%88%BF&sa=fyb_news"
       },
       "raw_titles": [
         "王晶回应《麻将女王》票房"
       ],
-      "rank": 25,
-      "movie_rank": 11
+      "rank": 18,
+      "movie_rank": 7
     },
     {
-      "title": "《谷雨》导演：查了所有演员税务才开机",
+      "title": "赵本山唱《慌啥子嘛》",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 207000,
+      "hot_value": 189000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%B0%B7%E9%9B%A8%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%9F%A5%E4%BA%86%E6%89%80%E6%9C%89%E6%BC%94%E5%91%98%E7%A8%8E%E5%8A%A1%E6%89%8D%E5%BC%80%E6%9C%BA&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B&sa=fyb_news"
       },
       "raw_titles": [
-        "《谷雨》导演：查了所有演员税务才开机"
+        "赵本山唱《慌啥子嘛》"
       ],
-      "rank": 26,
-      "movie_rank": 12
+      "rank": 21,
+      "movie_rank": 8
     },
     {
-      "title": "cpb向檀健次道歉",
+      "title": "迪丽热巴迪奥短片的配音",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 190203,
+      "hot_value": 166601,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=cpb%E5%90%91%E6%AA%80%E5%81%A5%E6%AC%A1%E9%81%93%E6%AD%89"
+        "微博": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%AA%E5%A5%A5%E7%9F%AD%E7%89%87%E7%9A%84%E9%85%8D%E9%9F%B3"
       },
       "raw_titles": [
-        "cpb向檀健次道歉"
+        "迪丽热巴迪奥短片的配音"
       ],
-      "rank": 27,
-      "movie_rank": 13
-    },
-    {
-      "title": "文吉儿拿过金鸡奖",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 181645,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E6%8B%BF%E8%BF%87%E9%87%91%E9%B8%A1%E5%A5%96"
-      },
-      "raw_titles": [
-        "文吉儿拿过金鸡奖"
-      ],
-      "rank": 29,
-      "movie_rank": 14
+      "rank": 22,
+      "movie_rank": 9
     },
     {
       "title": "导演：作品没做好不能赖短剧和AI",
@@ -1082,15 +905,32 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 18000,
+      "hot_value": 144000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%AF%BC%E6%BC%94%EF%BC%9A%E4%BD%9C%E5%93%81%E6%B2%A1%E5%81%9A%E5%A5%BD%E4%B8%8D%E8%83%BD%E8%B5%96%E7%9F%AD%E5%89%A7%E5%92%8CAI&sa=fyb_news"
       },
       "raw_titles": [
         "导演：作品没做好不能赖短剧和AI"
       ],
-      "rank": 32,
-      "movie_rank": 15
+      "rank": 23,
+      "movie_rank": 10
+    },
+    {
+      "title": "KPL总决赛周深开场高音绝了",
+      "category": "综合",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 9000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=KPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%91%A8%E6%B7%B1%E5%BC%80%E5%9C%BA%E9%AB%98%E9%9F%B3%E7%BB%9D%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "KPL总决赛周深开场高音绝了"
+      ],
+      "rank": 27,
+      "sports_rank": 18,
+      "movie_rank": 11
     }
   ]
 }
