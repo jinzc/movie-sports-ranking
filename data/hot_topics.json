@@ -1,21 +1,23 @@
 {
-  "update_time": "2026-11-14 18:01:23",
-  "total": 23,
+  "update_time": "2026-11-14 19:00:58",
+  "total": 20,
   "sports_count": 12,
-  "movie_count": 11,
+  "movie_count": 8,
   "all": [
     {
-      "title": "国足对阵马来西亚前瞻",
+      "title": "国足vs马来西亚",
       "category": "体育",
       "sources": [
+        "百度",
         "抖音"
       ],
-      "hot_value": 12104730,
+      "hot_value": 12501731,
       "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3vs%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
-        "国足对阵马来西亚前瞻"
+        "国足vs马来西亚"
       ],
       "rank": 1,
       "sports_rank": 1
@@ -26,7 +28,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10062102,
+      "hot_value": 8997587,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%88%BA38%E5%88%86%E5%A4%A7%E8%83%9C%E5%8B%87%E5%A3%AB%E8%B1%AA%E5%8F%9611%E8%BF%9E%E8%83%9C"
       },
@@ -42,7 +44,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8887872,
+      "hot_value": 8575693,
       "urls": {
         "抖音": "https://www.douyin.com/search/KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB"
       },
@@ -53,20 +55,36 @@
       "sports_rank": 3
     },
     {
+      "title": "火影决斗场天降大魔方",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7720942,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E5%86%B3%E6%96%97%E5%9C%BA%E5%A4%A9%E9%99%8D%E5%A4%A7%E9%AD%94%E6%96%B9"
+      },
+      "raw_titles": [
+        "火影决斗场天降大魔方"
+      ],
+      "rank": 4,
+      "movie_rank": 1
+    },
+    {
       "title": "华晨宇第100场演唱会",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7693478,
+      "hot_value": 7717569,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8D%8E%E6%99%A8%E5%AE%87%E7%AC%AC100%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "华晨宇第100场演唱会"
       ],
-      "rank": 4,
-      "movie_rank": 1
+      "rank": 5,
+      "movie_rank": 2
     },
     {
       "title": "和范丞丞一起看昊天武道会",
@@ -74,48 +92,66 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671459,
+      "hot_value": 7680894,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%92%8C%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A"
       },
       "raw_titles": [
         "和范丞丞一起看昊天武道会"
       ],
-      "rank": 5,
-      "movie_rank": 2
+      "rank": 6,
+      "movie_rank": 3
     },
     {
-      "title": "时间解说KPL年总决赛",
+      "title": "树叶解说KPL年总决赛",
       "category": "体育",
       "sources": [
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 1740898,
+      "hot_value": 3286401,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A0%91%E5%8F%B6%E8%A7%A3%E8%AF%B4KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%B6%E9%97%B4%E8%A7%A3%E8%AF%B4KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
-        "时间解说KPL年总决赛"
+        "树叶解说KPL年总决赛"
       ],
-      "rank": 6,
+      "rank": 7,
       "sports_rank": 4
     },
     {
-      "title": "S16总决赛对阵预热片",
+      "title": "S16总决赛",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "哔哩哔哩"
+      ],
+      "hot_value": 1441494,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B&sa=fyb_news",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E9%A2%84%E7%83%AD%E7%89%87"
+      },
+      "raw_titles": [
+        "S16总决赛"
+      ],
+      "rank": 8,
+      "sports_rank": 5
+    },
+    {
+      "title": "马刺或将投诉格林恶犯文班",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 873899,
+      "hot_value": 1241868,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E9%A2%84%E7%83%AD%E7%89%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E6%88%96%E5%B0%86%E6%8A%95%E8%AF%89%E6%A0%BC%E6%9E%97%E6%81%B6%E7%8A%AF%E6%96%87%E7%8F%AD"
       },
       "raw_titles": [
-        "S16总决赛对阵预热片"
+        "马刺或将投诉格林恶犯文班"
       ],
-      "rank": 7,
-      "sports_rank": 5
+      "rank": 9,
+      "sports_rank": 6
     },
     {
       "title": "鸣潮剧情动画",
@@ -123,15 +159,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 864148,
+      "hot_value": 1162493,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%89%A7%E6%83%85%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "鸣潮剧情动画"
       ],
-      "rank": 8,
-      "movie_rank": 3
+      "rank": 10,
+      "movie_rank": 4
     },
     {
       "title": "原神剧情PV",
@@ -139,94 +175,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 849581,
+      "hot_value": 1162491,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV"
       },
       "raw_titles": [
         "原神剧情PV"
       ],
-      "rank": 9,
-      "movie_rank": 4
-    },
-    {
-      "title": "代入GEN视角看S16总决赛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 658000,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%85%A5GEN%E8%A7%86%E8%A7%92%E7%9C%8BS16%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "代入GEN视角看S16总决赛"
-      ],
-      "rank": 10,
-      "sports_rank": 6
-    },
-    {
-      "title": "爱奇艺尖叫之夜历届获奖",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 546101,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%8E%86%E5%B1%8A%E8%8E%B7%E5%A5%96"
-      },
-      "raw_titles": [
-        "爱奇艺尖叫之夜历届获奖"
-      ],
       "rank": 11,
       "movie_rank": 5
     },
     {
-      "title": "DC影业CEO突然卸任全过程",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 538160,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=DC%E5%BD%B1%E4%B8%9ACEO%E7%AA%81%E7%84%B6%E5%8D%B8%E4%BB%BB%E5%85%A8%E8%BF%87%E7%A8%8B"
-      },
-      "raw_titles": [
-        "DC影业CEO突然卸任全过程"
-      ],
-      "rank": 12,
-      "movie_rank": 6
-    },
-    {
-      "title": "英雄联盟十年夺冠路混剪",
+      "title": "NBA本赛季哪些球员带来惊喜",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 535625,
+      "hot_value": 1110590,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%81%E5%B9%B4%E5%A4%BA%E5%86%A0%E8%B7%AF%E6%B7%B7%E5%89%AA"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%9C%AC%E8%B5%9B%E5%AD%A3%E5%93%AA%E4%BA%9B%E7%90%83%E5%91%98%E5%B8%A6%E6%9D%A5%E6%83%8A%E5%96%9C"
       },
       "raw_titles": [
-        "英雄联盟十年夺冠路混剪"
+        "NBA本赛季哪些球员带来惊喜"
       ],
-      "rank": 13,
+      "rank": 12,
       "sports_rank": 7
     },
     {
-      "title": "自制S16总决赛宣传片",
+      "title": "快船险胜雷霆终结9连败",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 430650,
+      "hot_value": 1081152,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E8%88%B9%E9%99%A9%E8%83%9C%E9%9B%B7%E9%9C%86%E7%BB%88%E7%BB%939%E8%BF%9E%E8%B4%A5"
       },
       "raw_titles": [
-        "自制S16总决赛宣传片"
+        "快船险胜雷霆终结9连败"
       ],
-      "rank": 14,
+      "rank": 13,
       "sports_rank": 8
     },
     {
@@ -242,23 +230,55 @@
       "raw_titles": [
         "女子投诉游泳馆：把我当猪仔一样卖"
       ],
-      "rank": 15,
+      "rank": 14,
       "sports_rank": 9
     },
     {
-      "title": "汪海林 金鸡奖不能向市场流量妥协",
+      "title": "《谷雨》导演：查了所有演员税务才开机",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 405000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%B0%B7%E9%9B%A8%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%9F%A5%E4%BA%86%E6%89%80%E6%9C%89%E6%BC%94%E5%91%98%E7%A8%8E%E5%8A%A1%E6%89%8D%E5%BC%80%E6%9C%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《谷雨》导演：查了所有演员税务才开机"
+      ],
+      "rank": 15,
+      "movie_rank": 6
+    },
+    {
+      "title": "国足排名跌至97位",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B397%E4%BD%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国足排名跌至97位"
+      ],
+      "rank": 16,
+      "sports_rank": 10
+    },
+    {
+      "title": "爱奇艺尖叫之夜历届获奖",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 298733,
+      "hot_value": 300325,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B1%AA%E6%B5%B7%E6%9E%97%20%E9%87%91%E9%B8%A1%E5%A5%96%E4%B8%8D%E8%83%BD%E5%90%91%E5%B8%82%E5%9C%BA%E6%B5%81%E9%87%8F%E5%A6%A5%E5%8D%8F"
+        "微博": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%8E%86%E5%B1%8A%E8%8E%B7%E5%A5%96"
       },
       "raw_titles": [
-        "汪海林 金鸡奖不能向市场流量妥协"
+        "爱奇艺尖叫之夜历届获奖"
       ],
-      "rank": 16,
+      "rank": 17,
       "movie_rank": 7
     },
     {
@@ -267,63 +287,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 293349,
+      "hot_value": 274287,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=2026KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "2026KPL年总决赛"
       ],
-      "rank": 17,
-      "sports_rank": 10
-    },
-    {
-      "title": "沈腾 嘲笑林一成为林一理解林一",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 207000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B2%88%E8%85%BE+%E5%98%B2%E7%AC%91%E6%9E%97%E4%B8%80%E6%88%90%E4%B8%BA%E6%9E%97%E4%B8%80%E7%90%86%E8%A7%A3%E6%9E%97%E4%B8%80&sa=fyb_news"
-      },
-      "raw_titles": [
-        "沈腾 嘲笑林一成为林一理解林一"
-      ],
       "rank": 18,
-      "movie_rank": 8
-    },
-    {
-      "title": "宋亚轩网感震惊范丞丞",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 202799,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%BD%91%E6%84%9F%E9%9C%87%E6%83%8A%E8%8C%83%E4%B8%9E%E4%B8%9E"
-      },
-      "raw_titles": [
-        "宋亚轩网感震惊范丞丞"
-      ],
-      "rank": 19,
-      "movie_rank": 9
-    },
-    {
-      "title": "范丞丞回复了宋亚轩",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 153032,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9B%9E%E5%A4%8D%E4%BA%86%E5%AE%8B%E4%BA%9A%E8%BD%A9"
-      },
-      "raw_titles": [
-        "范丞丞回复了宋亚轩"
-      ],
-      "rank": 20,
-      "movie_rank": 10
+      "sports_rank": 11
     },
     {
       "title": "青稚获PMC挑战赛FMVP",
@@ -331,30 +303,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 151975,
+      "hot_value": 195139,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%8E%B7PMC%E6%8C%91%E6%88%98%E8%B5%9BFMVP"
       },
       "raw_titles": [
         "青稚获PMC挑战赛FMVP"
       ],
-      "rank": 21,
-      "sports_rank": 11
-    },
-    {
-      "title": "KPL年总决赛赛前预测",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 146784,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B%E8%B5%9B%E5%89%8D%E9%A2%84%E6%B5%8B"
-      },
-      "raw_titles": [
-        "KPL年总决赛赛前预测"
-      ],
-      "rank": 22,
+      "rank": 19,
       "sports_rank": 12
     },
     {
@@ -363,30 +319,32 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 108000,
+      "hot_value": 45000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E8%88%9E%E5%89%91%E9%85%B7%E4%BC%BC%E5%88%98%E4%BA%A6%E8%8F%B2%E7%89%88%E8%B5%B5%E7%81%B5%E5%84%BF&sa=fyb_news"
       },
       "raw_titles": [
         "小女孩舞剑酷似刘亦菲版赵灵儿"
       ],
-      "rank": 23,
-      "movie_rank": 11
+      "rank": 20,
+      "movie_rank": 8
     }
   ],
   "sports": [
     {
-      "title": "国足对阵马来西亚前瞻",
+      "title": "国足vs马来西亚",
       "category": "体育",
       "sources": [
+        "百度",
         "抖音"
       ],
-      "hot_value": 12104730,
+      "hot_value": 12501731,
       "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3vs%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%89%8D%E7%9E%BB"
       },
       "raw_titles": [
-        "国足对阵马来西亚前瞻"
+        "国足vs马来西亚"
       ],
       "rank": 1,
       "sports_rank": 1
@@ -397,7 +355,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10062102,
+      "hot_value": 8997587,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E9%A9%AC%E5%88%BA38%E5%88%86%E5%A4%A7%E8%83%9C%E5%8B%87%E5%A3%AB%E8%B1%AA%E5%8F%9611%E8%BF%9E%E8%83%9C"
       },
@@ -413,7 +371,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8887872,
+      "hot_value": 8575693,
       "urls": {
         "抖音": "https://www.douyin.com/search/KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB"
       },
@@ -424,84 +382,86 @@
       "sports_rank": 3
     },
     {
-      "title": "时间解说KPL年总决赛",
+      "title": "树叶解说KPL年总决赛",
       "category": "体育",
       "sources": [
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 1740898,
+      "hot_value": 3286401,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%A0%91%E5%8F%B6%E8%A7%A3%E8%AF%B4KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%B6%E9%97%B4%E8%A7%A3%E8%AF%B4KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
-        "时间解说KPL年总决赛"
+        "树叶解说KPL年总决赛"
       ],
-      "rank": 6,
+      "rank": 7,
       "sports_rank": 4
     },
     {
-      "title": "S16总决赛对阵预热片",
+      "title": "S16总决赛",
       "category": "体育",
       "sources": [
+        "百度",
         "哔哩哔哩"
       ],
-      "hot_value": 873899,
+      "hot_value": 1441494,
       "urls": {
+        "百度": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B&sa=fyb_news",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E9%A2%84%E7%83%AD%E7%89%87"
       },
       "raw_titles": [
-        "S16总决赛对阵预热片"
+        "S16总决赛"
       ],
-      "rank": 7,
+      "rank": 8,
       "sports_rank": 5
     },
     {
-      "title": "代入GEN视角看S16总决赛",
+      "title": "马刺或将投诉格林恶犯文班",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 658000,
+      "hot_value": 1241868,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%85%A5GEN%E8%A7%86%E8%A7%92%E7%9C%8BS16%E6%80%BB%E5%86%B3%E8%B5%9B"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E6%88%96%E5%B0%86%E6%8A%95%E8%AF%89%E6%A0%BC%E6%9E%97%E6%81%B6%E7%8A%AF%E6%96%87%E7%8F%AD"
       },
       "raw_titles": [
-        "代入GEN视角看S16总决赛"
+        "马刺或将投诉格林恶犯文班"
       ],
-      "rank": 10,
+      "rank": 9,
       "sports_rank": 6
     },
     {
-      "title": "英雄联盟十年夺冠路混剪",
+      "title": "NBA本赛季哪些球员带来惊喜",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 535625,
+      "hot_value": 1110590,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%81%E5%B9%B4%E5%A4%BA%E5%86%A0%E8%B7%AF%E6%B7%B7%E5%89%AA"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E6%9C%AC%E8%B5%9B%E5%AD%A3%E5%93%AA%E4%BA%9B%E7%90%83%E5%91%98%E5%B8%A6%E6%9D%A5%E6%83%8A%E5%96%9C"
       },
       "raw_titles": [
-        "英雄联盟十年夺冠路混剪"
+        "NBA本赛季哪些球员带来惊喜"
       ],
-      "rank": 13,
+      "rank": 12,
       "sports_rank": 7
     },
     {
-      "title": "自制S16总决赛宣传片",
+      "title": "快船险胜雷霆终结9连败",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 430650,
+      "hot_value": 1081152,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E8%88%B9%E9%99%A9%E8%83%9C%E9%9B%B7%E9%9C%86%E7%BB%88%E7%BB%939%E8%BF%9E%E8%B4%A5"
       },
       "raw_titles": [
-        "自制S16总决赛宣传片"
+        "快船险胜雷霆终结9连败"
       ],
-      "rank": 14,
+      "rank": 13,
       "sports_rank": 8
     },
     {
@@ -517,8 +477,24 @@
       "raw_titles": [
         "女子投诉游泳馆：把我当猪仔一样卖"
       ],
-      "rank": 15,
+      "rank": 14,
       "sports_rank": 9
+    },
+    {
+      "title": "国足排名跌至97位",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 306000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B397%E4%BD%8D&sa=fyb_news"
+      },
+      "raw_titles": [
+        "国足排名跌至97位"
+      ],
+      "rank": 16,
+      "sports_rank": 10
     },
     {
       "title": "2026KPL年总决赛",
@@ -526,15 +502,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 293349,
+      "hot_value": 274287,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=2026KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
         "2026KPL年总决赛"
       ],
-      "rank": 17,
-      "sports_rank": 10
+      "rank": 18,
+      "sports_rank": 11
     },
     {
       "title": "青稚获PMC挑战赛FMVP",
@@ -542,49 +518,49 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 151975,
+      "hot_value": 195139,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%8E%B7PMC%E6%8C%91%E6%88%98%E8%B5%9BFMVP"
       },
       "raw_titles": [
         "青稚获PMC挑战赛FMVP"
       ],
-      "rank": 21,
-      "sports_rank": 11
-    },
-    {
-      "title": "KPL年总决赛赛前预测",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 146784,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B%E8%B5%9B%E5%89%8D%E9%A2%84%E6%B5%8B"
-      },
-      "raw_titles": [
-        "KPL年总决赛赛前预测"
-      ],
-      "rank": 22,
+      "rank": 19,
       "sports_rank": 12
     }
   ],
   "movies": [
     {
+      "title": "火影决斗场天降大魔方",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7720942,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E5%86%B3%E6%96%97%E5%9C%BA%E5%A4%A9%E9%99%8D%E5%A4%A7%E9%AD%94%E6%96%B9"
+      },
+      "raw_titles": [
+        "火影决斗场天降大魔方"
+      ],
+      "rank": 4,
+      "movie_rank": 1
+    },
+    {
       "title": "华晨宇第100场演唱会",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7693478,
+      "hot_value": 7717569,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8D%8E%E6%99%A8%E5%AE%87%E7%AC%AC100%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A"
       },
       "raw_titles": [
         "华晨宇第100场演唱会"
       ],
-      "rank": 4,
-      "movie_rank": 1
+      "rank": 5,
+      "movie_rank": 2
     },
     {
       "title": "和范丞丞一起看昊天武道会",
@@ -592,15 +568,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671459,
+      "hot_value": 7680894,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%92%8C%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A"
       },
       "raw_titles": [
         "和范丞丞一起看昊天武道会"
       ],
-      "rank": 5,
-      "movie_rank": 2
+      "rank": 6,
+      "movie_rank": 3
     },
     {
       "title": "鸣潮剧情动画",
@@ -608,15 +584,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 864148,
+      "hot_value": 1162493,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%89%A7%E6%83%85%E5%8A%A8%E7%94%BB"
       },
       "raw_titles": [
         "鸣潮剧情动画"
       ],
-      "rank": 8,
-      "movie_rank": 3
+      "rank": 10,
+      "movie_rank": 4
     },
     {
       "title": "原神剧情PV",
@@ -624,15 +600,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 849581,
+      "hot_value": 1162491,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%89%A7%E6%83%85PV"
       },
       "raw_titles": [
         "原神剧情PV"
       ],
-      "rank": 9,
-      "movie_rank": 4
+      "rank": 11,
+      "movie_rank": 5
+    },
+    {
+      "title": "《谷雨》导演：查了所有演员税务才开机",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 405000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E8%B0%B7%E9%9B%A8%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%9F%A5%E4%BA%86%E6%89%80%E6%9C%89%E6%BC%94%E5%91%98%E7%A8%8E%E5%8A%A1%E6%89%8D%E5%BC%80%E6%9C%BA&sa=fyb_news"
+      },
+      "raw_titles": [
+        "《谷雨》导演：查了所有演员税务才开机"
+      ],
+      "rank": 15,
+      "movie_rank": 6
     },
     {
       "title": "爱奇艺尖叫之夜历届获奖",
@@ -640,95 +632,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 546101,
+      "hot_value": 300325,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%8E%86%E5%B1%8A%E8%8E%B7%E5%A5%96"
       },
       "raw_titles": [
         "爱奇艺尖叫之夜历届获奖"
       ],
-      "rank": 11,
-      "movie_rank": 5
-    },
-    {
-      "title": "DC影业CEO突然卸任全过程",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 538160,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=DC%E5%BD%B1%E4%B8%9ACEO%E7%AA%81%E7%84%B6%E5%8D%B8%E4%BB%BB%E5%85%A8%E8%BF%87%E7%A8%8B"
-      },
-      "raw_titles": [
-        "DC影业CEO突然卸任全过程"
-      ],
-      "rank": 12,
-      "movie_rank": 6
-    },
-    {
-      "title": "汪海林 金鸡奖不能向市场流量妥协",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 298733,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%B1%AA%E6%B5%B7%E6%9E%97%20%E9%87%91%E9%B8%A1%E5%A5%96%E4%B8%8D%E8%83%BD%E5%90%91%E5%B8%82%E5%9C%BA%E6%B5%81%E9%87%8F%E5%A6%A5%E5%8D%8F"
-      },
-      "raw_titles": [
-        "汪海林 金鸡奖不能向市场流量妥协"
-      ],
-      "rank": 16,
+      "rank": 17,
       "movie_rank": 7
-    },
-    {
-      "title": "沈腾 嘲笑林一成为林一理解林一",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 207000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%B2%88%E8%85%BE+%E5%98%B2%E7%AC%91%E6%9E%97%E4%B8%80%E6%88%90%E4%B8%BA%E6%9E%97%E4%B8%80%E7%90%86%E8%A7%A3%E6%9E%97%E4%B8%80&sa=fyb_news"
-      },
-      "raw_titles": [
-        "沈腾 嘲笑林一成为林一理解林一"
-      ],
-      "rank": 18,
-      "movie_rank": 8
-    },
-    {
-      "title": "宋亚轩网感震惊范丞丞",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 202799,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%BD%91%E6%84%9F%E9%9C%87%E6%83%8A%E8%8C%83%E4%B8%9E%E4%B8%9E"
-      },
-      "raw_titles": [
-        "宋亚轩网感震惊范丞丞"
-      ],
-      "rank": 19,
-      "movie_rank": 9
-    },
-    {
-      "title": "范丞丞回复了宋亚轩",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 153032,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9B%9E%E5%A4%8D%E4%BA%86%E5%AE%8B%E4%BA%9A%E8%BD%A9"
-      },
-      "raw_titles": [
-        "范丞丞回复了宋亚轩"
-      ],
-      "rank": 20,
-      "movie_rank": 10
     },
     {
       "title": "小女孩舞剑酷似刘亦菲版赵灵儿",
@@ -736,15 +648,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 108000,
+      "hot_value": 45000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%B0%8F%E5%A5%B3%E5%AD%A9%E8%88%9E%E5%89%91%E9%85%B7%E4%BC%BC%E5%88%98%E4%BA%A6%E8%8F%B2%E7%89%88%E8%B5%B5%E7%81%B5%E5%84%BF&sa=fyb_news"
       },
       "raw_titles": [
         "小女孩舞剑酷似刘亦菲版赵灵儿"
       ],
-      "rank": 23,
-      "movie_rank": 11
+      "rank": 20,
+      "movie_rank": 8
     }
   ]
 }
