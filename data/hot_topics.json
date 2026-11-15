@@ -1,27 +1,44 @@
 {
-  "update_time": "2026-11-15 21:00:55",
+  "update_time": "2026-11-15 22:00:54",
   "total": 30,
   "sports_count": 26,
-  "movie_count": 5,
+  "movie_count": 4,
   "all": [
+    {
+      "title": "谁还没有领到夺冠专属大会员",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 15012746,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B0%81%E8%BF%98%E6%B2%A1%E6%9C%89%E9%A2%86%E5%88%B0%E5%A4%BA%E5%86%A0%E4%B8%93%E5%B1%9E%E5%A4%A7%E4%BC%9A%E5%91%98"
+      },
+      "raw_titles": [
+        "谁还没有领到夺冠专属大会员"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "我的BLG夺冠时刻",
       "category": "体育",
       "sources": [
         "抖音",
         "哔哩哔哩",
+        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 12574393,
+      "hot_value": 13958133,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9A%84BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E7%B2%BE%E5%BD%A9%E6%97%B6%E5%88%BB"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB"
       },
       "raw_titles": [
         "我的BLG夺冠时刻"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "369晒Knight合照祝贺BLG夺冠",
@@ -29,15 +46,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10699007,
+      "hot_value": 9155342,
       "urls": {
         "抖音": "https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "369晒Knight合照祝贺BLG夺冠"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "司空震FMVP新皮肤",
@@ -45,15 +62,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9258636,
+      "hot_value": 8940435,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4"
       },
       "raw_titles": [
         "司空震FMVP新皮肤"
       ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "BLG夺冠赞助商赢麻了",
@@ -62,7 +79,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8185922,
+      "hot_value": 8742446,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86",
         "抖音": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0"
@@ -70,8 +87,8 @@
       "raw_titles": [
         "BLG夺冠赞助商赢麻了"
       ],
-      "rank": 4,
-      "sports_rank": 4
+      "rank": 5,
+      "sports_rank": 5
     },
     {
       "title": "Knight夺得FMVP",
@@ -79,15 +96,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7776640,
+      "hot_value": 7789387,
       "urls": {
         "抖音": "https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP"
       },
       "raw_titles": [
         "Knight夺得FMVP"
       ],
-      "rank": 5,
-      "sports_rank": 5
+      "rank": 6,
+      "sports_rank": 6
     },
     {
       "title": "BLG夺冠雷鸟看得到底有多远",
@@ -95,32 +112,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742797,
+      "hot_value": 7727562,
       "urls": {
         "抖音": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E9%9B%B7%E9%B8%9F%E7%9C%8B%E5%BE%97%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%BF%9C"
       },
       "raw_titles": [
         "BLG夺冠雷鸟看得到底有多远"
       ],
-      "rank": 6,
-      "sports_rank": 6
-    },
-    {
-      "title": "影院线下看BLG夺冠太顶了",
-      "category": "综合",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7728583,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BD%B1%E9%99%A2%E7%BA%BF%E4%B8%8B%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E5%A4%AA%E9%A1%B6%E4%BA%86"
-      },
-      "raw_titles": [
-        "影院线下看BLG夺冠太顶了"
-      ],
       "rank": 7,
-      "sports_rank": 7,
-      "movie_rank": 1
+      "sports_rank": 7
     },
     {
       "title": "Doinb谈BLG夺冠",
@@ -128,7 +128,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709318,
+      "hot_value": 7726978,
       "urls": {
         "抖音": "https://www.douyin.com/search/Doinb%E8%B0%88BLG%E5%A4%BA%E5%86%A0"
       },
@@ -144,7 +144,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7668586,
+      "hot_value": 7725764,
       "urls": {
         "抖音": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E6%81%B0%E9%80%A2%E8%81%94%E7%9B%9F%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0"
       },
@@ -160,7 +160,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7657485,
+      "hot_value": 7663554,
       "urls": {
         "抖音": "https://www.douyin.com/search/35%E5%B2%81%E8%80%81%E7%B2%89%E8%AF%B4%E7%AD%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%A4%BA%E5%86%A0"
       },
@@ -171,22 +171,36 @@
       "sports_rank": 10
     },
     {
-      "title": "BLG夺冠语音",
+      "title": "邓紫棋祝BLG奔向更辽阔的自己",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 4053170,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%82%93%E7%B4%AB%E6%A3%8B%E7%A5%9DBLG%E5%A5%94%E5%90%91%E6%9B%B4%E8%BE%BD%E9%98%94%E7%9A%84%E8%87%AA%E5%B7%B1"
+      },
+      "raw_titles": [
+        "邓紫棋祝BLG奔向更辽阔的自己"
+      ],
+      "rank": 11,
+      "movie_rank": 1
+    },
+    {
+      "title": "张彬彬恭喜BLG夺冠",
       "category": "体育",
       "sources": [
-        "微博",
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 2880689,
+      "hot_value": 3282718,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E8%AF%AD%E9%9F%B3",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB%E8%AF%AD%E9%9F%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%89%BE%E7%83%AD%E6%81%AD%E5%96%9CBLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "BLG夺冠语音"
+        "张彬彬恭喜BLG夺冠"
       ],
-      "rank": 11,
+      "rank": 12,
       "sports_rank": 11
     },
     {
@@ -195,14 +209,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1922233,
+      "hot_value": 2932675,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CGEN%E5%A4%BA%E5%86%A0%E4%B9%8B%E6%88%98"
       },
       "raw_titles": [
         "复盘BLG战胜GEN夺冠之战"
       ],
-      "rank": 12,
+      "rank": 13,
       "sports_rank": 12
     },
     {
@@ -211,14 +225,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374085,
+      "hot_value": 2569825,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%B3%AA%E6%92%92BLG%E5%A4%BA%E5%86%A0%E7%8E%B0%E5%9C%BA"
       },
       "raw_titles": [
         "米勒泪撒BLG夺冠现场"
       ],
-      "rank": 13,
+      "rank": 14,
       "sports_rank": 13
     },
     {
@@ -227,14 +241,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374084,
+      "hot_value": 2434484,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C%20%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA"
       },
       "raw_titles": [
         "BLG夺冠赞歌 仰望星空"
       ],
-      "rank": 14,
+      "rank": 15,
       "sports_rank": 14
     },
     {
@@ -243,14 +257,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374082,
+      "hot_value": 2133349,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%AE%89%E5%BA%86%E7%A5%9DBLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "夏安庆祝BLG夺冠"
       ],
-      "rank": 15,
+      "rank": 16,
       "sports_rank": 15
     },
     {
@@ -259,31 +273,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374080,
+      "hot_value": 2117840,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF%E6%9C%89%E5%A4%9A%E7%B2%BE%E5%BD%A9"
       },
       "raw_titles": [
         "BLG夺冠之路有多精彩"
       ],
-      "rank": 16,
-      "sports_rank": 16
-    },
-    {
-      "title": "BLG夺冠双方选手反应",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1374074,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8F%8C%E6%96%B9%E9%80%89%E6%89%8B%E5%8F%8D%E5%BA%94"
-      },
-      "raw_titles": [
-        "BLG夺冠双方选手反应"
-      ],
       "rank": 17,
-      "sports_rank": 17
+      "sports_rank": 16
     },
     {
       "title": "BLG夺冠单曲 十年人间",
@@ -291,7 +289,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374025,
+      "hot_value": 1853187,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8D%95%E6%9B%B2%20%E5%8D%81%E5%B9%B4%E4%BA%BA%E9%97%B4"
       },
@@ -299,23 +297,23 @@
         "BLG夺冠单曲 十年人间"
       ],
       "rank": 18,
-      "sports_rank": 18
+      "sports_rank": 17
     },
     {
-      "title": "BLG一穿四夺冠数据图",
+      "title": "BLG夺冠双方选手反应",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1373417,
+      "hot_value": 1731177,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E6%95%B0%E6%8D%AE%E5%9B%BE"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8F%8C%E6%96%B9%E9%80%89%E6%89%8B%E5%8F%8D%E5%BA%94"
       },
       "raw_titles": [
-        "BLG一穿四夺冠数据图"
+        "BLG夺冠双方选手反应"
       ],
       "rank": 19,
-      "sports_rank": 19
+      "sports_rank": 18
     },
     {
       "title": "新华社祝贺BLG夺冠",
@@ -323,7 +321,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1370431,
+      "hot_value": 1397950,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0"
       },
@@ -331,39 +329,87 @@
         "新华社祝贺BLG夺冠"
       ],
       "rank": 20,
+      "sports_rank": 19
+    },
+    {
+      "title": "BLG一穿四夺冠数据图",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1378540,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E6%95%B0%E6%8D%AE%E5%9B%BE"
+      },
+      "raw_titles": [
+        "BLG一穿四夺冠数据图"
+      ],
+      "rank": 21,
       "sports_rank": 20
     },
     {
-      "title": "张彬彬恭喜BLG夺冠",
+      "title": "方博复出首冠",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 1168453,
+      "hot_value": 1159061,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%81%AD%E5%96%9CBLG%E5%A4%BA%E5%86%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E9%A6%96%E5%86%A0"
       },
       "raw_titles": [
-        "张彬彬恭喜BLG夺冠"
+        "方博复出首冠"
       ],
-      "rank": 21,
+      "rank": 22,
       "sports_rank": 21
     },
     {
-      "title": "第一视角看BLG夺冠",
+      "title": "方博复出首夺WTT男单冠军",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 1088885,
+      "hot_value": 396000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBLG%E5%A4%BA%E5%86%A0"
+        "百度": "https://m.baidu.com/s?word=%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E9%A6%96%E5%A4%BAWTT%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "第一视角看BLG夺冠"
+        "方博复出首夺WTT男单冠军"
       ],
-      "rank": 22,
+      "rank": 23,
       "sports_rank": 22
+    },
+    {
+      "title": "BLG夺冠 背后有一本大账",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 387000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=BLG%E5%A4%BA%E5%86%A0+%E8%83%8C%E5%90%8E%E6%9C%89%E4%B8%80%E6%9C%AC%E5%A4%A7%E8%B4%A6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "BLG夺冠 背后有一本大账"
+      ],
+      "rank": 24,
+      "sports_rank": 23
+    },
+    {
+      "title": "樊振东vs戈索",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 370425,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%88%88%E7%B4%A2"
+      },
+      "raw_titles": [
+        "樊振东vs戈索"
+      ],
+      "rank": 25,
+      "sports_rank": 24
     },
     {
       "title": "李梦被迪丽热巴蝴蝶妆狠狠种草",
@@ -371,14 +417,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 260837,
+      "hot_value": 344092,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A2%A6%E8%A2%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E5%A6%86%E7%8B%A0%E7%8B%A0%E7%A7%8D%E8%8D%89"
       },
       "raw_titles": [
         "李梦被迪丽热巴蝴蝶妆狠狠种草"
       ],
-      "rank": 23,
+      "rank": 26,
       "movie_rank": 2
     },
     {
@@ -387,31 +433,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 241895,
+      "hot_value": 282619,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BE%97%E9%AA%84%E5%82%B2%E5%9D%8F%E4%BA%86"
       },
       "raw_titles": [
         "BLG夺冠汪苏泷得骄傲坏了"
       ],
-      "rank": 24,
-      "sports_rank": 23
-    },
-    {
-      "title": "郑钦文中网冠军含金量持续上升",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 200174,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%86%A0%E5%86%9B%E5%90%AB%E9%87%91%E9%87%8F%E6%8C%81%E7%BB%AD%E4%B8%8A%E5%8D%87"
-      },
-      "raw_titles": [
-        "郑钦文中网冠军含金量持续上升"
-      ],
-      "rank": 25,
-      "sports_rank": 24
+      "rank": 27,
+      "sports_rank": 25
     },
     {
       "title": "白敬亭现发4口碑",
@@ -419,15 +449,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 196647,
+      "hot_value": 215926,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%B0%E5%8F%914%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "白敬亭现发4口碑"
       ],
-      "rank": 26,
+      "rank": 28,
       "movie_rank": 3
+    },
+    {
+      "title": "暖阳年总FMVP权重",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 212991,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%B9%B4%E6%80%BBFMVP%E6%9D%83%E9%87%8D"
+      },
+      "raw_titles": [
+        "暖阳年总FMVP权重"
+      ],
+      "rank": 29,
+      "sports_rank": 26
     },
     {
       "title": "范丞丞孙千对手戏",
@@ -435,84 +481,53 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 195325,
+      "hot_value": 162802,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%AD%99%E5%8D%83%E5%AF%B9%E6%89%8B%E6%88%8F"
       },
       "raw_titles": [
         "范丞丞孙千对手戏"
       ],
-      "rank": 27,
-      "movie_rank": 4
-    },
-    {
-      "title": "额尔古纳日晕奇观：太阳戴上冰晶王冠",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3%E6%97%A5%E6%99%95%E5%A5%87%E8%A7%82%EF%BC%9A%E5%A4%AA%E9%98%B3%E6%88%B4%E4%B8%8A%E5%86%B0%E6%99%B6%E7%8E%8B%E5%86%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "额尔古纳日晕奇观：太阳戴上冰晶王冠"
-      ],
-      "rank": 28,
-      "sports_rank": 25
-    },
-    {
-      "title": "白敬亭王楚然互关",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 147602,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%BA%92%E5%85%B3"
-      },
-      "raw_titles": [
-        "白敬亭王楚然互关"
-      ],
-      "rank": 29,
-      "movie_rank": 5
-    },
-    {
-      "title": "BLG夺冠 谁接住了这泼天流量",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=BLG%E5%A4%BA%E5%86%A0+%E8%B0%81%E6%8E%A5%E4%BD%8F%E4%BA%86%E8%BF%99%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "BLG夺冠 谁接住了这泼天流量"
-      ],
       "rank": 30,
-      "sports_rank": 26
+      "movie_rank": 4
     }
   ],
   "sports": [
+    {
+      "title": "谁还没有领到夺冠专属大会员",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 15012746,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%B0%81%E8%BF%98%E6%B2%A1%E6%9C%89%E9%A2%86%E5%88%B0%E5%A4%BA%E5%86%A0%E4%B8%93%E5%B1%9E%E5%A4%A7%E4%BC%9A%E5%91%98"
+      },
+      "raw_titles": [
+        "谁还没有领到夺冠专属大会员"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "我的BLG夺冠时刻",
       "category": "体育",
       "sources": [
         "抖音",
         "哔哩哔哩",
+        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 12574393,
+      "hot_value": 13958133,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%91%E7%9A%84BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E7%B2%BE%E5%BD%A9%E6%97%B6%E5%88%BB"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB"
       },
       "raw_titles": [
         "我的BLG夺冠时刻"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
     },
     {
       "title": "369晒Knight合照祝贺BLG夺冠",
@@ -520,15 +535,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 10699007,
+      "hot_value": 9155342,
       "urls": {
         "抖音": "https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "369晒Knight合照祝贺BLG夺冠"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "司空震FMVP新皮肤",
@@ -536,15 +551,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9258636,
+      "hot_value": 8940435,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4"
       },
       "raw_titles": [
         "司空震FMVP新皮肤"
       ],
-      "rank": 3,
-      "sports_rank": 3
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "BLG夺冠赞助商赢麻了",
@@ -553,7 +568,7 @@
         "微博",
         "抖音"
       ],
-      "hot_value": 8185922,
+      "hot_value": 8742446,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86",
         "抖音": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0"
@@ -561,8 +576,8 @@
       "raw_titles": [
         "BLG夺冠赞助商赢麻了"
       ],
-      "rank": 4,
-      "sports_rank": 4
+      "rank": 5,
+      "sports_rank": 5
     },
     {
       "title": "Knight夺得FMVP",
@@ -570,15 +585,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7776640,
+      "hot_value": 7789387,
       "urls": {
         "抖音": "https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP"
       },
       "raw_titles": [
         "Knight夺得FMVP"
       ],
-      "rank": 5,
-      "sports_rank": 5
+      "rank": 6,
+      "sports_rank": 6
     },
     {
       "title": "BLG夺冠雷鸟看得到底有多远",
@@ -586,32 +601,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7742797,
+      "hot_value": 7727562,
       "urls": {
         "抖音": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E9%9B%B7%E9%B8%9F%E7%9C%8B%E5%BE%97%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%BF%9C"
       },
       "raw_titles": [
         "BLG夺冠雷鸟看得到底有多远"
       ],
-      "rank": 6,
-      "sports_rank": 6
-    },
-    {
-      "title": "影院线下看BLG夺冠太顶了",
-      "category": "综合",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7728583,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BD%B1%E9%99%A2%E7%BA%BF%E4%B8%8B%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E5%A4%AA%E9%A1%B6%E4%BA%86"
-      },
-      "raw_titles": [
-        "影院线下看BLG夺冠太顶了"
-      ],
       "rank": 7,
-      "sports_rank": 7,
-      "movie_rank": 1
+      "sports_rank": 7
     },
     {
       "title": "Doinb谈BLG夺冠",
@@ -619,7 +617,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7709318,
+      "hot_value": 7726978,
       "urls": {
         "抖音": "https://www.douyin.com/search/Doinb%E8%B0%88BLG%E5%A4%BA%E5%86%A0"
       },
@@ -635,7 +633,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7668586,
+      "hot_value": 7725764,
       "urls": {
         "抖音": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E6%81%B0%E9%80%A2%E8%81%94%E7%9B%9F%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0"
       },
@@ -651,7 +649,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7657485,
+      "hot_value": 7663554,
       "urls": {
         "抖音": "https://www.douyin.com/search/35%E5%B2%81%E8%80%81%E7%B2%89%E8%AF%B4%E7%AD%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%A4%BA%E5%86%A0"
       },
@@ -662,22 +660,20 @@
       "sports_rank": 10
     },
     {
-      "title": "BLG夺冠语音",
+      "title": "张彬彬恭喜BLG夺冠",
       "category": "体育",
       "sources": [
-        "微博",
         "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 2880689,
+      "hot_value": 3282718,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E8%AF%AD%E9%9F%B3",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB%E8%AF%AD%E9%9F%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%89%BE%E7%83%AD%E6%81%AD%E5%96%9CBLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "BLG夺冠语音"
+        "张彬彬恭喜BLG夺冠"
       ],
-      "rank": 11,
+      "rank": 12,
       "sports_rank": 11
     },
     {
@@ -686,14 +682,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1922233,
+      "hot_value": 2932675,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CGEN%E5%A4%BA%E5%86%A0%E4%B9%8B%E6%88%98"
       },
       "raw_titles": [
         "复盘BLG战胜GEN夺冠之战"
       ],
-      "rank": 12,
+      "rank": 13,
       "sports_rank": 12
     },
     {
@@ -702,14 +698,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374085,
+      "hot_value": 2569825,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%B3%AA%E6%92%92BLG%E5%A4%BA%E5%86%A0%E7%8E%B0%E5%9C%BA"
       },
       "raw_titles": [
         "米勒泪撒BLG夺冠现场"
       ],
-      "rank": 13,
+      "rank": 14,
       "sports_rank": 13
     },
     {
@@ -718,14 +714,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374084,
+      "hot_value": 2434484,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C%20%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA"
       },
       "raw_titles": [
         "BLG夺冠赞歌 仰望星空"
       ],
-      "rank": 14,
+      "rank": 15,
       "sports_rank": 14
     },
     {
@@ -734,14 +730,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374082,
+      "hot_value": 2133349,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%AE%89%E5%BA%86%E7%A5%9DBLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "夏安庆祝BLG夺冠"
       ],
-      "rank": 15,
+      "rank": 16,
       "sports_rank": 15
     },
     {
@@ -750,31 +746,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374080,
+      "hot_value": 2117840,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF%E6%9C%89%E5%A4%9A%E7%B2%BE%E5%BD%A9"
       },
       "raw_titles": [
         "BLG夺冠之路有多精彩"
       ],
-      "rank": 16,
-      "sports_rank": 16
-    },
-    {
-      "title": "BLG夺冠双方选手反应",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 1374074,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8F%8C%E6%96%B9%E9%80%89%E6%89%8B%E5%8F%8D%E5%BA%94"
-      },
-      "raw_titles": [
-        "BLG夺冠双方选手反应"
-      ],
       "rank": 17,
-      "sports_rank": 17
+      "sports_rank": 16
     },
     {
       "title": "BLG夺冠单曲 十年人间",
@@ -782,7 +762,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1374025,
+      "hot_value": 1853187,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8D%95%E6%9B%B2%20%E5%8D%81%E5%B9%B4%E4%BA%BA%E9%97%B4"
       },
@@ -790,23 +770,23 @@
         "BLG夺冠单曲 十年人间"
       ],
       "rank": 18,
-      "sports_rank": 18
+      "sports_rank": 17
     },
     {
-      "title": "BLG一穿四夺冠数据图",
+      "title": "BLG夺冠双方选手反应",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1373417,
+      "hot_value": 1731177,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E6%95%B0%E6%8D%AE%E5%9B%BE"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8F%8C%E6%96%B9%E9%80%89%E6%89%8B%E5%8F%8D%E5%BA%94"
       },
       "raw_titles": [
-        "BLG一穿四夺冠数据图"
+        "BLG夺冠双方选手反应"
       ],
       "rank": 19,
-      "sports_rank": 19
+      "sports_rank": 18
     },
     {
       "title": "新华社祝贺BLG夺冠",
@@ -814,7 +794,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1370431,
+      "hot_value": 1397950,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0"
       },
@@ -822,39 +802,87 @@
         "新华社祝贺BLG夺冠"
       ],
       "rank": 20,
+      "sports_rank": 19
+    },
+    {
+      "title": "BLG一穿四夺冠数据图",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1378540,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E6%95%B0%E6%8D%AE%E5%9B%BE"
+      },
+      "raw_titles": [
+        "BLG一穿四夺冠数据图"
+      ],
+      "rank": 21,
       "sports_rank": 20
     },
     {
-      "title": "张彬彬恭喜BLG夺冠",
+      "title": "方博复出首冠",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 1168453,
+      "hot_value": 1159061,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%81%AD%E5%96%9CBLG%E5%A4%BA%E5%86%A0"
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E9%A6%96%E5%86%A0"
       },
       "raw_titles": [
-        "张彬彬恭喜BLG夺冠"
+        "方博复出首冠"
       ],
-      "rank": 21,
+      "rank": 22,
       "sports_rank": 21
     },
     {
-      "title": "第一视角看BLG夺冠",
+      "title": "方博复出首夺WTT男单冠军",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 1088885,
+      "hot_value": 396000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBLG%E5%A4%BA%E5%86%A0"
+        "百度": "https://m.baidu.com/s?word=%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E9%A6%96%E5%A4%BAWTT%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "第一视角看BLG夺冠"
+        "方博复出首夺WTT男单冠军"
       ],
-      "rank": 22,
+      "rank": 23,
       "sports_rank": 22
+    },
+    {
+      "title": "BLG夺冠 背后有一本大账",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 387000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=BLG%E5%A4%BA%E5%86%A0+%E8%83%8C%E5%90%8E%E6%9C%89%E4%B8%80%E6%9C%AC%E5%A4%A7%E8%B4%A6&sa=fyb_news"
+      },
+      "raw_titles": [
+        "BLG夺冠 背后有一本大账"
+      ],
+      "rank": 24,
+      "sports_rank": 23
+    },
+    {
+      "title": "樊振东vs戈索",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 370425,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%88%88%E7%B4%A2"
+      },
+      "raw_titles": [
+        "樊振东vs戈索"
+      ],
+      "rank": 25,
+      "sports_rank": 24
     },
     {
       "title": "BLG夺冠汪苏泷得骄傲坏了",
@@ -862,81 +890,48 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 241895,
+      "hot_value": 282619,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BE%97%E9%AA%84%E5%82%B2%E5%9D%8F%E4%BA%86"
       },
       "raw_titles": [
         "BLG夺冠汪苏泷得骄傲坏了"
       ],
-      "rank": 24,
-      "sports_rank": 23
+      "rank": 27,
+      "sports_rank": 25
     },
     {
-      "title": "郑钦文中网冠军含金量持续上升",
+      "title": "暖阳年总FMVP权重",
       "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 200174,
+      "hot_value": 212991,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%86%A0%E5%86%9B%E5%90%AB%E9%87%91%E9%87%8F%E6%8C%81%E7%BB%AD%E4%B8%8A%E5%8D%87"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%B9%B4%E6%80%BBFMVP%E6%9D%83%E9%87%8D"
       },
       "raw_titles": [
-        "郑钦文中网冠军含金量持续上升"
+        "暖阳年总FMVP权重"
       ],
-      "rank": 25,
-      "sports_rank": 24
-    },
-    {
-      "title": "额尔古纳日晕奇观：太阳戴上冰晶王冠",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 189000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3%E6%97%A5%E6%99%95%E5%A5%87%E8%A7%82%EF%BC%9A%E5%A4%AA%E9%98%B3%E6%88%B4%E4%B8%8A%E5%86%B0%E6%99%B6%E7%8E%8B%E5%86%A0&sa=fyb_news"
-      },
-      "raw_titles": [
-        "额尔古纳日晕奇观：太阳戴上冰晶王冠"
-      ],
-      "rank": 28,
-      "sports_rank": 25
-    },
-    {
-      "title": "BLG夺冠 谁接住了这泼天流量",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 36000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=BLG%E5%A4%BA%E5%86%A0+%E8%B0%81%E6%8E%A5%E4%BD%8F%E4%BA%86%E8%BF%99%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F&sa=fyb_news"
-      },
-      "raw_titles": [
-        "BLG夺冠 谁接住了这泼天流量"
-      ],
-      "rank": 30,
+      "rank": 29,
       "sports_rank": 26
     }
   ],
   "movies": [
     {
-      "title": "影院线下看BLG夺冠太顶了",
-      "category": "综合",
+      "title": "邓紫棋祝BLG奔向更辽阔的自己",
+      "category": "影视",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7728583,
+      "hot_value": 4053170,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%BD%B1%E9%99%A2%E7%BA%BF%E4%B8%8B%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E5%A4%AA%E9%A1%B6%E4%BA%86"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%82%93%E7%B4%AB%E6%A3%8B%E7%A5%9DBLG%E5%A5%94%E5%90%91%E6%9B%B4%E8%BE%BD%E9%98%94%E7%9A%84%E8%87%AA%E5%B7%B1"
       },
       "raw_titles": [
-        "影院线下看BLG夺冠太顶了"
+        "邓紫棋祝BLG奔向更辽阔的自己"
       ],
-      "rank": 7,
-      "sports_rank": 7,
+      "rank": 11,
       "movie_rank": 1
     },
     {
@@ -945,14 +940,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 260837,
+      "hot_value": 344092,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A2%A6%E8%A2%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E5%A6%86%E7%8B%A0%E7%8B%A0%E7%A7%8D%E8%8D%89"
       },
       "raw_titles": [
         "李梦被迪丽热巴蝴蝶妆狠狠种草"
       ],
-      "rank": 23,
+      "rank": 26,
       "movie_rank": 2
     },
     {
@@ -961,14 +956,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 196647,
+      "hot_value": 215926,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%B0%E5%8F%914%E5%8F%A3%E7%A2%91"
       },
       "raw_titles": [
         "白敬亭现发4口碑"
       ],
-      "rank": 26,
+      "rank": 28,
       "movie_rank": 3
     },
     {
@@ -977,31 +972,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 195325,
+      "hot_value": 162802,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%AD%99%E5%8D%83%E5%AF%B9%E6%89%8B%E6%88%8F"
       },
       "raw_titles": [
         "范丞丞孙千对手戏"
       ],
-      "rank": 27,
+      "rank": 30,
       "movie_rank": 4
-    },
-    {
-      "title": "白敬亭王楚然互关",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 147602,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%BA%92%E5%85%B3"
-      },
-      "raw_titles": [
-        "白敬亭王楚然互关"
-      ],
-      "rank": 29,
-      "movie_rank": 5
     }
   ]
 }
