@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-11-16 18:01:05",
-  "total": 23,
-  "sports_count": 17,
-  "movie_count": 6,
+  "update_time": "2026-11-16 19:01:03",
+  "total": 32,
+  "sports_count": 22,
+  "movie_count": 10,
   "all": [
     {
       "title": "火箭147:119奇才",
@@ -10,7 +10,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11138448,
+      "hot_value": 11099230,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD147%3A119%E5%A5%87%E6%89%8D"
       },
@@ -26,7 +26,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9161227,
+      "hot_value": 9153267,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A9%B9%E7%9A%87%E8%BF%8E%E9%87%8C%E7%A8%8B%E7%A2%91%2076%E4%BA%BA%E5%8A%9B%E5%85%8B%E6%AD%A5%E8%A1%8C%E8%80%85"
       },
@@ -42,7 +42,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9120898,
+      "hot_value": 9128139,
       "urls": {
         "抖音": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E8%83%8C%E5%90%8E%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%9C%BA%E9%81%87"
       },
@@ -51,6 +51,22 @@
       ],
       "rank": 3,
       "sports_rank": 3
+    },
+    {
+      "title": "用我的方式庆祝BLG夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8354015,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%94%A8%E6%88%91%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BA%86%E7%A5%9DBLG%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "用我的方式庆祝BLG夺冠"
+      ],
+      "rank": 4,
+      "sports_rank": 4
     },
     {
       "title": "哈利波特魔法觉醒将停服",
@@ -61,7 +77,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 8385657,
+      "hot_value": 8346813,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92",
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E3%80%8B%E5%B0%86%E5%81%9C%E6%9C%8D&sa=fyb_news",
@@ -70,7 +86,7 @@
       "raw_titles": [
         "哈利波特魔法觉醒将停服"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 1
     },
     {
@@ -79,31 +95,47 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7827043,
+      "hot_value": 7726487,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%AE%A1%E6%B3%BD%E5%85%83%E8%B0%88BLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "管泽元谈BLG夺冠"
       ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
-      "title": "用我的方式庆祝BLG夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7738764,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%A8%E6%88%91%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BA%86%E7%A5%9DBLG%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "用我的方式庆祝BLG夺冠"
-      ],
       "rank": 6,
       "sports_rank": 5
+    },
+    {
+      "title": "C罗足球生涯回顾",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1713772,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%B6%B3%E7%90%83%E7%94%9F%E6%B6%AF%E5%9B%9E%E9%A1%BE"
+      },
+      "raw_titles": [
+        "C罗足球生涯回顾"
+      ],
+      "rank": 7,
+      "sports_rank": 6
+    },
+    {
+      "title": "赵本山的宽容不代表AI能随意仿声",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 977783,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%9A%84%E5%AE%BD%E5%AE%B9%E4%B8%8D%E4%BB%A3%E8%A1%A8AI%E8%83%BD%E9%9A%8F%E6%84%8F%E4%BB%BF%E5%A3%B0"
+      },
+      "raw_titles": [
+        "赵本山的宽容不代表AI能随意仿声"
+      ],
+      "rank": 8,
+      "movie_rank": 2
     },
     {
       "title": "BLG夺冠UP主开启抽奖团建",
@@ -111,63 +143,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1866267,
+      "hot_value": 927544,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0UP%E4%B8%BB%E5%BC%80%E5%90%AF%E6%8A%BD%E5%A5%96%E5%9B%A2%E5%BB%BA"
       },
       "raw_titles": [
         "BLG夺冠UP主开启抽奖团建"
       ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "韩网绝望韩国人怎么看BLG夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 968961,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%BD%91%E7%BB%9D%E6%9C%9B%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8BBLG%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "韩网绝望韩国人怎么看BLG夺冠"
-      ],
-      "rank": 8,
-      "sports_rank": 7
-    },
-    {
-      "title": "BLG夺冠过程中的热梗",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 854885,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%83%AD%E6%A2%97"
-      },
-      "raw_titles": [
-        "BLG夺冠过程中的热梗"
-      ],
       "rank": 9,
-      "sports_rank": 8
-    },
-    {
-      "title": "王多多赛后挥泪点评BLG夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 766448,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%A4%9A%E5%A4%9A%E8%B5%9B%E5%90%8E%E6%8C%A5%E6%B3%AA%E7%82%B9%E8%AF%84BLG%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "王多多赛后挥泪点评BLG夺冠"
-      ],
-      "rank": 10,
-      "sports_rank": 9
+      "sports_rank": 7
     },
     {
       "title": "高燃回顾BLG一穿四夺冠之路",
@@ -175,14 +159,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 738982,
+      "hot_value": 927541,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83%E5%9B%9E%E9%A1%BEBLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
       },
       "raw_titles": [
         "高燃回顾BLG一穿四夺冠之路"
       ],
+      "rank": 10,
+      "sports_rank": 8
+    },
+    {
+      "title": "BLG夺冠过程中的热梗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 927540,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%83%AD%E6%A2%97"
+      },
+      "raw_titles": [
+        "BLG夺冠过程中的热梗"
+      ],
       "rank": 11,
+      "sports_rank": 9
+    },
+    {
+      "title": "韩网绝望韩国人怎么看BLG夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 901278,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%BD%91%E7%BB%9D%E6%9C%9B%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8BBLG%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "韩网绝望韩国人怎么看BLG夺冠"
+      ],
+      "rank": 12,
       "sports_rank": 10
     },
     {
@@ -191,30 +207,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 726455,
+      "hot_value": 831926,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8F%8C%E6%96%B9%E9%80%89%E6%89%8B%E5%8F%8D%E5%BA%94"
       },
       "raw_titles": [
         "BLG夺冠双方选手反应"
       ],
-      "rank": 12,
+      "rank": 13,
       "sports_rank": 11
     },
     {
-      "title": "BLG夺冠时刻语音",
+      "title": "黄龄恭喜BLG夺冠",
       "category": "体育",
       "sources": [
+        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 702848,
+      "hot_value": 814250,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB%E8%AF%AD%E9%9F%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%81%AD%E5%96%9CBLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "BLG夺冠时刻语音"
+        "黄龄恭喜BLG夺冠"
       ],
-      "rank": 13,
+      "rank": 14,
       "sports_rank": 12
     },
     {
@@ -223,15 +240,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 672095,
+      "hot_value": 806989,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CGEN%E5%A4%BA%E5%86%A0%E4%B9%8B%E6%88%98"
       },
       "raw_titles": [
         "复盘BLG战胜GEN夺冠之战"
       ],
-      "rank": 14,
+      "rank": 15,
       "sports_rank": 13
+    },
+    {
+      "title": "王多多赛后挥泪点评BLG夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 805882,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%A4%9A%E5%A4%9A%E8%B5%9B%E5%90%8E%E6%8C%A5%E6%B3%AA%E7%82%B9%E8%AF%84BLG%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "王多多赛后挥泪点评BLG夺冠"
+      ],
+      "rank": 16,
+      "sports_rank": 14
     },
     {
       "title": "BLG夺冠赞歌 仰望星空",
@@ -239,15 +272,95 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 609245,
+      "hot_value": 767619,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C%20%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA"
       },
       "raw_titles": [
         "BLG夺冠赞歌 仰望星空"
       ],
-      "rank": 15,
-      "sports_rank": 14
+      "rank": 17,
+      "sports_rank": 15
+    },
+    {
+      "title": "米垃圾为何总出现零封比分",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 746112,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%9E%83%E5%9C%BE%E4%B8%BA%E4%BD%95%E6%80%BB%E5%87%BA%E7%8E%B0%E9%9B%B6%E5%B0%81%E6%AF%94%E5%88%86"
+      },
+      "raw_titles": [
+        "米垃圾为何总出现零封比分"
+      ],
+      "rank": 18,
+      "sports_rank": 16
+    },
+    {
+      "title": "BLG夺冠时刻语音",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 717362,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB%E8%AF%AD%E9%9F%B3"
+      },
+      "raw_titles": [
+        "BLG夺冠时刻语音"
+      ],
+      "rank": 19,
+      "sports_rank": 17
+    },
+    {
+      "title": "BLG夺冠单曲 十年人间",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 692460,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8D%95%E6%9B%B2%20%E5%8D%81%E5%B9%B4%E4%BA%BA%E9%97%B4"
+      },
+      "raw_titles": [
+        "BLG夺冠单曲 十年人间"
+      ],
+      "rank": 20,
+      "sports_rank": 18
+    },
+    {
+      "title": "许飞自曝参加浪姐期间被分手了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 657677,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86"
+      },
+      "raw_titles": [
+        "许飞自曝参加浪姐期间被分手了"
+      ],
+      "rank": 21,
+      "movie_rank": 3
+    },
+    {
+      "title": "创作者回应赵本山翻唱慌啥子嘛",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 580642,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%BF%BB%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B"
+      },
+      "raw_titles": [
+        "创作者回应赵本山翻唱慌啥子嘛"
+      ],
+      "rank": 22,
+      "movie_rank": 4
     },
     {
       "title": "赵丽颖刘诗诗持股两京十五日出品方",
@@ -255,63 +368,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 403188,
+      "hot_value": 563631,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E8%AF%97%E8%AF%97%E6%8C%81%E8%82%A1%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%87%BA%E5%93%81%E6%96%B9"
       },
       "raw_titles": [
         "赵丽颖刘诗诗持股两京十五日出品方"
       ],
-      "rank": 16,
-      "movie_rank": 2
+      "rank": 23,
+      "movie_rank": 5
     },
     {
-      "title": "“战狼突击队”硬核出动护航APEC",
-      "category": "影视",
+      "title": "BLG夺冠奖金100万美元",
+      "category": "体育",
       "sources": [
         "百度"
       ],
       "hot_value": 306000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%98%E7%8B%BC%E7%AA%81%E5%87%BB%E9%98%9F%E2%80%9D%E7%A1%AC%E6%A0%B8%E5%87%BA%E5%8A%A8%E6%8A%A4%E8%88%AAAPEC&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=BLG%E5%A4%BA%E5%86%A0%E5%A5%96%E9%87%91100%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news"
       },
       "raw_titles": [
-        "“战狼突击队”硬核出动护航APEC"
+        "BLG夺冠奖金100万美元"
       ],
-      "rank": 17,
-      "movie_rank": 3
+      "rank": 24,
+      "sports_rank": 19
     },
     {
-      "title": "日本女孩坠楼后直播持续约44分钟",
-      "category": "体育",
+      "title": "赵本山祖孙三代唱《慌啥子嘛》",
+      "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 234000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%90%8E%E7%9B%B4%E6%92%AD%E6%8C%81%E7%BB%AD%E7%BA%A644%E5%88%86%E9%92%9F&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B&sa=fyb_news"
       },
       "raw_titles": [
-        "日本女孩坠楼后直播持续约44分钟"
+        "赵本山祖孙三代唱《慌啥子嘛》"
       ],
-      "rank": 18,
-      "sports_rank": 15
-    },
-    {
-      "title": "YG回应BLACKPINK是否续约",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 187351,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=YG%E5%9B%9E%E5%BA%94BLACKPINK%E6%98%AF%E5%90%A6%E7%BB%AD%E7%BA%A6"
-      },
-      "raw_titles": [
-        "YG回应BLACKPINK是否续约"
-      ],
-      "rank": 19,
-      "sports_rank": 16
+      "rank": 25,
+      "movie_rank": 6
     },
     {
       "title": "周杰伦演唱会580元仅支持看大屏",
@@ -319,15 +416,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 162000,
+      "hot_value": 198000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A580%E5%85%83%E4%BB%85%E6%94%AF%E6%8C%81%E7%9C%8B%E5%A4%A7%E5%B1%8F&sa=fyb_news"
       },
       "raw_titles": [
         "周杰伦演唱会580元仅支持看大屏"
       ],
-      "rank": 20,
-      "movie_rank": 4
+      "rank": 26,
+      "movie_rank": 7
+    },
+    {
+      "title": "YG回应BLACKPINK是否续约",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 193298,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=YG%E5%9B%9E%E5%BA%94BLACKPINK%E6%98%AF%E5%90%A6%E7%BB%AD%E7%BA%A6"
+      },
+      "raw_titles": [
+        "YG回应BLACKPINK是否续约"
+      ],
+      "rank": 27,
+      "sports_rank": 20
     },
     {
       "title": "华晨宇演唱会拉动4亿消费",
@@ -335,47 +448,79 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 99000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8B%89%E5%8A%A84%E4%BA%BF%E6%B6%88%E8%B4%B9&sa=fyb_news"
       },
       "raw_titles": [
         "华晨宇演唱会拉动4亿消费"
       ],
-      "rank": 21,
-      "movie_rank": 5
+      "rank": 28,
+      "movie_rank": 8
     },
     {
-      "title": "赵本山问儿子：我和AI像不像",
+      "title": "曾沛慈许飞声生不息合作舞台",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 136555,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E8%AE%B8%E9%A3%9E%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%90%88%E4%BD%9C%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "曾沛慈许飞声生不息合作舞台"
+      ],
+      "rank": 29,
+      "movie_rank": 9
+    },
+    {
+      "title": "“战狼突击队”硬核出动护航APEC",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 108000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E9%97%AE%E5%84%BF%E5%AD%90%EF%BC%9A%E6%88%91%E5%92%8CAI%E5%83%8F%E4%B8%8D%E5%83%8F&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%98%E7%8B%BC%E7%AA%81%E5%87%BB%E9%98%9F%E2%80%9D%E7%A1%AC%E6%A0%B8%E5%87%BA%E5%8A%A8%E6%8A%A4%E8%88%AAAPEC&sa=fyb_news"
       },
       "raw_titles": [
-        "赵本山问儿子：我和AI像不像"
+        "“战狼突击队”硬核出动护航APEC"
       ],
-      "rank": 22,
-      "movie_rank": 6
+      "rank": 30,
+      "movie_rank": 10
     },
     {
-      "title": "黄龄恭喜BLG夺冠",
+      "title": "日本女孩坠楼后直播持续约44分钟",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 50000,
+      "hot_value": 54000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%BE%84%E6%81%AD%E5%96%9CBLG%E5%A4%BA%E5%86%A0"
+        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%90%8E%E7%9B%B4%E6%92%AD%E6%8C%81%E7%BB%AD%E7%BA%A644%E5%88%86%E9%92%9F&sa=fyb_news"
       },
       "raw_titles": [
-        "黄龄恭喜BLG夺冠"
+        "日本女孩坠楼后直播持续约44分钟"
       ],
-      "rank": 23,
-      "sports_rank": 17
+      "rank": 31,
+      "sports_rank": 21
+    },
+    {
+      "title": "闲鱼通报“钓鱼竿涉色情交易”等谣言",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%97%B2%E9%B1%BC%E9%80%9A%E6%8A%A5%E2%80%9C%E9%92%93%E9%B1%BC%E7%AB%BF%E6%B6%89%E8%89%B2%E6%83%85%E4%BA%A4%E6%98%93%E2%80%9D%E7%AD%89%E8%B0%A3%E8%A8%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "闲鱼通报“钓鱼竿涉色情交易”等谣言"
+      ],
+      "rank": 32,
+      "sports_rank": 22
     }
   ],
   "sports": [
@@ -385,7 +530,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 11138448,
+      "hot_value": 11099230,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD147%3A119%E5%A5%87%E6%89%8D"
       },
@@ -401,7 +546,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9161227,
+      "hot_value": 9153267,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%A9%B9%E7%9A%87%E8%BF%8E%E9%87%8C%E7%A8%8B%E7%A2%91%2076%E4%BA%BA%E5%8A%9B%E5%85%8B%E6%AD%A5%E8%A1%8C%E8%80%85"
       },
@@ -417,7 +562,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9120898,
+      "hot_value": 9128139,
       "urls": {
         "抖音": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E8%83%8C%E5%90%8E%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%9C%BA%E9%81%87"
       },
@@ -428,36 +573,52 @@
       "sports_rank": 3
     },
     {
-      "title": "管泽元谈BLG夺冠",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7827043,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%AE%A1%E6%B3%BD%E5%85%83%E8%B0%88BLG%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "管泽元谈BLG夺冠"
-      ],
-      "rank": 5,
-      "sports_rank": 4
-    },
-    {
       "title": "用我的方式庆祝BLG夺冠",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7738764,
+      "hot_value": 8354015,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%94%A8%E6%88%91%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BA%86%E7%A5%9DBLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "用我的方式庆祝BLG夺冠"
       ],
+      "rank": 4,
+      "sports_rank": 4
+    },
+    {
+      "title": "管泽元谈BLG夺冠",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7726487,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E7%AE%A1%E6%B3%BD%E5%85%83%E8%B0%88BLG%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "管泽元谈BLG夺冠"
+      ],
       "rank": 6,
       "sports_rank": 5
+    },
+    {
+      "title": "C罗足球生涯回顾",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1713772,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%B6%B3%E7%90%83%E7%94%9F%E6%B6%AF%E5%9B%9E%E9%A1%BE"
+      },
+      "raw_titles": [
+        "C罗足球生涯回顾"
+      ],
+      "rank": 7,
+      "sports_rank": 6
     },
     {
       "title": "BLG夺冠UP主开启抽奖团建",
@@ -465,63 +626,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1866267,
+      "hot_value": 927544,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0UP%E4%B8%BB%E5%BC%80%E5%90%AF%E6%8A%BD%E5%A5%96%E5%9B%A2%E5%BB%BA"
       },
       "raw_titles": [
         "BLG夺冠UP主开启抽奖团建"
       ],
-      "rank": 7,
-      "sports_rank": 6
-    },
-    {
-      "title": "韩网绝望韩国人怎么看BLG夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 968961,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%BD%91%E7%BB%9D%E6%9C%9B%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8BBLG%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "韩网绝望韩国人怎么看BLG夺冠"
-      ],
-      "rank": 8,
-      "sports_rank": 7
-    },
-    {
-      "title": "BLG夺冠过程中的热梗",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 854885,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%83%AD%E6%A2%97"
-      },
-      "raw_titles": [
-        "BLG夺冠过程中的热梗"
-      ],
       "rank": 9,
-      "sports_rank": 8
-    },
-    {
-      "title": "王多多赛后挥泪点评BLG夺冠",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 766448,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%A4%9A%E5%A4%9A%E8%B5%9B%E5%90%8E%E6%8C%A5%E6%B3%AA%E7%82%B9%E8%AF%84BLG%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "王多多赛后挥泪点评BLG夺冠"
-      ],
-      "rank": 10,
-      "sports_rank": 9
+      "sports_rank": 7
     },
     {
       "title": "高燃回顾BLG一穿四夺冠之路",
@@ -529,14 +642,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 738982,
+      "hot_value": 927541,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83%E5%9B%9E%E9%A1%BEBLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
       },
       "raw_titles": [
         "高燃回顾BLG一穿四夺冠之路"
       ],
+      "rank": 10,
+      "sports_rank": 8
+    },
+    {
+      "title": "BLG夺冠过程中的热梗",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 927540,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%83%AD%E6%A2%97"
+      },
+      "raw_titles": [
+        "BLG夺冠过程中的热梗"
+      ],
       "rank": 11,
+      "sports_rank": 9
+    },
+    {
+      "title": "韩网绝望韩国人怎么看BLG夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 901278,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%BD%91%E7%BB%9D%E6%9C%9B%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8BBLG%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "韩网绝望韩国人怎么看BLG夺冠"
+      ],
+      "rank": 12,
       "sports_rank": 10
     },
     {
@@ -545,30 +690,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 726455,
+      "hot_value": 831926,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8F%8C%E6%96%B9%E9%80%89%E6%89%8B%E5%8F%8D%E5%BA%94"
       },
       "raw_titles": [
         "BLG夺冠双方选手反应"
       ],
-      "rank": 12,
+      "rank": 13,
       "sports_rank": 11
     },
     {
-      "title": "BLG夺冠时刻语音",
+      "title": "黄龄恭喜BLG夺冠",
       "category": "体育",
       "sources": [
+        "哔哩哔哩",
         "哔哩哔哩"
       ],
-      "hot_value": 702848,
+      "hot_value": 814250,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB%E8%AF%AD%E9%9F%B3"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%81%AD%E5%96%9CBLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "BLG夺冠时刻语音"
+        "黄龄恭喜BLG夺冠"
       ],
-      "rank": 13,
+      "rank": 14,
       "sports_rank": 12
     },
     {
@@ -577,15 +723,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 672095,
+      "hot_value": 806989,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CGEN%E5%A4%BA%E5%86%A0%E4%B9%8B%E6%88%98"
       },
       "raw_titles": [
         "复盘BLG战胜GEN夺冠之战"
       ],
-      "rank": 14,
+      "rank": 15,
       "sports_rank": 13
+    },
+    {
+      "title": "王多多赛后挥泪点评BLG夺冠",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 805882,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%A4%9A%E5%A4%9A%E8%B5%9B%E5%90%8E%E6%8C%A5%E6%B3%AA%E7%82%B9%E8%AF%84BLG%E5%A4%BA%E5%86%A0"
+      },
+      "raw_titles": [
+        "王多多赛后挥泪点评BLG夺冠"
+      ],
+      "rank": 16,
+      "sports_rank": 14
     },
     {
       "title": "BLG夺冠赞歌 仰望星空",
@@ -593,31 +755,79 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 609245,
+      "hot_value": 767619,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C%20%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA"
       },
       "raw_titles": [
         "BLG夺冠赞歌 仰望星空"
       ],
-      "rank": 15,
-      "sports_rank": 14
+      "rank": 17,
+      "sports_rank": 15
     },
     {
-      "title": "日本女孩坠楼后直播持续约44分钟",
+      "title": "米垃圾为何总出现零封比分",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 746112,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%9E%83%E5%9C%BE%E4%B8%BA%E4%BD%95%E6%80%BB%E5%87%BA%E7%8E%B0%E9%9B%B6%E5%B0%81%E6%AF%94%E5%88%86"
+      },
+      "raw_titles": [
+        "米垃圾为何总出现零封比分"
+      ],
+      "rank": 18,
+      "sports_rank": 16
+    },
+    {
+      "title": "BLG夺冠时刻语音",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 717362,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB%E8%AF%AD%E9%9F%B3"
+      },
+      "raw_titles": [
+        "BLG夺冠时刻语音"
+      ],
+      "rank": 19,
+      "sports_rank": 17
+    },
+    {
+      "title": "BLG夺冠单曲 十年人间",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 692460,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8D%95%E6%9B%B2%20%E5%8D%81%E5%B9%B4%E4%BA%BA%E9%97%B4"
+      },
+      "raw_titles": [
+        "BLG夺冠单曲 十年人间"
+      ],
+      "rank": 20,
+      "sports_rank": 18
+    },
+    {
+      "title": "BLG夺冠奖金100万美元",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 243000,
+      "hot_value": 306000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%90%8E%E7%9B%B4%E6%92%AD%E6%8C%81%E7%BB%AD%E7%BA%A644%E5%88%86%E9%92%9F&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=BLG%E5%A4%BA%E5%86%A0%E5%A5%96%E9%87%91100%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news"
       },
       "raw_titles": [
-        "日本女孩坠楼后直播持续约44分钟"
+        "BLG夺冠奖金100万美元"
       ],
-      "rank": 18,
-      "sports_rank": 15
+      "rank": 24,
+      "sports_rank": 19
     },
     {
       "title": "YG回应BLACKPINK是否续约",
@@ -625,31 +835,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 187351,
+      "hot_value": 193298,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=YG%E5%9B%9E%E5%BA%94BLACKPINK%E6%98%AF%E5%90%A6%E7%BB%AD%E7%BA%A6"
       },
       "raw_titles": [
         "YG回应BLACKPINK是否续约"
       ],
-      "rank": 19,
-      "sports_rank": 16
+      "rank": 27,
+      "sports_rank": 20
     },
     {
-      "title": "黄龄恭喜BLG夺冠",
+      "title": "日本女孩坠楼后直播持续约44分钟",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 50000,
+      "hot_value": 54000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%BE%84%E6%81%AD%E5%96%9CBLG%E5%A4%BA%E5%86%A0"
+        "百度": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%90%8E%E7%9B%B4%E6%92%AD%E6%8C%81%E7%BB%AD%E7%BA%A644%E5%88%86%E9%92%9F&sa=fyb_news"
       },
       "raw_titles": [
-        "黄龄恭喜BLG夺冠"
+        "日本女孩坠楼后直播持续约44分钟"
       ],
-      "rank": 23,
-      "sports_rank": 17
+      "rank": 31,
+      "sports_rank": 21
+    },
+    {
+      "title": "闲鱼通报“钓鱼竿涉色情交易”等谣言",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%97%B2%E9%B1%BC%E9%80%9A%E6%8A%A5%E2%80%9C%E9%92%93%E9%B1%BC%E7%AB%BF%E6%B6%89%E8%89%B2%E6%83%85%E4%BA%A4%E6%98%93%E2%80%9D%E7%AD%89%E8%B0%A3%E8%A8%80&sa=fyb_news"
+      },
+      "raw_titles": [
+        "闲鱼通报“钓鱼竿涉色情交易”等谣言"
+      ],
+      "rank": 32,
+      "sports_rank": 22
     }
   ],
   "movies": [
@@ -662,7 +888,7 @@
         "百度",
         "抖音"
       ],
-      "hot_value": 8385657,
+      "hot_value": 8346813,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92",
         "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E3%80%8B%E5%B0%86%E5%81%9C%E6%9C%8D&sa=fyb_news",
@@ -671,8 +897,56 @@
       "raw_titles": [
         "哈利波特魔法觉醒将停服"
       ],
-      "rank": 4,
+      "rank": 5,
       "movie_rank": 1
+    },
+    {
+      "title": "赵本山的宽容不代表AI能随意仿声",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 977783,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%9A%84%E5%AE%BD%E5%AE%B9%E4%B8%8D%E4%BB%A3%E8%A1%A8AI%E8%83%BD%E9%9A%8F%E6%84%8F%E4%BB%BF%E5%A3%B0"
+      },
+      "raw_titles": [
+        "赵本山的宽容不代表AI能随意仿声"
+      ],
+      "rank": 8,
+      "movie_rank": 2
+    },
+    {
+      "title": "许飞自曝参加浪姐期间被分手了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 657677,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86"
+      },
+      "raw_titles": [
+        "许飞自曝参加浪姐期间被分手了"
+      ],
+      "rank": 21,
+      "movie_rank": 3
+    },
+    {
+      "title": "创作者回应赵本山翻唱慌啥子嘛",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 580642,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%BF%BB%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B"
+      },
+      "raw_titles": [
+        "创作者回应赵本山翻唱慌啥子嘛"
+      ],
+      "rank": 22,
+      "movie_rank": 4
     },
     {
       "title": "赵丽颖刘诗诗持股两京十五日出品方",
@@ -680,31 +954,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 403188,
+      "hot_value": 563631,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E8%AF%97%E8%AF%97%E6%8C%81%E8%82%A1%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%87%BA%E5%93%81%E6%96%B9"
       },
       "raw_titles": [
         "赵丽颖刘诗诗持股两京十五日出品方"
       ],
-      "rank": 16,
-      "movie_rank": 2
+      "rank": 23,
+      "movie_rank": 5
     },
     {
-      "title": "“战狼突击队”硬核出动护航APEC",
+      "title": "赵本山祖孙三代唱《慌啥子嘛》",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 306000,
+      "hot_value": 234000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%98%E7%8B%BC%E7%AA%81%E5%87%BB%E9%98%9F%E2%80%9D%E7%A1%AC%E6%A0%B8%E5%87%BA%E5%8A%A8%E6%8A%A4%E8%88%AAAPEC&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B&sa=fyb_news"
       },
       "raw_titles": [
-        "“战狼突击队”硬核出动护航APEC"
+        "赵本山祖孙三代唱《慌啥子嘛》"
       ],
-      "rank": 17,
-      "movie_rank": 3
+      "rank": 25,
+      "movie_rank": 6
     },
     {
       "title": "周杰伦演唱会580元仅支持看大屏",
@@ -712,15 +986,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 162000,
+      "hot_value": 198000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A580%E5%85%83%E4%BB%85%E6%94%AF%E6%8C%81%E7%9C%8B%E5%A4%A7%E5%B1%8F&sa=fyb_news"
       },
       "raw_titles": [
         "周杰伦演唱会580元仅支持看大屏"
       ],
-      "rank": 20,
-      "movie_rank": 4
+      "rank": 26,
+      "movie_rank": 7
     },
     {
       "title": "华晨宇演唱会拉动4亿消费",
@@ -728,31 +1002,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 99000,
+      "hot_value": 180000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8B%89%E5%8A%A84%E4%BA%BF%E6%B6%88%E8%B4%B9&sa=fyb_news"
       },
       "raw_titles": [
         "华晨宇演唱会拉动4亿消费"
       ],
-      "rank": 21,
-      "movie_rank": 5
+      "rank": 28,
+      "movie_rank": 8
     },
     {
-      "title": "赵本山问儿子：我和AI像不像",
+      "title": "曾沛慈许飞声生不息合作舞台",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 136555,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E8%AE%B8%E9%A3%9E%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%90%88%E4%BD%9C%E8%88%9E%E5%8F%B0"
+      },
+      "raw_titles": [
+        "曾沛慈许飞声生不息合作舞台"
+      ],
+      "rank": 29,
+      "movie_rank": 9
+    },
+    {
+      "title": "“战狼突击队”硬核出动护航APEC",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 108000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E9%97%AE%E5%84%BF%E5%AD%90%EF%BC%9A%E6%88%91%E5%92%8CAI%E5%83%8F%E4%B8%8D%E5%83%8F&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%98%E7%8B%BC%E7%AA%81%E5%87%BB%E9%98%9F%E2%80%9D%E7%A1%AC%E6%A0%B8%E5%87%BA%E5%8A%A8%E6%8A%A4%E8%88%AAAPEC&sa=fyb_news"
       },
       "raw_titles": [
-        "赵本山问儿子：我和AI像不像"
+        "“战狼突击队”硬核出动护航APEC"
       ],
-      "rank": 22,
-      "movie_rank": 6
+      "rank": 30,
+      "movie_rank": 10
     }
   ]
 }
