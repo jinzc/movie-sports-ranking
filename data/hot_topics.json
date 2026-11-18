@@ -1,42 +1,26 @@
 {
-  "update_time": "2026-11-18 10:00:56",
+  "update_time": "2026-11-18 11:00:55",
   "total": 33,
-  "sports_count": 16,
-  "movie_count": 18,
+  "sports_count": 19,
+  "movie_count": 15,
   "all": [
     {
-      "title": "国足2:2战平巴林",
+      "title": "邵佳一回应国足2比2战平巴林",
       "category": "体育",
       "sources": [
+        "百度",
         "抖音"
       ],
-      "hot_value": 10511770,
+      "hot_value": 10652103,
       "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%82%B5%E4%BD%B3%E4%B8%80%E5%9B%9E%E5%BA%94%E5%9B%BD%E8%B6%B32%E6%AF%942%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32%3A2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97"
       },
       "raw_titles": [
-        "国足2:2战平巴林"
+        "邵佳一回应国足2比2战平巴林"
       ],
       "rank": 1,
       "sports_rank": 1
-    },
-    {
-      "title": "TGA2026年度游戏提名公布",
-      "category": "影视",
-      "sources": [
-        "百度",
-        "哔哩哔哩"
-      ],
-      "hot_value": 9642035,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=TGA2026%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E6%8F%90%E5%90%8D%E5%85%AC%E5%B8%83&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=TGA2026%E5%85%A8%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
-      },
-      "raw_titles": [
-        "TGA2026年度游戏提名公布"
-      ],
-      "rank": 2,
-      "movie_rank": 1
     },
     {
       "title": "U19国足夺得熊猫杯冠军",
@@ -44,15 +28,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8546695,
+      "hot_value": 8561924,
       "urls": {
         "抖音": "https://www.douyin.com/search/U19%E5%9B%BD%E8%B6%B3%E5%A4%BA%E5%BE%97%E7%86%8A%E7%8C%AB%E6%9D%AF%E5%86%A0%E5%86%9B"
       },
       "raw_titles": [
         "U19国足夺得熊猫杯冠军"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 2
+    },
+    {
+      "title": "杨瀚森团队否认交易传闻",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7738647,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%9B%A2%E9%98%9F%E5%90%A6%E8%AE%A4%E4%BA%A4%E6%98%93%E4%BC%A0%E9%97%BB"
+      },
+      "raw_titles": [
+        "杨瀚森团队否认交易传闻"
+      ],
+      "rank": 3,
+      "sports_rank": 3
     },
     {
       "title": "吴磊在10米鲨鱼池里潜水",
@@ -60,7 +60,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7702325,
+      "hot_value": 7708304,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E5%9C%A810%E7%B1%B3%E9%B2%A8%E9%B1%BC%E6%B1%A0%E9%87%8C%E6%BD%9C%E6%B0%B4"
       },
@@ -68,7 +68,7 @@
         "吴磊在10米鲨鱼池里潜水"
       ],
       "rank": 4,
-      "movie_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "声生不息官宣全新阵容",
@@ -76,7 +76,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7634352,
+      "hot_value": 7639203,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%AE%98%E5%AE%A3%E5%85%A8%E6%96%B0%E9%98%B5%E5%AE%B9"
       },
@@ -84,55 +84,39 @@
         "声生不息官宣全新阵容"
       ],
       "rank": 5,
+      "movie_rank": 2
+    },
+    {
+      "title": "TGA2026全提名名单公布",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 727768,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=TGA2026%E5%85%A8%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
+      },
+      "raw_titles": [
+        "TGA2026全提名名单公布"
+      ],
+      "rank": 6,
       "movie_rank": 3
     },
     {
-      "title": "Faker获电竞世界杯选手选择奖第一名",
+      "title": "利雅得胜利希望续约C罗",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 611310,
+      "hot_value": 463171,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=Faker%E8%8E%B7%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E9%80%89%E6%89%8B%E9%80%89%E6%8B%A9%E5%A5%96%E7%AC%AC%E4%B8%80%E5%90%8D"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%A9%E9%9B%85%E5%BE%97%E8%83%9C%E5%88%A9%E5%B8%8C%E6%9C%9B%E7%BB%AD%E7%BA%A6C%E7%BD%97"
       },
       "raw_titles": [
-        "Faker获电竞世界杯选手选择奖第一名"
-      ],
-      "rank": 6,
-      "sports_rank": 3
-    },
-    {
-      "title": "曝C罗决定赛季末退役",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 610115,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E5%86%B3%E5%AE%9A%E8%B5%9B%E5%AD%A3%E6%9C%AB%E9%80%80%E5%BD%B9"
-      },
-      "raw_titles": [
-        "曝C罗决定赛季末退役"
+        "利雅得胜利希望续约C罗"
       ],
       "rank": 7,
       "sports_rank": 4
-    },
-    {
-      "title": "韩网热议海外韩剧粉爬墙中剧",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 425651,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE%E6%B5%B7%E5%A4%96%E9%9F%A9%E5%89%A7%E7%B2%89%E7%88%AC%E5%A2%99%E4%B8%AD%E5%89%A7"
-      },
-      "raw_titles": [
-        "韩网热议海外韩剧粉爬墙中剧"
-      ],
-      "rank": 8,
-      "movie_rank": 4
     },
     {
       "title": "丹麦2-3挪威 哈兰德绝杀",
@@ -140,95 +124,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 405060,
+      "hot_value": 392685,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%B9%E9%BA%A62-3%E6%8C%AA%E5%A8%81%20%E5%93%88%E5%85%B0%E5%BE%B7%E7%BB%9D%E6%9D%80"
       },
       "raw_titles": [
         "丹麦2-3挪威 哈兰德绝杀"
       ],
-      "rank": 9,
+      "rank": 8,
       "sports_rank": 5
     },
     {
-      "title": "GTA6获TGA八项提名",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 381388,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=GTA6%E8%8E%B7TGA%E5%85%AB%E9%A1%B9%E6%8F%90%E5%90%8D"
-      },
-      "raw_titles": [
-        "GTA6获TGA八项提名"
-      ],
-      "rank": 10,
-      "movie_rank": 5
-    },
-    {
-      "title": "Chovy获TGA最佳电竞选手提名",
+      "title": "傅诗淇两京十五日主海报",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 335278,
+      "hot_value": 368194,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=Chovy%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E6%8F%90%E5%90%8D"
+        "微博": "https://s.weibo.com/weibo?q=%E5%82%85%E8%AF%97%E6%B7%87%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E4%B8%BB%E6%B5%B7%E6%8A%A5"
       },
       "raw_titles": [
-        "Chovy获TGA最佳电竞选手提名"
+        "傅诗淇两京十五日主海报"
       ],
-      "rank": 11,
-      "movie_rank": 6
+      "rank": 9,
+      "movie_rank": 4
     },
     {
-      "title": "非凡之爱蜘蛛侠真人版",
+      "title": "韩网热议海外韩剧粉爬墙中剧",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 327532,
+      "hot_value": 306006,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E4%BA%BA%E7%89%88"
+        "微博": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE%E6%B5%B7%E5%A4%96%E9%9F%A9%E5%89%A7%E7%B2%89%E7%88%AC%E5%A2%99%E4%B8%AD%E5%89%A7"
       },
       "raw_titles": [
-        "非凡之爱蜘蛛侠真人版"
+        "韩网热议海外韩剧粉爬墙中剧"
       ],
-      "rank": 12,
-      "movie_rank": 7
-    },
-    {
-      "title": "电影挽救计划为何口碑票房双爆",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 327527,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92%E4%B8%BA%E4%BD%95%E5%8F%A3%E7%A2%91%E7%A5%A8%E6%88%BF%E5%8F%8C%E7%88%86"
-      },
-      "raw_titles": [
-        "电影挽救计划为何口碑票房双爆"
-      ],
-      "rank": 13,
-      "movie_rank": 8
-    },
-    {
-      "title": "高燃BLG一穿四夺冠短片",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 327523,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87"
-      },
-      "raw_titles": [
-        "高燃BLG一穿四夺冠短片"
-      ],
-      "rank": 14,
-      "sports_rank": 6
+      "rank": 10,
+      "movie_rank": 5
     },
     {
       "title": "Xun夺冠决胜局第一视角",
@@ -236,79 +172,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 327522,
+      "hot_value": 294067,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=Xun%E5%A4%BA%E5%86%A0%E5%86%B3%E8%83%9C%E5%B1%80%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92"
       },
       "raw_titles": [
         "Xun夺冠决胜局第一视角"
       ],
-      "rank": 15,
-      "sports_rank": 7
+      "rank": 11,
+      "sports_rank": 6
     },
     {
-      "title": "影之刃零入围TGA年度游戏",
+      "title": "GTA6获TGA八项提名",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 327517,
+      "hot_value": 294030,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%85%A5%E5%9B%B4TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=GTA6%E8%8E%B7TGA%E5%85%AB%E9%A1%B9%E6%8F%90%E5%90%8D"
       },
       "raw_titles": [
-        "影之刃零入围TGA年度游戏"
+        "GTA6获TGA八项提名"
       ],
-      "rank": 16,
-      "movie_rank": 9
+      "rank": 12,
+      "movie_rank": 6
     },
     {
-      "title": "BLG夺冠赛事语音",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 327453,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
-      },
-      "raw_titles": [
-        "BLG夺冠赛事语音"
-      ],
-      "rank": 17,
-      "sports_rank": 8
-    },
-    {
-      "title": "万字复盘KPL年总决赛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 321219,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%A4%8D%E7%9B%98KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "万字复盘KPL年总决赛"
-      ],
-      "rank": 18,
-      "sports_rank": 9
-    },
-    {
-      "title": "网易山海奇旅二测定档PV",
+      "title": "电影挽救计划为何口碑票房双爆",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 319654,
+      "hot_value": 293787,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BD%91%E6%98%93%E5%B1%B1%E6%B5%B7%E5%A5%87%E6%97%85%E4%BA%8C%E6%B5%8B%E5%AE%9A%E6%A1%A3PV"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92%E4%B8%BA%E4%BD%95%E5%8F%A3%E7%A2%91%E7%A5%A8%E6%88%BF%E5%8F%8C%E7%88%86"
       },
       "raw_titles": [
-        "网易山海奇旅二测定档PV"
+        "电影挽救计划为何口碑票房双爆"
       ],
-      "rank": 19,
-      "movie_rank": 10
+      "rank": 13,
+      "movie_rank": 7
     },
     {
       "title": "奇迹一战！哈兰德压哨点杀",
@@ -323,39 +227,103 @@
       "raw_titles": [
         "奇迹一战！哈兰德压哨点杀"
       ],
-      "rank": 20,
-      "sports_rank": 10
+      "rank": 14,
+      "sports_rank": 7
     },
     {
-      "title": "GTA6还没发售就提名大奖",
+      "title": "非凡之爱蜘蛛侠真人版",
       "category": "影视",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 279000,
+      "hot_value": 287016,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=GTA6%E8%BF%98%E6%B2%A1%E5%8F%91%E5%94%AE%E5%B0%B1%E6%8F%90%E5%90%8D%E5%A4%A7%E5%A5%96&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E4%BA%BA%E7%89%88"
       },
       "raw_titles": [
-        "GTA6还没发售就提名大奖"
+        "非凡之爱蜘蛛侠真人版"
       ],
-      "rank": 21,
-      "movie_rank": 11
+      "rank": 15,
+      "movie_rank": 8
     },
     {
-      "title": "BLG夺冠后Bin哭了",
+      "title": "万字复盘KPL年总决赛",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 274123,
+      "hot_value": 287013,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%90%8EBin%E5%93%AD%E4%BA%86"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%A4%8D%E7%9B%98KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
       },
       "raw_titles": [
-        "BLG夺冠后Bin哭了"
+        "万字复盘KPL年总决赛"
       ],
-      "rank": 22,
+      "rank": 16,
+      "sports_rank": 8
+    },
+    {
+      "title": "高燃BLG一穿四夺冠短片",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287011,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87"
+      },
+      "raw_titles": [
+        "高燃BLG一穿四夺冠短片"
+      ],
+      "rank": 17,
+      "sports_rank": 9
+    },
+    {
+      "title": "BLG夺冠赛事语音",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287010,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
+      },
+      "raw_titles": [
+        "BLG夺冠赛事语音"
+      ],
+      "rank": 18,
+      "sports_rank": 10
+    },
+    {
+      "title": "影之刃零入围TGA年度游戏",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287007,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%85%A5%E5%9B%B4TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F"
+      },
+      "raw_titles": [
+        "影之刃零入围TGA年度游戏"
+      ],
+      "rank": 19,
+      "movie_rank": 9
+    },
+    {
+      "title": "天下足球回顾C罗国家队生涯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287006,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF"
+      },
+      "raw_titles": [
+        "天下足球回顾C罗国家队生涯"
+      ],
+      "rank": 20,
       "sports_rank": 11
     },
     {
@@ -364,32 +332,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 262531,
+      "hot_value": 280940,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%AB%E4%BA%BA%E7%9C%8B%E9%AA%91%E8%A1%8C%E6%88%91%E5%9C%A8%E5%90%B4%E7%A3%8A%E5%B0%8F%E8%AF%BE%E5%A0%82%E5%90%AC%E8%AF%BE"
       },
       "raw_titles": [
         "别人看骑行我在吴磊小课堂听课"
       ],
-      "rank": 23,
-      "movie_rank": 12
+      "rank": 21,
+      "movie_rank": 10
     },
     {
-      "title": "段林希当年爆冷击败刘忻洪辰夺冠",
-      "category": "综合",
+      "title": "BLG夺冠后Bin哭了",
+      "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 251057,
+      "hot_value": 276519,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AE%B5%E6%9E%97%E5%B8%8C%E5%BD%93%E5%B9%B4%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E5%88%98%E5%BF%BB%E6%B4%AA%E8%BE%B0%E5%A4%BA%E5%86%A0"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%90%8EBin%E5%93%AD%E4%BA%86"
       },
       "raw_titles": [
-        "段林希当年爆冷击败刘忻洪辰夺冠"
+        "BLG夺冠后Bin哭了"
       ],
-      "rank": 24,
-      "sports_rank": 12,
-      "movie_rank": 13
+      "rank": 22,
+      "sports_rank": 12
     },
     {
       "title": "解说逐局回看BLG夺冠之路",
@@ -397,47 +364,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 232861,
+      "hot_value": 270921,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E9%80%90%E5%B1%80%E5%9B%9E%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
       },
       "raw_titles": [
         "解说逐局回看BLG夺冠之路"
       ],
-      "rank": 25,
+      "rank": 23,
       "sports_rank": 13
     },
     {
-      "title": "猫的树说太阳雨本来只有22集到出国前",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 219088,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E8%AF%B4%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%9C%AC%E6%9D%A5%E5%8F%AA%E6%9C%8922%E9%9B%86%E5%88%B0%E5%87%BA%E5%9B%BD%E5%89%8D"
-      },
-      "raw_titles": [
-        "猫的树说太阳雨本来只有22集到出国前"
-      ],
-      "rank": 26,
-      "sports_rank": 14
-    },
-    {
-      "title": "赵本山这段话缓解了我的工作焦虑",
+      "title": "Chovy获TGA最佳电竞选手提名",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 209089,
+      "hot_value": 217413,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E8%BF%99%E6%AE%B5%E8%AF%9D%E7%BC%93%E8%A7%A3%E4%BA%86%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%84%A6%E8%99%91"
+        "微博": "https://s.weibo.com/weibo?q=Chovy%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E6%8F%90%E5%90%8D"
       },
       "raw_titles": [
-        "赵本山这段话缓解了我的工作焦虑"
+        "Chovy获TGA最佳电竞选手提名"
       ],
-      "rank": 27,
-      "movie_rank": 14
+      "rank": 24,
+      "movie_rank": 11
+    },
+    {
+      "title": "王迅 看到BLG夺冠真的很开心",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 208383,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%BF%85%20%E7%9C%8B%E5%88%B0BLG%E5%A4%BA%E5%86%A0%E7%9C%9F%E7%9A%84%E5%BE%88%E5%BC%80%E5%BF%83"
+      },
+      "raw_titles": [
+        "王迅 看到BLG夺冠真的很开心"
+      ],
+      "rank": 25,
+      "sports_rank": 14
     },
     {
       "title": "从打野节奏看BLG为何夺冠",
@@ -445,110 +412,145 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 208238,
+      "hot_value": 203860,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%89%93%E9%87%8E%E8%8A%82%E5%A5%8F%E7%9C%8BBLG%E4%B8%BA%E4%BD%95%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "从打野节奏看BLG为何夺冠"
       ],
-      "rank": 28,
+      "rank": 26,
       "sports_rank": 15
     },
     {
-      "title": "对比影版和原著哈利战力差距",
-      "category": "影视",
+      "title": "段林希当年爆冷击败刘忻洪辰夺冠",
+      "category": "综合",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 187986,
+      "hot_value": 194323,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%BD%B1%E7%89%88%E5%92%8C%E5%8E%9F%E8%91%97%E5%93%88%E5%88%A9%E6%88%98%E5%8A%9B%E5%B7%AE%E8%B7%9D"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AE%B5%E6%9E%97%E5%B8%8C%E5%BD%93%E5%B9%B4%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E5%88%98%E5%BF%BB%E6%B4%AA%E8%BE%B0%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "对比影版和原著哈利战力差距"
+        "段林希当年爆冷击败刘忻洪辰夺冠"
       ],
-      "rank": 29,
-      "movie_rank": 15
+      "rank": 27,
+      "sports_rank": 16,
+      "movie_rank": 12
     },
     {
-      "title": "天下足球回顾C罗国家队生涯",
+      "title": "Faker获电竞世界杯选手选择奖第一名",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 175253,
+      "hot_value": 173545,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF"
+        "微博": "https://s.weibo.com/weibo?q=Faker%E8%8E%B7%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E9%80%89%E6%89%8B%E9%80%89%E6%8B%A9%E5%A5%96%E7%AC%AC%E4%B8%80%E5%90%8D"
       },
       "raw_titles": [
-        "天下足球回顾C罗国家队生涯"
+        "Faker获电竞世界杯选手选择奖第一名"
+      ],
+      "rank": 28,
+      "sports_rank": 17
+    },
+    {
+      "title": "GEN获TGA最佳战队提名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 139705,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=GEN%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E6%88%98%E9%98%9F%E6%8F%90%E5%90%8D"
+      },
+      "raw_titles": [
+        "GEN获TGA最佳战队提名"
+      ],
+      "rank": 29,
+      "movie_rank": 13
+    },
+    {
+      "title": "赵本山这段话缓解了我的工作焦虑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 136518,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E8%BF%99%E6%AE%B5%E8%AF%9D%E7%BC%93%E8%A7%A3%E4%BA%86%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%84%A6%E8%99%91"
+      },
+      "raw_titles": [
+        "赵本山这段话缓解了我的工作焦虑"
       ],
       "rank": 30,
-      "sports_rank": 16
+      "movie_rank": 14
     },
     {
-      "title": "综艺好好生活",
-      "category": "影视",
+      "title": "库里坦言这份合同打完可能退役",
+      "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 175138,
+      "hot_value": 133846,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%BB%BC%E8%89%BA%E5%A5%BD%E5%A5%BD%E7%94%9F%E6%B4%BB"
+        "微博": "https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E5%9D%A6%E8%A8%80%E8%BF%99%E4%BB%BD%E5%90%88%E5%90%8C%E6%89%93%E5%AE%8C%E5%8F%AF%E8%83%BD%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
-        "综艺好好生活"
+        "库里坦言这份合同打完可能退役"
       ],
       "rank": 31,
-      "movie_rank": 16
+      "sports_rank": 18
     },
     {
-      "title": "赵本山慌啥子嘛接住一代人焦虑",
-      "category": "影视",
+      "title": "曝C罗目前拒绝与葡足协合作",
+      "category": "体育",
       "sources": [
         "微博"
       ],
-      "hot_value": 174718,
+      "hot_value": 133777,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%8E%A5%E4%BD%8F%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%84%A6%E8%99%91"
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E7%9B%AE%E5%89%8D%E6%8B%92%E7%BB%9D%E4%B8%8E%E8%91%A1%E8%B6%B3%E5%8D%8F%E5%90%88%E4%BD%9C"
       },
       "raw_titles": [
-        "赵本山慌啥子嘛接住一代人焦虑"
+        "曝C罗目前拒绝与葡足协合作"
       ],
       "rank": 32,
-      "movie_rank": 17
+      "sports_rank": 19
     },
     {
-      "title": "声生不息阵容 好评不少",
+      "title": "GTA6还没发售就提名大奖",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 123549,
+      "hot_value": 81000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E9%98%B5%E5%AE%B9%20%E5%A5%BD%E8%AF%84%E4%B8%8D%E5%B0%91"
+        "百度": "https://m.baidu.com/s?word=GTA6%E8%BF%98%E6%B2%A1%E5%8F%91%E5%94%AE%E5%B0%B1%E6%8F%90%E5%90%8D%E5%A4%A7%E5%A5%96&sa=fyb_news"
       },
       "raw_titles": [
-        "声生不息阵容 好评不少"
+        "GTA6还没发售就提名大奖"
       ],
       "rank": 33,
-      "movie_rank": 18
+      "movie_rank": 15
     }
   ],
   "sports": [
     {
-      "title": "国足2:2战平巴林",
+      "title": "邵佳一回应国足2比2战平巴林",
       "category": "体育",
       "sources": [
+        "百度",
         "抖音"
       ],
-      "hot_value": 10511770,
+      "hot_value": 10652103,
       "urls": {
+        "百度": "https://m.baidu.com/s?word=%E9%82%B5%E4%BD%B3%E4%B8%80%E5%9B%9E%E5%BA%94%E5%9B%BD%E8%B6%B32%E6%AF%942%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32%3A2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97"
       },
       "raw_titles": [
-        "国足2:2战平巴林"
+        "邵佳一回应国足2比2战平巴林"
       ],
       "rank": 1,
       "sports_rank": 1
@@ -559,44 +561,44 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8546695,
+      "hot_value": 8561924,
       "urls": {
         "抖音": "https://www.douyin.com/search/U19%E5%9B%BD%E8%B6%B3%E5%A4%BA%E5%BE%97%E7%86%8A%E7%8C%AB%E6%9D%AF%E5%86%A0%E5%86%9B"
       },
       "raw_titles": [
         "U19国足夺得熊猫杯冠军"
       ],
-      "rank": 3,
+      "rank": 2,
       "sports_rank": 2
     },
     {
-      "title": "Faker获电竞世界杯选手选择奖第一名",
+      "title": "杨瀚森团队否认交易传闻",
       "category": "体育",
       "sources": [
-        "微博"
+        "抖音"
       ],
-      "hot_value": 611310,
+      "hot_value": 7738647,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=Faker%E8%8E%B7%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E9%80%89%E6%89%8B%E9%80%89%E6%8B%A9%E5%A5%96%E7%AC%AC%E4%B8%80%E5%90%8D"
+        "抖音": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%9B%A2%E9%98%9F%E5%90%A6%E8%AE%A4%E4%BA%A4%E6%98%93%E4%BC%A0%E9%97%BB"
       },
       "raw_titles": [
-        "Faker获电竞世界杯选手选择奖第一名"
+        "杨瀚森团队否认交易传闻"
       ],
-      "rank": 6,
+      "rank": 3,
       "sports_rank": 3
     },
     {
-      "title": "曝C罗决定赛季末退役",
+      "title": "利雅得胜利希望续约C罗",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 610115,
+      "hot_value": 463171,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E5%86%B3%E5%AE%9A%E8%B5%9B%E5%AD%A3%E6%9C%AB%E9%80%80%E5%BD%B9"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%A9%E9%9B%85%E5%BE%97%E8%83%9C%E5%88%A9%E5%B8%8C%E6%9C%9B%E7%BB%AD%E7%BA%A6C%E7%BD%97"
       },
       "raw_titles": [
-        "曝C罗决定赛季末退役"
+        "利雅得胜利希望续约C罗"
       ],
       "rank": 7,
       "sports_rank": 4
@@ -607,31 +609,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 405060,
+      "hot_value": 392685,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%B9%E9%BA%A62-3%E6%8C%AA%E5%A8%81%20%E5%93%88%E5%85%B0%E5%BE%B7%E7%BB%9D%E6%9D%80"
       },
       "raw_titles": [
         "丹麦2-3挪威 哈兰德绝杀"
       ],
-      "rank": 9,
+      "rank": 8,
       "sports_rank": 5
-    },
-    {
-      "title": "高燃BLG一穿四夺冠短片",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 327523,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87"
-      },
-      "raw_titles": [
-        "高燃BLG一穿四夺冠短片"
-      ],
-      "rank": 14,
-      "sports_rank": 6
     },
     {
       "title": "Xun夺冠决胜局第一视角",
@@ -639,47 +625,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 327522,
+      "hot_value": 294067,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=Xun%E5%A4%BA%E5%86%A0%E5%86%B3%E8%83%9C%E5%B1%80%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92"
       },
       "raw_titles": [
         "Xun夺冠决胜局第一视角"
       ],
-      "rank": 15,
-      "sports_rank": 7
-    },
-    {
-      "title": "BLG夺冠赛事语音",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 327453,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
-      },
-      "raw_titles": [
-        "BLG夺冠赛事语音"
-      ],
-      "rank": 17,
-      "sports_rank": 8
-    },
-    {
-      "title": "万字复盘KPL年总决赛",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 321219,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%A4%8D%E7%9B%98KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "万字复盘KPL年总决赛"
-      ],
-      "rank": 18,
-      "sports_rank": 9
+      "rank": 11,
+      "sports_rank": 6
     },
     {
       "title": "奇迹一战！哈兰德压哨点杀",
@@ -694,8 +648,72 @@
       "raw_titles": [
         "奇迹一战！哈兰德压哨点杀"
       ],
-      "rank": 20,
+      "rank": 14,
+      "sports_rank": 7
+    },
+    {
+      "title": "万字复盘KPL年总决赛",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287013,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%A4%8D%E7%9B%98KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "万字复盘KPL年总决赛"
+      ],
+      "rank": 16,
+      "sports_rank": 8
+    },
+    {
+      "title": "高燃BLG一穿四夺冠短片",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287011,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87"
+      },
+      "raw_titles": [
+        "高燃BLG一穿四夺冠短片"
+      ],
+      "rank": 17,
+      "sports_rank": 9
+    },
+    {
+      "title": "BLG夺冠赛事语音",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287010,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3"
+      },
+      "raw_titles": [
+        "BLG夺冠赛事语音"
+      ],
+      "rank": 18,
       "sports_rank": 10
+    },
+    {
+      "title": "天下足球回顾C罗国家队生涯",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287006,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF"
+      },
+      "raw_titles": [
+        "天下足球回顾C罗国家队生涯"
+      ],
+      "rank": 20,
+      "sports_rank": 11
     },
     {
       "title": "BLG夺冠后Bin哭了",
@@ -703,7 +721,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 274123,
+      "hot_value": 276519,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%90%8EBin%E5%93%AD%E4%BA%86"
       },
@@ -711,24 +729,7 @@
         "BLG夺冠后Bin哭了"
       ],
       "rank": 22,
-      "sports_rank": 11
-    },
-    {
-      "title": "段林希当年爆冷击败刘忻洪辰夺冠",
-      "category": "综合",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 251057,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AE%B5%E6%9E%97%E5%B8%8C%E5%BD%93%E5%B9%B4%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E5%88%98%E5%BF%BB%E6%B4%AA%E8%BE%B0%E5%A4%BA%E5%86%A0"
-      },
-      "raw_titles": [
-        "段林希当年爆冷击败刘忻洪辰夺冠"
-      ],
-      "rank": 24,
-      "sports_rank": 12,
-      "movie_rank": 13
+      "sports_rank": 12
     },
     {
       "title": "解说逐局回看BLG夺冠之路",
@@ -736,30 +737,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 232861,
+      "hot_value": 270921,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E9%80%90%E5%B1%80%E5%9B%9E%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF"
       },
       "raw_titles": [
         "解说逐局回看BLG夺冠之路"
       ],
-      "rank": 25,
+      "rank": 23,
       "sports_rank": 13
     },
     {
-      "title": "猫的树说太阳雨本来只有22集到出国前",
+      "title": "王迅 看到BLG夺冠真的很开心",
       "category": "体育",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 219088,
+      "hot_value": 208383,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E8%AF%B4%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%9C%AC%E6%9D%A5%E5%8F%AA%E6%9C%8922%E9%9B%86%E5%88%B0%E5%87%BA%E5%9B%BD%E5%89%8D"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%BF%85%20%E7%9C%8B%E5%88%B0BLG%E5%A4%BA%E5%86%A0%E7%9C%9F%E7%9A%84%E5%BE%88%E5%BC%80%E5%BF%83"
       },
       "raw_titles": [
-        "猫的树说太阳雨本来只有22集到出国前"
+        "王迅 看到BLG夺冠真的很开心"
       ],
-      "rank": 26,
+      "rank": 25,
       "sports_rank": 14
     },
     {
@@ -768,59 +769,90 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 208238,
+      "hot_value": 203860,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%89%93%E9%87%8E%E8%8A%82%E5%A5%8F%E7%9C%8BBLG%E4%B8%BA%E4%BD%95%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "从打野节奏看BLG为何夺冠"
       ],
-      "rank": 28,
+      "rank": 26,
       "sports_rank": 15
     },
     {
-      "title": "天下足球回顾C罗国家队生涯",
-      "category": "体育",
+      "title": "段林希当年爆冷击败刘忻洪辰夺冠",
+      "category": "综合",
       "sources": [
-        "哔哩哔哩"
+        "微博"
       ],
-      "hot_value": 175253,
+      "hot_value": 194323,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF"
+        "微博": "https://s.weibo.com/weibo?q=%E6%AE%B5%E6%9E%97%E5%B8%8C%E5%BD%93%E5%B9%B4%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E5%88%98%E5%BF%BB%E6%B4%AA%E8%BE%B0%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
-        "天下足球回顾C罗国家队生涯"
+        "段林希当年爆冷击败刘忻洪辰夺冠"
       ],
-      "rank": 30,
-      "sports_rank": 16
+      "rank": 27,
+      "sports_rank": 16,
+      "movie_rank": 12
+    },
+    {
+      "title": "Faker获电竞世界杯选手选择奖第一名",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 173545,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=Faker%E8%8E%B7%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E9%80%89%E6%89%8B%E9%80%89%E6%8B%A9%E5%A5%96%E7%AC%AC%E4%B8%80%E5%90%8D"
+      },
+      "raw_titles": [
+        "Faker获电竞世界杯选手选择奖第一名"
+      ],
+      "rank": 28,
+      "sports_rank": 17
+    },
+    {
+      "title": "库里坦言这份合同打完可能退役",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 133846,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E5%9D%A6%E8%A8%80%E8%BF%99%E4%BB%BD%E5%90%88%E5%90%8C%E6%89%93%E5%AE%8C%E5%8F%AF%E8%83%BD%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "库里坦言这份合同打完可能退役"
+      ],
+      "rank": 31,
+      "sports_rank": 18
+    },
+    {
+      "title": "曝C罗目前拒绝与葡足协合作",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 133777,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E7%9B%AE%E5%89%8D%E6%8B%92%E7%BB%9D%E4%B8%8E%E8%91%A1%E8%B6%B3%E5%8D%8F%E5%90%88%E4%BD%9C"
+      },
+      "raw_titles": [
+        "曝C罗目前拒绝与葡足协合作"
+      ],
+      "rank": 32,
+      "sports_rank": 19
     }
   ],
   "movies": [
-    {
-      "title": "TGA2026年度游戏提名公布",
-      "category": "影视",
-      "sources": [
-        "百度",
-        "哔哩哔哩"
-      ],
-      "hot_value": 9642035,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=TGA2026%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E6%8F%90%E5%90%8D%E5%85%AC%E5%B8%83&sa=fyb_news",
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=TGA2026%E5%85%A8%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
-      },
-      "raw_titles": [
-        "TGA2026年度游戏提名公布"
-      ],
-      "rank": 2,
-      "movie_rank": 1
-    },
     {
       "title": "吴磊在10米鲨鱼池里潜水",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7702325,
+      "hot_value": 7708304,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E5%9C%A810%E7%B1%B3%E9%B2%A8%E9%B1%BC%E6%B1%A0%E9%87%8C%E6%BD%9C%E6%B0%B4"
       },
@@ -828,7 +860,7 @@
         "吴磊在10米鲨鱼池里潜水"
       ],
       "rank": 4,
-      "movie_rank": 2
+      "movie_rank": 1
     },
     {
       "title": "声生不息官宣全新阵容",
@@ -836,7 +868,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7634352,
+      "hot_value": 7639203,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%AE%98%E5%AE%A3%E5%85%A8%E6%96%B0%E9%98%B5%E5%AE%B9"
       },
@@ -844,7 +876,39 @@
         "声生不息官宣全新阵容"
       ],
       "rank": 5,
+      "movie_rank": 2
+    },
+    {
+      "title": "TGA2026全提名名单公布",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 727768,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=TGA2026%E5%85%A8%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83"
+      },
+      "raw_titles": [
+        "TGA2026全提名名单公布"
+      ],
+      "rank": 6,
       "movie_rank": 3
+    },
+    {
+      "title": "傅诗淇两京十五日主海报",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 368194,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%82%85%E8%AF%97%E6%B7%87%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E4%B8%BB%E6%B5%B7%E6%8A%A5"
+      },
+      "raw_titles": [
+        "傅诗淇两京十五日主海报"
+      ],
+      "rank": 9,
+      "movie_rank": 4
     },
     {
       "title": "韩网热议海外韩剧粉爬墙中剧",
@@ -852,15 +916,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 425651,
+      "hot_value": 306006,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE%E6%B5%B7%E5%A4%96%E9%9F%A9%E5%89%A7%E7%B2%89%E7%88%AC%E5%A2%99%E4%B8%AD%E5%89%A7"
       },
       "raw_titles": [
         "韩网热议海外韩剧粉爬墙中剧"
       ],
-      "rank": 8,
-      "movie_rank": 4
+      "rank": 10,
+      "movie_rank": 5
     },
     {
       "title": "GTA6获TGA八项提名",
@@ -868,47 +932,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 381388,
+      "hot_value": 294030,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=GTA6%E8%8E%B7TGA%E5%85%AB%E9%A1%B9%E6%8F%90%E5%90%8D"
       },
       "raw_titles": [
         "GTA6获TGA八项提名"
       ],
-      "rank": 10,
-      "movie_rank": 5
-    },
-    {
-      "title": "Chovy获TGA最佳电竞选手提名",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 335278,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=Chovy%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E6%8F%90%E5%90%8D"
-      },
-      "raw_titles": [
-        "Chovy获TGA最佳电竞选手提名"
-      ],
-      "rank": 11,
-      "movie_rank": 6
-    },
-    {
-      "title": "非凡之爱蜘蛛侠真人版",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 327532,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E4%BA%BA%E7%89%88"
-      },
-      "raw_titles": [
-        "非凡之爱蜘蛛侠真人版"
-      ],
       "rank": 12,
-      "movie_rank": 7
+      "movie_rank": 6
     },
     {
       "title": "电影挽救计划为何口碑票房双爆",
@@ -916,7 +948,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 327527,
+      "hot_value": 293787,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92%E4%B8%BA%E4%BD%95%E5%8F%A3%E7%A2%91%E7%A5%A8%E6%88%BF%E5%8F%8C%E7%88%86"
       },
@@ -924,6 +956,22 @@
         "电影挽救计划为何口碑票房双爆"
       ],
       "rank": 13,
+      "movie_rank": 7
+    },
+    {
+      "title": "非凡之爱蜘蛛侠真人版",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 287016,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E4%BA%BA%E7%89%88"
+      },
+      "raw_titles": [
+        "非凡之爱蜘蛛侠真人版"
+      ],
+      "rank": 15,
       "movie_rank": 8
     },
     {
@@ -932,47 +980,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 327517,
+      "hot_value": 287007,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%85%A5%E5%9B%B4TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F"
       },
       "raw_titles": [
         "影之刃零入围TGA年度游戏"
       ],
-      "rank": 16,
-      "movie_rank": 9
-    },
-    {
-      "title": "网易山海奇旅二测定档PV",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 319654,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BD%91%E6%98%93%E5%B1%B1%E6%B5%B7%E5%A5%87%E6%97%85%E4%BA%8C%E6%B5%8B%E5%AE%9A%E6%A1%A3PV"
-      },
-      "raw_titles": [
-        "网易山海奇旅二测定档PV"
-      ],
       "rank": 19,
-      "movie_rank": 10
-    },
-    {
-      "title": "GTA6还没发售就提名大奖",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 279000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=GTA6%E8%BF%98%E6%B2%A1%E5%8F%91%E5%94%AE%E5%B0%B1%E6%8F%90%E5%90%8D%E5%A4%A7%E5%A5%96&sa=fyb_news"
-      },
-      "raw_titles": [
-        "GTA6还没发售就提名大奖"
-      ],
-      "rank": 21,
-      "movie_rank": 11
+      "movie_rank": 9
     },
     {
       "title": "别人看骑行我在吴磊小课堂听课",
@@ -980,15 +996,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 262531,
+      "hot_value": 280940,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%88%AB%E4%BA%BA%E7%9C%8B%E9%AA%91%E8%A1%8C%E6%88%91%E5%9C%A8%E5%90%B4%E7%A3%8A%E5%B0%8F%E8%AF%BE%E5%A0%82%E5%90%AC%E8%AF%BE"
       },
       "raw_titles": [
         "别人看骑行我在吴磊小课堂听课"
       ],
-      "rank": 23,
-      "movie_rank": 12
+      "rank": 21,
+      "movie_rank": 10
+    },
+    {
+      "title": "Chovy获TGA最佳电竞选手提名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 217413,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=Chovy%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E6%8F%90%E5%90%8D"
+      },
+      "raw_titles": [
+        "Chovy获TGA最佳电竞选手提名"
+      ],
+      "rank": 24,
+      "movie_rank": 11
     },
     {
       "title": "段林希当年爆冷击败刘忻洪辰夺冠",
@@ -996,15 +1028,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 251057,
+      "hot_value": 194323,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%AE%B5%E6%9E%97%E5%B8%8C%E5%BD%93%E5%B9%B4%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E5%88%98%E5%BF%BB%E6%B4%AA%E8%BE%B0%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "段林希当年爆冷击败刘忻洪辰夺冠"
       ],
-      "rank": 24,
-      "sports_rank": 12,
+      "rank": 27,
+      "sports_rank": 16,
+      "movie_rank": 12
+    },
+    {
+      "title": "GEN获TGA最佳战队提名",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 139705,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=GEN%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E6%88%98%E9%98%9F%E6%8F%90%E5%90%8D"
+      },
+      "raw_titles": [
+        "GEN获TGA最佳战队提名"
+      ],
+      "rank": 29,
       "movie_rank": 13
     },
     {
@@ -1013,79 +1061,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 209089,
+      "hot_value": 136518,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E8%BF%99%E6%AE%B5%E8%AF%9D%E7%BC%93%E8%A7%A3%E4%BA%86%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%84%A6%E8%99%91"
       },
       "raw_titles": [
         "赵本山这段话缓解了我的工作焦虑"
       ],
-      "rank": 27,
+      "rank": 30,
       "movie_rank": 14
     },
     {
-      "title": "对比影版和原著哈利战力差距",
+      "title": "GTA6还没发售就提名大奖",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 187986,
+      "hot_value": 81000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%BD%B1%E7%89%88%E5%92%8C%E5%8E%9F%E8%91%97%E5%93%88%E5%88%A9%E6%88%98%E5%8A%9B%E5%B7%AE%E8%B7%9D"
+        "百度": "https://m.baidu.com/s?word=GTA6%E8%BF%98%E6%B2%A1%E5%8F%91%E5%94%AE%E5%B0%B1%E6%8F%90%E5%90%8D%E5%A4%A7%E5%A5%96&sa=fyb_news"
       },
       "raw_titles": [
-        "对比影版和原著哈利战力差距"
-      ],
-      "rank": 29,
-      "movie_rank": 15
-    },
-    {
-      "title": "综艺好好生活",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 175138,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E7%BB%BC%E8%89%BA%E5%A5%BD%E5%A5%BD%E7%94%9F%E6%B4%BB"
-      },
-      "raw_titles": [
-        "综艺好好生活"
-      ],
-      "rank": 31,
-      "movie_rank": 16
-    },
-    {
-      "title": "赵本山慌啥子嘛接住一代人焦虑",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 174718,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%8E%A5%E4%BD%8F%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%84%A6%E8%99%91"
-      },
-      "raw_titles": [
-        "赵本山慌啥子嘛接住一代人焦虑"
-      ],
-      "rank": 32,
-      "movie_rank": 17
-    },
-    {
-      "title": "声生不息阵容 好评不少",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 123549,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E9%98%B5%E5%AE%B9%20%E5%A5%BD%E8%AF%84%E4%B8%8D%E5%B0%91"
-      },
-      "raw_titles": [
-        "声生不息阵容 好评不少"
+        "GTA6还没发售就提名大奖"
       ],
       "rank": 33,
-      "movie_rank": 18
+      "movie_rank": 15
     }
   ]
 }
