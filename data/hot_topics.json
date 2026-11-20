@@ -1,72 +1,58 @@
 {
-  "update_time": "2026-11-20 14:00:53",
+  "update_time": "2026-11-20 15:00:52",
   "total": 14,
   "sports_count": 8,
   "movie_count": 6,
   "all": [
+    {
+      "title": "天津羊肉雪梨饺子太鲜了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7730963,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%A4%A9%E6%B4%A5%E7%BE%8A%E8%82%89%E9%9B%AA%E6%A2%A8%E9%A5%BA%E5%AD%90%E5%A4%AA%E9%B2%9C%E4%BA%86"
+      },
+      "raw_titles": [
+        "天津羊肉雪梨饺子太鲜了"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "朱雀三号回收火箭传来好消息",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 999565,
+      "hot_value": 1049894,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E4%BC%A0%E6%9D%A5%E5%A5%BD%E6%B6%88%E6%81%AF"
       },
       "raw_titles": [
         "朱雀三号回收火箭传来好消息"
       ],
-      "rank": 1,
+      "rank": 2,
       "sports_rank": 1
     },
     {
       "title": "文班亚马跳投式扣篮",
       "category": "体育",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 801893,
+      "hot_value": 765281,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E8%B7%B3%E6%8A%95%E5%BC%8F%E6%89%A3%E7%AF%AE"
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E8%B7%B3%E6%8A%95%E5%BC%8F%E6%89%A3%E7%AF%AE",
+        "百度": "https://m.baidu.com/s?word=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E8%B7%B3%E6%8A%95%E5%BC%8F%E6%89%A3%E7%AF%AE&sa=fyb_news"
       },
       "raw_titles": [
         "文班亚马跳投式扣篮"
       ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
-      "title": "杨瀚森对阵雄鹿首节登场",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 755321,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AF%B9%E9%98%B5%E9%9B%84%E9%B9%BF%E9%A6%96%E8%8A%82%E7%99%BB%E5%9C%BA"
-      },
-      "raw_titles": [
-        "杨瀚森对阵雄鹿首节登场"
-      ],
       "rank": 3,
-      "sports_rank": 3
-    },
-    {
-      "title": "青稚为了白小纯梭哈总决赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 618027,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%B8%BA%E4%BA%86%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%A2%AD%E5%93%88%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "青稚为了白小纯梭哈总决赛"
-      ],
-      "rank": 4,
-      "sports_rank": 4
+      "sports_rank": 2
     },
     {
       "title": "万字速通谷雨大结局",
@@ -74,15 +60,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 540204,
+      "hot_value": 584785,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E9%80%9F%E9%80%9A%E8%B0%B7%E9%9B%A8%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "万字速通谷雨大结局"
       ],
-      "rank": 5,
-      "movie_rank": 1
+      "rank": 4,
+      "movie_rank": 2
     },
     {
       "title": "哈利波特魔法觉醒为何停服",
@@ -90,15 +76,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 535732,
+      "hot_value": 576532,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E4%B8%BA%E4%BD%95%E5%81%9C%E6%9C%8D"
       },
       "raw_titles": [
         "哈利波特魔法觉醒为何停服"
       ],
+      "rank": 5,
+      "movie_rank": 3
+    },
+    {
+      "title": "NBA球星文班亚马遭按帽",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 470529,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E7%90%83%E6%98%9F%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E9%81%AD%E6%8C%89%E5%B8%BD"
+      },
+      "raw_titles": [
+        "NBA球星文班亚马遭按帽"
+      ],
       "rank": 6,
-      "movie_rank": 2
+      "sports_rank": 3
+    },
+    {
+      "title": "假如我爱我家续集故事在2026",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 457043,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E6%88%91%E7%88%B1%E6%88%91%E5%AE%B6%E7%BB%AD%E9%9B%86%E6%95%85%E4%BA%8B%E5%9C%A82026"
+      },
+      "raw_titles": [
+        "假如我爱我家续集故事在2026"
+      ],
+      "rank": 7,
+      "movie_rank": 4
     },
     {
       "title": "Deft复出再度并肩Scout",
@@ -106,14 +124,46 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 524652,
+      "hot_value": 449251,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=Deft%E5%A4%8D%E5%87%BA%E5%86%8D%E5%BA%A6%E5%B9%B6%E8%82%A9Scout"
       },
       "raw_titles": [
         "Deft复出再度并肩Scout"
       ],
-      "rank": 7,
+      "rank": 8,
+      "sports_rank": 4
+    },
+    {
+      "title": "喜人奇妙夜3",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 426906,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C3"
+      },
+      "raw_titles": [
+        "喜人奇妙夜3"
+      ],
+      "rank": 9,
+      "movie_rank": 5
+    },
+    {
+      "title": "青稚为了白小纯梭哈总决赛",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 385427,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%B8%BA%E4%BA%86%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%A2%AD%E5%93%88%E6%80%BB%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "青稚为了白小纯梭哈总决赛"
+      ],
+      "rank": 10,
       "sports_rank": 5
     },
     {
@@ -122,95 +172,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 459419,
+      "hot_value": 378995,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%A8%E6%9C%80%E6%9C%89%E6%A2%97%E7%9A%84%E5%89%AA%E8%BE%91%E5%9B%9E%E9%A1%BEBLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "用最有梗的剪辑回顾BLG夺冠"
       ],
-      "rank": 8,
-      "sports_rank": 6
-    },
-    {
-      "title": "假如我爱我家续集故事在2026",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 431858,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E6%88%91%E7%88%B1%E6%88%91%E5%AE%B6%E7%BB%AD%E9%9B%86%E6%95%85%E4%BA%8B%E5%9C%A82026"
-      },
-      "raw_titles": [
-        "假如我爱我家续集故事在2026"
-      ],
-      "rank": 9,
-      "movie_rank": 3
-    },
-    {
-      "title": "哈利波特与死亡火器",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 429700,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%8E%E6%AD%BB%E4%BA%A1%E7%81%AB%E5%99%A8"
-      },
-      "raw_titles": [
-        "哈利波特与死亡火器"
-      ],
-      "rank": 10,
-      "movie_rank": 4
-    },
-    {
-      "title": "喜人奇妙夜3",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 357585,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C3"
-      },
-      "raw_titles": [
-        "喜人奇妙夜3"
-      ],
       "rank": 11,
-      "movie_rank": 5
-    },
-    {
-      "title": "张本美和也想打出孙颖莎那样的球",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 194871,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E4%B9%9F%E6%83%B3%E6%89%93%E5%87%BA%E5%AD%99%E9%A2%96%E8%8E%8E%E9%82%A3%E6%A0%B7%E7%9A%84%E7%90%83"
-      },
-      "raw_titles": [
-        "张本美和也想打出孙颖莎那样的球"
-      ],
-      "rank": 12,
-      "sports_rank": 7
-    },
-    {
-      "title": "刘耀文听到上歌手的反应",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 193973,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%90%AC%E5%88%B0%E4%B8%8A%E6%AD%8C%E6%89%8B%E7%9A%84%E5%8F%8D%E5%BA%94"
-      },
-      "raw_titles": [
-        "刘耀文听到上歌手的反应"
-      ],
-      "rank": 13,
-      "movie_rank": 6
+      "sports_rank": 6
     },
     {
       "title": "《GTA6》一天营收超皇马一年",
@@ -218,15 +188,47 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 117000,
+      "hot_value": 342000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8AGTA6%E3%80%8B%E4%B8%80%E5%A4%A9%E8%90%A5%E6%94%B6%E8%B6%85%E7%9A%87%E9%A9%AC%E4%B8%80%E5%B9%B4&sa=fyb_news"
       },
       "raw_titles": [
         "《GTA6》一天营收超皇马一年"
       ],
-      "rank": 14,
+      "rank": 12,
+      "sports_rank": 7
+    },
+    {
+      "title": "文班亚马说扣篮多了起水泡太疼了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 157581,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E8%AF%B4%E6%89%A3%E7%AF%AE%E5%A4%9A%E4%BA%86%E8%B5%B7%E6%B0%B4%E6%B3%A1%E5%A4%AA%E7%96%BC%E4%BA%86"
+      },
+      "raw_titles": [
+        "文班亚马说扣篮多了起水泡太疼了"
+      ],
+      "rank": 13,
       "sports_rank": 8
+    },
+    {
+      "title": "深圳一城繁花定格美好瞬间",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 36000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9F%8E%E7%B9%81%E8%8A%B1%E5%AE%9A%E6%A0%BC%E7%BE%8E%E5%A5%BD%E7%9E%AC%E9%97%B4&sa=fyb_news"
+      },
+      "raw_titles": [
+        "深圳一城繁花定格美好瞬间"
+      ],
+      "rank": 14,
+      "movie_rank": 6
     }
   ],
   "sports": [
@@ -236,63 +238,49 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 999565,
+      "hot_value": 1049894,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E4%BC%A0%E6%9D%A5%E5%A5%BD%E6%B6%88%E6%81%AF"
       },
       "raw_titles": [
         "朱雀三号回收火箭传来好消息"
       ],
-      "rank": 1,
+      "rank": 2,
       "sports_rank": 1
     },
     {
       "title": "文班亚马跳投式扣篮",
       "category": "体育",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 801893,
+      "hot_value": 765281,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E8%B7%B3%E6%8A%95%E5%BC%8F%E6%89%A3%E7%AF%AE"
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E8%B7%B3%E6%8A%95%E5%BC%8F%E6%89%A3%E7%AF%AE",
+        "百度": "https://m.baidu.com/s?word=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E8%B7%B3%E6%8A%95%E5%BC%8F%E6%89%A3%E7%AF%AE&sa=fyb_news"
       },
       "raw_titles": [
         "文班亚马跳投式扣篮"
       ],
-      "rank": 2,
+      "rank": 3,
       "sports_rank": 2
     },
     {
-      "title": "杨瀚森对阵雄鹿首节登场",
+      "title": "NBA球星文班亚马遭按帽",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 755321,
+      "hot_value": 470529,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AF%B9%E9%98%B5%E9%9B%84%E9%B9%BF%E9%A6%96%E8%8A%82%E7%99%BB%E5%9C%BA"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E7%90%83%E6%98%9F%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E9%81%AD%E6%8C%89%E5%B8%BD"
       },
       "raw_titles": [
-        "杨瀚森对阵雄鹿首节登场"
+        "NBA球星文班亚马遭按帽"
       ],
-      "rank": 3,
+      "rank": 6,
       "sports_rank": 3
-    },
-    {
-      "title": "青稚为了白小纯梭哈总决赛",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 618027,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%B8%BA%E4%BA%86%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%A2%AD%E5%93%88%E6%80%BB%E5%86%B3%E8%B5%9B"
-      },
-      "raw_titles": [
-        "青稚为了白小纯梭哈总决赛"
-      ],
-      "rank": 4,
-      "sports_rank": 4
     },
     {
       "title": "Deft复出再度并肩Scout",
@@ -300,14 +288,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 524652,
+      "hot_value": 449251,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=Deft%E5%A4%8D%E5%87%BA%E5%86%8D%E5%BA%A6%E5%B9%B6%E8%82%A9Scout"
       },
       "raw_titles": [
         "Deft复出再度并肩Scout"
       ],
-      "rank": 7,
+      "rank": 8,
+      "sports_rank": 4
+    },
+    {
+      "title": "青稚为了白小纯梭哈总决赛",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 385427,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%B8%BA%E4%BA%86%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%A2%AD%E5%93%88%E6%80%BB%E5%86%B3%E8%B5%9B"
+      },
+      "raw_titles": [
+        "青稚为了白小纯梭哈总决赛"
+      ],
+      "rank": 10,
       "sports_rank": 5
     },
     {
@@ -316,31 +320,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 459419,
+      "hot_value": 378995,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%94%A8%E6%9C%80%E6%9C%89%E6%A2%97%E7%9A%84%E5%89%AA%E8%BE%91%E5%9B%9E%E9%A1%BEBLG%E5%A4%BA%E5%86%A0"
       },
       "raw_titles": [
         "用最有梗的剪辑回顾BLG夺冠"
       ],
-      "rank": 8,
+      "rank": 11,
       "sports_rank": 6
-    },
-    {
-      "title": "张本美和也想打出孙颖莎那样的球",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 194871,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E4%B9%9F%E6%83%B3%E6%89%93%E5%87%BA%E5%AD%99%E9%A2%96%E8%8E%8E%E9%82%A3%E6%A0%B7%E7%9A%84%E7%90%83"
-      },
-      "raw_titles": [
-        "张本美和也想打出孙颖莎那样的球"
-      ],
-      "rank": 12,
-      "sports_rank": 7
     },
     {
       "title": "《GTA6》一天营收超皇马一年",
@@ -348,33 +336,65 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 117000,
+      "hot_value": 342000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E3%80%8AGTA6%E3%80%8B%E4%B8%80%E5%A4%A9%E8%90%A5%E6%94%B6%E8%B6%85%E7%9A%87%E9%A9%AC%E4%B8%80%E5%B9%B4&sa=fyb_news"
       },
       "raw_titles": [
         "《GTA6》一天营收超皇马一年"
       ],
-      "rank": 14,
+      "rank": 12,
+      "sports_rank": 7
+    },
+    {
+      "title": "文班亚马说扣篮多了起水泡太疼了",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 157581,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E8%AF%B4%E6%89%A3%E7%AF%AE%E5%A4%9A%E4%BA%86%E8%B5%B7%E6%B0%B4%E6%B3%A1%E5%A4%AA%E7%96%BC%E4%BA%86"
+      },
+      "raw_titles": [
+        "文班亚马说扣篮多了起水泡太疼了"
+      ],
+      "rank": 13,
       "sports_rank": 8
     }
   ],
   "movies": [
+    {
+      "title": "天津羊肉雪梨饺子太鲜了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7730963,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%A4%A9%E6%B4%A5%E7%BE%8A%E8%82%89%E9%9B%AA%E6%A2%A8%E9%A5%BA%E5%AD%90%E5%A4%AA%E9%B2%9C%E4%BA%86"
+      },
+      "raw_titles": [
+        "天津羊肉雪梨饺子太鲜了"
+      ],
+      "rank": 1,
+      "movie_rank": 1
+    },
     {
       "title": "万字速通谷雨大结局",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 540204,
+      "hot_value": 584785,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E9%80%9F%E9%80%9A%E8%B0%B7%E9%9B%A8%E5%A4%A7%E7%BB%93%E5%B1%80"
       },
       "raw_titles": [
         "万字速通谷雨大结局"
       ],
-      "rank": 5,
-      "movie_rank": 1
+      "rank": 4,
+      "movie_rank": 2
     },
     {
       "title": "哈利波特魔法觉醒为何停服",
@@ -382,15 +402,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 535732,
+      "hot_value": 576532,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E4%B8%BA%E4%BD%95%E5%81%9C%E6%9C%8D"
       },
       "raw_titles": [
         "哈利波特魔法觉醒为何停服"
       ],
-      "rank": 6,
-      "movie_rank": 2
+      "rank": 5,
+      "movie_rank": 3
     },
     {
       "title": "假如我爱我家续集故事在2026",
@@ -398,30 +418,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 431858,
+      "hot_value": 457043,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E6%88%91%E7%88%B1%E6%88%91%E5%AE%B6%E7%BB%AD%E9%9B%86%E6%95%85%E4%BA%8B%E5%9C%A82026"
       },
       "raw_titles": [
         "假如我爱我家续集故事在2026"
       ],
-      "rank": 9,
-      "movie_rank": 3
-    },
-    {
-      "title": "哈利波特与死亡火器",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 429700,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%8E%E6%AD%BB%E4%BA%A1%E7%81%AB%E5%99%A8"
-      },
-      "raw_titles": [
-        "哈利波特与死亡火器"
-      ],
-      "rank": 10,
+      "rank": 7,
       "movie_rank": 4
     },
     {
@@ -430,30 +434,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 357585,
+      "hot_value": 426906,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C3"
       },
       "raw_titles": [
         "喜人奇妙夜3"
       ],
-      "rank": 11,
+      "rank": 9,
       "movie_rank": 5
     },
     {
-      "title": "刘耀文听到上歌手的反应",
+      "title": "深圳一城繁花定格美好瞬间",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 193973,
+      "hot_value": 36000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%90%AC%E5%88%B0%E4%B8%8A%E6%AD%8C%E6%89%8B%E7%9A%84%E5%8F%8D%E5%BA%94"
+        "百度": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9F%8E%E7%B9%81%E8%8A%B1%E5%AE%9A%E6%A0%BC%E7%BE%8E%E5%A5%BD%E7%9E%AC%E9%97%B4&sa=fyb_news"
       },
       "raw_titles": [
-        "刘耀文听到上歌手的反应"
+        "深圳一城繁花定格美好瞬间"
       ],
-      "rank": 13,
+      "rank": 14,
       "movie_rank": 6
     }
   ]
