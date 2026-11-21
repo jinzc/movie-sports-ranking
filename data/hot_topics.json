@@ -1,56 +1,42 @@
 {
-  "update_time": "2026-11-21 11:00:54",
-  "total": 19,
-  "sports_count": 10,
-  "movie_count": 9,
+  "update_time": "2026-11-21 12:01:03",
+  "total": 18,
+  "sports_count": 12,
+  "movie_count": 6,
   "all": [
+    {
+      "title": "哈登51分",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 9597274,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E7%99%BB51%E5%88%86",
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E7%99%BB51%E5%88%86%E5%8A%A9%E9%AA%91%E5%A3%AB%E5%87%BB%E8%B4%A5%E6%AD%A5%E8%A1%8C%E8%80%85"
+      },
+      "raw_titles": [
+        "哈登51分"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
     {
       "title": "方博将参加德国乒乓球甲级联赛",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8002546,
+      "hot_value": 9104916,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%96%B9%E5%8D%9A%E5%B0%86%E5%8F%82%E5%8A%A0%E5%BE%B7%E5%9B%BD%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B2%E7%BA%A7%E8%81%94%E8%B5%9B"
       },
       "raw_titles": [
         "方博将参加德国乒乓球甲级联赛"
       ],
-      "rank": 1,
-      "sports_rank": 1
-    },
-    {
-      "title": "ENHYPEN就这样庆祝MAMA获奖",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7864090,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/ENHYPEN%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%BA%86%E7%A5%9DMAMA%E8%8E%B7%E5%A5%96"
-      },
-      "raw_titles": [
-        "ENHYPEN就这样庆祝MAMA获奖"
-      ],
       "rank": 2,
-      "movie_rank": 1
-    },
-    {
-      "title": "成毅新剧太子爆改成乞丐",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7810814,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E5%A4%AA%E5%AD%90%E7%88%86%E6%94%B9%E6%88%90%E4%B9%9E%E4%B8%90"
-      },
-      "raw_titles": [
-        "成毅新剧太子爆改成乞丐"
-      ],
-      "rank": 3,
-      "movie_rank": 2
+      "sports_rank": 2
     },
     {
       "title": "薛之谦污点证人太好听了",
@@ -58,14 +44,62 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7783961,
+      "hot_value": 8013434,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B1%A1%E7%82%B9%E8%AF%81%E4%BA%BA%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86"
       },
       "raw_titles": [
         "薛之谦污点证人太好听了"
       ],
+      "rank": 3,
+      "movie_rank": 1
+    },
+    {
+      "title": "董路U17世界杯赛后点评与分析",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7832582,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%91%A3%E8%B7%AFU17%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E5%90%8E%E7%82%B9%E8%AF%84%E4%B8%8E%E5%88%86%E6%9E%90"
+      },
+      "raw_titles": [
+        "董路U17世界杯赛后点评与分析"
+      ],
       "rank": 4,
+      "sports_rank": 3
+    },
+    {
+      "title": "ENHYPEN就这样庆祝MAMA获奖",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7772749,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/ENHYPEN%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%BA%86%E7%A5%9DMAMA%E8%8E%B7%E5%A5%96"
+      },
+      "raw_titles": [
+        "ENHYPEN就这样庆祝MAMA获奖"
+      ],
+      "rank": 5,
+      "movie_rank": 2
+    },
+    {
+      "title": "成毅新剧太子爆改成乞丐",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7764242,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E5%A4%AA%E5%AD%90%E7%88%86%E6%94%B9%E6%88%90%E4%B9%9E%E4%B8%90"
+      },
+      "raw_titles": [
+        "成毅新剧太子爆改成乞丐"
+      ],
+      "rank": 6,
       "movie_rank": 3
     },
     {
@@ -74,14 +108,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7763978,
+      "hot_value": 7748187,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E6%97%B6%E9%A6%96%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "声生不息天涯共此时首期舞台"
       ],
-      "rank": 5,
+      "rank": 7,
       "movie_rank": 4
     },
     {
@@ -90,31 +124,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7740802,
+      "hot_value": 7721275,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%86%E5%A6%B9%E5%84%BF%E5%85%91%E7%8E%B0BLG%E5%A4%BA%E5%86%A0%E6%89%BF%E8%AF%BA"
       },
       "raw_titles": [
         "呆妹儿兑现BLG夺冠承诺"
       ],
-      "rank": 6,
-      "sports_rank": 2
+      "rank": 8,
+      "sports_rank": 4
     },
     {
-      "title": "沈腾获亚洲国际电影节最佳男主角",
-      "category": "影视",
+      "title": "哈登爆轰51分6板6助",
+      "category": "体育",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7729908,
+      "hot_value": 2741491,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E8%8E%B7%E4%BA%9A%E6%B4%B2%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E7%99%BB%E7%88%86%E8%BD%B051%E5%88%866%E6%9D%BF6%E5%8A%A9"
       },
       "raw_titles": [
-        "沈腾获亚洲国际电影节最佳男主角"
+        "哈登爆轰51分6板6助"
       ],
-      "rank": 7,
-      "movie_rank": 5
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "回看BLG夺冠有何伏笔",
@@ -122,31 +156,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1078460,
+      "hot_value": 990702,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E6%9C%89%E4%BD%95%E4%BC%8F%E7%AC%94"
       },
       "raw_titles": [
         "回看BLG夺冠有何伏笔"
       ],
-      "rank": 8,
-      "sports_rank": 3
+      "rank": 10,
+      "sports_rank": 6
     },
     {
-      "title": "高尔夫球场生意为何引争议",
+      "title": "张雪竞拍53号原味赛车",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 702298,
+      "hot_value": 830243,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E5%9C%BA%E7%94%9F%E6%84%8F%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E7%AB%9E%E6%8B%8D53%E5%8F%B7%E5%8E%9F%E5%91%B3%E8%B5%9B%E8%BD%A6"
       },
       "raw_titles": [
-        "高尔夫球场生意为何引争议"
+        "张雪竞拍53号原味赛车"
       ],
-      "rank": 9,
-      "sports_rank": 4
+      "rank": 11,
+      "sports_rank": 7
     },
     {
       "title": "塔克法尔能成为76人的文班吗",
@@ -154,31 +188,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 665505,
+      "hot_value": 585628,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A1%94%E5%85%8B%E6%B3%95%E5%B0%94%E8%83%BD%E6%88%90%E4%B8%BA76%E4%BA%BA%E7%9A%84%E6%96%87%E7%8F%AD%E5%90%97"
       },
       "raw_titles": [
         "塔克法尔能成为76人的文班吗"
       ],
-      "rank": 10,
-      "sports_rank": 5
-    },
-    {
-      "title": "BLG夺冠韩网为何普遍祝福",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 510111,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E9%9F%A9%E7%BD%91%E4%B8%BA%E4%BD%95%E6%99%AE%E9%81%8D%E7%A5%9D%E7%A6%8F"
-      },
-      "raw_titles": [
-        "BLG夺冠韩网为何普遍祝福"
-      ],
-      "rank": 11,
-      "sports_rank": 6
+      "rank": 12,
+      "sports_rank": 8
     },
     {
       "title": "金价银价大跳水",
@@ -193,8 +211,24 @@
       "raw_titles": [
         "金价银价大跳水"
       ],
-      "rank": 12,
-      "sports_rank": 7
+      "rank": 13,
+      "sports_rank": 9
+    },
+    {
+      "title": "哈登得分上50场次超科比",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 244248,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E7%99%BB%E5%BE%97%E5%88%86%E4%B8%8A50%E5%9C%BA%E6%AC%A1%E8%B6%85%E7%A7%91%E6%AF%94"
+      },
+      "raw_titles": [
+        "哈登得分上50场次超科比"
+      ],
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "王天辰郭晓婷开机",
@@ -202,47 +236,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 272824,
+      "hot_value": 154735,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%A4%A9%E8%BE%B0%E9%83%AD%E6%99%93%E5%A9%B7%E5%BC%80%E6%9C%BA"
       },
       "raw_titles": [
         "王天辰郭晓婷开机"
       ],
-      "rank": 13,
-      "movie_rank": 6
-    },
-    {
-      "title": "中国最大饺子店要上市了",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 252000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A5%BA%E5%AD%90%E5%BA%97%E8%A6%81%E4%B8%8A%E5%B8%82%E4%BA%86&sa=fyb_news"
-      },
-      "raw_titles": [
-        "中国最大饺子店要上市了"
-      ],
-      "rank": 14,
-      "movie_rank": 7
-    },
-    {
-      "title": "C罗第986球",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 198000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E7%AC%AC986%E7%90%83&sa=fyb_news"
-      },
-      "raw_titles": [
-        "C罗第986球"
-      ],
       "rank": 15,
-      "sports_rank": 8
+      "movie_rank": 5
     },
     {
       "title": "U17世界杯：国足0比5惨败西班牙",
@@ -258,73 +260,91 @@
         "U17世界杯：国足0比5惨败西班牙"
       ],
       "rank": 16,
-      "sports_rank": 9
+      "sports_rank": 11
     },
     {
-      "title": "刘宇宁这一段建议载入综艺史册",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 139042,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%99%E4%B8%80%E6%AE%B5%E5%BB%BA%E8%AE%AE%E8%BD%BD%E5%85%A5%E7%BB%BC%E8%89%BA%E5%8F%B2%E5%86%8C"
-      },
-      "raw_titles": [
-        "刘宇宁这一段建议载入综艺史册"
-      ],
-      "rank": 17,
-      "movie_rank": 8
-    },
-    {
-      "title": "聊到肖战张国强开启夸夸模式",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 135217,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%81%8A%E5%88%B0%E8%82%96%E6%88%98%E5%BC%A0%E5%9B%BD%E5%BC%BA%E5%BC%80%E5%90%AF%E5%A4%B8%E5%A4%B8%E6%A8%A1%E5%BC%8F"
-      },
-      "raw_titles": [
-        "聊到肖战张国强开启夸夸模式"
-      ],
-      "rank": 18,
-      "movie_rank": 9
-    },
-    {
-      "title": "U17国足0比5西班牙球迷反应两极",
+      "title": "C罗第986球",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 114266,
+      "hot_value": 108000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B30%E6%AF%945%E8%A5%BF%E7%8F%AD%E7%89%99%E7%90%83%E8%BF%B7%E5%8F%8D%E5%BA%94%E4%B8%A4%E6%9E%81"
+        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E7%AC%AC986%E7%90%83&sa=fyb_news"
       },
       "raw_titles": [
-        "U17国足0比5西班牙球迷反应两极"
+        "C罗第986球"
       ],
-      "rank": 19,
-      "sports_rank": 10
+      "rank": 17,
+      "sports_rank": 12
+    },
+    {
+      "title": "中国最大饺子店要上市了",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 54000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A5%BA%E5%AD%90%E5%BA%97%E8%A6%81%E4%B8%8A%E5%B8%82%E4%BA%86&sa=fyb_news"
+      },
+      "raw_titles": [
+        "中国最大饺子店要上市了"
+      ],
+      "rank": 18,
+      "movie_rank": 6
     }
   ],
   "sports": [
     {
+      "title": "哈登51分",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 9597274,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E7%99%BB51%E5%88%86",
+        "抖音": "https://www.douyin.com/search/%E5%93%88%E7%99%BB51%E5%88%86%E5%8A%A9%E9%AA%91%E5%A3%AB%E5%87%BB%E8%B4%A5%E6%AD%A5%E8%A1%8C%E8%80%85"
+      },
+      "raw_titles": [
+        "哈登51分"
+      ],
+      "rank": 1,
+      "sports_rank": 1
+    },
+    {
       "title": "方博将参加德国乒乓球甲级联赛",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8002546,
+      "hot_value": 9104916,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%96%B9%E5%8D%9A%E5%B0%86%E5%8F%82%E5%8A%A0%E5%BE%B7%E5%9B%BD%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B2%E7%BA%A7%E8%81%94%E8%B5%9B"
       },
       "raw_titles": [
         "方博将参加德国乒乓球甲级联赛"
       ],
-      "rank": 1,
-      "sports_rank": 1
+      "rank": 2,
+      "sports_rank": 2
+    },
+    {
+      "title": "董路U17世界杯赛后点评与分析",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7832582,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%91%A3%E8%B7%AFU17%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E5%90%8E%E7%82%B9%E8%AF%84%E4%B8%8E%E5%88%86%E6%9E%90"
+      },
+      "raw_titles": [
+        "董路U17世界杯赛后点评与分析"
+      ],
+      "rank": 4,
+      "sports_rank": 3
     },
     {
       "title": "呆妹儿兑现BLG夺冠承诺",
@@ -332,15 +352,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7740802,
+      "hot_value": 7721275,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%91%86%E5%A6%B9%E5%84%BF%E5%85%91%E7%8E%B0BLG%E5%A4%BA%E5%86%A0%E6%89%BF%E8%AF%BA"
       },
       "raw_titles": [
         "呆妹儿兑现BLG夺冠承诺"
       ],
-      "rank": 6,
-      "sports_rank": 2
+      "rank": 8,
+      "sports_rank": 4
+    },
+    {
+      "title": "哈登爆轰51分6板6助",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 2741491,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E7%99%BB%E7%88%86%E8%BD%B051%E5%88%866%E6%9D%BF6%E5%8A%A9"
+      },
+      "raw_titles": [
+        "哈登爆轰51分6板6助"
+      ],
+      "rank": 9,
+      "sports_rank": 5
     },
     {
       "title": "回看BLG夺冠有何伏笔",
@@ -348,31 +384,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1078460,
+      "hot_value": 990702,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E6%9C%89%E4%BD%95%E4%BC%8F%E7%AC%94"
       },
       "raw_titles": [
         "回看BLG夺冠有何伏笔"
       ],
-      "rank": 8,
-      "sports_rank": 3
+      "rank": 10,
+      "sports_rank": 6
     },
     {
-      "title": "高尔夫球场生意为何引争议",
+      "title": "张雪竞拍53号原味赛车",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 702298,
+      "hot_value": 830243,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E5%9C%BA%E7%94%9F%E6%84%8F%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E7%AB%9E%E6%8B%8D53%E5%8F%B7%E5%8E%9F%E5%91%B3%E8%B5%9B%E8%BD%A6"
       },
       "raw_titles": [
-        "高尔夫球场生意为何引争议"
+        "张雪竞拍53号原味赛车"
       ],
-      "rank": 9,
-      "sports_rank": 4
+      "rank": 11,
+      "sports_rank": 7
     },
     {
       "title": "塔克法尔能成为76人的文班吗",
@@ -380,31 +416,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 665505,
+      "hot_value": 585628,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%A1%94%E5%85%8B%E6%B3%95%E5%B0%94%E8%83%BD%E6%88%90%E4%B8%BA76%E4%BA%BA%E7%9A%84%E6%96%87%E7%8F%AD%E5%90%97"
       },
       "raw_titles": [
         "塔克法尔能成为76人的文班吗"
       ],
-      "rank": 10,
-      "sports_rank": 5
-    },
-    {
-      "title": "BLG夺冠韩网为何普遍祝福",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 510111,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E9%9F%A9%E7%BD%91%E4%B8%BA%E4%BD%95%E6%99%AE%E9%81%8D%E7%A5%9D%E7%A6%8F"
-      },
-      "raw_titles": [
-        "BLG夺冠韩网为何普遍祝福"
-      ],
-      "rank": 11,
-      "sports_rank": 6
+      "rank": 12,
+      "sports_rank": 8
     },
     {
       "title": "金价银价大跳水",
@@ -419,24 +439,24 @@
       "raw_titles": [
         "金价银价大跳水"
       ],
-      "rank": 12,
-      "sports_rank": 7
+      "rank": 13,
+      "sports_rank": 9
     },
     {
-      "title": "C罗第986球",
+      "title": "哈登得分上50场次超科比",
       "category": "体育",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 198000,
+      "hot_value": 244248,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E7%AC%AC986%E7%90%83&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E5%93%88%E7%99%BB%E5%BE%97%E5%88%86%E4%B8%8A50%E5%9C%BA%E6%AC%A1%E8%B6%85%E7%A7%91%E6%AF%94"
       },
       "raw_titles": [
-        "C罗第986球"
+        "哈登得分上50场次超科比"
       ],
-      "rank": 15,
-      "sports_rank": 8
+      "rank": 14,
+      "sports_rank": 10
     },
     {
       "title": "U17世界杯：国足0比5惨败西班牙",
@@ -452,41 +472,57 @@
         "U17世界杯：国足0比5惨败西班牙"
       ],
       "rank": 16,
-      "sports_rank": 9
+      "sports_rank": 11
     },
     {
-      "title": "U17国足0比5西班牙球迷反应两极",
+      "title": "C罗第986球",
       "category": "体育",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 114266,
+      "hot_value": 108000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B30%E6%AF%945%E8%A5%BF%E7%8F%AD%E7%89%99%E7%90%83%E8%BF%B7%E5%8F%8D%E5%BA%94%E4%B8%A4%E6%9E%81"
+        "百度": "https://m.baidu.com/s?word=C%E7%BD%97%E7%AC%AC986%E7%90%83&sa=fyb_news"
       },
       "raw_titles": [
-        "U17国足0比5西班牙球迷反应两极"
+        "C罗第986球"
       ],
-      "rank": 19,
-      "sports_rank": 10
+      "rank": 17,
+      "sports_rank": 12
     }
   ],
   "movies": [
+    {
+      "title": "薛之谦污点证人太好听了",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 8013434,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B1%A1%E7%82%B9%E8%AF%81%E4%BA%BA%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86"
+      },
+      "raw_titles": [
+        "薛之谦污点证人太好听了"
+      ],
+      "rank": 3,
+      "movie_rank": 1
+    },
     {
       "title": "ENHYPEN就这样庆祝MAMA获奖",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7864090,
+      "hot_value": 7772749,
       "urls": {
         "抖音": "https://www.douyin.com/search/ENHYPEN%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%BA%86%E7%A5%9DMAMA%E8%8E%B7%E5%A5%96"
       },
       "raw_titles": [
         "ENHYPEN就这样庆祝MAMA获奖"
       ],
-      "rank": 2,
-      "movie_rank": 1
+      "rank": 5,
+      "movie_rank": 2
     },
     {
       "title": "成毅新剧太子爆改成乞丐",
@@ -494,30 +530,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7810814,
+      "hot_value": 7764242,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E5%A4%AA%E5%AD%90%E7%88%86%E6%94%B9%E6%88%90%E4%B9%9E%E4%B8%90"
       },
       "raw_titles": [
         "成毅新剧太子爆改成乞丐"
       ],
-      "rank": 3,
-      "movie_rank": 2
-    },
-    {
-      "title": "薛之谦污点证人太好听了",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7783961,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B1%A1%E7%82%B9%E8%AF%81%E4%BA%BA%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86"
-      },
-      "raw_titles": [
-        "薛之谦污点证人太好听了"
-      ],
-      "rank": 4,
+      "rank": 6,
       "movie_rank": 3
     },
     {
@@ -526,31 +546,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7763978,
+      "hot_value": 7748187,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E6%97%B6%E9%A6%96%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "声生不息天涯共此时首期舞台"
       ],
-      "rank": 5,
-      "movie_rank": 4
-    },
-    {
-      "title": "沈腾获亚洲国际电影节最佳男主角",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7729908,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E8%8E%B7%E4%BA%9A%E6%B4%B2%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92"
-      },
-      "raw_titles": [
-        "沈腾获亚洲国际电影节最佳男主角"
-      ],
       "rank": 7,
-      "movie_rank": 5
+      "movie_rank": 4
     },
     {
       "title": "王天辰郭晓婷开机",
@@ -558,15 +562,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 272824,
+      "hot_value": 154735,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%A4%A9%E8%BE%B0%E9%83%AD%E6%99%93%E5%A9%B7%E5%BC%80%E6%9C%BA"
       },
       "raw_titles": [
         "王天辰郭晓婷开机"
       ],
-      "rank": 13,
-      "movie_rank": 6
+      "rank": 15,
+      "movie_rank": 5
     },
     {
       "title": "中国最大饺子店要上市了",
@@ -574,47 +578,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 252000,
+      "hot_value": 54000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A5%BA%E5%AD%90%E5%BA%97%E8%A6%81%E4%B8%8A%E5%B8%82%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
         "中国最大饺子店要上市了"
       ],
-      "rank": 14,
-      "movie_rank": 7
-    },
-    {
-      "title": "刘宇宁这一段建议载入综艺史册",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 139042,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%99%E4%B8%80%E6%AE%B5%E5%BB%BA%E8%AE%AE%E8%BD%BD%E5%85%A5%E7%BB%BC%E8%89%BA%E5%8F%B2%E5%86%8C"
-      },
-      "raw_titles": [
-        "刘宇宁这一段建议载入综艺史册"
-      ],
-      "rank": 17,
-      "movie_rank": 8
-    },
-    {
-      "title": "聊到肖战张国强开启夸夸模式",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 135217,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%81%8A%E5%88%B0%E8%82%96%E6%88%98%E5%BC%A0%E5%9B%BD%E5%BC%BA%E5%BC%80%E5%90%AF%E5%A4%B8%E5%A4%B8%E6%A8%A1%E5%BC%8F"
-      },
-      "raw_titles": [
-        "聊到肖战张国强开启夸夸模式"
-      ],
       "rank": 18,
-      "movie_rank": 9
+      "movie_rank": 6
     }
   ]
 }
