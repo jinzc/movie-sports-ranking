@@ -1,39 +1,25 @@
 {
-  "update_time": "2026-11-25 17:00:59",
-  "total": 19,
-  "sports_count": 7,
-  "movie_count": 12,
+  "update_time": "2026-11-25 18:00:52",
+  "total": 18,
+  "sports_count": 5,
+  "movie_count": 13,
   "all": [
-    {
-      "title": "欧冠曼城2:2那不勒斯",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9084738,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AC%A7%E5%86%A0%E6%9B%BC%E5%9F%8E2%3A2%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF"
-      },
-      "raw_titles": [
-        "欧冠曼城2:2那不勒斯"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "火影玩家的神临时刻",
       "category": "影视",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 8979669,
+      "hot_value": 9898296,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB"
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB"
       },
       "raw_titles": [
         "火影玩家的神临时刻"
       ],
-      "rank": 2,
+      "rank": 1,
       "movie_rank": 1
     },
     {
@@ -42,47 +28,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7731634,
+      "hot_value": 7720544,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A4%AA%E9%98%B3%E7%85%A7%E5%9C%A8%E6%88%91%E6%89%8B%E4%B8%8A%E5%A5%BD%E5%B9%B2%E5%87%80"
       },
       "raw_titles": [
         "太阳照在我手上好干净"
       ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
-      "title": "成毅这一局势在必得",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7695730,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E8%BF%99%E4%B8%80%E5%B1%80%E5%8A%BF%E5%9C%A8%E5%BF%85%E5%BE%97"
-      },
-      "raw_titles": [
-        "成毅这一局势在必得"
-      ],
-      "rank": 4,
-      "movie_rank": 2
-    },
-    {
-      "title": "电影马兰花开的声音暖心上映",
-      "category": "影视",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7638519,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E9%A9%AC%E5%85%B0%E8%8A%B1%E5%BC%80%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%9A%96%E5%BF%83%E4%B8%8A%E6%98%A0"
-      },
-      "raw_titles": [
-        "电影马兰花开的声音暖心上映"
-      ],
-      "rank": 5,
-      "movie_rank": 3
+      "rank": 2,
+      "sports_rank": 1
     },
     {
       "title": "管泽元对话BLG深扒夺冠幕后",
@@ -90,15 +44,47 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2187321,
+      "hot_value": 4612918,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E8%AF%9DBLG%E6%B7%B1%E6%89%92%E5%A4%BA%E5%86%A0%E5%B9%95%E5%90%8E"
       },
       "raw_titles": [
         "管泽元对话BLG深扒夺冠幕后"
       ],
-      "rank": 6,
-      "sports_rank": 3
+      "rank": 3,
+      "sports_rank": 2
+    },
+    {
+      "title": "AI制作终末地过场动画但求变心",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 852764,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%88%B6%E4%BD%9C%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E4%BD%86%E6%B1%82%E5%8F%98%E5%BF%83"
+      },
+      "raw_titles": [
+        "AI制作终末地过场动画但求变心"
+      ],
+      "rank": 4,
+      "movie_rank": 2
+    },
+    {
+      "title": "AI大肥鱼改编周深代表作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 852762,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
+      },
+      "raw_titles": [
+        "AI大肥鱼改编周深代表作"
+      ],
+      "rank": 5,
+      "movie_rank": 3
     },
     {
       "title": "日本动漫为何能让全球买单",
@@ -106,31 +92,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 522545,
+      "hot_value": 850893,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E4%B8%BA%E4%BD%95%E8%83%BD%E8%AE%A9%E5%85%A8%E7%90%83%E4%B9%B0%E5%8D%95"
       },
       "raw_titles": [
         "日本动漫为何能让全球买单"
       ],
-      "rank": 7,
+      "rank": 6,
       "movie_rank": 4
     },
     {
-      "title": "火影敌我忍者十一周年篇",
-      "category": "影视",
+      "title": "德布劳内重返曼城主场",
+      "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 506551,
+      "hot_value": 622160,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%95%8C%E6%88%91%E5%BF%8D%E8%80%85%E5%8D%81%E4%B8%80%E5%91%A8%E5%B9%B4%E7%AF%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%E9%87%8D%E8%BF%94%E6%9B%BC%E5%9F%8E%E4%B8%BB%E5%9C%BA"
       },
       "raw_titles": [
-        "火影敌我忍者十一周年篇"
+        "德布劳内重返曼城主场"
       ],
-      "rank": 8,
-      "movie_rank": 5
+      "rank": 7,
+      "sports_rank": 3
     },
     {
       "title": "雷霆本赛季伤病状况有多严重",
@@ -138,47 +124,63 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 376576,
+      "hot_value": 511930,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E9%9C%86%E6%9C%AC%E8%B5%9B%E5%AD%A3%E4%BC%A4%E7%97%85%E7%8A%B6%E5%86%B5%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D"
       },
       "raw_titles": [
         "雷霆本赛季伤病状况有多严重"
       ],
-      "rank": 9,
+      "rank": 8,
       "sports_rank": 4
     },
     {
-      "title": "S1mple队伍为何大比分落败",
-      "category": "体育",
+      "title": "火影敌我忍者十一周年篇",
+      "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 358638,
+      "hot_value": 400487,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S1mple%E9%98%9F%E4%BC%8D%E4%B8%BA%E4%BD%95%E5%A4%A7%E6%AF%94%E5%88%86%E8%90%BD%E8%B4%A5"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%95%8C%E6%88%91%E5%BF%8D%E8%80%85%E5%8D%81%E4%B8%80%E5%91%A8%E5%B9%B4%E7%AF%87"
       },
       "raw_titles": [
-        "S1mple队伍为何大比分落败"
+        "火影敌我忍者十一周年篇"
       ],
-      "rank": 10,
-      "sports_rank": 5
+      "rank": 9,
+      "movie_rank": 5
     },
     {
-      "title": "肖战参加小城良方研讨会路透",
+      "title": "《再见老板》要来了？网友疯狂提名",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 339661,
+      "hot_value": 387000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%82%E5%8A%A0%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%B7%AF%E9%80%8F"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E3%80%8B%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F%E7%BD%91%E5%8F%8B%E7%96%AF%E7%8B%82%E6%8F%90%E5%90%8D&sa=fyb_news"
       },
       "raw_titles": [
-        "肖战参加小城良方研讨会路透"
+        "《再见老板》要来了？网友疯狂提名"
+      ],
+      "rank": 10,
+      "movie_rank": 6
+    },
+    {
+      "title": "詹姆斯：背后说我坏话 当面找我握手",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 378000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%EF%BC%9A%E8%83%8C%E5%90%8E%E8%AF%B4%E6%88%91%E5%9D%8F%E8%AF%9D+%E5%BD%93%E9%9D%A2%E6%89%BE%E6%88%91%E6%8F%A1%E6%89%8B&sa=fyb_news"
+      },
+      "raw_titles": [
+        "詹姆斯：背后说我坏话 当面找我握手"
       ],
       "rank": 11,
-      "movie_rank": 6
+      "sports_rank": 5
     },
     {
       "title": "我开会遇到肖战就这样",
@@ -186,7 +188,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 332448,
+      "hot_value": 367634,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%88%91%E5%BC%80%E4%BC%9A%E9%81%87%E5%88%B0%E8%82%96%E6%88%98%E5%B0%B1%E8%BF%99%E6%A0%B7"
       },
@@ -197,153 +199,118 @@
       "movie_rank": 7
     },
     {
+      "title": "易烊千玺你把马甲脱了我也认识你",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 262809,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BD%A0%E6%8A%8A%E9%A9%AC%E7%94%B2%E8%84%B1%E4%BA%86%E6%88%91%E4%B9%9F%E8%AE%A4%E8%AF%86%E4%BD%A0"
+      },
+      "raw_titles": [
+        "易烊千玺你把马甲脱了我也认识你"
+      ],
+      "rank": 13,
+      "movie_rank": 8
+    },
+    {
+      "title": "容祖儿说知道肖战为什么红了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 262336,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AE%B9%E7%A5%96%E5%84%BF%E8%AF%B4%E7%9F%A5%E9%81%93%E8%82%96%E6%88%98%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BA%A2%E4%BA%86"
+      },
+      "raw_titles": [
+        "容祖儿说知道肖战为什么红了"
+      ],
+      "rank": 14,
+      "movie_rank": 9
+    },
+    {
+      "title": "林俊杰女友七七才24岁",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 248088,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E6%89%8D24%E5%B2%81"
+      },
+      "raw_titles": [
+        "林俊杰女友七七才24岁"
+      ],
+      "rank": 15,
+      "movie_rank": 10
+    },
+    {
       "title": "迪丽热巴“最佳红毯着装”",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 306000,
+      "hot_value": 189000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E2%80%9C%E6%9C%80%E4%BD%B3%E7%BA%A2%E6%AF%AF%E7%9D%80%E8%A3%85%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
         "迪丽热巴“最佳红毯着装”"
       ],
-      "rank": 13,
-      "movie_rank": 8
-    },
-    {
-      "title": "林俊杰女友七七才24岁",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "微博"
-      ],
-      "hot_value": 294340,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%BA%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E5%BA%86%E7%94%9F"
-      },
-      "raw_titles": [
-        "林俊杰女友七七才24岁"
-      ],
-      "rank": 14,
-      "movie_rank": 9
-    },
-    {
-      "title": "成毅回应两京十五日爆船戏体态争议",
-      "category": "影视",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 235705,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%88%86%E8%88%B9%E6%88%8F%E4%BD%93%E6%80%81%E4%BA%89%E8%AE%AE",
-        "百度": "https://m.baidu.com/s?word=%E6%88%90%E6%AF%85%E5%9B%9E%E5%BA%94%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E4%BD%93%E6%80%81%E4%BA%89%E8%AE%AE&sa=fyb_news"
-      },
-      "raw_titles": [
-        "成毅回应两京十五日爆船戏体态争议"
-      ],
-      "rank": 15,
-      "movie_rank": 10
-    },
-    {
-      "title": "杨紫这次上强度了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 161550,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%BF%99%E6%AC%A1%E4%B8%8A%E5%BC%BA%E5%BA%A6%E4%BA%86"
-      },
-      "raw_titles": [
-        "杨紫这次上强度了"
-      ],
       "rank": 16,
       "movie_rank": 11
     },
     {
-      "title": "刘亦菲VOGUE2026年度最佳着装",
+      "title": "成毅两京十五日反哺老剧",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 129201,
+      "hot_value": 149970,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2VOGUE2026%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%9D%80%E8%A3%85"
+        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%8D%E5%93%BA%E8%80%81%E5%89%A7"
       },
       "raw_titles": [
-        "刘亦菲VOGUE2026年度最佳着装"
+        "成毅两京十五日反哺老剧"
       ],
       "rank": 17,
       "movie_rank": 12
     },
     {
-      "title": "詹姆斯：背后说我坏话 当面找我握手",
-      "category": "体育",
+      "title": "成毅回应两京十五日爆船戏体态争议",
+      "category": "影视",
       "sources": [
-        "百度"
+        "微博"
       ],
-      "hot_value": 126000,
+      "hot_value": 140663,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%EF%BC%9A%E8%83%8C%E5%90%8E%E8%AF%B4%E6%88%91%E5%9D%8F%E8%AF%9D+%E5%BD%93%E9%9D%A2%E6%89%BE%E6%88%91%E6%8F%A1%E6%89%8B&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%88%86%E8%88%B9%E6%88%8F%E4%BD%93%E6%80%81%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
-        "詹姆斯：背后说我坏话 当面找我握手"
+        "成毅回应两京十五日爆船戏体态争议"
       ],
       "rank": 18,
-      "sports_rank": 6
-    },
-    {
-      "title": "“树坚强”前排看火箭发射",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E6%A0%91%E5%9D%9A%E5%BC%BA%E2%80%9D%E5%89%8D%E6%8E%92%E7%9C%8B%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84&sa=fyb_news"
-      },
-      "raw_titles": [
-        "“树坚强”前排看火箭发射"
-      ],
-      "rank": 19,
-      "sports_rank": 7
+      "movie_rank": 13
     }
   ],
   "sports": [
-    {
-      "title": "欧冠曼城2:2那不勒斯",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9084738,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AC%A7%E5%86%A0%E6%9B%BC%E5%9F%8E2%3A2%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF"
-      },
-      "raw_titles": [
-        "欧冠曼城2:2那不勒斯"
-      ],
-      "rank": 1,
-      "sports_rank": 1
-    },
     {
       "title": "太阳照在我手上好干净",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7731634,
+      "hot_value": 7720544,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A4%AA%E9%98%B3%E7%85%A7%E5%9C%A8%E6%88%91%E6%89%8B%E4%B8%8A%E5%A5%BD%E5%B9%B2%E5%87%80"
       },
       "raw_titles": [
         "太阳照在我手上好干净"
       ],
-      "rank": 3,
-      "sports_rank": 2
+      "rank": 2,
+      "sports_rank": 1
     },
     {
       "title": "管泽元对话BLG深扒夺冠幕后",
@@ -351,14 +318,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 2187321,
+      "hot_value": 4612918,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E8%AF%9DBLG%E6%B7%B1%E6%89%92%E5%A4%BA%E5%86%A0%E5%B9%95%E5%90%8E"
       },
       "raw_titles": [
         "管泽元对话BLG深扒夺冠幕后"
       ],
-      "rank": 6,
+      "rank": 3,
+      "sports_rank": 2
+    },
+    {
+      "title": "德布劳内重返曼城主场",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 622160,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%E9%87%8D%E8%BF%94%E6%9B%BC%E5%9F%8E%E4%B8%BB%E5%9C%BA"
+      },
+      "raw_titles": [
+        "德布劳内重返曼城主场"
+      ],
+      "rank": 7,
       "sports_rank": 3
     },
     {
@@ -367,31 +350,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 376576,
+      "hot_value": 511930,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E9%9C%86%E6%9C%AC%E8%B5%9B%E5%AD%A3%E4%BC%A4%E7%97%85%E7%8A%B6%E5%86%B5%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D"
       },
       "raw_titles": [
         "雷霆本赛季伤病状况有多严重"
       ],
-      "rank": 9,
+      "rank": 8,
       "sports_rank": 4
-    },
-    {
-      "title": "S1mple队伍为何大比分落败",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 358638,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=S1mple%E9%98%9F%E4%BC%8D%E4%B8%BA%E4%BD%95%E5%A4%A7%E6%AF%94%E5%88%86%E8%90%BD%E8%B4%A5"
-      },
-      "raw_titles": [
-        "S1mple队伍为何大比分落败"
-      ],
-      "rank": 10,
-      "sports_rank": 5
     },
     {
       "title": "詹姆斯：背后说我坏话 当面找我握手",
@@ -399,31 +366,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 126000,
+      "hot_value": 378000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%EF%BC%9A%E8%83%8C%E5%90%8E%E8%AF%B4%E6%88%91%E5%9D%8F%E8%AF%9D+%E5%BD%93%E9%9D%A2%E6%89%BE%E6%88%91%E6%8F%A1%E6%89%8B&sa=fyb_news"
       },
       "raw_titles": [
         "詹姆斯：背后说我坏话 当面找我握手"
       ],
-      "rank": 18,
-      "sports_rank": 6
-    },
-    {
-      "title": "“树坚强”前排看火箭发射",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E6%A0%91%E5%9D%9A%E5%BC%BA%E2%80%9D%E5%89%8D%E6%8E%92%E7%9C%8B%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84&sa=fyb_news"
-      },
-      "raw_titles": [
-        "“树坚强”前排看火箭发射"
-      ],
-      "rank": 19,
-      "sports_rank": 7
+      "rank": 11,
+      "sports_rank": 5
     }
   ],
   "movies": [
@@ -431,46 +382,48 @@
       "title": "火影玩家的神临时刻",
       "category": "影视",
       "sources": [
-        "抖音"
+        "抖音",
+        "哔哩哔哩"
       ],
-      "hot_value": 8979669,
+      "hot_value": 9898296,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB"
+        "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB",
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB"
       },
       "raw_titles": [
         "火影玩家的神临时刻"
       ],
-      "rank": 2,
+      "rank": 1,
       "movie_rank": 1
     },
     {
-      "title": "成毅这一局势在必得",
+      "title": "AI制作终末地过场动画但求变心",
       "category": "影视",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7695730,
+      "hot_value": 852764,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E8%BF%99%E4%B8%80%E5%B1%80%E5%8A%BF%E5%9C%A8%E5%BF%85%E5%BE%97"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%88%B6%E4%BD%9C%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E4%BD%86%E6%B1%82%E5%8F%98%E5%BF%83"
       },
       "raw_titles": [
-        "成毅这一局势在必得"
+        "AI制作终末地过场动画但求变心"
       ],
       "rank": 4,
       "movie_rank": 2
     },
     {
-      "title": "电影马兰花开的声音暖心上映",
+      "title": "AI大肥鱼改编周深代表作",
       "category": "影视",
       "sources": [
-        "抖音"
+        "哔哩哔哩"
       ],
-      "hot_value": 7638519,
+      "hot_value": 852762,
       "urls": {
-        "抖音": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E9%A9%AC%E5%85%B0%E8%8A%B1%E5%BC%80%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%9A%96%E5%BF%83%E4%B8%8A%E6%98%A0"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
       },
       "raw_titles": [
-        "电影马兰花开的声音暖心上映"
+        "AI大肥鱼改编周深代表作"
       ],
       "rank": 5,
       "movie_rank": 3
@@ -481,14 +434,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 522545,
+      "hot_value": 850893,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E4%B8%BA%E4%BD%95%E8%83%BD%E8%AE%A9%E5%85%A8%E7%90%83%E4%B9%B0%E5%8D%95"
       },
       "raw_titles": [
         "日本动漫为何能让全球买单"
       ],
-      "rank": 7,
+      "rank": 6,
       "movie_rank": 4
     },
     {
@@ -497,30 +450,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 506551,
+      "hot_value": 400487,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%95%8C%E6%88%91%E5%BF%8D%E8%80%85%E5%8D%81%E4%B8%80%E5%91%A8%E5%B9%B4%E7%AF%87"
       },
       "raw_titles": [
         "火影敌我忍者十一周年篇"
       ],
-      "rank": 8,
+      "rank": 9,
       "movie_rank": 5
     },
     {
-      "title": "肖战参加小城良方研讨会路透",
+      "title": "《再见老板》要来了？网友疯狂提名",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 339661,
+      "hot_value": 387000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%82%E5%8A%A0%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%B7%AF%E9%80%8F"
+        "百度": "https://m.baidu.com/s?word=%E3%80%8A%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E3%80%8B%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F%E7%BD%91%E5%8F%8B%E7%96%AF%E7%8B%82%E6%8F%90%E5%90%8D&sa=fyb_news"
       },
       "raw_titles": [
-        "肖战参加小城良方研讨会路透"
+        "《再见老板》要来了？网友疯狂提名"
       ],
-      "rank": 11,
+      "rank": 10,
       "movie_rank": 6
     },
     {
@@ -529,7 +482,7 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 332448,
+      "hot_value": 367634,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%88%91%E5%BC%80%E4%BC%9A%E9%81%87%E5%88%B0%E8%82%96%E6%88%98%E5%B0%B1%E8%BF%99%E6%A0%B7"
       },
@@ -540,87 +493,100 @@
       "movie_rank": 7
     },
     {
+      "title": "易烊千玺你把马甲脱了我也认识你",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 262809,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BD%A0%E6%8A%8A%E9%A9%AC%E7%94%B2%E8%84%B1%E4%BA%86%E6%88%91%E4%B9%9F%E8%AE%A4%E8%AF%86%E4%BD%A0"
+      },
+      "raw_titles": [
+        "易烊千玺你把马甲脱了我也认识你"
+      ],
+      "rank": 13,
+      "movie_rank": 8
+    },
+    {
+      "title": "容祖儿说知道肖战为什么红了",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 262336,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%AE%B9%E7%A5%96%E5%84%BF%E8%AF%B4%E7%9F%A5%E9%81%93%E8%82%96%E6%88%98%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BA%A2%E4%BA%86"
+      },
+      "raw_titles": [
+        "容祖儿说知道肖战为什么红了"
+      ],
+      "rank": 14,
+      "movie_rank": 9
+    },
+    {
+      "title": "林俊杰女友七七才24岁",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 248088,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E6%89%8D24%E5%B2%81"
+      },
+      "raw_titles": [
+        "林俊杰女友七七才24岁"
+      ],
+      "rank": 15,
+      "movie_rank": 10
+    },
+    {
       "title": "迪丽热巴“最佳红毯着装”",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 306000,
+      "hot_value": 189000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E2%80%9C%E6%9C%80%E4%BD%B3%E7%BA%A2%E6%AF%AF%E7%9D%80%E8%A3%85%E2%80%9D&sa=fyb_news"
       },
       "raw_titles": [
         "迪丽热巴“最佳红毯着装”"
       ],
-      "rank": 13,
-      "movie_rank": 8
+      "rank": 16,
+      "movie_rank": 11
     },
     {
-      "title": "林俊杰女友七七才24岁",
+      "title": "成毅两京十五日反哺老剧",
       "category": "影视",
       "sources": [
-        "微博",
         "微博"
       ],
-      "hot_value": 294340,
+      "hot_value": 149970,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%BA%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E5%BA%86%E7%94%9F"
+        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%8D%E5%93%BA%E8%80%81%E5%89%A7"
       },
       "raw_titles": [
-        "林俊杰女友七七才24岁"
+        "成毅两京十五日反哺老剧"
       ],
-      "rank": 14,
-      "movie_rank": 9
+      "rank": 17,
+      "movie_rank": 12
     },
     {
       "title": "成毅回应两京十五日爆船戏体态争议",
       "category": "影视",
       "sources": [
-        "微博",
-        "百度"
+        "微博"
       ],
-      "hot_value": 235705,
+      "hot_value": 140663,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%88%86%E8%88%B9%E6%88%8F%E4%BD%93%E6%80%81%E4%BA%89%E8%AE%AE",
-        "百度": "https://m.baidu.com/s?word=%E6%88%90%E6%AF%85%E5%9B%9E%E5%BA%94%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E4%BD%93%E6%80%81%E4%BA%89%E8%AE%AE&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%88%86%E8%88%B9%E6%88%8F%E4%BD%93%E6%80%81%E4%BA%89%E8%AE%AE"
       },
       "raw_titles": [
         "成毅回应两京十五日爆船戏体态争议"
       ],
-      "rank": 15,
-      "movie_rank": 10
-    },
-    {
-      "title": "杨紫这次上强度了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 161550,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%BF%99%E6%AC%A1%E4%B8%8A%E5%BC%BA%E5%BA%A6%E4%BA%86"
-      },
-      "raw_titles": [
-        "杨紫这次上强度了"
-      ],
-      "rank": 16,
-      "movie_rank": 11
-    },
-    {
-      "title": "刘亦菲VOGUE2026年度最佳着装",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 129201,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2VOGUE2026%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%9D%80%E8%A3%85"
-      },
-      "raw_titles": [
-        "刘亦菲VOGUE2026年度最佳着装"
-      ],
-      "rank": 17,
-      "movie_rank": 12
+      "rank": 18,
+      "movie_rank": 13
     }
   ]
 }
