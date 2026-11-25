@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-11-25 23:01:09",
-  "total": 24,
-  "sports_count": 8,
-  "movie_count": 16,
+  "update_time": "2026-11-26 01:00:59",
+  "total": 22,
+  "sports_count": 7,
+  "movie_count": 15,
   "all": [
     {
       "title": "火影玩家的神临时刻",
@@ -11,7 +11,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 9640352,
+      "hot_value": 9333584,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB"
@@ -23,35 +23,19 @@
       "movie_rank": 1
     },
     {
-      "title": "欧冠巴黎vs罗马",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9366066,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AC%A7%E5%86%A0%E5%B7%B4%E9%BB%8Evs%E7%BD%97%E9%A9%AC"
-      },
-      "raw_titles": [
-        "欧冠巴黎vs罗马"
-      ],
-      "rank": 2,
-      "sports_rank": 1
-    },
-    {
       "title": "成毅朱瞻基可以痛但不下跪",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 8521397,
+      "hot_value": 8031782,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E6%9C%B1%E7%9E%BB%E5%9F%BA%E5%8F%AF%E4%BB%A5%E7%97%9B%E4%BD%86%E4%B8%8D%E4%B8%8B%E8%B7%AA"
       },
       "raw_titles": [
         "成毅朱瞻基可以痛但不下跪"
       ],
-      "rank": 3,
+      "rank": 2,
       "movie_rank": 2
     },
     {
@@ -60,15 +44,15 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7792070,
+      "hot_value": 7764398,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A4%AA%E9%98%B3%E7%85%A7%E5%9C%A8%E6%88%91%E6%89%8B%E4%B8%8A%E5%A5%BD%E5%B9%B2%E5%87%80"
       },
       "raw_titles": [
         "太阳照在我手上好干净"
       ],
-      "rank": 4,
-      "sports_rank": 2
+      "rank": 3,
+      "sports_rank": 1
     },
     {
       "title": "火影侠隐兜招生办发力",
@@ -76,14 +60,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7736776,
+      "hot_value": 7731502,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E4%BE%A0%E9%9A%90%E5%85%9C%E6%8B%9B%E7%94%9F%E5%8A%9E%E5%8F%91%E5%8A%9B"
       },
       "raw_titles": [
         "火影侠隐兜招生办发力"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 3
     },
     {
@@ -92,15 +76,33 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 4971523,
+      "hot_value": 1360667,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%AF%BC%E6%BC%94%E9%9F%A6%E6%AD%A3%E6%9D%A5B%E7%AB%99%E4%BA%86"
       },
       "raw_titles": [
         "爱情公寓导演韦正来B站了"
       ],
-      "rank": 6,
+      "rank": 5,
       "movie_rank": 4
+    },
+    {
+      "title": "谷爱凌肩膀脱臼",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 603895,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC",
+        "百度": "https://m.baidu.com/s?word=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8F%97%E4%BC%A4%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC+%E6%9C%AC%E4%BA%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
+      },
+      "raw_titles": [
+        "谷爱凌肩膀脱臼"
+      ],
+      "rank": 6,
+      "sports_rank": 2
     },
     {
       "title": "NBA国王队新秀阿卡夫实力如何",
@@ -108,7 +110,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1774557,
+      "hot_value": 540688,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E5%9B%BD%E7%8E%8B%E9%98%9F%E6%96%B0%E7%A7%80%E9%98%BF%E5%8D%A1%E5%A4%AB%E5%AE%9E%E5%8A%9B%E5%A6%82%E4%BD%95"
       },
@@ -119,102 +121,20 @@
       "sports_rank": 3
     },
     {
-      "title": "谷爱凌肩膀脱臼",
-      "category": "体育",
+      "title": "驭见星野肖战x尚界风尚之约",
+      "category": "影视",
       "sources": [
-        "微博",
-        "百度"
+        "微博"
       ],
-      "hot_value": 919116,
+      "hot_value": 280739,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC",
-        "百度": "https://m.baidu.com/s?word=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8F%97%E4%BC%A4%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC+%E6%9C%AC%E4%BA%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
+        "微博": "https://s.weibo.com/weibo?q=%E9%A9%AD%E8%A7%81%E6%98%9F%E9%87%8E%E8%82%96%E6%88%98x%E5%B0%9A%E7%95%8C%E9%A3%8E%E5%B0%9A%E4%B9%8B%E7%BA%A6"
       },
       "raw_titles": [
-        "谷爱凌肩膀脱臼"
+        "驭见星野肖战x尚界风尚之约"
       ],
       "rank": 8,
-      "sports_rank": 4
-    },
-    {
-      "title": "全度妍三封青龙影后",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 522761,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%BA%A6%E5%A6%8D%E4%B8%89%E5%B0%81%E9%9D%92%E9%BE%99%E5%BD%B1%E5%90%8E"
-      },
-      "raw_titles": [
-        "全度妍三封青龙影后"
-      ],
-      "rank": 9,
       "movie_rank": 5
-    },
-    {
-      "title": "管泽元对话BLG深扒夺冠幕后",
-      "category": "体育",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 429982,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E8%AF%9DBLG%E6%B7%B1%E6%89%92%E5%A4%BA%E5%86%A0%E5%B9%95%E5%90%8E"
-      },
-      "raw_titles": [
-        "管泽元对话BLG深扒夺冠幕后"
-      ],
-      "rank": 10,
-      "sports_rank": 5
-    },
-    {
-      "title": "日本动漫为何能让全球买单",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 429976,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E4%B8%BA%E4%BD%95%E8%83%BD%E8%AE%A9%E5%85%A8%E7%90%83%E4%B9%B0%E5%8D%95"
-      },
-      "raw_titles": [
-        "日本动漫为何能让全球买单"
-      ],
-      "rank": 11,
-      "movie_rank": 6
-    },
-    {
-      "title": "AI大肥鱼改编周深代表作",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 429963,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
-      },
-      "raw_titles": [
-        "AI大肥鱼改编周深代表作"
-      ],
-      "rank": 12,
-      "movie_rank": 7
-    },
-    {
-      "title": "青稚看白小纯MVP结算画面的反应",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 307544,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%9C%8B%E7%99%BD%E5%B0%8F%E7%BA%AFMVP%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2%E7%9A%84%E5%8F%8D%E5%BA%94"
-      },
-      "raw_titles": [
-        "青稚看白小纯MVP结算画面的反应"
-      ],
-      "rank": 13,
-      "sports_rank": 6
     },
     {
       "title": "韩国电影青龙奖获奖名单",
@@ -229,8 +149,120 @@
       "raw_titles": [
         "韩国电影青龙奖获奖名单"
       ],
-      "rank": 14,
+      "rank": 9,
+      "movie_rank": 6
+    },
+    {
+      "title": "伊朗女歌手未戴头巾演出遭鞭刑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 217052,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%A5%B3%E6%AD%8C%E6%89%8B%E6%9C%AA%E6%88%B4%E5%A4%B4%E5%B7%BE%E6%BC%94%E5%87%BA%E9%81%AD%E9%9E%AD%E5%88%91"
+      },
+      "raw_titles": [
+        "伊朗女歌手未戴头巾演出遭鞭刑"
+      ],
+      "rank": 10,
+      "movie_rank": 7
+    },
+    {
+      "title": "全度妍三封青龙影后",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 216674,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%BA%A6%E5%A6%8D%E4%B8%89%E5%B0%81%E9%9D%92%E9%BE%99%E5%BD%B1%E5%90%8E"
+      },
+      "raw_titles": [
+        "全度妍三封青龙影后"
+      ],
+      "rank": 11,
       "movie_rank": 8
+    },
+    {
+      "title": "管泽元对话BLG深扒夺冠幕后",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 213755,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E8%AF%9DBLG%E6%B7%B1%E6%89%92%E5%A4%BA%E5%86%A0%E5%B9%95%E5%90%8E"
+      },
+      "raw_titles": [
+        "管泽元对话BLG深扒夺冠幕后"
+      ],
+      "rank": 12,
+      "sports_rank": 4
+    },
+    {
+      "title": "AI大肥鱼改编周深代表作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 213748,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
+      },
+      "raw_titles": [
+        "AI大肥鱼改编周深代表作"
+      ],
+      "rank": 13,
+      "movie_rank": 9
+    },
+    {
+      "title": "日本动漫为何能让全球买单",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 213741,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E4%B8%BA%E4%BD%95%E8%83%BD%E8%AE%A9%E5%85%A8%E7%90%83%E4%B9%B0%E5%8D%95"
+      },
+      "raw_titles": [
+        "日本动漫为何能让全球买单"
+      ],
+      "rank": 14,
+      "movie_rank": 10
+    },
+    {
+      "title": "青稚看白小纯MVP结算画面的反应",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 154017,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%9C%8B%E7%99%BD%E5%B0%8F%E7%BA%AFMVP%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2%E7%9A%84%E5%8F%8D%E5%BA%94"
+      },
+      "raw_titles": [
+        "青稚看白小纯MVP结算画面的反应"
+      ],
+      "rank": 15,
+      "sports_rank": 5
+    },
+    {
+      "title": "孙颖莎王曼昱在成都公园打球",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 126000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9C%A8%E6%88%90%E9%83%BD%E5%85%AC%E5%9B%AD%E6%89%93%E7%90%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "孙颖莎王曼昱在成都公园打球"
+      ],
+      "rank": 16,
+      "sports_rank": 6
     },
     {
       "title": "成毅两京十五日台网双爆了",
@@ -238,15 +270,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 275827,
+      "hot_value": 103110,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B0%E7%BD%91%E5%8F%8C%E7%88%86%E4%BA%86"
       },
       "raw_titles": [
         "成毅两京十五日台网双爆了"
       ],
-      "rank": 15,
-      "movie_rank": 9
+      "rank": 17,
+      "movie_rank": 11
     },
     {
       "title": "刘亦菲换手机了",
@@ -254,95 +286,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 183790,
+      "hot_value": 94276,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8D%A2%E6%89%8B%E6%9C%BA%E4%BA%86"
       },
       "raw_titles": [
         "刘亦菲换手机了"
       ],
-      "rank": 16,
-      "movie_rank": 10
-    },
-    {
-      "title": "肖战说到烤地瓜倪大红笑了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 183593,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%AF%B4%E5%88%B0%E7%83%A4%E5%9C%B0%E7%93%9C%E5%80%AA%E5%A4%A7%E7%BA%A2%E7%AC%91%E4%BA%86"
-      },
-      "raw_titles": [
-        "肖战说到烤地瓜倪大红笑了"
-      ],
-      "rank": 17,
-      "movie_rank": 11
-    },
-    {
-      "title": "年轻时被说像林俊杰 如今撞脸张雪",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 180000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E6%97%B6%E8%A2%AB%E8%AF%B4%E5%83%8F%E6%9E%97%E4%BF%8A%E6%9D%B0+%E5%A6%82%E4%BB%8A%E6%92%9E%E8%84%B8%E5%BC%A0%E9%9B%AA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "年轻时被说像林俊杰 如今撞脸张雪"
-      ],
       "rank": 18,
       "movie_rank": 12
     },
     {
-      "title": "薛景求四封青龙影帝",
+      "title": "王俊凯调解 后会友期变后会无期",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 165558,
+      "hot_value": 88855,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%96%9B%E6%99%AF%E6%B1%82%E5%9B%9B%E5%B0%81%E9%9D%92%E9%BE%99%E5%BD%B1%E5%B8%9D"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%B0%83%E8%A7%A3%20%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%8F%98%E5%90%8E%E4%BC%9A%E6%97%A0%E6%9C%9F"
       },
       "raw_titles": [
-        "薛景求四封青龙影帝"
+        "王俊凯调解 后会友期变后会无期"
       ],
       "rank": 19,
       "movie_rank": 13
-    },
-    {
-      "title": "肖战文化工作者要有文化具象化",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 159709,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%96%87%E5%8C%96%E5%B7%A5%E4%BD%9C%E8%80%85%E8%A6%81%E6%9C%89%E6%96%87%E5%8C%96%E5%85%B7%E8%B1%A1%E5%8C%96"
-      },
-      "raw_titles": [
-        "肖战文化工作者要有文化具象化"
-      ],
-      "rank": 20,
-      "movie_rank": 14
-    },
-    {
-      "title": "青龙电影奖",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 132386,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E9%BE%99%E7%94%B5%E5%BD%B1%E5%A5%96"
-      },
-      "raw_titles": [
-        "青龙电影奖"
-      ],
-      "rank": 21,
-      "movie_rank": 15
     },
     {
       "title": "曝Ming复出",
@@ -350,15 +318,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 130302,
+      "hot_value": 67886,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DMing%E5%A4%8D%E5%87%BA"
       },
       "raw_titles": [
         "曝Ming复出"
       ],
-      "rank": 22,
+      "rank": 20,
       "sports_rank": 7
+    },
+    {
+      "title": "肖战文化工作者要有文化具象化",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 62521,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%96%87%E5%8C%96%E5%B7%A5%E4%BD%9C%E8%80%85%E8%A6%81%E6%9C%89%E6%96%87%E5%8C%96%E5%85%B7%E8%B1%A1%E5%8C%96"
+      },
+      "raw_titles": [
+        "肖战文化工作者要有文化具象化"
+      ],
+      "rank": 21,
+      "movie_rank": 14
     },
     {
       "title": "郭帆透露《流浪地球3》最新进展",
@@ -366,64 +350,50 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%83%AD%E5%B8%86%E9%80%8F%E9%9C%B2%E3%80%8A%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%E3%80%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news"
       },
       "raw_titles": [
         "郭帆透露《流浪地球3》最新进展"
       ],
-      "rank": 23,
-      "movie_rank": 16
-    },
-    {
-      "title": "“太阳雨”让国产现偶有了温暖现实",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%AA%E9%98%B3%E9%9B%A8%E2%80%9D%E8%AE%A9%E5%9B%BD%E4%BA%A7%E7%8E%B0%E5%81%B6%E6%9C%89%E4%BA%86%E6%B8%A9%E6%9A%96%E7%8E%B0%E5%AE%9E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "“太阳雨”让国产现偶有了温暖现实"
-      ],
-      "rank": 24,
-      "sports_rank": 8
+      "rank": 22,
+      "movie_rank": 15
     }
   ],
   "sports": [
-    {
-      "title": "欧冠巴黎vs罗马",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 9366066,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E6%AC%A7%E5%86%A0%E5%B7%B4%E9%BB%8Evs%E7%BD%97%E9%A9%AC"
-      },
-      "raw_titles": [
-        "欧冠巴黎vs罗马"
-      ],
-      "rank": 2,
-      "sports_rank": 1
-    },
     {
       "title": "太阳照在我手上好干净",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7792070,
+      "hot_value": 7764398,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A4%AA%E9%98%B3%E7%85%A7%E5%9C%A8%E6%88%91%E6%89%8B%E4%B8%8A%E5%A5%BD%E5%B9%B2%E5%87%80"
       },
       "raw_titles": [
         "太阳照在我手上好干净"
       ],
-      "rank": 4,
+      "rank": 3,
+      "sports_rank": 1
+    },
+    {
+      "title": "谷爱凌肩膀脱臼",
+      "category": "体育",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 603895,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC",
+        "百度": "https://m.baidu.com/s?word=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8F%97%E4%BC%A4%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC+%E6%9C%AC%E4%BA%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
+      },
+      "raw_titles": [
+        "谷爱凌肩膀脱臼"
+      ],
+      "rank": 6,
       "sports_rank": 2
     },
     {
@@ -432,7 +402,7 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 1774557,
+      "hot_value": 540688,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=NBA%E5%9B%BD%E7%8E%8B%E9%98%9F%E6%96%B0%E7%A7%80%E9%98%BF%E5%8D%A1%E5%A4%AB%E5%AE%9E%E5%8A%9B%E5%A6%82%E4%BD%95"
       },
@@ -443,38 +413,20 @@
       "sports_rank": 3
     },
     {
-      "title": "谷爱凌肩膀脱臼",
-      "category": "体育",
-      "sources": [
-        "微博",
-        "百度"
-      ],
-      "hot_value": 919116,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC",
-        "百度": "https://m.baidu.com/s?word=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8F%97%E4%BC%A4%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC+%E6%9C%AC%E4%BA%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
-      },
-      "raw_titles": [
-        "谷爱凌肩膀脱臼"
-      ],
-      "rank": 8,
-      "sports_rank": 4
-    },
-    {
       "title": "管泽元对话BLG深扒夺冠幕后",
       "category": "体育",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 429982,
+      "hot_value": 213755,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E8%AF%9DBLG%E6%B7%B1%E6%89%92%E5%A4%BA%E5%86%A0%E5%B9%95%E5%90%8E"
       },
       "raw_titles": [
         "管泽元对话BLG深扒夺冠幕后"
       ],
-      "rank": 10,
-      "sports_rank": 5
+      "rank": 12,
+      "sports_rank": 4
     },
     {
       "title": "青稚看白小纯MVP结算画面的反应",
@@ -482,14 +434,30 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 307544,
+      "hot_value": 154017,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%9C%8B%E7%99%BD%E5%B0%8F%E7%BA%AFMVP%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2%E7%9A%84%E5%8F%8D%E5%BA%94"
       },
       "raw_titles": [
         "青稚看白小纯MVP结算画面的反应"
       ],
-      "rank": 13,
+      "rank": 15,
+      "sports_rank": 5
+    },
+    {
+      "title": "孙颖莎王曼昱在成都公园打球",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 126000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9C%A8%E6%88%90%E9%83%BD%E5%85%AC%E5%9B%AD%E6%89%93%E7%90%83&sa=fyb_news"
+      },
+      "raw_titles": [
+        "孙颖莎王曼昱在成都公园打球"
+      ],
+      "rank": 16,
       "sports_rank": 6
     },
     {
@@ -498,31 +466,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 130302,
+      "hot_value": 67886,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9B%9DMing%E5%A4%8D%E5%87%BA"
       },
       "raw_titles": [
         "曝Ming复出"
       ],
-      "rank": 22,
+      "rank": 20,
       "sports_rank": 7
-    },
-    {
-      "title": "“太阳雨”让国产现偶有了温暖现实",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 9000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%AA%E9%98%B3%E9%9B%A8%E2%80%9D%E8%AE%A9%E5%9B%BD%E4%BA%A7%E7%8E%B0%E5%81%B6%E6%9C%89%E4%BA%86%E6%B8%A9%E6%9A%96%E7%8E%B0%E5%AE%9E&sa=fyb_news"
-      },
-      "raw_titles": [
-        "“太阳雨”让国产现偶有了温暖现实"
-      ],
-      "rank": 24,
-      "sports_rank": 8
     }
   ],
   "movies": [
@@ -533,7 +485,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 9640352,
+      "hot_value": 9333584,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB"
@@ -550,14 +502,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8521397,
+      "hot_value": 8031782,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E6%9C%B1%E7%9E%BB%E5%9F%BA%E5%8F%AF%E4%BB%A5%E7%97%9B%E4%BD%86%E4%B8%8D%E4%B8%8B%E8%B7%AA"
       },
       "raw_titles": [
         "成毅朱瞻基可以痛但不下跪"
       ],
-      "rank": 3,
+      "rank": 2,
       "movie_rank": 2
     },
     {
@@ -566,14 +518,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7736776,
+      "hot_value": 7731502,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E4%BE%A0%E9%9A%90%E5%85%9C%E6%8B%9B%E7%94%9F%E5%8A%9E%E5%8F%91%E5%8A%9B"
       },
       "raw_titles": [
         "火影侠隐兜招生办发力"
       ],
-      "rank": 5,
+      "rank": 4,
       "movie_rank": 3
     },
     {
@@ -582,63 +534,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 4971523,
+      "hot_value": 1360667,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%AF%BC%E6%BC%94%E9%9F%A6%E6%AD%A3%E6%9D%A5B%E7%AB%99%E4%BA%86"
       },
       "raw_titles": [
         "爱情公寓导演韦正来B站了"
       ],
-      "rank": 6,
+      "rank": 5,
       "movie_rank": 4
     },
     {
-      "title": "全度妍三封青龙影后",
+      "title": "驭见星野肖战x尚界风尚之约",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 522761,
+      "hot_value": 280739,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%BA%A6%E5%A6%8D%E4%B8%89%E5%B0%81%E9%9D%92%E9%BE%99%E5%BD%B1%E5%90%8E"
+        "微博": "https://s.weibo.com/weibo?q=%E9%A9%AD%E8%A7%81%E6%98%9F%E9%87%8E%E8%82%96%E6%88%98x%E5%B0%9A%E7%95%8C%E9%A3%8E%E5%B0%9A%E4%B9%8B%E7%BA%A6"
       },
       "raw_titles": [
-        "全度妍三封青龙影后"
+        "驭见星野肖战x尚界风尚之约"
       ],
-      "rank": 9,
+      "rank": 8,
       "movie_rank": 5
-    },
-    {
-      "title": "日本动漫为何能让全球买单",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 429976,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E4%B8%BA%E4%BD%95%E8%83%BD%E8%AE%A9%E5%85%A8%E7%90%83%E4%B9%B0%E5%8D%95"
-      },
-      "raw_titles": [
-        "日本动漫为何能让全球买单"
-      ],
-      "rank": 11,
-      "movie_rank": 6
-    },
-    {
-      "title": "AI大肥鱼改编周深代表作",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 429963,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
-      },
-      "raw_titles": [
-        "AI大肥鱼改编周深代表作"
-      ],
-      "rank": 12,
-      "movie_rank": 7
     },
     {
       "title": "韩国电影青龙奖获奖名单",
@@ -653,8 +573,72 @@
       "raw_titles": [
         "韩国电影青龙奖获奖名单"
       ],
-      "rank": 14,
+      "rank": 9,
+      "movie_rank": 6
+    },
+    {
+      "title": "伊朗女歌手未戴头巾演出遭鞭刑",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 217052,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%A5%B3%E6%AD%8C%E6%89%8B%E6%9C%AA%E6%88%B4%E5%A4%B4%E5%B7%BE%E6%BC%94%E5%87%BA%E9%81%AD%E9%9E%AD%E5%88%91"
+      },
+      "raw_titles": [
+        "伊朗女歌手未戴头巾演出遭鞭刑"
+      ],
+      "rank": 10,
+      "movie_rank": 7
+    },
+    {
+      "title": "全度妍三封青龙影后",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 216674,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%BA%A6%E5%A6%8D%E4%B8%89%E5%B0%81%E9%9D%92%E9%BE%99%E5%BD%B1%E5%90%8E"
+      },
+      "raw_titles": [
+        "全度妍三封青龙影后"
+      ],
+      "rank": 11,
       "movie_rank": 8
+    },
+    {
+      "title": "AI大肥鱼改编周深代表作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 213748,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
+      },
+      "raw_titles": [
+        "AI大肥鱼改编周深代表作"
+      ],
+      "rank": 13,
+      "movie_rank": 9
+    },
+    {
+      "title": "日本动漫为何能让全球买单",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 213741,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E4%B8%BA%E4%BD%95%E8%83%BD%E8%AE%A9%E5%85%A8%E7%90%83%E4%B9%B0%E5%8D%95"
+      },
+      "raw_titles": [
+        "日本动漫为何能让全球买单"
+      ],
+      "rank": 14,
+      "movie_rank": 10
     },
     {
       "title": "成毅两京十五日台网双爆了",
@@ -662,15 +646,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 275827,
+      "hot_value": 103110,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B0%E7%BD%91%E5%8F%8C%E7%88%86%E4%BA%86"
       },
       "raw_titles": [
         "成毅两京十五日台网双爆了"
       ],
-      "rank": 15,
-      "movie_rank": 9
+      "rank": 17,
+      "movie_rank": 11
     },
     {
       "title": "刘亦菲换手机了",
@@ -678,60 +662,28 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 183790,
+      "hot_value": 94276,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8D%A2%E6%89%8B%E6%9C%BA%E4%BA%86"
       },
       "raw_titles": [
         "刘亦菲换手机了"
       ],
-      "rank": 16,
-      "movie_rank": 10
-    },
-    {
-      "title": "肖战说到烤地瓜倪大红笑了",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 183593,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%AF%B4%E5%88%B0%E7%83%A4%E5%9C%B0%E7%93%9C%E5%80%AA%E5%A4%A7%E7%BA%A2%E7%AC%91%E4%BA%86"
-      },
-      "raw_titles": [
-        "肖战说到烤地瓜倪大红笑了"
-      ],
-      "rank": 17,
-      "movie_rank": 11
-    },
-    {
-      "title": "年轻时被说像林俊杰 如今撞脸张雪",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 180000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E6%97%B6%E8%A2%AB%E8%AF%B4%E5%83%8F%E6%9E%97%E4%BF%8A%E6%9D%B0+%E5%A6%82%E4%BB%8A%E6%92%9E%E8%84%B8%E5%BC%A0%E9%9B%AA&sa=fyb_news"
-      },
-      "raw_titles": [
-        "年轻时被说像林俊杰 如今撞脸张雪"
-      ],
       "rank": 18,
       "movie_rank": 12
     },
     {
-      "title": "薛景求四封青龙影帝",
+      "title": "王俊凯调解 后会友期变后会无期",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 165558,
+      "hot_value": 88855,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%96%9B%E6%99%AF%E6%B1%82%E5%9B%9B%E5%B0%81%E9%9D%92%E9%BE%99%E5%BD%B1%E5%B8%9D"
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%B0%83%E8%A7%A3%20%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%8F%98%E5%90%8E%E4%BC%9A%E6%97%A0%E6%9C%9F"
       },
       "raw_titles": [
-        "薛景求四封青龙影帝"
+        "王俊凯调解 后会友期变后会无期"
       ],
       "rank": 19,
       "movie_rank": 13
@@ -742,31 +694,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 159709,
+      "hot_value": 62521,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%96%87%E5%8C%96%E5%B7%A5%E4%BD%9C%E8%80%85%E8%A6%81%E6%9C%89%E6%96%87%E5%8C%96%E5%85%B7%E8%B1%A1%E5%8C%96"
       },
       "raw_titles": [
         "肖战文化工作者要有文化具象化"
       ],
-      "rank": 20,
-      "movie_rank": 14
-    },
-    {
-      "title": "青龙电影奖",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 132386,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E9%BE%99%E7%94%B5%E5%BD%B1%E5%A5%96"
-      },
-      "raw_titles": [
-        "青龙电影奖"
-      ],
       "rank": 21,
-      "movie_rank": 15
+      "movie_rank": 14
     },
     {
       "title": "郭帆透露《流浪地球3》最新进展",
@@ -774,15 +710,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E9%83%AD%E5%B8%86%E9%80%8F%E9%9C%B2%E3%80%8A%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%E3%80%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news"
       },
       "raw_titles": [
         "郭帆透露《流浪地球3》最新进展"
       ],
-      "rank": 23,
-      "movie_rank": 16
+      "rank": 22,
+      "movie_rank": 15
     }
   ]
 }
