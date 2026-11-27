@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-11-27 22:01:10",
-  "total": 17,
-  "sports_count": 3,
-  "movie_count": 14,
+  "update_time": "2026-11-27 23:00:57",
+  "total": 19,
+  "sports_count": 4,
+  "movie_count": 15,
   "all": [
     {
       "title": "今日起电视开机广告没了",
@@ -11,7 +11,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 11206237,
+      "hot_value": 11838120,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E4%B8%8D%E5%BE%97%E6%92%AD%E6%94%BE%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A"
@@ -29,7 +29,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 10291761,
+      "hot_value": 9982514,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%83%BD%E7%81%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%91%9E%E5%85%B8%E5%BC%80%E8%B5%9B",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E7%83%BD%E7%81%AB%E4%B8%96%E7%95%8C%E6%9D%AF"
@@ -41,17 +41,19 @@
       "sports_rank": 1
     },
     {
-      "title": "MotoGP八冠王马奎斯宣布退役",
+      "title": "MotoGP八冠王马奎兹宣布退役",
       "category": "体育",
       "sources": [
+        "百度",
         "抖音"
       ],
-      "hot_value": 9298003,
+      "hot_value": 9307761,
       "urls": {
+        "百度": "https://m.baidu.com/s?word=MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E5%85%B9%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9"
       },
       "raw_titles": [
-        "MotoGP八冠王马奎斯宣布退役"
+        "MotoGP八冠王马奎兹宣布退役"
       ],
       "rank": 3,
       "sports_rank": 2
@@ -62,7 +64,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9288491,
+      "hot_value": 9244707,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E6%97%BA%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A3"
       },
@@ -73,19 +75,37 @@
       "movie_rank": 2
     },
     {
-      "title": "胡歌刘涛天台吻戏路透好甜",
-      "category": "影视",
+      "title": "方博签约德甲富尔达俱乐部",
+      "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9050074,
+      "hot_value": 8204508,
       "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%96%B9%E5%8D%9A%E7%AD%BE%E7%BA%A6%E5%BE%B7%E7%94%B2%E5%AF%8C%E5%B0%94%E8%BE%BE%E4%BF%B1%E4%B9%90%E9%83%A8"
+      },
+      "raw_titles": [
+        "方博签约德甲富尔达俱乐部"
+      ],
+      "rank": 5,
+      "sports_rank": 3
+    },
+    {
+      "title": "胡歌刘涛 吻戏",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "抖音"
+      ],
+      "hot_value": 8176792,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%20%E5%90%BB%E6%88%8F",
         "抖音": "https://www.douyin.com/search/%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E5%A4%A9%E5%8F%B0%E5%90%BB%E6%88%8F%E8%B7%AF%E9%80%8F%E5%A5%BD%E7%94%9C"
       },
       "raw_titles": [
-        "胡歌刘涛天台吻戏路透好甜"
+        "胡歌刘涛 吻戏"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 3
     },
     {
@@ -94,14 +114,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8200325,
+      "hot_value": 8163193,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E7%AC%AC%E4%BA%8C%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "声生不息第二期舞台"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 4
     },
     {
@@ -110,15 +130,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7824410,
+      "hot_value": 7743741,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E9%AA%91%E6%9C%89%E6%AD%A4%E7%90%86%E6%80%8E%E4%B9%88%E5%B0%B1%E5%AE%8C%E7%BB%93%E4%BA%86"
       },
       "raw_titles": [
         "吴磊骑有此理怎么就完结了"
       ],
-      "rank": 7,
+      "rank": 8,
       "movie_rank": 5
+    },
+    {
+      "title": "易烊千玺生日单曲MV预告上线",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7725047,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%94%9F%E6%97%A5%E5%8D%95%E6%9B%B2MV%E9%A2%84%E5%91%8A%E4%B8%8A%E7%BA%BF"
+      },
+      "raw_titles": [
+        "易烊千玺生日单曲MV预告上线"
+      ],
+      "rank": 9,
+      "movie_rank": 6
     },
     {
       "title": "BLG夺冠背后的心路历程",
@@ -126,15 +162,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 6763131,
+      "hot_value": 1946314,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%83%8C%E5%90%8E%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B"
       },
       "raw_titles": [
         "BLG夺冠背后的心路历程"
       ],
-      "rank": 8,
-      "sports_rank": 3
+      "rank": 10,
+      "sports_rank": 4
     },
     {
       "title": "中国男篮爆冷不敌沙特",
@@ -142,30 +178,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 848526,
+      "hot_value": 859312,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9"
       },
       "raw_titles": [
         "中国男篮爆冷不敌沙特"
       ],
-      "rank": 9,
-      "movie_rank": 6
-    },
-    {
-      "title": "吴磊兑现多年前的环岛承诺",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 802428,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%90%B4%E7%A3%8A%E5%85%91%E7%8E%B0%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E7%8E%AF%E5%B2%9B%E6%89%BF%E8%AF%BA"
-      },
-      "raw_titles": [
-        "吴磊兑现多年前的环岛承诺"
-      ],
-      "rank": 10,
+      "rank": 11,
       "movie_rank": 7
     },
     {
@@ -174,30 +194,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 802279,
+      "hot_value": 857712,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85MV"
       },
       "raw_titles": [
         "周杰伦湘女多情MV"
       ],
-      "rank": 11,
+      "rank": 12,
       "movie_rank": 8
     },
     {
-      "title": "绝区零挽昼动画短片",
+      "title": "吴磊兑现多年前的环岛承诺",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 729806,
+      "hot_value": 843965,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E6%8C%BD%E6%98%BC%E5%8A%A8%E7%94%BB%E7%9F%AD%E7%89%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%90%B4%E7%A3%8A%E5%85%91%E7%8E%B0%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E7%8E%AF%E5%B2%9B%E6%89%BF%E8%AF%BA"
       },
       "raw_titles": [
-        "绝区零挽昼动画短片"
+        "吴磊兑现多年前的环岛承诺"
       ],
-      "rank": 12,
+      "rank": 13,
       "movie_rank": 9
     },
     {
@@ -206,14 +226,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 625603,
+      "hot_value": 567367,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%BC%94%E5%91%98%E4%BC%9A%E7%83%AD%E8%A1%B7%E4%BA%8E%E4%B8%8A%E7%BB%BC%E8%89%BA"
       },
       "raw_titles": [
         "为何演员会热衷于上综艺"
       ],
-      "rank": 13,
+      "rank": 14,
       "movie_rank": 10
     },
     {
@@ -222,31 +242,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 269784,
+      "hot_value": 318366,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%ABELLE%E5%AD%A3%E5%80%99%E9%A3%8E%E5%A4%A7%E7%89%87%E9%80%A0%E5%9E%8B"
       },
       "raw_titles": [
         "杨紫ELLE季候风大片造型"
       ],
-      "rank": 14,
+      "rank": 15,
       "movie_rank": 11
     },
     {
-      "title": "谁还记得于和伟是杨幂罩的",
+      "title": "TF夏季运动会纪录片",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 220332,
+      "hot_value": 238942,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B0%81%E8%BF%98%E8%AE%B0%E5%BE%97%E4%BA%8E%E5%92%8C%E4%BC%9F%E6%98%AF%E6%9D%A8%E5%B9%82%E7%BD%A9%E7%9A%84"
+        "微博": "https://s.weibo.com/weibo?q=TF%E5%A4%8F%E5%AD%A3%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
-        "谁还记得于和伟是杨幂罩的"
+        "TF夏季运动会纪录片"
       ],
-      "rank": 15,
+      "rank": 16,
       "movie_rank": 12
+    },
+    {
+      "title": "王俊凯王源易烊千玺现状",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 234687,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%8E%B0%E7%8A%B6"
+      },
+      "raw_titles": [
+        "王俊凯王源易烊千玺现状"
+      ],
+      "rank": 17,
+      "movie_rank": 13
     },
     {
       "title": "刘亦菲超绝头身比",
@@ -254,15 +290,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 189747,
+      "hot_value": 226050,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E8%B6%85%E7%BB%9D%E5%A4%B4%E8%BA%AB%E6%AF%94"
       },
       "raw_titles": [
         "刘亦菲超绝头身比"
       ],
-      "rank": 16,
-      "movie_rank": 13
+      "rank": 18,
+      "movie_rank": 14
     },
     {
       "title": "成毅泥地挨打戏是真泥真打",
@@ -270,15 +306,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 27000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%88%90%E6%AF%85%E6%B3%A5%E5%9C%B0%E6%8C%A8%E6%89%93%E6%88%8F%E6%98%AF%E7%9C%9F%E6%B3%A5%E7%9C%9F%E6%89%93&sa=fyb_news"
       },
       "raw_titles": [
         "成毅泥地挨打戏是真泥真打"
       ],
-      "rank": 17,
-      "movie_rank": 14
+      "rank": 19,
+      "movie_rank": 15
     }
   ],
   "sports": [
@@ -289,7 +325,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 10291761,
+      "hot_value": 9982514,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%83%BD%E7%81%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%91%9E%E5%85%B8%E5%BC%80%E8%B5%9B",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E7%83%BD%E7%81%AB%E4%B8%96%E7%95%8C%E6%9D%AF"
@@ -301,20 +337,38 @@
       "sports_rank": 1
     },
     {
-      "title": "MotoGP八冠王马奎斯宣布退役",
+      "title": "MotoGP八冠王马奎兹宣布退役",
+      "category": "体育",
+      "sources": [
+        "百度",
+        "抖音"
+      ],
+      "hot_value": 9307761,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E5%85%B9%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&sa=fyb_news",
+        "抖音": "https://www.douyin.com/search/MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9"
+      },
+      "raw_titles": [
+        "MotoGP八冠王马奎兹宣布退役"
+      ],
+      "rank": 3,
+      "sports_rank": 2
+    },
+    {
+      "title": "方博签约德甲富尔达俱乐部",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 9298003,
+      "hot_value": 8204508,
       "urls": {
-        "抖音": "https://www.douyin.com/search/MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9"
+        "抖音": "https://www.douyin.com/search/%E6%96%B9%E5%8D%9A%E7%AD%BE%E7%BA%A6%E5%BE%B7%E7%94%B2%E5%AF%8C%E5%B0%94%E8%BE%BE%E4%BF%B1%E4%B9%90%E9%83%A8"
       },
       "raw_titles": [
-        "MotoGP八冠王马奎斯宣布退役"
+        "方博签约德甲富尔达俱乐部"
       ],
-      "rank": 3,
-      "sports_rank": 2
+      "rank": 5,
+      "sports_rank": 3
     },
     {
       "title": "BLG夺冠背后的心路历程",
@@ -322,15 +376,15 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 6763131,
+      "hot_value": 1946314,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%83%8C%E5%90%8E%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B"
       },
       "raw_titles": [
         "BLG夺冠背后的心路历程"
       ],
-      "rank": 8,
-      "sports_rank": 3
+      "rank": 10,
+      "sports_rank": 4
     }
   ],
   "movies": [
@@ -341,7 +395,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 11206237,
+      "hot_value": 11838120,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E4%B8%8D%E5%BE%97%E6%92%AD%E6%94%BE%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A"
@@ -358,7 +412,7 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 9288491,
+      "hot_value": 9244707,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E7%81%AB%E6%97%BA%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A3"
       },
@@ -369,19 +423,21 @@
       "movie_rank": 2
     },
     {
-      "title": "胡歌刘涛天台吻戏路透好甜",
+      "title": "胡歌刘涛 吻戏",
       "category": "影视",
       "sources": [
+        "微博",
         "抖音"
       ],
-      "hot_value": 9050074,
+      "hot_value": 8176792,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%20%E5%90%BB%E6%88%8F",
         "抖音": "https://www.douyin.com/search/%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E5%A4%A9%E5%8F%B0%E5%90%BB%E6%88%8F%E8%B7%AF%E9%80%8F%E5%A5%BD%E7%94%9C"
       },
       "raw_titles": [
-        "胡歌刘涛天台吻戏路透好甜"
+        "胡歌刘涛 吻戏"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 3
     },
     {
@@ -390,14 +446,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 8200325,
+      "hot_value": 8163193,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E7%AC%AC%E4%BA%8C%E6%9C%9F%E8%88%9E%E5%8F%B0"
       },
       "raw_titles": [
         "声生不息第二期舞台"
       ],
-      "rank": 6,
+      "rank": 7,
       "movie_rank": 4
     },
     {
@@ -406,15 +462,31 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7824410,
+      "hot_value": 7743741,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E9%AA%91%E6%9C%89%E6%AD%A4%E7%90%86%E6%80%8E%E4%B9%88%E5%B0%B1%E5%AE%8C%E7%BB%93%E4%BA%86"
       },
       "raw_titles": [
         "吴磊骑有此理怎么就完结了"
       ],
-      "rank": 7,
+      "rank": 8,
       "movie_rank": 5
+    },
+    {
+      "title": "易烊千玺生日单曲MV预告上线",
+      "category": "影视",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7725047,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%94%9F%E6%97%A5%E5%8D%95%E6%9B%B2MV%E9%A2%84%E5%91%8A%E4%B8%8A%E7%BA%BF"
+      },
+      "raw_titles": [
+        "易烊千玺生日单曲MV预告上线"
+      ],
+      "rank": 9,
+      "movie_rank": 6
     },
     {
       "title": "中国男篮爆冷不敌沙特",
@@ -422,30 +494,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 848526,
+      "hot_value": 859312,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9"
       },
       "raw_titles": [
         "中国男篮爆冷不敌沙特"
       ],
-      "rank": 9,
-      "movie_rank": 6
-    },
-    {
-      "title": "吴磊兑现多年前的环岛承诺",
-      "category": "影视",
-      "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 802428,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%90%B4%E7%A3%8A%E5%85%91%E7%8E%B0%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E7%8E%AF%E5%B2%9B%E6%89%BF%E8%AF%BA"
-      },
-      "raw_titles": [
-        "吴磊兑现多年前的环岛承诺"
-      ],
-      "rank": 10,
+      "rank": 11,
       "movie_rank": 7
     },
     {
@@ -454,30 +510,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 802279,
+      "hot_value": 857712,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85MV"
       },
       "raw_titles": [
         "周杰伦湘女多情MV"
       ],
-      "rank": 11,
+      "rank": 12,
       "movie_rank": 8
     },
     {
-      "title": "绝区零挽昼动画短片",
+      "title": "吴磊兑现多年前的环岛承诺",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 729806,
+      "hot_value": 843965,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E6%8C%BD%E6%98%BC%E5%8A%A8%E7%94%BB%E7%9F%AD%E7%89%87"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%90%B4%E7%A3%8A%E5%85%91%E7%8E%B0%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E7%8E%AF%E5%B2%9B%E6%89%BF%E8%AF%BA"
       },
       "raw_titles": [
-        "绝区零挽昼动画短片"
+        "吴磊兑现多年前的环岛承诺"
       ],
-      "rank": 12,
+      "rank": 13,
       "movie_rank": 9
     },
     {
@@ -486,14 +542,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 625603,
+      "hot_value": 567367,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%BC%94%E5%91%98%E4%BC%9A%E7%83%AD%E8%A1%B7%E4%BA%8E%E4%B8%8A%E7%BB%BC%E8%89%BA"
       },
       "raw_titles": [
         "为何演员会热衷于上综艺"
       ],
-      "rank": 13,
+      "rank": 14,
       "movie_rank": 10
     },
     {
@@ -502,31 +558,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 269784,
+      "hot_value": 318366,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%ABELLE%E5%AD%A3%E5%80%99%E9%A3%8E%E5%A4%A7%E7%89%87%E9%80%A0%E5%9E%8B"
       },
       "raw_titles": [
         "杨紫ELLE季候风大片造型"
       ],
-      "rank": 14,
+      "rank": 15,
       "movie_rank": 11
     },
     {
-      "title": "谁还记得于和伟是杨幂罩的",
+      "title": "TF夏季运动会纪录片",
       "category": "影视",
       "sources": [
         "微博"
       ],
-      "hot_value": 220332,
+      "hot_value": 238942,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B0%81%E8%BF%98%E8%AE%B0%E5%BE%97%E4%BA%8E%E5%92%8C%E4%BC%9F%E6%98%AF%E6%9D%A8%E5%B9%82%E7%BD%A9%E7%9A%84"
+        "微博": "https://s.weibo.com/weibo?q=TF%E5%A4%8F%E5%AD%A3%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87"
       },
       "raw_titles": [
-        "谁还记得于和伟是杨幂罩的"
+        "TF夏季运动会纪录片"
       ],
-      "rank": 15,
+      "rank": 16,
       "movie_rank": 12
+    },
+    {
+      "title": "王俊凯王源易烊千玺现状",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 234687,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%8E%B0%E7%8A%B6"
+      },
+      "raw_titles": [
+        "王俊凯王源易烊千玺现状"
+      ],
+      "rank": 17,
+      "movie_rank": 13
     },
     {
       "title": "刘亦菲超绝头身比",
@@ -534,15 +606,15 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 189747,
+      "hot_value": 226050,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E8%B6%85%E7%BB%9D%E5%A4%B4%E8%BA%AB%E6%AF%94"
       },
       "raw_titles": [
         "刘亦菲超绝头身比"
       ],
-      "rank": 16,
-      "movie_rank": 13
+      "rank": 18,
+      "movie_rank": 14
     },
     {
       "title": "成毅泥地挨打戏是真泥真打",
@@ -550,15 +622,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 27000,
+      "hot_value": 36000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=%E6%88%90%E6%AF%85%E6%B3%A5%E5%9C%B0%E6%8C%A8%E6%89%93%E6%88%8F%E6%98%AF%E7%9C%9F%E6%B3%A5%E7%9C%9F%E6%89%93&sa=fyb_news"
       },
       "raw_titles": [
         "成毅泥地挨打戏是真泥真打"
       ],
-      "rank": 17,
-      "movie_rank": 14
+      "rank": 19,
+      "movie_rank": 15
     }
   ]
 }
