@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-27 08:00:55",
+  "update_time": "2026-11-27 09:00:51",
   "total": 18,
   "sports_count": 11,
   "movie_count": 7,
@@ -10,15 +10,13 @@
       "sources": [
         "微博",
         "微博",
-        "微博",
-        "微博",
         "百度",
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 14227504,
+      "hot_value": 12690170,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%9B%9E%E5%BA%94U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
+        "微博": "https://s.weibo.com/weibo?q=%E8%91%A3%E8%B7%AF%E8%B0%88U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B38-0%E6%96%90%E6%B5%8E&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B38%3A0%E6%96%90%E6%B5%8E",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B38%E7%90%83%E5%A4%A7%E8%83%9C%E6%96%90%E6%B5%8E%E5%90%8E%E5%87%BA%E7%BA%BF"
@@ -30,36 +28,84 @@
       "sports_rank": 1
     },
     {
-      "title": "巴黎圣日耳曼2:2战平罗马",
-      "category": "体育",
-      "sources": [
-        "抖音"
-      ],
-      "hot_value": 7686414,
-      "urls": {
-        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC2%3A2%E6%88%98%E5%B9%B3%E7%BD%97%E9%A9%AC"
-      },
-      "raw_titles": [
-        "巴黎圣日耳曼2:2战平罗马"
-      ],
-      "rank": 2,
-      "sports_rank": 2
-    },
-    {
       "title": "2026贺岁档超50部影片定档",
       "category": "影视",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671391,
+      "hot_value": 7651439,
       "urls": {
         "抖音": "https://www.douyin.com/search/2026%E8%B4%BA%E5%B2%81%E6%A1%A3%E8%B6%8550%E9%83%A8%E5%BD%B1%E7%89%87%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "2026贺岁档超50部影片定档"
       ],
-      "rank": 3,
+      "rank": 2,
       "movie_rank": 1
+    },
+    {
+      "title": "詹姆斯创NBA历史最老三双纪录",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7641062,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%88%9BNBA%E5%8E%86%E5%8F%B2%E6%9C%80%E8%80%81%E4%B8%89%E5%8F%8C%E7%BA%AA%E5%BD%95"
+      },
+      "raw_titles": [
+        "詹姆斯创NBA历史最老三双纪录"
+      ],
+      "rank": 3,
+      "sports_rank": 2
+    },
+    {
+      "title": "巴黎圣日耳曼2:2战平罗马",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7640298,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC2%3A2%E6%88%98%E5%B9%B3%E7%BD%97%E9%A9%AC"
+      },
+      "raw_titles": [
+        "巴黎圣日耳曼2:2战平罗马"
+      ],
+      "rank": 4,
+      "sports_rank": 3
+    },
+    {
+      "title": "退钱哥现场看国足U17出线",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1876668,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E5%93%A5%E7%8E%B0%E5%9C%BA%E7%9C%8B%E5%9B%BD%E8%B6%B3U17%E5%87%BA%E7%BA%BF"
+      },
+      "raw_titles": [
+        "退钱哥现场看国足U17出线"
+      ],
+      "rank": 5,
+      "sports_rank": 4
+    },
+    {
+      "title": "中国男篮爆冷不敌沙特",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 552093,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9"
+      },
+      "raw_titles": [
+        "中国男篮爆冷不敌沙特"
+      ],
+      "rank": 6,
+      "movie_rank": 2
     },
     {
       "title": "国字号男足时隔21年世界杯出线",
@@ -74,41 +120,23 @@
       "raw_titles": [
         "国字号男足时隔21年世界杯出线"
       ],
-      "rank": 4,
-      "sports_rank": 3
+      "rank": 7,
+      "sports_rank": 5
     },
     {
-      "title": "中国男篮爆冷不敌沙特",
+      "title": "今起电视开机广告没了",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
-      ],
-      "hot_value": 418686,
-      "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9"
-      },
-      "raw_titles": [
-        "中国男篮爆冷不敌沙特"
-      ],
-      "rank": 5,
-      "movie_rank": 2
-    },
-    {
-      "title": "宝妈减重近100斤后撞脸王祖贤",
-      "category": "影视",
-      "sources": [
-        "微博",
         "百度"
       ],
-      "hot_value": 413492,
+      "hot_value": 414000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AE%9D%E5%A6%88%E5%87%8F%E9%87%8D%E8%BF%91100%E6%96%A4%E5%90%8E%E6%92%9E%E8%84%B8%E7%8E%8B%E7%A5%96%E8%B4%A4",
-        "百度": "https://m.baidu.com/s?word=%E5%AE%9D%E5%A6%88%E5%87%8F%E9%87%8D%E8%BF%91100%E6%96%A4%E5%90%8E%E6%92%9E%E8%84%B8%E7%8E%8B%E7%A5%96%E8%B4%A4&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
-        "宝妈减重近100斤后撞脸王祖贤"
+        "今起电视开机广告没了"
       ],
-      "rank": 6,
+      "rank": 8,
       "movie_rank": 3
     },
     {
@@ -117,63 +145,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 387000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B3%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news"
       },
       "raw_titles": [
         "U17国足创造历史"
       ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "肖战解安全带下车这段",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 218416,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%A7%A3%E5%AE%89%E5%85%A8%E5%B8%A6%E4%B8%8B%E8%BD%A6%E8%BF%99%E6%AE%B5"
-      },
-      "raw_titles": [
-        "肖战解安全带下车这段"
-      ],
-      "rank": 8,
-      "movie_rank": 4
-    },
-    {
-      "title": "U17国少晋级世界杯淘汰赛",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 198000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E5%B0%91%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "U17国少晋级世界杯淘汰赛"
-      ],
       "rank": 9,
-      "sports_rank": 5
-    },
-    {
-      "title": "肖战会告诉你什么叫真正的爆剧",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 188032,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%BC%9A%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E5%8F%AB%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%88%86%E5%89%A7"
-      },
-      "raw_titles": [
-        "肖战会告诉你什么叫真正的爆剧"
-      ],
-      "rank": 10,
-      "movie_rank": 5
+      "sports_rank": 6
     },
     {
       "title": "41岁詹姆斯为何还能连续砍分",
@@ -181,31 +161,81 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 180935,
+      "hot_value": 342493,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=41%E5%B2%81%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BD%95%E8%BF%98%E8%83%BD%E8%BF%9E%E7%BB%AD%E7%A0%8D%E5%88%86"
       },
       "raw_titles": [
         "41岁詹姆斯为何还能连续砍分"
       ],
-      "rank": 11,
-      "sports_rank": 6
+      "rank": 10,
+      "sports_rank": 7
     },
     {
-      "title": "哈斯与贝尔曼续约至2027赛季",
+      "title": "赵松源展望U17世界杯淘汰赛",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "百度"
       ],
-      "hot_value": 146810,
+      "hot_value": 313507,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E6%96%AF%E4%B8%8E%E8%B4%9D%E5%B0%94%E6%9B%BC%E7%BB%AD%E7%BA%A6%E8%87%B32027%E8%B5%9B%E5%AD%A3"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9D%BE%E6%BA%90%E5%B1%95%E6%9C%9BU17%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
+        "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E5%B0%91%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "哈斯与贝尔曼续约至2027赛季"
+        "赵松源展望U17世界杯淘汰赛"
+      ],
+      "rank": 11,
+      "sports_rank": 8
+    },
+    {
+      "title": "青稚两连FMVP",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 245919,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%B8%A4%E8%BF%9EFMVP"
+      },
+      "raw_titles": [
+        "青稚两连FMVP"
       ],
       "rank": 12,
-      "sports_rank": 7
+      "sports_rank": 9
+    },
+    {
+      "title": "肖战解安全带下车这段",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 243203,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%A7%A3%E5%AE%89%E5%85%A8%E5%B8%A6%E4%B8%8B%E8%BD%A6%E8%BF%99%E6%AE%B5"
+      },
+      "raw_titles": [
+        "肖战解安全带下车这段"
+      ],
+      "rank": 13,
+      "movie_rank": 4
+    },
+    {
+      "title": "肖战会告诉你什么叫真正的爆剧",
+      "category": "影视",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 216597,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%BC%9A%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E5%8F%AB%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%88%86%E5%89%A7"
+      },
+      "raw_titles": [
+        "肖战会告诉你什么叫真正的爆剧"
+      ],
+      "rank": 14,
+      "movie_rank": 5
     },
     {
       "title": "Angelababy雷霆高光",
@@ -213,92 +243,60 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 132113,
+      "hot_value": 199147,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=Angelababy%E9%9B%B7%E9%9C%86%E9%AB%98%E5%85%89"
       },
       "raw_titles": [
         "Angelababy雷霆高光"
       ],
-      "rank": 13,
-      "sports_rank": 8
-    },
-    {
-      "title": "檀健次新加坡机场人气",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 107417,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%9C%BA%E5%9C%BA%E4%BA%BA%E6%B0%94"
-      },
-      "raw_titles": [
-        "檀健次新加坡机场人气"
-      ],
-      "rank": 14,
-      "movie_rank": 6
-    },
-    {
-      "title": "成毅两京十五日台网双开花",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 107384,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B0%E7%BD%91%E5%8F%8C%E5%BC%80%E8%8A%B1"
-      },
-      "raw_titles": [
-        "成毅两京十五日台网双开花"
-      ],
       "rank": 15,
-      "movie_rank": 7
-    },
-    {
-      "title": "U17国足vs斐济U17",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 107365,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3vs%E6%96%90%E6%B5%8EU17"
-      },
-      "raw_titles": [
-        "U17国足vs斐济U17"
-      ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "郭士强称三分失准导致输球",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%AD%E5%A3%AB%E5%BC%BA%E7%A7%B0%E4%B8%89%E5%88%86%E5%A4%B1%E5%87%86%E5%AF%BC%E8%87%B4%E8%BE%93%E7%90%83&sa=fyb_news"
-      },
-      "raw_titles": [
-        "郭士强称三分失准导致输球"
-      ],
-      "rank": 17,
       "sports_rank": 10
     },
     {
-      "title": "中国男篮三分30中5 命中率仅16.7%",
-      "category": "体育",
+      "title": "宝妈减重近100斤后撞脸王祖贤",
+      "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 54000,
+      "hot_value": 198000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%89%E5%88%8630%E4%B8%AD5+%E5%91%BD%E4%B8%AD%E7%8E%87%E4%BB%8516.7%25&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%AE%9D%E5%A6%88%E5%87%8F%E9%87%8D%E8%BF%91100%E6%96%A4%E5%90%8E%E6%92%9E%E8%84%B8%E7%8E%8B%E7%A5%96%E8%B4%A4&sa=fyb_news"
       },
       "raw_titles": [
-        "中国男篮三分30中5 命中率仅16.7%"
+        "宝妈减重近100斤后撞脸王祖贤"
+      ],
+      "rank": 16,
+      "movie_rank": 6
+    },
+    {
+      "title": "AI大肥鱼改编周深代表作",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 161925,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
+      },
+      "raw_titles": [
+        "AI大肥鱼改编周深代表作"
+      ],
+      "rank": 17,
+      "movie_rank": 7
+    },
+    {
+      "title": "管泽元对话BLG深扒夺冠幕后",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 143097,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E8%AF%9DBLG%E6%B7%B1%E6%89%92%E5%A4%BA%E5%86%A0%E5%B9%95%E5%90%8E"
+      },
+      "raw_titles": [
+        "管泽元对话BLG深扒夺冠幕后"
       ],
       "rank": 18,
       "sports_rank": 11
@@ -311,15 +309,13 @@
       "sources": [
         "微博",
         "微博",
-        "微博",
-        "微博",
         "百度",
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 14227504,
+      "hot_value": 12690170,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%9B%9E%E5%BA%94U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
+        "微博": "https://s.weibo.com/weibo?q=%E8%91%A3%E8%B7%AF%E8%B0%88U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B38-0%E6%96%90%E6%B5%8E&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B38%3A0%E6%96%90%E6%B5%8E",
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B38%E7%90%83%E5%A4%A7%E8%83%9C%E6%96%90%E6%B5%8E%E5%90%8E%E5%87%BA%E7%BA%BF"
@@ -331,20 +327,52 @@
       "sports_rank": 1
     },
     {
+      "title": "詹姆斯创NBA历史最老三双纪录",
+      "category": "体育",
+      "sources": [
+        "抖音"
+      ],
+      "hot_value": 7641062,
+      "urls": {
+        "抖音": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%88%9BNBA%E5%8E%86%E5%8F%B2%E6%9C%80%E8%80%81%E4%B8%89%E5%8F%8C%E7%BA%AA%E5%BD%95"
+      },
+      "raw_titles": [
+        "詹姆斯创NBA历史最老三双纪录"
+      ],
+      "rank": 3,
+      "sports_rank": 2
+    },
+    {
       "title": "巴黎圣日耳曼2:2战平罗马",
       "category": "体育",
       "sources": [
         "抖音"
       ],
-      "hot_value": 7686414,
+      "hot_value": 7640298,
       "urls": {
         "抖音": "https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC2%3A2%E6%88%98%E5%B9%B3%E7%BD%97%E9%A9%AC"
       },
       "raw_titles": [
         "巴黎圣日耳曼2:2战平罗马"
       ],
-      "rank": 2,
-      "sports_rank": 2
+      "rank": 4,
+      "sports_rank": 3
+    },
+    {
+      "title": "退钱哥现场看国足U17出线",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 1876668,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E5%93%A5%E7%8E%B0%E5%9C%BA%E7%9C%8B%E5%9B%BD%E8%B6%B3U17%E5%87%BA%E7%BA%BF"
+      },
+      "raw_titles": [
+        "退钱哥现场看国足U17出线"
+      ],
+      "rank": 5,
+      "sports_rank": 4
     },
     {
       "title": "国字号男足时隔21年世界杯出线",
@@ -359,8 +387,8 @@
       "raw_titles": [
         "国字号男足时隔21年世界杯出线"
       ],
-      "rank": 4,
-      "sports_rank": 3
+      "rank": 7,
+      "sports_rank": 5
     },
     {
       "title": "U17国足创造历史",
@@ -368,31 +396,15 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 234000,
+      "hot_value": 387000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B3%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news"
       },
       "raw_titles": [
         "U17国足创造历史"
       ],
-      "rank": 7,
-      "sports_rank": 4
-    },
-    {
-      "title": "U17国少晋级世界杯淘汰赛",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 198000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E5%B0%91%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news"
-      },
-      "raw_titles": [
-        "U17国少晋级世界杯淘汰赛"
-      ],
       "rank": 9,
-      "sports_rank": 5
+      "sports_rank": 6
     },
     {
       "title": "41岁詹姆斯为何还能连续砍分",
@@ -400,31 +412,49 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 180935,
+      "hot_value": 342493,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=41%E5%B2%81%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BD%95%E8%BF%98%E8%83%BD%E8%BF%9E%E7%BB%AD%E7%A0%8D%E5%88%86"
       },
       "raw_titles": [
         "41岁詹姆斯为何还能连续砍分"
       ],
-      "rank": 11,
-      "sports_rank": 6
+      "rank": 10,
+      "sports_rank": 7
     },
     {
-      "title": "哈斯与贝尔曼续约至2027赛季",
+      "title": "赵松源展望U17世界杯淘汰赛",
       "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "微博",
+        "百度"
       ],
-      "hot_value": 146810,
+      "hot_value": 313507,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%93%88%E6%96%AF%E4%B8%8E%E8%B4%9D%E5%B0%94%E6%9B%BC%E7%BB%AD%E7%BA%A6%E8%87%B32027%E8%B5%9B%E5%AD%A3"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9D%BE%E6%BA%90%E5%B1%95%E6%9C%9BU17%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
+        "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E5%B0%91%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news"
       },
       "raw_titles": [
-        "哈斯与贝尔曼续约至2027赛季"
+        "赵松源展望U17世界杯淘汰赛"
+      ],
+      "rank": 11,
+      "sports_rank": 8
+    },
+    {
+      "title": "青稚两连FMVP",
+      "category": "体育",
+      "sources": [
+        "微博"
+      ],
+      "hot_value": 245919,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%B8%A4%E8%BF%9EFMVP"
+      },
+      "raw_titles": [
+        "青稚两连FMVP"
       ],
       "rank": 12,
-      "sports_rank": 7
+      "sports_rank": 9
     },
     {
       "title": "Angelababy雷霆高光",
@@ -432,60 +462,28 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 132113,
+      "hot_value": 199147,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=Angelababy%E9%9B%B7%E9%9C%86%E9%AB%98%E5%85%89"
       },
       "raw_titles": [
         "Angelababy雷霆高光"
       ],
-      "rank": 13,
-      "sports_rank": 8
-    },
-    {
-      "title": "U17国足vs斐济U17",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 107365,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3vs%E6%96%90%E6%B5%8EU17"
-      },
-      "raw_titles": [
-        "U17国足vs斐济U17"
-      ],
-      "rank": 16,
-      "sports_rank": 9
-    },
-    {
-      "title": "郭士强称三分失准导致输球",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E9%83%AD%E5%A3%AB%E5%BC%BA%E7%A7%B0%E4%B8%89%E5%88%86%E5%A4%B1%E5%87%86%E5%AF%BC%E8%87%B4%E8%BE%93%E7%90%83&sa=fyb_news"
-      },
-      "raw_titles": [
-        "郭士强称三分失准导致输球"
-      ],
-      "rank": 17,
+      "rank": 15,
       "sports_rank": 10
     },
     {
-      "title": "中国男篮三分30中5 命中率仅16.7%",
+      "title": "管泽元对话BLG深扒夺冠幕后",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 54000,
+      "hot_value": 143097,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%89%E5%88%8630%E4%B8%AD5+%E5%91%BD%E4%B8%AD%E7%8E%87%E4%BB%8516.7%25&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E8%AF%9DBLG%E6%B7%B1%E6%89%92%E5%A4%BA%E5%86%A0%E5%B9%95%E5%90%8E"
       },
       "raw_titles": [
-        "中国男篮三分30中5 命中率仅16.7%"
+        "管泽元对话BLG深扒夺冠幕后"
       ],
       "rank": 18,
       "sports_rank": 11
@@ -498,14 +496,14 @@
       "sources": [
         "抖音"
       ],
-      "hot_value": 7671391,
+      "hot_value": 7651439,
       "urls": {
         "抖音": "https://www.douyin.com/search/2026%E8%B4%BA%E5%B2%81%E6%A1%A3%E8%B6%8550%E9%83%A8%E5%BD%B1%E7%89%87%E5%AE%9A%E6%A1%A3"
       },
       "raw_titles": [
         "2026贺岁档超50部影片定档"
       ],
-      "rank": 3,
+      "rank": 2,
       "movie_rank": 1
     },
     {
@@ -514,32 +512,30 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 418686,
+      "hot_value": 552093,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9"
       },
       "raw_titles": [
         "中国男篮爆冷不敌沙特"
       ],
-      "rank": 5,
+      "rank": 6,
       "movie_rank": 2
     },
     {
-      "title": "宝妈减重近100斤后撞脸王祖贤",
+      "title": "今起电视开机广告没了",
       "category": "影视",
       "sources": [
-        "微博",
         "百度"
       ],
-      "hot_value": 413492,
+      "hot_value": 414000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E5%AE%9D%E5%A6%88%E5%87%8F%E9%87%8D%E8%BF%91100%E6%96%A4%E5%90%8E%E6%92%9E%E8%84%B8%E7%8E%8B%E7%A5%96%E8%B4%A4",
-        "百度": "https://m.baidu.com/s?word=%E5%AE%9D%E5%A6%88%E5%87%8F%E9%87%8D%E8%BF%91100%E6%96%A4%E5%90%8E%E6%92%9E%E8%84%B8%E7%8E%8B%E7%A5%96%E8%B4%A4&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
-        "宝妈减重近100斤后撞脸王祖贤"
+        "今起电视开机广告没了"
       ],
-      "rank": 6,
+      "rank": 8,
       "movie_rank": 3
     },
     {
@@ -548,14 +544,14 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 218416,
+      "hot_value": 243203,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%A7%A3%E5%AE%89%E5%85%A8%E5%B8%A6%E4%B8%8B%E8%BD%A6%E8%BF%99%E6%AE%B5"
       },
       "raw_titles": [
         "肖战解安全带下车这段"
       ],
-      "rank": 8,
+      "rank": 13,
       "movie_rank": 4
     },
     {
@@ -564,46 +560,46 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 188032,
+      "hot_value": 216597,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%BC%9A%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E5%8F%AB%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%88%86%E5%89%A7"
       },
       "raw_titles": [
         "肖战会告诉你什么叫真正的爆剧"
       ],
-      "rank": 10,
+      "rank": 14,
       "movie_rank": 5
     },
     {
-      "title": "檀健次新加坡机场人气",
+      "title": "宝妈减重近100斤后撞脸王祖贤",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 107417,
+      "hot_value": 198000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%9C%BA%E5%9C%BA%E4%BA%BA%E6%B0%94"
+        "百度": "https://m.baidu.com/s?word=%E5%AE%9D%E5%A6%88%E5%87%8F%E9%87%8D%E8%BF%91100%E6%96%A4%E5%90%8E%E6%92%9E%E8%84%B8%E7%8E%8B%E7%A5%96%E8%B4%A4&sa=fyb_news"
       },
       "raw_titles": [
-        "檀健次新加坡机场人气"
+        "宝妈减重近100斤后撞脸王祖贤"
       ],
-      "rank": 14,
+      "rank": 16,
       "movie_rank": 6
     },
     {
-      "title": "成毅两京十五日台网双开花",
+      "title": "AI大肥鱼改编周深代表作",
       "category": "影视",
       "sources": [
-        "微博"
+        "哔哩哔哩"
       ],
-      "hot_value": 107384,
+      "hot_value": 161925,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B0%E7%BD%91%E5%8F%8C%E5%BC%80%E8%8A%B1"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
       },
       "raw_titles": [
-        "成毅两京十五日台网双开花"
+        "AI大肥鱼改编周深代表作"
       ],
-      "rank": 15,
+      "rank": 17,
       "movie_rank": 7
     }
   ]
