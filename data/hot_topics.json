@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-27 10:00:53",
+  "update_time": "2026-11-27 11:00:56",
   "total": 15,
   "sports_count": 9,
   "movie_count": 6,
@@ -12,7 +12,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 11743585,
+      "hot_value": 11493335,
       "urls": {
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B38-0%E6%96%90%E6%B5%8E&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B38%3A0%E6%96%90%E6%B5%8E",
@@ -25,52 +25,73 @@
       "sports_rank": 1
     },
     {
-      "title": "中国男篮爆冷不敌沙特",
+      "title": "电视剧风生水起开播",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 480677,
+      "hot_value": 8328275,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9"
+        "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%A3%8E%E7%94%9F%E6%B0%B4%E8%B5%B7%E5%BC%80%E6%92%AD"
       },
       "raw_titles": [
-        "中国男篮爆冷不敌沙特"
+        "电视剧风生水起开播"
       ],
       "rank": 2,
       "movie_rank": 1
     },
     {
-      "title": "国字号男足时隔21年世界杯出线",
-      "category": "体育",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 450000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AD%97%E5%8F%B7%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9421%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF&sa=fyb_news"
-      },
-      "raw_titles": [
-        "国字号男足时隔21年世界杯出线"
-      ],
-      "rank": 3,
-      "sports_rank": 2
-    },
-    {
-      "title": "今起电视开机广告没了",
+      "title": "今起电视不得播放开机广告",
       "category": "影视",
       "sources": [
+        "微博",
+        "微博",
         "百度"
       ],
-      "hot_value": 441000,
+      "hot_value": 950298,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86",
         "百度": "https://m.baidu.com/s?word=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
-        "今起电视开机广告没了"
+        "今起电视不得播放开机广告"
+      ],
+      "rank": 3,
+      "movie_rank": 2
+    },
+    {
+      "title": "字母哥和詹姆斯谁实力更强",
+      "category": "体育",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 412125,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AD%97%E6%AF%8D%E5%93%A5%E5%92%8C%E8%A9%B9%E5%A7%86%E6%96%AF%E8%B0%81%E5%AE%9E%E5%8A%9B%E6%9B%B4%E5%BC%BA"
+      },
+      "raw_titles": [
+        "字母哥和詹姆斯谁实力更强"
       ],
       "rank": 4,
-      "movie_rank": 2
+      "sports_rank": 2
+    },
+    {
+      "title": "赵昭仪曝被导演开黄腔",
+      "category": "影视",
+      "sources": [
+        "微博",
+        "百度"
+      ],
+      "hot_value": 410003,
+      "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%9B%9D%E8%A2%AB%E5%AF%BC%E6%BC%94%E5%BC%80%E9%BB%84%E8%85%94",
+        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%9B%9D%E5%BD%93%E4%BC%97%E8%A2%AB%E5%AF%BC%E6%BC%94%E5%BC%80%E9%BB%84%E8%85%94&sa=fyb_news"
+      },
+      "raw_titles": [
+        "赵昭仪曝被导演开黄腔"
+      ],
+      "rank": 5,
+      "movie_rank": 3
     },
     {
       "title": "41岁詹姆斯为何还能连续砍分",
@@ -78,15 +99,31 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 411290,
+      "hot_value": 409361,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=41%E5%B2%81%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BD%95%E8%BF%98%E8%83%BD%E8%BF%9E%E7%BB%AD%E7%A0%8D%E5%88%86"
       },
       "raw_titles": [
         "41岁詹姆斯为何还能连续砍分"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 3
+    },
+    {
+      "title": "中国男篮爆冷不敌沙特",
+      "category": "影视",
+      "sources": [
+        "哔哩哔哩"
+      ],
+      "hot_value": 387404,
+      "urls": {
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9"
+      },
+      "raw_titles": [
+        "中国男篮爆冷不敌沙特"
+      ],
+      "rank": 7,
+      "movie_rank": 4
     },
     {
       "title": "退钱哥现场看国足U17出线",
@@ -94,14 +131,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 410766,
+      "hot_value": 372796,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E5%93%A5%E7%8E%B0%E5%9C%BA%E7%9C%8B%E5%9B%BD%E8%B6%B3U17%E5%87%BA%E7%BA%BF"
       },
       "raw_titles": [
         "退钱哥现场看国足U17出线"
       ],
-      "rank": 6,
+      "rank": 8,
       "sports_rank": 4
     },
     {
@@ -110,31 +147,31 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 387000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B3%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news"
       },
       "raw_titles": [
         "U17国足创造历史"
       ],
-      "rank": 7,
+      "rank": 9,
       "sports_rank": 5
     },
     {
-      "title": "赵昭仪曝被导演开黄腔",
+      "title": "豆瓣评分8.0热播剧被指抄袭韩剧",
       "category": "影视",
       "sources": [
-        "微博"
+        "百度"
       ],
-      "hot_value": 303769,
+      "hot_value": 216000,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%9B%9D%E8%A2%AB%E5%AF%BC%E6%BC%94%E5%BC%80%E9%BB%84%E8%85%94"
+        "百度": "https://m.baidu.com/s?word=%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%868.0%E7%83%AD%E6%92%AD%E5%89%A7%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E9%9F%A9%E5%89%A7&sa=fyb_news"
       },
       "raw_titles": [
-        "赵昭仪曝被导演开黄腔"
+        "豆瓣评分8.0热播剧被指抄袭韩剧"
       ],
-      "rank": 8,
-      "movie_rank": 3
+      "rank": 10,
+      "movie_rank": 5
     },
     {
       "title": "青稚两连FMVP",
@@ -142,31 +179,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 302864,
+      "hot_value": 173121,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%B8%A4%E8%BF%9EFMVP"
       },
       "raw_titles": [
         "青稚两连FMVP"
       ],
-      "rank": 9,
+      "rank": 11,
       "sports_rank": 6
     },
     {
-      "title": "AI大肥鱼改编周深代表作",
-      "category": "影视",
+      "title": "三分投不进 防也防不住吗",
+      "category": "体育",
       "sources": [
-        "哔哩哔哩"
+        "百度"
       ],
-      "hot_value": 271345,
+      "hot_value": 162000,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
+        "百度": "https://m.baidu.com/s?word=%E4%B8%89%E5%88%86%E6%8A%95%E4%B8%8D%E8%BF%9B+%E9%98%B2%E4%B9%9F%E9%98%B2%E4%B8%8D%E4%BD%8F%E5%90%97&sa=fyb_news"
       },
       "raw_titles": [
-        "AI大肥鱼改编周深代表作"
+        "三分投不进 防也防不住吗"
       ],
-      "rank": 10,
-      "movie_rank": 4
+      "rank": 12,
+      "sports_rank": 7
     },
     {
       "title": "U17国足有望锁定第26顺位",
@@ -174,79 +211,47 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 233922,
+      "hot_value": 157554,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E6%9C%89%E6%9C%9B%E9%94%81%E5%AE%9A%E7%AC%AC26%E9%A1%BA%E4%BD%8D"
       },
       "raw_titles": [
         "U17国足有望锁定第26顺位"
       ],
-      "rank": 11,
-      "sports_rank": 7
-    },
-    {
-      "title": "肖战解安全带下车这段",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 183841,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%A7%A3%E5%AE%89%E5%85%A8%E5%B8%A6%E4%B8%8B%E8%BD%A6%E8%BF%99%E6%AE%B5"
-      },
-      "raw_titles": [
-        "肖战解安全带下车这段"
-      ],
-      "rank": 12,
-      "movie_rank": 5
-    },
-    {
-      "title": "Angelababy雷霆高光",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 145025,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=Angelababy%E9%9B%B7%E9%9C%86%E9%AB%98%E5%85%89"
-      },
-      "raw_titles": [
-        "Angelababy雷霆高光"
-      ],
       "rank": 13,
       "sports_rank": 8
     },
     {
-      "title": "宝妈减重近100斤后撞脸王祖贤",
-      "category": "影视",
-      "sources": [
-        "百度"
-      ],
-      "hot_value": 81000,
-      "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AE%9D%E5%A6%88%E5%87%8F%E9%87%8D%E8%BF%91100%E6%96%A4%E5%90%8E%E6%92%9E%E8%84%B8%E7%8E%8B%E7%A5%96%E8%B4%A4&sa=fyb_news"
-      },
-      "raw_titles": [
-        "宝妈减重近100斤后撞脸王祖贤"
-      ],
-      "rank": 14,
-      "movie_rank": 6
-    },
-    {
-      "title": "U17国少晋级世界杯淘汰赛",
+      "title": "国字号男足时隔21年世界杯出线",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 45000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E5%B0%91%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AD%97%E5%8F%B7%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9421%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF&sa=fyb_news"
       },
       "raw_titles": [
-        "U17国少晋级世界杯淘汰赛"
+        "国字号男足时隔21年世界杯出线"
+      ],
+      "rank": 14,
+      "sports_rank": 9
+    },
+    {
+      "title": "诗词大赛《华为前董事长孙亚芳颂》获奖",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%AF%97%E8%AF%8D%E5%A4%A7%E8%B5%9B%E3%80%8A%E5%8D%8E%E4%B8%BA%E5%89%8D%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AD%99%E4%BA%9A%E8%8A%B3%E9%A2%82%E3%80%8B%E8%8E%B7%E5%A5%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "诗词大赛《华为前董事长孙亚芳颂》获奖"
       ],
       "rank": 15,
-      "sports_rank": 9
+      "movie_rank": 6
     }
   ],
   "sports": [
@@ -258,7 +263,7 @@
         "抖音",
         "哔哩哔哩"
       ],
-      "hot_value": 11743585,
+      "hot_value": 11493335,
       "urls": {
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B38-0%E6%96%90%E6%B5%8E&sa=fyb_news",
         "抖音": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B38%3A0%E6%96%90%E6%B5%8E",
@@ -271,19 +276,19 @@
       "sports_rank": 1
     },
     {
-      "title": "国字号男足时隔21年世界杯出线",
+      "title": "字母哥和詹姆斯谁实力更强",
       "category": "体育",
       "sources": [
-        "百度"
+        "哔哩哔哩"
       ],
-      "hot_value": 450000,
+      "hot_value": 412125,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AD%97%E5%8F%B7%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9421%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF&sa=fyb_news"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E5%AD%97%E6%AF%8D%E5%93%A5%E5%92%8C%E8%A9%B9%E5%A7%86%E6%96%AF%E8%B0%81%E5%AE%9E%E5%8A%9B%E6%9B%B4%E5%BC%BA"
       },
       "raw_titles": [
-        "国字号男足时隔21年世界杯出线"
+        "字母哥和詹姆斯谁实力更强"
       ],
-      "rank": 3,
+      "rank": 4,
       "sports_rank": 2
     },
     {
@@ -292,14 +297,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 411290,
+      "hot_value": 409361,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=41%E5%B2%81%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BD%95%E8%BF%98%E8%83%BD%E8%BF%9E%E7%BB%AD%E7%A0%8D%E5%88%86"
       },
       "raw_titles": [
         "41岁詹姆斯为何还能连续砍分"
       ],
-      "rank": 5,
+      "rank": 6,
       "sports_rank": 3
     },
     {
@@ -308,14 +313,14 @@
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 410766,
+      "hot_value": 372796,
       "urls": {
         "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E5%93%A5%E7%8E%B0%E5%9C%BA%E7%9C%8B%E5%9B%BD%E8%B6%B3U17%E5%87%BA%E7%BA%BF"
       },
       "raw_titles": [
         "退钱哥现场看国足U17出线"
       ],
-      "rank": 6,
+      "rank": 8,
       "sports_rank": 4
     },
     {
@@ -324,14 +329,14 @@
       "sources": [
         "百度"
       ],
-      "hot_value": 387000,
+      "hot_value": 243000,
       "urls": {
         "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B3%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news"
       },
       "raw_titles": [
         "U17国足创造历史"
       ],
-      "rank": 7,
+      "rank": 9,
       "sports_rank": 5
     },
     {
@@ -340,15 +345,31 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 302864,
+      "hot_value": 173121,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%B8%A4%E8%BF%9EFMVP"
       },
       "raw_titles": [
         "青稚两连FMVP"
       ],
-      "rank": 9,
+      "rank": 11,
       "sports_rank": 6
+    },
+    {
+      "title": "三分投不进 防也防不住吗",
+      "category": "体育",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 162000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E4%B8%89%E5%88%86%E6%8A%95%E4%B8%8D%E8%BF%9B+%E9%98%B2%E4%B9%9F%E9%98%B2%E4%B8%8D%E4%BD%8F%E5%90%97&sa=fyb_news"
+      },
+      "raw_titles": [
+        "三分投不进 防也防不住吗"
+      ],
+      "rank": 12,
+      "sports_rank": 7
     },
     {
       "title": "U17国足有望锁定第26顺位",
@@ -356,144 +377,133 @@
       "sources": [
         "微博"
       ],
-      "hot_value": 233922,
+      "hot_value": 157554,
       "urls": {
         "微博": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E6%9C%89%E6%9C%9B%E9%94%81%E5%AE%9A%E7%AC%AC26%E9%A1%BA%E4%BD%8D"
       },
       "raw_titles": [
         "U17国足有望锁定第26顺位"
       ],
-      "rank": 11,
-      "sports_rank": 7
-    },
-    {
-      "title": "Angelababy雷霆高光",
-      "category": "体育",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 145025,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=Angelababy%E9%9B%B7%E9%9C%86%E9%AB%98%E5%85%89"
-      },
-      "raw_titles": [
-        "Angelababy雷霆高光"
-      ],
       "rank": 13,
       "sports_rank": 8
     },
     {
-      "title": "U17国少晋级世界杯淘汰赛",
+      "title": "国字号男足时隔21年世界杯出线",
       "category": "体育",
       "sources": [
         "百度"
       ],
-      "hot_value": 72000,
+      "hot_value": 45000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=U17%E5%9B%BD%E5%B0%91%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AD%97%E5%8F%B7%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9421%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF&sa=fyb_news"
       },
       "raw_titles": [
-        "U17国少晋级世界杯淘汰赛"
+        "国字号男足时隔21年世界杯出线"
       ],
-      "rank": 15,
+      "rank": 14,
       "sports_rank": 9
     }
   ],
   "movies": [
     {
-      "title": "中国男篮爆冷不敌沙特",
+      "title": "电视剧风生水起开播",
       "category": "影视",
       "sources": [
-        "哔哩哔哩"
+        "抖音"
       ],
-      "hot_value": 480677,
+      "hot_value": 8328275,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9"
+        "抖音": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%A3%8E%E7%94%9F%E6%B0%B4%E8%B5%B7%E5%BC%80%E6%92%AD"
       },
       "raw_titles": [
-        "中国男篮爆冷不敌沙特"
+        "电视剧风生水起开播"
       ],
       "rank": 2,
       "movie_rank": 1
     },
     {
-      "title": "今起电视开机广告没了",
+      "title": "今起电视不得播放开机广告",
       "category": "影视",
       "sources": [
+        "微博",
+        "微博",
         "百度"
       ],
-      "hot_value": 441000,
+      "hot_value": 950298,
       "urls": {
+        "微博": "https://s.weibo.com/weibo?q=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86",
         "百度": "https://m.baidu.com/s?word=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86&sa=fyb_news"
       },
       "raw_titles": [
-        "今起电视开机广告没了"
+        "今起电视不得播放开机广告"
       ],
-      "rank": 4,
+      "rank": 3,
       "movie_rank": 2
     },
     {
       "title": "赵昭仪曝被导演开黄腔",
       "category": "影视",
       "sources": [
-        "微博"
+        "微博",
+        "百度"
       ],
-      "hot_value": 303769,
+      "hot_value": 410003,
       "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%9B%9D%E8%A2%AB%E5%AF%BC%E6%BC%94%E5%BC%80%E9%BB%84%E8%85%94"
+        "微博": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%9B%9D%E8%A2%AB%E5%AF%BC%E6%BC%94%E5%BC%80%E9%BB%84%E8%85%94",
+        "百度": "https://m.baidu.com/s?word=%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%9B%9D%E5%BD%93%E4%BC%97%E8%A2%AB%E5%AF%BC%E6%BC%94%E5%BC%80%E9%BB%84%E8%85%94&sa=fyb_news"
       },
       "raw_titles": [
         "赵昭仪曝被导演开黄腔"
       ],
-      "rank": 8,
+      "rank": 5,
       "movie_rank": 3
     },
     {
-      "title": "AI大肥鱼改编周深代表作",
+      "title": "中国男篮爆冷不敌沙特",
       "category": "影视",
       "sources": [
         "哔哩哔哩"
       ],
-      "hot_value": 271345,
+      "hot_value": 387404,
       "urls": {
-        "哔哩哔哩": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%94%B9%E7%BC%96%E5%91%A8%E6%B7%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C"
+        "哔哩哔哩": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9"
       },
       "raw_titles": [
-        "AI大肥鱼改编周深代表作"
+        "中国男篮爆冷不敌沙特"
       ],
-      "rank": 10,
+      "rank": 7,
       "movie_rank": 4
     },
     {
-      "title": "肖战解安全带下车这段",
-      "category": "影视",
-      "sources": [
-        "微博"
-      ],
-      "hot_value": 183841,
-      "urls": {
-        "微博": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%A7%A3%E5%AE%89%E5%85%A8%E5%B8%A6%E4%B8%8B%E8%BD%A6%E8%BF%99%E6%AE%B5"
-      },
-      "raw_titles": [
-        "肖战解安全带下车这段"
-      ],
-      "rank": 12,
-      "movie_rank": 5
-    },
-    {
-      "title": "宝妈减重近100斤后撞脸王祖贤",
+      "title": "豆瓣评分8.0热播剧被指抄袭韩剧",
       "category": "影视",
       "sources": [
         "百度"
       ],
-      "hot_value": 81000,
+      "hot_value": 216000,
       "urls": {
-        "百度": "https://m.baidu.com/s?word=%E5%AE%9D%E5%A6%88%E5%87%8F%E9%87%8D%E8%BF%91100%E6%96%A4%E5%90%8E%E6%92%9E%E8%84%B8%E7%8E%8B%E7%A5%96%E8%B4%A4&sa=fyb_news"
+        "百度": "https://m.baidu.com/s?word=%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%868.0%E7%83%AD%E6%92%AD%E5%89%A7%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E9%9F%A9%E5%89%A7&sa=fyb_news"
       },
       "raw_titles": [
-        "宝妈减重近100斤后撞脸王祖贤"
+        "豆瓣评分8.0热播剧被指抄袭韩剧"
       ],
-      "rank": 14,
+      "rank": 10,
+      "movie_rank": 5
+    },
+    {
+      "title": "诗词大赛《华为前董事长孙亚芳颂》获奖",
+      "category": "影视",
+      "sources": [
+        "百度"
+      ],
+      "hot_value": 18000,
+      "urls": {
+        "百度": "https://m.baidu.com/s?word=%E8%AF%97%E8%AF%8D%E5%A4%A7%E8%B5%9B%E3%80%8A%E5%8D%8E%E4%B8%BA%E5%89%8D%E8%91%A3%E4%BA%8B%E9%95%BF%E5%AD%99%E4%BA%9A%E8%8A%B3%E9%A2%82%E3%80%8B%E8%8E%B7%E5%A5%96&sa=fyb_news"
+      },
+      "raw_titles": [
+        "诗词大赛《华为前董事长孙亚芳颂》获奖"
+      ],
+      "rank": 15,
       "movie_rank": 6
     }
   ]
